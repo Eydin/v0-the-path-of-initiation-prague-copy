@@ -66,9 +66,14 @@ export default function RootLayout({
         "logo": "https://www.thepathofinitiationprague.com/logo.png",
         "address": {
           "@type": "PostalAddress",
+          "streetAddress": "Ve Smečkách 22, Nové Město",
+          "postalCode": "110 00",
           "addressLocality": "Prague",
           "addressCountry": "CZ"
         },
+        "whatsappNumber": "+420 792 908 296",
+        "telephone": "+420 792 908 296",
+        "email": "info@thepathofinitiationprague.com",
         "description": "A dedicated training program and mystery school path in Prague focused on spiritual knowledge, divine purpose, and healing.",
         "parentOrganization": {
           "@type": "Organization",
@@ -101,6 +106,32 @@ export default function RootLayout({
           {
             "@type": "Syllabus",
             "name": "Healing Modalities and Service"
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "name": "Empower Thyself",
+        "description": "First level of Initiation focused on awakening the inner power, understanding the self, and beginning the journey of transformation.",
+        "duration": "2 days in person, followed by weekly follow-up sessions for 3 months",
+        "when": "April 18th-19th, 2026",
+        "provider": {
+          "@type": "Person",
+          "@id": "https://www.thepathofinitiationprague.com/#radu-coman"
+        },
+        "educationalCredentialAwarded": "Certified Initiate",
+        "syllabusSections": [
+          {
+            "@type": "Syllabus",
+            "name": "Spiritual Knowledge and Understanding"
+          },
+          {
+            "@type": "Syllabus",
+            "name": "Awakening Practical Magic"
+          },
+          {
+            "@type": "Syllabus",
+            "name": "Soul Development and Higher Purpose"
           }
         ]
       }
