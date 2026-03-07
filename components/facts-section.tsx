@@ -25,17 +25,17 @@ const testimonials = [
   {
     quote:
       "This path has completely transformed the way I see myself and the world. I have found a sense of purpose I never knew was possible.",
-    author: "Student Testimonial",
+    author: "Anna from Brazil",
   },
   {
     quote:
       "The teachings are profound, practical, and deeply empowering. I am grateful every day that I found this lineage.",
-    author: "Student Testimonial",
+    author: "Michael from the USA",
   },
   {
     quote:
       "I came seeking answers and found a whole new dimension of life. The tools I received are beyond anything I imagined.",
-    author: "Student Testimonial",
+    author: "Sophie from Canada",
   },
 ]
 
@@ -46,9 +46,6 @@ export function FactsSection() {
       <div className="relative z-10 mx-auto max-w-7xl px-6">
         <ScrollReveal>
           <div className="mb-16 text-center">
-            <p className="mb-3 font-serif text-sm tracking-[0.3em] text-primary uppercase">
-              Proof in the Numbers
-            </p>
             <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
               A Legacy That Speaks for Itself
             </h2>
@@ -75,17 +72,17 @@ export function FactsSection() {
         <ScrollReveal>
           <div className="mb-20">
             <h3 className="mb-8 text-center font-serif text-2xl tracking-wide text-foreground">
-              Witness the Transformation
+              Follow the Journey of Our Students
             </h3>
             <div className="grid gap-8 md:grid-cols-2">
               <div className="aspect-video border border-border bg-card">
                 <div className="flex h-full items-center justify-center text-muted-foreground">
-                  <p className="text-sm tracking-wide">YouTube Video Embed 1</p>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/D9ZjXcB7F8M?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen" allowFullScreen></iframe>
                 </div>
               </div>
               <div className="aspect-video border border-border bg-card">
                 <div className="flex h-full items-center justify-center text-muted-foreground">
-                  <p className="text-sm tracking-wide">YouTube Video Embed 2</p>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/6ExvXGtInoc?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv&index=10" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen" allowFullScreen></iframe>
                 </div>
               </div>
             </div>

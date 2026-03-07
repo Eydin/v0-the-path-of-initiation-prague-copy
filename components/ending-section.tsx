@@ -23,7 +23,7 @@ export function EndingSection() {
           <ScrollReveal delay={0} direction="left">
             <div className="group relative aspect-[4/3] overflow-hidden border border-border">
               <Image
-                src="/images/ancient-temples.jpg"
+                src="/images/Temple.webp"
                 alt="Ancient magicians, priests, and temples representing the roots of the mystery school tradition"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
@@ -43,7 +43,7 @@ export function EndingSection() {
           <ScrollReveal delay={0.15} direction="up">
             <div className="group relative aspect-[4/3] overflow-hidden border border-primary/50">
               <Image
-                src="/images/galactic-beings.jpg"
+                src="/images/galaxy.webp"
                 alt="Advanced extraterrestrial beings of light representing universal galactic science"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
@@ -63,7 +63,7 @@ export function EndingSection() {
           <ScrollReveal delay={0.3} direction="right">
             <div className="group relative aspect-[4/3] overflow-hidden border border-border">
               <Image
-                src="/images/modern-initiate.jpg"
+                src="/images/modern-initiate-2.png"
                 alt="Modern men and women empowered by the mystery school teachings"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"

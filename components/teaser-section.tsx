@@ -47,7 +47,7 @@ export function TeaserSection() {
             <ul className="flex flex-col gap-3 text-left text-sm text-muted-foreground">
               <li className="flex items-start gap-3">
                 <span className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full bg-primary" />
-                Months of disciplined, progressive study
+                An open mind and a willingness to challenge your current assumptions
               </li>
               <li className="flex items-start gap-3">
                 <span className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full bg-primary" />
@@ -59,7 +59,7 @@ export function TeaserSection() {
               </li>
               <li className="flex items-start gap-3">
                 <span className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full bg-primary" />
-                Willingness to serve and uplift others
+                Willingness to serve and uplift yourself and others
               </li>
             </ul>
           </div>

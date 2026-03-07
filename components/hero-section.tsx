@@ -50,10 +50,10 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 0.6, ease: [0.25, 0.4, 0.25, 1] }}
           className="mx-auto mb-12 max-w-2xl text-lg leading-relaxed text-muted-foreground"
         >
-          For millennia, this sacred lineage was guarded in silence. The great
-          masters of history &mdash; Leonardo da Vinci, Nikola Tesla, Isaac Newton
-          &mdash; walked this very path to bridge the physical and spiritual
-          worlds. The mystery schools were hidden, nearly impossible to find, and
+          For millennia, this sacred lineage was guarded in silence. 
+          Recognizable figures &mdash; Leonardo da Vinci, Nikola Tesla, Isaac Newton
+          &mdash; might have walked this very path to understand the physical and spiritual
+          worlds, but the mystery schools themselves were hidden, nearly impossible to find, and
           would not accept just anyone into their sacred halls.
         </motion.p>
 
@@ -63,12 +63,16 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 0.8, ease: [0.25, 0.4, 0.25, 1] }}
           className="mx-auto mb-12 max-w-2xl text-lg leading-relaxed text-foreground"
         >
-          Today, for the first time in recorded history, the doors of the mystery
-          school are open to the public. You are privileged to live in an era
-          where{" "}
+          Today though, the doors of one mystery school are open to the public.
+          We are privileged to live in an era where{" "}
           <span className="text-primary font-serif italic">anyone</span> who
           feels the call can choose to study the mysteries and awaken to their
-          true potential.
+          true potential. This is a school where {" "}
+          <span className="text-primary font-serif italic">magick</span> is a
+          core part of existence, where the {" "}
+          <span className="text-primary font-serif italic">soul</span> is developed and healed, 
+          and where the {" "}
+          <span className="text-primary font-serif italic">divine purpose</span> of each person is discovered and fulfilled.
         </motion.p>
 
         <motion.div

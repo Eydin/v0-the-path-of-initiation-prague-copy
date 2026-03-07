@@ -23,7 +23,7 @@ export function GuideSection() {
           <ScrollReveal direction="left">
             <div className="relative mx-auto aspect-[3/4] w-full max-w-md overflow-hidden border border-border">
               <Image
-                src="/images/radu-placeholder.jpg"
+                src="/images/radu2.jpg"
                 alt="Radu Coman - Guide and Teacher"
                 fill
                 className="object-cover"
@@ -34,18 +34,24 @@ export function GuideSection() {
           <ScrollReveal direction="right">
             <div className="flex flex-col gap-6">
               <p className="text-lg leading-relaxed text-muted-foreground">
-                Radu Coman is a certified Guide and Teacher within the lineage of
-                the Modern Mystery School. With years of dedicated training and a
+                Radu Coman is a Guide and Teacher in the lineage of King Salomon,
+                certified by the Modern Mystery School. With years of dedicated training and a
                 deep passion for empowering others, Radu has made it his mission
                 to bring the ancient teachings to the heart of Europe.
               </p>
               <p className="leading-relaxed text-muted-foreground">
                 Having previously served the community through his work at{" "}
-                <span className="text-foreground">
+                <a
+                  href="https://universitateapentrusuflet.ro/en"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-foreground hover:text-primary transition-colors underline"
+                >
                   universitateapentrusuflet.ro
-                </span>
-                , Radu has now established this focused, Prague-based initiation
-                path to provide a more intimate and intensive experience for those
+                </a>
+                , Radu has now transitioned to serving the people in the area of Prague by 
+                making the path of initiation available to those in the region. He is providing
+                an immersive experience for those
                 who are truly ready for transformation.
               </p>
               <p className="leading-relaxed text-muted-foreground">
@@ -55,7 +61,7 @@ export function GuideSection() {
               </p>
               <div className="mt-4 h-px w-16 bg-primary/40" />
               <p className="font-serif text-sm tracking-wide text-primary italic">
-                {`"My purpose is to guide you home — to the truth of who you really are."`}
+                {`"My purpose is to guide you home and help you express your truest self."`}
               </p>
             </div>
           </ScrollReveal>
