@@ -23,7 +23,7 @@ export function EndingSection() {
           <ScrollReveal delay={0} direction="left">
             <div className="group relative aspect-[4/3] overflow-hidden border border-border">
               <Image
-                src="/images/Temple.webp"
+                src="/images/hermes.webp"
                 alt="Ancient magicians, priests, and temples representing the roots of the mystery school tradition"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"

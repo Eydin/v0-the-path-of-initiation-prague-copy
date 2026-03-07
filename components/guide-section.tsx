@@ -23,7 +23,7 @@ export function GuideSection() {
           <ScrollReveal direction="left">
             <div className="relative mx-auto aspect-[3/4] w-full max-w-md overflow-hidden border border-border">
               <Image
-                src="/images/radu2.jpg"
+                src="/images/Radu2.jpg"
                 alt="Radu Coman - Guide and Teacher"
                 fill
                 className="object-cover"
