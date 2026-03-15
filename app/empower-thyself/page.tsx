@@ -30,42 +30,44 @@ export default function EmpowerThyself() {
                 </h2>
               </motion.div>
 
-              <motion.div
-                initial={{ opacity: 0, scale: 0.95 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ duration: 0.8, delay: 0.2 }}
-                className="bg-muted border border-border/40 p-8 rounded-lg mb-12"
-              >
-                <h3 className="text-2xl font-serif tracking-wide text-foreground mb-6">
-                  If you could be like God — filled with love, harmony, and creative power — would you say "yes"?
-                </h3>
-                <div className="space-y-4 text-left text-lg text-muted-foreground">
-                  <p>This initiation will expand the horizon of what you believe is possible. It awakens new potentials and challenges us to release old dogmas and paradigms.</p>
-                  <p>Over the course of these two days, you will receive keys that unlock the potential within your mind to embody your divine nature. We all carry this potential—it is already within you. Now is the time to bring it to the surface and make it the focus of your life.</p>
-                  <p>You will learn how to move beyond the negative ego that stands in your way and receive practical tools to support you in this process. The initiation will accelerate your transformation, helping you experience results faster and enjoy the journey of becoming your true self.</p>
-                  <p>You will be supported by an ancient lineage that stands behind you.<br/>Those who have walked this path before you are here to guide you with their wisdom and experience.<br/>Through their dedication, these teachings have been preserved in their purest form—kept safe so that we may benefit from them today.</p>
-                  <p className="font-semibold text-xl pt-4 text-foreground">Will you answer the call?</p>
-                  <a href="#inscriere-eveniment" className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition">
-                    Book Now →
-                  </a>
-                </div>
-              </motion.div>
+              <div className="grid md:grid-cols-2 gap-12 items-start">
+                <motion.div
+                  initial={{ opacity: 0, scale: 0.95 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  transition={{ duration: 0.8, delay: 0.2 }}
+                  className="bg-muted border border-border/40 p-8 rounded-lg mb-12"
+                >
+                  <h3 className="text-2xl font-serif tracking-wide text-foreground mb-6">
+                    If you could be like God — filled with love, harmony, and creative power — would you say "yes"?
+                  </h3>
+                  <div className="space-y-4 text-left text-lg text-muted-foreground">
+                    <p>This initiation will expand the horizon of what you believe is possible. It awakens new potentials and challenges us to release old dogmas and paradigms.</p>
+                    <p>Over the course of these two days, you will receive keys that unlock the potential within your mind to embody your divine nature. We all carry this potential—it is already within you. Now is the time to bring it to the surface and make it the focus of your life.</p>
+                    <p>You will learn how to move beyond the negative ego that stands in your way and receive practical tools to support you in this process. The initiation will accelerate your transformation, helping you experience results faster and enjoy the journey of becoming your true self.</p>
+                    <p>You will be supported by an ancient lineage that stands behind you.<br/>Those who have walked this path before you are here to guide you with their wisdom and experience.<br/>Through their dedication, these teachings have been preserved in their purest form—kept safe so that we may benefit from them today.</p>
+                    <p className="font-semibold text-xl pt-4 text-foreground">Will you answer the call?</p>
+                    <a href="#inscriere-eveniment" className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition">
+                      Book Now →
+                    </a>
+                  </div>
+                </motion.div>
 
-              {/* Hero Image */}
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.8, delay: 0.4 }}
-                className="relative w-full max-w-sm mx-auto h-[600px] rounded overflow-hidden border border-border"
-              >
-                <Image 
-                  src="/images/Key.jpg" 
-                  alt="A pair of hands handing out a magical key"
-                  fill
-                  className="object-cover"
-                  priority
-                />
-              </motion.div>
+                {/* Hero Image */}
+                <motion.div
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.8, delay: 0.4 }}
+                  className="relative w-full h-[940px] rounded overflow-hidden border border-border"
+                >
+                  <Image 
+                    src="/images/Key.jpg" 
+                    alt="A pair of hands handing out a magical key"
+                    fill
+                    className="object-cover"
+                    priority
+                  />
+                </motion.div>
+              </div>
             </div>
           </div>
         </header>
