@@ -12,7 +12,7 @@ export default function EmpowerThyself() {
       <Header />
       <main className="pt-20">
         {/* Hero Header */}
-        <header className="relative py-24 lg:py-32">
+        <header className="relative pt-24 lg:pt-32 pb-4 lg:pb-4">
           <div className="absolute inset-0 bg-muted/40" />
           <div className="relative z-10 mx-auto max-w-7xl px-6">
             <div className="text-center mb-16">
@@ -73,18 +73,29 @@ export default function EmpowerThyself() {
         </header>
 
         {/* Letter Section */}
-        <section className="relative py-24 lg:py-32">
+        <section className="relative pt-12 lg:pt-16 pb-24 lg:pb-32">
           <div className="mx-auto max-w-7xl px-6">
             <ScrollReveal>
-              <div className="max-w-4xl border-l-4 border-primary/40 pl-8 space-y-6 text-muted-foreground">
-                <p className="text-lg">Dear Seeker,</p>
-                <p className="text-lg">I speak to you now not only as a spiritual guide in an ancient Lineage of Light—but also as an engineer. I know, at first glance these two paths may seem like completely different worlds. But both have revealed to me the same profound truth: <span className="text-foreground font-semibold">there is a deeper design in everything that exists</span>.</p>
-                <p className="text-lg">In engineering, we study structure, energy, and systems.<br/>In this Sacred Lineage — passed down uninterrupted since the time of King Salomon — we study the structure of the soul, the flow of vital energy, and the systems that govern healing, purpose, and inner mastery.</p>
-                <p className="text-lg"><span className="text-foreground font-semibold">Empower Thyself</span> is not just a course. It is a precise, time-tested initiation into your own divine architecture. King Solomon gathered the wisest people and mystics of his time, testing every transformational tool to create a system that truly works—<em>for all people, across cultures and <span className="text-foreground font-semibold">centuries</span>.</em></p>
-                <p className="text-lg">This path does not ask you to believe blindly. It invites you to experience. To awaken the gifts encoded in your DNA. To release ancestral patterns that no longer serve you. To align your inner world with a higher intelligence—the divine plan of your soul.</p>
-                <p className="text-lg">If you feel that life has a deeper architecture… If you've always known, somewhere inside, that you are here for something more—even if you haven't yet been able to name it… Then this step may be your next beginning.</p>
-                <p className="text-lg">It would be an honor for me to guide you. From one seeker of truth to another, With clarity, structure, and soul.</p>
-                <p className="text-lg"><span className="text-foreground font-semibold">Your guide in the Lineage of Light</span> (and yes, also an engineer)<br/><span className="text-foreground font-semibold">Radu Coman</span></p>
+              <div className="max-w-4xl mx-auto">
+                {/* Letter Content */}
+                <div className="bg-muted/30 border border-primary/20 rounded-lg p-8 md:p-12 space-y-6 text-muted-foreground">
+                  <p className="text-lg italic text-foreground font-serif">Dear Seeker,</p>
+                  
+                  <p className="text-lg leading-relaxed">I speak to you now not only as a spiritual guide in an ancient Lineage of Light—but also as an engineer. I know, at first glance these two paths may seem like completely different worlds. But both have revealed to me the same profound truth: <span className="text-foreground font-semibold">there is a deeper design in everything that exists</span>.</p>
+                  
+                  <p className="text-lg leading-relaxed">In engineering, we study structure, energy, and systems.<br/>In this Sacred Lineage — passed down uninterrupted since the time of King Salomon — we study the structure of the soul, the flow of vital energy, and the systems that govern healing, purpose, and inner mastery.</p>
+                  
+                  <p className="text-lg leading-relaxed"><span className="text-foreground font-semibold">Empower Thyself</span> is not just a class. It is a precise, time-tested initiation into your own divine architecture. King Solomon gathered the wisest people and mystics of his time, testing every transformational tool to create a system that truly works—<em>for all people, across cultures and <span className="text-foreground font-semibold">centuries</span>.</em></p>
+                  
+                  <p className="text-lg leading-relaxed">This path does not ask you to believe blindly. It invites you to experience. To awaken the gifts encoded in your DNA. To release ancestral patterns that no longer serve you. To align your inner world with a higher intelligence—the divine plan of your soul.</p>
+                  
+                  <p className="text-lg leading-relaxed">If you feel that life has a deeper architecture… If you've always known, somewhere inside, that you are here for something more—even if you haven't yet been able to name it… Then this step may be your next beginning.</p>
+                  
+                  <div className="border-t border-primary/20 pt-8 mt-8">
+                    <p className="text-lg leading-relaxed">It would be an honor for me to guide you. From one seeker of truth to another, with clarity, structure, and soul.</p>
+                    <p className="text-lg mt-4"><span className="text-foreground font-semibold">Your guide in the Lineage of Light</span><br/><span className="text-foreground font-semibold">Radu Coman</span></p>
+                  </div>
+                </div>
               </div>
             </ScrollReveal>
           </div>
@@ -129,20 +140,47 @@ export default function EmpowerThyself() {
 
         {/* What will you do */}
         <section className="relative py-24 lg:py-32">
-          <div className="absolute inset-0 bg-muted/40" />
-          <div className="relative z-10 mx-auto max-w-7xl px-6">
+          <div className="mx-auto max-w-7xl px-6">
             <ScrollReveal>
-              <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12">
-                What will you do in the Empower Thyself program?
-              </h2>
-              <div className="max-w-4xl space-y-6 text-lg text-muted-foreground">
-                <p>This program is designed to help you realize that you have the power to create the life you truly desire. It empowers you to see where you might be holding yourself back and where you're settling for less than you deserve. But it doesn't stop there — this program also gives you the tools to change those parts of your life! After these two days, you'll be able to recognize the patterns and programs that shape your behavior, understand where they come from, and have the power to release them.</p>
-                <p>You will open pathways through which you can access more energy, new knowledge and fresh insights, empowering you to create a new life that brings you complete fulfillment.</p>
-                <p>This is a practical and interactive program, after which you will be confident that you understand exactly what you need to do next to continue your growth and transformation.</p>
-                <p className="text-foreground font-semibold">You will gain clarity and structure in your understanding of spirit and human nature, as well as clear insight into experiences you may have already encountered.</p>
-                <p>You will learn to recognize the unseen world, access it, and interact with it.</p>
-                <p>You will learn how to gather the power of your thoughts and use it to create good around you.</p>
-                <p>You will practice sacred rituals and participate in a sacred initiation ceremony.</p>
+              <div className="max-w-4xl mx-auto">
+                <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12 text-center">
+                  What will you do in the Empower Thyself program?
+                </h2>
+                
+                <div className="bg-muted/30 border border-primary/20 rounded-lg p-8 md:p-12 space-y-6">
+                  <p className="text-lg leading-relaxed text-muted-foreground">
+                    This program is designed to help you realize that you have the power to create the life you truly desire. It empowers you to see where you might be holding yourself back and where you're settling for less than you deserve. But it doesn't stop there — this program also gives you the tools to change those parts of your life! After these two days, you'll be able to recognize the patterns and programs that shape your behavior, understand where they come from, and have the power to release them.
+                  </p>
+                  
+                  <p className="text-lg leading-relaxed text-muted-foreground">
+                    You will open pathways through which you can access more energy, new knowledge and fresh insights, empowering you to create a new life that brings you complete fulfillment.
+                  </p>
+                  
+                  <p className="text-lg leading-relaxed text-muted-foreground">
+                    This is a practical and interactive program, after which you will be confident that you understand exactly what you need to do next to continue your growth and transformation.
+                  </p>
+                  
+                  <div className="border-t border-primary/20 pt-6 mt-6">
+                    <p className="text-lg leading-relaxed text-foreground font-semibold mb-6">
+                      You will gain clarity and structure in your understanding of spirit and human nature, as well as clear insight into experiences you may have already encountered.
+                    </p>
+                    
+                    <ul className="space-y-4 text-muted-foreground">
+                      <li className="flex gap-4">
+                        <span className="text-primary font-semibold flex-shrink-0">•</span>
+                        <span className="text-lg leading-relaxed">You will learn to recognize the unseen world, access it, and interact with it.</span>
+                      </li>
+                      <li className="flex gap-4">
+                        <span className="text-primary font-semibold flex-shrink-0">•</span>
+                        <span className="text-lg leading-relaxed">You will learn how to gather the power of your thoughts and use it to create good around you.</span>
+                      </li>
+                      <li className="flex gap-4">
+                        <span className="text-primary font-semibold flex-shrink-0">•</span>
+                        <span className="text-lg leading-relaxed">You will practice sacred rituals and participate in a sacred initiation ceremony.</span>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
               </div>
             </ScrollReveal>
           </div>
@@ -152,39 +190,46 @@ export default function EmpowerThyself() {
         <section className="relative py-24 lg:py-32">
           <div className="mx-auto max-w-7xl px-6">
             <ScrollReveal>
-              <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12">
-                What makes this program special?
-              </h2>
-              <p className="max-w-4xl text-xl text-foreground font-semibold">
-                We don't just teach you theory. There are many teachers who can talk to you about spirituality. We offer you authentic, powerful tools and teach you how to use them in your life. We give you the key to unlock these powers within yourself!
-              </p>
+              <div className="max-w-4xl mx-auto">
+                <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12 text-center">
+                  What makes this program special?
+                </h2>
+                <div className="bg-muted/30 border border-primary/20 rounded-lg p-8 md:p-12">
+                  <p className="text-xl text-foreground font-semibold leading-relaxed">
+                    We don't just teach you theory. There are many teachers who can talk to you about spirituality. We offer you authentic, powerful tools and teach you how to use them in your life. We give you the key to unlock these powers within yourself!
+                  </p>
+                </div>
+              </div>
             </ScrollReveal>
           </div>
         </section>
 
         {/* Curriculum List */}
         <section className="relative py-24 lg:py-32">
-          <div className="absolute inset-0 bg-muted/40" />
-          <div className="relative z-10 mx-auto max-w-7xl px-6">
+          <div className="mx-auto max-w-7xl px-6">
             <ScrollReveal>
-              <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12">
-                What will you learn in this program?
-              </h2>
-              <div className="max-w-4xl">
-                <ol className="list-decimal list-inside space-y-4 text-xl font-semibold text-foreground mb-12 ml-4">
-                  <li>How to answer the question <em>"Who am I?"</em></li>
-                  <li>What is an initiation, and why do we need it today?</li>
-                  <li>The role of King Solomon in this process</li>
-                  <li>The Human potential to be God</li>
-                  <li>The 12 Dimensions of the Earth and the 7 Spiritual Dimensions</li>
-                  <li>The Structure of the Hierarchy of Light</li>
-                  <li>Meditation and Brainwave Frequencies</li>
-                  <li>The Influence of the Ego on the True Self</li>
-                  <li>The Cycle of Human Processes</li>
-                  <li>The Energetic Structure of the Human Being</li>
-                  <li>Universal Kabbalah and the Tree of Life</li>
-                </ol>
-                <p className="text-lg text-muted-foreground">Throughout this program, you will receive teachings, practical exercises, and sacred rituals that you can use to elevate your life to the next level. All of these keys come from the lineage of King Salomon, passed down in an unbroken tradition for thousands of years.</p>
+              <div className="max-w-4xl mx-auto">
+                <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12 text-center">
+                  What will you learn in this program?
+                </h2>
+                <div className="bg-muted/30 border border-primary/20 rounded-lg p-8 md:p-12 space-y-6">
+                  <ol className="list-decimal list-inside space-y-4 text-lg font-semibold text-foreground ml-2">
+                    <li>How to answer the question <em>"Who am I?"</em></li>
+                    <li>What is an initiation, and why do we need it today?</li>
+                    <li>The role of King Solomon in this process</li>
+                    <li>The Human potential to be God</li>
+                    <li>The 12 Dimensions of the Earth and the 7 Spiritual Dimensions</li>
+                    <li>The Structure of the Hierarchy of Light</li>
+                    <li>Meditation and Brainwave Frequencies</li>
+                    <li>The Influence of the Ego on the True Self</li>
+                    <li>The Cycle of Human Processes</li>
+                    <li>The Energetic Structure of the Human Being</li>
+                    <li>Universal Kabbalah and the Tree of Life</li>
+                  </ol>
+                  <div className="border-t border-primary/20 pt-6">
+                    <p className="text-lg text-muted-foreground leading-relaxed">Throughout this program, you will receive teachings, practical exercises, and sacred rituals that you can use to elevate your life to the next level. All of these keys come from the lineage of King Salomon, passed down in an unbroken tradition for thousands of years.</p>
+                  </div>
+                </div>
               </div>
             </ScrollReveal>
           </div>
@@ -194,17 +239,19 @@ export default function EmpowerThyself() {
         <section className="relative py-24 lg:py-32">
           <div className="mx-auto max-w-7xl px-6">
             <ScrollReveal>
-              <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12">
-                What do you need to do?
-              </h2>
-              <div className="max-w-4xl">
-                <ol className="list-decimal list-inside space-y-4 text-lg text-muted-foreground ml-4">
-                  <li>Reach out to us to discover whether this program is the right fit for you at this moment in your journey.<br/><span className="ml-5">We're here to support you with clarity and guidance, every step of the way.</span></li>
-                  <li>Receive a Life Activation session from one of our certified practitioners.</li>
-                  <li>Make a deposit or pay the full amount to reserve your spot.</li>
-                  <li>Attend the two-day course and participate in the initiation ceremony.</li>
-                  <li>Start applying what you've learned and enjoy the results.</li>
-                </ol>
+              <div className="max-w-4xl mx-auto">
+                <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12 text-center">
+                  What do you need to do?
+                </h2>
+                <div className="bg-muted/30 border border-primary/20 rounded-lg p-8 md:p-12">
+                  <ol className="list-decimal list-inside space-y-4 text-lg text-muted-foreground ml-2">
+                    <li className="leading-relaxed">Reach out to us to discover whether this program is the right fit for you at this moment in your journey.<br/><span className="ml-5">We're here to support you with clarity and guidance, every step of the way.</span></li>
+                    <li className="leading-relaxed">Receive a Life Activation session from one of our certified practitioners.</li>
+                    <li className="leading-relaxed">Make a deposit or pay the full amount to reserve your spot.</li>
+                    <li className="leading-relaxed">Attend the two-day class and participate in the initiation ceremony.</li>
+                    <li className="leading-relaxed">Start applying what you've learned and enjoy the results.</li>
+                  </ol>
+                </div>
               </div>
             </ScrollReveal>
           </div>
@@ -212,17 +259,20 @@ export default function EmpowerThyself() {
 
         {/* Recommendations */}
         <section className="relative py-24 lg:py-32">
-          <div className="absolute inset-0 bg-muted/40" />
-          <div className="relative z-10 mx-auto max-w-7xl px-6">
+          <div className="mx-auto max-w-7xl px-6">
             <ScrollReveal>
-              <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12">
-                Recommendations
-              </h2>
-              <div className="max-w-4xl space-y-6 text-lg text-muted-foreground">
-                <p><span className="text-foreground font-semibold">Empower Thyself</span> is not just a class. It is the beginning of a profound journey and a lasting connection.</p>
-                <p>This initiation opens a gateway to a new understanding of life, as well as a safe space you can return to whenever you need clarity, support, or guidance.</p>
-                <p>We commit to supporting you not only throughout the program but also in the years ahead. Whether you have questions about applying the teachings in daily life, are going through a period of transformation, or simply feel ready to take the next step in your personal journey, we are here for you.</p>
-                <p>This relationship is built over time — with trust, respect, and a honest intention to support your growth, balance, and inner strength.</p>
+              <div className="max-w-4xl mx-auto">
+                <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-foreground mb-12 text-center">
+                  Recommendations
+                </h2>
+                <div className="bg-muted/30 border border-primary/20 rounded-lg p-8 md:p-12 space-y-6">
+                  <p className="text-lg leading-relaxed text-muted-foreground"><span className="text-foreground font-semibold">Empower Thyself</span> is not just a class. It is the beginning of a profound journey and a lasting connection.</p>
+                  <p className="text-lg leading-relaxed text-muted-foreground">This initiation opens a gateway to a new understanding of life, as well as a safe space you can return to whenever you need clarity, support, or guidance.</p>
+                  <p className="text-lg leading-relaxed text-muted-foreground">We commit to supporting you not only throughout the program but also in the years ahead. Whether you have questions about applying the teachings in daily life, are going through a period of transformation, or simply feel ready to take the next step in your personal journey, we are here for you.</p>
+                  <div className="border-t border-primary/20 pt-6">
+                    <p className="text-lg leading-relaxed text-muted-foreground">This relationship is built over time — with trust, respect, and a honest intention to support your growth, balance, and inner strength.</p>
+                  </div>
+                </div>
               </div>
             </ScrollReveal>
           </div>
