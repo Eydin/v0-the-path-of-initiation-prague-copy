@@ -9,18 +9,21 @@ const classes = [
     description:
       "Awaken your divine blueprint and ignite the full potential encoded within your DNA. This is the foundational session of the mystery school lineage.",
     tag: "Foundation",
+    link: "#apply"
   },
   {
     title: "Empower Thyself",
     description:
       "A 2-day initiation program where you receive the sacred tools and teachings to take command of your life and step onto the path as an Initiate.",
     tag: "Initiation",
+    link: "/empower-thyself"
   },
   {
     title: "Sacred Geometry",
     description:
       "Study the divine patterns that underpin all of creation. Learn to work with the fundamental building blocks of the universe.",
     tag: "Advanced Study",
+    link: "#apply"
   },
 ]
 
@@ -61,7 +64,7 @@ export function ClassesSection() {
                   {cls.description}
                 </p>
                 <a
-                  href="#apply"
+                  href={cls.link}
                   className="inline-flex items-center gap-2 text-sm tracking-wide text-primary transition-colors hover:text-gold-light"
                 >
                   Learn More
