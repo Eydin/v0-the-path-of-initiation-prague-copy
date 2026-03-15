@@ -46,7 +46,7 @@ export default function EmpowerThyself() {
                     <p>You will learn how to move beyond the negative ego that stands in your way and receive practical tools to support you in this process. The initiation will accelerate your transformation, helping you experience results faster and enjoy the journey of becoming your true self.</p>
                     <p>You will be supported by an ancient lineage that stands behind you.<br/>Those who have walked this path before you are here to guide you with their wisdom and experience.<br/>Through their dedication, these teachings have been preserved in their purest form—kept safe so that we may benefit from them today.</p>
                     <p className="font-semibold text-xl pt-4 text-foreground">Will you answer the call?</p>
-                    <a href="#inscriere-eveniment" className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition">
+                    <a href="https://buy.stripe.com/28E3co1rhgMC8R70xRg3606" className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition">
                       Book Now →
                     </a>
                   </div>
@@ -260,21 +260,21 @@ export default function EmpowerThyself() {
                     </div>
                     <div>
                       <h3 className="text-xl font-semibold text-foreground mb-2">Date</h3>
-                      <p className="text-muted-foreground">February 21st - 22nd</p>
+                      <p className="text-muted-foreground">April 25th - 26th</p>
                     </div>
                   </div>
                 </div>
 
                 <div className="text-center border-t border-border pt-12">
                   <h4 className="text-lg font-semibold text-foreground mb-8">After the payment is completed, we will contact you to finalize the appointment.</h4>
-                  <button className="px-10 py-4 bg-primary text-primary-foreground rounded border border-primary font-semibold text-lg hover:bg-primary/90 transition shadow-md">
-                    Book Now
-                  </button>
+                  <a href="https://buy.stripe.com/28E3co1rhgMC8R70xRg3606" className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition">
+                      Book Now
+                  </a>
                   
                   <ul className="mt-12 space-y-3 text-muted-foreground">
                     <li>Monday - Friday: 10:00 - 18:00</li>
                     <li><a href="tel:+420792908296" className="hover:text-primary transition">+420 792 908 296</a></li>
-                    <li><a href="mailto:info@universitateapentrusuflet.ro" className="hover:text-primary transition">info@universitateapentrusuflet.ro</a></li>
+                    <li><a href="mailto:info@thepathofinitiationprague.com" className="hover:text-primary transition">info@thepathofinitiationprague.com</a></li>
                   </ul>
                 </div>
               </div>
