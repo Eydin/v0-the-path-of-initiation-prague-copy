@@ -11,10 +11,8 @@ export default function EmpowerThyself() {
     <>
       <Header />
       <main className="pt-20 bg-[url('/images/empower-thyself-bg.jpg')] bg-fixed bg-cover">
-  <div className="absolute inset-0 bg-black/40" />
         {/* Hero Header */}
         <header className="relative pt-24 lg:pt-32 pb-4 lg:pb-4">
-          <div className="absolute inset-0 bg-muted/40" />
           <div className="relative z-10 mx-auto max-w-7xl px-6">
             <div className="text-center mb-16">
               <motion.div
