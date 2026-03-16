@@ -10,8 +10,8 @@ export default function EmpowerThyself() {
   return (
     <>
       <Header />
-      <main className="pt-20 bg-[url('/images/empower-thyself-bg.jpg')] bg-repeat">
-      <div className="absolute inset-0 bg-black/40" />
+      <main className="pt-20 bg-[url('/images/empower-thyself-bg-2.png')] bg-fixed bg-cover">
+  <div className="absolute inset-0 bg-black/40" />
         {/* Hero Header */}
         <header className="relative pt-24 lg:pt-32 pb-4 lg:pb-4">
           <div className="absolute inset-0 bg-muted/40" />
@@ -294,7 +294,7 @@ export default function EmpowerThyself() {
                   <div>
                     <h3 className="text-2xl font-semibold text-foreground mb-4">Cost: 1500 €</h3>
                     <p className="text-muted-foreground space-y-3 leading-relaxed">
-                      <span className="block">Includes the 2 day training and a complimentary Life Activation session (valued at €300) to prepare your energy system and connect you to your divine blueprint before the Initiation.</span>
+                      <span className="block">Includes the 2 day training and a complimentary Life Activation session (valued at €350) to prepare your energy system and connect you to your divine blueprint before the Initiation.</span>
                       <span className="block font-semibold text-foreground mt-4">Booking Process:</span>
                       <span className="block">A €500 deposit secures your place and allows us to schedule your Life Activation session.</span>
                       <span className="block">The remaining €1000 is due before the 2-day training and Initiation begins.</span>
