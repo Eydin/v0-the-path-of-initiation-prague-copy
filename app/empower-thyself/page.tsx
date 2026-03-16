@@ -10,7 +10,8 @@ export default function EmpowerThyself() {
   return (
     <>
       <Header />
-      <main className="pt-20">
+      <main className="pt-20 bg-[url('/images/empower-thyself-bg.jpg')] bg-repeat">
+      <div className="absolute inset-0 bg-black/40" />
         {/* Hero Header */}
         <header className="relative pt-24 lg:pt-32 pb-4 lg:pb-4">
           <div className="absolute inset-0 bg-muted/40" />
