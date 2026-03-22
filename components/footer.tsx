@@ -27,7 +27,7 @@ export function Footer() {
             className="mt-4 hover:opacity-80 transition"
           >
             <Image 
-              src="/images/certified-by-the-modern-mystery-school.png" 
+              src="/images/certified-by-mms-new.png" 
               alt="Certified by the Modern Mystery School"
               width={200}
               height={80}
