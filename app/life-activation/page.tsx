@@ -252,6 +252,7 @@ export default function LifeActivation() {
           </section>
 
           {/* Certifications Section */}
+          {/*TODO: UPDATE THE PICTURES*/}
           <section className="relative py-24 lg:py-32">
             <div className="mx-auto max-w-7xl px-6">
               <ScrollReveal>
