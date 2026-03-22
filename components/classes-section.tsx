@@ -9,7 +9,7 @@ const classes = [
     description:
       "Awaken your divine blueprint and ignite the full potential encoded within your DNA. This is the foundational session of the mystery school lineage.",
     tag: "Foundation",
-    link: "#apply"
+    link: "/life-activation"
   },
   {
     title: "Empower Thyself",

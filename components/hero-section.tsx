@@ -52,7 +52,7 @@ export function HeroSection() {
         >
           For millennia, this sacred lineage was guarded in silence. 
           Recognizable figures &mdash; Leonardo da Vinci, Nikola Tesla, Isaac Newton
-          &mdash; might have walked this very path to understand the physical and spiritual
+          &mdash; have walked this very path to understand the physical and spiritual
           worlds, but the mystery schools themselves were hidden, nearly impossible to find, and
           would not accept just anyone into their sacred halls.
         </motion.p>

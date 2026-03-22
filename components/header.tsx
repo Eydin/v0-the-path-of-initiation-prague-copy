@@ -25,31 +25,31 @@ export function Header() {
         </Link>
         <nav className="hidden items-center gap-8 md:flex">
           <Link
-            href="#story"
+            href="/#story"
             className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
           >
             The Story
           </Link>
           <Link
-            href="#pillars"
+            href="/#pillars"
             className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
           >
             Pillars
           </Link>
           <Link
-            href="#guide"
+            href="/#guide"
             className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
           >
             Your Guide
           </Link>
           <Link
-            href="#classes"
+            href="/#classes"
             className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
           >
             Classes
           </Link>
           <Link
-            href="#apply"
+            href="/#apply"
             className="border border-primary bg-primary/10 px-5 py-2 font-serif text-sm tracking-wide text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
           >
             Begin Your Journey

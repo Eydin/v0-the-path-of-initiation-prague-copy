@@ -1,3 +1,5 @@
+import Image from "next/image"
+
 export function Footer() {
   return (
     <footer className="border-t border-border py-12">
@@ -18,6 +20,20 @@ export function Footer() {
             Prague, Czech Republic
           </p>
           <div className="h-px w-16 bg-border" />
+          <a 
+            href="https://modernmysteryschoolint.com/certified-professionals/" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="mt-4 hover:opacity-80 transition"
+          >
+            <Image 
+              src="/images/certified-by-the-modern-mystery-school.png" 
+              alt="Certified by the Modern Mystery School"
+              width={200}
+              height={80}
+              className="h-auto"
+            />
+          </a>
           <p className="text-xs text-muted-foreground">
             &copy; {new Date().getFullYear()} The Path of Initiation Prague. All
             rights reserved.
