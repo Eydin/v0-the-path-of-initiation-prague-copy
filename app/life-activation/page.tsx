@@ -259,10 +259,10 @@ export default function LifeActivation() {
                 <div className="max-w-5xl mx-auto">
                   <div className="bg-muted/60 backdrop-blur-sm border border-primary/20 rounded-lg p-8 md:p-12">
                     <div className="grid md:grid-cols-3 gap-8 items-center">
-                      <a href="https://universitateapentrusuflet.ro/en/certifications/" className="hover:opacity-80 transition">
+                      <a href="/certifications" className="hover:opacity-80 transition">
                         <img 
-                          src="https://universitateapentrusuflet.ro/wp-content/uploads/2024/08/Life-Activation-Diana-2024_page-0001-768x1024.jpg" 
-                          alt="Diana Certification" 
+                          src="images/radu-lap-old.webp" 
+                          alt="Radu Certification" 
                           className="w-full h-auto rounded"
                         />
                       </a>
@@ -274,9 +274,9 @@ export default function LifeActivation() {
                           This is a groundbreaking method for <i>inner transformation and unlocking your personal potential</i>. It combines ancient wisdom with modern energies to help you grow and evolve. This technique is offered by the Modern Mystery School through Certified Life Activation Practitioners. It serves as a <span className="text-foreground font-semibold">gateway to higher consciousness and spiritual expansion.</span>
                         </p>
                       </div>
-                      <a href="https://universitateapentrusuflet.ro/en/certifications/" className="hover:opacity-80 transition">
+                      <a href="/certifications" className="hover:opacity-80 transition">
                         <img 
-                          src="https://universitateapentrusuflet.ro/wp-content/uploads/2024/08/Life-Activation-Radu-Diploma-noua_page-0001-761x1024.jpg" 
+                          src="images/radu-lap.jpg" 
                           alt="Radu Certification" 
                           className="w-full h-auto rounded"
                         />
