@@ -1,7 +1,7 @@
 "use client"
 
 import { ScrollReveal } from "./scroll-reveal"
-import { Globe, Clock, Users, Quote } from "lucide-react"
+import { Globe, Clock, Users, Quote, ExternalLink } from "lucide-react"
 
 const stats = [
   {
@@ -24,18 +24,21 @@ const stats = [
 const testimonials = [
   {
     quote:
-      "This path has completely transformed the way I see myself and the world. I have found a sense of purpose I never knew was possible.",
-    author: "Anna from Brazil",
+      "The initiation ceremony was beyond my imagination. I felt genuinely welcome and it truly feels like I've found a community that I'm super happy to belong to.",
+    author: "Maria from Czech Republic",
+    link: "/testimonials#maria-testimonial",
   },
   {
     quote:
-      "The teachings are profound, practical, and deeply empowering. I am grateful every day that I found this lineage.",
-    author: "Michael from the USA",
+      "Radu didn't tell me what to do and what not to do. He really helps me to hear my own truth, my own clarity.",
+    author: "Ana from Czech Republic",
+    link: "/testimonials#ana-testimonial",
   },
   {
     quote:
       "I came seeking answers and found a whole new dimension of life. The tools I received are beyond anything I imagined.",
     author: "Sophie from Canada",
+    link: "/testimonials",
   },
 ]
 
@@ -77,12 +80,12 @@ export function FactsSection() {
             <div className="grid gap-8 md:grid-cols-2">
               <div className="aspect-video border border-border bg-card">
                 <div className="flex h-full items-center justify-center text-muted-foreground">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/D9ZjXcB7F8M?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen" allowFullScreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/D9ZjXcB7F8M?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv" title="Living in Full Empowerment Trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen" allowFullScreen></iframe>
                 </div>
               </div>
               <div className="aspect-video border border-border bg-card">
                 <div className="flex h-full items-center justify-center text-muted-foreground">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/6ExvXGtInoc?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv&index=10" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen" allowFullScreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/6ExvXGtInoc?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv&index=10" title="The Path to Purpose" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen" allowFullScreen></iframe>
                 </div>
               </div>
             </div>
@@ -98,7 +101,7 @@ export function FactsSection() {
             <div className="grid gap-6 md:grid-cols-3">
               {testimonials.map((t, i) => (
                 <ScrollReveal key={i} delay={i * 0.1}>
-                  <div className="border border-border bg-card p-6">
+                  <a href={t.link} className="border border-border bg-card p-6 block rounded hover:bg-card/80 transition-colors">
                     <Quote className="mb-4 h-5 w-5 text-primary/50" />
                     <p className="mb-4 text-sm leading-relaxed text-foreground italic">
                       {`"${t.quote}"`}
@@ -106,7 +109,7 @@ export function FactsSection() {
                     <p className="text-xs tracking-wider text-primary uppercase">
                       {t.author}
                     </p>
-                  </div>
+                  </a>
                 </ScrollReveal>
               ))}
             </div>

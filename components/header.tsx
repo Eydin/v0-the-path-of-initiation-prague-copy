@@ -49,6 +49,18 @@ export function Header() {
             Classes
           </Link>
           <Link
+            href="/testimonials"
+            className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
+          >
+            Testimonials
+          </Link>
+          <Link
+            href="/certifications"
+            className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
+          >
+            Certifications
+          </Link>
+          <Link
             href="/#apply"
             className="border border-primary bg-primary/10 px-5 py-2 font-serif text-sm tracking-wide text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
           >

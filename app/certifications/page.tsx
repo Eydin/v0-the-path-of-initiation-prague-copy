@@ -105,65 +105,65 @@ export default function Certifications() {
                   </h2>
                   
                   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-                    <div className="group">
-                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition">
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img 
                           src="images/radu-guide.jpg" 
                           alt="Guide Certification - Radu" 
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
-                    </div>
+                    </a>
                     
-                    <div className="group">
-                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition">
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img 
                           src="images/radu-teacher.webp" 
                           alt="Teacher Certification - Radu" 
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
-                    </div>
+                    </a>
                     
-                    <div className="group">
-                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition">
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img 
                           src="images/radu-healer.jpg" 
                           alt="Life Activation Practitioner - Radu" 
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
-                    </div>
+                    </a>
                     
-                    <div className="group">
-                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition">
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img 
                           src="images/radu-lap-old.webp" 
                           alt="Healer Certification - Diana" 
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
-                    </div>
+                    </a>
                     
-                    <div className="group">
-                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition">
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img 
                           src="images/radu-lap.jpg" 
                           alt="Ensofic Ray - Diana" 
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
-                    </div>
+                    </a>
                     
-                    <div className="group">
-                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition">
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img 
                           src="images/radu-ensofic.webp" 
                           alt="Ensofic Ray - Radu" 
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
-                    </div>
+                    </a>
                   </div>
                 </div>
               </ScrollReveal>
