@@ -46,7 +46,11 @@ export default function EmpowerThyself() {
                     <p>You will learn how to move beyond the negative ego that stands in your way and receive practical tools to support you in this process. The initiation will accelerate your transformation, helping you experience results faster and enjoy the journey of becoming your true self.</p>
                     <p>You will be supported by an ancient lineage that stands behind you.<br/>Those who have walked this path before you are here to guide you with their wisdom and experience.<br/>Through their dedication, these teachings have been preserved in their purest form—kept safe so that we may benefit from them today.</p>
                     <p className="font-semibold text-xl pt-4 text-primary">Will you answer the call?</p>
-                    <a href="https://buy.stripe.com/28E3co1rhgMC8R70xRg3606" className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition">
+                    <a href="https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i" 
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition"
+                    >
                       Book Now →
                     </a>
                   </div>
@@ -317,7 +321,11 @@ export default function EmpowerThyself() {
 
                 <div className="text-center border-t border-border pt-12">
                   <h4 className="text-lg font-semibold text-primary mb-8">After the payment is completed, we will contact you to finalize the appointment.</h4>
-                  <a href="https://buy.stripe.com/28E3co1rhgMC8R70xRg3606" className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition">
+                  <a href="https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i" 
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition"
+                  >
                       Book Now
                   </a>
                   

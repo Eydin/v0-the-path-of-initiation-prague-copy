@@ -52,7 +52,7 @@ export default function LifeActivation() {
 
                     <div className="border-t border-primary/20 pt-6">
                       <a 
-                        href="https://buy.stripe.com/fZu14gd9ZfIy9Vb94ng360g"
+                        href="https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition"
@@ -318,7 +318,7 @@ export default function LifeActivation() {
                       </p>
 
                       <a 
-                        href="https://buy.stripe.com/fZu14gd9ZfIy9Vb94ng360g" 
+                        href="https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j" 
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition"
