@@ -291,12 +291,12 @@ export default function EmpowerThyself() {
                 
                 <div className="grid md:grid-cols-2 gap-12 mb-12">
                   <div>
-                    <h3 className="font-semibold text-primary mb-4">Cost: 1500 €</h3>
+                    <h3 className="font-semibold text-primary mb-4">Cost: 36.500 CZK</h3>
                     <p className="text-foreground space-y-3 leading-relaxed">
-                      <span className="block">Includes the 2 day training and a complimentary Life Activation session (valued at €350) to prepare your energy system and connect you to your divine blueprint before the Initiation.</span>
+                      <span className="block">Includes the 2 day training and a complimentary Life Activation session (valued at 8.500 CZK) to prepare your energy system and connect you to your divine blueprint before the Initiation.</span>
                       <span className="block font-semibold text-primary mt-4">Booking Process:</span>
-                      <span className="block">A €500 deposit secures your place and allows us to schedule your Life Activation session.</span>
-                      <span className="block">The remaining €1000 is due before the 2-day training and Initiation begins.</span>
+                      <span className="block">A 12.000 CZK deposit secures your place and allows us to schedule your Life Activation session.</span>
+                      <span className="block">The remaining 24.500 CZK is due before the 2-day training and Initiation begins.</span>
                     </p>
                   </div>
                   <div className="space-y-6">

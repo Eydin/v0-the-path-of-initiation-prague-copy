@@ -305,7 +305,7 @@ export default function LifeActivation() {
                       <div className="grid md:grid-cols-2 gap-12 py-8">
                         <div>
                           <p className="text-sm tracking-wider font-semibold text-foreground uppercase mb-2">Investment</p>
-                          <p className="font-serif text-3xl text-primary">350 €</p>
+                          <p className="font-serif text-3xl text-primary">8.500 CZK</p>
                         </div>
                         <div>
                           <p className="text-sm tracking-wider font-semibold text-foreground uppercase mb-2">Duration</p>
