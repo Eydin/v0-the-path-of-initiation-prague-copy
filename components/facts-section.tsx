@@ -78,15 +78,23 @@ export function FactsSection() {
               Follow the Journey of Our Students
             </h3>
             <div className="grid gap-8 md:grid-cols-2">
-              <div className="aspect-video border border-border bg-card">
-                <div className="flex h-full items-center justify-center text-muted-foreground">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/D9ZjXcB7F8M?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv" title="Living in Full Empowerment Trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen" allowFullScreen></iframe>
-                </div>
+              <div className="aspect-video border border-border bg-card overflow-hidden">
+                <iframe
+                  src="https://www.youtube.com/embed/D9ZjXcB7F8M?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv"
+                  title="Living in Full Empowerment Trailer"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen"
+                  allowFullScreen
+                  className="w-full h-full"
+                ></iframe>
               </div>
-              <div className="aspect-video border border-border bg-card">
-                <div className="flex h-full items-center justify-center text-muted-foreground">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/6ExvXGtInoc?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv&index=10" title="The Path to Purpose" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen" allowFullScreen></iframe>
-                </div>
+              <div className="aspect-video border border-border bg-card overflow-hidden">
+                <iframe
+                  src="https://www.youtube.com/embed/6ExvXGtInoc?list=PLSD4KZaT2V28fsaxAMPFaa3d26y0KAiEv&index=10"
+                  title="The Path to Purpose"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen"
+                  allowFullScreen
+                  className="w-full h-full"
+                ></iframe>
               </div>
             </div>
           </div>
