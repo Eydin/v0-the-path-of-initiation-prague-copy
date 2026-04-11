@@ -2,7 +2,7 @@
 
 import Image from "next/image"
 import { motion } from "framer-motion"
-import { ChevronDown } from "lucide-react"
+import { ArrowRight, ChevronDown, MessageCircle } from "lucide-react"
 
 export function HeroSection() {
   return (
@@ -80,12 +80,16 @@ export function HeroSection() {
           animate={{ opacity: 1 }}
           transition={{ delay: 1.2, duration: 0.6 }}
         >
+          <p className="mb-4 text-sm tracking-wide text-muted-foreground uppercase">
+            Discover if this Path is for you
+          </p>
           <a
-            href="#facts"
-            className="inline-flex items-center gap-2 border border-primary bg-primary/10 px-8 py-3 font-serif text-sm tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
+            href="https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
+            className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm tracking-widest text-primary-foreground transition-all hover:bg-primary/90 uppercase"
           >
-            Discover the Path
-            <ChevronDown className="h-4 w-4" />
+            <MessageCircle className="h-4 w-4" />
+            WhatsApp
+            <ArrowRight className="h-4 w-4" />
           </a>
         </motion.div>
       </div>
