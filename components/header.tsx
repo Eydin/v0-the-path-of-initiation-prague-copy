@@ -2,8 +2,21 @@
 
 import Link from "next/link"
 import { motion } from "framer-motion"
+import { Menu } from "lucide-react"  // or your preferred icon library
+import { useState } from "react"
 
 export function Header() {
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+
+  const navLinks = [
+    { href: "/#story", label: "The Story" },
+    { href: "/#pillars", label: "Pillars" },
+    { href: "/#guide", label: "Your Guide" },
+    { href: "/#classes", label: "Classes" },
+    { href: "/testimonials", label: "Testimonials" },
+    { href: "/certifications", label: "Certifications" },
+  ]
+
   return (
     <motion.header
       initial={{ opacity: 0, y: -20 }}
@@ -23,43 +36,18 @@ export function Header() {
             INITIATION
           </span>
         </Link>
+
+        {/* Desktop Navigation */}
         <nav className="hidden items-center gap-8 md:flex">
-          <Link
-            href="/#story"
-            className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
-          >
-            The Story
-          </Link>
-          <Link
-            href="/#pillars"
-            className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
-          >
-            Pillars
-          </Link>
-          <Link
-            href="/#guide"
-            className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
-          >
-            Your Guide
-          </Link>
-          <Link
-            href="/#classes"
-            className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
-          >
-            Classes
-          </Link>
-          <Link
-            href="/testimonials"
-            className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
-          >
-            Testimonials
-          </Link>
-          <Link
-            href="/certifications"
-            className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
-          >
-            Certifications
-          </Link>
+          {navLinks.map((link) => (
+            <Link
+              key={link.href}
+              href={link.href}
+              className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
+            >
+              {link.label}
+            </Link>
+          ))}
           <Link
             href="/#apply"
             className="border border-primary bg-primary/10 px-5 py-2 font-serif text-sm tracking-wide text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
@@ -67,7 +55,44 @@ export function Header() {
             Begin Your Journey
           </Link>
         </nav>
+
+        {/* Mobile Menu Button */}
+        <button
+          className="md:hidden"
+          onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+        >
+          <Menu className="h-6 w-6 text-primary" />
+        </button>
       </div>
+
+      {/* Mobile Navigation */}
+      {mobileMenuOpen && (
+        <motion.nav
+          initial={{ opacity: 0, height: 0 }}
+          animate={{ opacity: 1, height: "auto" }}
+          exit={{ opacity: 0, height: 0 }}
+          className="border-t border-border/40 bg-background/95 px-6 py-4 md:hidden"
+        >
+          <div className="flex flex-col gap-4">
+            {navLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                {link.label}
+              </Link>
+            ))}
+            <Link
+              href="/#apply"
+              className="mt-2 border border-primary bg-primary/10 px-5 py-2 font-serif text-sm tracking-wide text-primary transition-colors hover:bg-primary hover:text-primary-foreground inline-block"
+            >
+              Begin Your Journey
+            </Link>
+          </div>
+        </motion.nav>
+      )}
     </motion.header>
   )
 }
