@@ -216,6 +216,16 @@ export default function EmpowerThyself() {
                 <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-primary mb-12 text-center">
                   What will you learn in this program?
                 </h2>
+                <div className="w-full aspect-video rounded-lg overflow-hidden border border-primary/20">
+                  <iframe 
+                    className="w-full h-full" 
+                    src="https://www.youtube.com/embed/6_TzH0U9XZ0" 
+                    title="Empower Thyself Initiation Introduction" 
+                    frameBorder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    allowFullScreen
+                  ></iframe>
+                </div>
                 <div className="bg-muted/30 backdrop-blur-sm border border-primary/20 rounded-lg p-8 md:p-12 space-y-6">
                   <ol className="list-decimal list-inside space-y-4 text-lg font-semibold text-foreground ml-2">
                     <li>How to answer the question <em>"Who am I?"</em></li>
