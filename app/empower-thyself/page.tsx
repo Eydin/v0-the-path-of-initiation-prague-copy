@@ -38,7 +38,7 @@ export default function EmpowerThyself() {
                   className="bg-muted/40 backdrop-blur-sm border border-border/40 p-8 rounded-lg mb-12"
                 >
                   <h3 className="text-2xl font-serif tracking-wide text-primary mb-6">
-                    If you could be like God — filled with love, harmony, and creative power — would you say "yes"?
+                    If you could be like God — filled with love, harmony, and creative power — would you do it?
                   </h3>
                   <div className="space-y-4 text-left text-lg text-foreground">
                     <p>This initiation will expand the horizon of what you believe is possible. It awakens new potentials and challenges us to release old dogmas and paradigms.</p>
