@@ -43,7 +43,7 @@ export default function LifeActivation() {
                 <div className="max-w-4xl mx-auto">
                   <div className="bg-muted/60 backdrop-blur-sm border-primary/20 rounded-lg p-8 md:p-12 space-y-6">
                     <p className="text-lg italic text-primary font-serif">
-                      Life Activation – The Mystery Tradition, Lineage of King Solomon
+                      Life Activation – The Mystery Tradition, Lineage of King Salomon
                     </p>
                     
                     <p className="text-lg leading-relaxed text-foreground">

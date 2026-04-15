@@ -89,7 +89,7 @@ export default function EmpowerThyself() {
                   
                   <p className="text-lg leading-relaxed">In engineering, we study structure, energy, and systems.<br/>In this Sacred Lineage — passed down uninterrupted since the time of King Salomon — we study the structure of the soul, the flow of vital energy, and the systems that govern healing, purpose, and inner mastery.</p>
                   
-                  <p className="text-lg leading-relaxed"><span className="text-primary font-semibold">Empower Thyself</span> is not just a class. It is a precise, time-tested initiation into your own divine architecture. King Solomon gathered the wisest people and mystics of his time, testing every transformational tool to create a system that truly works—<em>for all people, across cultures and <span className="text-primary font-semibold">centuries</span>.</em></p>
+                  <p className="text-lg leading-relaxed"><span className="text-primary font-semibold">Empower Thyself</span> is not just a class. It is a precise, time-tested initiation into your own divine architecture. King Salomon gathered the wisest people and mystics of his time, testing every transformational tool to create a system that truly works—<em>for all people, across cultures and <span className="text-primary font-semibold">centuries</span>.</em></p>
                   
                   <p className="text-lg leading-relaxed">This path does not ask you to believe blindly. It invites you to experience. To awaken the gifts encoded in your DNA. To release ancestral patterns that no longer serve you. To align your inner world with a higher intelligence—the divine plan of your soul.</p>
                   
@@ -230,7 +230,7 @@ export default function EmpowerThyself() {
                   <ol className="list-decimal list-inside space-y-4 text-lg font-semibold text-foreground ml-2">
                     <li>How to answer the question <em>"Who am I?"</em></li>
                     <li>What is an initiation, and why do we need it today?</li>
-                    <li>The role of King Solomon in this process</li>
+                    <li>The role of King Salomon in this process</li>
                     <li>The Human potential to be God</li>
                     <li>The 12 Dimensions of the Earth and the 7 Spiritual Dimensions</li>
                     <li>The Structure of the Hierarchy of Light</li>
