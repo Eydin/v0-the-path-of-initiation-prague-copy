@@ -324,13 +324,12 @@ export default function EmpowerThyself() {
                     </div>
                     <div>
                       <h3 className="text-xl font-semibold text-primary mb-2">Date</h3>
-                      <p className="text-foreground">April 25th - 26th</p>
+                      <p className="text-foreground">June 29th - 30th</p>
                     </div>
                   </div>
                 </div>
 
                 <div className="text-center border-t border-border pt-12">
-                  <h4 className="text-lg font-semibold text-primary mb-8">After the payment is completed, we will contact you to finalize the appointment.</h4>
                   <a href="https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i" 
                       target="_blank"
                       rel="noopener noreferrer"
