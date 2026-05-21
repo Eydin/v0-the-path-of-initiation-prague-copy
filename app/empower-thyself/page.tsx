@@ -335,7 +335,7 @@ export default function EmpowerThyself() {
                       rel="noopener noreferrer"
                       className="inline-block mt-4 px-8 py-3 bg-primary text-primary-foreground rounded border border-primary font-semibold hover:bg-primary/90 transition"
                   >
-                      Book Now
+                      Book No
                   </a>
                   
                   <div className="flex flex-col gap-4 sm:flex-row sm:justify-center sm:gap-4 mt-8">
