@@ -1,6 +1,7 @@
 "use client"
 
 import type { ReactNode } from "react"
+import Image from "next/image"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
@@ -27,13 +28,22 @@ export function ModalityShell({
   return (
     <>
       <Header />
-      <main
-        className="relative min-h-screen bg-cover bg-fixed pt-20"
-        style={{
-          backgroundImage: `linear-gradient(rgba(0,0,0,0.82), rgba(0,0,0,0.88)), url(/images/art/${bg})`,
-          backgroundPosition: position,
-        }}
-      >
+      <main className="relative min-h-screen pt-20">
+        {/* Fixed cinematic painting with a slow Ken Burns drift.
+            Uses position:fixed + transform instead of background-attachment:fixed,
+            which is broken on iOS Safari. */}
+        <div className="fixed inset-0 -z-10 overflow-hidden">
+          <Image
+            src={`/images/art/${bg}`}
+            alt=""
+            fill
+            priority
+            sizes="100vw"
+            style={{ objectPosition: position }}
+            className="object-cover animate-kenburns-pan"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-black/[0.82] to-black/[0.9]" />
+        </div>
         <div className="relative z-10">{children}</div>
       </main>
       <Footer />

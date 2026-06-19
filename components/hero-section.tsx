@@ -14,7 +14,7 @@ export function HeroSection() {
         src="/images/hero-bg.jpg"
         alt=""
         fill
-        className="object-cover"
+        className="object-cover animate-kenburns-pan"
         priority
         quality={90}
       />

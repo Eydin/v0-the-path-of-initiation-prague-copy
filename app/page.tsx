@@ -10,6 +10,7 @@ import { EndingSection } from "@/components/ending-section"
 import { Footer } from "@/components/footer"
 import { HallOfInitiates } from "@/components/hall-of-initiates"
 import { QuoteBreaker } from "@/components/quote-breaker"
+import { NewsletterSection } from "@/components/newsletter-section"
 
 export default function Home() {
   return (
@@ -50,6 +51,8 @@ export default function Home() {
           caption="The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657"
           position="center 22%"
         />
+
+        <NewsletterSection />
 
         <EndingSection />
       </main>

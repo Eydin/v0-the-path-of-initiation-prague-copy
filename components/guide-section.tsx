@@ -1,7 +1,7 @@
 "use client"
 
-import Image from "next/image"
 import { ScrollReveal } from "./scroll-reveal"
+import { KenBurns } from "./ken-burns"
 
 export function GuideSection() {
   return (
@@ -21,13 +21,21 @@ export function GuideSection() {
 
         <div className="grid items-center gap-12 lg:grid-cols-2">
           <ScrollReveal direction="left">
-            <div className="relative mx-auto aspect-[3/4] w-full max-w-md overflow-hidden border border-border">
-              <Image
+            <div className="relative mx-auto w-full max-w-md">
+              {/* soft gold aura behind the portrait */}
+              <div className="absolute -inset-3 -z-10 rounded-sm bg-primary/15 blur-2xl" aria-hidden />
+              <KenBurns
                 src="/images/Radu2.jpg"
-                alt="Radu Coman - Guide and Teacher"
-                fill
-                className="object-cover"
+                alt="Radu Coman — Guide and Teacher in the Lineage of King Salomon"
+                position="center 25%"
+                sizes="(max-width: 1024px) 90vw, 28rem"
+                className="aspect-[3/4] w-full rounded-sm border border-primary/40 shadow-2xl shadow-black/60 ring-1 ring-primary/10"
               />
+              {/* gradient lift + name plate */}
+              <div className="pointer-events-none absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/70 to-transparent" />
+              <p className="absolute bottom-4 left-5 font-serif text-sm uppercase tracking-[0.3em] text-primary">
+                Radu Coman
+              </p>
             </div>
           </ScrollReveal>
 

@@ -90,3 +90,33 @@ html {
   background-color: #D4AF3740;
   color: #D4AF37;
 }
+
+/* ───────────────────────── Cinematic motion ───────────────────────── */
+/* Slow Ken Burns zoom — for portraits & still imagery */
+@keyframes kenburns {
+  from { transform: scale(1) translate3d(0, 0, 0); }
+  to   { transform: scale(1.14) translate3d(0, 0, 0); }
+}
+.animate-kenburns {
+  animation: kenburns 20s ease-out infinite alternate;
+  will-change: transform;
+}
+
+/* Ken Burns with a gentle diagonal drift — for wide background art */
+@keyframes kenburns-pan {
+  from { transform: scale(1.06) translate3d(0, 0, 0); }
+  to   { transform: scale(1.2) translate3d(-1.5%, -2.5%, 0); }
+}
+.animate-kenburns-pan {
+  animation: kenburns-pan 26s ease-in-out infinite alternate;
+  will-change: transform;
+}
+
+/* Respect users who prefer no motion */
+@media (prefers-reduced-motion: reduce) {
+  .animate-kenburns,
+  .animate-kenburns-pan {
+    animation: none;
+  }
+  html { scroll-behavior: auto; }
+}

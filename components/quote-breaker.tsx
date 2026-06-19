@@ -2,6 +2,7 @@
 
 import type { ReactNode } from "react"
 import { ScrollReveal } from "@/components/scroll-reveal"
+import { ParallaxImage } from "@/components/parallax-image"
 
 interface QuoteBreakerProps {
   /** filename inside /public/images/art, e.g. "ascent-blessed-bosch.jpg" */
@@ -19,13 +20,10 @@ interface QuoteBreakerProps {
 export function QuoteBreaker({ image, quote, attribution, caption, position = "center", cta }: QuoteBreakerProps) {
   return (
     <figure
-      className="relative m-0 flex items-center justify-center overflow-hidden bg-cover"
-      style={{
-        minHeight: "clamp(440px, 66vh, 660px)",
-        backgroundImage: `url(/images/art/${image})`,
-        backgroundPosition: position,
-      }}
+      className="relative m-0 flex items-center justify-center overflow-hidden"
+      style={{ minHeight: "clamp(440px, 66vh, 660px)" }}
     >
+      <ParallaxImage src={`/images/art/${image}`} alt="" position={position} strength={70} />
       <div className="absolute inset-0 bg-gradient-to-b from-background/75 via-background/55 to-background/80" />
 
       <div className="relative z-10 mx-auto max-w-3xl px-6 text-center">
