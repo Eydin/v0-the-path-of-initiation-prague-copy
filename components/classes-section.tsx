@@ -23,7 +23,7 @@ const classes = [
     description:
       "Study the divine patterns that underpin all of creation. Learn to work with the fundamental building blocks of the universe.",
     tag: "Advanced Study",
-    link: "#apply"
+    link: "/sacred-geometry"
   },
 ]
 
