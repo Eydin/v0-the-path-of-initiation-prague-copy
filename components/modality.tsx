@@ -153,6 +153,22 @@ export function BenefitList({
   )
 }
 
+// ── Embedded YouTube video ───────────────────────────────────────────────
+export function VideoEmbed({ src, title }: { src: string; title: string }) {
+  return (
+    <div className="aspect-video w-full overflow-hidden rounded-lg border border-primary/20">
+      <iframe
+        className="h-full w-full"
+        src={src}
+        title={title}
+        style={{ border: 0 }}
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowFullScreen
+      />
+    </div>
+  )
+}
+
 // ── Buttons ───────────────────────────────────────────────────────────────
 export function WhatsAppButton({ text, label = "WhatsApp" }: { text: string; label?: string }) {
   return (
@@ -189,6 +205,9 @@ export function BookingBlock({
   duration,
   inquiry,
   slug,
+  bookHref,
+  bookLabel = "Book Now",
+  children,
   note = "After you reach out, we will contact you personally to finalize your appointment.",
 }: {
   title: string
@@ -197,6 +216,11 @@ export function BookingBlock({
   inquiry: string
   /** When set, shows the next two upcoming dates for this class. */
   slug?: string
+  /** Optional direct checkout (Stripe) link — renders a prominent Book Now button. */
+  bookHref?: string
+  bookLabel?: string
+  /** Optional extra detail (e.g. deposit breakdown) shown above the buttons. */
+  children?: ReactNode
   note?: string
 }) {
   return (
@@ -238,7 +262,21 @@ export function BookingBlock({
                   </div>
                 )}
 
+                {children && <div className="text-left">{children}</div>}
+
                 <p className="text-lg font-semibold text-foreground">{note}</p>
+
+                {bookHref && (
+                  <a
+                    href={bookHref}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-12 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
+                  >
+                    {bookLabel}
+                    <ArrowRight className="h-4 w-4" />
+                  </a>
+                )}
 
                 <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
                   <EmailButton subject={inquiry} />

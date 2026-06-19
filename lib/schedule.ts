@@ -9,11 +9,15 @@
 //  parseLocalDate) to avoid the UTC off-by-one-day bug.
 // ─────────────────────────────────────────────────────────────────────────
 
+export type ClassCategory = "Activation" | "Healing"
+
 export type ScheduledClass = {
   /** Route slug, e.g. "life-activation" — also the URL path. */
   slug: string
   /** Display title (matches the nav labels). */
   title: string
+  /** Stream this class belongs to — drives the calendar accent + grouping. */
+  category: ClassCategory
   /** Where it takes place. */
   location: string
   /** Default start time shown on the calendar. */
@@ -27,6 +31,7 @@ export type ScheduledClass = {
 export const SCHEDULE: ScheduledClass[] = [
   {
     slug: "life-activation",
+    category: "Activation",
     title: "Life Activation",
     location: "Prague, CZ",
     time: "10:00",
@@ -45,6 +50,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "empower-thyself",
+    category: "Activation",
     title: "Empower Thyself",
     location: "Prague, CZ",
     time: "10:00",
@@ -53,6 +59,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "full-spirit-activation",
+    category: "Activation",
     title: "Full Spirit Activation",
     location: "Prague, CZ",
     time: "10:00",
@@ -60,6 +67,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "healers-academy",
+    category: "Activation",
     title: "Healers Academy",
     location: "Prague, CZ",
     time: "09:30",
@@ -68,6 +76,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "ritual-master",
+    category: "Activation",
     title: "Ritual Master",
     location: "Prague, CZ",
     time: "10:00",
@@ -76,6 +85,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "aura-healing",
+    category: "Healing",
     title: "Sacred Geometry Aura Healing",
     location: "Prague, CZ",
     time: "11:00",
@@ -83,6 +93,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "sacred-geometry",
+    category: "Healing",
     title: "Sacred Geometry",
     location: "Prague, CZ",
     time: "10:00",
@@ -91,6 +102,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "astral-travel",
+    category: "Healing",
     title: "Astral Travel",
     location: "Prague, CZ",
     time: "14:00",
@@ -99,6 +111,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "spiritual-intuition",
+    category: "Healing",
     title: "Spiritual Intuition",
     location: "Prague, CZ",
     time: "11:00",
@@ -107,6 +120,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "seven-mystery-schools",
+    category: "Healing",
     title: "The 7 Mystery Schools",
     location: "Prague, CZ",
     time: "10:00",
@@ -115,6 +129,7 @@ export const SCHEDULE: ScheduledClass[] = [
   },
   {
     slug: "stress-management",
+    category: "Healing",
     title: "Stress Rescue",
     location: "Prague, CZ",
     time: "18:00",
@@ -126,6 +141,7 @@ export const SCHEDULE: ScheduledClass[] = [
 export type ClassEvent = {
   slug: string
   title: string
+  category: ClassCategory
   location: string
   time: string
   duration?: string
@@ -186,6 +202,7 @@ export function getAllUpcomingEvents(): ClassEvent[] {
         events.push({
           slug: cls.slug,
           title: cls.title,
+          category: cls.category,
           location: cls.location,
           time: cls.time,
           duration: cls.duration,
