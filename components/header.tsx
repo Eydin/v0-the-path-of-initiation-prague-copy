@@ -27,6 +27,7 @@ const healing = [
 ]
 
 const simpleLinks = [
+  { href: "/calendar", label: "Calendar" },
   { href: "/#guide", label: "Your Guide" },
   { href: "/lineage", label: "Lineage" },
   { href: "/testimonials", label: "Testimonials" },

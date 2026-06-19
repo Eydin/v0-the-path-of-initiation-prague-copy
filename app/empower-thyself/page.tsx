@@ -5,6 +5,7 @@ import { motion } from "framer-motion"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
+import { UpcomingDatesSection } from "@/components/upcoming-dates"
 import { ArrowRight, Mail, MessageCircle } from "lucide-react"
 
 export default function EmpowerThyself() {
@@ -75,6 +76,8 @@ export default function EmpowerThyself() {
             </div>
           </div>
         </header>
+
+        <UpcomingDatesSection slug="empower-thyself" />
 
         {/* Letter Section */}
         <section className="relative pt-12 lg:pt-16 pb-24 lg:pb-32">

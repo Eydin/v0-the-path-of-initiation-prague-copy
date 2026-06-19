@@ -4,6 +4,7 @@ import Image from "next/image"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
+import { UpcomingDatesSection } from "@/components/upcoming-dates"
 import { ArrowRight, Mail, MessageCircle } from "lucide-react"
 
 export default function LifeActivation() {
@@ -35,6 +36,8 @@ export default function LifeActivation() {
               </ScrollReveal>
             </div>
           </section>
+
+          <UpcomingDatesSection slug="life-activation" />
 
           {/* Introduction Section */}
           <section className="relative py-24 lg:py-32">

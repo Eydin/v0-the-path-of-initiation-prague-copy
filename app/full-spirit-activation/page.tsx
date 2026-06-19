@@ -110,6 +110,7 @@ export default function FullSpiritActivation() {
       </Panel>
 
       <BookingBlock
+        slug="full-spirit-activation"
         title="Discover Your Potential to Be a Divine Being"
         investment="350 €"
         duration="2 Hours"

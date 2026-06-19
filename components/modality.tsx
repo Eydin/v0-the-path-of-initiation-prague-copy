@@ -5,6 +5,7 @@ import Image from "next/image"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
+import { UpcomingDates } from "@/components/upcoming-dates"
 import { ArrowRight, Mail, MessageCircle } from "lucide-react"
 
 // ── Shared contact details ──────────────────────────────────────────────
@@ -187,12 +188,15 @@ export function BookingBlock({
   investment,
   duration,
   inquiry,
+  slug,
   note = "After you reach out, we will contact you personally to finalize your appointment.",
 }: {
   title: string
   investment?: string
   duration?: string
   inquiry: string
+  /** When set, shows the next two upcoming dates for this class. */
+  slug?: string
   note?: string
 }) {
   return (
@@ -206,6 +210,12 @@ export function BookingBlock({
                   <h2 className="mb-8 font-serif text-3xl tracking-wide text-primary md:text-4xl">{title}</h2>
                   <div className="mx-auto h-px w-16 bg-border" />
                 </div>
+
+                {slug && (
+                  <div className="mx-auto max-w-xl">
+                    <UpcomingDates slug={slug} />
+                  </div>
+                )}
 
                 {(investment || duration) && (
                   <div className="grid gap-12 py-2 md:grid-cols-2">

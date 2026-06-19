@@ -80,6 +80,7 @@ export default function HealersAcademy() {
       </Panel>
 
       <BookingBlock
+        slug="healers-academy"
         title="Answer the Call to Serve"
         duration="Intensive Program & Initiation"
         inquiry={inquiry}

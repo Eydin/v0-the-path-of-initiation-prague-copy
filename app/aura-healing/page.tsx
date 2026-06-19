@@ -52,6 +52,7 @@ export default function AuraHealing() {
       </Panel>
 
       <BookingBlock
+        slug="aura-healing"
         title="Restore Your Light"
         duration="Approx. 1 Hour"
         inquiry={inquiry}

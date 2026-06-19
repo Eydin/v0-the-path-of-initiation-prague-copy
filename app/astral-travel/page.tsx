@@ -54,6 +54,7 @@ export default function AstralTravel() {
       </Panel>
 
       <BookingBlock
+        slug="astral-travel"
         title="Step Beyond the Body"
         duration="Workshop"
         inquiry={inquiry}

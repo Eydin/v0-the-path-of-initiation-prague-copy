@@ -94,6 +94,7 @@ export default function RitualMaster() {
       </Panel>
 
       <BookingBlock
+        slug="ritual-master"
         title="Begin Your Mastery"
         inquiry={inquiry}
         note="The Ritual Master path begins with Empower Thyself and the Healers Academy. Reach out and we will help you map the right next step for you."

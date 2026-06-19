@@ -66,6 +66,7 @@ export default function SevenMysterySchools() {
       </Panel>
 
       <BookingBlock
+        slug="seven-mystery-schools"
         title="Walk Through the Seven Gates"
         duration="Workshop"
         inquiry={inquiry}

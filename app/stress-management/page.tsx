@@ -53,6 +53,7 @@ export default function StressManagement() {
       </Panel>
 
       <BookingBlock
+        slug="stress-management"
         title="Bring Calm Back Into the Day"
         inquiry={inquiry}
         note="Available for individuals, leadership teams and organisations. Reach out to discuss a session or a programme for your team."

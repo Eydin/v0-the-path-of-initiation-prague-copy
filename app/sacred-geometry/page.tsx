@@ -53,6 +53,7 @@ export default function SacredGeometry() {
       </Panel>
 
       <BookingBlock
+        slug="sacred-geometry"
         title="Read the Language of Creation"
         duration="Workshop"
         inquiry={inquiry}

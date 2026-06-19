@@ -53,6 +53,7 @@ export default function SpiritualIntuition() {
       </Panel>
 
       <BookingBlock
+        slug="spiritual-intuition"
         title="Trust What You Already Know"
         duration="Workshop"
         inquiry={inquiry}
