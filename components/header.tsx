@@ -17,6 +17,8 @@ const activations = [
 ]
 
 const healing = [
+  { href: "/healings", label: "All Healing Modalities" },
+  { href: "/specialty-healings", label: "Specialty Healings (KSHM)" },
   { href: "/aura-healing", label: "Sacred Geometry Aura Healing" },
   { href: "/sacred-geometry", label: "Sacred Geometry" },
   { href: "/astral-travel", label: "Astral Travel" },
