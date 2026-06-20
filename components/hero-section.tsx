@@ -11,14 +11,17 @@ export function HeroSection() {
       className="relative flex min-h-screen items-center justify-center overflow-hidden"
     >
       <Image
-        src="/images/hero-bg.jpg"
-        alt=""
+        src="/images/hero-dragon.jpg"
+        alt="A dragon perched on a mountain cliff above an open valley"
         fill
+        sizes="100vw"
         className="object-cover animate-kenburns-pan"
+        style={{ objectPosition: "72% 28%" }}
         priority
         quality={90}
       />
-      <div className="absolute inset-0 bg-background/70" />
+      {/* veil — keeps the cinematic dark mood and the light headline legible over the bright sky */}
+      <div className="absolute inset-0 bg-gradient-to-b from-background/88 via-background/78 to-background/94" />
 
       <div className="relative z-10 mx-auto max-w-4xl px-6 py-32 text-center">
         <motion.div
