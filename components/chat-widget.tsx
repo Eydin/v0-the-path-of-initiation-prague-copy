@@ -118,18 +118,13 @@ export function ChatWidget() {
         <button
           onClick={() => setOpen(true)}
           aria-label="Ask the Path of Initiation assistant"
-          className="group fixed bottom-6 right-6 z-[60] flex items-center"
+          className="group chat-launcher-nudge fixed bottom-6 right-6 z-[60] flex items-center"
           style={{ bottom: "calc(1.5rem + env(safe-area-inset-bottom, 0px))" }}
         >
           <span className="pointer-events-none mr-3 hidden translate-x-2 whitespace-nowrap rounded-full border border-primary/30 bg-background/90 px-4 py-2 font-serif text-sm tracking-wide text-foreground opacity-0 shadow-lg backdrop-blur-sm transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100 sm:inline-block">
             Ask a question
           </span>
-          <span className="relative flex h-14 w-14 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-[0_8px_30px_-6px_rgba(212,175,55,0.55)] ring-2 ring-primary/30 transition-transform duration-300 group-hover:scale-105">
-            <span
-              aria-hidden
-              className="absolute inset-0 -z-10 animate-ping rounded-full bg-primary/40 motion-reduce:hidden"
-              style={{ animationDuration: "2.8s" }}
-            />
+          <span className="chat-launcher-glow relative flex h-14 w-14 items-center justify-center rounded-full bg-primary text-primary-foreground ring-2 ring-primary/40 transition-transform duration-300 group-hover:scale-110">
             <Sparkles className="h-6 w-6" />
           </span>
         </button>
