@@ -1,0 +1,3 @@
+*.zip
+.playwright-mcp
+DEPLOY-NOTES.md
