@@ -56,6 +56,29 @@ If Eydin's project stays broken, move the domain to Paul's already-working proje
 - Next.js 16 (Turbopack), `pnpm build` passes locally, 21 static routes.
 - No env vars required for the build.
 
+## AI Chat Assistant (new)
+
+The floating button (bottom-right) is now an **AI chat assistant** instead of the
+WhatsApp button. It answers visitor questions grounded in this website's content plus
+official info from Modern Mystery School International & UK, and hands off to Radu on
+WhatsApp when it can't help (a WhatsApp button stays inside the chat).
+
+**To make it answer (one-time, on Vercel):**
+
+- It talks to Claude through the **Vercel AI Gateway**. On Vercel it authenticates
+  automatically — **no API key / env var is required.**
+- The only prerequisite: the Vercel team must have **AI Gateway enabled with a credit
+  card on file** (this unlocks the included monthly free credits). Add one at
+  Vercel → AI → (add card). Until then, the chat gracefully shows the WhatsApp handoff.
+- Optional: set `CHAT_MODEL` (e.g. `anthropic/claude-haiku-4.5` for lower cost) — see
+  `.env.example`.
+
+Verified locally: gateway + model routing work; the only thing blocking a live answer
+was the missing card. UI, streaming, mobile layout and WhatsApp fallback all confirmed.
+
+If you ever change site copy, regenerate the chatbot's knowledge with:
+`node scripts/build-knowledge.mjs` (commit the updated `lib/chatbot/site-knowledge.ts`).
+
 ## What shipped recently (all on `main`)
 
 - Class **Calendar** (`/calendar`) + next-2-dates on every class page

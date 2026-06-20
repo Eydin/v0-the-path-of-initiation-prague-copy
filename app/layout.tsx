@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { Inter, Playfair_Display } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
-import { WhatsAppFloat } from '@/components/whatsapp-float'
+import { ChatWidget } from '@/components/chat-widget'
 import './globals.css'
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
@@ -149,7 +149,7 @@ export default function RootLayout({
       </head>
       <body className="font-sans antialiased bg-background text-foreground">
         {children}
-        <WhatsAppFloat />
+        <ChatWidget />
         <Analytics />
       </body>
     </html>
