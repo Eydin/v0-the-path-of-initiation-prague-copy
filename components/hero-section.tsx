@@ -2,8 +2,10 @@
 
 import { motion } from "framer-motion"
 import { ArrowRight, ChevronDown, MessageCircle } from "lucide-react"
+import { useIsMobile } from "@/hooks/use-mobile"
 
 export function HeroSection() {
+  const isMobile = useIsMobile()
   return (
     <section
       id="story"
@@ -16,6 +18,7 @@ export function HeroSection() {
         loop
         playsInline
         className="absolute inset-0 h-full w-full object-cover"
+        style={{ objectPosition: isMobile ? '75% center' : 'center' }}
       />
       {/* veil — keeps the cinematic dark mood and the light headline legible over the bright sky */}
       <div className="absolute inset-0 bg-gradient-to-b from-background/88 via-background/78 to-background/94" />
