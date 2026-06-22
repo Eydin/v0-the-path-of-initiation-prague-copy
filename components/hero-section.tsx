@@ -10,7 +10,7 @@ export function HeroSection() {
       className="relative flex min-h-screen items-center justify-center overflow-hidden"
     >
       <video
-        src="/images/Dragon-v1.mp4"
+        src="/videos/Dragon-v3.mp4"
         autoPlay
         muted
         loop
