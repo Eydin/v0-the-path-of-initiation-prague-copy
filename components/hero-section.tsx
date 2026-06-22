@@ -1,6 +1,5 @@
 "use client"
 
-import Image from "next/image"
 import { motion } from "framer-motion"
 import { ArrowRight, ChevronDown, MessageCircle } from "lucide-react"
 
@@ -10,15 +9,13 @@ export function HeroSection() {
       id="story"
       className="relative flex min-h-screen items-center justify-center overflow-hidden"
     >
-      <Image
-        src="/images/hero-dragon.jpg"
-        alt="A dragon perched on a mountain cliff above an open valley"
-        fill
-        sizes="100vw"
-        className="object-cover animate-kenburns-pan"
-        style={{ objectPosition: "72% 28%" }}
-        priority
-        quality={90}
+      <video
+        src="/images/Dragon-v1.mp4"
+        autoPlay
+        muted
+        loop
+        playsInline
+        className="absolute inset-0 h-full w-full object-cover"
       />
       {/* veil — keeps the cinematic dark mood and the light headline legible over the bright sky */}
       <div className="absolute inset-0 bg-gradient-to-b from-background/88 via-background/78 to-background/94" />
