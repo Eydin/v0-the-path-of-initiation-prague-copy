@@ -212,6 +212,45 @@ export default function LineagePage() {
           </div>
         </section>
 
+        {/* ── Council of Ipsissimi & Leadership ── */}
+        <section className="relative py-24 lg:py-32">
+          <div className="mx-auto max-w-3xl px-6">
+            <ScrollReveal>
+              <p className="mb-3 text-center font-serif text-sm uppercase tracking-[0.3em] text-primary">
+                Those Who Guide
+              </p>
+              <h2 className="mb-8 text-center font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
+                The Council of Ipsissimi &amp; Leadership
+              </h2>
+              <p className="mx-auto mb-12 max-w-2xl text-center text-lg leading-relaxed text-muted-foreground">
+                Alongside the Third Order, the lineage is held and guided by the Governing Ipsissima &amp;
+                Ipsissimus and the wider leadership of the Modern Mystery School — devoted teachers who
+                steward the tradition and serve the school across the world.
+              </p>
+              <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
+                <a
+                  href="https://modernmysteryschoolint.com/governing-ipsissimas-ipsissimus/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
+                >
+                  Governing Ipsissima &amp; Ipsissimus
+                  <ArrowRight className="h-4 w-4" />
+                </a>
+                <a
+                  href="https://modernmysteryschoolint.com/leadership/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
+                >
+                  The Leadership Team
+                  <ArrowRight className="h-4 w-4" />
+                </a>
+              </div>
+            </ScrollReveal>
+          </div>
+        </section>
+
         {/* ── CTA ── */}
         <section className="relative py-24 lg:py-32">
           <div className="absolute inset-0 bg-muted/40" />
