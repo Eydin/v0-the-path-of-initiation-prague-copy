@@ -18,7 +18,6 @@ const healing = [
   { href: "/spiritual-intuition", label: "Spiritual Intuition" },
   { href: "/seven-mystery-schools", label: "The 7 Mystery Schools" },
   { href: "/stress-management", label: "Stress Rescue" },
-  { href: "/packages", label: "Packages Full of Light" },
 ]
 
 export function Footer() {

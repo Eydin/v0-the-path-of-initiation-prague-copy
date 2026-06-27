@@ -28,7 +28,7 @@ Activations & Initiations: Life Activation, Full Spirit Activation, Empower Thys
 Healers Academy, Ritual Master.
 Healing & Workshops: All Healing Modalities, Specialty Healings (King Salomon Healing
 Modalities / KSHM), Sacred Geometry Aura Healing, Sacred Geometry, Astral Travel,
-Spiritual Intuition, The 7 Mystery Schools, Stress Rescue, Packages Full of Light.
+Spiritual Intuition, The 7 Mystery Schools, Stress Rescue.
 Also: Calendar of classes, Your Guide (Radu), Lineage, Testimonials, Certifications.
 `.trim()
 
