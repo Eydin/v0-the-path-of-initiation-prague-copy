@@ -13,69 +13,47 @@ import {
 import { HealingGroup, type Healing } from "@/components/healing-grid"
 import { ScrollReveal } from "@/components/scroll-reveal"
 
-const featured: Healing[] = [
-  {
-    name: "Hermetic Rebalancing",
-    tag: "Specialty",
-    description:
-      "Realigns body, mind and spirit through the Hermetic laws, restoring deep inner equilibrium where life has pulled you out of balance.",
-  },
-  {
-    name: "Etheric Reconstruction",
-    tag: "Specialty",
-    description:
-      "Rebuilds and repairs the etheric body across its layers, mending energetic damage held over long periods of time.",
-  },
-  {
-    name: "Celestial Code Etheric Reconstruction",
-    tag: "Specialty",
-    description:
-      "Restores the etheric structure through celestial geometric codes — a deeper reconstruction of the subtle body.",
-  },
-  {
-    name: "KSHM — Auric Region",
-    tag: "Specialty",
-    description:
-      "Focused King Salomon work within the auric field, clearing and rebuilding the region that surrounds and protects you.",
-  },
-]
-
+// King Salomon Healing Modality sessions currently offered.
 const kshmSessions: Healing[] = [
-  {
-    name: "Tree of Life Healing",
-    description: "Foundational King Salomon energy work along the sephirot of the Tree of Life.",
-  },
-  {
-    name: "Seal of Solomon Healing",
-    description: "Calls on the balancing, protective power of King Salomon's sacred seal.",
-  },
-  {
-    name: "Tone Healing",
-    description: "Uses sacred vibration and tone to restore harmony within the energy body.",
-  },
-  {
-    name: "Etheric Body Healing",
-    description: "Tends the subtle etheric body and its structures directly.",
-  },
-  {
-    name: "Mental Body Healing",
-    description: "Clears and rebalances thought-patterns held within the mental body.",
-  },
-  {
-    name: "Unified Chakra Healing",
-    description: "Weaves the seven centres into one coherent, unified field.",
-  },
   {
     name: "Starseed Healing",
     description: "Reconnects you with your cosmic origins and star lineage.",
   },
   {
-    name: "Exorcism Healing",
-    description: "Removes intrusive or foreign energies under the protection of the lineage.",
+    name: "Unified Chakra Healing",
+    description: "Weaves the seven centres into one coherent, unified field.",
+  },
+]
+
+// DRAFT descriptions — Paul to review/correct (not in the MMS Knowledge Base).
+const specialtySessions: Healing[] = [
+  {
+    name: "Fire Soul Infusion",
+    description: "Reignites the inner fire of the soul, restoring passion, drive and life-force where you feel depleted.",
   },
   {
-    name: "Kabbalistic & Enochian Healing",
-    description: "Angelic and Kabbalistic healing drawn from the Tree of Life and the Enochian keys.",
+    name: "Core Will Infusion",
+    description: "Strengthens your core will — the inner seat of personal power, resolve and direction.",
+  },
+  {
+    name: "Archangel Michael Interstellar Tube of Light",
+    description: "Calls on Archangel Michael to surround you in a column of protective light, clearing and shielding your energy field.",
+  },
+  {
+    name: "Compassion Summoning",
+    description: "Opens the heart and summons divine compassion to soften and heal emotional wounds.",
+  },
+  {
+    name: "Space Realignment",
+    description: "Realigns and harmonises the energy of a home or space, restoring sacred order and flow.",
+  },
+  {
+    name: "Baby Blessing",
+    description: "A sacred blessing to welcome a newborn — calling in protection, light and a blessed beginning.",
+  },
+  {
+    name: "Chronos Reading",
+    description: "A reading that works with the energies of time to bring clarity on your past, present and path ahead.",
   },
 ]
 
@@ -105,15 +83,15 @@ export default function SpecialtyHealings() {
       </Panel>
 
       <HealingGroup
-        title="Featured Specialty Healings"
-        blurb="The healings most often asked for — deep reconstruction and rebalancing of the subtle bodies."
-        items={featured}
-      />
-
-      <HealingGroup
         title="King Salomon Healing Sessions"
         blurb="Core healings of the modality. Mastering all of its branches takes many years of dedicated training."
         items={kshmSessions}
+      />
+
+      <HealingGroup
+        title="Specialty Sessions"
+        blurb="Deeper, specialised work of the tradition — each offered one-to-one."
+        items={specialtySessions}
       />
 
       {/* link to the wider menu */}

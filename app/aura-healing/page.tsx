@@ -15,7 +15,7 @@ import {
 export default function AuraHealing() {
   const inquiry = "Hello Radu, I would like to learn more about the Sacred Geometry Aura Healing."
   return (
-    <ModalityShell bg="angel-thayer.jpg" position="center 18%">
+    <ModalityShell bg="ancient-of-days-blake.jpg" position="center 25%">
       <ModalityHero
         eyebrow="A Healing of the Mystery School"
         title="Sacred Geometry Aura Healing"

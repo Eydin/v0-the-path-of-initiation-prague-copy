@@ -60,29 +60,6 @@ const auraEnergy: Healing[] = [
   },
 ]
 
-const sacredRites: Healing[] = [
-  {
-    name: "Isis Healing",
-    description: "An ancient Egyptian ritual calling on Isis and the Ra family to release emotional burdens.",
-  },
-  {
-    name: "Ra Protection Healing",
-    description: "Draws on the Ray of Ra for deep spiritual protection and healing.",
-  },
-  {
-    name: "Hands of Melchizedek",
-    description: "Activates will and divine purpose through the hexagram and the energies of the Ra family.",
-  },
-  {
-    name: "Healing with Essential Oils",
-    description: "Sacred arts and rituals with essential oils, handed down for over three thousand years.",
-  },
-  {
-    name: "House & Space Blessing",
-    description: "Ancient blessings to cleanse and uplift the energy of your home or workspace.",
-  },
-]
-
 const readings: Healing[] = [
   {
     name: "Purpose of Life Reading",
@@ -108,10 +85,6 @@ const bodyWork: Healing[] = [
     description: "Light frequencies and reflexology applied along the meridian lines to restore flow.",
   },
   {
-    name: "Golden Spiral Reflexology",
-    description: "Sacred geometry of the golden spiral applied through reflexology to rebalance energy.",
-  },
-  {
     name: "Meridian Line Balancing",
     description: "Balances the flow of life-force (chi) along the body's meridian lines.",
   },
@@ -123,10 +96,6 @@ const bodyWork: Healing[] = [
     name: "Chakra Awakening",
     description: "Awakens and harmonises the body's seven energy centres.",
   },
-  {
-    name: "Spiritual Drug Detox Healing",
-    description: "Holistic support that clears the energetic imprints of substance use — alongside, not in place of, medical care.",
-  },
 ]
 
 export default function Healings() {
@@ -136,7 +105,7 @@ export default function Healings() {
       <ModalityHero
         eyebrow="In the Lineage of King Salomon"
         title="Healing Modalities"
-        subtitle="Over twenty-five healings for body, mind and soul"
+        subtitle="A range of healings for body, mind and soul"
         tagline="Each session is offered one-to-one — reach out to inquire about any of them"
       />
 
@@ -165,11 +134,6 @@ export default function Healings() {
         title="Aura & Energy Healings"
         blurb="Clearing, repairing and protecting your energetic field."
         items={auraEnergy}
-      />
-      <HealingGroup
-        title="Ancient & Sacred Rites"
-        blurb="Healings drawn from Egypt, the Ra family and the oldest sacred traditions."
-        items={sacredRites}
       />
       <HealingGroup
         title="Readings & Guidance"
