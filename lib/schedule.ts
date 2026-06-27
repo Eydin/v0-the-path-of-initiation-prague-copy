@@ -55,7 +55,17 @@ export const SCHEDULE: ScheduledClass[] = [
     location: "Prague, CZ",
     time: "10:00",
     duration: "2-Day Initiation",
-    dates: ["2026-08-22", "2026-10-24", "2026-12-12"],
+    dates: [
+      "2026-07-25",
+      "2026-08-29",
+      "2026-09-26",
+      "2026-10-17",
+      "2026-11-28",
+      "2026-12-21",
+      "2027-01-23",
+      "2027-02-13",
+      "2027-03-20",
+    ],
   },
   {
     slug: "full-spirit-activation",
@@ -64,7 +74,11 @@ export const SCHEDULE: ScheduledClass[] = [
     location: "Prague, CZ",
     time: "10:00",
     duration: "2 Hours",
-    dates: ["2026-07-26", "2026-09-27", "2026-11-22"],
+    dates: [
+      "2026-07-26",
+      "2026-09-27",
+      "2026-11-22"
+    ],
   },
   {
     slug: "healers-academy",
@@ -73,7 +87,10 @@ export const SCHEDULE: ScheduledClass[] = [
     location: "London, UK",
     time: "09:30",
     duration: "Multi-Day Program",
-    dates: ["2026-10-8", "2027-03-12"],
+    dates: [
+      "2026-10-8",
+      "2027-03-12"
+    ],
   },
   {
     slug: "ritual-master",
@@ -91,7 +108,15 @@ export const SCHEDULE: ScheduledClass[] = [
     location: "Prague, CZ",
     time: "10:00",
     duration: "Workshop - 5 Hours",
-    dates: ["2026-09-12", "2026-11-14"],
+    dates: [
+      "2026-07-11",
+      "2026-09-12",
+      "2026-10-24",
+      "2026-12-05",
+      "2027-01-09",
+      "2027-02-20",
+      "2027-04-10",
+    ],
   },
   {
     slug: "astral-travel",
@@ -100,7 +125,15 @@ export const SCHEDULE: ScheduledClass[] = [
     location: "Prague, CZ",
     time: "14:00",
     duration: "Workshop - 5 Hours",
-    dates: ["2026-08-09", "2026-10-11", "2026-12-06"],
+    dates: [
+      "2026-07-18",
+      "2026-09-19",
+      "2026-10-31",
+      "2026-12-12",
+      "2027-01-16",
+      "2027-02-27",
+      "2027-04-17",
+    ],
   },
   {
     slug: "spiritual-intuition",
@@ -109,7 +142,11 @@ export const SCHEDULE: ScheduledClass[] = [
     location: "Prague, CZ",
     time: "11:00",
     duration: "Workshop - 2.5 Hours",
-    dates: ["2026-07-19", "2026-09-20", "2026-11-15"],
+    dates: [
+      "2026-07-05",
+      "2026-09-20",
+      "2026-11-15"
+    ],
   },
   {
     slug: "seven-mystery-schools",
@@ -118,7 +155,10 @@ export const SCHEDULE: ScheduledClass[] = [
     location: "Prague, CZ",
     time: "10:00",
     duration: "Workshop - 2.5 Hours",
-    dates: ["2026-08-30", "2026-11-08"],
+    dates: [
+      "2026-08-30",
+      "2026-11-08"
+    ],
   },
   {
     slug: "stress-management",
@@ -127,7 +167,12 @@ export const SCHEDULE: ScheduledClass[] = [
     location: "Prague, CZ",
     time: "18:00",
     duration: "Workshop - 2.5 Hours",
-    dates: ["2026-07-05", "2026-08-16", "2026-09-27", "2026-11-08"],
+    dates: [
+      "2026-07-05",
+      "2026-08-16",
+      "2026-09-27",
+      "2026-11-08"
+    ],
   },
 ]
 
