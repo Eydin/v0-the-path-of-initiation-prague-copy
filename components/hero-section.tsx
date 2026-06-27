@@ -15,10 +15,21 @@ export function HeroSection() {
         src="/videos/Dragon-v3.mp4"
         autoPlay
         muted
-        loop
         playsInline
         className="absolute inset-0 h-full w-full object-cover"
         style={{ objectPosition: isMobile ? '75% center' : 'center' }}
+        onLoadedMetadata={(event) => {
+          event.currentTarget.loop = false
+        }}
+        onEnded={() => {
+          setTimeout(() => {
+            const video = document.querySelector('video[src="/videos/Dragon-v3.mp4"]') as HTMLVideoElement | null
+            if (video) {
+              video.currentTime = 0
+              video.play().catch(() => undefined)
+            }
+          }, 30000)
+        }}
       />
       {/* veil — keeps the cinematic dark mood and the light headline legible over the bright sky */}
       <div className="absolute inset-0 bg-gradient-to-b from-background/88 via-background/78 to-background/94" />
