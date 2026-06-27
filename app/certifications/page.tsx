@@ -128,6 +128,16 @@ export default function Certifications() {
                     <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
                       <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img 
+                          src="images/radu-healer-old.jpg" 
+                          alt="Life Activation Practitioner - Radu" 
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
+                        />
+                      </div>
+                    </a>
+
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
+                        <img 
                           src="images/radu-healer.jpg" 
                           alt="Life Activation Practitioner - Radu" 
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
