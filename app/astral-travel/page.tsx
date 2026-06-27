@@ -19,7 +19,7 @@ export default function AstralTravel() {
       <ModalityHero
         eyebrow="A Workshop of the Mystery School"
         title="Astral Travel"
-        subtitle="The science of travelling beyond the physical body"
+        subtitle="The art and science of travelling beyond the physical body"
         tagline="Explore the higher planes — safely, consciously, and at will"
       />
 

@@ -112,7 +112,7 @@ export default function FullSpiritActivation() {
       <BookingBlock
         slug="full-spirit-activation"
         title="Discover Your Potential to Be a Divine Being"
-        investment="350 €"
+        investment="8500 CZK"
         duration="2 Hours"
         inquiry={inquiry}
       />

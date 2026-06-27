@@ -90,13 +90,24 @@ export default function CalendarPage() {
                           const day = date.toLocaleDateString("en-GB", { day: "2-digit" })
                           const weekday = date.toLocaleDateString("en-GB", { weekday: "short" })
                           const isActivation = ev.category === "Activation"
+                          const isInitiation = ev.category === "Initiation"
+                          const categoryLabel =
+                            ev.category === "Activation"
+                              ? "Activation"
+                              : ev.category === "Initiation"
+                                ? "Initiation"
+                                : "Workshop"
                           return (
                             <li key={`${ev.slug}-${ev.date}`} className="relative pl-9">
-                              {/* node on the path — filled for Activations, hollow for Healing */}
+                              {/* node on the path — filled for Activations, highlighted for Initiations, hollow for Workshops */}
                               <span
                                 aria-hidden
                                 className={`absolute left-[3px] top-7 h-[11px] w-[11px] rotate-45 border border-primary transition-colors ${
-                                  isActivation ? "bg-primary" : "bg-background"
+                                  isActivation
+                                    ? "bg-primary"
+                                    : isInitiation
+                                      ? "bg-primary/20"
+                                      : "bg-background"
                                 }`}
                               />
 
@@ -118,9 +129,7 @@ export default function CalendarPage() {
                                 {/* details */}
                                 <div className="flex flex-1 flex-col justify-center gap-2">
                                   <p className="font-serif text-[0.7rem] uppercase tracking-[0.25em] text-primary/70">
-                                    {ev.category === "Activation"
-                                      ? "Activation & Initiation"
-                                      : "Healing & Workshop"}
+                                    {categoryLabel}
                                   </p>
                                   <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
                                     <h3 className="font-serif text-lg leading-tight tracking-wide text-foreground transition-colors group-hover:text-primary">
@@ -167,8 +176,12 @@ export default function CalendarPage() {
                       Activation
                     </span>
                     <span className="inline-flex items-center gap-2">
+                      <span className="h-[10px] w-[10px] rotate-45 bg-primary/20 border border-primary" />
+                      Initiation
+                    </span>
+                    <span className="inline-flex items-center gap-2">
                       <span className="h-[10px] w-[10px] rotate-45 border border-primary bg-background" />
-                      Healing
+                      Workshop
                     </span>
                   </div>
                   <p className="mb-5 text-muted-foreground">

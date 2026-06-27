@@ -84,7 +84,7 @@ export default function HealersAcademy() {
         title="Answer the Call to Serve"
         duration="Intensive Program & Initiation"
         inquiry={inquiry}
-        note="Dates are scheduled with each group. Reach out and we will share the next available program and guide you through enrolment."
+        note="Healers Academy is a 5-day intensive program."
       />
     </ModalityShell>
   )
