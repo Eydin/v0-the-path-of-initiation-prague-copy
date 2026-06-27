@@ -1,13 +1,16 @@
 "use client"
 
-import { ArrowRight, Mail } from "lucide-react"
+import { ArrowRight } from "lucide-react"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { ParallaxImage } from "@/components/parallax-image"
 
+// MailerLite hosted newsletter form — collects the email straight into MailerLite.
+const NEWSLETTER_URL = "https://landing.mailerlite.com/webforms/landing/o1u2r8"
+
 /**
  * Newsletter call-to-action.
- * NOTE: the form is intentionally inert for now — the button leads nowhere
- * until an email provider is connected. No submission, no fake success.
+ * The button opens the MailerLite hosted form in a new tab, where the
+ * visitor's email is captured directly into the MailerLite account.
  */
 export function NewsletterSection() {
   return (
@@ -33,29 +36,16 @@ export function NewsletterSection() {
             sent only when there is something worth saying.
           </p>
 
-          {/* Inert form — wired to nowhere until an email provider is connected */}
-          <form
-            className="mx-auto flex max-w-md flex-col gap-3 sm:flex-row"
-            onSubmit={(e) => e.preventDefault()}
+          {/* Opens the MailerLite hosted form — email is captured into MailerLite */}
+          <a
+            href={NEWSLETTER_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mx-auto inline-flex h-14 items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-10 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
           >
-            <div className="relative flex-1">
-              <Mail className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-primary/60" />
-              <input
-                type="email"
-                inputMode="email"
-                placeholder="Your email"
-                aria-label="Your email address"
-                className="h-14 w-full rounded-sm border border-border bg-background/60 pl-11 pr-4 text-base text-foreground placeholder:text-muted-foreground/70 backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
-              />
-            </div>
-            <button
-              type="button"
-              className="inline-flex h-14 items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-8 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
-            >
-              Subscribe
-              <ArrowRight className="h-4 w-4" />
-            </button>
-          </form>
+            Subscribe to the Newsletter
+            <ArrowRight className="h-4 w-4" />
+          </a>
 
           <p className="mt-5 text-xs uppercase tracking-[0.2em] text-muted-foreground/60">
             No noise. Unsubscribe anytime.
