@@ -108,7 +108,7 @@ export default function SpecialtyHealings() {
       </Panel>
 
       <HealingGroup
-        title="King Salomon Healing Sessions"
+        title="King Salomon Healing Modalities Sessions"
         blurb="Core healings of the modality. Mastering all of its branches takes many years of dedicated training."
         items={kshmSessions}
       />
