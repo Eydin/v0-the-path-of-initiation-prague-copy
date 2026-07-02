@@ -220,11 +220,11 @@ export default function LineagePage() {
                 Those Who Guide
               </p>
               <h2 className="mb-8 text-center font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                The Council of Ipsissimi &amp; Leadership
+                The Council of Ipsissimi, The Council of 12  &amp; Leadership
               </h2>
               <p className="mx-auto mb-12 max-w-2xl text-center text-lg leading-relaxed text-muted-foreground">
                 Alongside the Third Order, the lineage is held and guided by the Governing Ipsissima &amp;
-                Ipsissimus and the wider leadership of the Modern Mystery School — devoted teachers who
+                Ipsissimus, the Council of Twelve Women and the wider leadership of the Modern Mystery School — devoted teachers who
                 steward the tradition and serve the school across the world.
               </p>
               <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
