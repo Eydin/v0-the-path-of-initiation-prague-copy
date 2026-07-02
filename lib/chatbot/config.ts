@@ -21,7 +21,7 @@ export const ASSISTANT_NAME = "Guide"
  * (provider/model string). Override per-deployment with the CHAT_MODEL env var
  * — e.g. CHAT_MODEL="anthropic/claude-haiku-4.5" for lower cost.
  */
-export const CHAT_MODEL = process.env.CHAT_MODEL || "anthropic/claude-sonnet-4.5"
+export const CHAT_MODEL = process.env.CHAT_MODEL || "google/gemini-3-flash"
 
 /** Greeting shown when the chat panel is first opened. */
 export const GREETING =
