@@ -86,6 +86,9 @@ export function ChatWidget() {
           return next
         })
       }
+      
+      acc += decoder.decode() // Flush any remaining buffered bytes
+
       if (!acc.trim()) throw new Error("empty response")
     } catch (err) {
       console.error("[chat] failed:", err)
