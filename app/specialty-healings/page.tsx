@@ -13,10 +13,6 @@ import {
 import { HealingGroup, type Healing } from "@/components/healing-grid"
 import { ScrollReveal } from "@/components/scroll-reveal"
 
-const featured: Healing[] = [
-  
-  
-]
 
 // King Salomon Healing Modality sessions currently offered.
 const kshmSessions: Healing[] = [
