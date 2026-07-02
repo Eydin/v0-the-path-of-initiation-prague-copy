@@ -44,7 +44,7 @@ export async function POST(req: Request) {
       model: CHAT_MODEL,
       system: SYSTEM_PROMPT,
       messages,
-      maxOutputTokens: 800,
+      maxOutputTokens: 1500,
       temperature: 0.4,
     })
 
