@@ -22,6 +22,7 @@ const holders = [
     title: "Sovereign Ipsissimus & Hierophant",
     role: "Founder of the Modern Mystery School",
     image: "gudni-gudnason.jpg",
+    href: "https://modernmysteryschoolint.com/founder-gudni/",
     bio: "Born in Iceland and raised steeped in the mysteries, Gudni travelled widely to receive teachings and initiations across a myriad of traditions. His teaching career spans over forty years — Kabbalah, Alchemy, Metaphysics, Quantum Physics and far beyond. A master metaphorical teacher, he imparts esoteric principle through analogy, allegory and parable. In 1997 he brought the Modern Mystery School publicly to the world.",
   },
   {
@@ -29,6 +30,7 @@ const holders = [
     title: "Sovereign Ipsissimus",
     role: "Member of the Third Order",
     image: "hideto-nakagome.jpg",
+    href: "https://modernmysteryschoolint.com/sovereign-ipsissimus-hideto/",
     bio: "A lineage holder and administrator of the Third Order, anchoring the lineage and its teachings in the East. Together with his brothers of the Third Order, he safeguards the purity of the tradition and keeps the door of the Mystery School open to those who seek the Light.",
   },
   {
@@ -36,6 +38,7 @@ const holders = [
     title: "Sovereign Ipsissimus",
     role: "Member of the Third Order",
     image: "dave-lanyon.jpg",
+    href: "https://modernmysteryschoolint.com/sovereign-ipsissimus-dave-lanyon/",
     bio: "A lineage holder and administrator of the Third Order. In union with his fellow key holders he administers and attends to the maintenance of the lineage, ensuring the teachings are passed on with integrity from teacher to student through the holy process of initiation.",
   },
 ]
@@ -91,11 +94,19 @@ export default function LineagePage() {
                   means a lineal descent from an ancestor — an ancestry, a pedigree.
                 </p>
                 <p>
-                  The Modern Mystery School has persisted through time an ancient tradition of
-                  sharing knowledge from teacher to student, affirmed by the holy process of
-                  initiation. This direct transfer of information has preserved the virtue and
-                  honour of the mystery school tradition, which has held the secrets of God, the
-                  universe, and the keys to true spiritual power since the beginning of time.
+                  <a
+                    href="https://modernmysteryschoolint.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-semibold text-primary underline hover:text-primary/80"
+                  >
+                    The Modern Mystery School
+                  </a>{" "}
+                  has persisted through time an ancient tradition of sharing knowledge from
+                  teacher to student, affirmed by the holy process of initiation. This direct
+                  transfer of information has preserved the virtue and honour of the mystery
+                  school tradition, which has held the secrets of God, the universe, and the
+                  keys to true spiritual power since the beginning of time.
                 </p>
                 <p className="font-serif text-xl italic text-foreground">
                   This wisdom and power is available to all who truly seek it and are willing to
@@ -131,7 +142,14 @@ export default function LineagePage() {
               </h2>
               <div className="flex flex-col gap-6 text-lg leading-relaxed text-muted-foreground">
                 <p>
-                  The lineage of the Modern Mystery School dates back to the time of King Salomon
+                  The lineage of the <a
+                    href="https://modernmysteryschoolint.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-semibold text-primary underline hover:text-primary/80"
+                  >
+                    Modern Mystery School
+                  </a>{" "} dates back to the time of King Salomon
                   and therefore carries over 3,000 years of written history and lineage. While the
                   mystery school tradition is far older, the lineage of the MMS and its teachings
                   can be verified and traced directly to the teachings of King Salomon himself.
@@ -177,7 +195,12 @@ export default function LineagePage() {
             <div className="grid gap-10 md:grid-cols-3">
               {holders.map((h, i) => (
                 <ScrollReveal key={h.name} delay={i * 0.12}>
-                  <article className="group flex h-full flex-col border border-primary/20 bg-card/60 backdrop-blur-sm">
+                  <a
+                    href={h.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group flex h-full flex-col border border-primary/20 bg-card/60 backdrop-blur-sm no-underline"
+                  >
                     <KenBurns
                       src={`/images/art/${h.image}`}
                       alt={`${h.title} ${h.name}`}
@@ -189,14 +212,16 @@ export default function LineagePage() {
                       <p className="font-serif text-xs uppercase tracking-[0.25em] text-primary">
                         {h.title}
                       </p>
-                      <h3 className="font-serif text-2xl tracking-wide text-foreground">{h.name}</h3>
+                      <h3 className="font-serif text-2xl tracking-wide text-foreground">
+                        {h.name}
+                      </h3>
                       <p className="text-sm uppercase tracking-[0.15em] text-muted-foreground">
                         {h.role}
                       </p>
                       <div className="my-2 h-px w-12 bg-primary/40" />
                       <p className="text-base leading-relaxed text-muted-foreground">{h.bio}</p>
                     </div>
-                  </article>
+                  </a>
                 </ScrollReveal>
               ))}
             </div>
