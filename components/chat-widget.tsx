@@ -6,6 +6,7 @@
 
 import { useEffect, useRef, useState } from "react"
 import { Sparkles, X, Send, ArrowUpRight } from "lucide-react"
+import ReactMarkdown from "react-markdown"
 import { ASSISTANT_NAME, GREETING, WHATSAPP_HANDOFF } from "@/lib/chatbot/config"
 
 type Msg = { role: "user" | "assistant"; content: string }
@@ -71,7 +72,15 @@ export function ChatWidget() {
         body: JSON.stringify({ messages: history }),
       })
 
-      if (!res.ok || !res.body) throw new Error(`status ${res.status}`)
+      if (!res.ok) {
+        console.error(`[chat] API returned status ${res.status}`)
+        throw new Error(`API error: ${res.status}`)
+      }
+
+      if (!res.body) {
+        console.error("[chat] No response body")
+        throw new Error("No response body")
+      }
 
       const reader = res.body.getReader()
       const decoder = new TextDecoder()
@@ -79,7 +88,9 @@ export function ChatWidget() {
       while (true) {
         const { done, value } = await reader.read()
         if (done) break
-        acc += decoder.decode(value, { stream: true })
+        const decoded = decoder.decode(value, { stream: true })
+        acc += decoded
+        console.debug(`[chat] streamed chunk:`, decoded.length, "bytes")
         setMessages((prev) => {
           const next = [...prev]
           next[next.length - 1] = { role: "assistant", content: acc }
@@ -89,7 +100,12 @@ export function ChatWidget() {
       
       acc += decoder.decode() // Flush any remaining buffered bytes
 
-      if (!acc.trim()) throw new Error("empty response")
+      if (!acc.trim()) {
+        console.error("[chat] Empty response from API")
+        throw new Error("empty response")
+      }
+
+      console.log(`[chat] Complete response: ${acc.length} characters`)
     } catch (err) {
       console.error("[chat] failed:", err)
       setError(true)
@@ -98,7 +114,7 @@ export function ChatWidget() {
         next[next.length - 1] = {
           role: "assistant",
           content:
-            "I'm sorry — I can't reach my knowledge right now. Radu would be glad to help you personally on WhatsApp.",
+            "**I'm sorry** — I can't reach my knowledge right now. Radu would be glad to help you personally on WhatsApp.",
         }
         return next
       })
@@ -174,13 +190,45 @@ export function ChatWidget() {
               m.role === "user" ? (
                 <div key={i} className="flex justify-end">
                   <div className="max-w-[85%] whitespace-pre-wrap rounded-2xl rounded-tr-sm bg-primary px-3.5 py-2.5 text-sm leading-relaxed text-primary-foreground">
-                    {m.content}
+                    <div className="[&_p]:m-0 [&_p:not(:last-child)]:mb-2 [&_ul]:my-1 [&_ol]:my-1 [&_li]:m-0 [&_strong]:font-semibold [&_em]:italic [&_a]:underline [&_a]:text-primary hover:[&_a]:opacity-80">
+                      <ReactMarkdown
+                        components={{
+                          p: ({ node, ...props }) => <p {...props} />,
+                          strong: ({ node, ...props }) => <strong className="font-semibold" {...props} />,
+                          em: ({ node, ...props }) => <em className="italic" {...props} />,
+                          a: ({ node, ...props }) => <a className="text-primary underline hover:opacity-80" target="_blank" rel="noopener noreferrer" {...props} />,
+                          ul: ({ node, ...props }) => <ul className="list-disc list-inside my-1 space-y-0.5" {...props} />,
+                          ol: ({ node, ...props }) => <ol className="list-decimal list-inside my-1 space-y-0.5" {...props} />,
+                          li: ({ node, ...props }) => <li className="m-0" {...props} />,
+                          code: ({ node, inline, ...props }) => inline ? <code className="bg-primary/10 px-1 rounded text-xs" {...props} /> : <pre className="bg-primary/5 p-2 rounded overflow-x-auto text-xs my-1" {...props} />,
+                        }}
+                      >
+                        {m.content}
+                      </ReactMarkdown>
+                    </div>
                   </div>
                 </div>
               ) : (
                 <div key={i} className="flex">
-                  <div className="max-w-[85%] whitespace-pre-wrap rounded-2xl rounded-tl-sm border border-primary/15 bg-muted/50 px-3.5 py-2.5 text-sm leading-relaxed text-foreground">
-                    {m.content || (
+                  <div className="max-w-[85%] rounded-2xl rounded-tl-sm border border-primary/15 bg-muted/50 px-3.5 py-2.5 text-sm leading-relaxed text-foreground">
+                    {m.content ? (
+                      <div className="[&_p]:m-0 [&_p:not(:last-child)]:mb-2 [&_ul]:my-1 [&_ol]:my-1 [&_li]:m-0 [&_strong]:font-semibold [&_em]:italic [&_a]:underline [&_a]:text-primary [&_a]:cursor-pointer hover:[&_a]:opacity-80">
+                        <ReactMarkdown
+                          components={{
+                            p: ({ node, ...props }) => <p {...props} />,
+                            strong: ({ node, ...props }) => <strong className="font-semibold" {...props} />,
+                            em: ({ node, ...props }) => <em className="italic" {...props} />,
+                            a: ({ node, ...props }) => <a className="text-primary underline cursor-pointer hover:opacity-80" target="_blank" rel="noopener noreferrer" {...props} />,
+                            ul: ({ node, ...props }) => <ul className="list-disc list-inside my-1 space-y-0.5" {...props} />,
+                            ol: ({ node, ...props }) => <ol className="list-decimal list-inside my-1 space-y-0.5" {...props} />,
+                            li: ({ node, ...props }) => <li className="m-0" {...props} />,
+                            code: ({ node, inline, ...props }) => inline ? <code className="bg-primary/10 px-1 rounded text-xs" {...props} /> : <pre className="bg-primary/5 p-2 rounded overflow-x-auto text-xs my-1" {...props} />,
+                          }}
+                        >
+                          {m.content}
+                        </ReactMarkdown>
+                      </div>
+                    ) : (
                       <span className="inline-flex gap-1 align-middle">
                         <Dot /> <Dot delay="150ms" /> <Dot delay="300ms" />
                       </span>
