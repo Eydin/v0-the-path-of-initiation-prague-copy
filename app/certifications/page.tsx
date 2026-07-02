@@ -3,6 +3,7 @@
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
+import Image from "next/image"
 
 export default function Certifications() {
   return (
@@ -39,13 +40,37 @@ export default function Certifications() {
                 <div className="max-w-4xl mx-auto">
                   <div className="bg-muted/60 backdrop-blur-sm border border-primary/20 rounded-lg p-8 md:p-12 space-y-6">
                     <p className="text-lg italic text-primary font-serif text-center">
-                      The certifications for the classes, initiations and healing sessions that Radu offers come from Modern Mystery School International.
+                      The certifications for the classes, initiations and healing sessions that Radu offers come from{' '}
+                      <a
+                        href="https://modernmysteryschoolint.com/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="font-semibold text-primary underline hover:text-primary/80"
+                      >
+                        Modern Mystery School International
+                      </a>
+                      .
                     </p>
-                    
                     <div className="border-t border-primary/20 pt-6">
                       <p className="text-lg leading-relaxed text-foreground text-center">
-                        Radu has undergone numerous initiations and trainings to prepare himself and to be able to hold the energy for the trasformation to happen for his students.
+                        He has undergone numerous initiations and trainings to prepare himself and to be able to hold the energy for the trasformation to happen for his students.
                       </p>
+                    </div>
+                    <div className="mt-8 flex justify-center">
+                      <a
+                        href="https://modernmysteryschoolint.com/certified-professionals/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block w-full max-w-[260px] transition hover:opacity-80"
+                      >
+                        <Image
+                          src="/images/certified-by-mms-new.png"
+                          alt="Certified by the Modern Mystery School"
+                          width={260}
+                          height={104}
+                          className="h-auto w-full"
+                        />
+                      </a>
                     </div>
                   </div>
                 </div>

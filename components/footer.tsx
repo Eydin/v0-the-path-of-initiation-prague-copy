@@ -83,6 +83,14 @@ export function Footer() {
                 WhatsApp · +420 792 908 296
               </a>
               <a
+                href="https://www.facebook.com/radu.coman.338"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm text-muted-foreground transition-colors hover:text-primary"
+              >
+                Facebook
+              </a>
+              <a
                 href="mailto:info@thepathofinitiationprague.com"
                 className="text-sm text-muted-foreground transition-colors hover:text-primary"
               >
@@ -95,21 +103,24 @@ export function Footer() {
                 Testimonials
               </Link>
             </div>
-            <a
-              href="https://modernmysteryschoolint.com/certified-professionals/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-6 inline-block transition hover:opacity-80"
-            >
-              <Image
-                src="/images/certified-by-mms-new.png"
-                alt="Certified by the Modern Mystery School"
-                width={180}
-                height={72}
-                className="h-auto"
-              />
-            </a>
           </div>
+        </div>
+
+        <div className="mt-10 flex justify-center">
+          <a
+            href="https://modernmysteryschoolint.com/certified-professionals/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block w-full max-w-[260px] transition hover:opacity-80"
+          >
+            <Image
+              src="/images/certified-by-mms-new.png"
+              alt="Certified by the Modern Mystery School"
+              width={260}
+              height={104}
+              className="h-auto w-full"
+            />
+          </a>
         </div>
 
         <div className="mt-14 border-t border-border/60 pt-6">
