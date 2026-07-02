@@ -31,6 +31,19 @@ function extract(src){
 let doc="";files.sort();
 for(const f of files){const lines=extract(readFileSync(f,"utf8"));if(!lines.length)continue;doc+=`\n\n## PAGE: ${routeName(f)}\n`+lines.join("\n");}
 doc=doc.trim();
-const ts=`// AUTO-GENERATED from site pages by scripts/build-knowledge.mjs — do not edit by hand.\n// Regenerate after content changes: node scripts/build-knowledge.mjs\nexport const SITE_KNOWLEDGE = ${JSON.stringify(doc)};\n`;
+
+// --- FIX APPLIED HERE ---
+// 1. Escape literal backslashes so they don't break string evaluation
+// 2. Escape any backticks found in your components so they don't close the template string early
+// 3. Escape ${ so TypeScript doesn't mistake it for template interpolation
+const safeDoc = doc
+  .replace(/\\/g, "\\\\")
+  .replace(/`/g, "\\`")
+  .replace(/\${/g, "\\${");
+
+// 4. Output inside a clean backtick string literal instead of using JSON.stringify
+const ts=`// AUTO-GENERATED from site pages by scripts/build-knowledge.mjs — do not edit by hand.\n// Regenerate after content changes: node scripts/build-knowledge.mjs\nexport const SITE_KNOWLEDGE = \`${safeDoc}\`;\n`;
+// ------------------------
+
 writeFileSync(join(ROOT,"lib/chatbot/site-knowledge.ts"),ts);
 console.log("Wrote lib/chatbot/site-knowledge.ts —",files.length,"pages,",doc.length,"chars");
