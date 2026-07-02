@@ -89,7 +89,7 @@ export default function SpecialtyHealings() {
       <ModalityHero
         eyebrow="The King Salomon Healing Modality"
         title="Specialty Healings"
-        subtitle="The deep healings of a 3,500-year lineage"
+        subtitle="The deep healings of a 3,000-year lineage"
         tagline="For those ready to go beyond the foundational sessions"
       />
 
