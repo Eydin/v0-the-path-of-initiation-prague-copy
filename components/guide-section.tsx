@@ -43,7 +43,7 @@ export function GuideSection() {
             <div className="flex flex-col gap-6">
               <p className="text-lg leading-relaxed text-muted-foreground">
                 Radu Coman is a Guide and Teacher in the lineage of King Salomon,
-                certified by the Modern Mystery School. With years of dedicated training and a
+                certified by the <a href="https://www.modernmysteryschoolint.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors underline">Modern Mystery School</a>. With years of dedicated training and a
                 deep passion for empowering others, Radu has made it his mission
                 to bring the ancient teachings to the heart of Europe.
               </p>

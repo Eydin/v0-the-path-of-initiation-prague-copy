@@ -114,7 +114,8 @@ export default function RootLayout({
         "parentOrganization": {
           "@type": "Organization",
           "name": "Modern Mystery School International",
-          "url": "https://www.modernmysteryschoolint.com"
+          "url": "https://www.modernmysteryschoolint.com",
+          "sameAs": ["https://www.modernmysteryschoolint.com"]
         }
       },
       {
