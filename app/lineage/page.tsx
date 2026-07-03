@@ -276,6 +276,45 @@ export default function LineagePage() {
           </div>
         </section>
 
+        <section className="relative py-20 lg:py-24">
+          <div className="mx-auto max-w-3xl px-6">
+            <ScrollReveal>
+              <p className="mb-3 text-center font-serif text-sm uppercase tracking-[0.3em] text-primary">
+                Further Reading
+              </p>
+              <h2 className="mb-8 text-center font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
+                Other resources you can read
+              </h2>
+              <div className="flex flex-col gap-4 text-lg leading-relaxed text-muted-foreground">
+                <a
+                  href="https://modernmysteryschoolint.com/what-is-lineage/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded border border-border/60 bg-card/70 px-5 py-4 transition-colors hover:border-primary hover:text-primary"
+                >
+                  Lineage
+                </a>
+                <a
+                  href="https://modernmysteryschoolint.com/core-values/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded border border-border/60 bg-card/70 px-5 py-4 transition-colors hover:border-primary hover:text-primary"
+                >
+                  Core Values &amp; Beliefs
+                </a>
+                <a
+                  href="https://modernmysteryschoolint.com/illuminating-our-culture-of-light/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded border border-border/60 bg-card/70 px-5 py-4 transition-colors hover:border-primary hover:text-primary"
+                >
+                  Culture of Light
+                </a>
+              </div>
+            </ScrollReveal>
+          </div>
+        </section>
+
         {/* ── CTA ── */}
         <section className="relative py-24 lg:py-32">
           <div className="absolute inset-0 bg-muted/40" />

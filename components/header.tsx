@@ -27,13 +27,14 @@ const healing = [
   { href: "/stress-management", label: "Stress Rescue" },
 ]
 
-const simpleLinks = [
-  { href: "/calendar", label: "Calendar" },
+const aboutLinks = [
   { href: "/#guide", label: "Your Guide" },
   { href: "/lineage", label: "Lineage" },
   { href: "/testimonials", label: "Testimonials" },
   { href: "/certifications", label: "Certifications" },
 ]
+
+const simpleLinks = [{ href: "/calendar", label: "Calendar" }]
 
 function DropdownLink({ label, items }: { label: string; items: { href: string; label: string }[] }) {
   return (
@@ -81,6 +82,7 @@ export function Header() {
         <nav className="hidden items-center gap-7 lg:flex">
           <DropdownLink label="Activations & Initiations" items={activations} />
           <DropdownLink label="Healing & Workshops" items={healing} />
+          <DropdownLink label="About" items={aboutLinks} />
           {simpleLinks.map((link) => (
             <Link
               key={link.href}
@@ -133,6 +135,21 @@ export function Header() {
               <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">Healing & Workshops</p>
               <div className="flex flex-col gap-2.5 pl-1">
                 {healing.map((link) => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
+                    onClick={() => setMobileMenuOpen(false)}
+                  >
+                    {link.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+            <div>
+              <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">About</p>
+              <div className="flex flex-col gap-2.5 pl-1">
+                {aboutLinks.map((link) => (
                   <Link
                     key={link.href}
                     href={link.href}

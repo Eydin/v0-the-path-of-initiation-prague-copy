@@ -200,7 +200,6 @@ export function ChatWidget() {
                           ul: ({ node, ...props }) => <ul className="list-disc list-inside my-1 space-y-0.5" {...props} />,
                           ol: ({ node, ...props }) => <ol className="list-decimal list-inside my-1 space-y-0.5" {...props} />,
                           li: ({ node, ...props }) => <li className="m-0" {...props} />,
-                          code: ({ node, inline, ...props }) => inline ? <code className="bg-primary/10 px-1 rounded text-xs" {...props} /> : <pre className="bg-primary/5 p-2 rounded overflow-x-auto text-xs my-1" {...props} />,
                         }}
                       >
                         {m.content}
@@ -222,7 +221,6 @@ export function ChatWidget() {
                             ul: ({ node, ...props }) => <ul className="list-disc list-inside my-1 space-y-0.5" {...props} />,
                             ol: ({ node, ...props }) => <ol className="list-decimal list-inside my-1 space-y-0.5" {...props} />,
                             li: ({ node, ...props }) => <li className="m-0" {...props} />,
-                            code: ({ node, inline, ...props }) => inline ? <code className="bg-primary/10 px-1 rounded text-xs" {...props} /> : <pre className="bg-primary/5 p-2 rounded overflow-x-auto text-xs my-1" {...props} />,
                           }}
                         >
                           {m.content}
