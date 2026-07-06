@@ -9,7 +9,7 @@
 //  parseLocalDate) to avoid the UTC off-by-one-day bug.
 // ─────────────────────────────────────────────────────────────────────────
 
-export type ClassCategory = "Activation" | "Initiation" | "Workshop"
+export type ClassCategory = "Activation" | "Initiation" | "Workshop" | "Community"
 
 export type ScheduledClass = {
   /** Route slug, e.g. "life-activation" — also the URL path. */
@@ -37,9 +37,6 @@ export const SCHEDULE: ScheduledClass[] = [
     time: "10:00",
     duration: "2 Hours",
     dates: [
-      "2026-07-03",
-      "2026-07-24",
-      "2026-08-14",
       "2026-09-04",
       "2026-09-25",
       "2026-10-16",
@@ -53,10 +50,9 @@ export const SCHEDULE: ScheduledClass[] = [
     category: "Initiation",
     title: "Empower Thyself",
     location: "Prague, CZ",
-    time: "10:00",
+    time: "9:30",
     duration: "2-Day Initiation",
     dates: [
-      "2026-07-25",
       "2026-08-29",
       "2026-09-26",
       "2026-10-17",
@@ -75,7 +71,6 @@ export const SCHEDULE: ScheduledClass[] = [
     time: "10:00",
     duration: "2 Hours",
     dates: [
-      "2026-07-26",
       "2026-09-27",
       "2026-11-22"
     ],
@@ -126,7 +121,6 @@ export const SCHEDULE: ScheduledClass[] = [
     time: "14:00",
     duration: "Workshop - 5 Hours",
     dates: [
-      "2026-07-18",
       "2026-09-19",
       "2026-10-31",
       "2026-12-12",
@@ -143,7 +137,6 @@ export const SCHEDULE: ScheduledClass[] = [
     time: "11:00",
     duration: "Workshop - 2.5 Hours",
     dates: [
-      "2026-07-05",
       "2026-09-20",
       "2026-11-15"
     ],
@@ -168,10 +161,54 @@ export const SCHEDULE: ScheduledClass[] = [
     time: "18:00",
     duration: "Workshop - 2.5 Hours",
     dates: [
-      "2026-07-05",
-      "2026-08-16",
       "2026-09-27",
       "2026-11-08"
+    ],
+  },
+  {
+    slug: "community#prayer-evening",
+    category: "Community",
+    title: "Prayer Evenings",
+    location: "Vrsovice, Prague 10, CZ",
+    time: "19:00",
+    duration: "2 Hours",
+    dates: [
+      "2026-08-27",
+      "2026-09-16",
+      "2026-10-14",
+      "2026-11-11",
+      "2026-12-09",
+    ],
+  },
+  {
+    slug: "community#meditation-evening",
+    category: "Community",
+    title: "Meditation Evenings",
+    location: "Vrsovice, Prague 10, CZ",
+    time: "19:30",
+    duration: "1.5 Hours",
+    dates: [
+      "2026-08-20",
+      "2026-09-03",
+      "2026-09-17",
+      "2026-10-01",
+      "2026-10-15",
+      "2026-10-29",
+    ],
+  },
+  {
+    slug: "community#socialization-evening",
+    category: "Community",
+    title: "Socialization Evenings",
+    location: "Vrsovice, Prague 10, CZ",
+    time: "18:30",
+    duration: "3 Hours",
+    dates: [
+      "2026-08-21",
+      "2026-09-18",
+      "2026-10-16",
+      "2026-11-20",
+      "2026-12-18",
     ],
   },
 ]

@@ -30,11 +30,13 @@ const healing = [
 const aboutLinks = [
   { href: "/#guide", label: "Your Guide" },
   { href: "/lineage", label: "Lineage" },
-  { href: "/testimonials", label: "Testimonials" },
-  { href: "/certifications", label: "Certifications" },
+  { href: "/testimonials", label: "Testimonials" },  { href: "/certifications", label: "Certifications" },
 ]
 
-const simpleLinks = [{ href: "/calendar", label: "Calendar" }]
+const simpleLinks = [
+  { href: "/calendar", label: "Calendar" },
+  { href: "/community", label: "Community" },
+]
 
 function DropdownLink({ label, items }: { label: string; items: { href: string; label: string }[] }) {
   return (

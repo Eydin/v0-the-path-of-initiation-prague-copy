@@ -42,8 +42,8 @@ export default function CalendarPage() {
                     <span className="h-px w-10 bg-primary/50" />
                   </div>
                   <p className="text-lg leading-relaxed text-muted-foreground">
-                    Every activation, initiation and workshop held in Prague over the
-                    coming season. Follow the path one step at a time.
+                    Every activation, initiation, workshop and community gathering held
+                    in Prague and other international locations over the coming season. Follow the path one step at a time.
                   </p>
                 </div>
               </ScrollReveal>
@@ -91,12 +91,16 @@ export default function CalendarPage() {
                           const weekday = date.toLocaleDateString("en-GB", { weekday: "short" })
                           const isActivation = ev.category === "Activation"
                           const isInitiation = ev.category === "Initiation"
+                          const isCommunity = ev.category === "Community"
+                          const isWorkshop = ev.category === "Workshop"
                           const categoryLabel =
                             ev.category === "Activation"
                               ? "Activation"
                               : ev.category === "Initiation"
                                 ? "Initiation"
-                                : "Workshop"
+                                : ev.category === "Community"
+                                  ? "Community"
+                                  : "Workshop"
                           return (
                             <li key={`${ev.slug}-${ev.date}`} className="relative pl-9">
                               {/* node on the path — filled for Activations, highlighted for Initiations, hollow for Workshops */}
@@ -104,10 +108,14 @@ export default function CalendarPage() {
                                 aria-hidden
                                 className={`absolute left-[3px] top-7 h-[11px] w-[11px] rotate-45 border border-primary transition-colors ${
                                   isActivation
-                                    ? "bg-primary"
+                                    ? "bg-primary/50"
                                     : isInitiation
-                                      ? "bg-primary/20"
-                                      : "bg-background"
+                                      ? "bg-primary"
+                                      : isWorkshop
+                                        ? "bg-emerald-500/50"
+                                        : isCommunity
+                                          ? "bg-blue-500/50"
+                                          : "bg-background"
                                 }`}
                               />
 
@@ -180,8 +188,12 @@ export default function CalendarPage() {
                       Initiation
                     </span>
                     <span className="inline-flex items-center gap-2">
-                      <span className="h-[10px] w-[10px] rotate-45 border border-primary bg-background" />
+                      <span className="h-[10px] w-[10px] rotate-45 border border-primary bg-emerald-500" />
                       Workshop
+                    </span>
+                    <span className="inline-flex items-center gap-2">
+                      <span className="h-[10px] w-[10px] rotate-45 border border-primary bg-blue-500/50" />
+                      Community
                     </span>
                   </div>
                   <p className="mb-5 text-muted-foreground">

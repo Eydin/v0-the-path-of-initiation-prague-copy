@@ -51,7 +51,7 @@ export default function LineagePage() {
         {/* ── Hero ── */}
         <section className="relative flex min-h-[90vh] items-center justify-center overflow-hidden">
           <ParallaxImage
-            src="/images/art/ascent-blessed-bosch.jpg"
+            src="/images/art/pantheon-panini.jpg"
             alt=""
             position="center 35%"
             strength={90}
@@ -279,18 +279,15 @@ export default function LineagePage() {
         <section className="relative py-20 lg:py-24">
           <div className="mx-auto max-w-3xl px-6">
             <ScrollReveal>
-              <p className="mb-3 text-center font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                Further Reading
-              </p>
-              <h2 className="mb-8 text-center font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
+              <p className="mb-3 text-center font-serif text-sm uppercase tracking-[0.3em] text-foreground">
                 Other resources you can read
-              </h2>
+              </p>
               <div className="flex flex-col gap-4 text-lg leading-relaxed text-muted-foreground">
                 <a
                   href="https://modernmysteryschoolint.com/what-is-lineage/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="rounded border border-border/60 bg-card/70 px-5 py-4 transition-colors hover:border-primary hover:text-primary"
+                  className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
                 >
                   Lineage
                 </a>
@@ -298,7 +295,7 @@ export default function LineagePage() {
                   href="https://modernmysteryschoolint.com/core-values/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="rounded border border-border/60 bg-card/70 px-5 py-4 transition-colors hover:border-primary hover:text-primary"
+                  className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
                 >
                   Core Values &amp; Beliefs
                 </a>
@@ -306,12 +303,25 @@ export default function LineagePage() {
                   href="https://modernmysteryschoolint.com/illuminating-our-culture-of-light/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="rounded border border-border/60 bg-card/70 px-5 py-4 transition-colors hover:border-primary hover:text-primary"
+                  className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
                 >
                   Culture of Light
                 </a>
               </div>
             </ScrollReveal>
+          </div>
+        </section>
+
+        {/* ── Community Image (static) ── */}
+        <section className="relative py-12 lg:py-16">
+          <div className="mx-auto max-w-6xl px-6">
+            <div className="overflow-hidden rounded-2xl border border-border/40 bg-card/60">
+              <img
+                src="/images/community/Radu%20DSC03340.jpg"
+                alt="Radu with community members"
+                className="w-full h-72 object-cover sm:h-160"
+              />
+            </div>
           </div>
         </section>
 

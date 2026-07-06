@@ -205,6 +205,7 @@ export function BookingBlock({
   duration,
   inquiry,
   slug,
+  id,
   bookHref,
   bookLabel = "Book Now",
   children,
@@ -216,6 +217,8 @@ export function BookingBlock({
   inquiry: string
   /** When set, shows the next two upcoming dates for this class. */
   slug?: string
+  /** Optional id for URL anchoring. If not provided, extracts from slug (the part after #). */
+  id?: string
   /** Optional direct checkout (Stripe) link — renders a prominent Book Now button. */
   bookHref?: string
   bookLabel?: string
@@ -223,8 +226,11 @@ export function BookingBlock({
   children?: ReactNode
   note?: string
 }) {
+  // Extract id from slug if not provided (e.g., "community#prayer-evening" -> "prayer-evening")
+  const sectionId =
+    id || (slug?.includes("#") ? slug.split("#")[1] : "inscriere-eveniment")
   return (
-    <section id="inscriere-eveniment" className="relative py-20 lg:py-28">
+    <section id={sectionId} className="relative py-20 lg:py-28">
       <div className="mx-auto max-w-7xl px-6">
         <ScrollReveal>
           <div className="mx-auto max-w-4xl">
