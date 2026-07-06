@@ -14,7 +14,7 @@ import { NewsletterSection } from "@/components/newsletter-section"
 
 export default function Home() {
   return (
-    <>
+    <div className="overflow-x-hidden">
       <Header />
       <main>
         <HeroSection />
@@ -57,6 +57,6 @@ export default function Home() {
         <EndingSection />
       </main>
       <Footer />
-    </>
+    </div>
   )
 }
