@@ -1,9 +1,9 @@
-// AUTO-GENERATED from site pages by scripts/build-knowledge.mjs — do not edit by hand.
+// AUTO-GENERATED from site pages by scripts/build-knowledge.mjs   do not edit by hand.
 // Regenerate after content changes: node scripts/build-knowledge.mjs
 export const SITE_KNOWLEDGE = `## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\astral-travel\\
 The art and science kept by the mystery schools for millennia
-We are far more than our physical body. Within the teachings of the Modern Mystery School, astral travel is the conscious, deliberate projection of awareness beyond the physical — a discipline studied and refined across thousands of years. Far from a dream or accident, it is a skill that can be learned, practised and trusted.
-In this workshop you are given the keys to leave the body safely and return with clarity — to explore the subtle realms, meet your guides, and gain a perspective on your life that the physical senses alone can never reach.
+We are far more than our physical body. Within the teachings of the Modern Mystery School, astral travel is the conscious, deliberate projection of awareness beyond the physical a discipline studied and refined across thousands of years. Far from a dream or accident, it is a skill that can be learned, practised and trusted.
+In this workshop you are given the keys to leave the body safely and return with clarity to explore the subtle realms, meet your guides, and gain a perspective on your life that the physical senses alone can never reach.
 What You Will Learn
 Hello Radu, I would like to learn more about the Astral Travel workshop.
 A Workshop of the Mystery School
@@ -26,7 +26,7 @@ Workshops are scheduled in small groups. Reach out for the next available date i
 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\aura-healing\\
 Healing that works through the geometry of light
-Your aura is the energetic field that surrounds and protects you — and over time it can be drained, torn or clouded by stress, grief and the demands of daily life. The Sacred Geometry Aura Healing uses the ordered patterns of creation to repair that field, restoring its strength, clarity and natural protection.
+Your aura is the energetic field that surrounds and protects you and over time it can be drained, torn or clouded by stress, grief and the demands of daily life. The Sacred Geometry Aura Healing uses the ordered patterns of creation to repair that field, restoring its strength, clarity and natural protection.
 Working across the seven layers of the aura, this gentle session releases what no longer serves you, balances the energies of body and mind, and re-establishes a clean, whole and radiant field around you.
 The Benefits
 Hello Radu, I would like to learn more about the Sacred Geometry Aura Healing.
@@ -51,14 +51,17 @@ After you reach out, we will contact you personally to finalise your appointment
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\calendar\\
 The Path Ahead
 Calendar of Classes
-Every activation, initiation and workshop held in Prague over the coming season. Follow the path one step at a time.
+Every activation, initiation, workshop and community gathering held in Prague and other international locations over the coming season. Follow the path one step at a time.
 New dates are being scheduled. Please check back soon.
 Activation
 Initiation
 Workshop
+Community
 Not sure where to begin? Reach out and Radu will guide you personally.
 Ask About a Class
 const isInitiation = ev.category ===
+const isCommunity = ev.category ===
+const isWorkshop = ev.category ===
 const categoryLabel = ev.category ===
 : ev.category ===
 
@@ -66,8 +69,9 @@ const categoryLabel = ev.category ===
 Certifications
 Radu is here to support you in creating a life worth waking up for
 Every morning
-The certifications for the classes, initiations and healing sessions that Radu offers come from Modern Mystery School International.
-Radu has undergone numerous initiations and trainings to prepare himself and to be able to hold the energy for the trasformation to happen for his students.
+The certifications for the classes, initiations and healing sessions that Radu offers come from
+Modern Mystery School International
+He has undergone numerous initiations and trainings to prepare himself and to be able to hold the energy for the trasformation to happen for his students.
 Radu's Qualifications
 Radu is a certified
 Guide
@@ -80,6 +84,45 @@ Radu has completed all three levels of
 Ensofic Ray Healing
 , with a specialization in addressing destructive mental patterns, harmful habits, and addictions.
 Diplomas & Certificates
+
+## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\community\\
+Community
+A circle of
+hearts
+and shared transformation
+The Path of Initiation Prague is far more than just a place to take classes. It is a living, breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.
+Beyond the Classroom
+Space for genuine growth & connection
+Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about
+embodying their divine essence
+, accelerating personal growth, and overcoming life's challenges together.
+But don't worry, it's not all serious! We believe that true spiritual integration comes with a light heart. We share plenty of laughter, joy, and genuine fun along the way.
+What ties us together
+• Supportive gatherings and zero-judgment conversations
+• Overcoming personal challenges with community support
+• Celebrating the joy, magic, and fun of life together
+• Embodying our divinity through practical daily actions
+• Excitement of living life alive!
+Our Gatherings
+Regular Community Evenings
+Open to students, initiates and anyone else interested.
+Gentle evenings of prayer, deep reflection, and collective intention designed to open the heart and strengthen inner alignment. A peaceful oasis to realign your vibration, step back from life's clutter, and anchor your focus into your highest essence alongside companions who hold the same sacred intent.
+Quiet spaces built for profound stillness, breath-work, visualization, and the deepening of awareness through guided traditional paths. Perfect for resetting the nervous system, taming mental over-activity, and leaning on collective group energy to unlock deeper meditative states than practicing alone.
+Warm, high-vibrational, and beautifully relaxed gatherings where friends, seekers, and students meet in joyful fellowship. This is where we let our hair down, laugh over tea, swap stories about life's adventures, and build friendships that support our human experience just as much as our spiritual paths.
+An expansive global circle of practitioners, initiates, and teachers sharing the ancient lineages, values, and spiritual lineage of the Modern Mystery School. Connecting here unlocks international events, global networking with conscious peers, and shared support infrastructures for systemic transformation.
+See the international schedule over here:
+Calendar - Modern Mystery School UK and Europe
+Begin with a conversation
+Join the circle
+If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
+Contact the Community
+lucide-react
+https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20community%20and%20upcoming%20events.
+title=
+investment=
+duration=
+inquiry=
+note=
 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\empower-thyself\\
 If you could be like God — filled with love, harmony, and creative power — would you do it?
@@ -167,15 +210,15 @@ t stop there — this program also gives you the tools to change those parts of 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\full-spirit-activation\\
 Full Spirit Activation — received after the Life Activation
 Beneath the veil of our physical existence lies a vast and complex world of consciousness that, once awakened and activated, can radically transform the way we perceive and experience reality. Full Spirit Activation is a powerful process that brings light and clarity to our entire being, opening us to deeper levels of awareness and reconnecting us with our divine essence.
-While the Life Activation connects you to your original blueprint and Higher Self, the Full Spirit Activation acts as a portal to your true essence — awakening and anchoring the soul and the spirit into the physical body, creating a powerful bridge between the divine and the human experience.
+While the Life Activation connects you to your original blueprint and Higher Self, the Full Spirit Activation acts as a portal to your true essence awakening and anchoring the soul and the spirit into the physical body, creating a powerful bridge between the divine and the human experience.
 A Practice That Works at the Level of the Soul
-Similar to the Life Activation, which works on the physical level, the Full Spirit Activation operates at the level of the soul — opening the gates to higher dimensions of consciousness and being. It works deeply within different areas of the brain and reconnects them to specific points in the physical body, which are then linked to the subtle energy bodies, amplifying the flow of spiritual energy throughout your entire system.
-In a more tangible sense, it unlocks the channels of consciousness within the body, revitalizing the nervous and sensory systems. This allows us to connect more deeply to our physical sensations — free from the emotional and mental blocks that may have limited us in the past — filling us with a radiant vitality and an overwhelming joy for life.
+Similar to the Life Activation, which works on the physical level, the Full Spirit Activation operates at the level of the soul opening the gates to higher dimensions of consciousness and being. It works deeply within different areas of the brain and reconnects them to specific points in the physical body, which are then linked to the subtle energy bodies, amplifying the flow of spiritual energy throughout your entire system.
+In a more tangible sense, it unlocks the channels of consciousness within the body, revitalizing the nervous and sensory systems. This allows us to connect more deeply to our physical sensations free from the emotional and mental blocks that may have limited us in the past filling us with a radiant vitality and an overwhelming joy for life.
 You are meant to express
 beauty and good
 A Process That Works on Multiple Aspects of Your Being
 Additional Procedures for Balancing & Transformation
-After such an intense session, it is recommended to allow yourself time to fully integrate the transformations. To maximise the benefits, complete the Life Activation first — ideally between three weeks and three months beforehand.
+After such an intense session, it is recommended to allow yourself time to fully integrate the transformations. To maximise the benefits, complete the Life Activation first ideally between three weeks and three months beforehand.
 Hello Radu, I would like to learn more about the Full Spirit Activation.
 The Mystery Tradition · Lineage of King Salomon
 Full Spirit Activation
@@ -202,13 +245,13 @@ Discover Your Potential to Be a Divine Being
 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\healers-academy\\
 An intensive program & initiation — open to graduates of Empower Thyself
-The Healers Academy is the second level of initiation on the Path. After Empower Thyself awakens your own power, the Healers Academy turns that power outward — training you to hold sacred space and to bring true healing to others. It is the threshold where a student of the mysteries becomes a practitioner of them.
-Over an intensive program of study and practice, you are initiated and certified to offer the foundational modalities of the Modern Mystery School — the same work that changed your own life, now placed in your hands to give.
+The Healers Academy is the second level of initiation on the Path. After Empower Thyself awakens your own power, the Healers Academy turns that power outward training you to hold sacred space and to bring true healing to others. It is the threshold where a student of the mysteries becomes a practitioner of them.
+Over an intensive program of study and practice, you are initiated and certified to offer the foundational modalities of the Modern Mystery School the same work that changed your own life, now placed in your hands to give.
 What You Will Learn
 Know thyself, and thou shalt know
 the universe and the gods
 Who It Is For
-The Healers Academy is for those who have felt the call to serve — who, having walked through their own initiation, wish to carry the light further. No prior healing background is required, only sincerity, a completed Empower Thyself initiation, and a readiness to commit to your own continued growth.
+The Healers Academy is for those who have felt the call to serve who, having walked through their own initiation, wish to carry the light further. No prior healing background is required, only sincerity, a completed Empower Thyself initiation, and a readiness to commit to your own continued growth.
 Graduates join a worldwide community of certified healers and are eligible to continue toward the Ritual Master path and the deeper teachings of the school.
 Hello Radu, I would like to learn more about the Healers Academy.
 The Second Level of Initiation
@@ -236,6 +279,7 @@ Healers Academy is a 5-day intensive program.
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\healings\\
 A living tradition of healing
 The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu will guide you from there.
+For the deeper, specialised work of the tradition, see the
 King Salomon specialty healings →
 Begin Your Healing
 Tell Radu a little about where you are right now, and he will help you choose the healing that serves you best.
@@ -281,7 +325,14 @@ In the Lineage of King Salomon
 Healing Modalities
 A range of healings for body, mind and soul
 Each session is offered one-to-one — reach out to inquire about any of them
-blurb=
+Foundational Activations
+Where most journeys begin — awakening the gifts already encoded within you.
+Aura & Energy Healings
+Clearing, repairing and protecting your energetic field.
+Readings & Guidance
+Insight into your purpose, your soul and your path.
+Body, Meridian & Meditation
+Restoring flow, balance and stillness through body and breath.
 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\life-activation\\
 Life Activation – The Mystery Tradition, Lineage of King Salomon
@@ -296,6 +347,7 @@ At the Modern Mystery School, this activation serves as a gateway to spiritual e
 Life Activation – DNA Activation
 This is a groundbreaking method for
 inner transformation and unlocking your personal potential
+. It combines ancient wisdom with modern energies to help you grow and evolve. This technique is offered by the Modern Mystery School through Certified Life Activation Practitioners. It serves as a
 gateway to higher consciousness and spiritual expansion.
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 Hello Radu, I would like to learn more about the Life Activation.
@@ -343,13 +395,15 @@ Over 3,000 years of written history. An unbroken chain of teacher to student, af
 What is Lineage?
 The measure of an authentic Mystery School
 Lineage is a key and important factor in determining the legitimacy, integrity and authority that an authentic Mystery School holds. By definition, lineage means a lineal descent from an ancestor — an ancestry, a pedigree.
-The Modern Mystery School has persisted through time an ancient tradition of sharing knowledge from teacher to student, affirmed by the holy process of initiation. This direct transfer of information has preserved the virtue and honour of the mystery school tradition, which has held the secrets of God, the universe, and the keys to true spiritual power since the beginning of time.
+has persisted through time an ancient tradition of sharing knowledge from teacher to student, affirmed by the holy process of initiation. This direct transfer of information has preserved the virtue and honour of the mystery school tradition, which has held the secrets of God, the universe, and the keys to true spiritual power since the beginning of time.
 This wisdom and power is available to all who truly seek it and are willing to honour its sacred nature by walking the Path of Initiation.
 As above,
 so below
 Over 3,000 Years
 The King Salomon Lineage
-The lineage of the Modern Mystery School dates back to the time of King Salomon and therefore carries over 3,000 years of written history and lineage. While the mystery school tradition is far older, the lineage of the MMS and its teachings can be verified and traced directly to the teachings of King Salomon himself.
+The lineage of the
+Modern Mystery School
+dates back to the time of King Salomon and therefore carries over 3,000 years of written history and lineage. While the mystery school tradition is far older, the lineage of the MMS and its teachings can be verified and traced directly to the teachings of King Salomon himself.
 The oral tradition reaches back more than 8,000 years to the time of Hermes — Hermes Trismegistus. Initiation, combined with this unbroken lineage, empowers the Adept to engage in the Great Work: creating a better world and living in accordance with their true potential and life purpose.
 The great masters have all walked upon the Path of Initiation in the mystery school tradition — the very path that led them to fulfill their promise to God while here on this earth.
 The Third Order
@@ -361,6 +415,10 @@ The Council of Ipsissimi, The Council of 12 & Leadership
 Alongside the Third Order, the lineage is held and guided by the Governing Ipsissima & Ipsissimus, the Council of Twelve Women and the wider leadership of the Modern Mystery School — devoted teachers who steward the tradition and serve the school across the world.
 Governing Ipsissima & Ipsissimus
 The Leadership Team
+Other resources you can read
+Lineage
+Core Values & Beliefs
+Culture of Light
 Walk the Path
 Being part of the Modern Mystery School lineage is being part of a family — a global tribe dedicated to the empowerment and betterment of humanity. The door is open to those who feel the call.
 Begin Your Journey
@@ -392,31 +450,44 @@ The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657
 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\ritual-master\\
 The Ritual Master Program
-Today we have access to more knowledge than humanity has ever had — yet so many look at life and feel lost, trapped in a box. This is because one vital component is missing: Spirit, who you truly are. From spirit comes hope, joy, and the power to rise above all negativity.
-There is a path that helps you regain your freedom. Through our beliefs and behaviour, we lock ourselves inside the prison we live in — we are both the slave and the oppressor. The Ritual Master path begins with the first force that must be addressed to regain freedom: yourself.
+Today we have access to more knowledge than humanity has ever had yet so many look at life and feel lost, trapped in a box. This is because one vital component is missing: Spirit, who you truly are. From spirit comes hope, joy, and the power to rise above all negativity.
+There is a path that helps you regain your freedom. Through our beliefs and behaviour, we lock ourselves inside the prison we live in we are both the slave and the oppressor. The Ritual Master path begins with the first force that must be addressed to regain freedom: yourself.
 True Mastery of the Self
+A renowned Hermetic teaching, the Law of Correspondence, says:
 As within, so without. As without, so within. As above, so below. As below, so above.
+The Ritual Master program helps you gain control over your inner world, and then make the changes that create results in the outer world.
+For centuries, these principles have been the study of the master magician, who learns to focus and discipline their will and direct it toward fulfilling their needs and desires. The path combines
 will, love and discernment
-— so that you can create good things and be a source of Light for yourself and those around you.
+so that you can create good things and be a source of Light for yourself and those around you.
 Reality is that which cannot be changed by your
 thoughts, feelings, or opinions
 Are You Ready to Act?
-These are the steps to follow to train alongside the Ritual Masters. The path is demanding and it is taken in order — each step prepares you for the next.
-These teachings are essential for anyone who truly wants to change something in their life and is committed to their transformation — taking responsibility for their inner work and acting to create a purer, more authentic, and freer version of their Self.
+These are the steps to follow to train alongside the Ritual Masters. The path is demanding and it is taken in order each step prepares you for the next.
+These teachings are essential for anyone who truly wants to change something in their life and is committed to their transformation taking responsibility for their inner work and acting to create a purer, more authentic, and freer version of their Self.
 Hello Radu, I would like to learn more about the Ritual Master program.
 The Path of the Master Magician
 Ritual Master
 True mastery of the Self
 The warrior of light breaks every chain that holds them captive — and then helps others do the same.
 Ask About the Path
-caption=
-, text:
-title=
+Sovereign Ipsissimus Dave Lanyon
+The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657
+1 · Empower Thyself:
+The first initiation — awaken your power and your divine purpose.
+2 · Healers Academy:
+The second initiation — learn to heal and to serve others.
+3 · Apply & be accepted:
+Apply for, and be accepted by, a Ritual Master teacher.
+4 · Ritual Master Novice:
+Enrol in the Ritual Master Novice class at one of the international centers of the Modern Mystery School.
+ritual-master
+Begin Your Mastery
+The Ritual Master path begins with Empower Thyself and the Healers Academy. Reach out and we will help you map the right next step for you.
 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\sacred-geometry\\
 The hidden architecture of all things
-From the spiral of a shell to the orbit of the planets, the same patterns repeat at every scale of existence. Sacred geometry is the study of those patterns — the forms through which spirit takes shape in matter. For the initiates of old, it was nothing less than the language of the Divine.
-In this workshop you learn to recognise these forms, to work with them consciously, and to use the primary keys of sacred geometry to create clear, protected and sacred space — in your home, your practice, and within yourself.
+From the spiral of a shell to the orbit of the planets, the same patterns repeat at every scale of existence. Sacred geometry is the study of those patterns the forms through which spirit takes shape in matter. For the initiates of old, it was nothing less than the language of the Divine.
+In this workshop you learn to recognise these forms, to work with them consciously, and to use the primary keys of sacred geometry to create clear, protected and sacred space in your home, your practice, and within yourself.
 What You Will Learn
 Hello Radu, I would like to learn more about the Sacred Geometry workshop.
 A Workshop of the Mystery School
@@ -439,8 +510,8 @@ Workshops run in small groups. Reach out for the next scheduled date in Prague.
 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\seven-mystery-schools\\
 Seven traditions, one current of light
-Throughout history, the sacred wisdom of humanity has been preserved and passed down through seven great mystery school traditions — each rooted in a different culture and place, yet each carrying a facet of the same eternal light. Together they form the lineage that the Modern Mystery School carries today.
-In this workshop you journey through all seven — learning their history, their gifts, and their place in the great chain of wisdom — and, through meditation and ceremony, you connect directly with the living energy of each one.
+Throughout history, the sacred wisdom of humanity has been preserved and passed down through seven great mystery school traditions each rooted in a different culture and place, yet each carrying a facet of the same eternal light. Together they form the lineage that the Modern Mystery School carries today.
+In this workshop you journey through all seven learning their history, their gifts, and their place in the great chain of wisdom and, through meditation and ceremony, you connect directly with the living energy of each one.
 What you seek
 is seeking you
 What You Will Gain
@@ -469,6 +540,7 @@ Workshops run in small groups. Reach out for the next scheduled date in Prague.
 What is the King Salomon Healing Modality?
 Over three thousand years ago, King Salomon gathered the greatest healers, shamans, prophets and alchemists of the world and brought their wisdom into one living system of healing. That system — the King Salomon Healing Modality — has been kept and passed down, teacher to student, in an unbroken lineage ever since.
 These are not foundational sessions. They are the deeper, specialised healings of the tradition — precise work on the etheric, mental and auric bodies for those who are ready to go further. Each is offered one-to-one. If you feel drawn to any of them, reach out and we will find the right starting point for you.
+Looking for the foundational sessions and the full range of healings?
 See all healing modalities →
 Not Sure Which Healing You Need?
 Reach out and Radu will listen, then guide you to the healing that truly serves you right now.
@@ -511,8 +583,8 @@ Deeper, specialised work of the tradition — each offered one-to-one.
 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\spiritual-intuition\\
 Your intuition is not a gift for the few — it is a sense for everyone
-We are taught to trust only what we can see, hear and touch. Yet every one of us carries a quieter set of senses — the ability to perceive energy, to know without being told, to feel the truth of a person or a situation. These abilities are natural, and like any sense, they grow stronger with practice.
-Through simple, practical exercises, this workshop helps you recognise and develop your own intuitive and extrasensory perception — and, just as importantly, to tell the difference between intuition and the noise of the thinking mind.
+We are taught to trust only what we can see, hear and touch. Yet every one of us carries a quieter set of senses the ability to perceive energy, to know without being told, to feel the truth of a person or a situation. These abilities are natural, and like any sense, they grow stronger with practice.
+Through simple, practical exercises, this workshop helps you recognise and develop your own intuitive and extrasensory perception and, just as importantly, to tell the difference between intuition and the noise of the thinking mind.
 What You Will Learn
 Hello Radu, I would like to learn more about the Spiritual Intuition workshop.
 A Workshop of the Mystery School
@@ -535,7 +607,7 @@ Workshops run in small groups. Reach out for the next scheduled date in Prague.
 
 ## PAGE: /C:\\Users\\admin\\OneDrive\\Github\\v0-the-path-of-initiation-prague - Copy\\app\\stress-management\\
 Stress is not the enemy — losing your tools to handle it is
-Modern life moves faster than our nervous systems were built for. Stress Rescue is a practical, grounded program that gives you a set of reliable tools — drawn from the teachings of the mystery school and translated into everyday language — to steady your mind, settle your body, and respond to pressure instead of reacting to it.
+Modern life moves faster than our nervous systems were built for. Stress Rescue is a practical, grounded program that gives you a set of reliable tools drawn from the teachings of the mystery school and translated into everyday language to steady your mind, settle your body, and respond to pressure instead of reacting to it.
 It can be received one-to-one, or delivered to a whole team. For leaders and organisations, it is a clear, down-to-earth way to bring more focus, resilience and wellbeing into the working day.
 What You Take Away
 Hello Radu, I would like to learn more about Stress Rescue / Stress Management.
@@ -615,6 +687,7 @@ Activations & Initiations
 Healing & Workshops
 Contact
 WhatsApp · +420 792 908 296
+Facebook
 info@thepathofinitiationprague.com
 Certifications
 Testimonials
@@ -645,9 +718,13 @@ Stress Rescue
 Prague, Czech Republic
 The Path of Initiation:
 A 3,000-Year-Old Lineage
-For millennia, this sacred lineage was guarded in silence. Recognizable figures — Leonardo da Vinci, Nikola Tesla, Isaac Newton — have walked this very path to understand the physical and spiritual worlds, but the mystery schools themselves were hidden, nearly impossible to find, and would not accept just anyone into their sacred halls.
+For millennia, this sacred lineage was guarded in silence. Recognizable figures Leonardo da Vinci, Nikola Tesla, Isaac Newton have walked this very path to understand the physical and spiritual worlds, but the mystery schools themselves were hidden, nearly impossible to find, and would not accept just anyone into their sacred halls.
+Today though, the doors of one mystery school are open to the public. We are privileged to live in an era where
 anyone
+who feels the call can choose to study the mysteries and awaken to their true potential. This is a school where
 magick
+is a core part of existence, where the
+is developed and healed, and where the
 divine purpose
 of each person is discovered and fulfilled.
 Discover if this Path is for you
