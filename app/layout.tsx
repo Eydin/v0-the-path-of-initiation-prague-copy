@@ -11,6 +11,23 @@ export const metadata: Metadata = {
   title: 'The Path of Initiation Prague | Radu Coman',
   description: 'A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker. Begin your journey of transformation in Prague with Guide Radu Coman.',
   generator: 'v0.app',
+  metadataBase: new URL('https://www.thepathofinitiationprague.com'),
+  openGraph: {
+    title: 'The Path of Initiation Prague | Radu Coman',
+    description: 'Begin your journey of spiritual transformation, life activation, and ancient mystery school lineage teachings locally in Prague.',
+    url: 'https://www.thepathofinitiationprague.com',
+    siteName: 'The Path of Initiation Prague',
+    images: [
+      {
+        url: '/images/radu-coman-square.jpg', // High-quality featured image
+        width: 1080,
+        height: 1080,
+        alt: 'Radu Coman - Guide and Teacher of the Path of Initiation',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
   icons: {
     icon: [
       {
@@ -58,7 +75,7 @@ export default function RootLayout({
         "jobTitle": "Guide and Teacher of the Path of Initiation",
         "description": "Radu Coman is a certified Guide and Teacher in the Lineage of King Salomon, dedicated to spiritual awakening, practical magic, and soul development.",
         "url": SITE,
-        "image": `${SITE}/images/radu-lap.jpg`,
+        "image": `${SITE}/images/radu-coman-square.jpg`,
         "worksFor": { "@id": `${SITE}/#organization` },
         "knowsLanguage": ["en", "ro", "cs"],
         "sameAs": [
