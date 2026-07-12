@@ -16,7 +16,7 @@ import { QuoteBreaker } from "@/components/quote-breaker"
 export default function FullSpiritActivation() {
   const inquiry = "Hello Radu, I would like to learn more about the Full Spirit Activation."
   return (
-    <ModalityShell bg="albion-rose.jpg" position="center 30%">
+    <ModalityShell bg="plains-of-heaven.jpg" position="center 30%">
       <ModalityHero
         eyebrow="The Mystery Tradition · Lineage of King Salomon"
         title="Full Spirit Activation"

@@ -13,7 +13,7 @@ the ancient Hermetic principle "Know Thyself." Its mission is to help people dis
 their life's purpose, find inner peace, and expand their consciousness through initiation
 and activation.
 
-Lineage & leadership: The school carries the Lineage of King Salomon (King Solomon the
+Lineage & leadership: The school carries the Lineage of King Salomon (King Salomon the
 Wise) — a tradition of mystery-school teachings spanning more than 3,000 years. It was
 founded by Gudni Gudnason. The lineage is held by members of the Third Order, including
 Sovereign Ipsissimus Dave Lanyon and Sovereign Ipsissimus Hideto Nakagome. Below the

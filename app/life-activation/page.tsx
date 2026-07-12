@@ -19,7 +19,7 @@ const STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
 export default function LifeActivation() {
   const inquiry = "Hello Radu, I would like to learn more about the Life Activation."
   return (
-    <ModalityShell bg="albion-rose.jpg" position="center 18%">
+    <ModalityShell bg="bethesda-bloch.jpg" position="center 18%">
       <ModalityHero
         eyebrow="The Mystery Tradition · Lineage of King Salomon"
         title="Life Activation"

@@ -36,6 +36,7 @@ const aboutLinks = [
 const simpleLinks = [
   { href: "/calendar", label: "Calendar" },
   { href: "/community", label: "Community" },
+  { href: "/blog", label: "Blog" },
 ]
 
 function DropdownLink({ label, items }: { label: string; items: { href: string; label: string }[] }) {

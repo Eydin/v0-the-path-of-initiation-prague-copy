@@ -25,4 +25,4 @@ export const CHAT_MODEL = process.env.CHAT_MODEL || "google/gemini-3-flash"
 
 /** Greeting shown when the chat panel is first opened. */
 export const GREETING =
-  "Welcome. I'm here to help you explore the Path of Initiation in Prague — the activations, healings, classes, and the lineage behind them. What would you like to know?"
+  "Welcome. I'm your friendly AI assistant, here to help you explore the Path of Initiation in Prague — the activations, healings, classes, and the lineage behind them. What would you like to know?"

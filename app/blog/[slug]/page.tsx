@@ -1,0 +1,202 @@
+import type { Metadata } from "next"
+import Link from "next/link"
+import { notFound } from "next/navigation"
+import { ArrowLeft, ArrowRight, MessageCircle } from "lucide-react"
+import { Header } from "@/components/header"
+import { Footer } from "@/components/footer"
+import { ScrollReveal } from "@/components/scroll-reveal"
+import { ParallaxImage } from "@/components/parallax-image"
+import { BlogArticleBody } from "@/components/blog-article-body"
+import { BLOG_POSTS, getPostBySlug, formatPostDate, isPreviewMode, isReleased } from "@/lib/blog/posts"
+
+export const dynamic = "force-dynamic"
+
+const SITE = "https://www.thepathofinitiationprague.com"
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>
+}): Promise<Metadata> {
+  const { slug } = await params
+  const post = getPostBySlug(slug)
+  if (!post) return {}
+
+  const url = `${SITE}/blog/${post.slug}`
+  const image = `${SITE}/images/art/${post.coverImage}`
+
+  return {
+    title: `${post.title} | The Path of Initiation Prague`,
+    description: post.excerpt,
+    keywords: post.keywords,
+    alternates: { canonical: url },
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      url,
+      type: "article",
+      publishedTime: post.releaseDate,
+      images: [{ url: image, width: 1080, height: 675, alt: post.title }],
+    },
+  }
+}
+
+export default async function BlogPostPage({
+  params,
+}: {
+  params: Promise<{ slug: string }>
+}) {
+  const { slug } = await params
+  const post = getPostBySlug(slug)
+  if (!post) notFound()
+
+  const related = BLOG_POSTS.filter(
+    (p) => p.slug !== post.slug && getPostBySlug(p.slug) && p.category === post.category,
+  ).slice(0, 2)
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.excerpt,
+    datePublished: post.releaseDate,
+    image: `${SITE}/images/art/${post.coverImage}`,
+    url: `${SITE}/blog/${post.slug}`,
+    keywords: post.keywords.join(", "),
+    author: {
+      "@type": "Person",
+      name: "Radu Coman",
+      url: SITE,
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "The Path of Initiation Prague",
+      url: SITE,
+    },
+  }
+
+  const preview = isPreviewMode()
+  const scheduled = !isReleased(post)
+  const notReady = !post.readyToPost
+  const showBanner = preview && (scheduled || notReady)
+
+  let bannerText = ""
+  if (scheduled && notReady) {
+    bannerText = `Preview Mode — this post is scheduled for ${formatPostDate(post.releaseDate)} and has not been marked ready to post. Both conditions must be met before real visitors can see it.`
+  } else if (scheduled) {
+    bannerText = `Preview Mode — this post is scheduled for ${formatPostDate(post.releaseDate)} and is not yet visible to real visitors.`
+  } else if (notReady) {
+    bannerText = "Preview Mode — this post's release date has arrived, but it is not yet marked ready to post, so real visitors will not see it."
+  }
+
+  return (
+    <>
+      <Header />
+      {showBanner && (
+        <div className="fixed top-20 left-0 right-0 z-40 bg-amber-500 px-4 py-2 text-center text-sm font-semibold text-black">
+          {bannerText}
+        </div>
+      )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <main className={`relative min-h-screen pt-20 ${showBanner ? "mt-9" : ""}`}>
+        {/* ── Hero ──────────────────────────────────────────────── */}
+        <section className="relative flex min-h-[60vh] items-end overflow-hidden">
+          <ParallaxImage src={`/images/art/${post.coverImage}`} alt="" position="center 30%" priority />
+          <div className="absolute inset-0 bg-gradient-to-t from-background via-background/70 to-background/20" />
+          <div className="relative z-10 mx-auto w-full max-w-4xl px-6 pb-16">
+            <ScrollReveal>
+              <Link
+                href="/blog"
+                className="mb-6 inline-flex items-center gap-2 text-sm uppercase tracking-widest text-muted-foreground transition-colors hover:text-primary"
+              >
+                <ArrowLeft className="h-3.5 w-3.5" />
+                All Articles
+              </Link>
+              <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
+                {post.category}
+              </p>
+              <h1 className="mb-6 font-serif text-3xl leading-tight tracking-wide text-foreground md:text-5xl text-balance">
+                {post.title}
+              </h1>
+              <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-muted-foreground">
+                <span>{formatPostDate(post.releaseDate)}</span>
+                <span aria-hidden>·</span>
+                <span>{post.readTime}</span>
+                <span aria-hidden>·</span>
+                <span>The Path of Initiation Prague</span>
+              </div>
+            </ScrollReveal>
+          </div>
+        </section>
+
+        {/* ── Body ──────────────────────────────────────────────── */}
+        <section className="relative py-16 lg:py-20">
+          <div className="mx-auto max-w-3xl px-6">
+            <ScrollReveal>
+              <BlogArticleBody content={post.content} />
+            </ScrollReveal>
+          </div>
+        </section>
+
+        {/* ── Related ───────────────────────────────────────────── */}
+        {related.length > 0 && (
+          <section className="relative py-12">
+            <div className="mx-auto max-w-3xl border-t border-primary/15 px-6 pt-12">
+              <ScrollReveal>
+                <p className="mb-6 font-serif text-sm uppercase tracking-[0.3em] text-primary">
+                  Continue Reading
+                </p>
+                <div className="flex flex-col gap-4">
+                  {related.map((p) => (
+                    <Link
+                      key={p.slug}
+                      href={`/blog/${p.slug}`}
+                      className="group flex items-center justify-between gap-4 rounded-lg border border-primary/15 bg-card/60 p-5 backdrop-blur-sm transition-colors hover:border-primary/50"
+                    >
+                      <span className="font-serif text-lg tracking-wide text-foreground transition-colors group-hover:text-primary">
+                        {p.title}
+                      </span>
+                      <ArrowRight className="h-4 w-4 flex-shrink-0 text-primary/40 transition-all group-hover:translate-x-0.5 group-hover:text-primary" />
+                    </Link>
+                  ))}
+                </div>
+              </ScrollReveal>
+            </div>
+          </section>
+        )}
+
+        {/* ── CTA ───────────────────────────────────────────────── */}
+        <section className="relative py-20 lg:py-28">
+          <div className="absolute inset-0 bg-muted/40" />
+          <div className="relative z-10 mx-auto max-w-2xl px-6 text-center">
+            <ScrollReveal>
+              <div className="mx-auto mb-6 h-px w-16 bg-primary/60" />
+              <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
+                Walk the Path Yourself
+              </h2>
+              <p className="mx-auto mb-10 max-w-xl text-lg leading-relaxed text-muted-foreground">
+                Every article on this blog is one step into a living tradition. If it speaks to
+                you, Radu would be glad to guide you personally toward the right next step, here
+                in Prague.
+              </p>
+              <a
+                href="https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20read%20a%20blog%20post%20and%20would%20like%20to%20learn%20more."
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
+              >
+                <MessageCircle className="h-4 w-4" />
+                Begin Your Journey
+                <ArrowRight className="h-4 w-4" />
+              </a>
+            </ScrollReveal>
+          </div>
+        </section>
+      </main>
+      <Footer />
+    </>
+  )
+}

@@ -85,7 +85,7 @@ const specialtySessions: Healing[] = [
 export default function SpecialtyHealings() {
   const inquiry = "Hello Radu, I would like to learn more about the specialty healings."
   return (
-    <ModalityShell bg="sheba-solomon-temple.jpg" position="center 30%">
+    <ModalityShell bg="sheba-Salomon-temple.jpg" position="center 30%">
       <ModalityHero
         eyebrow="The King Salomon Healing Modality"
         title="Specialty Healings"

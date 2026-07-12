@@ -41,7 +41,7 @@ export default function Home() {
         <ClassesSection />
 
         <QuoteBreaker
-          image="sheba-solomon-temple.jpg"
+          image="sheba-Salomon-temple.jpg"
           quote={
             <>
               &ldquo;What you seek <em className="text-primary">is seeking you</em>.&rdquo;

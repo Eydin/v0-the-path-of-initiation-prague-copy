@@ -119,7 +119,7 @@ export default function LineagePage() {
 
         {/* ── Quote breaker ── */}
         <QuoteBreaker
-          image="hermes-trismegistus-siena.jpg"
+          image="hermes-trismegistus-sienna-cathedral-mosaic.jpg"
           quote={
             <>
               &ldquo;As above, <em className="text-primary">so below</em>.&rdquo;
@@ -127,7 +127,7 @@ export default function LineagePage() {
           }
           attribution="Hermes Trismegistus"
           caption="Hermes Trismegistus · Floor of Siena Cathedral, c. 1488"
-          position="center 30%"
+          position="center 10%"
         />
 
         {/* ── The King Salomon Lineage ── */}

@@ -102,6 +102,9 @@ export function Footer() {
               <Link href="/testimonials" className="text-sm text-muted-foreground transition-colors hover:text-primary">
                 Testimonials
               </Link>
+              <Link href="/blog" className="text-sm text-muted-foreground transition-colors hover:text-primary">
+                Blog
+              </Link>
             </div>
           </div>
         </div>
@@ -118,7 +121,7 @@ export function Footer() {
               alt="Certified by the Modern Mystery School"
               width={260}
               height={104}
-              className="h-auto w-full"
+              style={{ width: "100%", height: "auto" }}
             />
           </a>
         </div>

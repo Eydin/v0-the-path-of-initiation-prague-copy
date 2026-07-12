@@ -1,0 +1,31 @@
+This is my website. Please upgrade it so that the user can choose the language: EN, CZ, DE, RO
+Translate all the current content from English into CZ, DE and RO
+
+
+***
+
+This is my website. Implement a new blog section on my website and write posts for the following topics:
+Who is King Salomon and what are his achievements in history?
+Magick Wands
+Magick
+Spagyrics
+Making magickal items / sanctification
+Alchemy & alchemy in Prague (old famous alchemists and stories)
+Modern day alchemists (Dr. Theresa Bullard, Ipsissima Franca Lanyon)
+
+Make each post have a release date and only be visible to users after that date. Release posts one week apart.
+
+Make all posts positive, bringing hope.
+
+Your main source of information should be the following websites. Look for other knowledge only if you can't find the information there:
+1. https://modernmysteryschoolint.com/
+2. https://modernmysteryschooluk.com/
+3. http://thedavelanyon.com/
+4. https://theresabullard.com/
+
+Analyze my website and the competition and come up with a list of keywords that that would improve my SEO and ranking in searches and AI agents. Use these keywords in the blog posts.
+****
+
+Why magick is good - comparison between MMS magick and other culture's understanding of magick
+
+

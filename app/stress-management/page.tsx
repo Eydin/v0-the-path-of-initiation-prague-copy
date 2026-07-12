@@ -15,7 +15,7 @@ import {
 export default function StressManagement() {
   const inquiry = "Hello Radu, I would like to learn more about Stress Rescue / Stress Management."
   return (
-    <ModalityShell bg="monk-sea-friedrich.jpg" position="center 35%">
+    <ModalityShell bg="moonrise-friedrich.jpg" position="center 35%">
       <ModalityHero
         eyebrow="For Individuals, Teams & Organisations"
         title="Stress Rescue"

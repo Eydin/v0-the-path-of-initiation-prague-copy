@@ -68,7 +68,7 @@ export default function Certifications() {
                           alt="Certified by the Modern Mystery School"
                           width={260}
                           height={104}
-                          className="h-auto w-full"
+                          style={{ width: "100%", height: "auto" }}
                         />
                       </a>
                     </div>

@@ -60,7 +60,7 @@ export default function RitualMaster() {
       </Panel>
 
       <QuoteBreaker
-        image="sheba-solomon-temple.jpg"
+        image="sheba-Salomon-temple.jpg"
         quote={
           <>
             &ldquo;Reality is that which cannot be changed by your <em className="text-primary">thoughts, feelings,
