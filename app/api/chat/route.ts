@@ -1,4 +1,5 @@
 import { streamText } from "ai"
+import { waitUntil } from "@vercel/functions"
 import { SYSTEM_PROMPT } from "@/lib/chatbot/knowledge"
 import { CHAT_MODEL } from "@/lib/chatbot/config"
 import { logChatExchange } from "@/lib/chatbot/storage"
@@ -51,8 +52,17 @@ export async function POST(req: Request) {
       messages,
       maxOutputTokens: 2500,
       temperature: 0.4,
-      onFinish: ({ text }) => {
-        if (text.trim()) void logChatExchange(sessionId, question, text)
+      onFinish: async ({ text }) => {
+        if (!text.trim()) return
+        // Registering with waitUntil tells Vercel to keep the function alive
+        // for this write even though the response has already been fully
+        // sent to the browser, and awaiting it here (instead of `void`-
+        // discarding the promise) makes the AI SDK itself wait too — without
+        // either, the DB write races the function being frozen right after
+        // the last chunk streams out.
+        const logPromise = logChatExchange(sessionId, question, text)
+        waitUntil(logPromise)
+        await logPromise
       },
     })
 
