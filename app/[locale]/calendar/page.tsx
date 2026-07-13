@@ -1,7 +1,8 @@
 "use client"
 
-import Link from "next/link"
+import { useTranslations, useFormatter } from "next-intl"
 import { Clock, MapPin, ArrowUpRight } from "lucide-react"
+import { Link } from "@/i18n/navigation"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
@@ -12,6 +13,8 @@ import {
 } from "@/lib/schedule"
 
 export default function CalendarPage() {
+  const t = useTranslations("CalendarPage")
+  const format = useFormatter()
   const months = getUpcomingEventsByMonth()
   const total = getAllUpcomingEvents().length
 
@@ -29,21 +32,20 @@ export default function CalendarPage() {
               <ScrollReveal>
                 <div className="mx-auto max-w-3xl text-center">
                   <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
-                    The Path Ahead
+                    {t("eyebrow")}
                   </p>
                   <h1 className="mb-6 font-serif text-4xl tracking-wide text-foreground md:text-5xl lg:text-6xl">
-                    Calendar of Classes
+                    {t("heading")}
                   </h1>
                   <div className="mx-auto mb-6 flex items-center justify-center gap-4">
                     <span className="h-px w-10 bg-primary/50" />
                     <span className="font-serif text-sm uppercase tracking-[0.25em] text-primary/90">
-                      {total} Gatherings · Next 6 Months
+                      {t("gatheringsCount", { count: total })}
                     </span>
                     <span className="h-px w-10 bg-primary/50" />
                   </div>
                   <p className="text-lg leading-relaxed text-muted-foreground">
-                    Every activation, initiation, workshop and community gathering held
-                    in Prague and other international locations over the coming season. Follow the path one step at a time.
+                    {t("intro")}
                   </p>
                 </div>
               </ScrollReveal>
@@ -56,24 +58,23 @@ export default function CalendarPage() {
               {months.length === 0 && (
                 <ScrollReveal>
                   <p className="text-center text-lg text-muted-foreground">
-                    New dates are being scheduled. Please check back soon.
+                    {t("empty")}
                   </p>
                 </ScrollReveal>
               )}
 
               <div className="space-y-16">
                 {months.map((group) => (
-                  <ScrollReveal key={group.month}>
+                  <ScrollReveal key={group.monthKey}>
                     <div>
                       {/* month header */}
                       <div className="mb-8 flex items-baseline gap-4">
                         <h2 className="font-serif text-2xl tracking-wide text-primary md:text-3xl">
-                          {group.month}
+                          {format.dateTime(parseLocalDate(group.sampleDate), { month: "long", year: "numeric" })}
                         </h2>
                         <div className="h-px flex-1 bg-gradient-to-r from-primary/40 to-transparent" />
                         <span className="font-serif text-xs uppercase tracking-[0.25em] text-muted-foreground">
-                          {group.events.length}{" "}
-                          {group.events.length === 1 ? "class" : "classes"}
+                          {t("classCount", { count: group.events.length })}
                         </span>
                       </div>
 
@@ -87,20 +88,13 @@ export default function CalendarPage() {
 
                         {group.events.map((ev) => {
                           const date = parseLocalDate(ev.date)
-                          const day = date.toLocaleDateString("en-GB", { day: "2-digit" })
-                          const weekday = date.toLocaleDateString("en-GB", { weekday: "short" })
+                          const day = format.dateTime(date, { day: "2-digit" })
+                          const weekday = format.dateTime(date, { weekday: "short" })
                           const isActivation = ev.category === "Activation"
                           const isInitiation = ev.category === "Initiation"
                           const isCommunity = ev.category === "Community"
                           const isWorkshop = ev.category === "Workshop"
-                          const categoryLabel =
-                            ev.category === "Activation"
-                              ? "Activation"
-                              : ev.category === "Initiation"
-                                ? "Initiation"
-                                : ev.category === "Community"
-                                  ? "Community"
-                                  : "Workshop"
+                          const categoryLabel = t(`categories.${ev.category}`)
                           return (
                             <li key={`${ev.slug}-${ev.date}`} className="relative pl-9">
                               {/* node on the path — filled for Activations, highlighted for Initiations, hollow for Workshops */}
@@ -181,23 +175,23 @@ export default function CalendarPage() {
                   <div className="mb-8 flex items-center justify-center gap-6 text-xs uppercase tracking-[0.2em] text-muted-foreground">
                     <span className="inline-flex items-center gap-2">
                       <span className="h-[10px] w-[10px] rotate-45 bg-primary" />
-                      Activation
+                      {t("categories.Activation")}
                     </span>
                     <span className="inline-flex items-center gap-2">
                       <span className="h-[10px] w-[10px] rotate-45 bg-primary/20 border border-primary" />
-                      Initiation
+                      {t("categories.Initiation")}
                     </span>
                     <span className="inline-flex items-center gap-2">
                       <span className="h-[10px] w-[10px] rotate-45 border border-primary bg-emerald-500" />
-                      Workshop
+                      {t("categories.Workshop")}
                     </span>
                     <span className="inline-flex items-center gap-2">
                       <span className="h-[10px] w-[10px] rotate-45 border border-primary bg-blue-500/50" />
-                      Community
+                      {t("categories.Community")}
                     </span>
                   </div>
                   <p className="mb-5 text-muted-foreground">
-                    Not sure where to begin? Reach out and Radu will guide you personally.
+                    {t("notSure")}
                   </p>
                   <a
                     href="https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20ask%20about%20the%20upcoming%20classes."
@@ -205,7 +199,7 @@ export default function CalendarPage() {
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-3 rounded border border-primary bg-primary px-8 py-3 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
                   >
-                    Ask About a Class
+                    {t("askButton")}
                     <ArrowUpRight className="h-4 w-4" />
                   </a>
                 </div>

@@ -1,48 +1,28 @@
 "use client"
 
+import { useTranslations } from "next-intl"
 import { ScrollReveal } from "./scroll-reveal"
-import { Globe, Clock, Users, Quote, ExternalLink } from "lucide-react"
+import { Link } from "@/i18n/navigation"
+import { Globe, Clock, Users, Quote } from "lucide-react"
 
-const stats = [
-  {
-    icon: Clock,
-    number: "3,000+",
-    label: "Years of Unbroken Lineage",
-  },
-  {
-    icon: Globe,
-    number: "60+",
-    label: "Countries Worldwide",
-  },
-  {
-    icon: Users,
-    number: "Thousands",
-    label: "Of Lives Transformed",
-  },
-]
-
-const testimonials = [
-  {
-    quote:
-      "The initiation ceremony was beyond my imagination. I felt genuinely welcome and it truly feels like I've found a community that I'm super happy to belong to.",
-    author: "Maria from Czech Republic",
-    link: "/testimonials#maria-testimonial",
-  },
-  {
-    quote:
-      "Radu didn't tell me what to do and what not to do. He really helps me to hear my own truth, my own clarity.",
-    author: "Ana from Czech Republic",
-    link: "/testimonials#ana-testimonial",
-  },
-  {
-    quote:
-      "I came seeking answers and found a whole new dimension of life. The tools I received are beyond anything I imagined.",
-    author: "Sophie from Canada",
-    link: "/testimonials",
-  },
-]
+const STAT_ICONS = [Clock, Globe, Users]
+const TESTIMONIAL_LINKS = ["/testimonials#maria-testimonial", "/testimonials#ana-testimonial", "/testimonials"]
 
 export function FactsSection() {
+  const t = useTranslations("Facts")
+
+  const stats = [0, 1, 2].map((i) => ({
+    icon: STAT_ICONS[i],
+    number: t(`stats.${i}.number`),
+    label: t(`stats.${i}.label`),
+  }))
+
+  const testimonials = [0, 1, 2].map((i) => ({
+    quote: t(`testimonials.${i}.quote`),
+    author: t(`testimonials.${i}.author`),
+    link: TESTIMONIAL_LINKS[i],
+  }))
+
   return (
     <section id="facts" className="relative py-24 lg:py-32">
       <div className="absolute inset-0 bg-muted/40" />
@@ -50,7 +30,7 @@ export function FactsSection() {
         <ScrollReveal>
           <div className="mb-16 text-center">
             <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-              A Legacy That Speaks for Itself
+              {t("heading")}
             </h2>
           </div>
         </ScrollReveal>
@@ -75,7 +55,7 @@ export function FactsSection() {
         <ScrollReveal>
           <div className="mb-20">
             <h3 className="mb-8 text-center font-serif text-2xl tracking-wide text-foreground">
-              Follow the Journey of Our Students
+              {t("videosHeading")}
             </h3>
             <div className="grid gap-8 md:grid-cols-2">
               <div className="aspect-video border border-border bg-card overflow-hidden">
@@ -104,20 +84,20 @@ export function FactsSection() {
         <ScrollReveal>
           <div>
             <h3 className="mb-8 text-center font-serif text-2xl tracking-wide text-foreground">
-              Wall of Love
+              {t("wallOfLove")}
             </h3>
             <div className="grid gap-6 md:grid-cols-3">
-              {testimonials.map((t, i) => (
+              {testimonials.map((testimonial, i) => (
                 <ScrollReveal key={i} delay={i * 0.1}>
-                  <a href={t.link} className="border border-border bg-card p-6 block rounded hover:bg-card/80 transition-colors">
+                  <Link href={testimonial.link} className="border border-border bg-card p-6 block rounded hover:bg-card/80 transition-colors">
                     <Quote className="mb-4 h-5 w-5 text-primary/50" />
                     <p className="mb-4 text-sm leading-relaxed text-foreground italic">
-                      {`"${t.quote}"`}
+                      {`"${testimonial.quote}"`}
                     </p>
                     <p className="text-xs tracking-wider text-primary uppercase">
-                      {t.author}
+                      {testimonial.author}
                     </p>
-                  </a>
+                  </Link>
                 </ScrollReveal>
               ))}
             </div>

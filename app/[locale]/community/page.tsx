@@ -1,18 +1,18 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { useTranslations } from "next-intl"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
-import { ParallaxImage } from "@/components/parallax-image"
 import { BookingBlock } from "@/components/modality"
-import { 
-  ArrowRight, 
-  MessageCircle, 
-  Users, 
-  ChevronLeft, 
-  ChevronRight, 
-  Smile 
+import {
+  ArrowRight,
+  MessageCircle,
+  Users,
+  ChevronLeft,
+  ChevronRight,
+  Smile
 } from "lucide-react"
 
 const WHATSAPP =
@@ -36,6 +36,7 @@ const CAROUSEL_IMAGES = [
 ]
 
 export default function CommunityPage() {
+  const t = useTranslations("CommunityPage")
   const [currentSlide, setCurrentSlide] = useState(0)
 
   // Auto-play carousel every 5 seconds
@@ -54,6 +55,8 @@ export default function CommunityPage() {
     setCurrentSlide((prev) => (prev - 1 + CAROUSEL_IMAGES.length) % CAROUSEL_IMAGES.length)
   }
 
+  const ties = [0, 1, 2, 3, 4].map((i) => t(`ties.${i}`))
+
   return (
     <>
       <Header />
@@ -65,14 +68,13 @@ export default function CommunityPage() {
             <ScrollReveal>
               <div className="mx-auto mb-6 h-px w-24 bg-primary/60" />
               <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
-                Community
+                {t("eyebrow")}
               </p>
               <h1 className="mb-8 font-serif text-4xl leading-tight tracking-wide text-foreground md:text-6xl lg:text-7xl text-balance">
-                A circle of <span className="text-primary">hearts</span> and shared transformation
+                {t.rich("heroHeading", { emphasis: (chunks) => <span className="text-primary">{chunks}</span> })}
               </h1>
               <p className="mx-auto max-w-2xl text-lg leading-relaxed text-muted-foreground">
-                The Path of Initiation Prague is far more than just a place to take classes. It is a living, 
-                breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.
+                {t("heroBody")}
               </p>
             </ScrollReveal>
           </div>
@@ -82,47 +84,39 @@ export default function CommunityPage() {
         <section className="relative py-24 lg:py-32">
           <div className="absolute inset-0 bg-background/20" />
           <div className="relative z-10 mx-auto max-w-6xl px-6">
-            <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
-              <ScrollReveal direction="left">
-                <div className="rounded border border-primary/20 bg-background/60 p-8 shadow-2xl shadow-black/10 backdrop-blur-sm">
+            <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-stretch">
+              <ScrollReveal direction="left" className="h-full">
+                <div className="h-full rounded border border-primary/20 bg-background/60 p-8 shadow-2xl shadow-black/10 backdrop-blur-sm">
                   <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                    Beyond the Classroom
+                    {t("beyondClassroomEyebrow")}
                   </p>
                   <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                    Space for genuine growth & connection
+                    {t("beyondClassroomHeading")}
                   </h2>
                   <div className="flex flex-col gap-5 text-lg leading-relaxed text-muted-foreground">
                     <p>
-                      Here, seekers gather in a container of trust, respect, and deep inner work. We offer a 
-                      consistent harbor where you can connect with like-minded individuals who truly care about 
-                      <strong> embodying their divine essence</strong>, accelerating personal growth, and overcoming 
-                      life's challenges together.
+                      {t.rich("beyondClassroomBody1", { bold: (chunks) => <strong>{chunks}</strong> })}
                     </p>
                     <div className="flex items-start gap-3 border-t border-border/40 pt-4 font-medium text-foreground">
                       <Smile className="mt-1 h-5 w-5 shrink-0 text-primary" />
-                      <p>
-                        But don't worry, it's not all serious! We believe that true spiritual integration 
-                        comes with a light heart. We share plenty of laughter, joy, and genuine fun along the way.
-                      </p>
+                      <p>{t("beyondClassroomBody2")}</p>
                     </div>
                   </div>
                 </div>
               </ScrollReveal>
 
-              <ScrollReveal direction="right">
-                <div className="rounded border border-border/60 bg-background/60 p-8 backdrop-blur-sm">
+              <ScrollReveal direction="right" className="h-full">
+                <div className="flex h-full flex-col justify-center rounded border border-border/60 bg-background/60 p-8 backdrop-blur-sm">
                   <div className="mb-6 flex h-19.5 w-19.5 items-center justify-center rounded-full bg-primary/10 text-primary">
                     <Users className="h-7 w-7" />
                   </div>
                   <h3 className="mb-4 font-serif text-2xl tracking-wide text-foreground">
-                    What ties us together
+                    {t("tiesHeading")}
                   </h3>
                   <ul className="space-y-3 text-base leading-relaxed text-muted-foreground">
-                    <li>• Supportive gatherings and zero-judgment conversations</li>
-                    <li>• Overcoming personal challenges with community support</li>
-                    <li>• Celebrating the joy, magic, and fun of life together</li>
-                    <li>• Embodying our divinity through practical daily actions</li>
-                    <li>• Excitement of living life alive!</li>
+                    {ties.map((item) => (
+                      <li key={item}>• {item}</li>
+                    ))}
                   </ul>
                 </div>
               </ScrollReveal>
@@ -138,8 +132,8 @@ export default function CommunityPage() {
                 {CAROUSEL_IMAGES.map((src, index) => {
                   const isActive = index === currentSlide
                   // Virtualization window check: Only mount image tag if it is current, next, or previous slide
-                  const isNearVisible = 
-                    isActive || 
+                  const isNearVisible =
+                    isActive ||
                     Math.abs(index - currentSlide) === 1 ||
                     (currentSlide === 0 && index === CAROUSEL_IMAGES.length - 1) ||
                     (currentSlide === CAROUSEL_IMAGES.length - 1 && index === 0)
@@ -154,7 +148,7 @@ export default function CommunityPage() {
                       {isNearVisible && (
                         <img
                           src={encodeURI(src)}
-                          alt={`Community gathering moment ${index + 1}`}
+                          alt={t("carouselAlt", { index: index + 1 })}
                           className="h-full w-full object-cover object-center"
                           loading={index === 0 ? "eager" : "lazy"}
                           decoding="async"
@@ -163,19 +157,19 @@ export default function CommunityPage() {
                     </div>
                   )
                 })}
-                
+
                 {/* Navigation Arrows */}
                 <button
                   onClick={prevSlide}
                   className="absolute left-4 top-1/2 z-20 -translate-y-1/2 rounded-full bg-background/40 p-2 text-foreground backdrop-blur-md transition-colors hover:bg-background/70"
-                  aria-label="Previous slide"
+                  aria-label={t("prevSlide")}
                 >
                   <ChevronLeft className="h-6 w-6" />
                 </button>
                 <button
                   onClick={nextSlide}
                   className="absolute right-4 top-1/2 z-20 -translate-y-1/2 rounded-full bg-background/40 p-2 text-foreground backdrop-blur-md transition-colors hover:bg-background/70"
-                  aria-label="Next slide"
+                  aria-label={t("nextSlide")}
                 >
                   <ChevronRight className="h-6 w-6" />
                 </button>
@@ -195,13 +189,13 @@ export default function CommunityPage() {
             <ScrollReveal>
               <div className="mb-20 text-center">
                 <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                  Our Gatherings
+                  {t("gatheringsEyebrow")}
                 </p>
                 <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-5xl text-balance">
-                  Regular Community Evenings
+                  {t("gatheringsHeading1")}
                 </h2>
                 <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-5xl text-balance">
-                  Open to students, initiates and anyone else interested.
+                  {t("gatheringsHeading2")}
                 </h2>
               </div>
             </ScrollReveal>
@@ -210,15 +204,15 @@ export default function CommunityPage() {
               {/* 1. Prayer Evening */}
               <BookingBlock
                 slug="community#prayer-evening"
-                title="Prayer Evening"
-                investment="Free of Charge"
-                duration="2 Hours"
-                inquiry="Hello Radu, I would like to learn more about the Prayer Evening community gathering."
+                title={t("prayerEvening.title")}
+                investment={t("freeOfCharge")}
+                duration={t("twoHours")}
+                inquiry={t("prayerEvening.inquiry")}
                 note=""
               >
                 <div className="mx-auto max-w-2xl text-foreground">
                   <p className="leading-relaxed text-muted-foreground">
-                    Gentle evenings of prayer, deep reflection, and collective intention designed to open the heart and strengthen inner alignment. A peaceful oasis to realign your vibration, step back from life's clutter, and anchor your focus into your highest essence alongside companions who hold the same sacred intent.
+                    {t("prayerEvening.description")}
                   </p>
                 </div>
               </BookingBlock>
@@ -226,15 +220,15 @@ export default function CommunityPage() {
               {/* 2. Meditation Evening */}
               <BookingBlock
                 slug="community#meditation-evening"
-                title="Meditation Evening"
+                title={t("meditationEvening.title")}
                 investment="350 CZK"
-                duration="2 Hours"
-                inquiry="Hello Radu, I would like to learn more about the Meditation Evening community gathering."
+                duration={t("twoHours")}
+                inquiry={t("meditationEvening.inquiry")}
                 note=""
               >
                 <div className="mx-auto max-w-2xl text-foreground">
                   <p className="leading-relaxed text-muted-foreground">
-                    Quiet spaces built for profound stillness, breath-work, visualization, and the deepening of awareness through guided traditional paths. Perfect for resetting the nervous system, taming mental over-activity, and leaning on collective group energy to unlock deeper meditative states than practicing alone.
+                    {t("meditationEvening.description")}
                   </p>
                 </div>
               </BookingBlock>
@@ -242,28 +236,28 @@ export default function CommunityPage() {
               {/* 3. Socialization Evening */}
               <BookingBlock
                 slug="community#socialization-evening"
-                title="Socialization Evening"
-                investment="Free of Charge"
-                duration="2 Hours"
-                inquiry="Hello Radu, I would like to learn more about the Socialization Evening community gathering."
+                title={t("socializationEvening.title")}
+                investment={t("freeOfCharge")}
+                duration={t("twoHours")}
+                inquiry={t("socializationEvening.inquiry")}
                 note=""
               >
                 <div className="mx-auto max-w-2xl text-foreground">
                   <p className="leading-relaxed text-muted-foreground">
-                    Warm, high-vibrational, and beautifully relaxed gatherings where friends, seekers, and students meet in joyful fellowship. This is where we let our hair down, laugh over tea, swap stories about life's adventures, and build friendships that support our human experience just as much as our spiritual paths.
+                    {t("socializationEvening.description")}
                   </p>
                 </div>
               </BookingBlock>
 
               {/* 4. International Mystery School Community */}
               <BookingBlock
-                title="International Mystery School Community"
-                inquiry="Hello Radu, I would like to learn more about the International Mystery School Community opportunities."
+                title={t("international.title")}
+                inquiry={t("international.inquiry")}
                 note=""
               >
                 <div className="mx-auto max-w-2xl space-y-6 text-foreground">
                   <p className="leading-relaxed text-muted-foreground">
-                    An expansive global circle of practitioners, initiates, and teachers sharing the ancient lineages, values, and spiritual lineage of the Modern Mystery School. Connecting here unlocks international events, global networking with conscious peers, and shared support infrastructures for systemic transformation.
+                    {t("international.description")}
                   </p>
                   <div className="pt-2 flex justify-center">
                     <a
@@ -272,9 +266,9 @@ export default function CommunityPage() {
                       rel="noopener noreferrer"
                       className="inline-block rounded-lg border border-primary/20 bg-background/80 px-5 py-4 text-base font-semibold leading-relaxed text-primary transition-all hover:bg-primary/5 hover:border-primary/40"
                     >
-                      See the international schedule over here:
+                      {t("international.scheduleLead")}
                       <span className="block mt-1 text-sm font-normal text-muted-foreground underline">
-                        Calendar - Modern Mystery School UK and Europe
+                        {t("international.scheduleLinkLabel")}
                       </span>
                     </a>
                   </div>
@@ -289,13 +283,13 @@ export default function CommunityPage() {
           <div className="mx-auto max-w-3xl px-6 text-center">
             <ScrollReveal>
               <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                Begin with a conversation
+                {t("ctaEyebrow")}
               </p>
               <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                Join the circle
+                {t("ctaHeading")}
               </h2>
               <p className="mx-auto mb-10 max-w-2xl text-lg leading-relaxed text-muted-foreground">
-                If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
+                {t("ctaBody")}
               </p>
               <a
                 href={WHATSAPP}
@@ -304,7 +298,7 @@ export default function CommunityPage() {
                 className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
               >
                 <MessageCircle className="h-4 w-4" />
-                Contact the Community
+                {t("ctaButton")}
                 <ArrowRight className="h-4 w-4" />
               </a>
             </ScrollReveal>

@@ -1,0 +1,916 @@
+{
+  "Hero": {
+    "location": "Prag, Tschechische Republik",
+    "titleLine1": "Der Pfad der Initiation:",
+    "titleLine2": "Eine 3.000 Jahre alte Linie",
+    "intro1": "Jahrtausendelang wurde diese heilige Linie in Stille gehütet. Bekannte Persönlichkeiten — Leonardo da Vinci, Nikola Tesla, Isaac Newton — sind genau diesen Weg gegangen, um die physische und spirituelle Welt zu verstehen, doch die Mysterienschulen selbst blieben verborgen, kaum auffindbar, und ließen nicht einfach jeden in ihre heiligen Hallen ein.",
+    "intro2": "Heute jedoch stehen die Türen einer Mysterienschule der Öffentlichkeit offen. Wir haben das Privileg, in einer Zeit zu leben, in der <emphasis>jeder</emphasis>, der den Ruf spürt, die Mysterien studieren und sein wahres Potenzial erwecken kann. Dies ist eine Schule, in der <emphasis>Magie</emphasis> ein zentraler Teil des Daseins ist, in der die <emphasis>Seele</emphasis> entwickelt und geheilt wird und in der die <emphasis>göttliche Bestimmung</emphasis> jedes Menschen entdeckt und erfüllt wird.",
+    "ctaLabel": "Finde heraus, ob dieser Pfad für dich ist",
+    "whatsapp": "WhatsApp"
+  },
+  "Header": {
+    "activationsGroup": "Aktivierungen & Initiationen",
+    "healingGroup": "Heilung & Workshops",
+    "aboutGroup": "Über uns",
+    "beginJourney": "Beginne deine Reise",
+    "nav": {
+      "healings": "Alle Heilmethoden",
+      "specialtyHealings": "Spezialheilungen (KSHM)",
+      "auraHealingLabel": "{brand} – Aura-Heilung",
+      "astralTravel": "Astralreisen",
+      "spiritualIntuition": "Spirituelle Intuition",
+      "sevenMysterySchools": "Die 7 Mysterienschulen",
+      "stressManagement": "Stress-Rettung",
+      "guide": "Dein Guide",
+      "lineage": "Abstammungslinie",
+      "testimonials": "Erfahrungsberichte",
+      "certifications": "Zertifizierungen",
+      "calendar": "Kalender",
+      "community": "Gemeinschaft",
+      "blog": "Blog"
+    }
+  },
+  "Footer": {
+    "tagline": "Heilung, Initiation und Ausbildung in der Linie von König Salomon, mit Guide Radu Coman in Prag.",
+    "location": "Prag, Tschechische Republik",
+    "auraHealing": "Aura-Heilung",
+    "contact": "Kontakt",
+    "whatsapp": "WhatsApp · +420 792 908 296",
+    "facebook": "Facebook",
+    "certifiedAlt": "Zertifiziert von der Modern Mystery School",
+    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Alle Rechte vorbehalten."
+  },
+  "Modality": {
+    "whatsapp": "WhatsApp",
+    "email": "E-Mail",
+    "investment": "Investition",
+    "duration": "Dauer",
+    "bookNow": "Jetzt buchen",
+    "askQuestion": "Hast du Fragen?",
+    "defaultNote": "Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren."
+  },
+  "UpcomingDates": {
+    "heading": "Nächste Termine in Prag",
+    "seeFullCalendar": "Zum vollständigen Kalender"
+  },
+  "Facts": {
+    "heading": "Ein Vermächtnis, das für sich spricht",
+    "stats": [
+      { "number": "3.000+", "label": "Jahre ununterbrochener Linie" },
+      { "number": "60+", "label": "Länder weltweit" },
+      { "number": "Tausende", "label": "Verwandelter Leben" }
+    ],
+    "videosHeading": "Verfolge die Reise unserer Studenten",
+    "wallOfLove": "Wand der Liebe",
+    "testimonials": [
+      {
+        "quote": "Die Initiationszeremonie übertraf meine Vorstellungskraft. Ich fühlte mich wirklich willkommen, und es fühlt sich wirklich so an, als hätte ich eine Gemeinschaft gefunden, der ich unglaublich gerne angehöre.",
+        "author": "Maria aus Tschechien"
+      },
+      {
+        "quote": "Radu hat mir nicht gesagt, was ich tun und lassen soll. Er hilft mir wirklich, meine eigene Wahrheit, meine eigene Klarheit zu hören.",
+        "author": "Ana aus Tschechien"
+      },
+      {
+        "quote": "Ich kam auf der Suche nach Antworten und fand eine ganz neue Dimension des Lebens. Die Werkzeuge, die ich erhielt, übertrafen alles, was ich mir vorgestellt hatte.",
+        "author": "Sophie aus Kanada"
+      }
+    ]
+  },
+  "Pillars": {
+    "eyebrow": "Das Fundament",
+    "heading": "Die vier Säulen der Verwandlung",
+    "intro": "Jede Säule baut auf der vorherigen auf und bildet ein vollständiges System spiritueller Evolution, das sich über die Zeit bewährt hat.",
+    "items": [
+      {
+        "title": "Spirituelles Wissen",
+        "description": "Vertiefe dein Verständnis des Universums und der metaphysischen Gesetze, die die gesamte Schöpfung lenken. Erhalte Zugang zu Lehren, die seit über drei Jahrtausenden von einer ununterbrochenen Linie von Initiierten bewahrt werden."
+      },
+      {
+        "title": "Praktische Magie",
+        "description": "Erwecke schlummernde Kräfte in dir und lerne, Energie zu lenken, um greifbare, reale Ergebnisse zu erzielen. Dies ist keine Theorie; es ist die praktische Anwendung universeller Prinzipien."
+      },
+      {
+        "title": "Göttliche Bestimmung",
+        "description": "Entwickle deine Seele und schaffe eine lebendige Verbindung zu deiner Höheren Bestimmung. Entdecke, warum du hier bist, was du erschaffen sollst, und wie du jeden Aspekt deines Lebens mit deiner wahren Berufung in Einklang bringst."
+      },
+      {
+        "title": "Heilmethoden",
+        "description": "Erlerne heilige Heiltechniken, die es dir ermöglichen, anderen auf tiefgreifende Weise zu dienen. Werde zu einem Kanal der Verwandlung und hilf anderen, ihr eigenes göttliches Potenzial zu erwecken."
+      }
+    ]
+  },
+  "Teaser": {
+    "eyebrow": "Verpflichtung zur Größe",
+    "heading": "Dies ist kein Wochenend-Workshop",
+    "body1": "Lass uns klar sein: Der Pfad der Initiation ist ein anspruchsvolles Trainingsprogramm. Es umfasst Monate engagierten Studiums, ständige Praxis und ein unerschütterliches Engagement für die eigene Verwandlung. Dies ist kein beiläufiges Seminar und kein Wohlfühl-Retreat.",
+    "body2": "Dies ist eine <emphasis>heilige Verpflichtung</emphasis>, die beste Version deiner selbst zu werden — Kräfte zu erschließen, von deren Existenz die meisten Menschen nie erfahren werden, und in eine Linie einzutreten, die den Lauf der Menschheitsgeschichte geprägt hat.",
+    "expectedHeading": "Was von dir erwartet wird",
+    "expectations": [
+      "Ein offener Geist und die Bereitschaft, deine aktuellen Annahmen zu hinterfragen",
+      "Tägliches Üben der Werkzeuge und Techniken",
+      "Ein echter Wunsch nach Selbstbeherrschung",
+      "Bereitschaft, zu dienen und dich selbst und andere zu erheben"
+    ]
+  },
+  "CTA": {
+    "eyebrow": "Deine Einladung",
+    "heading": "Bist du bereit, den Pfad zu beschreiten?",
+    "body": "Die Tür steht offen, doch nur du kannst dich entscheiden, hindurchzutreten. Wenn du den Ruf spürst, mach den ersten Schritt und bewirb dich für eine persönliche Beratung mit Radu Coman.",
+    "email": "E-Mail",
+    "whatsapp": "WhatsApp"
+  },
+  "Guide": {
+    "eyebrow": "Dein Guide",
+    "body1": "Radu Coman ist Guide und Lehrer in der Linie von König Salomon, zertifiziert durch die <mms>Modern Mystery School</mms>. Mit langjähriger, engagierter Ausbildung und einer tiefen Leidenschaft dafür, andere zu stärken, hat es sich Radu zur Mission gemacht, die alten Lehren ins Herz Europas zu bringen.",
+    "body2": "Nachdem er der Gemeinschaft zuvor durch seine Arbeit bei <usuflet>universitateapentrusuflet.ro</usuflet> gedient hat, widmet sich Radu nun den Menschen im Raum Prag, indem er den Pfad der Initiation für die Menschen dieser Region zugänglich macht. Er bietet ein intensives Erlebnis für all jene, die wirklich bereit für Verwandlung sind.",
+    "body3": "Sein Ansatz verbindet die zeitlose Präzision der alten Mysterienschul-Lehren mit einem modernen, geerdeten Verständnis davon, was es bedeutet, als erwachtes Wesen in der heutigen Welt zu leben.",
+    "quote": "Meine Aufgabe ist es, dich nach Hause zu führen und dir zu helfen, dein wahrstes Selbst auszudrücken.",
+    "dianaRole": "Lehrerin | Heilerin",
+    "dianaBody1": "Diana Cinpoeru ist eine engagierte Lehrerin und Heilerin, die Radu bei seiner Mission unterstützt. Angetrieben von einem lebenslangen Streben, die menschliche Natur und das Bewusstsein wirklich zu verstehen, führte sie ihr Weg durch Kunst, Symbolik, Astrologie und verschiedene Heilmethoden.",
+    "dianaBody2": "Ihre Suche nach unmittelbarer Erfahrung endete, als sie die <mms>Modern Mystery School</mms> entdeckte. Durch praktische Werkzeuge wie das Astralreisen lernte sie, dass Bewusstsein weit über den physischen Körper hinausreicht, und erschloss Antworten, die jenseits unserer gewöhnlichen Sinne liegen.",
+    "dianaBody3": "Heute teilt Diana diese alten, transformativen Praktiken, um anderen zu helfen, die Kluft zwischen Theorie und Realität zu überbrücken und von bloßer Neugier zu tiefgreifender persönlicher Meisterschaft zu gelangen.",
+    "dianaQuote": "Es gibt einen Unterschied zwischen zu hören, dass etwas möglich ist, und es selbst zu erleben. Zweiteres verändert alles."
+  },
+  "Classes": {
+    "eyebrow": "Bevorstehende Veranstaltungen",
+    "heading": "Bevorstehende Kurse in Prag",
+    "intro": "Jeder Kurs ist ein Trittstein auf dem Pfad der Initiation. Beginne mit der Life Activation und arbeite dich durch das heilige Curriculum.",
+    "items": [
+      {
+        "description": "Erwecke deinen göttlichen Bauplan und entfache das volle Potenzial, das in deiner DNA verschlüsselt ist. Dies ist die grundlegende Sitzung der Mysterienschul-Linie.",
+        "tag": "Grundlage"
+      },
+      {
+        "description": "Ein zweitägiges Initiationsprogramm, in dem du die heiligen Werkzeuge und Lehren erhältst, um die Führung über dein Leben zu übernehmen und den Pfad als Initiierter zu beschreiten.",
+        "tag": "Initiation"
+      },
+      {
+        "title": "Zum vollständigen Kalender",
+        "description": "Studiere die göttlichen Muster, die der gesamten Schöpfung zugrunde liegen, wie man astral reist, mit dem höheren Selbst kommuniziert und vieles mehr.",
+        "tag": "Fortgeschrittenes Studium"
+      }
+    ],
+    "learnMore": "Mehr erfahren"
+  },
+  "Ending": {
+    "eyebrow": "Wo sich alle Welten begegnen",
+    "heading": "Die Brücke zwischen dem Alten, dem Universellen und dem Modernen",
+    "cards": [
+      { "title": "Die alte Weisheit", "subtitle": "Tempel, Priester & heilige Riten" },
+      { "title": "Die universelle Wissenschaft", "subtitle": "Galaktisches Wissen & Licht" },
+      { "title": "Der moderne Initiierte", "subtitle": "Erstarkte Männer & Frauen" }
+    ],
+    "body1": "Dieser Pfad verbindet die <emphasis>alte Weisheit</emphasis> der Mysterienschulen mit der <emphasis>universellen galaktischen Wissenschaft</emphasis>, die Zivilisationen durch den Kosmos geleitet hat.",
+    "body2": "Das Ergebnis ist ein lebendiges Wissenssystem, das zutiefst anwendbar ist für <emphasis>die Männer und Frauen von heute</emphasis>, die bereit sind zu erwachen, sich zu verwandeln und zu führen."
+  },
+  "HallOfInitiates": {
+    "eyebrow": "Halle der Initiierten",
+    "heading": "Du wandelst in <emphasis>erlesener Gesellschaft</emphasis>",
+    "intro": "Könige und Königinnen, Künstler und Wissenschaftler wurden auf demselben Pfad initiiert — darunter Leonardo da Vinci, Nikola Tesla, Isaac Newton. Ihre Porträts hängen hier als Zeugen.",
+    "initiates": [
+      { "role": "Vater der hermetischen Weisheit" },
+      { "role": "Die Pharaonin, die Tempel erbaute" },
+      { "role": "Hüterin des heiligen Weiblichen" },
+      { "role": "Kriegerdichter und Psalmist" },
+      { "role": "Begründer der Linie" },
+      { "role": "Brücke zwischen Königreichen" },
+      { "role": "Geometrie als göttliche Sprache" },
+      { "role": "Hüterkönig der Wenigen" },
+      { "role": "Der Erwachte" },
+      { "role": "Vater des Hinterfragens" },
+      { "role": "Meister der Wissenschaften" },
+      { "role": "Visionärer Weltenbauer" },
+      { "role": "Staatsmann und Reformer" },
+      { "role": "Priesterin der Macht" },
+      { "role": "Meister der Verwandlung" },
+      { "role": "Kriegerin der Hingabe" },
+      { "role": "Glaube in Rüstung" },
+      { "role": "Der universelle Initiierte" },
+      { "role": "Meister von Stein und Geist" },
+      { "role": "Arzt und Seher" },
+      { "role": "Dichter der Seele" },
+      { "role": "Das Schwert als Pfad" },
+      { "role": "Wissenschaftler der Mysterien" },
+      { "role": "Der unsterbliche Adept" },
+      { "role": "Staatsmann des Gewissens" },
+      { "role": "Frequenz und Licht" },
+      { "role": "Architekt des Geistes" },
+      { "role": "Der mystische Heiler" }
+    ],
+    "closing": "Was, wenn du Zugang zu genau <emphasis>demselben</emphasis> Pfad, denselben Werkzeugen und derselben Kraft hättest, die sie hatten — was wäre dein Vermächtnis?",
+    "portraitsCredit": "Porträts: historische Kunstwerke & Fotografien, Wikimedia Commons."
+  },
+  "Newsletter": {
+    "eyebrow": "Briefe vom Pfad",
+    "heading": "Empfange die Lehren",
+    "intro": "Gelegentliche Briefe über Initiation, Heilige Geometrie und die Arbeit der Seele — nur gesendet, wenn es etwas Erwähnenswertes gibt.",
+    "placeholder": "Deine E-Mail",
+    "submitting": "Wird gesendet...",
+    "subscribe": "Abonnieren",
+    "errorEmpty": "Bitte gib deine E-Mail-Adresse ein.",
+    "success": "Danke — deine Anmeldung wurde entgegengenommen.",
+    "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuche es erneut oder kontaktiere uns direkt.",
+    "footnote": "Kein Lärm. Jederzeit abbestellbar."
+  },
+  "LifeActivation": {
+    "heroEyebrow": "Die Mysterientradition · Linie von König Salomon",
+    "heroSubtitle": "Aktiviere die angeborenen Gaben, die in deiner DNA ruhen",
+    "heroTagline": "Löse 5–7 Generationen von Ahnentrauma und trete in dein höchstes Potenzial ein",
+    "introLead": "{brand} – Die Mysterientradition, Linie von König Salomon",
+    "introBody": "{brand} ist eine tiefgreifende Erfahrung, angeboten durch die Tradition der Modern Mystery School, konzipiert, um das göttliche Potenzial in jedem Menschen zu erwecken. Diese kraftvolle Sitzung aktiviert 22 der 24 DNA-Stränge (11 physische und 11 spirituelle) und öffnet die Tür zu einer tieferen Verbindung mit deinem Göttlichen Selbst. Dadurch verbessert sich deine Fähigkeit, mehr Licht zu empfangen, zirkulieren zu lassen und zu halten — was Heilung, Klarheit und spirituelles Wachstum im physischen Körper unterstützt.",
+    "benefitsHeading": "Die Vorteile der {brand}",
+    "benefits": [
+      { "label": "Tiefe Verbindung mit dem Göttlichen Selbst:", "text": "Life Activation erleichtert eine tiefere Verbindung mit deinem Göttlichen Selbst und ermöglicht die Manifestation deiner inneren Ressourcen, Talente und Potenziale." },
+      { "label": "Energie und Klarheit:", "text": "Die Erfahrung bringt eine Infusion von Energie und Klarheit in alle Lebensbereiche und unterstützt deine Fähigkeit, den Alltag mit Zuversicht zu meistern." },
+      { "label": "Manifestation von Talenten und Fähigkeiten:", "text": "Durch das Erwecken des inneren Potenzials werden die Teilnehmenden sich ihrer einzigartigen Talente und Fähigkeiten bewusster und fähiger, diese voller auszudrücken." },
+      { "label": "Körperliche Transformation und Karma-Freisetzung:", "text": "Life Activation initiiert einen Transformationsprozess im Körper und hilft, emotionale und mentale Muster freizusetzen, die in der DNA gespeichert sind und als „Karma“ bekannt sind." },
+      { "label": "Erweiterte Nutzung der Gehirnkapazität:", "text": "Durch diese Erfahrung wird die Fähigkeit verbessert, mehr vom Potenzial des Gehirns zu nutzen, wodurch zuvor übersehene oder ruhende Fähigkeiten ans Licht gebracht werden." }
+    ],
+    "proceduresHeading": "Zusätzliche Verfahren zum Ausgleich und zur Transformation",
+    "proceduresLead": "Zusätzlich zur eigentlichen Aktivierung umfasst die Sitzung ergänzende Verfahren, die den Körper im Einklang mit den neu aktivierten Informationen aus der DNA ausgleichen und stimulieren sollen.",
+    "procedures": [
+      { "label": "Entfernung emotionaler Blockaden:", "text": "Konzentriert auf die Beseitigung möglicher emotionaler Blockaden im Kronenchakra, schafft dieser Prozess einen freieren Energiefluss." },
+      { "label": "Ausgleich des zentralen Kerns:", "text": "Dieser Prozess harmonisiert die durch den zentralen Kern fließenden Energien und unterstützt die Ausrichtung und das Gleichgewicht des gesamten Energiesystems." },
+      { "label": "Öffnung der 16 Lotusblütenblätter:", "text": "Diese Handlung verstärkt die Verbindung mit den elementaren Energien — Erde, Wasser, Luft und Feuer — und intensiviert deine Interaktion mit ihnen." },
+      { "label": "Ausgleich der elementaren und magnetischen Energielinien:", "text": "Dieser Prozess konzentriert sich auf den Ausgleich und die Harmonisierung der durch den Körper verlaufenden Energielinien und unterstützt einen reibungslosen, ausgerichteten Energiefluss." },
+      { "label": "Chakra-Ausgleich:", "text": "Dieser Prozess zielt darauf ab, Harmonie und Ausrichtung in das Chakrensystem — die Energiezentren des Körpers — zu bringen." },
+      { "label": "Entfernung verbrannter ätherischer Kristalle aus dem Körper:", "text": "Dieses Verfahren dient der Reinigung und Revitalisierung des energetischen Körpers." },
+      { "label": "Kurze Lesung aus deiner neu aktivierten DNA:", "text": "Eine kurze Erkundung der unterbewussten Ebenen, die dir ein tieferes Selbstverständnis vermittelt." },
+      { "label": "Homöopathisches Mittel:", "text": "Ein im Alchemielabor der Schule hergestelltes homöopathisches Mittel, das die mit dieser einzigartigen Erfahrung verbundenen körperlichen und energetischen Veränderungen entgiften, unterstützen und erleichtern soll." }
+    ],
+    "exploreHeading": "Erkunde die höheren Dimensionen",
+    "exploreBody1": "DNA-Aktivierung ist eine Rückkehr zum Selbst — eine Sitzung, die nicht nur Licht in die Dunkelheit des Lebens bringt, sondern auch Türen zu grenzenlosem Potenzial öffnet.",
+    "exploreBody2": "In der Modern Mystery School dient diese Aktivierung als Tor zur spirituellen Evolution und zur Entdeckung des wahren Selbst auf tiefgreifende und transformative Weise. Es ist ein Schritt zur Selbsterkenntnis und eine Gelegenheit, das Leben mit mehr Energie, Klarheit und Bewusstsein zu leben.",
+    "certTitle": "{brand} – DNA-Aktivierung",
+    "certBody": "Dies ist eine bahnbrechende Methode für <i>innere Verwandlung und die Entfaltung deines persönlichen Potenzials</i>. Sie verbindet uraltes Wissen mit modernen Energien, um dir beim Wachsen und Weiterentwickeln zu helfen. Diese Technik wird von der Modern Mystery School durch zertifizierte Life-Activation-Praktizierende angeboten. Sie dient als <bold>Tor zu höherem Bewusstsein und spiritueller Erweiterung.</bold>",
+    "bookingTitle": "Begegne deiner authentischen Kraft und deinem höheren Selbst!",
+    "duration": "2 Stunden",
+    "bookingNote": "Sobald die Zahlung abgeschlossen ist, kontaktieren wir dich, um den Termin zu finalisieren.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand} erfahren."
+  },
+  "EmpowerThyself": {
+    "heroEyebrow": "Eine zweitägige Initiation",
+    "heroTitle": "Das {brand}-Programm",
+    "heroSubtitle": "Initiation in die Linie von König Salomon",
+    "invitation": {
+      "question": "Wenn du wie Gott sein könntest — erfüllt von Liebe, Harmonie und schöpferischer Kraft — würdest du es tun?",
+      "body1": "Diese Initiation wird den Horizont dessen erweitern, was du für möglich hältst. Sie erweckt neue Potenziale und fordert uns heraus, alte Dogmen und Paradigmen loszulassen.",
+      "body2": "Im Verlauf dieser zwei Tage erhältst du Schlüssel, die das Potenzial in deinem Geist freisetzen, um deine göttliche Natur zu verkörpern. Wir alle tragen dieses Potenzial in uns — es ist bereits in dir. Jetzt ist die Zeit, es an die Oberfläche zu bringen und zum Mittelpunkt deines Lebens zu machen.",
+      "body3": "Du wirst lernen, das negative Ego zu überwinden, das dir im Weg steht, und erhältst praktische Werkzeuge, die dich in diesem Prozess unterstützen. Die Initiation beschleunigt deine Verwandlung und hilft dir, schneller Ergebnisse zu erleben und die Reise zu deinem wahren Selbst zu genießen.",
+      "body4": "Du wirst von einer uralten Linie unterstützt, die hinter dir steht.",
+      "body5": "Diejenigen, die diesen Weg vor dir gegangen sind, sind hier, um dich mit ihrer Weisheit und Erfahrung zu führen.",
+      "body6": "Durch ihre Hingabe wurden diese Lehren in ihrer reinsten Form bewahrt — sicher aufbewahrt, damit wir heute von ihnen profitieren können.",
+      "callToAction": "Wirst du dem Ruf folgen?"
+    },
+    "letter": {
+      "greeting": "Liebe Suchende, lieber Suchender,",
+      "body1": "Ich spreche jetzt zu dir nicht nur als spiritueller Guide in einer uralten Linie des Lichts — sondern auch als Ingenieur. Ich weiß, auf den ersten Blick mögen diese beiden Wege wie völlig unterschiedliche Welten erscheinen. Aber beide haben mir dieselbe tiefgreifende Wahrheit offenbart: <bold>Es gibt ein tieferes Design in allem, was existiert</bold>.",
+      "body2a": "In der Ingenieurwissenschaft untersuchen wir Struktur, Energie und Systeme.",
+      "body2b": "In dieser Heiligen Linie — ununterbrochen weitergegeben seit der Zeit von König Salomon — untersuchen wir die Struktur der Seele, den Fluss der Lebensenergie und die Systeme, die Heilung, Bestimmung und innere Meisterschaft steuern.",
+      "body3": "<bold>{brand}</bold> ist nicht nur ein Kurs. Es ist eine präzise, zeiterprobte Initiation in deine eigene göttliche Architektur. König Salomon versammelte die weisesten Menschen und Mystiker seiner Zeit und testete jedes transformative Werkzeug, um ein System zu schaffen, das wirklich funktioniert — <emphasis>für alle Menschen, über Kulturen und <bold>Jahrhunderte</bold> hinweg.</emphasis>",
+      "body4": "Dieser Pfad verlangt nicht, dass du blind glaubst. Er lädt dich ein, zu erfahren. Die in deiner DNA codierten Gaben zu erwecken. Ahnenmuster loszulassen, die dir nicht mehr dienen. Deine innere Welt mit einer höheren Intelligenz auszurichten — dem göttlichen Plan deiner Seele.",
+      "body5": "Wenn du spürst, dass das Leben eine tiefere Architektur hat… Wenn du irgendwo in dir immer schon wusstest, dass du für etwas Größeres hier bist — auch wenn du es noch nicht benennen konntest… Dann könnte dieser Schritt dein nächster Anfang sein.",
+      "closing": "Es wäre mir eine Ehre, dich zu begleiten. Von einem Wahrheitssuchenden zum anderen, mit Klarheit, Struktur und Seele.",
+      "signOffRole": "Dein Guide in der Linie des Lichts"
+    },
+    "origins": {
+      "heading": "Was ist das {brand}-Programm und woher kommt es?",
+      "body1": "<bold>{brand}</bold> ist Teil einer lebendigen Tradition von Weisheit, Heilung und innerer Entwicklung, die vor über 3.000 Jahren von König Salomon begründet wurde.",
+      "body2": "Angetrieben vom Wunsch, Menschen zu helfen, ihr göttliches Potenzial zu entdecken und zu erfüllen, versammelte Salomon die weisesten Meister seiner Zeit — Heiler, Ärzte, Weise, Mystiker und spirituell Suchende. Gemeinsam testeten und verfeinerten sie alle bekannten Transformationsmethoden, bis sie ein klares, tiefgreifendes und praktisches System schufen, das für jeden funktioniert, unabhängig von Kultur oder Epoche.",
+      "body3": "<bold>Was {brand} wirklich besonders macht</bold>, ist, dass es nicht nur eine weitere Sammlung von Techniken oder Theorien ist. Es ist Teil eines vollständigen und stimmigen Systems, das bis heute kontinuierlich weitergegeben wird — ein bewährter, vertrauenswürdiger Rahmen, der das Erwachen des Bewusstseins, das innere Gleichgewicht und die Wiederverbindung mit deinem wahren Selbst unterstützt.",
+      "tagline": "Dieses System ist auch heute noch wirksam und bringt Ergebnisse in Bereichen, die die moderne Wissenschaft noch nicht erreichen konnte."
+    },
+    "whatWillYouDo": {
+      "heading": "Was wirst du im {brand}-Programm tun?",
+      "body1": "Dieses Programm soll dir helfen zu erkennen, dass du die Macht hast, das Leben zu erschaffen, das du wirklich willst. Es befähigt dich zu erkennen, wo du dich selbst zurückhältst und wo du dich mit weniger zufriedengibst, als du verdienst. Aber damit ist es nicht getan — dieses Programm gibt dir auch die Werkzeuge, um diese Teile deines Lebens zu verändern! Nach diesen zwei Tagen wirst du in der Lage sein, die Muster und Programme zu erkennen, die dein Verhalten prägen, zu verstehen, woher sie kommen, und die Macht haben, sie loszulassen.",
+      "body2": "Du öffnest Wege, über die du Zugang zu mehr Energie, neuem Wissen und frischen Einsichten erhältst, die dich befähigen, ein neues Leben zu erschaffen, das dir vollkommene Erfüllung bringt.",
+      "body3": "Dies ist ein praktisches, interaktives Programm, nach dem du sicher sein wirst, genau zu wissen, was als Nächstes zu tun ist, um dein Wachstum und deine Verwandlung fortzusetzen.",
+      "subheading": "Du gewinnst Klarheit und Struktur in deinem Verständnis von Geist und menschlicher Natur sowie klare Einsicht in Erfahrungen, die du vielleicht schon gemacht hast.",
+      "benefits": [
+        "Du lernst, die unsichtbare Welt zu erkennen, auf sie zuzugreifen und mit ihr zu interagieren.",
+        "Du lernst, wie du die Kraft deiner Gedanken sammelst und nutzt, um Gutes um dich herum zu erschaffen.",
+        "Du praktizierst heilige Rituale und nimmst an einer heiligen Initiationszeremonie teil."
+      ]
+    },
+    "special": {
+      "heading": "Was macht dieses Programm besonders?",
+      "body": "Wir vermitteln dir nicht nur Theorie. Es gibt viele Lehrer, die mit dir über Spiritualität sprechen können. Wir bieten dir authentische, kraftvolle Werkzeuge und zeigen dir, wie du sie in deinem Leben einsetzt. Wir geben dir den Schlüssel, um diese Kräfte in dir selbst zu entfalten!"
+    },
+    "curriculum": {
+      "heading": "Was wirst du in diesem Programm lernen?",
+      "items": [
+        "Wie du die Frage „Wer bin ich?“ beantwortest",
+        "Was ist eine Initiation, und warum brauchen wir sie heute?",
+        "Die Rolle von König Salomon in diesem Prozess",
+        "Das menschliche Potenzial, Gott zu sein",
+        "Die 12 Dimensionen der Erde und die 7 spirituellen Dimensionen",
+        "Die Struktur der Hierarchie des Lichts",
+        "Meditation und Gehirnwellenfrequenzen",
+        "Der Einfluss des Egos auf das wahre Selbst",
+        "Der Zyklus menschlicher Prozesse",
+        "Die energetische Struktur des Menschen",
+        "Universelle Kabbala und der Baum des Lebens"
+      ],
+      "closing": "Im Verlauf dieses Programms erhältst du Lehren, praktische Übungen und heilige Rituale, die du nutzen kannst, um dein Leben auf die nächste Stufe zu heben. All diese Schlüssel stammen aus der Linie von König Salomon, die seit Jahrtausenden in ununterbrochener Tradition weitergegeben wird."
+    },
+    "nextSteps": {
+      "heading": "Was musst du tun?",
+      "items": [
+        { "main": "Melde dich bei uns, um herauszufinden, ob dieses Programm in diesem Moment deiner Reise das Richtige für dich ist.", "sub": "Wir sind hier, um dich mit Klarheit und Führung zu unterstützen, bei jedem Schritt." },
+        { "main": "Erhalte eine Life-Activation-Sitzung von einem unserer zertifizierten Praktizierenden." },
+        { "main": "Leiste eine Anzahlung oder zahle den vollen Betrag, um dir deinen Platz zu sichern." },
+        { "main": "Nimm am zweitägigen Kurs teil und beteilige dich an der Initiationszeremonie." },
+        { "main": "Beginne, das Gelernte anzuwenden, und genieße die Ergebnisse." }
+      ]
+    },
+    "recommendations": {
+      "heading": "Empfehlungen",
+      "body1": "<bold>{brand}</bold> ist nicht nur ein Kurs. Es ist der Beginn einer tiefgreifenden Reise und einer dauerhaften Verbindung.",
+      "body2": "Diese Initiation öffnet ein Tor zu einem neuen Verständnis des Lebens sowie einen sicheren Raum, zu dem du zurückkehren kannst, wann immer du Klarheit, Unterstützung oder Führung brauchst.",
+      "body3": "Wir verpflichten uns, dich nicht nur während des Programms, sondern auch in den kommenden Jahren zu unterstützen. Ob du Fragen zur Anwendung der Lehren im Alltag hast, eine Phase der Verwandlung durchlebst oder einfach bereit bist, den nächsten Schritt auf deiner persönlichen Reise zu gehen — wir sind für dich da.",
+      "body4": "Diese Beziehung wird mit der Zeit aufgebaut — mit Vertrauen, Respekt und der ehrlichen Absicht, dein Wachstum, deine Balance und deine innere Stärke zu unterstützen."
+    },
+    "bookingTitle": "Entdecke dein Potenzial, ein göttliches Wesen zu sein!",
+    "duration": "2 Tage",
+    "bookingNote": "Findet in Prag, Tschechische Republik statt. Nach deiner Anzahlung kontaktieren wir dich, um deine Life Activation zu planen und deinen Platz zu bestätigen.",
+    "bookingExtra": {
+      "included": "Beinhaltet das zweitägige Training und eine kostenlose Life-Activation-Sitzung (im Wert von 8.500 CZK), um dein Energiesystem vorzubereiten und dich vor der Initiation mit deinem göttlichen Bauplan zu verbinden.",
+      "processLabel": "Buchungsprozess:",
+      "deposit": "Eine Anzahlung von 12.000 CZK sichert dir deinen Platz und ermöglicht es uns, deine Life-Activation-Sitzung zu planen.",
+      "remainder": "Die restlichen 24.500 CZK sind vor Beginn des zweitägigen Trainings und der Initiation fällig."
+    },
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand}-Initiation erfahren."
+  },
+  "FullSpiritActivation": {
+    "heroEyebrow": "Die Mysterientradition · Linie von König Salomon",
+    "heroSubtitle": "Erwecke und verankere Seele und Geist im Körper",
+    "heroTagline": "Öffne deine Seele für Wunder",
+    "introLead": "{brand} — nach der Life Activation empfangen",
+    "introBody1": "Unter dem Schleier unserer physischen Existenz liegt eine weite und komplexe Welt des Bewusstseins, die, einmal erweckt und aktiviert, die Art und Weise, wie wir Realität wahrnehmen und erleben, radikal verändern kann. Full Spirit Activation ist ein kraftvoller Prozess, der Licht und Klarheit in unser gesamtes Sein bringt, uns tieferen Ebenen des Bewusstseins öffnet und uns wieder mit unserem göttlichen Wesen verbindet.",
+    "introBody2": "Während die Life Activation dich mit deinem ursprünglichen Bauplan und deinem Höheren Selbst verbindet, wirkt die Full Spirit Activation als Portal zu deinem wahren Wesen — sie erweckt und verankert Seele und Geist im physischen Körper und schafft eine kraftvolle Brücke zwischen dem Göttlichen und der menschlichen Erfahrung.",
+    "bookNow": "Jetzt buchen",
+    "soulHeading": "Eine Praxis, die auf der Ebene der Seele wirkt",
+    "soulBody1": "Ähnlich wie die Life Activation, die auf physischer Ebene wirkt, arbeitet die Full Spirit Activation auf der Ebene der Seele — sie öffnet die Tore zu höheren Dimensionen von Bewusstsein und Sein. Sie wirkt tief in verschiedenen Bereichen des Gehirns und verbindet sie neu mit bestimmten Punkten im physischen Körper, die dann mit den feinstofflichen Energiekörpern verknüpft werden, wodurch der Fluss spiritueller Energie durch dein gesamtes System verstärkt wird.",
+    "soulBody2": "Konkreter gesagt entriegelt sie die Bewusstseinskanäle im Körper und revitalisiert das Nerven- und Sinnessystem. Dies ermöglicht es uns, uns tiefer mit unseren körperlichen Empfindungen zu verbinden — frei von den emotionalen und mentalen Blockaden, die uns in der Vergangenheit möglicherweise eingeschränkt haben — und erfüllt uns mit strahlender Vitalität und überwältigender Lebensfreude.",
+    "quote": {
+      "text": "Du bist dazu bestimmt,",
+      "emphasis": "Schönheit und Güte auszudrücken",
+      "attribution": "Die Lehre der Linie",
+      "caption": "Lied der Engel · W.-A. Bouguereau, 1881"
+    },
+    "aspectsHeading": "Ein Prozess, der auf mehreren Ebenen deines Seins wirkt",
+    "aspects": [
+      { "label": "Der Bereich des Geistes:", "text": "Diese Aktivierung wirkt auf allen Ebenen des Geistes, von unseren physischen Bedürfnissen bis zur Verbindung mit der göttlichen Quelle des Wissens." },
+      { "label": "Das Willenszentrum:", "text": "Jeder Aspekt des Willenszentrums wird erforscht und revitalisiert, von alltäglichen Entscheidungen bis zu tiefen spirituellen Entscheidungen." },
+      { "label": "Intuition, Gedächtnis & Zugangspunkte:", "text": "Intuitive Kanäle und tiefes Gedächtnis werden geöffnet und aktiviert, wodurch die Tore zu göttlichem Wissen entriegelt werden." }
+    ],
+    "proceduresHeading": "Zusätzliche Verfahren zum Ausgleich & zur Transformation",
+    "procedures": [
+      { "label": "Chakra-Erweckung:", "text": "Erweckung und Harmonisierung der Energiezentren des Körpers." },
+      { "label": "Erweckung des Baums des Lebens:", "text": "Ausrichtung auf die lebendige Landkarte der Schöpfung in dir." },
+      { "label": "Purificado & Crystalis:", "text": "Ein magisches homöopathisches Mittel, das den Prozess und eine sanfte Entgiftung unterstützt." }
+    ],
+    "proceduresClosing": "Nach einer so intensiven Sitzung wird empfohlen, sich Zeit zu nehmen, um die Transformationen vollständig zu integrieren. Um die Vorteile zu maximieren, absolviere zuerst die Life Activation — idealerweise drei Wochen bis drei Monate vorher.",
+    "bookingTitle": "Entdecke dein Potenzial, ein göttliches Wesen zu sein",
+    "duration": "2 Stunden",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand} erfahren."
+  },
+  "HealersAcademy": {
+    "heroEyebrow": "Die zweite Stufe der Initiation",
+    "heroSubtitle": "Werde ein zertifizierter Heiler in der Linie von König Salomon",
+    "heroTagline": "Tritt vollständig in ein Leben des Dienens und des Lichts ein",
+    "introLead": "Ein intensives Programm & Initiation — offen für Absolventen der {brand}",
+    "introBody1": "Die {brand} ist die zweite Stufe der Initiation auf dem Pfad. Nachdem Empower Thyself deine eigene Kraft erweckt hat, wendet die Healers Academy diese Kraft nach außen — sie schult dich darin, heiligen Raum zu halten und wahre Heilung zu anderen zu bringen. Es ist die Schwelle, an der ein Schüler der Mysterien zu ihrem Praktizierenden wird.",
+    "introBody2": "In einem intensiven Studien- und Übungsprogramm wirst du initiiert und zertifiziert, um die grundlegenden Modalitäten der Modern Mystery School anzubieten — dieselbe Arbeit, die dein eigenes Leben verändert hat, nun in deine Hände gelegt, um sie weiterzugeben.",
+    "applyNow": "Jetzt bewerben",
+    "learnHeading": "Was du lernen wirst",
+    "learn": [
+      { "label": "Die Life Activation durchführen:", "text": "Lerne, die vollständige 22-Strang-DNA-Life-Activation für andere durchzuführen." },
+      { "label": "Max-Meditation™-Gruppen leiten:", "text": "Leite die charakteristische Gruppenmeditation, die diesen Pfad für so viele öffnet." },
+      { "label": "Die Aura lesen & heilen:", "text": "Lerne, Löcher in der Aura eines Menschen zu finden und zu füllen und Ganzheit und Schutz wiederherzustellen." },
+      { "label": "Deinen Lichtkörper stärken:", "text": "Nähre und pflege deinen eigenen Lichtkörper, damit er bis zu hundertmal mehr Kraft halten kann." },
+      { "label": "Heilige Zeremonie & Ethik:", "text": "Halte Raum mit Integrität, Unterscheidungsvermögen und der Verantwortung eines wahren Heilers." }
+    ],
+    "quote": {
+      "text": "Erkenne dich selbst, und du wirst",
+      "emphasis": "das Universum und die Götter erkennen",
+      "attribution": "Eingraviert im Apollontempel · Delphi",
+      "caption": "Aufstieg der Seligen · H. Bosch, um 1505"
+    },
+    "whoHeading": "Für wen es geeignet ist",
+    "whoBody1": "Die {brand} ist für diejenigen, die den Ruf zu dienen gespürt haben — die, nachdem sie ihre eigene Initiation durchlaufen haben, das Licht weitertragen möchten. Es ist kein vorheriger Heilungshintergrund erforderlich, nur Aufrichtigkeit, eine abgeschlossene Empower-Thyself-Initiation und die Bereitschaft, dich deinem eigenen fortgesetzten Wachstum zu verpflichten.",
+    "whoBody2": "Absolventen treten einer weltweiten Gemeinschaft zertifizierter Heiler bei und sind berechtigt, auf dem Ritual-Master-Pfad und den tieferen Lehren der Schule fortzufahren.",
+    "bookingTitle": "Antworte auf den Ruf zu dienen",
+    "duration": "Intensivprogramm & Initiation",
+    "bookingNote": "Die Healers Academy ist ein 5-tägiges Intensivprogramm.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand} erfahren."
+  },
+  "RitualMaster": {
+    "heroEyebrow": "Der Pfad des Meistermagiers",
+    "heroSubtitle": "Wahre Meisterschaft über das Selbst",
+    "heroTagline": "Der Krieger des Lichts sprengt jede Kette, die ihn gefangen hält — und hilft dann anderen, dasselbe zu tun.",
+    "introLead": "Das {brand}-Programm",
+    "introBody1": "Heute haben wir Zugang zu mehr Wissen, als die Menschheit je hatte — und dennoch fühlen sich so viele im Leben verloren, gefangen in einer Box. Das liegt daran, dass eine wesentliche Komponente fehlt: der Geist, wer du wirklich bist. Aus dem Geist kommen Hoffnung, Freude und die Kraft, dich über alle Negativität zu erheben.",
+    "introBody2": "Es gibt einen Weg, der dir hilft, deine Freiheit zurückzugewinnen. Durch unsere Überzeugungen und unser Verhalten sperren wir uns selbst in das Gefängnis ein, in dem wir leben — wir sind sowohl Sklave als auch Unterdrücker. Der {brand}-Pfad beginnt mit der ersten Kraft, die angegangen werden muss, um die Freiheit zurückzugewinnen: dir selbst.",
+    "askAboutPath": "Frage zum Pfad stellen",
+    "masteryHeading": "Wahre Meisterschaft über das Selbst",
+    "masteryBody1a": "Eine bekannte hermetische Lehre, das Gesetz der Entsprechung, besagt:",
+    "masteryBody1Quote": "„Wie innen, so außen. Wie außen, so innen. Wie oben, so unten. Wie unten, so oben.“",
+    "masteryBody1b": "Das {brand}-Programm hilft dir, Kontrolle über deine innere Welt zu gewinnen und dann die Veränderungen vorzunehmen, die Ergebnisse in der äußeren Welt schaffen.",
+    "masteryBody2a": "Seit Jahrhunderten sind diese Prinzipien das Studium des Meistermagiers, der lernt, seinen Willen zu fokussieren und zu disziplinieren und ihn auf die Erfüllung seiner Bedürfnisse und Wünsche zu richten. Der Pfad verbindet",
+    "masteryBody2Emphasis": "Willen, Liebe und Unterscheidungsvermögen",
+    "masteryBody2b": "— damit du Gutes erschaffen und eine Quelle des Lichts für dich selbst und die Menschen um dich herum sein kannst.",
+    "quote": {
+      "text": "Realität ist das, was nicht verändert werden kann durch deine",
+      "emphasis": "Gedanken, Gefühle oder Meinungen",
+      "attribution": "Sovereign Ipsissimus Dave Lanyon",
+      "caption": "Die Königin von Saba vor dem Tempel Salomons · S. de Bray, 1657"
+    },
+    "readyHeading": "Bist du bereit zu handeln?",
+    "readyBody": "Dies sind die Schritte, die zu befolgen sind, um gemeinsam mit den Ritual Masters zu trainieren. Der Pfad ist anspruchsvoll und wird in dieser Reihenfolge gegangen — jeder Schritt bereitet dich auf den nächsten vor.",
+    "steps": [
+      { "label": "1 · Empower Thyself:", "text": "Die erste Initiation — erwecke deine Kraft und deine göttliche Bestimmung." },
+      { "label": "2 · Healers Academy:", "text": "Die zweite Initiation — lerne zu heilen und anderen zu dienen." },
+      { "label": "3 · Bewerben & angenommen werden:", "text": "Bewirb dich bei einem Ritual-Master-Lehrer und werde angenommen." },
+      { "label": "4 · Ritual Master Novice:", "text": "Melde dich für die Ritual Master Novice-Klasse an einem der internationalen Zentren der Modern Mystery School an." }
+    ],
+    "readyClosing": "Diese Lehren sind unerlässlich für jeden, der wirklich etwas in seinem Leben verändern möchte und sich seiner Verwandlung verpflichtet — der Verantwortung für seine innere Arbeit übernimmt und handelt, um eine reinere, authentischere und freiere Version seines Selbst zu erschaffen.",
+    "bookingTitle": "Beginne deine Meisterschaft",
+    "bookingNote": "Der Ritual-Master-Pfad beginnt mit Empower Thyself und der Healers Academy. Melde dich, und wir helfen dir, den richtigen nächsten Schritt für dich zu planen.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über das {brand}-Programm erfahren."
+  },
+  "HealingGrid": {
+    "inquire": "Anfragen",
+    "inquiryTemplate": "Hallo Radu, ich möchte mich über die Heilung {name} informieren."
+  },
+  "Healings": {
+    "heroEyebrow": "In der Linie von König Salomon",
+    "heroTitle": "Heilmethoden",
+    "heroSubtitle": "Eine Reihe von Heilungen für Körper, Geist und Seele",
+    "heroTagline": "Jede Sitzung wird eins zu eins angeboten — melde dich, um dich nach einer davon zu erkundigen",
+    "introLead": "Eine lebendige Heiltradition",
+    "introBody": "Die Modern Mystery School trägt eines der ältesten und vollständigsten Heilsysteme der Erde — zusammengetragen von König Salomon und durch eine ununterbrochene Linie ganz gehalten. Unten findest du die Bandbreite der in Prag verfügbaren Heilungen. Du musst nicht wissen, welche für dich die richtige ist. Erkunde einfach und frage nach allem, was dich anspricht — Radu wird dich von dort an begleiten.",
+    "specialtyLead": "Für die tiefere, spezialisierte Arbeit der Tradition, siehe die",
+    "specialtyLinkLabel": "{brand}-Spezialheilungen →",
+    "inquiry": "Hallo Radu, ich möchte mich über die Heilmethoden informieren.",
+    "ctaHeading": "Beginne deine Heilung",
+    "ctaBody": "Erzähl Radu ein wenig darüber, wo du gerade stehst, und er hilft dir, die Heilung zu wählen, die dir am besten dient.",
+    "groups": {
+      "activations": {
+        "title": "Grundlegende Aktivierungen",
+        "blurb": "Wo die meisten Reisen beginnen — das Erwecken der Gaben, die bereits in dir codiert sind.",
+        "items": [
+          { "tag": "Grundlage", "description": "Die grundlegende Sitzung der Linie — aktiviert 22 der 24 DNA-Stränge und deinen göttlichen Bauplan." },
+          { "description": "Vertieft deine Verbindung zur Seele und zum Höheren Selbst über die Life Activation hinaus." },
+          { "name": "Galaktische Aktivierung", "description": "Fortschreitende Aktivierung der galaktischen und göttlichen Codes in deiner physischen und spirituellen DNA." },
+          { "name": "11. Codon-Lesung", "description": "Aktiviert den 11. und 12. spirituellen und physischen DNA-Strang über die Life Activation hinaus." }
+        ]
+      },
+      "auraEnergy": {
+        "title": "Aura- & Energieheilungen",
+        "blurb": "Reinigung, Reparatur und Schutz deines energetischen Feldes.",
+        "items": [
+          { "name": "{brand} Aura-Heilung", "description": "Reinigt, balanciert und versiegelt die sieben Schichten der Aura durch die Geometrie des Lichts." },
+          { "name": "Entfernung negativer Energie", "description": "Entfernt energetische Blockaden und negative Muster aus deinem Energiesystem." },
+          { "name": "Durchtrennen emotionaler Bindungen", "description": "Trennt kräftezehrende emotionale Bindungen, damit du keine Energie mehr an andere Menschen verlierst." },
+          { "name": "Schamanische Aurareinigung", "description": "Schamanische Techniken zur Beseitigung von Blockaden und schweren Energien aus dem Aurafeld." },
+          { "name": "Ensofische Strahlenheilung", "description": "Der hellste, kraftvollste Energiestrahl — richtet Körper, Seele und Geist im Kern neu aus." },
+          { "name": "Kristallheilung", "description": "Uralte Techniken der Linie im Umgang mit Kristallen für Heilung, Intuition und Schutz." }
+        ]
+      },
+      "readings": {
+        "title": "Lesungen & Führung",
+        "blurb": "Einblick in deine Bestimmung, deine Seele und deinen Pfad.",
+        "items": [
+          { "name": "Lebenszweck-Lesung", "description": "Eine Lesung, die dir hilft, deine göttliche Lebensbestimmung zu erkennen und dich an ihr auszurichten." },
+          { "name": "Seelenrückholung", "description": "Gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit." },
+          { "name": "Lebensfunke — Fernheilung", "description": "Eine Fernheilung, die dir wiederherstellende Energie über jede Entfernung hinweg bringt." }
+        ]
+      },
+      "bodyWork": {
+        "title": "Körper, Meridiane & Meditation",
+        "blurb": "Wiederherstellung von Fluss, Gleichgewicht und Stille durch Körper und Atem.",
+        "items": [
+          { "name": "Max Meditation System™", "description": "Ein angeleitetes System, das uralte yogische Technik mit moderner Methode verbindet, um Stress zu lösen und Vitalität wiederherzustellen." },
+          { "name": "Laserlicht-Heilung", "description": "Lichtfrequenzen und Reflexzonentherapie entlang der Meridianlinien, um den Fluss wiederherzustellen." },
+          { "name": "Meridianlinien-Ausgleich", "description": "Balanciert den Fluss der Lebenskraft (Chi) entlang der Meridianlinien des Körpers." },
+          { "name": "Erweckung des Baums des Lebens", "description": "Erweckt deine Verbindung zum Baum des Lebens und erweitert das Bewusstsein." },
+          { "name": "Chakra-Erweckung", "description": "Erweckt und harmonisiert die sieben Energiezentren des Körpers." }
+        ]
+      }
+    }
+  },
+  "SpecialtyHealings": {
+    "heroEyebrow": "Die King-Salomon-Heilmethode",
+    "heroTitle": "Spezialheilungen",
+    "heroSubtitle": "Die tiefen Heilungen einer 3.000 Jahre alten Linie",
+    "heroTagline": "Für diejenigen, die bereit sind, über die grundlegenden Sitzungen hinauszugehen",
+    "introLead": "Was ist die King-Salomon-Heilmethode?",
+    "introBody1": "Vor über dreitausend Jahren versammelte König Salomon die größten Heiler, Schamanen, Propheten und Alchemisten der Welt und brachte ihre Weisheit in ein einziges lebendiges Heilsystem. Dieses System — die King-Salomon-Heilmethode — wurde seitdem von Lehrer zu Schüler in einer ununterbrochenen Linie bewahrt und weitergegeben.",
+    "introBody2": "Dies sind keine grundlegenden Sitzungen. Es sind die tieferen, spezialisierten Heilungen der Tradition — präzise Arbeit am ätherischen, mentalen und aurischen Körper für diejenigen, die bereit sind, weiterzugehen. Jede wird eins zu eins angeboten. Wenn du dich zu einer davon hingezogen fühlst, melde dich, und wir finden den richtigen Ausgangspunkt für dich.",
+    "kshmGroupTitle": "King-Salomon-Heilmethoden-Sitzungen",
+    "kshmGroupBlurb": "Kernheilungen der Methode. Die Beherrschung all ihrer Zweige erfordert viele Jahre engagierter Ausbildung.",
+    "kshmSessions": [
+      { "name": "Sternenkind-Heilung", "description": "Verbindet dich neu mit deinem kosmischen Ursprung und deiner Sternenlinie." },
+      { "name": "Vereinte Chakra-Heilung", "description": "Verwebt die sieben Zentren zu einem kohärenten, vereinten Feld." },
+      { "name": "KSHM — Aura-Region", "tag": "Spezial", "description": "Fokussierte King-Salomon-Arbeit im Aurafeld, die den Bereich, der dich umgibt und schützt, reinigt und wiederaufbaut." }
+    ],
+    "specialtyGroupTitle": "Spezialsitzungen",
+    "specialtyGroupBlurb": "Tiefere, spezialisierte Arbeit der Tradition — jede eins zu eins angeboten.",
+    "specialtySessions": [
+      { "name": "Feuerseelen-Infusion", "description": "Entfacht das innere Feuer der Seele neu und stellt Leidenschaft, Antrieb und Lebenskraft wieder her, wo du dich erschöpft fühlst." },
+      { "name": "Kernwillen-Infusion", "description": "Stärkt deinen Kernwillen — den inneren Sitz persönlicher Kraft, Entschlossenheit und Richtung." },
+      { "name": "Erzengel Michael Interstellarer Lichtstrahl", "description": "Ruft Erzengel Michael an, dich in eine Säule schützenden Lichts zu hüllen und dein Energiefeld zu reinigen und abzuschirmen." },
+      { "name": "Hermetischer Neuausgleich", "tag": "Spezial", "description": "Richtet Körper, Geist und Seele durch die hermetischen Gesetze neu aus und stellt ein tiefes inneres Gleichgewicht wieder her, wo das Leben dich aus der Balance gebracht hat." },
+      { "name": "Ätherische Rekonstruktion", "tag": "Spezial", "description": "Baut den ätherischen Körper in all seinen Schichten wieder auf und repariert ihn, heilt energetische Schäden, die über lange Zeiträume gehalten wurden." },
+      { "name": "Himmlische-Code-Ätherrekonstruktion", "tag": "Spezial", "description": "Stellt die ätherische Struktur durch himmlische geometrische Codes wieder her — eine tiefere Rekonstruktion des feinstofflichen Körpers." },
+      { "name": "Herbeirufung des Mitgefühls", "description": "Öffnet das Herz und ruft göttliches Mitgefühl herbei, um emotionale Wunden zu lindern und zu heilen." },
+      { "name": "Raum-Neuausrichtung", "description": "Richtet die Energie eines Hauses oder Raumes neu aus und harmonisiert sie, stellt heilige Ordnung und Fluss wieder her." },
+      { "name": "Babysegnung", "description": "Ein heiliger Segen, um ein Neugeborenes willkommen zu heißen — ruft Schutz, Licht und einen gesegneten Anfang herbei." },
+      { "name": "Chronos-Lesung", "description": "Eine Lesung, die mit den Energien der Zeit arbeitet, um Klarheit über deine Vergangenheit, Gegenwart und deinen Weg voraus zu bringen." }
+    ],
+    "seeAllLead": "Suchst du die grundlegenden Sitzungen und die volle Bandbreite an Heilungen?",
+    "seeAllLinkLabel": "Alle Heilmethoden ansehen →",
+    "ctaHeading": "Nicht sicher, welche Heilung du brauchst?",
+    "ctaBody": "Melde dich, und Radu wird zuhören und dich dann zu der Heilung führen, die dir gerade jetzt wirklich dient.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über die Spezialheilungen erfahren."
+  },
+  "AuraHealing": {
+    "heroEyebrow": "Eine Heilung der Mysterienschule",
+    "heroTitle": "{brand} Aura-Heilung",
+    "heroSubtitle": "Stelle dein energetisches Feld wieder her und schütze es",
+    "heroTagline": "Reinige, balanciere und versiegle die sieben Schichten der Aura",
+    "introLead": "Heilung, die durch die Geometrie des Lichts wirkt",
+    "introBody1": "Deine Aura ist das energetische Feld, das dich umgibt und schützt — und im Laufe der Zeit kann es durch Stress, Trauer und die Anforderungen des Alltags erschöpft, zerrissen oder getrübt werden. Die {brand} Aura-Heilung nutzt die geordneten Muster der Schöpfung, um dieses Feld zu reparieren und seine Stärke, Klarheit und natürlichen Schutz wiederherzustellen.",
+    "introBody2": "Diese sanfte Sitzung wirkt über die sieben Schichten der Aura hinweg, löst, was dir nicht mehr dient, balanciert die Energien von Körper und Geist und stellt ein reines, ganzes und strahlendes Feld um dich herum wieder her.",
+    "bookSession": "Sitzung buchen",
+    "benefitsHeading": "Die Vorteile",
+    "benefits": [
+      { "label": "Reparieren & versiegeln:", "text": "Heilt Risse und füllt Lücken in der Aura, damit deine Energie nicht mehr entweicht." },
+      { "label": "Die sieben Schichten ausgleichen:", "text": "Harmonisiert jede Ebene des Aurafeldes mit der Geometrie des Lichts." },
+      { "label": "Lösen & erleichtern:", "text": "Reinigt stagnierende und fremde Energien und hinterlässt dich ruhig und klar." },
+      { "label": "Schutz & Vitalität:", "text": "Stellt ein starkes, ganzes Feld wieder her, das dein tägliches Wohlbefinden unterstützt." }
+    ],
+    "bookingTitle": "Stelle dein Licht wieder her",
+    "duration": "Ca. 1 Stunde",
+    "bookingNote": "Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu finalisieren.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand} Aura-Heilung erfahren."
+  },
+  "SacredGeometryPage": {
+    "heroEyebrow": "Ein Workshop der Mysterienschule",
+    "heroSubtitle": "Die Sprache, in der die Schöpfung geschrieben ist",
+    "heroTagline": "Lerne, mit den Bausteinen des Universums zu arbeiten",
+    "introLead": "Die verborgene Architektur aller Dinge",
+    "introBody1": "Von der Spirale einer Muschel bis zur Umlaufbahn der Planeten wiederholen sich dieselben Muster auf jeder Ebene der Existenz. Heilige Geometrie ist das Studium dieser Muster — der Formen, durch die Geist in Materie Gestalt annimmt. Für die Initiierten der Antike war sie nichts Geringeres als die Sprache des Göttlichen.",
+    "introBody2": "In diesem Workshop lernst du, diese Formen zu erkennen, bewusst mit ihnen zu arbeiten und die primären Schlüssel der heiligen Geometrie zu nutzen, um einen klaren, geschützten und heiligen Raum zu schaffen — in deinem Zuhause, in deiner Praxis und in dir selbst.",
+    "reserveYourPlace": "Sichere dir deinen Platz",
+    "learnHeading": "Was du lernen wirst",
+    "benefits": [
+      { "label": "Die primären Formen:", "text": "Die grundlegenden Formen der Schöpfung und die Qualitäten, die jede von ihnen trägt." },
+      { "label": "Heiligen Raum schaffen:", "text": "Nutze die Schlüssel der heiligen Geometrie, um einen Raum zu reinigen, zu schützen und zu weihen." },
+      { "label": "Geometrie als Werkzeug:", "text": "Wende diese Formen für Fokus, Meditation, Manifestation und Heilung an." },
+      { "label": "Das Muster leben:", "text": "Erkenne die Ordnung unter dem Alltag und richte dich danach aus." }
+    ],
+    "bookingTitle": "Lies die Sprache der Schöpfung",
+    "duration": "Workshop",
+    "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über den {brand}-Workshop erfahren."
+  },
+  "AstralTravelPage": {
+    "heroEyebrow": "Ein Workshop der Mysterienschule",
+    "heroTitle": "Astralreisen",
+    "heroSubtitle": "Die Kunst und Wissenschaft des Reisens jenseits des physischen Körpers",
+    "heroTagline": "Erkunde die höheren Ebenen — sicher, bewusst und nach Belieben",
+    "introLead": "Die Kunst und Wissenschaft, die die Mysterienschulen seit Jahrtausenden bewahren",
+    "introBody1": "Wir sind weit mehr als unser physischer Körper. Innerhalb der Lehren der Modern Mystery School ist das Astralreisen die bewusste, absichtliche Projektion des Bewusstseins jenseits des Physischen — eine Disziplin, die über Jahrtausende hinweg studiert und verfeinert wurde. Weit entfernt von einem Traum oder Zufall ist es eine Fähigkeit, die erlernt, geübt und vertraut werden kann.",
+    "introBody2": "In diesem Workshop erhältst du die Schlüssel, um den Körper sicher zu verlassen und mit Klarheit zurückzukehren — um die feinstofflichen Reiche zu erkunden, deine Führer zu treffen und eine Perspektive auf dein Leben zu gewinnen, die die physischen Sinne allein niemals erreichen können.",
+    "reserveYourPlace": "Sichere dir deinen Platz",
+    "learnHeading": "Was du lernen wirst",
+    "benefits": [
+      { "label": "Die Landkarte der Ebenen:", "text": "Verstehe die Struktur der feinstofflichen Welten und wohin das Bewusstsein reist." },
+      { "label": "Sichere Projektion:", "text": "Bewährte Techniken, um den Körper bewusst zu verlassen und wieder zu betreten, mit Schutz bei jedem Schritt." },
+      { "label": "Navigation & Führung:", "text": "Wie du dich mit Absicht bewegst, deine Führer triffst und die richtigen Fragen stellst." },
+      { "label": "Erdung & Integration:", "text": "Kehre klar zurück und bringe die Weisheit deiner Reisen in den Alltag." }
+    ],
+    "bookingTitle": "Trete über den Körper hinaus",
+    "duration": "Workshop",
+    "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten verfügbaren Termin in Prag.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über den Astralreisen-Workshop erfahren."
+  },
+  "SpiritualIntuitionPage": {
+    "heroEyebrow": "Ein Workshop der Mysterienschule",
+    "heroTitle": "Spirituelle Intuition",
+    "heroSubtitle": "Jenseits der fünf Sinne",
+    "heroTagline": "Erwecke die Wahrnehmung, die dir immer bestimmt war",
+    "introLead": "Deine Intuition ist keine Gabe für Wenige — sie ist ein Sinn für jeden",
+    "introBody1": "Uns wird beigebracht, nur dem zu vertrauen, was wir sehen, hören und berühren können. Doch jeder von uns trägt eine leisere Gruppe von Sinnen in sich — die Fähigkeit, Energie wahrzunehmen, zu wissen, ohne dass es einem gesagt wird, die Wahrheit einer Person oder Situation zu fühlen. Diese Fähigkeiten sind natürlich und werden, wie jeder andere Sinn, durch Übung stärker.",
+    "introBody2": "Durch einfache, praktische Übungen hilft dir dieser Workshop, deine eigene intuitive und außersinnliche Wahrnehmung zu erkennen und zu entwickeln — und, ebenso wichtig, den Unterschied zwischen Intuition und dem Rauschen des denkenden Geistes zu erkennen.",
+    "reserveYourPlace": "Sichere dir deinen Platz",
+    "learnHeading": "Was du lernen wirst",
+    "benefits": [
+      { "label": "Energie spüren:", "text": "Praktische Übungen, um die feine Energie um dich herum zu fühlen und zu lesen." },
+      { "label": "Dem Signal vertrauen:", "text": "Unterscheide echte Intuition von Angst, Projektion und mentalem Rauschen." },
+      { "label": "Wahrnehmung stärken:", "text": "Entwickle dein inneres Sehen, Hören und Wissen durch tägliche Praxis." },
+      { "label": "Im Leben anwenden:", "text": "Nutze deine Intuition für klarere Entscheidungen, Beziehungen und Richtung." }
+    ],
+    "bookingTitle": "Vertraue dem, was du bereits weißt",
+    "duration": "Workshop",
+    "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über den Workshop Spirituelle Intuition erfahren."
+  },
+  "SevenMysterySchoolsPage": {
+    "heroEyebrow": "Ein Workshop der Mysterienschule",
+    "heroTitle": "Die 7 Mysterienschulen",
+    "heroSubtitle": "Die sieben großen Ströme uralter Weisheit",
+    "heroTagline": "Trinke aus den Ursprungstraditionen, die die Menschheit geprägt haben",
+    "introLead": "Sieben Traditionen, ein Strom des Lichts",
+    "introBody1": "Im Laufe der Geschichte wurde die heilige Weisheit der Menschheit durch sieben große Mysterienschul-Traditionen bewahrt und weitergegeben — jede in einer anderen Kultur und an einem anderen Ort verwurzelt, doch jede trägt eine Facette desselben ewigen Lichts. Zusammen bilden sie die Linie, die die Modern Mystery School heute trägt.",
+    "introBody2": "In diesem Workshop reist du durch alle sieben — lernst ihre Geschichte, ihre Gaben und ihren Platz in der großen Kette der Weisheit kennen — und verbindest dich durch Meditation und Zeremonie direkt mit der lebendigen Energie jeder einzelnen.",
+    "reserveYourPlace": "Sichere dir deinen Platz",
+    "quote": {
+      "text": "Was du suchst,",
+      "emphasis": "sucht dich",
+      "attribution": "Rumi · 13. Jahrhundert",
+      "caption": "Der Uralte der Tage · W. Blake, 1794"
+    },
+    "gainHeading": "Was du gewinnen wirst",
+    "benefits": [
+      { "label": "Die vollständige Linie:", "text": "Verstehe die sieben Mysterienschul-Traditionen und wie sie durch die Zeit verbunden sind." },
+      { "label": "Direkte Verbindung:", "text": "Begegne der Energie jeder Tradition durch geführte Meditation und Zeremonie." },
+      { "label": "Dein Platz in der Kette:", "text": "Erkenne, wo dein eigener Pfad in diesen weiten, lebendigen Strom der Weisheit passt." },
+      { "label": "Ein tieferer Kontext:", "text": "Verankere deine Praxis in der Geschichte und den Wurzeln der Arbeit, die du tust." }
+    ],
+    "bookingTitle": "Durchschreite die sieben Tore",
+    "duration": "Workshop",
+    "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über den Workshop Die 7 Mysterienschulen erfahren."
+  },
+  "StressManagementPage": {
+    "heroEyebrow": "Für Einzelpersonen, Teams & Organisationen",
+    "heroTitle": "Stress-Rettung",
+    "heroSubtitle": "Praktische Werkzeuge, um Druck mit Ruhe zu begegnen",
+    "heroTagline": "Uraltes Wissen, einfach gemacht für das moderne Leben",
+    "introLead": "Stress ist nicht der Feind — der Verlust deiner Werkzeuge, damit umzugehen, ist es",
+    "introBody1": "Das moderne Leben bewegt sich schneller, als unser Nervensystem dafür gebaut wurde. Stress-Rettung ist ein praktisches, geerdetes Programm, das dir eine Reihe zuverlässiger Werkzeuge gibt — geschöpft aus den Lehren der Mysterienschule und in Alltagssprache übersetzt —, um deinen Geist zu beruhigen, deinen Körper zu besänftigen und auf Druck zu reagieren, statt darauf zu reagieren.",
+    "introBody2": "Es kann eins zu eins empfangen oder einem ganzen Team vermittelt werden. Für Führungskräfte und Organisationen ist es ein klarer, bodenständiger Weg, mehr Fokus, Resilienz und Wohlbefinden in den Arbeitsalltag zu bringen.",
+    "enquireNow": "Jetzt anfragen",
+    "takeawayHeading": "Was du mitnimmst",
+    "benefits": [
+      { "label": "Werkzeuge, die im Moment wirken:", "text": "Einfache Techniken, um Körper und Geist zu beruhigen, wenn der Druck steigt." },
+      { "label": "Eine stabilere Grundlage:", "text": "Tägliche Praktiken, die deinen Gesamtstress im Laufe der Zeit senken." },
+      { "label": "Klarheit & Fokus:", "text": "Denke klar und triff gute Entscheidungen, selbst an anspruchsvollen Tagen." },
+      { "label": "Für Teams:", "text": "Eine gemeinsame Sprache und gemeinsame Werkzeuge, die eine ganze Gruppe widerstandsfähiger machen." }
+    ],
+    "bookingTitle": "Bringe Ruhe zurück in den Tag",
+    "bookingNote": "Verfügbar für Einzelpersonen, Führungsteams und Organisationen. Melde dich, um eine Sitzung oder ein Programm für dein Team zu besprechen.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über Stress-Rettung / Stressmanagement erfahren."
+  },
+  "CommunityPage": {
+    "eyebrow": "Gemeinschaft",
+    "heroHeading": "Ein Kreis von <emphasis>Herzen</emphasis> und gemeinsamer Verwandlung",
+    "heroBody": "Der Pfad der Initiation Prag ist weit mehr als nur ein Ort, um Kurse zu besuchen. Es ist eine lebendige, atmende Gemeinschaft, die sich dem Erwachen, der Heilung und dem gemeinsamen Beschreiten des Pfades mit Aufrichtigkeit, Freude und Mut widmet.",
+    "beyondClassroomEyebrow": "Jenseits des Klassenzimmers",
+    "beyondClassroomHeading": "Raum für echtes Wachstum & Verbindung",
+    "beyondClassroomBody1": "Hier versammeln sich Suchende in einem Gefäß aus Vertrauen, Respekt und tiefer innerer Arbeit. Wir bieten einen beständigen Hafen, in dem du dich mit Gleichgesinnten verbinden kannst, denen es wirklich am Herzen liegt, <bold>ihr göttliches Wesen zu verkörpern</bold>, ihr persönliches Wachstum zu beschleunigen und gemeinsam die Herausforderungen des Lebens zu meistern.",
+    "beyondClassroomBody2": "Aber keine Sorge, es ist nicht alles ernst! Wir glauben, dass echte spirituelle Integration mit einem leichten Herzen einhergeht. Wir teilen unterwegs viel Lachen, Freude und echten Spaß.",
+    "tiesHeading": "Was uns verbindet",
+    "ties": [
+      "Unterstützende Treffen und urteilsfreie Gespräche",
+      "Persönliche Herausforderungen mit Unterstützung der Gemeinschaft überwinden",
+      "Gemeinsames Feiern von Freude, Magie und Spaß am Leben",
+      "Verkörperung unserer Göttlichkeit durch praktische, tägliche Handlungen",
+      "Die Aufregung, das Leben lebendig zu leben!"
+    ],
+    "carouselAlt": "Community-Treffen-Moment {index}",
+    "prevSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie",
+    "gatheringsEyebrow": "Unsere Treffen",
+    "gatheringsHeading1": "Regelmäßige Gemeinschaftsabende",
+    "gatheringsHeading2": "Offen für Studenten, Initiierte und alle anderen Interessierten.",
+    "freeOfCharge": "Kostenlos",
+    "twoHours": "2 Stunden",
+    "prayerEvening": {
+      "title": "Gebetsabend",
+      "inquiry": "Hallo Radu, ich möchte gerne mehr über das Gemeinschaftstreffen Gebetsabend erfahren.",
+      "description": "Sanfte Abende des Gebets, der tiefen Reflexion und der kollektiven Absicht, konzipiert, um das Herz zu öffnen und die innere Ausrichtung zu stärken. Eine friedliche Oase, um deine Schwingung neu auszurichten, dich vom Durcheinander des Lebens zurückzuziehen und deinen Fokus auf dein höchstes Wesen zu verankern, gemeinsam mit Gefährten, die dieselbe heilige Absicht tragen."
+    },
+    "meditationEvening": {
+      "title": "Meditationsabend",
+      "inquiry": "Hallo Radu, ich möchte gerne mehr über das Gemeinschaftstreffen Meditationsabend erfahren.",
+      "description": "Ruhige Räume für tiefe Stille, Atemarbeit, Visualisierung und die Vertiefung des Bewusstseins durch geführte traditionelle Pfade. Perfekt, um das Nervensystem zurückzusetzen, mentale Überaktivität zu zähmen und sich auf die kollektive Gruppenenergie zu stützen, um tiefere meditative Zustände zu erschließen, als es allein möglich wäre."
+    },
+    "socializationEvening": {
+      "title": "Geselligkeitsabend",
+      "inquiry": "Hallo Radu, ich möchte gerne mehr über das Gemeinschaftstreffen Geselligkeitsabend erfahren.",
+      "description": "Warme, hochschwingende und wunderbar entspannte Treffen, bei denen Freunde, Suchende und Studenten in fröhlicher Gemeinschaft zusammenkommen. Hier lassen wir die Haare herunter, lachen bei Tee, tauschen Geschichten über die Abenteuer des Lebens aus und knüpfen Freundschaften, die unsere menschliche Erfahrung genauso unterstützen wie unsere spirituellen Pfade."
+    },
+    "international": {
+      "title": "Internationale Mysterienschul-Gemeinschaft",
+      "inquiry": "Hallo Radu, ich möchte gerne mehr über die Möglichkeiten der Internationalen Mysterienschul-Gemeinschaft erfahren.",
+      "description": "Ein weitreichender globaler Kreis von Praktizierenden, Initiierten und Lehrern, die die uralten Linien, Werte und das spirituelle Erbe der Modern Mystery School teilen. Die Verbindung hier erschließt internationale Veranstaltungen, globale Vernetzung mit bewussten Gleichgesinnten und gemeinsame Unterstützungsstrukturen für systemische Verwandlung.",
+      "scheduleLead": "Den internationalen Kalender findest du hier:",
+      "scheduleLinkLabel": "Kalender - Modern Mystery School UK und Europa"
+    },
+    "ctaEyebrow": "Beginne mit einem Gespräch",
+    "ctaHeading": "Tritt dem Kreis bei",
+    "ctaBody": "Wenn du dich berufen fühlst, mehr über unsere bevorstehenden Treffen zu erfahren, genaue Details zu bekommen oder zu erkunden, wie diese Gemeinschaft deine persönliche Reise unterstützen kann, wende dich direkt an Radu.",
+    "ctaButton": "Kontaktiere die Gemeinschaft"
+  },
+  "TestimonialsPage": {
+    "heading": "Die Reise der Verwandlung",
+    "maria": {
+      "name": "Maria - Mutter, CEO und Heilerin",
+      "role": "Life-Activation-Praktikerin, Prag, Tschechische Republik",
+      "qa": [
+        {
+          "q": "Was hat dich zur Healers Academy geführt?",
+          "a1": "Ich befand mich in einem Moment, in dem sich mein Leben stark veränderte. Ich hatte über 20 Jahre ein erfolgreiches Unternehmen aufgebaut und eine wunderbare Familie großgezogen. Aber die Kinder begannen auszuziehen, und ich spürte einen tiefen Ruf zur mystischen Insel Samothraki, da ich ahnte, dass meine Rolle als CEO zu Ende ging.",
+          "a2": "Auf Samothraki hatte ich einen klaren inneren Ruf, dass ich schon immer Teil der Mysterienschulen war. Dann fand ich einen Instagram-Post von Diana mit den Worten „Mysterienschule in Prag“. Ich wusste, dass ich das erkunden musste, und der Rest ist Geschichte."
+        },
+        {
+          "q": "Wie fühlt es sich jetzt an?",
+          "a1": "Sehr heilsam. Ich fühle mich sehr leicht und friedvoll. Die Energie hier ist wunderschön, und die Menschen sind über die Maßen liebenswert. Ich bin viel sensibler für die Energien und das geworden, was mich umgibt.",
+          "italic": "true"
+        },
+        {
+          "q": "Was hat dich am meisten überrascht?",
+          "a1": "Die Initiationszeremonie übertraf meine Vorstellungskraft. Mir wurde klar, wie sehr mir fehlte, Teil einer Gemeinschaft zu sein. Ich fühlte mich wirklich willkommen, und es fühlt sich wirklich so an, als hätte ich eine Gemeinschaft gefunden, der ich unglaublich gerne angehöre."
+        },
+        {
+          "q": "Deine liebsten Momente?",
+          "a1": "Während der Aura-Heilung spürte ich das Licht — ich tanzte im Licht. Es war wunderschön und erstaunlich. Und als ich eine Sitzung geben konnte, wusste ich einfach, dass ich dafür geboren bin. Jemand sagte mir, ich sei voller Anmut und Schönheit, was mir die Kraft gab, es noch mehr zu tun."
+        },
+        {
+          "q": "Wie wird sich dein Leben jetzt verändern?",
+          "a1": "Es ist ein Mysterium. Ich weiß es nicht. Aber das ist doch die Schönheit daran, oder? Ich hatte das Gefühl, dass der Schritt ins Unbekannte für mich immer sehr beängstigend war. Aber jetzt, da ich fühle, dass ich auf dem Pfad des Lichts bin, wird sich der Pfad von selbst offenbaren. Es wird sein, als würde ich ins Licht treten, und eine Brücke aus goldenem Licht wird sich entfalten.",
+          "italic": "true"
+        }
+      ]
+    },
+    "ana": {
+      "name": "Ana - Die Reise der Wiederverbindung",
+      "role": "Spirituelle Schülerin & Praktikerin",
+      "qa": [
+        {
+          "q": "Worin siehst du die Vorteile, in der heutigen modernen Welt einen spirituellen Guide zu haben?",
+          "a1": "Das Erste, was ich verstanden habe, ist, dass Radu mir nicht gesagt hat, was ich tun und lassen soll. Er hilft mir wirklich, meine eigene Wahrheit, meine eigene Klarheit zu hören. Was ich erhielt, war Klarheit, emotionale Sicherheit und die Erlaubnis, mir selbst wieder zu vertrauen.",
+          "a2": "Ich glaube, dass der wahre Nutzen eines spirituellen Guides nicht in Anleitung liegt, sondern darin, sich daran zu erinnern, wer man in seinem Alltag bereits ist."
+        },
+        {
+          "q": "Was würdest du Menschen sagen, die einen spirituellen Guide suchen?",
+          "a1": "Du musst einfach zu dir selbst zurückfinden. Du musst tiefer gehen; du musst wirklich verstehen, wer du bist. Diese Reise war für mich erstaunlich. Sie war hart, aber ich fand mich selbst; ich fand die Liebe, die ich brauchte.",
+          "a2": "Jeder muss einfach wirklich losgehen und anfangen, sich selbst kennenzulernen — das ist das Wichtigste."
+        },
+        {
+          "q": "Rat für diejenigen, die gerade erst beginnen?",
+          "a1": "Heilung muss nicht schnell gehen. Du musst nicht hetzen, dich reparieren oder jemand anderes werden, um wertvoll zu sein. Diejenigen, die gerade erst beginnen, müssen nicht „repariert“ werden — sie brauchen Sanftheit.",
+          "a2": "Ich musste auch hören, dass meine Sensibilität keine Schwäche ist, sondern tatsächlich meine größte Stärke. Ich war nicht kaputt; ich war nur von mir selbst getrennt. Jetzt, wo ich verbunden bin, begann ich, die Kraft, die Stärke und die Liebe zu sehen."
+        },
+        {
+          "q": "Wie haben dir die Werkzeuge und Praktiken geholfen?",
+          "a1": "Die Arbeit mit dem Körper, mit Mondzyklen, mit Ritualen, mit Meditation — das ist so wichtig. Es ist nicht einfach, es ist wirklich hart, aber wenn du es verinnerlichst und mit dir selbst arbeitest, verstehst du es.",
+          "a2": "Ich bin so dankbar, dass ich mich sicher fühlen durfte, so zu sein, wie ich bin, wer ich bin. Es gab mir das Gefühl, mir selbst wieder vertrauen und mich daran erinnern zu können, wer ich bin."
+        }
+      ]
+    },
+    "moreJourneys": "Weitere Erfahrungsberichte von Studierenden"
+  },
+  "CertificationsPage": {
+    "heading": "Zertifizierungen",
+    "subheading": "Radu ist hier, um dich dabei zu unterstützen, ein Leben zu erschaffen, für das es sich lohnt aufzuwachen",
+    "everyMorning": "Jeden Morgen",
+    "introLead": "Die Zertifizierungen für die Kurse, Initiationen und Heilsitzungen, die Radu anbietet, stammen von der <mms>Modern Mystery School International</mms>.",
+    "introBody": "Er hat zahlreiche Initiationen und Ausbildungen durchlaufen, um sich vorzubereiten und in der Lage zu sein, die Energie zu halten, damit die Verwandlung bei seinen Schülern geschehen kann.",
+    "certifiedAlt": "Zertifiziert von der Modern Mystery School",
+    "qualificationsHeading": "Radus Qualifikationen",
+    "qualifications": [
+      "Radu ist ein zertifizierter <bold>Guide</bold> und <bold>Lehrer</bold> in der Linie der Modern Mystery School.",
+      "Radu ist außerdem zertifizierter <bold>Life-Activation-Praktiker und Heiler</bold>, jährlich rezertifiziert.",
+      "Radu hat alle drei Stufen der <bold>Ensofischen Strahlenheilung</bold> abgeschlossen, mit einer Spezialisierung auf die Bearbeitung destruktiver mentaler Muster, schädlicher Gewohnheiten und Süchte."
+    ],
+    "galleryHeading": "Diplome & Zertifikate"
+  },
+  "LineagePage": {
+    "metaTitle": "Die Linie von König Salomon | Der Pfad der Initiation Prag",
+    "metaDescription": "Über 3.000 Jahre ununterbrochener schriftlicher Linie. Entdecke die Modern Mystery School, die Linie von König Salomon und die drei Linienträger des Dritten Ordens — Gudni Gudnason, Hideto Nakagome und Dave Lanyon.",
+    "heroEyebrow": "Die Modern Mystery School",
+    "heroHeading": "Die Linie von <emphasis>König Salomon</emphasis>",
+    "heroBody": "Über 3.000 Jahre geschriebene Geschichte. Eine ununterbrochene Kette von Lehrer zu Schüler, bekräftigt durch den heiligen Prozess der Initiation — die die Schlüssel zu wahrer spiritueller Kraft seit Anbeginn der Zeit bewahrt.",
+    "whatIsLineageEyebrow": "Was ist eine Linie?",
+    "whatIsLineageHeading": "Das Maß einer authentischen Mysterienschule",
+    "whatIsLineageBody1": "Die Linie ist ein Schlüssel- und wichtiger Faktor bei der Bestimmung der Legitimität, Integrität und Autorität, die eine authentische Mysterienschule besitzt. Per Definition bedeutet Linie eine direkte Abstammung von einem Vorfahren — eine Abstammungslinie, ein Stammbaum.",
+    "whatIsLineageBody2": "Die <mms>Modern Mystery School</mms> hat über die Zeit hinweg eine uralte Tradition der Wissensvermittlung von Lehrer zu Schüler bewahrt, bekräftigt durch den heiligen Prozess der Initiation. Diese direkte Weitergabe von Information hat die Tugend und Ehre der Mysterienschul-Tradition bewahrt, die seit Anbeginn der Zeit die Geheimnisse Gottes, des Universums und die Schlüssel zu wahrer spiritueller Kraft hütet.",
+    "whatIsLineageBody3": "Diese Weisheit und Kraft steht allen zur Verfügung, die sie wirklich suchen und bereit sind, ihre heilige Natur zu ehren, indem sie den Pfad der Initiation beschreiten.",
+    "quote": {
+      "text": "Wie oben,",
+      "emphasis": "so unten",
+      "attribution": "Hermes Trismegistos",
+      "caption": "Hermes Trismegistos · Boden des Doms von Siena, um 1488"
+    },
+    "ksLineageEyebrow": "Über 3.000 Jahre",
+    "ksLineageHeading": "Die Linie von König Salomon",
+    "ksLineageBody1": "Die Linie der <mms>Modern Mystery School</mms> reicht bis in die Zeit von König Salomon zurück und trägt somit über 3.000 Jahre geschriebener Geschichte und Linie. Während die Mysterienschul-Tradition weitaus älter ist, kann die Linie der MMS und ihre Lehren verifiziert und direkt auf die Lehren von König Salomon selbst zurückgeführt werden.",
+    "ksLineageBody2": "Die mündliche Tradition reicht mehr als 8.000 Jahre zurück, bis in die Zeit von Hermes — Hermes Trismegistos. Die Initiation, verbunden mit dieser ununterbrochenen Linie, befähigt den Adepten, sich dem Großen Werk zu widmen: eine bessere Welt zu erschaffen und im Einklang mit seinem wahren Potenzial und Lebenszweck zu leben.",
+    "ksLineageBody3": "Alle großen Meister sind auf dem Pfad der Initiation in der Mysterienschul-Tradition gewandelt — genau dem Pfad, der sie dazu führte, ihr Versprechen an Gott hier auf dieser Erde zu erfüllen.",
+    "thirdOrderEyebrow": "Der Dritte Orden",
+    "thirdOrderHeading": "Die drei Linienträger",
+    "thirdOrderBody": "Alle Linien haben Hauptschlüsselträger — Personen, die die Linie auf dem Planeten halten und verankern, mit der Autorität, die Tür der Mysterienschule für jene offen zu halten, die das Licht suchen. In dieser Linie werden sie als der Dritte Orden bezeichnet, und gemeinsam bewahren sie die Reinheit der Linie und ihrer Lehren.",
+    "thirdOrderClosing": "Heute tragen diese drei Linienträger die große Verantwortung, die Reinheit der Lehren zu bewahren — in Zusammenarbeit mit dem Rat der Zwölf Frauen und der weiteren Führung, indem sie die Linie von König Salomon in die moderne Zeit führen.",
+    "holders": [
+      {
+        "title": "Sovereign Ipsissimus & Hierophant",
+        "role": "Gründer der Modern Mystery School",
+        "bio": "In Island geboren und tief in den Mysterien aufgewachsen, reiste Gudni weit, um Lehren und Initiationen in einer Vielzahl von Traditionen zu empfangen. Seine Lehrtätigkeit erstreckt sich über vierzig Jahre — Kabbala, Alchemie, Metaphysik, Quantenphysik und weit darüber hinaus. Als meisterhafter metaphorischer Lehrer vermittelt er esoterische Prinzipien durch Analogie, Allegorie und Gleichnis. 1997 brachte er die Modern Mystery School öffentlich in die Welt."
+      },
+      {
+        "title": "Sovereign Ipsissimus",
+        "role": "Mitglied des Dritten Ordens",
+        "bio": "Ein Linienträger und Verwalter des Dritten Ordens, der die Linie und ihre Lehren im Osten verankert. Gemeinsam mit seinen Brüdern des Dritten Ordens schützt er die Reinheit der Tradition und hält die Tür der Mysterienschule für jene offen, die das Licht suchen."
+      },
+      {
+        "title": "Sovereign Ipsissimus",
+        "role": "Mitglied des Dritten Ordens",
+        "bio": "Ein Linienträger und Verwalter des Dritten Ordens. Gemeinsam mit seinen Mitschlüsselträgern verwaltet er die Linie und kümmert sich um ihre Pflege und stellt sicher, dass die Lehren mit Integrität von Lehrer zu Schüler durch den heiligen Prozess der Initiation weitergegeben werden."
+      }
+    ],
+    "councilEyebrow": "Diejenigen, die führen",
+    "councilHeading": "Der Rat der Ipsissimi, der Rat der 12 & Führung",
+    "councilBody": "Neben dem Dritten Orden wird die Linie von der Regierenden Ipsissima & dem Ipsissimus, dem Rat der Zwölf Frauen und der weiteren Führung der Modern Mystery School gehalten und geleitet — engagierte Lehrer, die die Tradition bewahren und der Schule weltweit dienen.",
+    "governingLink": "Regierende Ipsissima & Ipsissimus",
+    "leadershipLink": "Das Führungsteam",
+    "otherResourcesEyebrow": "Weitere Ressourcen zum Lesen",
+    "resourceLineage": "Linie",
+    "resourceCoreValues": "Grundwerte & Überzeugungen",
+    "resourceCulture": "Kultur des Lichts",
+    "ctaHeading": "Beschreite den Pfad",
+    "ctaBody": "Teil der Linie der Modern Mystery School zu sein bedeutet, Teil einer Familie zu sein — eines globalen Stammes, der sich der Stärkung und Verbesserung der Menschheit widmet. Die Tür steht jenen offen, die den Ruf spüren.",
+    "ctaButton": "Beginne deine Reise"
+  },
+  "BlogPage": {
+    "metaTitle": "Blog | Der Pfad der Initiation Prag",
+    "metaDescription": "Artikel über König Salomon, Magie, Alchemie, Spagyrik und die lebendige Linie der Modern Mystery School — geschrieben, um zu informieren, zu erheben und Hoffnung zu bringen.",
+    "ogDescription": "Artikel über König Salomon, Magie, Alchemie, Spagyrik und die lebendige Linie der Modern Mystery School.",
+    "previewBanner": "Vorschaumodus — zeigt alle Beiträge, einschließlich derer, die noch nicht geplant sind und die du nicht als bereit markiert hast. Besucher sehen nur Beiträge, die sowohl veröffentlicht als auch freigegeben sind.",
+    "eyebrow": "Weisheit für den Pfad",
+    "heading": "Der Blog",
+    "intro": "Reflexionen über die Linie, praktische Magie und die alchemistische Tradition — geschrieben, um zu informieren und Hoffnung zu bringen. Neue Artikel erscheinen regelmäßig; schau öfter vorbei.",
+    "empty": "Der erste Artikel wird vorbereitet. Bitte schau bald wieder vorbei.",
+    "scheduled": "Geplant",
+    "needsReview": "Überprüfung erforderlich"
+  },
+  "BlogPostPage": {
+    "allArticles": "Alle Artikel",
+    "continueReading": "Weiterlesen",
+    "ctaHeading": "Beschreite den Pfad selbst",
+    "ctaBody": "Jeder Artikel in diesem Blog ist ein Schritt in eine lebendige Tradition. Wenn er dich anspricht, führt dich Radu gerne persönlich zum richtigen nächsten Schritt, hier in Prag.",
+    "ctaButton": "Beginne deine Reise",
+    "bannerScheduledAndNotReady": "Vorschaumodus — dieser Beitrag ist für den {date} geplant und wurde noch nicht als veröffentlichungsbereit markiert. Beide Bedingungen müssen erfüllt sein, bevor echte Besucher ihn sehen können.",
+    "bannerScheduled": "Vorschaumodus — dieser Beitrag ist für den {date} geplant und ist für echte Besucher noch nicht sichtbar.",
+    "bannerNotReady": "Vorschaumodus — das Veröffentlichungsdatum dieses Beitrags ist erreicht, aber er wurde noch nicht als veröffentlichungsbereit markiert, sodass echte Besucher ihn nicht sehen werden."
+  },
+  "Chat": {
+    "assistantName": "Guide",
+    "headerSubtitle": "Frag nach Kursen, Heilungen & der Linie",
+    "greeting": "Willkommen. Ich bin dein freundlicher KI-Assistent und helfe dir, den Pfad der Initiation in Prag zu erkunden — die Aktivierungen, Heilungen, Kurse und die Linie dahinter. Was möchtest du wissen?",
+    "askAQuestion": "Stelle eine Frage",
+    "launcherAriaLabel": "Frage den Assistenten des Pfades der Initiation",
+    "dialogAriaLabel": "Assistent des Pfades der Initiation",
+    "closeChatAriaLabel": "Chat schließen",
+    "inputPlaceholder": "Gib deine Frage ein…",
+    "sendAriaLabel": "Senden",
+    "errorFallback": "**Es tut mir leid** — ich habe gerade keinen Zugriff auf mein Wissen. Radu hilft dir gerne persönlich auf WhatsApp weiter.",
+    "messageRaduWhatsapp": "Radu auf WhatsApp schreiben",
+    "talkToRaduWhatsapp": "Mit Radu auf WhatsApp sprechen"
+  },
+  "CalendarPage": {
+    "eyebrow": "Der Weg vor dir",
+    "heading": "Kalender der Kurse",
+    "gatheringsCount": "{count} Treffen · Nächste 6 Monate",
+    "intro": "Jede Aktivierung, Initiation, jeder Workshop und jedes Gemeinschaftstreffen, das in Prag und an anderen internationalen Orten in der kommenden Saison stattfindet. Beschreite den Pfad Schritt für Schritt.",
+    "empty": "Neue Termine werden gerade geplant. Bitte schau bald wieder vorbei.",
+    "classCount": "{count, plural, one {# Kurs} other {# Kurse}}",
+    "categories": {
+      "Activation": "Aktivierung",
+      "Initiation": "Initiation",
+      "Workshop": "Workshop",
+      "Community": "Gemeinschaft"
+    },
+    "notSure": "Nicht sicher, wo du beginnen sollst? Melde dich, und Radu wird dich persönlich anleiten.",
+    "askButton": "Frage zu einem Kurs stellen"
+  },
+  "HomeQuotes": {
+    "quote1": {
+      "text": "Erkenne dich selbst, und du wirst",
+      "emphasis": "das Universum und die Götter erkennen",
+      "attribution": "Eingraviert im Apollontempel · Delphi",
+      "caption": "Aufstieg der Seligen · H. Bosch, um 1505"
+    },
+    "quote2": {
+      "text": "Was du suchst,",
+      "emphasis": "sucht dich",
+      "attribution": "Rumi · 13. Jahrhundert",
+      "caption": "Die Königin von Saba vor dem Tempel Salomons · S. de Bray, 1657"
+    }
+  }
+}

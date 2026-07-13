@@ -1,4 +1,5 @@
 import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
@@ -7,43 +8,42 @@ import { KenBurns } from "@/components/ken-burns"
 import { QuoteBreaker } from "@/components/quote-breaker"
 import { ArrowRight, MessageCircle } from "lucide-react"
 
-export const metadata: Metadata = {
-  title: "The Lineage of King Salomon | The Path of Initiation Prague",
-  description:
-    "Over 3,000 years of unbroken written lineage. Discover the Modern Mystery School, the King Salomon Lineage, and the three Lineage Holders of the Third Order — Gudni Gudnason, Hideto Nakagome, and Dave Lanyon.",
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "LineagePage" })
+  return {
+    title: t("metaTitle"),
+    description: t("metaDescription"),
+  }
 }
 
 const WHATSAPP =
   "https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Lineage%20and%20the%20Path%20of%20Initiation."
 
-const holders = [
-  {
-    name: "Gudni GED Gudnason",
-    title: "Sovereign Ipsissimus & Hierophant",
-    role: "Founder of the Modern Mystery School",
-    image: "gudni-gudnason.jpg",
-    href: "https://modernmysteryschoolint.com/founder-gudni/",
-    bio: "Born in Iceland and raised steeped in the mysteries, Gudni travelled widely to receive teachings and initiations across a myriad of traditions. His teaching career spans over forty years — Kabbalah, Alchemy, Metaphysics, Quantum Physics and far beyond. A master metaphorical teacher, he imparts esoteric principle through analogy, allegory and parable. In 1997 he brought the Modern Mystery School publicly to the world.",
-  },
-  {
-    name: "Hideto REI Nakagome",
-    title: "Sovereign Ipsissimus",
-    role: "Member of the Third Order",
-    image: "hideto-nakagome.jpg",
-    href: "https://modernmysteryschoolint.com/sovereign-ipsissimus-hideto/",
-    bio: "A lineage holder and administrator of the Third Order, anchoring the lineage and its teachings in the East. Together with his brothers of the Third Order, he safeguards the purity of the tradition and keeps the door of the Mystery School open to those who seek the Light.",
-  },
-  {
-    name: "Dave THOR Lanyon",
-    title: "Sovereign Ipsissimus",
-    role: "Member of the Third Order",
-    image: "dave-lanyon.jpg",
-    href: "https://modernmysteryschoolint.com/sovereign-ipsissimus-dave-lanyon/",
-    bio: "A lineage holder and administrator of the Third Order. In union with his fellow key holders he administers and attends to the maintenance of the lineage, ensuring the teachings are passed on with integrity from teacher to student through the holy process of initiation.",
-  },
+const HOLDER_IMAGES = ["gudni-gudnason.jpg", "hideto-nakagome.jpg", "dave-lanyon.jpg"]
+const HOLDER_HREFS = [
+  "https://modernmysteryschoolint.com/founder-gudni/",
+  "https://modernmysteryschoolint.com/sovereign-ipsissimus-hideto/",
+  "https://modernmysteryschoolint.com/sovereign-ipsissimus-dave-lanyon/",
 ]
+const HOLDER_NAMES = ["Gudni GED Gudnason", "Hideto REI Nakagome", "Dave THOR Lanyon"]
 
-export default function LineagePage() {
+export default async function LineagePage() {
+  const t = await getTranslations("LineagePage")
+
+  const holders = [0, 1, 2].map((i) => ({
+    name: HOLDER_NAMES[i],
+    title: t(`holders.${i}.title`),
+    role: t(`holders.${i}.role`),
+    image: HOLDER_IMAGES[i],
+    href: HOLDER_HREFS[i],
+    bio: t(`holders.${i}.bio`),
+  }))
+
   return (
     <>
       <Header />
@@ -62,15 +62,13 @@ export default function LineagePage() {
             <ScrollReveal>
               <div className="mx-auto mb-6 h-px w-24 bg-primary/60" />
               <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
-                The Modern Mystery School
+                {t("heroEyebrow")}
               </p>
               <h1 className="mb-8 font-serif text-4xl leading-tight tracking-wide text-foreground md:text-6xl lg:text-7xl text-balance">
-                The Lineage of <span className="text-primary">King Salomon</span>
+                {t.rich("heroHeading", { emphasis: (chunks) => <span className="text-primary">{chunks}</span> })}
               </h1>
               <p className="mx-auto max-w-2xl text-lg leading-relaxed text-muted-foreground">
-                Over 3,000 years of written history. An unbroken chain of teacher to student,
-                affirmed by the holy process of initiation — preserving the keys to true
-                spiritual power since the beginning of time.
+                {t("heroBody")}
               </p>
             </ScrollReveal>
           </div>
@@ -82,35 +80,29 @@ export default function LineagePage() {
           <div className="relative z-10 mx-auto max-w-3xl px-6">
             <ScrollReveal>
               <p className="mb-3 text-center font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                What is Lineage?
+                {t("whatIsLineageEyebrow")}
               </p>
               <h2 className="mb-10 text-center font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                The measure of an authentic Mystery School
+                {t("whatIsLineageHeading")}
               </h2>
               <div className="flex flex-col gap-6 text-lg leading-relaxed text-muted-foreground">
+                <p>{t("whatIsLineageBody1")}</p>
                 <p>
-                  Lineage is a key and important factor in determining the legitimacy, integrity
-                  and authority that an authentic Mystery School holds. By definition, lineage
-                  means a lineal descent from an ancestor — an ancestry, a pedigree.
-                </p>
-                <p>
-                  <a
-                    href="https://modernmysteryschoolint.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="font-semibold text-primary underline hover:text-primary/80"
-                  >
-                    The Modern Mystery School
-                  </a>{" "}
-                  has persisted through time an ancient tradition of sharing knowledge from
-                  teacher to student, affirmed by the holy process of initiation. This direct
-                  transfer of information has preserved the virtue and honour of the mystery
-                  school tradition, which has held the secrets of God, the universe, and the
-                  keys to true spiritual power since the beginning of time.
+                  {t.rich("whatIsLineageBody2", {
+                    mms: (chunks) => (
+                      <a
+                        href="https://modernmysteryschoolint.com/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="font-semibold text-primary underline hover:text-primary/80"
+                      >
+                        {chunks}
+                      </a>
+                    ),
+                  })}
                 </p>
                 <p className="font-serif text-xl italic text-foreground">
-                  This wisdom and power is available to all who truly seek it and are willing to
-                  honour its sacred nature by walking the Path of Initiation.
+                  {t("whatIsLineageBody3")}
                 </p>
               </div>
             </ScrollReveal>
@@ -122,11 +114,11 @@ export default function LineagePage() {
           image="hermes-trismegistus-sienna-cathedral-mosaic.jpg"
           quote={
             <>
-              &ldquo;As above, <em className="text-primary">so below</em>.&rdquo;
+              &ldquo;{t("quote.text")} <em className="text-primary">{t("quote.emphasis")}</em>.&rdquo;
             </>
           }
-          attribution="Hermes Trismegistus"
-          caption="Hermes Trismegistus · Floor of Siena Cathedral, c. 1488"
+          attribution={t("quote.attribution")}
+          caption={t("quote.caption")}
           position="center 10%"
         />
 
@@ -135,36 +127,28 @@ export default function LineagePage() {
           <div className="mx-auto max-w-3xl px-6">
             <ScrollReveal>
               <p className="mb-3 text-center font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                Over 3,000 Years
+                {t("ksLineageEyebrow")}
               </p>
               <h2 className="mb-10 text-center font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                The King Salomon Lineage
+                {t("ksLineageHeading")}
               </h2>
               <div className="flex flex-col gap-6 text-lg leading-relaxed text-muted-foreground">
                 <p>
-                  The lineage of the <a
-                    href="https://modernmysteryschoolint.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="font-semibold text-primary underline hover:text-primary/80"
-                  >
-                    Modern Mystery School
-                  </a>{" "} dates back to the time of King Salomon
-                  and therefore carries over 3,000 years of written history and lineage. While the
-                  mystery school tradition is far older, the lineage of the MMS and its teachings
-                  can be verified and traced directly to the teachings of King Salomon himself.
+                  {t.rich("ksLineageBody1", {
+                    mms: (chunks) => (
+                      <a
+                        href="https://modernmysteryschoolint.com/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="font-semibold text-primary underline hover:text-primary/80"
+                      >
+                        {chunks}
+                      </a>
+                    ),
+                  })}
                 </p>
-                <p>
-                  The oral tradition reaches back more than 8,000 years to the time of Hermes —
-                  Hermes Trismegistus. Initiation, combined with this unbroken lineage, empowers
-                  the Adept to engage in the Great Work: creating a better world and living in
-                  accordance with their true potential and life purpose.
-                </p>
-                <p>
-                  The great masters have all walked upon the Path of Initiation in the mystery
-                  school tradition — the very path that led them to fulfill their promise to God
-                  while here on this earth.
-                </p>
+                <p>{t("ksLineageBody2")}</p>
+                <p>{t("ksLineageBody3")}</p>
               </div>
             </ScrollReveal>
           </div>
@@ -178,16 +162,13 @@ export default function LineagePage() {
             <ScrollReveal>
               <div className="mb-16 text-center">
                 <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                  The Third Order
+                  {t("thirdOrderEyebrow")}
                 </p>
                 <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                  The Three Lineage Holders
+                  {t("thirdOrderHeading")}
                 </h2>
                 <p className="mx-auto max-w-2xl text-lg leading-relaxed text-muted-foreground">
-                  All lineages have main key holders — individuals who hold and anchor the lineage
-                  on the planet, with the authority to keep the door of the Mystery School open to
-                  those who seek the Light. In this lineage they are titled the Third Order, and in
-                  union they maintain the purity of the lineage and its teachings.
+                  {t("thirdOrderBody")}
                 </p>
               </div>
             </ScrollReveal>
@@ -228,10 +209,7 @@ export default function LineagePage() {
 
             <ScrollReveal>
               <p className="mx-auto mt-16 max-w-3xl text-center text-lg leading-relaxed text-muted-foreground">
-                Today, these three lineage holders carry the great responsibility of maintaining
-                the purity of the teachings — working in collaboration with the Council of Twelve
-                women and the wider leadership, stewarding the lineage of King Salomon into the
-                modern age.
+                {t("thirdOrderClosing")}
               </p>
             </ScrollReveal>
           </div>
@@ -242,15 +220,13 @@ export default function LineagePage() {
           <div className="mx-auto max-w-3xl px-6">
             <ScrollReveal>
               <p className="mb-3 text-center font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                Those Who Guide
+                {t("councilEyebrow")}
               </p>
               <h2 className="mb-8 text-center font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                The Council of Ipsissimi, The Council of 12  &amp; Leadership
+                {t("councilHeading")}
               </h2>
               <p className="mx-auto mb-12 max-w-2xl text-center text-lg leading-relaxed text-muted-foreground">
-                Alongside the Third Order, the lineage is held and guided by the Governing Ipsissima &amp;
-                Ipsissimus, the Council of Twelve Women and the wider leadership of the Modern Mystery School — devoted teachers who
-                steward the tradition and serve the school across the world.
+                {t("councilBody")}
               </p>
               <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
                 <a
@@ -259,7 +235,7 @@ export default function LineagePage() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
                 >
-                  Governing Ipsissima &amp; Ipsissimus
+                  {t("governingLink")}
                   <ArrowRight className="h-4 w-4" />
                 </a>
                 <a
@@ -268,7 +244,7 @@ export default function LineagePage() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
                 >
-                  The Leadership Team
+                  {t("leadershipLink")}
                   <ArrowRight className="h-4 w-4" />
                 </a>
               </div>
@@ -280,7 +256,7 @@ export default function LineagePage() {
           <div className="mx-auto max-w-3xl px-6">
             <ScrollReveal>
               <p className="mb-3 text-center font-serif text-sm uppercase tracking-[0.3em] text-foreground">
-                Other resources you can read
+                {t("otherResourcesEyebrow")}
               </p>
               <div className="flex flex-col gap-4 text-lg leading-relaxed text-muted-foreground">
                 <a
@@ -289,7 +265,7 @@ export default function LineagePage() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
                 >
-                  Lineage
+                  {t("resourceLineage")}
                 </a>
                 <a
                   href="https://modernmysteryschoolint.com/core-values/"
@@ -297,7 +273,7 @@ export default function LineagePage() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
                 >
-                  Core Values &amp; Beliefs
+                  {t("resourceCoreValues")}
                 </a>
                 <a
                   href="https://modernmysteryschoolint.com/illuminating-our-culture-of-light/"
@@ -305,7 +281,7 @@ export default function LineagePage() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-3 rounded border border-primary px-8 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
                 >
-                  Culture of Light
+                  {t("resourceCulture")}
                 </a>
               </div>
             </ScrollReveal>
@@ -332,12 +308,10 @@ export default function LineagePage() {
             <ScrollReveal>
               <div className="mx-auto mb-6 h-px w-16 bg-primary/60" />
               <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                Walk the Path
+                {t("ctaHeading")}
               </h2>
               <p className="mx-auto mb-10 max-w-xl text-lg leading-relaxed text-muted-foreground">
-                Being part of the Modern Mystery School lineage is being part of a family — a global
-                tribe dedicated to the empowerment and betterment of humanity. The door is open to
-                those who feel the call.
+                {t("ctaBody")}
               </p>
               <a
                 href={WHATSAPP}
@@ -346,7 +320,7 @@ export default function LineagePage() {
                 className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
               >
                 <MessageCircle className="h-4 w-4" />
-                Begin Your Journey
+                {t("ctaButton")}
                 <ArrowRight className="h-4 w-4" />
               </a>
             </ScrollReveal>

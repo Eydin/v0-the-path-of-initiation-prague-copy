@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl"
 import { Header } from "@/components/header"
 import { HeroSection } from "@/components/hero-section"
 import { FactsSection } from "@/components/facts-section"
@@ -13,6 +14,7 @@ import { QuoteBreaker } from "@/components/quote-breaker"
 import { NewsletterSection } from "@/components/newsletter-section"
 
 export default function Home() {
+  const t = useTranslations("HomeQuotes")
   return (
     <div className="overflow-x-hidden">
       <Header />
@@ -25,11 +27,11 @@ export default function Home() {
           image="ascent-blessed-bosch.jpg"
           quote={
             <>
-              &ldquo;Know thyself, and thou shalt know <em className="text-primary">the universe and the gods</em>.&rdquo;
+              &ldquo;{t("quote1.text")} <em className="text-primary">{t("quote1.emphasis")}</em>.&rdquo;
             </>
           }
-          attribution="Inscribed at the Temple of Apollo · Delphi"
-          caption="Ascent of the Blessed · H. Bosch, c. 1505"
+          attribution={t("quote1.attribution")}
+          caption={t("quote1.caption")}
           position="center 42%"
         />
 
@@ -44,11 +46,11 @@ export default function Home() {
           image="sheba-Salomon-temple.jpg"
           quote={
             <>
-              &ldquo;What you seek <em className="text-primary">is seeking you</em>.&rdquo;
+              &ldquo;{t("quote2.text")} <em className="text-primary">{t("quote2.emphasis")}</em>.&rdquo;
             </>
           }
-          attribution="Rumi · 13th Century"
-          caption="The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657"
+          attribution={t("quote2.attribution")}
+          caption={t("quote2.caption")}
           position="center 22%"
         />
 

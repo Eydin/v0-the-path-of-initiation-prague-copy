@@ -1,11 +1,14 @@
 "use client"
 
+import { useTranslations } from "next-intl"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import Image from "next/image"
 
 export default function Certifications() {
+  const t = useTranslations("CertificationsPage")
+
   return (
     <>
       <Header />
@@ -18,14 +21,14 @@ export default function Certifications() {
                 <div className="max-w-4xl mx-auto">
                   <div className="bg-muted/30 backdrop-blur-sm border border-primary/20 rounded-lg p-12 md:p-16 text-center space-y-8">
                     <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl tracking-wide text-primary">
-                      Certifications
+                      {t("heading")}
                     </h1>
                     <div className="h-px w-16 bg-primary mx-auto" />
                     <h2 className="font-serif text-2xl tracking-wide text-foreground">
-                      Radu is here to support you in creating a life worth waking up for
+                      {t("subheading")}
                     </h2>
                     <p className="text-lg font-serif italic text-foreground leading-relaxed">
-                      Every morning
+                      {t("everyMorning")}
                     </p>
                   </div>
                 </div>
@@ -40,20 +43,22 @@ export default function Certifications() {
                 <div className="max-w-4xl mx-auto">
                   <div className="bg-muted/60 backdrop-blur-sm border border-primary/20 rounded-lg p-8 md:p-12 space-y-6">
                     <p className="text-lg italic text-primary font-serif text-center">
-                      The certifications for the classes, initiations and healing sessions that Radu offers come from{' '}
-                      <a
-                        href="https://modernmysteryschoolint.com/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="font-semibold text-primary underline hover:text-primary/80"
-                      >
-                        Modern Mystery School International
-                      </a>
-                      .
+                      {t.rich("introLead", {
+                        mms: (chunks) => (
+                          <a
+                            href="https://modernmysteryschoolint.com/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="font-semibold text-primary underline hover:text-primary/80"
+                          >
+                            {chunks}
+                          </a>
+                        ),
+                      })}
                     </p>
                     <div className="border-t border-primary/20 pt-6">
                       <p className="text-lg leading-relaxed text-foreground text-center">
-                        He has undergone numerous initiations and trainings to prepare himself and to be able to hold the energy for the trasformation to happen for his students.
+                        {t("introBody")}
                       </p>
                     </div>
                     <div className="mt-8 flex justify-center">
@@ -65,7 +70,7 @@ export default function Certifications() {
                       >
                         <Image
                           src="/images/certified-by-mms-new.png"
-                          alt="Certified by the Modern Mystery School"
+                          alt={t("certifiedAlt")}
                           width={260}
                           height={104}
                           style={{ width: "100%", height: "auto" }}
@@ -84,15 +89,15 @@ export default function Certifications() {
               <ScrollReveal>
                 <div className="max-w-4xl mx-auto">
                   <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-primary mb-12 text-center">
-                    Radu's Qualifications
+                    {t("qualificationsHeading")}
                   </h2>
-                  
+
                   <div className="bg-muted/60 backdrop-blur-sm border border-primary/20 rounded-lg p-8 md:p-12 space-y-6">
                     <div className="flex gap-4">
                       <span className="text-primary font-semibold flex-shrink-0">•</span>
                       <div>
                         <p className="text-lg leading-relaxed text-foreground">
-                          Radu is a certified <span className="text-primary font-semibold">Guide</span> and <span className="text-primary font-semibold">Teacher</span> in the lineage of the Modern Mystery School.
+                          {t.rich("qualifications.0", { bold: (chunks) => <span className="text-primary font-semibold">{chunks}</span> })}
                         </p>
                       </div>
                     </div>
@@ -101,7 +106,7 @@ export default function Certifications() {
                       <span className="text-primary font-semibold flex-shrink-0">•</span>
                       <div>
                         <p className="text-lg leading-relaxed text-foreground">
-                          Radu is also certified as a <span className="text-primary font-semibold">Life Activation Practitioner and Healer</span>, recertified annually.
+                          {t.rich("qualifications.1", { bold: (chunks) => <span className="text-primary font-semibold">{chunks}</span> })}
                         </p>
                       </div>
                     </div>
@@ -110,7 +115,7 @@ export default function Certifications() {
                       <span className="text-primary font-semibold flex-shrink-0">•</span>
                       <div>
                         <p className="text-lg leading-relaxed text-foreground">
-                          Radu has completed all three levels of <span className="text-primary font-semibold">Ensofic Ray Healing</span>, with a specialization in addressing destructive mental patterns, harmful habits, and addictions.
+                          {t.rich("qualifications.2", { bold: (chunks) => <span className="text-primary font-semibold">{chunks}</span> })}
                         </p>
                       </div>
                     </div>
@@ -126,35 +131,15 @@ export default function Certifications() {
               <ScrollReveal>
                 <div className="max-w-5xl mx-auto">
                   <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-primary mb-12 text-center">
-                    Diplomas & Certificates
+                    {t("galleryHeading")}
                   </h2>
-                  
+
                   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
                     <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
                       <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
-                        <img 
-                          src="images/radu-guide.jpg" 
-                          alt="Guide Certification - Radu" 
-                          className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
-                        />
-                      </div>
-                    </a>
-                    
-                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
-                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
-                        <img 
-                          src="images/radu-teacher.webp" 
-                          alt="Teacher Certification - Radu" 
-                          className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
-                        />
-                      </div>
-                    </a>
-                    
-                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
-                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
-                        <img 
-                          src="images/radu-healer-old.jpg" 
-                          alt="Life Activation Practitioner - Radu" 
+                        <img
+                          src="images/radu-guide.jpg"
+                          alt="Guide Certification - Radu"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
@@ -162,39 +147,59 @@ export default function Certifications() {
 
                     <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
                       <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
-                        <img 
-                          src="images/radu-healer.jpg" 
-                          alt="Life Activation Practitioner - Radu" 
+                        <img
+                          src="images/radu-teacher.webp"
+                          alt="Teacher Certification - Radu"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
                     </a>
-                    
+
                     <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
                       <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
-                        <img 
-                          src="images/radu-lap-old.webp" 
-                          alt="Healer Certification - Diana" 
+                        <img
+                          src="images/radu-healer-old.jpg"
+                          alt="Life Activation Practitioner - Radu"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
                     </a>
-                    
+
                     <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
                       <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
-                        <img 
-                          src="images/radu-lap.jpg" 
-                          alt="Ensofic Ray - Diana" 
+                        <img
+                          src="images/radu-healer.jpg"
+                          alt="Life Activation Practitioner - Radu"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
                     </a>
-                    
+
                     <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
                       <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
-                        <img 
-                          src="images/radu-ensofic.webp" 
-                          alt="Ensofic Ray - Radu" 
+                        <img
+                          src="images/radu-lap-old.webp"
+                          alt="Healer Certification - Diana"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
+                        />
+                      </div>
+                    </a>
+
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
+                        <img
+                          src="images/radu-lap.jpg"
+                          alt="Ensofic Ray - Diana"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
+                        />
+                      </div>
+                    </a>
+
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
+                        <img
+                          src="images/radu-ensofic.webp"
+                          alt="Ensofic Ray - Radu"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>

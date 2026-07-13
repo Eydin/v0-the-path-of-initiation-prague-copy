@@ -290,16 +290,21 @@ export function getAllUpcomingEvents(): ClassEvent[] {
   return events.sort((a, b) => a.date.localeCompare(b.date))
 }
 
-/** Upcoming events grouped into { month: "July 2026", events: [...] }. */
-export function getUpcomingEventsByMonth(): { month: string; events: ClassEvent[] }[] {
-  const groups: { month: string; events: ClassEvent[] }[] = []
+/**
+ * Upcoming events grouped by calendar month. `sampleDate` (the first event's
+ * date in the group) is provided so callers can render a locale-aware month
+ * label themselves (e.g. via next-intl's useFormatter) instead of relying on
+ * the English-hardcoded formatMonthLabel.
+ */
+export function getUpcomingEventsByMonth(): { monthKey: string; sampleDate: string; events: ClassEvent[] }[] {
+  const groups: { monthKey: string; sampleDate: string; events: ClassEvent[] }[] = []
   for (const ev of getAllUpcomingEvents()) {
-    const month = formatMonthLabel(ev.date)
+    const monthKey = ev.date.slice(0, 7) // "YYYY-MM"
     const last = groups[groups.length - 1]
-    if (last && last.month === month) {
+    if (last && last.monthKey === monthKey) {
       last.events.push(ev)
     } else {
-      groups.push({ month, events: [ev] })
+      groups.push({ monthKey, sampleDate: ev.date, events: [ev] })
     }
   }
   return groups

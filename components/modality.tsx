@@ -2,6 +2,7 @@
 
 import type { ReactNode } from "react"
 import Image from "next/image"
+import { useTranslations } from "next-intl"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
@@ -170,7 +171,8 @@ export function VideoEmbed({ src, title }: { src: string; title: string }) {
 }
 
 // ── Buttons ───────────────────────────────────────────────────────────────
-export function WhatsAppButton({ text, label = "WhatsApp" }: { text: string; label?: string }) {
+export function WhatsAppButton({ text, label }: { text: string; label?: string }) {
+  const t = useTranslations("Modality")
   return (
     <a
       href={waLink(text)}
@@ -179,20 +181,21 @@ export function WhatsAppButton({ text, label = "WhatsApp" }: { text: string; lab
       className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
     >
       <MessageCircle className="h-4 w-4" />
-      {label}
+      {label ?? t("whatsapp")}
       <ArrowRight className="h-4 w-4" />
     </a>
   )
 }
 
 export function EmailButton({ subject }: { subject: string }) {
+  const t = useTranslations("Modality")
   return (
     <a
       href={`mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}`}
       className="inline-flex items-center justify-center gap-3 rounded border border-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
     >
       <Mail className="h-4 w-4" />
-      Email
+      {t("email")}
       <ArrowRight className="h-4 w-4" />
     </a>
   )
@@ -207,9 +210,9 @@ export function BookingBlock({
   slug,
   id,
   bookHref,
-  bookLabel = "Book Now",
+  bookLabel,
   children,
-  note = "After you reach out, we will contact you personally to finalize your appointment.",
+  note,
 }: {
   title: string
   investment?: string
@@ -226,6 +229,7 @@ export function BookingBlock({
   children?: ReactNode
   note?: string
 }) {
+  const t = useTranslations("Modality")
   // Extract id from slug if not provided (e.g., "community#prayer-evening" -> "prayer-evening")
   const sectionId =
     id || (slug?.includes("#") ? slug.split("#")[1] : "inscriere-eveniment")
@@ -252,7 +256,7 @@ export function BookingBlock({
                     {investment && (
                       <div>
                         <p className="mb-2 text-sm font-semibold uppercase tracking-wider text-foreground">
-                          Investment
+                          {t("investment")}
                         </p>
                         <p className="font-serif text-3xl text-primary">{investment}</p>
                       </div>
@@ -260,7 +264,7 @@ export function BookingBlock({
                     {duration && (
                       <div>
                         <p className="mb-2 text-sm font-semibold uppercase tracking-wider text-foreground">
-                          Duration
+                          {t("duration")}
                         </p>
                         <p className="font-serif text-3xl text-primary">{duration}</p>
                       </div>
@@ -270,7 +274,7 @@ export function BookingBlock({
 
                 {children && <div className="text-left">{children}</div>}
 
-                <p className="text-lg font-semibold text-foreground">{note}</p>
+                <p className="text-lg font-semibold text-foreground">{note ?? t("defaultNote")}</p>
 
                 {bookHref && (
                   <a
@@ -279,7 +283,7 @@ export function BookingBlock({
                     rel="noopener noreferrer"
                     className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-12 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
                   >
-                    {bookLabel}
+                    {bookLabel ?? t("bookNow")}
                     <ArrowRight className="h-4 w-4" />
                   </a>
                 )}

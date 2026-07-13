@@ -1,19 +1,32 @@
 "use client"
 
+import { useTranslations } from "next-intl"
 import { ScrollReveal } from "./scroll-reveal"
 import { KenBurns } from "./ken-burns"
 
+const mmsLink = (chunks: React.ReactNode) => (
+  <a
+    href="https://www.modernmysteryschoolint.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-foreground hover:text-primary transition-colors underline"
+  >
+    {chunks}
+  </a>
+)
+
 export function GuideSection() {
+  const t = useTranslations("Guide")
   return (
     <section id="guide" className="relative py-24 lg:py-32">
       <div className="absolute inset-0 bg-muted/40" />
       <div className="relative z-10 mx-auto max-w-7xl px-6">
-        
+
         {/* ================= RADU COMAN SECTION ================= */}
         <ScrollReveal>
           <div className="mb-12 text-center">
             <p className="mb-3 font-serif text-sm tracking-[0.3em] text-primary uppercase">
-              Your Guide
+              {t("eyebrow")}
             </p>
             <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-4xl">
               Radu Coman
@@ -44,34 +57,28 @@ export function GuideSection() {
           <ScrollReveal direction="right">
             <div className="flex flex-col gap-6">
               <p className="text-lg leading-relaxed text-muted-foreground">
-                Radu Coman is a Guide and Teacher in the lineage of King Salomon,
-                certified by the <a href="https://www.modernmysteryschoolint.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors underline">Modern Mystery School</a>. With years of dedicated training and a
-                deep passion for empowering others, Radu has made it his mission
-                to bring the ancient teachings to the heart of Europe.
+                {t.rich("body1", { mms: mmsLink })}
               </p>
               <p className="leading-relaxed text-muted-foreground">
-                Having previously served the community through his work at{" "}
-                <a
-                  href="https://universitateapentrusuflet.ro/en"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-foreground hover:text-primary transition-colors underline"
-                >
-                  universitateapentrusuflet.ro
-                </a>
-                , Radu has now transitioned to serving the people in the area of Prague by 
-                making the path of initiation available to those in the region. He is providing
-                an immersive experience for those
-                who are truly ready for transformation.
+                {t.rich("body2", {
+                  usuflet: (chunks) => (
+                    <a
+                      href="https://universitateapentrusuflet.ro/en"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-foreground hover:text-primary transition-colors underline"
+                    >
+                      {chunks}
+                    </a>
+                  ),
+                })}
               </p>
               <p className="leading-relaxed text-muted-foreground">
-                His approach combines the timeless precision of the ancient
-                mystery school teachings with a modern, grounded understanding of
-                what it means to live as an awakened being in today&apos;s world.
+                {t("body3")}
               </p>
               <div className="mt-4 h-px w-16 bg-primary/40" />
               <p className="font-serif text-sm tracking-wide text-primary italic">
-                {`"My purpose is to guide you home and help you express your truest self."`}
+                {`"${t("quote")}"`}
               </p>
             </div>
           </ScrollReveal>
@@ -81,7 +88,7 @@ export function GuideSection() {
         <ScrollReveal>
           <div className="mt-24 lg:mt-32 mb-12 text-center">
             <p className="mb-3 font-serif text-sm tracking-[0.3em] text-primary uppercase">
-              Teacher | Healer
+              {t("dianaRole")}
             </p>
             <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-4xl">
               Diana Cinpoeru
@@ -94,17 +101,17 @@ export function GuideSection() {
           <ScrollReveal direction="left">
             <div className="flex flex-col gap-6">
               <p className="text-lg leading-relaxed text-muted-foreground">
-                Diana Cinpoeru is a dedicated Teacher and Healer assisting Radu in his mission. Driven by a lifelong quest to truly understand human nature and consciousness, her journey led her through art, symbolism, astrology, and various healing modalities.
+                {t("dianaBody1")}
               </p>
               <p className="leading-relaxed text-muted-foreground">
-                Her search for direct experience ended when she discovered the <a href="https://www.modernmysteryschoolint.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors underline">Modern Mystery School</a>. Through practical tools like Astral Travel, she learned that awareness extends far beyond the physical body, unlocking answers that lie past our ordinary senses.
+                {t.rich("dianaBody2", { mms: mmsLink })}
               </p>
               <p className="leading-relaxed text-muted-foreground">
-                Today, Diana shares these ancient, transformative practices to help others bridge the gap between theory and reality, shifting from simple curiosity to profound personal mastery.
+                {t("dianaBody3")}
               </p>
               <div className="mt-4 h-px w-16 bg-primary/40" />
               <p className="font-serif text-sm tracking-wide text-primary italic">
-                {`"There is a difference between hearing that something is possible and experiencing it yourself. The second changes everything."`}
+                {`"${t("dianaQuote")}"`}
               </p>
             </div>
           </ScrollReveal>

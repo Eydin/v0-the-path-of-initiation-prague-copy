@@ -1,6 +1,7 @@
 "use client"
 
 import { ArrowUpRight } from "lucide-react"
+import { useTranslations } from "next-intl"
 import { ScrollReveal } from "./scroll-reveal"
 import { waLink } from "./modality"
 
@@ -11,15 +12,12 @@ export type Healing = {
   tag?: string
 }
 
-function inquiry(name: string) {
-  return waLink(`Hello Radu, I would like to inquire about the ${name} healing.`)
-}
-
 // ── A single healing card with an inquire action ─────────────────────────
 function HealingCard({ healing }: { healing: Healing }) {
+  const t = useTranslations("HealingGrid")
   return (
     <a
-      href={inquiry(healing.name)}
+      href={waLink(t("inquiryTemplate", { name: healing.name }))}
       target="_blank"
       rel="noopener noreferrer"
       className="group flex h-full flex-col rounded-lg border border-primary/15 bg-card/50 p-6 backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/45 hover:bg-card/75 hover:shadow-[0_10px_30px_-14px_rgba(212,175,55,0.4)]"
@@ -32,7 +30,7 @@ function HealingCard({ healing }: { healing: Healing }) {
       <h3 className="font-serif text-lg leading-tight tracking-wide text-primary">{healing.name}</h3>
       <p className="mt-2.5 flex-1 text-sm leading-relaxed text-muted-foreground">{healing.description}</p>
       <span className="mt-4 inline-flex items-center gap-1.5 text-sm tracking-wide text-primary/80 transition-colors group-hover:text-gold-light">
-        Inquire
+        {t("inquire")}
         <ArrowUpRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
       </span>
     </a>

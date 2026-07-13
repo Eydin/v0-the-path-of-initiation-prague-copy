@@ -1,43 +1,15 @@
 "use client"
 
-import Link from "next/link"
 import { motion } from "framer-motion"
 import { Menu, ChevronDown } from "lucide-react"
 import { useState } from "react"
+import { useTranslations } from "next-intl"
+import { Link } from "@/i18n/navigation"
+import { BRAND } from "@/lib/brand-names"
+import { LocaleSwitcher } from "@/components/locale-switcher"
 
 const WHATSAPP =
   "https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
-
-const activations = [
-  { href: "/life-activation", label: "Life Activation" },
-  { href: "/full-spirit-activation", label: "Full Spirit Activation" },
-  { href: "/empower-thyself", label: "Empower Thyself" },
-  { href: "/healers-academy", label: "Healers Academy" },
-  { href: "/ritual-master", label: "Ritual Master" },
-]
-
-const healing = [
-  { href: "/healings", label: "All Healing Modalities" },
-  { href: "/specialty-healings", label: "Specialty Healings (KSHM)" },
-  { href: "/aura-healing", label: "Sacred Geometry Aura Healing" },
-  { href: "/sacred-geometry", label: "Sacred Geometry" },
-  { href: "/astral-travel", label: "Astral Travel" },
-  { href: "/spiritual-intuition", label: "Spiritual Intuition" },
-  { href: "/seven-mystery-schools", label: "The 7 Mystery Schools" },
-  { href: "/stress-management", label: "Stress Rescue" },
-]
-
-const aboutLinks = [
-  { href: "/#guide", label: "Your Guide" },
-  { href: "/lineage", label: "Lineage" },
-  { href: "/testimonials", label: "Testimonials" },  { href: "/certifications", label: "Certifications" },
-]
-
-const simpleLinks = [
-  { href: "/calendar", label: "Calendar" },
-  { href: "/community", label: "Community" },
-  { href: "/blog", label: "Blog" },
-]
 
 function DropdownLink({ label, items }: { label: string; items: { href: string; label: string }[] }) {
   return (
@@ -65,7 +37,40 @@ function DropdownLink({ label, items }: { label: string; items: { href: string; 
 }
 
 export function Header() {
+  const t = useTranslations("Header")
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+
+  const activations = [
+    { href: "/life-activation", label: BRAND.lifeActivation },
+    { href: "/full-spirit-activation", label: BRAND.fullSpiritActivation },
+    { href: "/empower-thyself", label: BRAND.empowerThyself },
+    { href: "/healers-academy", label: BRAND.healersAcademy },
+    { href: "/ritual-master", label: BRAND.ritualMaster },
+  ]
+
+  const healing = [
+    { href: "/healings", label: t("nav.healings") },
+    { href: "/specialty-healings", label: t("nav.specialtyHealings") },
+    { href: "/aura-healing", label: t("nav.auraHealingLabel", { brand: BRAND.sacredGeometry }) },
+    { href: "/sacred-geometry", label: BRAND.sacredGeometry },
+    { href: "/astral-travel", label: t("nav.astralTravel") },
+    { href: "/spiritual-intuition", label: t("nav.spiritualIntuition") },
+    { href: "/seven-mystery-schools", label: t("nav.sevenMysterySchools") },
+    { href: "/stress-management", label: t("nav.stressManagement") },
+  ]
+
+  const aboutLinks = [
+    { href: "/#guide", label: t("nav.guide") },
+    { href: "/lineage", label: t("nav.lineage") },
+    { href: "/testimonials", label: t("nav.testimonials") },
+    { href: "/certifications", label: t("nav.certifications") },
+  ]
+
+  const simpleLinks = [
+    { href: "/calendar", label: t("nav.calendar") },
+    { href: "/community", label: t("nav.community") },
+    { href: "/blog", label: t("nav.blog") },
+  ]
 
   return (
     <motion.header
@@ -83,9 +88,9 @@ export function Header() {
 
         {/* Desktop Navigation */}
         <nav className="hidden items-center gap-7 lg:flex">
-          <DropdownLink label="Activations & Initiations" items={activations} />
-          <DropdownLink label="Healing & Workshops" items={healing} />
-          <DropdownLink label="About" items={aboutLinks} />
+          <DropdownLink label={t("activationsGroup")} items={activations} />
+          <DropdownLink label={t("healingGroup")} items={healing} />
+          <DropdownLink label={t("aboutGroup")} items={aboutLinks} />
           {simpleLinks.map((link) => (
             <Link
               key={link.href}
@@ -95,13 +100,14 @@ export function Header() {
               {link.label}
             </Link>
           ))}
+          <LocaleSwitcher />
           <a
             href={WHATSAPP}
             target="_blank"
             rel="noopener noreferrer"
             className="border border-primary bg-primary/10 px-5 py-2 font-serif text-sm tracking-wide text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
           >
-            Begin Your Journey
+            {t("beginJourney")}
           </a>
         </nav>
 
@@ -120,7 +126,7 @@ export function Header() {
         >
           <div className="flex flex-col gap-5">
             <div>
-              <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">Activations & Initiations</p>
+              <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">{t("activationsGroup")}</p>
               <div className="flex flex-col gap-2.5 pl-1">
                 {activations.map((link) => (
                   <Link
@@ -135,7 +141,7 @@ export function Header() {
               </div>
             </div>
             <div>
-              <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">Healing & Workshops</p>
+              <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">{t("healingGroup")}</p>
               <div className="flex flex-col gap-2.5 pl-1">
                 {healing.map((link) => (
                   <Link
@@ -150,7 +156,7 @@ export function Header() {
               </div>
             </div>
             <div>
-              <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">About</p>
+              <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">{t("aboutGroup")}</p>
               <div className="flex flex-col gap-2.5 pl-1">
                 {aboutLinks.map((link) => (
                   <Link
@@ -176,14 +182,17 @@ export function Header() {
                 </Link>
               ))}
             </div>
-            <a
-              href={WHATSAPP}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-1 inline-block border border-primary bg-primary/10 px-5 py-2 text-center font-serif text-sm tracking-wide text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
-            >
-              Begin Your Journey
-            </a>
+            <div className="flex flex-col gap-3 border-t border-border/40 pt-4">
+              <LocaleSwitcher />
+              <a
+                href={WHATSAPP}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-1 inline-block border border-primary bg-primary/10 px-5 py-2 text-center font-serif text-sm tracking-wide text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
+              >
+                {t("beginJourney")}
+              </a>
+            </div>
           </div>
         </motion.nav>
       )}

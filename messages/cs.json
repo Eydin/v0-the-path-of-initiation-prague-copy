@@ -1,0 +1,916 @@
+{
+  "Hero": {
+    "location": "Praha, Česká republika",
+    "titleLine1": "Cesta iniciace:",
+    "titleLine2": "3000 let stará linie",
+    "intro1": "Po tisíciletí byla tato posvátná linie střežena v tichosti. Významné osobnosti — Leonardo da Vinci, Nikola Tesla, Isaac Newton — kráčely touto cestou, aby porozuměly fyzickému i duchovnímu světu, ale samotné mysterijní školy zůstávaly skryté, téměř nemožné najít, a nepřijímaly do svých posvátných síní jen tak někoho.",
+    "intro2": "Dnes jsou však dveře jedné mysterijní školy otevřené veřejnosti. Máme tu výsadu žít v době, kdy si <emphasis>kdokoli</emphasis>, kdo cítí volání, může zvolit studium mystérií a probuzení svého skutečného potenciálu. Je to škola, kde je <emphasis>magie</emphasis> nedílnou součástí existence, kde se rozvíjí a léčí <emphasis>duše</emphasis> a kde je objevováno a naplňováno <emphasis>božské poslání</emphasis> každého člověka.",
+    "ctaLabel": "Zjistěte, zda je tato cesta pro vás",
+    "whatsapp": "WhatsApp"
+  },
+  "Header": {
+    "activationsGroup": "Aktivace a iniciace",
+    "healingGroup": "Léčení a workshopy",
+    "aboutGroup": "O nás",
+    "beginJourney": "Začněte svou cestu",
+    "nav": {
+      "healings": "Všechny léčebné modality",
+      "specialtyHealings": "Speciální léčení (KSHM)",
+      "auraHealingLabel": "{brand} – léčení aury",
+      "astralTravel": "Astrální cestování",
+      "spiritualIntuition": "Duchovní intuice",
+      "sevenMysterySchools": "7 mysterijních škol",
+      "stressManagement": "Záchrana před stresem",
+      "guide": "Váš průvodce",
+      "lineage": "Linie",
+      "testimonials": "Reference",
+      "certifications": "Certifikace",
+      "calendar": "Kalendář",
+      "community": "Komunita",
+      "blog": "Blog"
+    }
+  },
+  "Footer": {
+    "tagline": "Léčení, iniciace a výcvik v linii krále Šalomouna s průvodcem Radu Comanem v Praze.",
+    "location": "Praha, Česká republika",
+    "auraHealing": "Léčení aury",
+    "contact": "Kontakt",
+    "whatsapp": "WhatsApp · +420 792 908 296",
+    "facebook": "Facebook",
+    "certifiedAlt": "Certifikováno Modern Mystery School",
+    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Všechna práva vyhrazena."
+  },
+  "Modality": {
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "investment": "Investice",
+    "duration": "Doba trvání",
+    "bookNow": "Rezervovat",
+    "askQuestion": "Máte nějaké otázky?",
+    "defaultNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín."
+  },
+  "UpcomingDates": {
+    "heading": "Nejbližší termíny v Praze",
+    "seeFullCalendar": "Zobrazit celý kalendář"
+  },
+  "Facts": {
+    "heading": "Odkaz, který mluví sám za sebe",
+    "stats": [
+      { "number": "3000+", "label": "Let nepřerušené linie" },
+      { "number": "60+", "label": "Zemí po celém světě" },
+      { "number": "Tisíce", "label": "Proměněných životů" }
+    ],
+    "videosHeading": "Sledujte cestu našich studentů",
+    "wallOfLove": "Zeď lásky",
+    "testimonials": [
+      {
+        "quote": "Iniciační obřad předčil mou představivost. Cítila jsem se opravdu vítaná a mám pocit, že jsem našla komunitu, do které jsem nesmírně ráda patřím.",
+        "author": "Maria z České republiky"
+      },
+      {
+        "quote": "Radu mi neříkal, co mám a co nemám dělat. Skutečně mi pomáhá slyšet mou vlastní pravdu, mou vlastní jasnost.",
+        "author": "Ana z České republiky"
+      },
+      {
+        "quote": "Přišla jsem hledat odpovědi a našla jsem zcela novou dimenzi života. Nástroje, které jsem získala, předčily vše, co jsem si dokázala představit.",
+        "author": "Sophie z Kanady"
+      }
+    ]
+  },
+  "Pillars": {
+    "eyebrow": "Základ",
+    "heading": "Čtyři pilíře proměny",
+    "intro": "Každý pilíř staví na tom předchozím a vytváří ucelený systém duchovní evoluce, který obstál ve zkoušce času.",
+    "items": [
+      {
+        "title": "Duchovní poznání",
+        "description": "Prohlubte své porozumění vesmíru a metafyzickým zákonům, které řídí veškeré stvoření. Získejte přístup k učení, které bylo po více než tři tisíciletí uchováváno nepřerušenou linií zasvěcenců."
+      },
+      {
+        "title": "Praktická magie",
+        "description": "Probuďte v sobě dřímající síly a naučte se směřovat energii k dosažení hmatatelných výsledků v reálném světě. Toto není teorie; jde o praktickou aplikaci univerzálních principů."
+      },
+      {
+        "title": "Božské poslání",
+        "description": "Rozvíjejte svou duši a vytvořte živé spojení se svým Vyšším posláním. Objevte, proč jste zde, co máte vytvořit, a jak sladit každou stránku svého života se svým skutečným povoláním."
+      },
+      {
+        "title": "Léčebné modality",
+        "description": "Naučte se posvátné léčebné techniky, které vám umožní hluboce sloužit druhým. Staňte se kanálem proměny a pomozte ostatním probudit jejich vlastní božský potenciál."
+      }
+    ]
+  },
+  "Teaser": {
+    "eyebrow": "Závazek k velikosti",
+    "heading": "Toto není víkendový workshop",
+    "body1": "Řekněme si to jasně: Cesta iniciace je náročný výcvikový program. Zahrnuje měsíce oddaného studia, neustálou praxi a neochvějný závazek k vlastní proměně. Není to ledabylý seminář ani příjemný pobyt pro dobrý pocit.",
+    "body2": "Toto je <emphasis>posvátný závazek</emphasis> stát se tou nejlepší verzí sebe sama — odemknout síly, o jejichž existenci většina lidí nikdy nebude vědět, a vstoupit do linie, která formovala běh lidských dějin.",
+    "expectedHeading": "Co se od vás očekává",
+    "expectations": [
+      "Otevřená mysl a ochota zpochybnit své současné domněnky",
+      "Každodenní praxe nástrojů a technik",
+      "Upřímná touha po sebeovládání",
+      "Ochota sloužit a povznášet sebe i druhé"
+    ]
+  },
+  "CTA": {
+    "eyebrow": "Vaše pozvání",
+    "heading": "Jste připraveni vykročit na cestu?",
+    "body": "Dveře jsou otevřené, ale jen vy se můžete rozhodnout jimi projít. Pokud cítíte volání, udělejte první krok a přihlaste se na osobní konzultaci s Radu Comanem.",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp"
+  },
+  "Guide": {
+    "eyebrow": "Váš průvodce",
+    "body1": "Radu Coman je průvodce a učitel v linii krále Šalomouna, certifikovaný <mms>Modern Mystery School</mms>. S mnohaletým oddaným výcvikem a hlubokou vášní pro posilování druhých si Radu vzal za svou misi přinést starobylé učení do srdce Evropy.",
+    "body2": "Poté, co dříve sloužil komunitě prostřednictvím své práce na <usuflet>universitateapentrusuflet.ro</usuflet>, Radu nyní přešel ke službě lidem v oblasti Prahy tím, že zpřístupňuje cestu iniciace těm v regionu. Poskytuje pohlcující zážitek těm, kdo jsou skutečně připraveni na proměnu.",
+    "body3": "Jeho přístup spojuje nadčasovou preciznost starobylého učení mysterijních škol s moderním, ukotveným porozuměním tomu, co znamená žít jako probuzená bytost v dnešním světě.",
+    "quote": "Mým posláním je provést vás domů a pomoci vám vyjádřit vaše nejpravdivější já.",
+    "dianaRole": "Učitelka | Léčitelka",
+    "dianaBody1": "Diana Cinpoeru je oddaná učitelka a léčitelka, která pomáhá Radu Comanovi s jeho posláním. Poháněna celoživotní touhou skutečně porozumět lidské přirozenosti a vědomí ji její cesta zavedla přes umění, symboliku, astrologii a různé léčebné modality.",
+    "dianaBody2": "Její hledání přímé zkušenosti skončilo, když objevila <mms>Modern Mystery School</mms>. Prostřednictvím praktických nástrojů, jako je astrální cestování, se naučila, že vědomí sahá daleko za hranice fyzického těla, a odemyká odpovědi, které leží za našimi běžnými smysly.",
+    "dianaBody3": "Dnes Diana předává tyto starobylé, transformační praktiky, aby pomohla druhým překlenout propast mezi teorií a realitou a posunout se od prosté zvědavosti k hlubokému osobnímu mistrovství.",
+    "dianaQuote": "Je rozdíl mezi tím, slyšet, že něco je možné, a zažít to na vlastní kůži. To druhé mění vše."
+  },
+  "Classes": {
+    "eyebrow": "Nadcházející události",
+    "heading": "Nadcházející kurzy v Praze",
+    "intro": "Každý kurz je krokem na cestě iniciace. Začněte s Life Activation a postupujte posvátným kurikulem dál.",
+    "items": [
+      {
+        "description": "Probuďte svůj božský plán a rozžehněte plný potenciál zakódovaný ve vaší DNA. Toto je základní sezení linie mysterijní školy.",
+        "tag": "Základ"
+      },
+      {
+        "description": "Dvoudenní iniciační program, ve kterém obdržíte posvátné nástroje a učení, abyste převzali velení nad svým životem a vykročili na cestu jako Zasvěcenec.",
+        "tag": "Iniciace"
+      },
+      {
+        "title": "Zobrazit celý kalendář",
+        "description": "Studujte božské vzory, které jsou základem veškerého stvoření, jak astrálně cestovat, komunikovat se svým vyšším já a mnohem více.",
+        "tag": "Pokročilé studium"
+      }
+    ],
+    "learnMore": "Zjistit více"
+  },
+  "Ending": {
+    "eyebrow": "Kde se setkávají všechny světy",
+    "heading": "Spojení starověku, vesmíru a moderní doby",
+    "cards": [
+      { "title": "Starobylá moudrost", "subtitle": "Chrámy, kněží a posvátné rituály" },
+      { "title": "Univerzální věda", "subtitle": "Galaktické poznání a světlo" },
+      { "title": "Moderní zasvěcenec", "subtitle": "Posílení muži a ženy" }
+    ],
+    "body1": "Tato cesta spojuje <emphasis>starobylou moudrost</emphasis> mysterijních škol s <emphasis>univerzální galaktickou vědou</emphasis>, která provázela civilizace napříč vesmírem.",
+    "body2": "Výsledkem je živý systém poznání, který je hluboce použitelný pro <emphasis>moderní muže a ženy</emphasis>, kteří jsou připraveni se probudit, proměnit a vést."
+  },
+  "HallOfInitiates": {
+    "eyebrow": "Síň zasvěcenců",
+    "heading": "Kráčíte ve <emphasis>vznešené společnosti</emphasis>",
+    "intro": "Králové a královny, umělci a vědci byli zasvěceni na téže cestě — mezi nimi Leonardo da Vinci, Nikola Tesla, Isaac Newton. Jejich portréty zde visí jako svědkové.",
+    "initiates": [
+      { "role": "Otec hermetické moudrosti" },
+      { "role": "Faraonka, která stavěla chrámy" },
+      { "role": "Strážkyně posvátné ženskosti" },
+      { "role": "Válečník-básník a žalmista" },
+      { "role": "Zakladatel linie" },
+      { "role": "Most mezi královstvími" },
+      { "role": "Geometrie jako božský jazyk" },
+      { "role": "Král-strážce nemnohých" },
+      { "role": "Probuzený" },
+      { "role": "Otec zkoumání" },
+      { "role": "Mistr věd" },
+      { "role": "Vizionářský budovatel světa" },
+      { "role": "Státník a reformátor" },
+      { "role": "Kněžka moci" },
+      { "role": "Mistr proměny" },
+      { "role": "Bojovnice oddanosti" },
+      { "role": "Víra v brnění" },
+      { "role": "Univerzální zasvěcenec" },
+      { "role": "Mistr kamene a ducha" },
+      { "role": "Lékař a jasnovidec" },
+      { "role": "Básník duše" },
+      { "role": "Meč jako cesta" },
+      { "role": "Vědec mystérií" },
+      { "role": "Nesmrtelný adept" },
+      { "role": "Státník svědomí" },
+      { "role": "Frekvence a světlo" },
+      { "role": "Architekt ducha" },
+      { "role": "Mystický léčitel" }
+    ],
+    "closing": "Co kdybyste mohli získat přístup k <emphasis>úplně stejné</emphasis> cestě, nástrojům a síle, jaké měli oni — jaký by byl váš odkaz?",
+    "portraitsCredit": "Portréty: historická umělecká díla a fotografie, Wikimedia Commons."
+  },
+  "Newsletter": {
+    "eyebrow": "Dopisy z cesty",
+    "heading": "Přijímejte učení",
+    "intro": "Občasné dopisy o iniciaci, posvátné geometrii a práci s duší — zasílané pouze tehdy, když je co říct.",
+    "placeholder": "Váš e-mail",
+    "submitting": "Odesílání...",
+    "subscribe": "Odebírat",
+    "errorEmpty": "Zadejte prosím svou e-mailovou adresu.",
+    "success": "Děkujeme — vaše žádost o odběr byla přijata.",
+    "errorGeneric": "Něco se pokazilo. Zkuste to prosím znovu nebo nás kontaktujte přímo.",
+    "footnote": "Žádný šum. Odhlásit se můžete kdykoli."
+  },
+  "LifeActivation": {
+    "heroEyebrow": "Mysterijní tradice · Linie krále Šalomouna",
+    "heroSubtitle": "Aktivujte vrozené dary, které přebývají ve vaší DNA",
+    "heroTagline": "Vyčistěte 5–7 generací předků od traumat a vykročte ke svému nejvyššímu potenciálu",
+    "introLead": "{brand} – Mysterijní tradice, linie krále Šalomouna",
+    "introBody": "{brand} je hluboký zážitek nabízený v tradici Modern Mystery School, navržený k probuzení božského potenciálu v každé lidské bytosti. Toto silné sezení aktivuje 22 z 24 vláken DNA (11 fyzických a 11 duchovních), čímž otevírá bránu k hlubšímu spojení s vaším Božským Já. Tím se zvyšuje vaše schopnost přijímat, obíhat a udržovat více Světla — což podporuje léčení, jasnost a duchovní růst ve fyzickém těle.",
+    "benefitsHeading": "Přínosy {brand}",
+    "benefits": [
+      { "label": "Hluboké spojení s Božským Já:", "text": "Life Activation usnadňuje hlubší spojení s vaším Božským Já a umožňuje projev vašich vnitřních zdrojů, talentů a potenciálu." },
+      { "label": "Energie a jasnost:", "text": "Zážitek přináší vlivnou dávku energie a jasnosti do všech oblastí života a podporuje vaši schopnost sebejistě zvládat každodenní život." },
+      { "label": "Projev talentů a schopností:", "text": "Probuzením vnitřního potenciálu se účastníci stávají vnímavějšími a schopnějšími plněji vyjadřovat své jedinečné talenty a schopnosti." },
+      { "label": "Proměna těla a uvolnění karmy:", "text": "Life Activation zahajuje proces proměny v těle a pomáhá uvolnit emocionální a mentální vzorce uložené v DNA, známé jako „karma“." },
+      { "label": "Rozšířené využití mozkové kapacity:", "text": "Díky tomuto zážitku se posiluje schopnost čerpat z většího potenciálu mozku a vynáší na světlo dříve přehlížené nebo dřímající schopnosti." }
+    ],
+    "proceduresHeading": "Doplňkové procedury pro vyvážení a proměnu",
+    "proceduresLead": "Kromě samotné aktivace zahrnuje sezení doplňkové procedury navržené k vyvážení a stimulaci těla v souladu s nově aktivovanými informacemi z DNA.",
+    "procedures": [
+      { "label": "Odstranění emocionálních bloků:", "text": "Zaměřeno na odstranění případných emocionálních bloků z korunní čakry, tento proces vytváří volnější proudění energie." },
+      { "label": "Vyvážení centrálního jádra:", "text": "Tento proces harmonizuje energie proudící centrálním jádrem a podporuje vyrovnání a rovnováhu celého energetického systému." },
+      { "label": "Otevření 16 lotosových okvětních lístků:", "text": "Tento úkon posiluje spojení s Elementálními energiemi — Zemí, Vodou, Vzduchem a Ohněm — a zesiluje vaši interakci s nimi." },
+      { "label": "Vyvážení elementálních a magnetických energetických linií:", "text": "Tento proces se zaměřuje na vyvážení a harmonizaci energetických linií procházejících tělem a podporuje plynulé a sladěné proudění energie." },
+      { "label": "Vyvážení čaker:", "text": "Tento proces si klade za cíl přinést harmonii a vyrovnání do systému čaker — energetických center těla." },
+      { "label": "Odstranění vypálených éterických krystalů z těla:", "text": "Tato procedura je určena k očistě a revitalizaci energetického těla." },
+      { "label": "Krátké čtení z vaší nově aktivované DNA:", "text": "Krátké prozkoumání vrstev podvědomí, které vám poskytne hlubší sebepoznání." },
+      { "label": "Homeopatický lék:", "text": "Homeopatický lék vytvořený v alchymistické laboratoři školy, navržený k detoxikaci, podpoře a zmírnění fyzických a energetických změn spojených s tímto jedinečným zážitkem." }
+    ],
+    "exploreHeading": "Objevte vyšší dimenze",
+    "exploreBody1": "Aktivace DNA je návratem k sobě samému — sezení, které nejen přináší světlo do temnoty života, ale také otevírá dveře k neomezenému potenciálu.",
+    "exploreBody2": "V Modern Mystery School slouží tato aktivace jako brána k duchovní evoluci a objevení pravého Já hlubokým a transformačním způsobem. Je to krok k sebepoznání a příležitost žít život s větší energií, jasností a uvědoměním.",
+    "certTitle": "{brand} – Aktivace DNA",
+    "certBody": "Toto je průlomová metoda pro <i>vnitřní proměnu a odemknutí vašeho osobního potenciálu</i>. Kombinuje starobylou moudrost s moderními energiemi, aby vám pomohla růst a vyvíjet se. Tuto techniku nabízí Modern Mystery School prostřednictvím certifikovaných praktiků Life Activation. Slouží jako <bold>brána k vyššímu vědomí a duchovní expanzi.</bold>",
+    "bookingTitle": "Poznejte svou autentickou sílu a vyšší já!",
+    "duration": "2 hodiny",
+    "bookingNote": "Po dokončení platby vás budeme kontaktovat, abychom domluvili termín.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o {brand}."
+  },
+  "EmpowerThyself": {
+    "heroEyebrow": "Dvoudenní iniciace",
+    "heroTitle": "Program {brand}",
+    "heroSubtitle": "Iniciace do linie krále Šalomouna",
+    "invitation": {
+      "question": "Kdybyste mohli být jako Bůh — naplněni láskou, harmonií a tvůrčí silou — udělali byste to?",
+      "body1": "Tato iniciace rozšíří hranice toho, co považujete za možné. Probouzí nové potenciály a vyzývá nás, abychom se zbavili starých dogmat a paradigmat.",
+      "body2": "Během těchto dvou dnů obdržíte klíče, které odemknou potenciál ve vaší mysli k ztělesnění vaší božské podstaty. Všichni v sobě neseme tento potenciál — už je ve vás. Nyní je čas dostat ho na povrch a učinit z něj těžiště svého života.",
+      "body3": "Naučíte se, jak překonat negativní ego, které vám stojí v cestě, a získáte praktické nástroje, které vás v tomto procesu podpoří. Iniciace urychlí vaši proměnu a pomůže vám dosáhnout výsledků rychleji a užít si cestu ke svému pravému já.",
+      "body4": "Bude vás podporovat starobylá linie, která stojí za vámi.",
+      "body5": "Ti, kdo touto cestou prošli před vámi, jsou zde, aby vás provedli svou moudrostí a zkušeností.",
+      "body6": "Díky jejich oddanosti bylo toto učení zachováno ve své nejčistší podobě — uchováno v bezpečí, abychom z něj dnes mohli těžit.",
+      "callToAction": "Odpovíte na volání?"
+    },
+    "letter": {
+      "greeting": "Milý hledači,",
+      "body1": "Oslovuji vás nyní nejen jako duchovní průvodce ve starobylé linii Světla — ale také jako inženýr. Vím, že na první pohled se tyto dvě cesty mohou zdát jako naprosto odlišné světy. Ale obě mi odhalily stejnou hlubokou pravdu: <bold>ve všem, co existuje, je hlubší záměr</bold>.",
+      "body2a": "V inženýrství studujeme strukturu, energii a systémy.",
+      "body2b": "V této Posvátné linii — nepřerušeně předávané od dob krále Šalomouna — studujeme strukturu duše, proudění životní energie a systémy, které řídí léčení, poslání a vnitřní mistrovství.",
+      "body3": "<bold>{brand}</bold> není jen kurz. Je to přesná, časem prověřená iniciace do vaší vlastní božské architektury. Král Šalomoun shromáždil nejmoudřejší lidi a mystiky své doby a testoval každý transformační nástroj, aby vytvořil systém, který skutečně funguje — <emphasis>pro všechny lidi, napříč kulturami a <bold>staletími</bold>.</emphasis>",
+      "body4": "Tato cesta po vás nežádá slepou víru. Zve vás k prožitku. K probuzení darů zakódovaných ve vaší DNA. K uvolnění předků vzorců, které vám již neslouží. K sladění vašeho vnitřního světa s vyšší inteligencí — božským plánem vaší duše.",
+      "body5": "Pokud cítíte, že život má hlubší architekturu… Pokud jste vždy uvnitř věděli, že jste zde pro něco víc — i když jste to ještě neuměli pojmenovat… pak tento krok může být vaším dalším začátkem.",
+      "closing": "Bylo by mi ctí vás provázet. Od jednoho hledače pravdy k druhému, s jasností, strukturou a duší.",
+      "signOffRole": "Váš průvodce v linii Světla"
+    },
+    "origins": {
+      "heading": "Co je program {brand} a odkud pochází?",
+      "body1": "<bold>{brand}</bold> je součástí živé tradice moudrosti, léčení a vnitřní evoluce, založené před více než 3000 lety králem Šalomounem.",
+      "body2": "Veden touhou pomoci lidem objevit a naplnit jejich božský potenciál, Šalomoun shromáždil nejmoudřejší mistry své doby — léčitele, lékaře, mudrce, mystiky a duchovní hledače. Společně testovali a zdokonalovali všechny známé metody proměny, dokud nevytvořili jasný, hluboký a praktický systém určený pro kohokoli, bez ohledu na kulturu nebo dobu.",
+      "body3": "<bold>Co skutečně dělá {brand} výjimečným</bold>, je to, že to není jen další sbírka technik nebo teorií. Je to součást uceleného a soudržného systému, nepřetržitě předávaného dodnes — ověřeného a důvěryhodného rámce, který podporuje probuzení vědomí, vnitřní rovnováhu a znovuspojení s vaším pravým já.",
+      "tagline": "Tento systém je účinný dodnes a přináší výsledky v oblastech, kam moderní věda dosud nedosáhla."
+    },
+    "whatWillYouDo": {
+      "heading": "Co budete dělat v programu {brand}?",
+      "body1": "Tento program je navržen tak, aby vám pomohl uvědomit si, že máte moc vytvořit život, po kterém skutečně toužíte. Umožňuje vám vidět, kde se možná brzdíte a kde se spokojujete s méně, než si zasloužíte. Ale tím to nekončí — tento program vám také dává nástroje ke změně těchto částí vašeho života! Po těchto dvou dnech budete schopni rozpoznat vzorce a programy, které formují vaše chování, porozumět jejich původu a mít moc je uvolnit.",
+      "body2": "Otevřete si cesty, kterými získáte přístup k více energii, novým poznatkům a čerstvým vhledům, což vám umožní vytvořit nový život přinášející naprosté naplnění.",
+      "body3": "Toto je praktický a interaktivní program, po kterém budete mít jistotu, že přesně rozumíte tomu, co je dalším krokem k pokračování vašeho růstu a proměny.",
+      "subheading": "Získáte jasnost a strukturu ve svém chápání ducha a lidské přirozenosti, stejně jako jasný vhled do zkušeností, se kterými jste se již možná setkali.",
+      "benefits": [
+        "Naučíte se rozpoznat neviditelný svět, přistupovat k němu a interagovat s ním.",
+        "Naučíte se, jak shromáždit sílu svých myšlenek a použít ji k tvorbě dobra kolem sebe.",
+        "Budete praktikovat posvátné rituály a zúčastníte se posvátné iniciační ceremonie."
+      ]
+    },
+    "special": {
+      "heading": "Co dělá tento program výjimečným?",
+      "body": "Neučíme vás jen teorii. Existuje mnoho učitelů, kteří s vámi mohou mluvit o spiritualitě. My vám nabízíme autentické, silné nástroje a učíme vás, jak je používat ve svém životě. Dáváme vám klíč k odemknutí těchto sil ve vás samých!"
+    },
+    "curriculum": {
+      "heading": "Co se v tomto programu naučíte?",
+      "items": [
+        "Jak odpovědět na otázku „Kdo jsem já?“",
+        "Co je iniciace a proč ji dnes potřebujeme?",
+        "Role krále Šalomouna v tomto procesu",
+        "Lidský potenciál být Bohem",
+        "12 dimenzí Země a 7 duchovních dimenzí",
+        "Struktura hierarchie Světla",
+        "Meditace a mozkové vlnové frekvence",
+        "Vliv ega na pravé já",
+        "Cyklus lidských procesů",
+        "Energetická struktura lidské bytosti",
+        "Univerzální Kabala a strom života"
+      ],
+      "closing": "V průběhu tohoto programu obdržíte učení, praktická cvičení a posvátné rituály, které můžete použít k pozvednutí svého života na další úroveň. Všechny tyto klíče pocházejí z linie krále Šalomouna, předávané v nepřerušené tradici po tisíce let."
+    },
+    "nextSteps": {
+      "heading": "Co musíte udělat?",
+      "items": [
+        { "main": "Ozvěte se nám, abyste zjistili, zda je tento program pro vás v tomto okamžiku vaší cesty tou správnou volbou.", "sub": "Jsme zde, abychom vás podpořili jasností a vedením na každém kroku." },
+        { "main": "Absolvujte sezení Life Activation u jednoho z našich certifikovaných praktiků." },
+        { "main": "Uhraďte zálohu nebo celou částku, abyste si rezervovali místo." },
+        { "main": "Zúčastněte se dvoudenního kurzu a iniciační ceremonie." },
+        { "main": "Začněte uplatňovat, co jste se naučili, a užijte si výsledky." }
+      ]
+    },
+    "recommendations": {
+      "heading": "Doporučení",
+      "body1": "<bold>{brand}</bold> není jen kurz. Je to začátek hluboké cesty a trvalého spojení.",
+      "body2": "Tato iniciace otevírá bránu k novému chápání života a také bezpečný prostor, kam se můžete kdykoli vrátit, když potřebujete jasnost, podporu nebo vedení.",
+      "body3": "Zavazujeme se podporovat vás nejen během programu, ale i v nadcházejících letech. Ať už máte otázky ohledně uplatňování učení v každodenním životě, procházíte obdobím proměny, nebo se prostě cítíte připraveni udělat další krok ve své osobní cestě, jsme tu pro vás.",
+      "body4": "Tento vztah se buduje postupem času — s důvěrou, respektem a upřímným záměrem podporovat váš růst, rovnováhu a vnitřní sílu."
+    },
+    "bookingTitle": "Objevte svůj potenciál být božskou bytostí!",
+    "duration": "2 dny",
+    "bookingNote": "Koná se v Praze, Česká republika. Po vaší záloze vás budeme kontaktovat, abychom naplánovali vaši Life Activation a potvrdili vaše místo.",
+    "bookingExtra": {
+      "included": "Zahrnuje dvoudenní výcvik a doplňkové sezení Life Activation (v hodnotě 8 500 Kč) k přípravě vašeho energetického systému a propojení s vaším božským plánem před iniciací.",
+      "processLabel": "Postup rezervace:",
+      "deposit": "Záloha 12 000 Kč zajistí vaše místo a umožní nám naplánovat vaše sezení Life Activation.",
+      "remainder": "Zbývajících 24 500 Kč je splatných před zahájením dvoudenního výcviku a iniciace."
+    },
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o iniciaci {brand}."
+  },
+  "FullSpiritActivation": {
+    "heroEyebrow": "Mysterijní tradice · Linie krále Šalomouna",
+    "heroSubtitle": "Probuďte a ukotvěte duši a ducha v těle",
+    "heroTagline": "Otevřete svou duši zázrakům",
+    "introLead": "{brand} — přijímá se po Life Activation",
+    "introBody1": "Pod závojem naší fyzické existence leží rozsáhlý a komplexní svět vědomí, který, jakmile je probuzen a aktivován, může radikálně proměnit způsob, jakým vnímáme a prožíváme realitu. Full Spirit Activation je silný proces, který přináší světlo a jasnost do celé naší bytosti, otevírá nás hlubším úrovním uvědomění a znovu nás spojuje s naší božskou podstatou.",
+    "introBody2": "Zatímco Life Activation vás spojuje s vaším původním plánem a Vyšším Já, Full Spirit Activation funguje jako portál k vaší pravé podstatě — probouzí a ukotvuje duši a ducha do fyzického těla a vytváří mocný most mezi božským a lidským prožitkem.",
+    "bookNow": "Rezervovat",
+    "soulHeading": "Praxe, která působí na úrovni duše",
+    "soulBody1": "Podobně jako Life Activation, která působí na fyzické úrovni, Full Spirit Activation působí na úrovni duše — otevírá brány k vyšším dimenzím vědomí a bytí. Hluboce působí v různých oblastech mozku a znovu je propojuje s konkrétními body ve fyzickém těle, které jsou poté propojeny s jemnými energetickými těly, čímž zesiluje proudění duchovní energie celým vaším systémem.",
+    "soulBody2": "V hmatatelnějším smyslu odemyká kanály vědomí v těle a revitalizuje nervový a smyslový systém. To nám umožňuje hlouběji se spojit s našimi fyzickými pocity — bez emočních a mentálních bloků, které nás v minulosti mohly omezovat — a naplňuje nás zářivou vitalitou a nesmírnou radostí ze života.",
+    "quote": {
+      "text": "Jsi zde, abys vyjadřoval",
+      "emphasis": "krásu a dobro",
+      "attribution": "Učení linie",
+      "caption": "Píseň andělů · W.-A. Bouguereau, 1881"
+    },
+    "aspectsHeading": "Proces, který působí na více aspektů vaší bytosti",
+    "aspects": [
+      { "label": "Oblast mysli:", "text": "Tato aktivace působí napříč všemi úrovněmi mysli, od našich fyzických potřeb až po spojení s božským zdrojem poznání." },
+      { "label": "Centrum vůle:", "text": "Každý aspekt centra vůle je prozkoumán a revitalizován, od každodenních rozhodnutí až po hluboké duchovní volby." },
+      { "label": "Intuice, paměť a přístupové body:", "text": "Intuitivní kanály a hluboká paměť jsou otevřeny a aktivovány, čímž se odemykají brány k božskému poznání." }
+    ],
+    "proceduresHeading": "Doplňkové procedury pro vyvážení a proměnu",
+    "procedures": [
+      { "label": "Probuzení čaker:", "text": "Probuzení a harmonizace energetických center těla." },
+      { "label": "Probuzení stromu života:", "text": "Sladění s živou mapou stvoření uvnitř vás." },
+      { "label": "Purificado & Crystalis:", "text": "Magický homeopatický lék vytvořený na podporu procesu a jemné detoxikace." }
+    ],
+    "proceduresClosing": "Po tak intenzivním sezení se doporučuje dopřát si čas na plnou integraci proměn. Pro maximalizaci přínosů nejprve absolvujte Life Activation — ideálně tři týdny až tři měsíce předem.",
+    "bookingTitle": "Objevte svůj potenciál být božskou bytostí",
+    "duration": "2 hodiny",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o {brand}."
+  },
+  "HealersAcademy": {
+    "heroEyebrow": "Druhý stupeň iniciace",
+    "heroSubtitle": "Staňte se certifikovaným léčitelem v linii krále Šalomouna",
+    "heroTagline": "Vykročte naplno do života služby a světla",
+    "introLead": "Intenzivní program a iniciace — otevřeno absolventům {brand}",
+    "introBody1": "{brand} je druhý stupeň iniciace na Cestě. Poté, co Empower Thyself probudí vaši vlastní sílu, Healers Academy tuto sílu obrací navenek — školí vás v udržování posvátného prostoru a přinášení skutečného léčení druhým. Je to práh, na kterém se student mystérií stává jejich praktikem.",
+    "introBody2": "Během intenzivního programu studia a praxe jste iniciováni a certifikováni k nabízení základních modalit Modern Mystery School — stejné práce, která proměnila váš vlastní život a nyní je vložena do vašich rukou, abyste ji mohli darovat dál.",
+    "applyNow": "Přihlásit se nyní",
+    "learnHeading": "Co se naučíte",
+    "learn": [
+      { "label": "Provádět Life Activation:", "text": "Naučte se předávat druhým kompletní Life Activation všech 22 vláken DNA." },
+      { "label": "Vést skupiny Max Meditation™:", "text": "Veďte charakteristickou skupinovou meditaci, která otevírá tuto cestu tolika lidem." },
+      { "label": "Číst a léčit auru:", "text": "Naučte se nacházet a vyplňovat díry v auře člověka a obnovovat celistvost a ochranu." },
+      { "label": "Posilovat své světelné tělo:", "text": "Vyživujte a pečujte o své vlastní světelné tělo, aby uneslo až stokrát více síly." },
+      { "label": "Posvátný obřad a etika:", "text": "Udržujte prostor s integritou, rozlišováním a odpovědností skutečného léčitele." }
+    ],
+    "quote": {
+      "text": "Poznej sám sebe, a poznáš",
+      "emphasis": "vesmír i bohy",
+      "attribution": "Vyryto na chrámu v Delfách",
+      "caption": "Nanebevstoupení blažených · H. Bosch, kolem 1505"
+    },
+    "whoHeading": "Pro koho je tento program určen",
+    "whoBody1": "{brand} je pro ty, kdo pocítili volání sloužit — kdo, prošedše vlastní iniciací, chtějí nést světlo dál. Není vyžadována žádná předchozí léčitelská zkušenost, pouze upřímnost, dokončená iniciace Empower Thyself a ochota zavázat se k vlastnímu pokračujícímu růstu.",
+    "whoBody2": "Absolventi se připojují k celosvětové komunitě certifikovaných léčitelů a mají nárok pokračovat na cestu Ritual Master a k hlubším učením školy.",
+    "bookingTitle": "Odpovězte na volání sloužit",
+    "duration": "Intenzivní program a iniciace",
+    "bookingNote": "Healers Academy je pětidenní intenzivní program.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o {brand}."
+  },
+  "RitualMaster": {
+    "heroEyebrow": "Cesta mistrovského mága",
+    "heroSubtitle": "Skutečné mistrovství nad sebou samým",
+    "heroTagline": "Válečník světla láme každý řetěz, který jej drží v zajetí — a pak pomáhá totéž udělat druhým.",
+    "introLead": "Program {brand}",
+    "introBody1": "Dnes máme přístup k více poznání, než jaké kdy lidstvo mělo — a přesto se tolik lidí dívá na život a cítí se ztraceno, uvězněno v krabici. Je to proto, že chybí jedna zásadní součást: Duch, kým skutečně jste. Z ducha pramení naděje, radost a síla povznést se nad veškerou negativitu.",
+    "introBody2": "Existuje cesta, která vám pomůže znovu získat svobodu. Prostřednictvím svých přesvědčení a chování se sami uzamykáme ve vězení, ve kterém žijeme — jsme zároveň otrokem i utlačovatelem. Cesta {brand} začíná první silou, se kterou je třeba se vypořádat, abyste znovu získali svobodu: vámi samými.",
+    "askAboutPath": "Zeptat se na cestu",
+    "masteryHeading": "Skutečné mistrovství nad sebou samým",
+    "masteryBody1a": "Slavné hermetické učení, Zákon korespondence, praví:",
+    "masteryBody1Quote": "„Jak uvnitř, tak vně. Jak vně, tak uvnitř. Jak nahoře, tak dole. Jak dole, tak nahoře.“",
+    "masteryBody1b": "Program {brand} vám pomáhá získat kontrolu nad vaším vnitřním světem a poté provést změny, které přinášejí výsledky ve vnějším světě.",
+    "masteryBody2a": "Po staletí byly tyto principy předmětem studia mistrovského mága, který se učí zaostřovat a disciplinovat svou vůli a směřovat ji k naplnění svých potřeb a přání. Cesta spojuje",
+    "masteryBody2Emphasis": "vůli, lásku a rozlišování",
+    "masteryBody2b": "— abyste mohli tvořit dobré věci a být zdrojem Světla pro sebe i pro ty kolem vás.",
+    "quote": {
+      "text": "Realita je to, co nemohou změnit vaše",
+      "emphasis": "myšlenky, pocity nebo názory",
+      "attribution": "Sovereign Ipsissimus Dave Lanyon",
+      "caption": "Královna ze Sáby před chrámem Šalomouna · S. de Bray, 1657"
+    },
+    "readyHeading": "Jste připraveni jednat?",
+    "readyBody": "Toto jsou kroky, které je třeba následovat, abyste trénovali po boku Ritual Masterů. Cesta je náročná a prochází se v pořadí — každý krok vás připravuje na další.",
+    "steps": [
+      { "label": "1 · Empower Thyself:", "text": "První iniciace — probuďte svou sílu a své božské poslání." },
+      { "label": "2 · Healers Academy:", "text": "Druhá iniciace — naučte se léčit a sloužit druhým." },
+      { "label": "3 · Přihlaste se a buďte přijati:", "text": "Přihlaste se a nechte se přijmout učitelem Ritual Master." },
+      { "label": "4 · Ritual Master Novice:", "text": "Zapište se do kurzu Ritual Master Novice v jednom z mezinárodních center Modern Mystery School." }
+    ],
+    "readyClosing": "Toto učení je nezbytné pro každého, kdo skutečně chce něco ve svém životě změnit a je odhodlán ke své proměně — kdo přebírá odpovědnost za svou vnitřní práci a jedná tak, aby vytvořil čistší, autentičtější a svobodnější verzi sebe sama.",
+    "bookingTitle": "Začněte své mistrovství",
+    "bookingNote": "Cesta Ritual Master začíná programy Empower Thyself a Healers Academy. Ozvěte se nám a pomůžeme vám naplánovat správný další krok.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o programu {brand}."
+  },
+  "HealingGrid": {
+    "inquire": "Zeptat se",
+    "inquiryTemplate": "Ahoj Radu, rád(a) bych se zeptal(a) na léčení {name}."
+  },
+  "Healings": {
+    "heroEyebrow": "V linii krále Šalomouna",
+    "heroTitle": "Léčebné modality",
+    "heroSubtitle": "Řada léčení pro tělo, mysl a duši",
+    "heroTagline": "Každé sezení je nabízeno individuálně — ozvěte se nám s dotazem na kterékoli z nich",
+    "introLead": "Živá tradice léčení",
+    "introBody": "Modern Mystery School nese jeden z nejstarších a nejúplnějších léčebných systémů na Zemi — shromážděný králem Šalomounem a udržovaný celistvý nepřerušenou linií. Níže naleznete škálu léčení dostupných v Praze. Nemusíte vědět, které je pro vás to pravé. Stačí prozkoumat a zeptat se na cokoli, co vás osloví — Radu vás odtud provede dál.",
+    "specialtyLead": "Pro hlubší, specializovanou práci tradice se podívejte na",
+    "specialtyLinkLabel": "speciální léčení {brand} →",
+    "inquiry": "Ahoj Radu, chtěl(a) bych se zeptat na léčebné modality.",
+    "ctaHeading": "Začněte své léčení",
+    "ctaBody": "Řekněte Radu trochu o tom, kde se právě nacházíte, a on vám pomůže vybrat léčení, které vám poslouží nejlépe.",
+    "groups": {
+      "activations": {
+        "title": "Základní aktivace",
+        "blurb": "Kde většina cest začíná — probuzení darů, které jsou ve vás již zakódovány.",
+        "items": [
+          { "tag": "Základ", "description": "Základní sezení linie — aktivuje 22 z 24 vláken DNA a váš božský plán." },
+          { "description": "Prohlubuje vaše spojení s duší a vyšším já nad rámec Life Activation." },
+          { "name": "Galaktická aktivace", "description": "Postupná aktivace galaktických a božských kódů ve vaší fyzické a duchovní DNA." },
+          { "name": "Čtení 11. kodonu", "description": "Aktivuje 11. a 12. duchovní a fyzické vlákno DNA nad rámec Life Activation." }
+        ]
+      },
+      "auraEnergy": {
+        "title": "Léčení aury a energie",
+        "blurb": "Čištění, oprava a ochrana vašeho energetického pole.",
+        "items": [
+          { "name": "{brand} — léčení aury", "description": "Čistí, vyvažuje a zapečeťuje sedm vrstev aury prostřednictvím geometrie světla." },
+          { "name": "Odstranění negativní energie", "description": "Odstraňuje energetické bloky a negativní vzorce z vašeho energetického systému." },
+          { "name": "Přeříznutí emočních pout", "description": "Odpojuje vysilující emoční pouta, abyste přestali ztrácet energii ve prospěch druhých." },
+          { "name": "Šamanské čištění aury", "description": "Šamanské techniky k odstranění blokád a těžkých energií z aurického pole." },
+          { "name": "Léčení paprskem Ensof", "description": "Nejjasnější, nejsilnější paprsek energie — přeskupuje tělo, duši a ducha v samém jádru." },
+          { "name": "Krystaloterapie", "description": "Starobylé techniky linie pracující s krystaly pro léčení, intuici a ochranu." }
+        ]
+      },
+      "readings": {
+        "title": "Čtení a vedení",
+        "blurb": "Vhled do vašeho poslání, vaší duše a vaší cesty.",
+        "items": [
+          { "name": "Čtení životního poslání", "description": "Čtení, které vám pomůže identifikovat a sladit se s vaším božským životním posláním." },
+          { "name": "Návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
+          { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." }
+        ]
+      },
+      "bodyWork": {
+        "title": "Tělo, meridiány a meditace",
+        "blurb": "Obnovení proudění, rovnováhy a klidu prostřednictvím těla a dechu.",
+        "items": [
+          { "name": "Systém Max Meditation™", "description": "Vedený systém spojující starobylou jógovou techniku s moderní metodou k uvolnění stresu a obnovení vitality." },
+          { "name": "Léčení laserovým světlem", "description": "Světelné frekvence a reflexologie aplikované podél meridiánových drah k obnovení proudění." },
+          { "name": "Vyvážení meridiánových drah", "description": "Vyvažuje proudění životní síly (čchi) podél meridiánových drah těla." },
+          { "name": "Probuzení stromu života", "description": "Probouzí vaše spojení se stromem života a rozšiřuje vědomí." },
+          { "name": "Probuzení čaker", "description": "Probouzí a harmonizuje sedm energetických center těla." }
+        ]
+      }
+    }
+  },
+  "SpecialtyHealings": {
+    "heroEyebrow": "Léčebná modalita krále Šalomouna",
+    "heroTitle": "Speciální léčení",
+    "heroSubtitle": "Hluboká léčení tříletisícileté linie",
+    "heroTagline": "Pro ty, kdo jsou připraveni jít za hranice základních sezení",
+    "introLead": "Co je léčebná modalita krále Šalomouna?",
+    "introBody1": "Před více než třemi tisíci lety shromáždil král Šalomoun největší léčitele, šamany, proroky a alchymisty světa a spojil jejich moudrost do jednoho živého léčebného systému. Tento systém — léčebná modalita krále Šalomouna — je od té doby uchováván a předáván z učitele na žáka v nepřerušené linii.",
+    "introBody2": "Toto nejsou základní sezení. Jsou to hlubší, specializovaná léčení tradice — přesná práce na éterickém, mentálním a aurickém těle pro ty, kdo jsou připraveni jít dál. Každé je nabízeno individuálně. Pokud vás některé z nich přitahuje, ozvěte se nám a najdeme pro vás ten správný výchozí bod.",
+    "kshmGroupTitle": "Sezení léčebných modalit krále Šalomouna",
+    "kshmGroupBlurb": "Základní léčení modality. Zvládnutí všech jejích větví vyžaduje mnoho let oddaného výcviku.",
+    "kshmSessions": [
+      { "name": "Léčení hvězdného semene", "description": "Znovu vás propojí s vaším kosmickým původem a hvězdnou linií." },
+      { "name": "Sjednocené léčení čaker", "description": "Propojuje sedm center do jednoho soudržného, sjednoceného pole." },
+      { "name": "KSHM — aurická oblast", "tag": "Speciální", "description": "Cílená práce krále Šalomouna v rámci aurického pole, čištění a obnova oblasti, která vás obklopuje a chrání." }
+    ],
+    "specialtyGroupTitle": "Speciální sezení",
+    "specialtyGroupBlurb": "Hlubší, specializovaná práce tradice — každé nabízeno individuálně.",
+    "specialtySessions": [
+      { "name": "Vlévání ohně duše", "description": "Znovu zapaluje vnitřní oheň duše a obnovuje vášeň, hnací sílu a životní energii tam, kde se cítíte vyčerpáni." },
+      { "name": "Vlévání jádra vůle", "description": "Posiluje vaše jádro vůle — vnitřní sídlo osobní síly, odhodlání a směřování." },
+      { "name": "Archanděl Michael — mezihvězdná trubice světla", "description": "Vzývá archanděla Michaela, aby vás obklopil sloupem ochranného světla, čistil a chránil vaše energetické pole." },
+      { "name": "Hermetické znovuvyvážení", "tag": "Speciální", "description": "Znovu sladí tělo, mysl a ducha prostřednictvím hermetických zákonů a obnovuje hlubokou vnitřní rovnováhu tam, kde vás život vychýlil." },
+      { "name": "Éterická rekonstrukce", "tag": "Speciální", "description": "Obnovuje a opravuje éterické tělo napříč jeho vrstvami a hojí energetické poškození držené po dlouhou dobu." },
+      { "name": "Éterická rekonstrukce nebeských kódů", "tag": "Speciální", "description": "Obnovuje éterickou strukturu prostřednictvím nebeských geometrických kódů — hlubší rekonstrukce jemného těla." },
+      { "name": "Vzývání soucitu", "description": "Otevírá srdce a vzývá božský soucit, aby zjemnil a zahojil emoční rány." },
+      { "name": "Přeladění prostoru", "description": "Znovu sladí a harmonizuje energii domova nebo prostoru a obnovuje posvátný řád a proudění." },
+      { "name": "Požehnání dítěte", "description": "Posvátné požehnání na uvítanou novorozence — vzývá ochranu, světlo a požehnaný začátek." },
+      { "name": "Čtení Chronos", "description": "Čtení, které pracuje s energiemi času a přináší jasnost ohledně vaší minulosti, přítomnosti a cesty vpřed." }
+    ],
+    "seeAllLead": "Hledáte základní sezení a celou škálu léčení?",
+    "seeAllLinkLabel": "Zobrazit všechny léčebné modality →",
+    "ctaHeading": "Nejste si jisti, které léčení potřebujete?",
+    "ctaBody": "Ozvěte se a Radu vás vyslechne a poté vás nasměruje k léčení, které vám nyní skutečně poslouží.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o speciálních léčeních."
+  },
+  "AuraHealing": {
+    "heroEyebrow": "Léčení mysterijní školy",
+    "heroTitle": "{brand} — léčení aury",
+    "heroSubtitle": "Obnovte a chraňte své energetické pole",
+    "heroTagline": "Vyčistěte, vyvažte a zapečeťte sedm vrstev aury",
+    "introLead": "Léčení, které působí prostřednictvím geometrie světla",
+    "introBody1": "Vaše aura je energetické pole, které vás obklopuje a chrání — a časem může být vyčerpáno, natrženo nebo zakaleno stresem, žalem a nároky každodenního života. {brand} — léčení aury využívá uspořádané vzory stvoření k opravě tohoto pole a obnovuje jeho sílu, jasnost a přirozenou ochranu.",
+    "introBody2": "Toto jemné sezení pracuje napříč sedmi vrstvami aury, uvolňuje to, co vám již neslouží, vyvažuje energie těla a mysli a znovu nastoluje čisté, celistvé a zářivé pole kolem vás.",
+    "bookSession": "Rezervovat sezení",
+    "benefitsHeading": "Přínosy",
+    "benefits": [
+      { "label": "Oprava a zapečetění:", "text": "Zahojí trhliny a vyplní mezery v auře, aby vaše energie přestala unikat." },
+      { "label": "Vyvážení sedmi vrstev:", "text": "Harmonizuje každou úroveň aurického pole pomocí geometrie světla." },
+      { "label": "Uvolnění a odlehčení:", "text": "Odstraňuje stagnující a cizí energie a zanechává vás klidnými a jasnými." },
+      { "label": "Ochrana a vitalita:", "text": "Znovu nastoluje silné, celistvé pole, které podporuje vaši pohodu den co den." }
+    ],
+    "bookingTitle": "Obnovte své světlo",
+    "duration": "Přibližně 1 hodina",
+    "bookingNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o {brand} — léčení aury."
+  },
+  "SacredGeometryPage": {
+    "heroEyebrow": "Workshop mysterijní školy",
+    "heroSubtitle": "Jazyk, jímž je psáno stvoření",
+    "heroTagline": "Naučte se pracovat se stavebními kameny vesmíru",
+    "introLead": "Skrytá architektura všech věcí",
+    "introBody1": "Od spirály lastury až po oběžné dráhy planet se stejné vzory opakují na každé úrovni existence. Posvátná geometrie je studiem těchto vzorů — forem, jejichž prostřednictvím duch nabývá tvaru v hmotě. Pro dávné zasvěcence to nebylo nic menšího než jazyk Božství.",
+    "introBody2": "V tomto workshopu se naučíte tyto formy rozpoznávat, vědomě s nimi pracovat a používat základní klíče posvátné geometrie k vytvoření čistého, chráněného a posvátného prostoru — ve svém domově, ve své praxi i v sobě samých.",
+    "reserveYourPlace": "Rezervovat si místo",
+    "learnHeading": "Co se naučíte",
+    "benefits": [
+      { "label": "Základní formy:", "text": "Základní tvary stvoření a kvality, které každý z nich nese." },
+      { "label": "Vytváření posvátného prostoru:", "text": "Použijte klíče posvátné geometrie k vyčištění, ochraně a posvěcení prostoru." },
+      { "label": "Geometrie jako nástroj:", "text": "Aplikujte tyto formy pro soustředění, meditaci, manifestaci a léčení." },
+      { "label": "Žít podle vzoru:", "text": "Uvidíte řád, který je základem každodenního života, a sladíte se s ním." }
+    ],
+    "bookingTitle": "Čtěte jazyk stvoření",
+    "duration": "Workshop",
+    "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu {brand}."
+  },
+  "AstralTravelPage": {
+    "heroEyebrow": "Workshop mysterijní školy",
+    "heroTitle": "Astrální cestování",
+    "heroSubtitle": "Umění a věda cestování mimo fyzické tělo",
+    "heroTagline": "Prozkoumejte vyšší roviny — bezpečně, vědomě a podle vlastní vůle",
+    "introLead": "Umění a věda, kterou mysterijní školy uchovávaly po tisíciletí",
+    "introBody1": "Jsme mnohem víc než naše fyzické tělo. V rámci učení Modern Mystery School je astrální cestování vědomou, záměrnou projekcí vědomí mimo fyzično — disciplína studovaná a zdokonalovaná po tisíce let. Zdaleka to není sen ani náhoda, ale dovednost, kterou lze naučit se, procvičovat a důvěřovat jí.",
+    "introBody2": "V tomto workshopu obdržíte klíče, jak bezpečně opustit tělo a s jasností se vrátit zpět — jak prozkoumat jemné roviny, setkat se se svými průvodci a získat na svůj život pohled, který samotné fyzické smysly nikdy nemohou poskytnout.",
+    "reserveYourPlace": "Rezervovat si místo",
+    "learnHeading": "Co se naučíte",
+    "benefits": [
+      { "label": "Mapa rovin:", "text": "Porozumějte struktuře jemných světů a tomu, kam vědomí cestuje." },
+      { "label": "Bezpečná projekce:", "text": "Osvědčené techniky, jak vědomě opustit tělo a vrátit se do něj, s ochranou na každém kroku." },
+      { "label": "Navigace a vedení:", "text": "Jak se pohybovat se záměrem, setkat se se svými průvodci a klást správné otázky." },
+      { "label": "Ukotvení a integrace:", "text": "Vraťte se jasně a přineste moudrost svých cest do každodenního života." }
+    ],
+    "bookingTitle": "Vykročte za hranice těla",
+    "duration": "Workshop",
+    "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího dostupného termínu v Praze.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu Astrální cestování."
+  },
+  "SpiritualIntuitionPage": {
+    "heroEyebrow": "Workshop mysterijní školy",
+    "heroTitle": "Duchovní intuice",
+    "heroSubtitle": "Za hranicemi pěti smyslů",
+    "heroTagline": "Probuďte vnímání, které jste vždy měli mít",
+    "introLead": "Vaše intuice není dar pro vyvolené — je to smysl pro každého",
+    "introBody1": "Jsme učeni důvěřovat jen tomu, co vidíme, slyšíme a čeho se dotýkáme. Přesto každý z nás nese v sobě tišší soubor smyslů — schopnost vnímat energii, vědět, aniž by nám to bylo řečeno, cítit pravdu o osobě nebo situaci. Tyto schopnosti jsou přirozené a stejně jako každý jiný smysl se s praxí posilují.",
+    "introBody2": "Prostřednictvím jednoduchých, praktických cvičení vám tento workshop pomáhá rozpoznat a rozvíjet vaše vlastní intuitivní a mimosmyslové vnímání — a stejně tak důležité je rozlišit intuici od hluku přemýšlející mysli.",
+    "reserveYourPlace": "Rezervovat si místo",
+    "learnHeading": "Co se naučíte",
+    "benefits": [
+      { "label": "Vnímání energie:", "text": "Praktická cvičení, jak cítit a číst jemnou energii kolem sebe." },
+      { "label": "Důvěra v signál:", "text": "Rozlišujte skutečnou intuici od strachu, projekce a mentálního šumu." },
+      { "label": "Posílení vnímání:", "text": "Rozvíjejte svůj vnitřní zrak, sluch a vědomí prostřednictvím každodenní praxe." },
+      { "label": "Uplatnění v životě:", "text": "Používejte svou intuici pro jasnější rozhodnutí, vztahy a směřování." }
+    ],
+    "bookingTitle": "Důvěřujte tomu, co už víte",
+    "duration": "Workshop",
+    "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu Duchovní intuice."
+  },
+  "SevenMysterySchoolsPage": {
+    "heroEyebrow": "Workshop mysterijní školy",
+    "heroTitle": "7 mysterijních škol",
+    "heroSubtitle": "Sedm velkých proudů starobylé moudrosti",
+    "heroTagline": "Pijte ze zdrojových tradic, které utvářely lidstvo",
+    "introLead": "Sedm tradic, jeden proud světla",
+    "introBody1": "Napříč dějinami byla posvátná moudrost lidstva uchovávána a předávána prostřednictvím sedmi velkých mysterijních tradic — každá zakořeněná v jiné kultuře a místě, přesto každá nesoucí aspekt téhož věčného světla. Společně tvoří linii, kterou dnes nese Modern Mystery School.",
+    "introBody2": "V tomto workshopu projdete všemi sedmi — poznáte jejich historii, jejich dary a jejich místo ve velkém řetězu moudrosti — a prostřednictvím meditace a obřadu se přímo spojíte s živou energií každé z nich.",
+    "reserveYourPlace": "Rezervovat si místo",
+    "quote": {
+      "text": "To, co hledáš,",
+      "emphasis": "hledá tebe",
+      "attribution": "Rúmí · 13. století",
+      "caption": "Prastarý dnů · W. Blake, 1794"
+    },
+    "gainHeading": "Co získáte",
+    "benefits": [
+      { "label": "Celá linie:", "text": "Pochopte sedm mysterijních tradic a to, jak jsou propojeny napříč časem." },
+      { "label": "Přímé spojení:", "text": "Setkejte se s energií každé tradice prostřednictvím vedené meditace a obřadu." },
+      { "label": "Vaše místo v řetězu:", "text": "Uvidíte, kam vaše vlastní cesta zapadá do tohoto rozsáhlého, živého proudu moudrosti." },
+      { "label": "Hlubší kontext:", "text": "Zakotvěte svou praxi v historii a kořenech práce, kterou vykonáváte." }
+    ],
+    "bookingTitle": "Projděte sedmi branami",
+    "duration": "Workshop",
+    "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu 7 mysterijních škol."
+  },
+  "StressManagementPage": {
+    "heroEyebrow": "Pro jednotlivce, týmy a organizace",
+    "heroTitle": "Záchrana před stresem",
+    "heroSubtitle": "Praktické nástroje, jak čelit tlaku s klidem",
+    "heroTagline": "Starobylá moudrost zjednodušená pro moderní život",
+    "introLead": "Stres není nepřítel — nepřítelem je ztráta nástrojů, jak si s ním poradit",
+    "introBody1": "Moderní život se pohybuje rychleji, než na jaký byly stavěny naše nervové soustavy. Záchrana před stresem je praktický, ukotvený program, který vám dává sadu spolehlivých nástrojů — čerpaných z učení mysterijní školy a přeložených do každodenního jazyka — abyste zklidnili mysl, uklidnili tělo a reagovali na tlak namísto pouhé impulzivní reakce.",
+    "introBody2": "Lze jej absolvovat individuálně nebo předat celému týmu. Pro vedoucí pracovníky a organizace je to jasný, praktický způsob, jak vnést do pracovního dne více soustředění, odolnosti a pohody.",
+    "enquireNow": "Zeptat se nyní",
+    "takeawayHeading": "Co si odnesete",
+    "benefits": [
+      { "label": "Nástroje fungující v danou chvíli:", "text": "Jednoduché techniky ke zklidnění těla a mysli, když tlak náhle vzroste." },
+      { "label": "Stabilnější výchozí stav:", "text": "Každodenní praktiky, které postupně snižují vaši celkovou míru stresu." },
+      { "label": "Jasnost a soustředění:", "text": "Přemýšlejte jasně a rozhodujte se dobře, i když je den náročný." },
+      { "label": "Pro týmy:", "text": "Sdílený jazyk a sdílené nástroje, které činí celou skupinu odolnější." }
+    ],
+    "bookingTitle": "Vraťte klid zpět do svého dne",
+    "bookingNote": "Dostupné pro jednotlivce, vedoucí týmy a organizace. Ozvěte se nám a probereme sezení nebo program pro váš tým.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Záchraně před stresem."
+  },
+  "CommunityPage": {
+    "eyebrow": "Komunita",
+    "heroHeading": "Kruh <emphasis>srdcí</emphasis> a sdílené proměny",
+    "heroBody": "Cesta iniciace v Praze je mnohem více než jen místo, kde navštěvujete kurzy. Je to živá, dýchající komunita oddaná probouzení, léčení a společnému kráčení po cestě s upřímností, radostí a odvahou.",
+    "beyondClassroomEyebrow": "Za hranicemi učebny",
+    "beyondClassroomHeading": "Prostor pro opravdový růst a spojení",
+    "beyondClassroomBody1": "Zde se hledači setkávají v nádobě důvěry, respektu a hluboké vnitřní práce. Nabízíme stálý přístav, kde se můžete spojit s podobně smýšlejícími lidmi, kterým skutečně záleží na <bold>ztělesnění jejich božské podstaty</bold>, urychlení osobního růstu a společném překonávání životních výzev.",
+    "beyondClassroomBody2": "Nemějte však obavy, není to jen samá vážnost! Věříme, že skutečná duchovní integrace přichází s lehkým srdcem. Sdílíme na cestě spoustu smíchu, radosti a upřímné zábavy.",
+    "tiesHeading": "Co nás spojuje",
+    "ties": [
+      "Podpůrná setkání a rozhovory bez odsuzování",
+      "Překonávání osobních výzev s podporou komunity",
+      "Společné oslavování radosti, magie a zábavy života",
+      "Ztělesňování naší božskosti prostřednictvím praktických každodenních činů",
+      "Vzrušení z toho, žít život naplno!"
+    ],
+    "carouselAlt": "Okamžik komunitního setkání {index}",
+    "prevSlide": "Předchozí snímek",
+    "nextSlide": "Další snímek",
+    "gatheringsEyebrow": "Naše setkání",
+    "gatheringsHeading1": "Pravidelné komunitní večery",
+    "gatheringsHeading2": "Otevřeno studentům, zasvěcencům i komukoli dalšímu, kdo má zájem.",
+    "freeOfCharge": "Zdarma",
+    "twoHours": "2 hodiny",
+    "prayerEvening": {
+      "title": "Modlitební večer",
+      "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o komunitním setkání Modlitební večer.",
+      "description": "Jemné večery modlitby, hluboké reflexe a kolektivního záměru, navržené k otevření srdce a posílení vnitřního souladu. Klidná oáza, kde znovu sladíte svou vibraci, odstoupíte od životního zmatku a zakotvíte své soustředění do své nejvyšší podstaty spolu se společníky, kteří sdílejí stejný posvátný záměr."
+    },
+    "meditationEvening": {
+      "title": "Meditační večer",
+      "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o komunitním setkání Meditační večer.",
+      "description": "Tiché prostory vytvořené pro hluboký klid, práci s dechem, vizualizaci a prohlubování uvědomění prostřednictvím vedených tradičních cest. Ideální pro restartování nervového systému, zkrocení mentální přeaktivity a spolehnutí se na kolektivní skupinovou energii k odemknutí hlubších meditativních stavů, než jakých lze dosáhnout samostatnou praxí."
+    },
+    "socializationEvening": {
+      "title": "Společenský večer",
+      "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o komunitním setkání Společenský večer.",
+      "description": "Vřelá, vysokovibrační a krásně uvolněná setkání, kde se přátelé, hledači a studenti scházejí v radostném společenství. Zde si dovolíme uvolnit se, smát se u čaje, sdílet příběhy o životních dobrodružstvích a budovat přátelství, která podporují naši lidskou zkušenost stejně jako naše duchovní cesty."
+    },
+    "international": {
+      "title": "Mezinárodní komunita mysterijní školy",
+      "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o příležitostech mezinárodní komunity mysterijní školy.",
+      "description": "Rozsáhlý celosvětový okruh praktiků, zasvěcenců a učitelů sdílejících starobylé linie, hodnoty a duchovní odkaz Modern Mystery School. Napojení zde odemyká mezinárodní akce, globální propojování s vědomými spřízněnými dušemi a sdílenou podpůrnou infrastrukturu pro systémovou proměnu.",
+      "scheduleLead": "Mezinárodní kalendář naleznete zde:",
+      "scheduleLinkLabel": "Kalendář - Modern Mystery School UK a Evropa"
+    },
+    "ctaEyebrow": "Začněte rozhovorem",
+    "ctaHeading": "Připojte se ke kruhu",
+    "ctaBody": "Pokud cítíte volání dozvědět se více o našich nadcházejících setkáních, zjistit přesné podrobnosti nebo prozkoumat, jak vám tato komunita může podpořit vaši osobní cestu, ozvěte se přímo Radu.",
+    "ctaButton": "Kontaktovat komunitu"
+  },
+  "TestimonialsPage": {
+    "heading": "Cesta proměny",
+    "maria": {
+      "name": "Maria - matka, generální ředitelka a léčitelka",
+      "role": "Praktička Life Activation, Praha, Česká republika",
+      "qa": [
+        {
+          "q": "Co vás přivedlo do Healers Academy?",
+          "a1": "Ocitla jsem se v okamžiku, kdy se můj život hodně měnil. Vybudovala jsem úspěšnou firmu za více než 20 let a vychovala krásnou rodinu. Ale děti se začaly osamostatňovat a já jsem cítila hluboké volání na mystický ostrov Samothráki, tušíc, že moje role generální ředitelky se blíží ke konci.",
+          "a2": "Na Samothráki jsem měla jasné vnitřní volání, že jsem vždy byla součástí mysterijních škol. Pak jsem našla příspěvek na Instagramu od Diany se slovy „Mysterijní škola v Praze“. Věděla jsem, že to musím prozkoumat, a zbytek je historie."
+        },
+        {
+          "q": "Jaké to teď je?",
+          "a1": "Velmi léčivé. Cítím se velmi lehká a v klidu. Energie zde je nádherná a lidé jsou nesmírně milí. Stala jsem se mnohem citlivější na energie a na to, co mě obklopuje.",
+          "italic": "true"
+        },
+        {
+          "q": "Co vás nejvíce překvapilo?",
+          "a1": "Iniciační obřad předčil mou představivost. Uvědomila jsem si, jak moc mi chybělo být součástí komunity. Cítila jsem se opravdu vítaná a mám pocit, že jsem skutečně našla komunitu, do které jsem nesmírně ráda patřím."
+        },
+        {
+          "q": "Vaše nejoblíbenější okamžiky?",
+          "a1": "Během léčení aury jsem cítila světlo — tančila jsem ve světle. Bylo to krásné a úžasné. A když jsem mohla poskytnout sezení, prostě jsem věděla, že jsem se k tomu narodila. Někdo mi řekl, že jsem naplněna milostí a krásou, což mi dodalo sílu dělat to ještě víc."
+        },
+        {
+          "q": "Jak se teď váš život změní?",
+          "a1": "Je to tajemství. Nevím. Ale to je na tom to krásné, ne? Mám pocit, že vkročit do neznáma pro mě bylo vždy velmi děsivé. Ale teď, když cítím, že jsem na cestě světla, se ta cesta sama odhalí. Bude to jako vkročit do světla a rozvine se most ze zlatého světla.",
+          "italic": "true"
+        }
+      ]
+    },
+    "ana": {
+      "name": "Ana - cesta znovuspojení",
+      "role": "Duchovní studentka a praktička",
+      "qa": [
+        {
+          "q": "V čem podle vás spočívají výhody duchovního průvodce v dnešním moderním světě?",
+          "a1": "První věc, kterou jsem pochopila, je, že mi Radu neříkal, co mám a co nemám dělat. Skutečně mi pomáhá slyšet mou vlastní pravdu, mou vlastní jasnost. To, co jsem obdržela, byla jasnost, emoční bezpečí a dovolení znovu si důvěřovat.",
+          "a2": "Věřím, že skutečným přínosem duchovního průvodce není směr, ale připomenutí toho, kým už jste ve svém každodenním životě."
+        },
+        {
+          "q": "Co byste řekla lidem hledajícím duchovního průvodce?",
+          "a1": "Stačí se prostě vrátit sama k sobě. Musíte jít hlouběji; musíte skutečně pochopit, kdo jste. Tato cesta byla pro mě úžasná. Byla těžká, ale našla jsem sama sebe; našla jsem lásku, kterou jsem potřebovala.",
+          "a2": "Každý prostě potřebuje jít a začít poznávat sám sebe — to je to nejdůležitější."
+        },
+        {
+          "q": "Rada pro ty, kdo teprve začínají?",
+          "a1": "Léčení nemusí být rychlé. Nemusíte spěchat, opravovat se nebo se stát někým jiným, abyste byli hodni. Ti, kdo teprve začínají, nepotřebují být „opraveni“ — potřebují jemnost.",
+          "a2": "Také jsem potřebovala slyšet, že moje citlivost není slabostí, ale ve skutečnosti mou největší předností. Nebyla jsem rozbitá; byla jsem jen odpojená sama od sebe. Teď, když jsem propojená, jsem začala vidět sílu, pevnost a lásku."
+        },
+        {
+          "q": "Jak vám pomohly nástroje a praktiky?",
+          "a1": "Práce s tělem, s měsíčními cykly, s rituály, s meditací — je to tak důležité. Není to snadné, je to opravdu těžké, ale když si to vezmete k srdci a pracujete sami se sebou, pochopíte to.",
+          "a2": "Jsem tak vděčná, že jsem mohla cítit bezpečí být taková, jaká jsem, kým jsem. Díky tomu jsem si mohla znovu důvěřovat a vzpomenout si, kdo jsem."
+        }
+      ]
+    },
+    "moreJourneys": "Další cesty studentů"
+  },
+  "CertificationsPage": {
+    "heading": "Certifikace",
+    "subheading": "Radu je tu, aby vás podpořil ve vytváření života, pro který stojí za to se probouzet",
+    "everyMorning": "Každé ráno",
+    "introLead": "Certifikace pro kurzy, iniciace a léčebná sezení, které Radu nabízí, pocházejí z <mms>Modern Mystery School International</mms>.",
+    "introBody": "Prošel řadou iniciací a výcviků, aby se připravil a byl schopen udržet energii potřebnou k tomu, aby se u jeho studentů mohla uskutečnit proměna.",
+    "certifiedAlt": "Certifikováno Modern Mystery School",
+    "qualificationsHeading": "Raduho kvalifikace",
+    "qualifications": [
+      "Radu je certifikovaný <bold>průvodce</bold> a <bold>učitel</bold> v linii Modern Mystery School.",
+      "Radu je také certifikován jako <bold>praktik a léčitel Life Activation</bold>, s každoroční recertifikací.",
+      "Radu dokončil všechny tři úrovně <bold>léčení paprskem Ensof</bold>, se specializací na destruktivní myšlenkové vzorce, škodlivé návyky a závislosti."
+    ],
+    "galleryHeading": "Diplomy a certifikáty"
+  },
+  "LineagePage": {
+    "metaTitle": "Linie krále Šalomouna | Cesta iniciace Praha",
+    "metaDescription": "Více než 3000 let nepřerušené písemné linie. Objevte Modern Mystery School, linii krále Šalomouna a tři nositele linie Třetího řádu — Gudniho Gudnasona, Hideta Nakagomeho a Davea Lanyona.",
+    "heroEyebrow": "Modern Mystery School",
+    "heroHeading": "Linie <emphasis>krále Šalomouna</emphasis>",
+    "heroBody": "Více než 3000 let písemné historie. Nepřerušený řetěz od učitele k žákovi, potvrzený posvátným procesem iniciace — uchovávající klíče ke skutečné duchovní síle od počátku věků.",
+    "whatIsLineageEyebrow": "Co je linie?",
+    "whatIsLineageHeading": "Měřítko autentické mysterijní školy",
+    "whatIsLineageBody1": "Linie je klíčovým a důležitým faktorem při určování legitimity, integrity a autority, kterou drží autentická mysterijní škola. Podle definice linie znamená přímé pokolení od předka — původ, rodokmen.",
+    "whatIsLineageBody2": "<mms>Modern Mystery School</mms> po celou dobu udržuje starobylou tradici předávání poznání od učitele k žákovi, potvrzenou posvátným procesem iniciace. Tento přímý přenos informací zachoval ctnost a čest mysterijní školní tradice, která od počátku věků drží tajemství Boha, vesmíru a klíče ke skutečné duchovní síle.",
+    "whatIsLineageBody3": "Tato moudrost a síla je dostupná všem, kdo ji skutečně hledají a jsou ochotni ctít její posvátnou povahu tím, že kráčejí po Cestě iniciace.",
+    "quote": {
+      "text": "Jak nahoře,",
+      "emphasis": "tak dole",
+      "attribution": "Hermes Trismegistos",
+      "caption": "Hermes Trismegistos · Podlaha katedrály v Sieně, kolem 1488"
+    },
+    "ksLineageEyebrow": "Více než 3000 let",
+    "ksLineageHeading": "Linie krále Šalomouna",
+    "ksLineageBody1": "Linie <mms>Modern Mystery School</mms> sahá až do doby krále Šalomouna, a nese tak více než 3000 let písemné historie a linie. Zatímco tradice mysterijní školy je mnohem starší, linii MMS a její učení lze ověřit a vysledovat přímo k učení samotného krále Šalomouna.",
+    "ksLineageBody2": "Ústní tradice sahá více než 8000 let zpět, do doby Herma — Herma Trismegista. Iniciace, spolu s touto nepřerušenou linií, opravňuje Adepta zapojit se do Velkého díla: vytváření lepšího světa a žití v souladu se svým skutečným potenciálem a životním posláním.",
+    "ksLineageBody3": "Všichni velcí mistři kráčeli po Cestě iniciace v tradici mysterijní školy — právě po té cestě, která je dovedla k naplnění jejich slibu Bohu zde na zemi.",
+    "thirdOrderEyebrow": "Třetí řád",
+    "thirdOrderHeading": "Tři nositelé linie",
+    "thirdOrderBody": "Všechny linie mají hlavní nositele klíčů — jednotlivce, kteří drží a ukotvují linii na planetě, s pravomocí udržovat dveře mysterijní školy otevřené těm, kdo hledají Světlo. V této linii se nazývají Třetím řádem a společně udržují čistotu linie a jejího učení.",
+    "thirdOrderClosing": "Dnes nesou tito tři nositelé linie velkou odpovědnost za udržování čistoty učení — spolupracují s Radou dvanácti žen a širším vedením a spravují linii krále Šalomouna do moderní doby.",
+    "holders": [
+      {
+        "title": "Sovereign Ipsissimus a Hierofant",
+        "role": "Zakladatel Modern Mystery School",
+        "bio": "Narozen na Islandu a vychován ponořen do mystérií, Gudni hodně cestoval, aby přijal učení a iniciace napříč nesčetnými tradicemi. Jeho učitelská kariéra trvá přes čtyřicet let — Kabala, alchymie, metafyzika, kvantová fyzika a mnohem více. Jako mistr metaforické výuky předává esoterické principy prostřednictvím analogií, alegorií a podobenství. V roce 1997 přinesl Modern Mystery School veřejně světu."
+      },
+      {
+        "title": "Sovereign Ipsissimus",
+        "role": "Člen Třetího řádu",
+        "bio": "Nositel linie a správce Třetího řádu, ukotvující linii a její učení na Východě. Spolu se svými bratry z Třetího řádu chrání čistotu tradice a udržuje dveře mysterijní školy otevřené těm, kdo hledají Světlo."
+      },
+      {
+        "title": "Sovereign Ipsissimus",
+        "role": "Člen Třetího řádu",
+        "bio": "Nositel linie a správce Třetího řádu. Ve spojení se svými spoludržiteli klíčů spravuje a pečuje o udržování linie a zajišťuje, aby bylo učení předáváno s integritou od učitele k žákovi prostřednictvím posvátného procesu iniciace."
+      }
+    ],
+    "councilEyebrow": "Ti, kdo vedou",
+    "councilHeading": "Rada Ipsissimi, Rada 12 a vedení",
+    "councilBody": "Vedle Třetího řádu je linie držena a vedena Řídící Ipsissimou a Ipsissimem, Radou dvanácti žen a širším vedením Modern Mystery School — oddanými učiteli, kteří spravují tradici a slouží škole po celém světě.",
+    "governingLink": "Řídící Ipsissima a Ipsissimus",
+    "leadershipLink": "Tým vedení",
+    "otherResourcesEyebrow": "Další zdroje ke čtení",
+    "resourceLineage": "Linie",
+    "resourceCoreValues": "Základní hodnoty a přesvědčení",
+    "resourceCulture": "Kultura světla",
+    "ctaHeading": "Kráčejte po cestě",
+    "ctaBody": "Být součástí linie Modern Mystery School znamená být součástí rodiny — celosvětového kmene oddaného posílení a zlepšení lidstva. Dveře jsou otevřené těm, kdo cítí volání.",
+    "ctaButton": "Začněte svou cestu"
+  },
+  "BlogPage": {
+    "metaTitle": "Blog | Cesta iniciace Praha",
+    "metaDescription": "Články o králi Šalomounovi, magii, alchymii, spagyrii a živé linii Modern Mystery School — psané tak, aby informovaly, povznášely a přinášely naději.",
+    "ogDescription": "Články o králi Šalomounovi, magii, alchymii, spagyrii a živé linii Modern Mystery School.",
+    "previewBanner": "Náhledový režim — zobrazují se všechny příspěvky, včetně těch, které ještě nejsou naplánované a které jste neoznačili jako připravené. Návštěvníci vidí pouze příspěvky, které jsou vydané a schválené.",
+    "eyebrow": "Moudrost pro cestu",
+    "heading": "Blog",
+    "intro": "Úvahy o linii, praktické magii a alchymistické tradici — psané s cílem informovat a přinášet naději. Nové články vycházejí pravidelně; vracejte se často.",
+    "empty": "První článek se připravuje. Zkuste to prosím brzy znovu.",
+    "scheduled": "Naplánováno",
+    "needsReview": "Vyžaduje kontrolu"
+  },
+  "BlogPostPage": {
+    "allArticles": "Všechny články",
+    "continueReading": "Pokračovat ve čtení",
+    "ctaHeading": "Vykročte na cestu sami",
+    "ctaBody": "Každý článek na tomto blogu je krokem do živé tradice. Pokud vás osloví, Radu vás rád osobně provede správným dalším krokem, přímo zde v Praze.",
+    "ctaButton": "Začněte svou cestu",
+    "bannerScheduledAndNotReady": "Náhledový režim — tento příspěvek je naplánován na {date} a nebyl označen jako připravený ke zveřejnění. Aby ho skuteční návštěvníci mohli vidět, musí být splněny obě podmínky.",
+    "bannerScheduled": "Náhledový režim — tento příspěvek je naplánován na {date} a zatím není viditelný pro skutečné návštěvníky.",
+    "bannerNotReady": "Náhledový režim — datum vydání tohoto příspěvku již nastalo, ale ještě nebyl označen jako připravený ke zveřejnění, takže ho skuteční návštěvníci neuvidí."
+  },
+  "Chat": {
+    "assistantName": "Průvodce",
+    "headerSubtitle": "Zeptejte se na kurzy, léčení a linii",
+    "greeting": "Vítejte. Jsem váš přátelský AI asistent, tady, abych vám pomohl prozkoumat Cestu iniciace v Praze — aktivace, léčení, kurzy a linii, která za nimi stojí. Co byste rádi věděli?",
+    "askAQuestion": "Zeptejte se",
+    "launcherAriaLabel": "Zeptat se asistenta Cesty iniciace",
+    "dialogAriaLabel": "Asistent Cesty iniciace",
+    "closeChatAriaLabel": "Zavřít chat",
+    "inputPlaceholder": "Napište svou otázku…",
+    "sendAriaLabel": "Odeslat",
+    "errorFallback": "**Je mi líto** — momentálně nemám přístup ke svým znalostem. Radu vám rád pomůže osobně na WhatsApp.",
+    "messageRaduWhatsapp": "Napsat Radu na WhatsApp",
+    "talkToRaduWhatsapp": "Promluvit si s Radu na WhatsApp"
+  },
+  "CalendarPage": {
+    "eyebrow": "Cesta před vámi",
+    "heading": "Kalendář kurzů",
+    "gatheringsCount": "{count} setkání · Příštích 6 měsíců",
+    "intro": "Každá aktivace, iniciace, workshop a komunitní setkání pořádané v Praze a na dalších mezinárodních místech v nadcházející sezóně. Kráčejte po cestě krok za krokem.",
+    "empty": "Nové termíny se právě plánují. Zkuste to prosím brzy znovu.",
+    "classCount": "{count, plural, one {# kurz} few {# kurzy} other {# kurzů}}",
+    "categories": {
+      "Activation": "Aktivace",
+      "Initiation": "Iniciace",
+      "Workshop": "Workshop",
+      "Community": "Komunita"
+    },
+    "notSure": "Nevíte, kde začít? Ozvěte se a Radu vás osobně provede.",
+    "askButton": "Zeptat se na kurz"
+  },
+  "HomeQuotes": {
+    "quote1": {
+      "text": "Poznej sám sebe, a poznáš",
+      "emphasis": "vesmír i bohy",
+      "attribution": "Vyryto na chrámu v Delfách",
+      "caption": "Nanebevstoupení blažených · H. Bosch, kolem 1505"
+    },
+    "quote2": {
+      "text": "To, co hledáš,",
+      "emphasis": "hledá tebe",
+      "attribution": "Rúmí · 13. století",
+      "caption": "Královna ze Sáby před chrámem Šalomouna · S. de Bray, 1657"
+    }
+  }
+}

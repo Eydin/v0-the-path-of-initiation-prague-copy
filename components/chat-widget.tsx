@@ -5,9 +5,10 @@
 // and hands off to Radu on WhatsApp when it can't help.
 
 import { useEffect, useRef, useState } from "react"
+import { useLocale, useTranslations } from "next-intl"
 import { Sparkles, X, Send, ArrowUpRight } from "lucide-react"
 import ReactMarkdown from "react-markdown"
-import { ASSISTANT_NAME, GREETING, WHATSAPP_HANDOFF } from "@/lib/chatbot/config"
+import { WHATSAPP_HANDOFF } from "@/lib/chatbot/config"
 
 type Msg = { role: "user" | "assistant"; content: string }
 
@@ -18,6 +19,7 @@ const WA_SVG = (
 )
 
 function WhatsAppHandoff({ prominent = false }: { prominent?: boolean }) {
+  const t = useTranslations("Chat")
   return (
     <a
       href={WHATSAPP_HANDOFF}
@@ -30,13 +32,15 @@ function WhatsAppHandoff({ prominent = false }: { prominent?: boolean }) {
       }
     >
       {WA_SVG}
-      {prominent ? "Message Radu on WhatsApp" : "Talk to Radu on WhatsApp"}
+      {prominent ? t("messageRaduWhatsapp") : t("talkToRaduWhatsapp")}
       {prominent && <ArrowUpRight className="h-3.5 w-3.5" />}
     </a>
   )
 }
 
 export function ChatWidget() {
+  const locale = useLocale()
+  const t = useTranslations("Chat")
   const [open, setOpen] = useState(false)
   const [messages, setMessages] = useState<Msg[]>([])
   const [input, setInput] = useState("")
@@ -95,7 +99,7 @@ export function ChatWidget() {
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ messages: history, sessionId: sessionIdRef.current }),
+        body: JSON.stringify({ messages: history, sessionId: sessionIdRef.current, locale }),
       })
 
       if (!res.ok) {
@@ -123,7 +127,7 @@ export function ChatWidget() {
           return next
         })
       }
-      
+
       acc += decoder.decode() // Flush any remaining buffered bytes
 
       if (!acc.trim()) {
@@ -139,8 +143,7 @@ export function ChatWidget() {
         const next = [...prev]
         next[next.length - 1] = {
           role: "assistant",
-          content:
-            "**I'm sorry** — I can't reach my knowledge right now. Radu would be glad to help you personally on WhatsApp.",
+          content: t("errorFallback"),
         }
         return next
       })
@@ -162,12 +165,12 @@ export function ChatWidget() {
       {!open && (
         <button
           onClick={() => setOpen(true)}
-          aria-label="Ask the Path of Initiation assistant"
+          aria-label={t("launcherAriaLabel")}
           className="group chat-launcher-nudge fixed bottom-6 right-6 z-[60] flex items-center"
           style={{ bottom: "calc(1.5rem + env(safe-area-inset-bottom, 0px))" }}
         >
           <span className="pointer-events-none mr-3 hidden translate-x-2 whitespace-nowrap rounded-full border border-primary/30 bg-background/90 px-4 py-2 font-serif text-sm tracking-wide text-foreground opacity-0 shadow-lg backdrop-blur-sm transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100 sm:inline-block">
-            Ask a question
+            {t("askAQuestion")}
           </span>
           <span className="chat-launcher-glow relative flex h-14 w-14 items-center justify-center rounded-full bg-primary text-primary-foreground ring-2 ring-primary/40 transition-transform duration-300 group-hover:scale-110">
             <Sparkles className="h-6 w-6" />
@@ -179,7 +182,7 @@ export function ChatWidget() {
       {open && (
         <div
           role="dialog"
-          aria-label="Path of Initiation assistant"
+          aria-label={t("dialogAriaLabel")}
           className="fixed inset-x-0 bottom-0 z-[60] flex h-[85dvh] flex-col border-t border-primary/30 bg-background shadow-2xl sm:inset-x-auto sm:bottom-6 sm:right-6 sm:h-[34rem] sm:w-[24rem] sm:rounded-2xl sm:border"
           style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}
         >
@@ -190,13 +193,13 @@ export function ChatWidget() {
                 <Sparkles className="h-4.5 w-4.5" />
               </span>
               <div className="leading-tight">
-                <p className="font-serif text-sm tracking-wide text-primary">Path of Initiation · {ASSISTANT_NAME}</p>
-                <p className="text-[11px] text-muted-foreground">Ask about classes, healings & the lineage</p>
+                <p className="font-serif text-sm tracking-wide text-primary">Path of Initiation · {t("assistantName")}</p>
+                <p className="text-[11px] text-muted-foreground">{t("headerSubtitle")}</p>
               </div>
             </div>
             <button
               onClick={() => setOpen(false)}
-              aria-label="Close chat"
+              aria-label={t("closeChatAriaLabel")}
               className="flex h-8 w-8 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-primary/10 hover:text-primary"
             >
               <X className="h-5 w-5" />
@@ -208,7 +211,7 @@ export function ChatWidget() {
             {/* Greeting */}
             <div className="flex">
               <div className="max-w-[85%] rounded-2xl rounded-tl-sm border border-primary/15 bg-muted/50 px-3.5 py-2.5 text-sm leading-relaxed text-foreground">
-                {GREETING}
+                {t("greeting")}
               </div>
             </div>
 
@@ -278,13 +281,13 @@ export function ChatWidget() {
                 onChange={(e) => setInput(e.target.value)}
                 onKeyDown={onKeyDown}
                 rows={1}
-                placeholder="Type your question…"
+                placeholder={t("inputPlaceholder")}
                 className="max-h-28 min-h-[44px] flex-1 resize-none rounded-xl border border-primary/20 bg-background px-3.5 py-3 text-base leading-snug text-foreground outline-none placeholder:text-muted-foreground/70 focus:border-primary/50"
               />
               <button
                 onClick={send}
                 disabled={streaming || !input.trim()}
-                aria-label="Send"
+                aria-label={t("sendAriaLabel")}
                 className="flex h-[44px] w-[44px] flex-shrink-0 items-center justify-center rounded-xl bg-primary text-primary-foreground transition-opacity hover:opacity-90 disabled:cursor-not-allowed disabled:opacity-40"
               >
                 <Send className="h-5 w-5" />

@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
-import Link from "next/link"
+import { getTranslations } from "next-intl/server"
+import { Link } from "@/i18n/navigation"
 import { ArrowUpRight } from "lucide-react"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
@@ -9,29 +10,36 @@ import { getPublishedPosts, formatPostDate, isPreviewMode, isReleased } from "@/
 
 export const dynamic = "force-dynamic"
 
-export const metadata: Metadata = {
-  title: "Blog | The Path of Initiation Prague",
-  description:
-    "Articles on King Salomon, Magick, Alchemy, Spagyrics and the living Modern Mystery School lineage — written to inform, uplift and bring hope.",
-  keywords: [
-    "Modern Mystery School blog",
-    "King Salomon",
-    "Magick",
-    "Alchemy",
-    "Spagyrics",
-    "spiritual initiation Prague",
-    "Lineage of King Salomon",
-  ],
-  openGraph: {
-    title: "Blog | The Path of Initiation Prague",
-    description:
-      "Articles on King Salomon, Magick, Alchemy, Spagyrics and the living Modern Mystery School lineage.",
-    url: "https://www.thepathofinitiationprague.com/blog",
-    type: "website",
-  },
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "BlogPage" })
+  return {
+    title: t("metaTitle"),
+    description: t("metaDescription"),
+    keywords: [
+      "Modern Mystery School blog",
+      "King Salomon",
+      "Magick",
+      "Alchemy",
+      "Spagyrics",
+      "spiritual initiation Prague",
+      "Lineage of King Salomon",
+    ],
+    openGraph: {
+      title: t("metaTitle"),
+      description: t("ogDescription"),
+      url: "https://www.thepathofinitiationprague.com/blog",
+      type: "website",
+    },
+  }
 }
 
-export default function BlogIndexPage() {
+export default async function BlogIndexPage() {
+  const t = await getTranslations("BlogPage")
   const posts = getPublishedPosts()
   const preview = isPreviewMode()
 
@@ -40,9 +48,7 @@ export default function BlogIndexPage() {
       <Header />
       {preview && (
         <div className="fixed top-20 left-0 right-0 z-40 bg-amber-500 px-4 py-2 text-center text-sm font-semibold text-black">
-          Preview Mode — showing all posts, including those not yet scheduled and those you
-          haven't marked ready. Visitors only ever see posts that are both released and
-          approved.
+          {t("previewBanner")}
         </div>
       )}
       <main className={`relative min-h-screen bg-[url('/images/art/starry-rhone-gogh.jpg')] bg-cover bg-fixed bg-center pt-20 ${preview ? "mt-9" : ""}`}>
@@ -55,10 +61,10 @@ export default function BlogIndexPage() {
               <ScrollReveal>
                 <div className="mx-auto max-w-3xl text-center">
                   <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
-                    Wisdom For The Path
+                    {t("eyebrow")}
                   </p>
                   <h1 className="mb-6 font-serif text-4xl tracking-wide text-foreground md:text-5xl lg:text-6xl">
-                    The Blog
+                    {t("heading")}
                   </h1>
                   <div className="mx-auto mb-6 flex items-center justify-center gap-4">
                     <span className="h-px w-10 bg-primary/50" />
@@ -68,9 +74,7 @@ export default function BlogIndexPage() {
                     <span className="h-px w-10 bg-primary/50" />
                   </div>
                   <p className="text-lg leading-relaxed text-muted-foreground">
-                    Reflections on lineage, practical magick and the alchemical tradition — written
-                    to inform and to bring hope. New articles are released regularly; check back
-                    often.
+                    {t("intro")}
                   </p>
                 </div>
               </ScrollReveal>
@@ -83,7 +87,7 @@ export default function BlogIndexPage() {
               {posts.length === 0 && (
                 <ScrollReveal>
                   <p className="text-center text-lg text-muted-foreground">
-                    The first article is being prepared. Please check back soon.
+                    {t("empty")}
                   </p>
                 </ScrollReveal>
               )}
@@ -120,12 +124,12 @@ export default function BlogIndexPage() {
                             {formatPostDate(post.releaseDate)}
                             {!isReleased(post) && post.readyToPost && (
                               <span className="rounded-full border border-amber-500/60 px-2 py-0.5 text-[0.6rem] tracking-wider text-amber-400">
-                                Scheduled
+                                {t("scheduled")}
                               </span>
                             )}
                             {!post.readyToPost && (
                               <span className="rounded-full border border-red-500/60 px-2 py-0.5 text-[0.6rem] tracking-wider text-red-400">
-                                Needs Review
+                                {t("needsReview")}
                               </span>
                             )}
                           </span>

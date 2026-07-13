@@ -1,52 +1,52 @@
 "use client"
 
+import { useTranslations } from "next-intl"
 import { ScrollReveal } from "./scroll-reveal"
+import { Link } from "@/i18n/navigation"
+import { BRAND } from "@/lib/brand-names"
 import { Calendar, ArrowRight } from "lucide-react"
 
-const classes = [
-  {
-    title: "Life Activation",
-    description:
-      "Awaken your divine blueprint and ignite the full potential encoded within your DNA. This is the foundational session of the mystery school lineage.",
-    tag: "Foundation",
-    link: "/life-activation",
-    image: "/images/life-activation-bg.jpg"
-  },
-  {
-    title: "Empower Thyself",
-    description:
-      "A 2-day initiation program where you receive the sacred tools and teachings to take command of your life and step onto the path as an Initiate.",
-    tag: "Initiation",
-    link: "/empower-thyself",
-    image: "/images/empower-thyself-bg.jpg"
-  },
-  {
-    title: "View Full Calendar",
-    description:
-      "Study the divine patterns that underpin all of creation, how to astral travel, communicate with your higher self and more.",
-    tag: "Advanced Study",
-    link: "/calendar",
-    linkLabel: "View Full Calendar",
-    image: "/images/art/starry-rhone-gogh.jpg"
-  },
-]
-
 export function ClassesSection() {
+  const t = useTranslations("Classes")
+
+  const classes = [
+    {
+      title: BRAND.lifeActivation,
+      description: t("items.0.description"),
+      tag: t("items.0.tag"),
+      link: "/life-activation",
+      image: "/images/life-activation-bg.jpg",
+    },
+    {
+      title: BRAND.empowerThyself,
+      description: t("items.1.description"),
+      tag: t("items.1.tag"),
+      link: "/empower-thyself",
+      image: "/images/empower-thyself-bg.jpg",
+    },
+    {
+      title: t("items.2.title"),
+      description: t("items.2.description"),
+      tag: t("items.2.tag"),
+      link: "/calendar",
+      linkLabel: t("items.2.title"),
+      image: "/images/art/starry-rhone-gogh.jpg",
+    },
+  ]
+
   return (
     <section id="classes" className="py-24 lg:py-32">
       <div className="mx-auto max-w-7xl px-6">
         <ScrollReveal>
           <div className="mb-16 text-center">
             <p className="mb-3 font-serif text-sm tracking-[0.3em] text-primary uppercase">
-              Upcoming Events
+              {t("eyebrow")}
             </p>
             <h2 className="mb-4 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-              Upcoming Classes in Prague
+              {t("heading")}
             </h2>
             <p className="mx-auto max-w-xl text-muted-foreground leading-relaxed">
-              Each class is a stepping stone on the path of initiation. Begin
-              with the Life Activation and progress through the sacred
-              curriculum.
+              {t("intro")}
             </p>
           </div>
         </ScrollReveal>
@@ -54,7 +54,7 @@ export function ClassesSection() {
         <div className="grid gap-6 md:grid-cols-3">
           {classes.map((cls, i) => (
             <ScrollReveal key={cls.title} delay={i * 0.12}>
-              <a
+              <Link
                 href={cls.link}
                 className="group relative flex h-full flex-col overflow-hidden border border-border p-8 transition-colors hover:border-primary/40"
               >
@@ -78,10 +78,10 @@ export function ClassesSection() {
                   {cls.description}
                 </p>
                 <span className="inline-flex items-center gap-2 text-sm tracking-wide text-primary transition-colors group-hover:text-gold-light">
-                  {cls.linkLabel ?? "Learn More"}
+                  {cls.linkLabel ?? t("learnMore")}
                   <ArrowRight className="h-3 w-3" />
                 </span>
-              </a>
+              </Link>
             </ScrollReveal>
           ))}
         </div>

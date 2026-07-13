@@ -1,59 +1,102 @@
 import type { Metadata } from 'next'
+import { notFound } from 'next/navigation'
+import { hasLocale, NextIntlClientProvider } from 'next-intl'
+import { getMessages, setRequestLocale } from 'next-intl/server'
 import { Inter, Playfair_Display } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import { ChatWidget } from '@/components/chat-widget'
-import './globals.css'
+import { routing } from '@/i18n/routing'
+import '../globals.css'
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfair" });
 
-export const metadata: Metadata = {
-  title: 'The Path of Initiation Prague | Radu Coman',
-  description: 'A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker. Begin your journey of transformation in Prague with Guide Radu Coman.',
-  generator: 'v0.app',
-  metadataBase: new URL('https://www.thepathofinitiationprague.com'),
-  openGraph: {
-    title: 'The Path of Initiation Prague | Radu Coman',
-    description: 'Begin your journey of spiritual transformation, life activation, and ancient mystery school lineage teachings locally in Prague.',
-    url: 'https://www.thepathofinitiationprague.com',
-    siteName: 'The Path of Initiation Prague',
-    images: [
-      {
-        url: '/images/radu-coman-square.jpg', // High-quality featured image
-        width: 1080,
-        height: 1080,
-        alt: 'Radu Coman - Guide and Teacher of the Path of Initiation',
-      },
-    ],
-    locale: 'en_US',
-    type: 'website',
-  },
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
+const SITE = "https://www.thepathofinitiationprague.com"
+
+const OPEN_GRAPH_LOCALE: Record<string, string> = {
+  en: "en_US",
+  cs: "cs_CZ",
+  de: "de_DE",
+  ro: "ro_RO",
 }
 
-export default function RootLayout({
+const JSON_LD_LANGUAGE: Record<string, string> = {
+  en: "en",
+  cs: "cs",
+  de: "de",
+  ro: "ro",
+}
+
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }))
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+
+  return {
+    title: 'The Path of Initiation Prague | Radu Coman',
+    description: 'A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker. Begin your journey of transformation in Prague with Guide Radu Coman.',
+    generator: 'v0.app',
+    metadataBase: new URL(SITE),
+    alternates: {
+      languages: Object.fromEntries(
+        routing.locales.map((l) => [l, l === routing.defaultLocale ? "/" : `/${l}`]),
+      ),
+    },
+    openGraph: {
+      title: 'The Path of Initiation Prague | Radu Coman',
+      description: 'Begin your journey of spiritual transformation, life activation, and ancient mystery school lineage teachings locally in Prague.',
+      url: SITE,
+      siteName: 'The Path of Initiation Prague',
+      images: [
+        {
+          url: '/images/radu-coman-square.jpg', // High-quality featured image
+          width: 1080,
+          height: 1080,
+          alt: 'Radu Coman - Guide and Teacher of the Path of Initiation',
+        },
+      ],
+      locale: OPEN_GRAPH_LOCALE[locale] ?? OPEN_GRAPH_LOCALE[routing.defaultLocale],
+      type: 'website',
+    },
+    icons: {
+      icon: [
+        {
+          url: '/icon-light-32x32.png',
+          media: '(prefers-color-scheme: light)',
+        },
+        {
+          url: '/icon-dark-32x32.png',
+          media: '(prefers-color-scheme: dark)',
+        },
+        {
+          url: '/icon.svg',
+          type: 'image/svg+xml',
+        },
+      ],
+      apple: '/apple-icon.png',
+    },
+  }
+}
+
+export default async function LocaleLayout({
   children,
+  params,
 }: Readonly<{
   children: React.ReactNode
+  params: Promise<{ locale: string }>
 }>) {
-
-  const SITE = "https://www.thepathofinitiationprague.com"
+  const { locale } = await params
+  if (!hasLocale(routing.locales, locale)) {
+    notFound()
+  }
+  setRequestLocale(locale)
+  const messages = await getMessages()
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -64,7 +107,7 @@ export default function RootLayout({
         "url": SITE,
         "name": "The Path of Initiation Prague",
         "description": "A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker — with Guide Radu Coman in Prague.",
-        "inLanguage": "en",
+        "inLanguage": JSON_LD_LANGUAGE[locale] ?? JSON_LD_LANGUAGE[routing.defaultLocale],
         "publisher": { "@id": `${SITE}/#organization` },
         "about": { "@id": `${SITE}/#organization` }
       },
@@ -110,7 +153,7 @@ export default function RootLayout({
           "addressCountry": "CZ"
         },
         "areaServed": ["Prague", "Czech Republic", "Europe"],
-        "availableLanguage": ["English"],
+        "availableLanguage": ["English", "Czech", "German", "Romanian"],
         "priceRange": "$$",
         "telephone": "+420 792 908 296",
         "email": "info@thepathofinitiationprague.com",
@@ -262,7 +305,7 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="en" className={`${inter.variable} ${playfair.variable}`}>
+    <html lang={locale} className={`${inter.variable} ${playfair.variable}`}>
       <head>
         <script
           type="application/ld+json"
@@ -270,8 +313,10 @@ export default function RootLayout({
         />
       </head>
       <body className="font-sans antialiased bg-background text-foreground">
-        {children}
-        <ChatWidget />
+        <NextIntlClientProvider messages={messages}>
+          {children}
+          <ChatWidget />
+        </NextIntlClientProvider>
         <Analytics />
       </body>
     </html>

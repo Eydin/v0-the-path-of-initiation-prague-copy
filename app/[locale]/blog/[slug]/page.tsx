@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
-import Link from "next/link"
 import { notFound } from "next/navigation"
+import { getTranslations } from "next-intl/server"
+import { Link } from "@/i18n/navigation"
 import { ArrowLeft, ArrowRight, MessageCircle } from "lucide-react"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
@@ -16,7 +17,7 @@ const SITE = "https://www.thepathofinitiationprague.com"
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ slug: string }>
+  params: Promise<{ locale: string; slug: string }>
 }): Promise<Metadata> {
   const { slug } = await params
   const post = getPostBySlug(slug)
@@ -29,6 +30,8 @@ export async function generateMetadata({
     title: `${post.title} | The Path of Initiation Prague`,
     description: post.excerpt,
     keywords: post.keywords,
+    // Article body isn't translated yet, so every locale canonicalizes to the
+    // unprefixed English URL — avoids indexing near-duplicate-content pages.
     alternates: { canonical: url },
     openGraph: {
       title: post.title,
@@ -44,11 +47,13 @@ export async function generateMetadata({
 export default async function BlogPostPage({
   params,
 }: {
-  params: Promise<{ slug: string }>
+  params: Promise<{ locale: string; slug: string }>
 }) {
   const { slug } = await params
   const post = getPostBySlug(slug)
   if (!post) notFound()
+
+  const t = await getTranslations("BlogPostPage")
 
   const related = BLOG_POSTS.filter(
     (p) => p.slug !== post.slug && getPostBySlug(p.slug) && p.category === post.category,
@@ -82,11 +87,11 @@ export default async function BlogPostPage({
 
   let bannerText = ""
   if (scheduled && notReady) {
-    bannerText = `Preview Mode — this post is scheduled for ${formatPostDate(post.releaseDate)} and has not been marked ready to post. Both conditions must be met before real visitors can see it.`
+    bannerText = t("bannerScheduledAndNotReady", { date: formatPostDate(post.releaseDate) })
   } else if (scheduled) {
-    bannerText = `Preview Mode — this post is scheduled for ${formatPostDate(post.releaseDate)} and is not yet visible to real visitors.`
+    bannerText = t("bannerScheduled", { date: formatPostDate(post.releaseDate) })
   } else if (notReady) {
-    bannerText = "Preview Mode — this post's release date has arrived, but it is not yet marked ready to post, so real visitors will not see it."
+    bannerText = t("bannerNotReady")
   }
 
   return (
@@ -113,7 +118,7 @@ export default async function BlogPostPage({
                 className="mb-6 inline-flex items-center gap-2 text-sm uppercase tracking-widest text-muted-foreground transition-colors hover:text-primary"
               >
                 <ArrowLeft className="h-3.5 w-3.5" />
-                All Articles
+                {t("allArticles")}
               </Link>
               <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
                 {post.category}
@@ -147,7 +152,7 @@ export default async function BlogPostPage({
             <div className="mx-auto max-w-3xl border-t border-primary/15 px-6 pt-12">
               <ScrollReveal>
                 <p className="mb-6 font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                  Continue Reading
+                  {t("continueReading")}
                 </p>
                 <div className="flex flex-col gap-4">
                   {related.map((p) => (
@@ -175,12 +180,10 @@ export default async function BlogPostPage({
             <ScrollReveal>
               <div className="mx-auto mb-6 h-px w-16 bg-primary/60" />
               <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                Walk the Path Yourself
+                {t("ctaHeading")}
               </h2>
               <p className="mx-auto mb-10 max-w-xl text-lg leading-relaxed text-muted-foreground">
-                Every article on this blog is one step into a living tradition. If it speaks to
-                you, Radu would be glad to guide you personally toward the right next step, here
-                in Prague.
+                {t("ctaBody")}
               </p>
               <a
                 href="https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20read%20a%20blog%20post%20and%20would%20like%20to%20learn%20more."
@@ -189,7 +192,7 @@ export default async function BlogPostPage({
                 className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
               >
                 <MessageCircle className="h-4 w-4" />
-                Begin Your Journey
+                {t("ctaButton")}
                 <ArrowRight className="h-4 w-4" />
               </a>
             </ScrollReveal>

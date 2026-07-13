@@ -1,11 +1,12 @@
 import type { MetadataRoute } from "next"
 import { getPublishedPosts } from "@/lib/blog/posts"
+import { routing } from "@/i18n/routing"
 
 export const dynamic = "force-dynamic"
 
 const SITE = "https://www.thepathofinitiationprague.com"
 
-const STATIC_ROUTES = [
+const CORE_ROUTES = [
   "",
   "/lineage",
   "/community",
@@ -28,13 +29,27 @@ const STATIC_ROUTES = [
   "/blog",
 ]
 
-export default function sitemap(): MetadataRoute.Sitemap {
-  const staticEntries: MetadataRoute.Sitemap = STATIC_ROUTES.map((route) => ({
-    url: `${SITE}${route}`,
-    changeFrequency: route === "/blog" ? "weekly" : "monthly",
-    priority: route === "" ? 1 : 0.7,
-  }))
+function localizedUrl(locale: string, route: string) {
+  const prefix = locale === routing.defaultLocale ? "" : `/${locale}`
+  return `${SITE}${prefix}${route}`
+}
 
+export default function sitemap(): MetadataRoute.Sitemap {
+  // Core chrome routes get one entry per locale, each carrying the full
+  // hreflang alternates map.
+  const coreEntries: MetadataRoute.Sitemap = CORE_ROUTES.flatMap((route) =>
+    routing.locales.map((locale) => ({
+      url: localizedUrl(locale, route),
+      changeFrequency: (route === "/blog" ? "weekly" : "monthly") as MetadataRoute.Sitemap[number]["changeFrequency"],
+      priority: route === "" ? 1 : 0.7,
+      alternates: {
+        languages: Object.fromEntries(routing.locales.map((l) => [l, localizedUrl(l, route)])),
+      },
+    })),
+  )
+
+  // Blog post bodies aren't translated yet, so posts stay English-only and
+  // unprefixed — no locale variants, to avoid indexing near-duplicate content.
   const postEntries: MetadataRoute.Sitemap = getPublishedPosts().map((post) => ({
     url: `${SITE}/blog/${post.slug}`,
     lastModified: post.releaseDate,
@@ -42,5 +57,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
-  return [...staticEntries, ...postEntries]
+  return [...coreEntries, ...postEntries]
 }

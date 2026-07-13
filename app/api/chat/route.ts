@@ -1,8 +1,9 @@
 import { streamText } from "ai"
 import { waitUntil } from "@vercel/functions"
-import { SYSTEM_PROMPT } from "@/lib/chatbot/knowledge"
+import { buildSystemPrompt } from "@/lib/chatbot/knowledge"
 import { CHAT_MODEL } from "@/lib/chatbot/config"
 import { logChatExchange } from "@/lib/chatbot/storage"
+import { routing } from "@/i18n/routing"
 
 // Runs as a Vercel Function. The model is reached through the Vercel AI Gateway
 // (provider/model string), which authenticates automatically on Vercel via the
@@ -31,10 +32,15 @@ function sanitize(messages: unknown): ChatMessage[] {
 export async function POST(req: Request) {
   let messages: ChatMessage[]
   let sessionId: string | undefined
+  let locale: string
   try {
     const body = await req.json()
     messages = sanitize(body?.messages)
     sessionId = typeof body?.sessionId === "string" ? body.sessionId.slice(0, 100) : undefined
+    const rawLocale = typeof body?.locale === "string" ? body.locale : undefined
+    locale = routing.locales.includes(rawLocale as (typeof routing.locales)[number])
+      ? rawLocale!
+      : routing.defaultLocale
   } catch {
     return new Response("Invalid request", { status: 400 })
   }
@@ -48,7 +54,7 @@ export async function POST(req: Request) {
   try {
     const result = streamText({
       model: CHAT_MODEL,
-      system: SYSTEM_PROMPT,
+      system: buildSystemPrompt(locale),
       messages,
       maxOutputTokens: 2500,
       temperature: 0.4,

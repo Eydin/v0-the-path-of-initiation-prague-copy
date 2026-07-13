@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, type FormEvent } from "react"
+import { useTranslations } from "next-intl"
 import { ArrowRight, CheckCircle2, Mail, AlertCircle } from "lucide-react"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { ParallaxImage } from "@/components/parallax-image"
@@ -10,6 +11,7 @@ const HUBSPOT_ENDPOINT =
 const MAILERLITE_ENDPOINT = "https://static.mailerlite.com/webforms/submit/o1u2r8"
 
 export function NewsletterSection() {
+  const t = useTranslations("Newsletter")
   const [email, setEmail] = useState("")
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle")
   const [message, setMessage] = useState("")
@@ -20,7 +22,7 @@ export function NewsletterSection() {
     const trimmedEmail = email.trim()
     if (!trimmedEmail) {
       setStatus("error")
-      setMessage("Please enter your email address.")
+      setMessage(t("errorEmpty"))
       return
     }
 
@@ -56,11 +58,11 @@ export function NewsletterSection() {
       }
 
       setStatus("success")
-      setMessage("Thank you — your subscription request has been received.")
+      setMessage(t("success"))
       setEmail("")
     } catch {
       setStatus("error")
-      setMessage("Something went wrong. Please try again or contact us directly.")
+      setMessage(t("errorGeneric"))
     }
   }
 
@@ -77,14 +79,13 @@ export function NewsletterSection() {
         <ScrollReveal>
           <div className="mx-auto mb-6 h-px w-24 bg-primary/60" />
           <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
-            Letters from the Path
+            {t("eyebrow")}
           </p>
           <h2 className="mb-5 font-serif text-3xl leading-tight tracking-wide text-foreground md:text-4xl lg:text-5xl text-balance">
-            Receive the Teachings
+            {t("heading")}
           </h2>
           <p className="mx-auto mb-10 max-w-xl text-lg leading-relaxed text-muted-foreground">
-            Occasional letters on initiation, sacred geometry, and the work of the soul —
-            sent only when there is something worth saying.
+            {t("intro")}
           </p>
 
           <form className="mx-auto flex max-w-md flex-col gap-3 sm:flex-row" onSubmit={handleSubmit}>
@@ -95,8 +96,8 @@ export function NewsletterSection() {
                 inputMode="email"
                 value={email}
                 onChange={(event) => setEmail(event.target.value)}
-                placeholder="Your email"
-                aria-label="Your email address"
+                placeholder={t("placeholder")}
+                aria-label={t("placeholder")}
                 className="h-14 w-full rounded-sm border border-border bg-background/60 pl-11 pr-4 text-base text-foreground placeholder:text-muted-foreground/70 backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               />
             </div>
@@ -105,7 +106,7 @@ export function NewsletterSection() {
               disabled={status === "loading"}
               className="inline-flex h-14 items-center justify-center gap-3 rounded-sm border border-primary bg-primary px-8 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-70"
             >
-              {status === "loading" ? "Submitting..." : "Subscribe"}
+              {status === "loading" ? t("submitting") : t("subscribe")}
               <ArrowRight className="h-4 w-4" />
             </button>
           </form>
@@ -126,7 +127,7 @@ export function NewsletterSection() {
           ) : null}
 
           <p className="mt-5 text-xs uppercase tracking-[0.2em] text-muted-foreground/60">
-            No noise. Unsubscribe anytime.
+            {t("footnote")}
           </p>
         </ScrollReveal>
       </div>

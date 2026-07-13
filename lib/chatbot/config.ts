@@ -13,9 +13,6 @@ export const WHATSAPP_HANDOFF = waLink(
   "Hello Radu, I have a question about the Path of Initiation that I'd like to ask you personally.",
 )
 
-/** Display name of the assistant in the UI. */
-export const ASSISTANT_NAME = "Guide"
-
 /**
  * Model used by the chatbot, routed through the Vercel AI Gateway
  * (provider/model string). Override per-deployment with the CHAT_MODEL env var
@@ -23,6 +20,10 @@ export const ASSISTANT_NAME = "Guide"
  */
 export const CHAT_MODEL = process.env.CHAT_MODEL || "google/gemini-3-flash"
 
-/** Greeting shown when the chat panel is first opened. */
-export const GREETING =
-  "Welcome. I'm your friendly AI assistant, here to help you explore the Path of Initiation in Prague — the activations, healings, classes, and the lineage behind them. What would you like to know?"
+/** Full language name per locale, used to instruct the assistant which language to reply in. */
+export const LOCALE_NAMES: Record<string, string> = {
+  en: "English",
+  cs: "Czech",
+  de: "German",
+  ro: "Romanian",
+}
