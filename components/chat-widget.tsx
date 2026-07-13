@@ -45,6 +45,10 @@ export function ChatWidget() {
 
   const scrollRef = useRef<HTMLDivElement>(null)
   const inputRef = useRef<HTMLTextAreaElement>(null)
+  const sessionIdRef = useRef<string>("")
+  if (!sessionIdRef.current) {
+    sessionIdRef.current = crypto.randomUUID()
+  }
 
   useEffect(() => {
     scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight, behavior: "smooth" })
@@ -69,7 +73,7 @@ export function ChatWidget() {
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ messages: history }),
+        body: JSON.stringify({ messages: history, sessionId: sessionIdRef.current }),
       })
 
       if (!res.ok) {
