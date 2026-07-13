@@ -49,32 +49,10 @@ export function ChatWidget() {
   if (!sessionIdRef.current) {
     sessionIdRef.current = crypto.randomUUID()
   }
-  const messageRefs = useRef<Record<number, HTMLDivElement | null>>({})
-  const lastScrolledIndexRef = useRef(-1)
-
-  // Anchor each new question to the top of the panel the moment it's sent,
-  // so the reply streams in below where the visitor is already looking —
-  // instead of auto-scrolling to the bottom, which on a long reply jumps
-  // straight past the answer to its last line.
-  useEffect(() => {
-    let lastUserIndex = -1
-    for (let i = messages.length - 1; i >= 0; i--) {
-      if (messages[i].role === "user") {
-        lastUserIndex = i
-        break
-      }
-    }
-    if (lastUserIndex !== -1 && lastUserIndex !== lastScrolledIndexRef.current) {
-      lastScrolledIndexRef.current = lastUserIndex
-      messageRefs.current[lastUserIndex]?.scrollIntoView({ behavior: "smooth", block: "start" })
-    }
-  }, [messages])
 
   useEffect(() => {
-    if (open) {
-      scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight })
-    }
-  }, [open])
+    scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight, behavior: "smooth" })
+  }, [messages, streaming, open])
 
   useEffect(() => {
     if (open) setTimeout(() => inputRef.current?.focus(), 200)
@@ -214,7 +192,7 @@ export function ChatWidget() {
 
             {messages.map((m, i) =>
               m.role === "user" ? (
-                <div key={i} ref={(el) => { messageRefs.current[i] = el }} className="flex justify-end scroll-mt-4">
+                <div key={i} className="flex justify-end">
                   <div className="max-w-[85%] whitespace-pre-wrap rounded-2xl rounded-tr-sm bg-primary px-3.5 py-2.5 text-sm leading-relaxed text-primary-foreground">
                     <div className="[&_p]:m-0 [&_p:not(:last-child)]:mb-2 [&_ul]:my-1 [&_ol]:my-1 [&_li]:m-0 [&_strong]:font-semibold [&_em]:italic [&_a]:underline [&_a]:text-primary hover:[&_a]:opacity-80">
                       <ReactMarkdown
