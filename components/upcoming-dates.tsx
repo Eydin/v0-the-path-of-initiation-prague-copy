@@ -37,8 +37,8 @@ export function UpcomingDates({
               className="flex flex-col gap-1.5 border-b border-primary/10 pb-3 last:border-0 last:pb-0 sm:flex-row sm:items-center sm:justify-between"
             >
               <span className="font-serif text-lg tracking-wide text-foreground">
-                {format.dateTime(parsed, { weekday: "short" })} ·{" "}
-                {format.dateTime(parsed, { day: "numeric", month: "short", year: "numeric" })}
+                {format.dateTime(parsed, { weekday: "short", timeZone: "UTC" })} ·{" "}
+                {format.dateTime(parsed, { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" })}
               </span>
               <span className="flex items-center gap-4 text-sm text-muted-foreground">
                 <span className="inline-flex items-center gap-1.5">

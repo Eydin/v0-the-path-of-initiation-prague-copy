@@ -70,7 +70,7 @@ export default function CalendarPage() {
                       {/* month header */}
                       <div className="mb-8 flex items-baseline gap-4">
                         <h2 className="font-serif text-2xl tracking-wide text-primary md:text-3xl">
-                          {format.dateTime(parseLocalDate(group.sampleDate), { month: "long", year: "numeric" })}
+                          {format.dateTime(parseLocalDate(group.sampleDate), { month: "long", year: "numeric", timeZone: "UTC" })}
                         </h2>
                         <div className="h-px flex-1 bg-gradient-to-r from-primary/40 to-transparent" />
                         <span className="font-serif text-xs uppercase tracking-[0.25em] text-muted-foreground">
@@ -88,8 +88,8 @@ export default function CalendarPage() {
 
                         {group.events.map((ev) => {
                           const date = parseLocalDate(ev.date)
-                          const day = format.dateTime(date, { day: "2-digit" })
-                          const weekday = format.dateTime(date, { weekday: "short" })
+                          const day = format.dateTime(date, { day: "2-digit", timeZone: "UTC" })
+                          const weekday = format.dateTime(date, { weekday: "short", timeZone: "UTC" })
                           const isActivation = ev.category === "Activation"
                           const isInitiation = ev.category === "Initiation"
                           const isCommunity = ev.category === "Community"

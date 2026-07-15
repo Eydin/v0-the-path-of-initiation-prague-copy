@@ -225,26 +225,36 @@ export type ClassEvent = {
   date: string
 }
 
-/** Parse a YYYY-MM-DD string as LOCAL midnight (never UTC). */
+/**
+ * Parse a YYYY-MM-DD string as a fixed UTC instant.
+ *
+ * These strings represent calendar dates, not moments in time — the class
+ * always happens on that date regardless of which timezone a visitor's
+ * browser is set to. Anchoring to UTC (rather than the visitor's local
+ * midnight) means the displayed date can never drift by a day depending on
+ * where the site is viewed from. Always format the result with
+ * `timeZone: "UTC"` to keep this guarantee.
+ */
 export function parseLocalDate(dateStr: string): Date {
   const [y, m, d] = dateStr.split("-").map(Number)
-  return new Date(y, m - 1, d)
+  return new Date(Date.UTC(y, m - 1, d))
 }
 
-/** Today at local midnight — safe to compare against parseLocalDate(). */
+/** Today's calendar date (in the visitor's/server's local timezone), anchored at UTC midnight — safe to compare against parseLocalDate(). */
 function startOfToday(): Date {
   const now = new Date()
-  return new Date(now.getFullYear(), now.getMonth(), now.getDate())
+  return new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()))
 }
 
 /** "Sat · 5 Jul 2026" */
 export function formatEventDate(dateStr: string): string {
   const date = parseLocalDate(dateStr)
-  const weekday = date.toLocaleDateString("en-GB", { weekday: "short" })
+  const weekday = date.toLocaleDateString("en-GB", { weekday: "short", timeZone: "UTC" })
   const rest = date.toLocaleDateString("en-GB", {
     day: "numeric",
     month: "short",
     year: "numeric",
+    timeZone: "UTC",
   })
   return `${weekday} · ${rest}`
 }
@@ -254,6 +264,7 @@ export function formatMonthLabel(dateStr: string): string {
   return parseLocalDate(dateStr).toLocaleDateString("en-GB", {
     month: "long",
     year: "numeric",
+    timeZone: "UTC",
   })
 }
 

@@ -536,10 +536,10 @@ export const BLOG_POSTS: BlogPost[] = [
   },
 ]
 
-/** Today at local midnight — safe to compare against parseLocalDate(). */
+/** Today's calendar date, anchored at UTC midnight — safe to compare against parseLocalDate(). */
 function startOfToday(): Date {
   const now = new Date()
-  return new Date(now.getFullYear(), now.getMonth(), now.getDate())
+  return new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()))
 }
 
 /** True when BLOG_PREVIEW=true is set locally — bypasses release-date gating so
@@ -578,5 +578,6 @@ export function formatPostDate(dateStr: string): string {
     day: "numeric",
     month: "long",
     year: "numeric",
+    timeZone: "UTC",
   })
 }
