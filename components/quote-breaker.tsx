@@ -15,9 +15,11 @@ interface QuoteBreakerProps {
   position?: string
   /** optional call-to-action rendered under the attribution */
   cta?: ReactNode
+  /** Magnum Opus stage wash — see globals.css .stage-* */
+  stage?: "nigredo" | "albedo" | "citrinitas" | "rubedo"
 }
 
-export function QuoteBreaker({ image, quote, attribution, caption, position = "center", cta }: QuoteBreakerProps) {
+export function QuoteBreaker({ image, quote, attribution, caption, position = "center", cta, stage }: QuoteBreakerProps) {
   return (
     <figure
       className="relative m-0 flex items-center justify-center overflow-hidden"
@@ -25,6 +27,7 @@ export function QuoteBreaker({ image, quote, attribution, caption, position = "c
     >
       <ParallaxImage src={`/images/art/${image}`} alt="" position={position} strength={70} />
       <div className="absolute inset-0 bg-gradient-to-b from-background/75 via-background/55 to-background/80" />
+      {stage && <div className={`absolute inset-0 stage-${stage}`} aria-hidden />}
 
       <div className="relative z-10 mx-auto max-w-3xl px-6 text-center">
         <ScrollReveal>

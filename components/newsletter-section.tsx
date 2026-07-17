@@ -74,6 +74,7 @@ export function NewsletterSection() {
     >
       <ParallaxImage src="/images/art/flammarion.jpg" alt="" position="center 30%" strength={60} />
       <div className="absolute inset-0 bg-gradient-to-b from-background/85 via-background/70 to-background/90" />
+      <div className="absolute inset-0 stage-rubedo" aria-hidden />
 
       <div className="relative z-10 mx-auto max-w-2xl px-6 text-center">
         <ScrollReveal>

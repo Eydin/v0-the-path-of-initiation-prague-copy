@@ -2,9 +2,9 @@
 
 import { useTranslations } from "next-intl"
 import { ScrollReveal } from "./scroll-reveal"
-import { BookOpen, Sparkles, Compass, Heart } from "lucide-react"
+import { OuroborosGlyph, MercuryGlyph, SolGlyph, ChaliceGlyph } from "./icons/hermetic-glyphs"
 
-const PILLAR_ICONS = [BookOpen, Sparkles, Compass, Heart]
+const PILLAR_ICONS = [OuroborosGlyph, MercuryGlyph, SolGlyph, ChaliceGlyph]
 
 export function PillarsSection() {
   const t = useTranslations("Pillars")
@@ -15,8 +15,9 @@ export function PillarsSection() {
   }))
 
   return (
-    <section id="pillars" className="py-24 lg:py-32">
-      <div className="mx-auto max-w-7xl px-6">
+    <section id="pillars" className="relative py-24 lg:py-32">
+      <div className="absolute inset-0 stage-albedo" aria-hidden />
+      <div className="relative z-10 mx-auto max-w-7xl px-6">
         <ScrollReveal>
           <div className="mb-16 text-center">
             <p className="mb-3 font-serif text-sm tracking-[0.3em] text-primary uppercase">

@@ -9,6 +9,7 @@ export function EndingSection() {
   return (
     <section className="relative py-24 lg:py-32">
       <div className="absolute inset-0 bg-muted/40" />
+      <div className="absolute inset-0 stage-rubedo" aria-hidden />
       <div className="relative z-10 mx-auto max-w-7xl px-6">
         <ScrollReveal>
           <div className="mb-16 text-center">

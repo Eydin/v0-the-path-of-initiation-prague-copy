@@ -33,6 +33,9 @@
   --gold-light: #e8c84a;
   --brown: #3E2723;
   --brown-light: #5D4037;
+  /* Magnum Opus stages — nigredo (void) → albedo (purification) → citrinitas (awakening) → rubedo (completion) */
+  --albedo: #C9CDD6;
+  --rubedo: #8B2A1E;
 }
 
 @theme inline {
@@ -137,6 +140,25 @@ html {
 .chat-launcher-nudge {
   animation: chat-nudge 7s ease-in-out infinite;
   will-change: transform;
+}
+
+/* ───────── Alchemical stage washes — the homepage's Magnum Opus arc ─────────
+   A quiet color drift from void to completion as the page is scrolled:
+   nigredo (introduction) → albedo (teachings) → citrinitas (awakening) →
+   rubedo (culmination). Each is a faint radial glow layered over the black
+   base — never a hue swap — so contrast and existing card/border colors
+   stay untouched. */
+.stage-nigredo {
+  background: radial-gradient(ellipse 140% 70% at 50% 0%, rgba(20, 22, 30, 0.55), transparent 70%);
+}
+.stage-albedo {
+  background: radial-gradient(ellipse 140% 70% at 50% 0%, rgba(201, 205, 214, 0.05), transparent 70%);
+}
+.stage-citrinitas {
+  background: radial-gradient(ellipse 140% 70% at 50% 0%, rgba(212, 175, 55, 0.09), transparent 70%);
+}
+.stage-rubedo {
+  background: radial-gradient(ellipse 140% 70% at 50% 0%, rgba(139, 42, 30, 0.16), transparent 70%);
 }
 
 /* Respect users who prefer no motion */

@@ -33,6 +33,7 @@ export default function Home() {
           attribution={t("quote1.attribution")}
           caption={t("quote1.caption")}
           position="center 42%"
+          stage="albedo"
         />
 
         <HallOfInitiates />
@@ -52,6 +53,7 @@ export default function Home() {
           attribution={t("quote2.attribution")}
           caption={t("quote2.caption")}
           position="center 22%"
+          stage="rubedo"
         />
 
         <NewsletterSection />

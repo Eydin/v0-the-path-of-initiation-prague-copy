@@ -35,6 +35,7 @@ export function HeroSection() {
       />
       {/* veil — keeps the cinematic dark mood and the light headline legible over the bright sky */}
       <div className="absolute inset-0 bg-gradient-to-b from-background/88 via-background/78 to-background/94" />
+      <div className="absolute inset-0 stage-nigredo" aria-hidden />
 
       <div className="relative z-10 mx-auto max-w-4xl px-6 py-32 text-center">
         <motion.div

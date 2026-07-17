@@ -42,6 +42,9 @@ export function HallOfInitiates() {
   const t = useTranslations("HallOfInitiates")
   return (
     <section className="relative overflow-hidden py-24 lg:py-32">
+      {/* -z-10 (not z-index:auto) so this sits behind every content block below,
+          not just the first one that happens to be marked relative z-10 */}
+      <div className="absolute inset-0 -z-10 stage-citrinitas" aria-hidden />
       <div className="mx-auto mb-12 max-w-7xl px-6">
         <ScrollReveal>
           <div className="max-w-3xl">

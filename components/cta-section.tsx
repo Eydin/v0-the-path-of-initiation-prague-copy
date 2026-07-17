@@ -7,8 +7,9 @@ import { ArrowRight, Mail, MessageCircle } from "lucide-react"
 export function CTASection() {
   const t = useTranslations("CTA")
   return (
-    <section id="apply" className="py-24 lg:py-32">
-      <div className="mx-auto max-w-3xl px-6 text-center">
+    <section id="apply" className="relative py-24 lg:py-32">
+      <div className="absolute inset-0 stage-citrinitas" aria-hidden />
+      <div className="relative z-10 mx-auto max-w-3xl px-6 text-center">
         <ScrollReveal>
           <div className="border border-primary/50 bg-card p-12 md:p-16">
             <div className="mx-auto mb-8 h-px w-16 bg-primary/60" />
