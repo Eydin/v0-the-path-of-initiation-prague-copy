@@ -190,7 +190,7 @@ This relationship is built over time — with trust, respect, and a honest inten
 Includes the 2 day training and a complimentary Life Activation session (valued at 8.500 CZK) to prepare your energy system and connect you to your divine blueprint before the Initiation.
 Booking Process:
 A 12.000 CZK deposit secures your place and allows us to schedule your Life Activation session.
-The remaining 24.500 CZK is due before the 2-day training and Initiation begins.
+The remaining 24.500 CZK is due 2 weeks before the 2-day training and Initiation begins.
 https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
 Hello Radu, I would like to learn more about the Empower Thyself Initiation.
 A Two-Day Initiation
