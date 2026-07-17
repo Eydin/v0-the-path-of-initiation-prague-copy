@@ -238,7 +238,7 @@ Awakening and harmonizing the body's energy centers.
 Tree of Life Awakening:
 Aligning you with the living map of creation within.
 Purificado & Crystalis:
-A magical homeopathic remedy created to support the process and gentle detoxification.
+A magical Energy Spray (Spagyrics) created to support the process and gentle detoxification.
 full-spirit-activation
 Discover Your Potential to Be a Divine Being
 8500 CZK
@@ -379,8 +379,8 @@ Removal of Burnt Etheric Crystals from the Body:
 This procedure is intended to cleanse and revitalize the energetic body.
 Brief Reading from Your Newly Activated DNA:
 A short exploration of the subconscious layers, providing you with deeper self-understanding.
-Homeopathic Remedy:
-A homeopathic remedy created in the school's alchemy laboratory, designed to detoxify, support, and ease the physical and energetic changes associated with this unique experience.
+Energy Spray (Spagyrics)
+A spray created in the school's alchemy laboratory, designed to detoxify, support, and ease the physical and energetic changes associated with this unique experience.
 About the Life Activation
 Do you have any questions?
 title=

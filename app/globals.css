@@ -149,16 +149,16 @@ html {
    base — never a hue swap — so contrast and existing card/border colors
    stay untouched. */
 .stage-nigredo {
-  background: radial-gradient(ellipse 140% 70% at 50% 0%, rgba(20, 22, 30, 0.55), transparent 70%);
+  background: radial-gradient(ellipse 160% 100% at 50% 0%, rgba(10, 12, 20, 0.7), transparent 100%);
 }
 .stage-albedo {
-  background: radial-gradient(ellipse 140% 70% at 50% 0%, rgba(201, 205, 214, 0.05), transparent 70%);
+  background: radial-gradient(ellipse 160% 100% at 50% 0%, rgba(201, 205, 214, 0.16), transparent 100%);
 }
 .stage-citrinitas {
-  background: radial-gradient(ellipse 140% 70% at 50% 0%, rgba(212, 175, 55, 0.09), transparent 70%);
+  background: radial-gradient(ellipse 160% 100% at 50% 0%, rgba(212, 175, 55, 0.22), transparent 100%);
 }
 .stage-rubedo {
-  background: radial-gradient(ellipse 140% 70% at 50% 0%, rgba(139, 42, 30, 0.16), transparent 70%);
+  background: radial-gradient(ellipse 160% 100% at 50% 0%, rgba(139, 42, 30, 0.32), transparent 100%);
 }
 
 /* Respect users who prefer no motion */
