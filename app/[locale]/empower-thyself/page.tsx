@@ -151,7 +151,7 @@ export default function EmpowerThyself() {
       {/* Curriculum + video */}
       <Panel>
         <PanelHeading>{t("curriculum.heading")}</PanelHeading>
-        <VideoEmbed src="https://www.youtube.com/embed/6_TzH0U9XZ0" title="Empower Thyself Initiation Introduction" />
+        <VideoEmbed src="https://www.youtube-nocookie.com/embed/6_TzH0U9XZ0" title="Empower Thyself Initiation Introduction" />
         <ol className="ml-2 list-inside list-decimal space-y-3 text-lg font-semibold text-foreground">
           {curriculum.map((item, i) => (
             <li key={i}>{item}</li>

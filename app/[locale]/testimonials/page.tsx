@@ -112,7 +112,7 @@ export default function Testimonials() {
             <div className="grid gap-8 md:grid-cols-2">
               <div className="aspect-video border border-border bg-card overflow-hidden">
                 <iframe
-                  src="https://www.youtube.com/embed/mjXlaZDHVdE"
+                  src="https://www.youtube-nocookie.com/embed/mjXlaZDHVdE"
                   title="What are the benefits of having a spiritual guide?"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen"
                   allowFullScreen
@@ -121,7 +121,7 @@ export default function Testimonials() {
               </div>
               <div className="aspect-video border border-border bg-card overflow-hidden">
                 <iframe
-                  src="https://www.youtube.com/embed/hgx3oG2Mkl0"
+                  src="https://www.youtube-nocookie.com/embed/hgx3oG2Mkl0"
                   title="Healing insede the Modern Mystery School"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-full-screen"
                   allowFullScreen

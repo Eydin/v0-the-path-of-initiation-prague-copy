@@ -71,7 +71,7 @@ export default function LifeActivation() {
 
       {/* Explore the higher dimensions + video */}
       <Panel>
-        <VideoEmbed src="https://www.youtube.com/embed/SYauL1N3ppI" title="About the Life Activation" />
+        <VideoEmbed src="https://www.youtube-nocookie.com/embed/SYauL1N3ppI" title="About the Life Activation" />
         <PanelHeading>{t("exploreHeading")}</PanelHeading>
         <Body>{t("exploreBody1")}</Body>
         <Body>{t("exploreBody2")}</Body>
