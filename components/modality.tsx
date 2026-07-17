@@ -11,7 +11,7 @@ import { ArrowRight, Mail, MessageCircle } from "lucide-react"
 
 // ── Shared contact details ──────────────────────────────────────────────
 export const WHATSAPP_NUMBER = "420792908296"
-export const CONTACT_EMAIL = "radu@pathofinitiationprague.com"
+export const CONTACT_EMAIL = "radu@thepathofinitiationprague.com"
 
 export function waLink(text: string) {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`

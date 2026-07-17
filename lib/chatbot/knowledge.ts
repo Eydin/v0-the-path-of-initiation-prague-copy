@@ -13,7 +13,7 @@ const KEY_FACTS = `
   knowledge, divine purpose, healing and practical magic — part of the Modern Mystery
   School International lineage.
 - Location: Ve Smečkách 22, Nové Město, 110 00 Prague, Czech Republic.
-- Contact: WhatsApp +420 792 908 296 · email radu@pathofinitiationprague.com
+- Contact: WhatsApp +420 792 908 296 · email radu@thepathofinitiationprague.com
 - How to begin / book: most people start with a Life Activation, or with the Empower
   Thyself initiation. Reach out on WhatsApp and Radu will guide you personally; some
   sessions can also be booked directly online.
