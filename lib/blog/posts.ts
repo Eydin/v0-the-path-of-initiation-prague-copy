@@ -93,7 +93,7 @@ export const BLOG_POSTS: BlogPost[] = [
       "From Egyptian scepters to sanctified healing tools — what a magick wand truly is, how it is received, and why it changes a healer's path forever.",
     category: "Sacred Tools",
     coverImage: "accolade-leighton.jpg",
-    readyToPost: false,
+    readyToPost: true,
     releaseDate: "2026-07-18",
     keywords: [
       "magick wand",
