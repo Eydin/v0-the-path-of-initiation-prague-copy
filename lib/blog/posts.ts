@@ -114,7 +114,7 @@ export const BLOG_POSTS: BlogPost[] = [
       "Magick, spelled with a k, is the art of conscious transformation — not stage illusion. Learn what it really means and how to practice it daily.",
     category: "Practical Magick",
     coverImage: "pantheon-panini.jpg",
-    readyToPost: false,
+    readyToPost: true,
     releaseDate: "2026-07-25",
     keywords: [
       "magick",

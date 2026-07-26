@@ -1,5 +1,5 @@
 export const content = `
-Spelled with a "k," Magick is one of the most misunderstood words in the spiritual vocabulary — and one of the most hopeful, once it is properly understood.
+Spelled with a "k," Magick is a word that hides many secrets, that the initiate gets to explore and discover.
 
 ## Why the "K"?
 
@@ -7,13 +7,13 @@ The extra letter is not decoration. It was popularised in the early twentieth ce
 
 ## What the Modern Mystery School Teaches
 
-Within the [Modern Mystery School](https://modernmysteryschoolint.com/faq/ "Modern Mystery School — Frequently Asked Questions"), Magick is described in strikingly optimistic terms: *"Magick brings us into the stream of infinite positive possibilities. It opens our eyes to the limitless potentials of abundance."* Elsewhere, the school's teaching on Wicca puts it even more simply: *"Magick is transformation."* It is framed as something innate and cross-cultural — tied to the cycles of the earth, the sun and moon, the seasons, and our own nature as human beings, rather than as an exotic power reserved for a select few.
+Within the [Modern Mystery School](https://modernmysteryschoolint.com/faq/ "Modern Mystery School — Frequently Asked Questions"), Magick is described as such: *"Magick brings us into the stream of infinite positive possibilities. It opens our eyes to the limitless potentials of abundance."* Elsewhere, the school's teaching on Wicca puts it even more simply: *"Magick is transformation."* It is framed as something innate and cross-cultural — tied to the cycles of the earth, the sun and moon, the seasons, and our own nature as human beings, rather than as an exotic power reserved for a select few.
 
 This is a generous, practical way to understand Magick: not as domination over reality, but as *conscious participation* in it. The [Ritual Master](/ritual-master) path within this lineage trains practitioners in exactly this kind of practical, service-oriented Magick — healing rituals, protection work, and the mastery of what is called High Magick, always for the benefit of others and always held to the standard of an honest, equal exchange of energy.
 
 ## As Above, So Below
 
-The philosophical foundation beneath all of this is Hermetic — the famous principle *"as above, so below,"* attributed to the legendary teacher Hermes Trismegistus. It holds that the patterns you find in the wider universe are mirrored in your own inner world, and that shifting one genuinely shifts the other. This is why so much Magickal practice looks, from the outside, like small and simple acts: lighting a candle with real intention, speaking a blessing over your home, pausing to give thanks before a meal. None of these acts is "small" from within the Hermetic view — each is a deliberate act of aligning the microcosm of your own life with the macrocosm of the whole.
+The philosophical foundation beneath all of this is Hermetic — the famous principle *"as above, so below, as within, so without"* attributed to the legendary teacher Hermes Trismegistus. It holds that the patterns you find in the wider universe are mirrored in your own inner world, and that shifting one genuinely shifts the other. This is why so much Magickal practice looks, from the outside, like small and simple acts: lighting a candle with real intention, speaking a blessing over your home, pausing to give thanks before a meal. None of these acts is "small" from within the Hermetic view — each is a deliberate act of aligning the microcosm of your own life with the macrocosm of the whole.
 
 ## Practical Magick for an Ordinary Day
 
@@ -29,4 +29,7 @@ You do not need years of training to begin practising this kind of conscious ali
 What makes this tradition's approach to Magick so hopeful is its insistence that it is meant to be *lived*, not merely studied. It is called, across the school's own teaching, "a spiritual path that gets results" — practical tools meant for a modern life, not relics meant only for contemplation.
 
 If this way of understanding Magick speaks to you, the [Empower Thyself](/empower-thyself) initiation is the traditional first doorway into deeper practice within this lineage, and our [calendar](/calendar) always shows the next opportunity to begin in Prague. Wherever you start, know this: the possibility of positive change was never as far away as it seemed.
+
+## But, why "K"?
+Since you stuck this far, I'm going to share a little secret with you. The "k" in Magick is not a coincidence, it was chosen with purpose. "K" reminds us that in order to create change in the world, you need to *know* and *use* the correct *keys* to *unlock* the powers needed for the change you want to create. The study of Magick is the study of these keys, and how to use them to create change in your life and the world around you. The "k" is a reminder that you are the keyholder, and that you have the power to unlock the doors to your own transformation.
 `
