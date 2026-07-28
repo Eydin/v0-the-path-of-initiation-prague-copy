@@ -156,7 +156,7 @@ export default async function LocaleLayout({
         "availableLanguage": ["English", "Czech", "German", "Romanian"],
         "priceRange": "$$",
         "telephone": "+420 792 908 296",
-        "email": "info@thepathofinitiationprague.com",
+        "email": "radu@thepathofinitiationprague.com",
         "founder": { "@id": `${SITE}/#radu-coman` },
         "knowsAbout": [
           "Life Activation",

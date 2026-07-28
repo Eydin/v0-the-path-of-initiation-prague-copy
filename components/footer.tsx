@@ -94,10 +94,12 @@ export function Footer() {
                 {t("facebook")}
               </a>
               <a
-                href="mailto:info@thepathofinitiationprague.com"
+                href="mailto:radu@thepathofinitiationprague.com"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-sm text-muted-foreground transition-colors hover:text-primary"
               >
-                info@thepathofinitiationprague.com
+                radu@thepathofinitiationprague.com
               </a>
               <Link href="/certifications" className="text-sm text-muted-foreground transition-colors hover:text-primary">
                 {tNav("nav.certifications")}

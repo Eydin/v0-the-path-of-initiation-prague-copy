@@ -688,7 +688,7 @@ Healing & Workshops
 Contact
 WhatsApp · +420 792 908 296
 Facebook
-info@thepathofinitiationprague.com
+radu@thepathofinitiationprague.com
 Certifications
 Testimonials
 /life-activation

@@ -25,6 +25,8 @@ export function CTASection() {
             <div className="flex flex-col gap-4 sm:flex-row sm:justify-center sm:gap-4">
               <a
                 href="mailto:radu@thepathofinitiationprague.com"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm tracking-widest text-primary-foreground transition-all hover:bg-primary/90 uppercase"
               >
                 <Mail className="h-4 w-4" />
@@ -33,6 +35,8 @@ export function CTASection() {
               </a>
               <a
                 href="https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm tracking-widest text-primary-foreground transition-all hover:bg-primary/90 uppercase"
               >
                 <MessageCircle className="h-4 w-4" />

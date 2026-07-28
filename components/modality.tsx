@@ -192,6 +192,8 @@ export function EmailButton({ subject }: { subject: string }) {
   return (
     <a
       href={`mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}`}
+      target="_blank"
+      rel="noopener noreferrer"
       className="inline-flex items-center justify-center gap-3 rounded border border-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
     >
       <Mail className="h-4 w-4" />
