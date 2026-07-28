@@ -99,7 +99,7 @@ export function NewsletterSection() {
                 onChange={(event) => setEmail(event.target.value)}
                 placeholder={t("placeholder")}
                 aria-label={t("placeholder")}
-                className="h-14 w-full rounded-sm border border-border bg-background/60 pl-11 pr-4 text-base text-foreground placeholder:text-muted-foreground/70 backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+                className="h-14 w-full rounded-sm border border-border bg-background/60 pl-11 pr-4 text-base text-foreground placeholder:text-muted-foreground backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               />
             </div>
             <button
@@ -127,7 +127,7 @@ export function NewsletterSection() {
             </div>
           ) : null}
 
-          <p className="mt-5 text-xs uppercase tracking-[0.2em] text-muted-foreground/60">
+          <p className="mt-5 text-xs uppercase tracking-[0.2em] text-muted-foreground">
             {t("footnote")}
           </p>
         </ScrollReveal>

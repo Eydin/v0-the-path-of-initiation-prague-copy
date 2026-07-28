@@ -43,7 +43,7 @@ export function QuoteBreaker({ image, quote, attribution, caption, position = "c
       </div>
 
       {caption && (
-        <figcaption className="absolute bottom-4 right-5 text-[11px] uppercase tracking-[0.2em] text-foreground/40">
+        <figcaption className="absolute bottom-4 right-5 rounded bg-background/70 px-2 py-1 text-[11px] uppercase tracking-[0.2em] text-foreground backdrop-blur-sm">
           {caption}
         </figcaption>
       )}
