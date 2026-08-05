@@ -38,7 +38,10 @@
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
     "certifiedAlt": "Certified by the Modern Mystery School",
-    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. All rights reserved."
+    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "withdrawFromContract": "Withdraw from a Contract"
   },
   "Modality": {
     "whatsapp": "WhatsApp",
@@ -951,5 +954,38 @@
       "attribution": "Rumi · 13th Century",
       "caption": "The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657"
     }
+  },
+  "PrivacyPolicyPage": {
+    "metaTitle": "Privacy Policy | The Path of Initiation Prague",
+    "metaDescription": "How The Path of Initiation Prague (Sanctum Lux Divine SRL) collects, uses and protects your personal data, in accordance with the GDPR.",
+    "back": "Back to home"
+  },
+  "TermsPage": {
+    "metaTitle": "General Terms and Conditions | The Path of Initiation Prague",
+    "metaDescription": "The General Terms and Conditions governing the provision of Services by The Path of Initiation Prague (Sanctum Lux Divine SRL).",
+    "back": "Back to home",
+    "withdrawalCta": "Need to withdraw from a contract? Use our online withdrawal form →"
+  },
+  "WithdrawalPage": {
+    "metaTitle": "Withdraw from the Contract | The Path of Initiation Prague",
+    "metaDescription": "Submit an electronic notice of withdrawal from your contract with The Path of Initiation Prague, in accordance with Article 6.4 of our General Terms and Conditions.",
+    "back": "Back to home",
+    "heading": "Withdraw from the Contract",
+    "intro": "Use this form to submit your notice of withdrawal electronically, as provided for in Article 6.4 of our General Terms and Conditions. You'll receive an e-mail confirming we've received it.",
+    "servicesLabel": "Which Services are you withdrawing from?",
+    "servicesPlaceholder": "e.g. Empower Thyself, booked for 12 September 2026",
+    "orderDateLabel": "Date of order",
+    "orderNumberLabel": "Order number (if assigned)",
+    "orderNumberOptional": "optional",
+    "nameLabel": "Your full name",
+    "addressLabel": "Your address",
+    "bankAccountLabel": "Bank account number for the refund",
+    "emailLabel": "Your e-mail address",
+    "emailHint": "We'll send your confirmation here.",
+    "submit": "Submit withdrawal notice",
+    "submitting": "Submitting…",
+    "success": "Received — check your inbox for a confirmation e-mail.",
+    "errorGeneric": "Something went wrong. Please try again, or e-mail us directly at radu@thepathofinitiationprague.com.",
+    "requiredFieldsNote": "All fields are required unless marked optional."
   }
 }

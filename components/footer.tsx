@@ -131,10 +131,21 @@ export function Footer() {
           </a>
         </div>
 
-        <div className="mt-14 border-t border-border/60 pt-6">
+        <div className="mt-14 flex flex-col items-center gap-3 border-t border-border/60 pt-6 sm:flex-row sm:justify-between">
           <p className="text-xs text-muted-foreground">
             {t("copyright", { year: new Date().getFullYear() })}
           </p>
+          <div className="flex flex-wrap justify-center gap-5">
+            <Link href="/privacy-policy" className="text-xs text-muted-foreground transition-colors hover:text-primary">
+              {t("privacyPolicy")}
+            </Link>
+            <Link href="/terms-and-conditions" className="text-xs text-muted-foreground transition-colors hover:text-primary">
+              {t("terms")}
+            </Link>
+            <Link href="/withdraw-from-contract" className="text-xs text-muted-foreground transition-colors hover:text-primary">
+              {t("withdrawFromContract")}
+            </Link>
+          </div>
         </div>
       </div>
     </footer>

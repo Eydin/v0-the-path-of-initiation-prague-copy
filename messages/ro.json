@@ -38,7 +38,10 @@
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
     "certifiedAlt": "Certificat de Modern Mystery School",
-    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Toate drepturile rezervate."
+    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Toate drepturile rezervate.",
+    "privacyPolicy": "Politica de confidențialitate",
+    "terms": "Termeni și condiții",
+    "withdrawFromContract": "Retragere din contract"
   },
   "Modality": {
     "whatsapp": "WhatsApp",
@@ -912,5 +915,38 @@
       "attribution": "Rumi · secolul al XIII-lea",
       "caption": "Regina din Saba în fața Templului lui Solomon · S. de Bray, 1657"
     }
+  },
+  "PrivacyPolicyPage": {
+    "metaTitle": "Politica de confidențialitate | The Path of Initiation Prague",
+    "metaDescription": "Cum prelucrează și protejează The Path of Initiation Prague (Sanctum Lux Divine SRL) datele dumneavoastră cu caracter personal, în conformitate cu GDPR.",
+    "back": "Înapoi la pagina principală"
+  },
+  "TermsPage": {
+    "metaTitle": "Termeni și condiții generale | The Path of Initiation Prague",
+    "metaDescription": "Termenii și condițiile generale care reglementează furnizarea Serviciilor de către The Path of Initiation Prague (Sanctum Lux Divine SRL).",
+    "back": "Înapoi la pagina principală",
+    "withdrawalCta": "Trebuie să vă retrageți dintr-un contract? Utilizați formularul nostru online →"
+  },
+  "WithdrawalPage": {
+    "metaTitle": "Retragere din contract | The Path of Initiation Prague",
+    "metaDescription": "Trimiteți electronic notificarea de retragere din contractul cu The Path of Initiation Prague, în conformitate cu Articolul 6.4 al Termenilor și Condițiilor noastre Generale.",
+    "back": "Înapoi la pagina principală",
+    "heading": "Retragere din contract",
+    "intro": "Utilizați acest formular pentru a trimite electronic notificarea de retragere, conform Articolului 6.4 al Termenilor și Condițiilor noastre Generale. Veți primi un e-mail de confirmare a primirii.",
+    "servicesLabel": "De la ce Serviciu vă retrageți?",
+    "servicesPlaceholder": "de ex. Empower Thyself, rezervat pentru 12 septembrie 2026",
+    "orderDateLabel": "Data comenzii",
+    "orderNumberLabel": "Numărul comenzii (dacă a fost alocat)",
+    "orderNumberOptional": "opțional",
+    "nameLabel": "Numele dumneavoastră complet",
+    "addressLabel": "Adresa dumneavoastră",
+    "bankAccountLabel": "Numărul contului bancar pentru rambursare",
+    "emailLabel": "Adresa dumneavoastră de e-mail",
+    "emailHint": "Vă vom trimite confirmarea aici.",
+    "submit": "Trimite notificarea de retragere",
+    "submitting": "Se trimite…",
+    "success": "Primit — verificați e-mailul pentru confirmare.",
+    "errorGeneric": "Ceva nu a funcționat. Vă rugăm să încercați din nou sau să ne scrieți direct la radu@thepathofinitiationprague.com.",
+    "requiredFieldsNote": "Toate câmpurile sunt obligatorii, cu excepția celor marcate opțional."
   }
 }

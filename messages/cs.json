@@ -38,7 +38,10 @@
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
     "certifiedAlt": "Certifikováno Modern Mystery School",
-    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Všechna práva vyhrazena."
+    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Všechna práva vyhrazena.",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "terms": "Všeobecné obchodní podmínky",
+    "withdrawFromContract": "Odstoupení od smlouvy"
   },
   "Modality": {
     "whatsapp": "WhatsApp",
@@ -912,5 +915,38 @@
       "attribution": "Rúmí · 13. století",
       "caption": "Královna ze Sáby před chrámem Šalomouna · S. de Bray, 1657"
     }
+  },
+  "PrivacyPolicyPage": {
+    "metaTitle": "Zásady ochrany osobních údajů | The Path of Initiation Prague",
+    "metaDescription": "Jak The Path of Initiation Prague (Sanctum Lux Divine SRL) zpracovává a chrání vaše osobní údaje v souladu s GDPR.",
+    "back": "Zpět na hlavní stránku"
+  },
+  "TermsPage": {
+    "metaTitle": "Všeobecné obchodní podmínky | The Path of Initiation Prague",
+    "metaDescription": "Všeobecné obchodní podmínky upravující poskytování Služeb společností The Path of Initiation Prague (Sanctum Lux Divine SRL).",
+    "back": "Zpět na hlavní stránku",
+    "withdrawalCta": "Potřebujete odstoupit od smlouvy? Použijte náš online formulář →"
+  },
+  "WithdrawalPage": {
+    "metaTitle": "Odstoupení od smlouvy | The Path of Initiation Prague",
+    "metaDescription": "Odešlete elektronické odstoupení od smlouvy s The Path of Initiation Prague v souladu s čl. 6.4 našich Všeobecných obchodních podmínek.",
+    "back": "Zpět na hlavní stránku",
+    "heading": "Odstoupení od smlouvy",
+    "intro": "Pomocí tohoto formuláře můžete elektronicky podat odstoupení od smlouvy, jak stanoví čl. 6.4 našich Všeobecných obchodních podmínek. Na e-mail vám přijde potvrzení o přijetí.",
+    "servicesLabel": "Od jaké Služby odstupujete?",
+    "servicesPlaceholder": "např. Empower Thyself, termín 12. září 2026",
+    "orderDateLabel": "Datum objednání",
+    "orderNumberLabel": "Číslo objednávky (bylo-li přiděleno)",
+    "orderNumberOptional": "nepovinné",
+    "nameLabel": "Vaše jméno a příjmení",
+    "addressLabel": "Vaše adresa",
+    "bankAccountLabel": "Číslo bankovního účtu pro vrácení peněz",
+    "emailLabel": "Váš e-mail",
+    "emailHint": "Sem vám zašleme potvrzení.",
+    "submit": "Odeslat odstoupení od smlouvy",
+    "submitting": "Odesílání…",
+    "success": "Přijato — potvrzení naleznete ve své e-mailové schránce.",
+    "errorGeneric": "Něco se nepovedlo. Zkuste to prosím znovu, nebo nám napište přímo na radu@thepathofinitiationprague.com.",
+    "requiredFieldsNote": "Všechna pole jsou povinná, pokud není uvedeno jinak."
   }
 }

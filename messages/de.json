@@ -38,7 +38,10 @@
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
     "certifiedAlt": "Zertifiziert von der Modern Mystery School",
-    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Alle Rechte vorbehalten."
+    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Alle Rechte vorbehalten.",
+    "privacyPolicy": "Datenschutzerklärung",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "withdrawFromContract": "Vom Vertrag zurücktreten"
   },
   "Modality": {
     "whatsapp": "WhatsApp",
@@ -912,5 +915,38 @@
       "attribution": "Rumi · 13. Jahrhundert",
       "caption": "Die Königin von Saba vor dem Tempel Salomons · S. de Bray, 1657"
     }
+  },
+  "PrivacyPolicyPage": {
+    "metaTitle": "Datenschutzerklärung | The Path of Initiation Prague",
+    "metaDescription": "Wie The Path of Initiation Prague (Sanctum Lux Divine SRL) Ihre personenbezogenen Daten gemäß der DSGVO verarbeitet und schützt.",
+    "back": "Zurück zur Startseite"
+  },
+  "TermsPage": {
+    "metaTitle": "Allgemeine Geschäftsbedingungen | The Path of Initiation Prague",
+    "metaDescription": "Die Allgemeinen Geschäftsbedingungen für die Erbringung von Leistungen durch The Path of Initiation Prague (Sanctum Lux Divine SRL).",
+    "back": "Zurück zur Startseite",
+    "withdrawalCta": "Müssen Sie von einem Vertrag zurücktreten? Nutzen Sie unser Online-Formular →"
+  },
+  "WithdrawalPage": {
+    "metaTitle": "Vom Vertrag zurücktreten | The Path of Initiation Prague",
+    "metaDescription": "Reichen Sie Ihre Widerrufserklärung für Ihren Vertrag mit The Path of Initiation Prague elektronisch ein, gemäß Artikel 6.4 unserer Allgemeinen Geschäftsbedingungen.",
+    "back": "Zurück zur Startseite",
+    "heading": "Vom Vertrag zurücktreten",
+    "intro": "Nutzen Sie dieses Formular, um Ihre Widerrufserklärung elektronisch einzureichen, wie in Artikel 6.4 unserer Allgemeinen Geschäftsbedingungen vorgesehen. Sie erhalten eine E-Mail-Bestätigung über den Eingang.",
+    "servicesLabel": "Von welcher Leistung möchten Sie zurücktreten?",
+    "servicesPlaceholder": "z. B. Empower Thyself, gebucht für den 12. September 2026",
+    "orderDateLabel": "Datum der Bestellung",
+    "orderNumberLabel": "Bestellnummer (falls vergeben)",
+    "orderNumberOptional": "optional",
+    "nameLabel": "Ihr vollständiger Name",
+    "addressLabel": "Ihre Anschrift",
+    "bankAccountLabel": "Kontonummer für die Rückerstattung",
+    "emailLabel": "Ihre E-Mail-Adresse",
+    "emailHint": "Hierhin senden wir Ihre Bestätigung.",
+    "submit": "Widerrufserklärung absenden",
+    "submitting": "Wird gesendet…",
+    "success": "Empfangen — die Bestätigung finden Sie in Ihrem Postfach.",
+    "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt an radu@thepathofinitiationprague.com.",
+    "requiredFieldsNote": "Alle Felder sind Pflichtfelder, sofern nicht als optional gekennzeichnet."
   }
 }
