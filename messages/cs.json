@@ -927,6 +927,17 @@
     "back": "Zpět na hlavní stránku",
     "withdrawalCta": "Potřebujete odstoupit od smlouvy? Použijte náš online formulář →"
   },
+  "ContactDialog": {
+    "title": "Odeslat zprávu",
+    "description": "Vyplňte formulář a zpráva dorazí přímo do Raduovy schránky.",
+    "nameLabel": "Vaše jméno",
+    "emailLabel": "Váš e-mail",
+    "messageLabel": "Zpráva",
+    "submit": "Odeslat zprávu",
+    "submitting": "Odesílání…",
+    "success": "Odesláno — Radu se vám brzy osobně ozve. Potvrzení právě míří do vaší schránky.",
+    "errorGeneric": "Něco se nepovedlo. Zkuste to prosím znovu, nebo nás kontaktujte přes WhatsApp."
+  },
   "WithdrawalPage": {
     "metaTitle": "Odstoupení od smlouvy | The Path of Initiation Prague",
     "metaDescription": "Odešlete elektronické odstoupení od smlouvy s The Path of Initiation Prague v souladu s čl. 6.4 našich Všeobecných obchodních podmínek.",

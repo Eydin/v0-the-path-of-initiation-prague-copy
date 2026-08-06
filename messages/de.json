@@ -927,6 +927,17 @@
     "back": "Zurück zur Startseite",
     "withdrawalCta": "Müssen Sie von einem Vertrag zurücktreten? Nutzen Sie unser Online-Formular →"
   },
+  "ContactDialog": {
+    "title": "Nachricht senden",
+    "description": "Füllen Sie das Formular aus, und Ihre Nachricht landet direkt in Radus Posteingang.",
+    "nameLabel": "Ihr Name",
+    "emailLabel": "Ihre E-Mail-Adresse",
+    "messageLabel": "Nachricht",
+    "submit": "Nachricht senden",
+    "submitting": "Wird gesendet…",
+    "success": "Gesendet — Radu meldet sich bald persönlich bei Ihnen. Eine Bestätigung ist bereits unterwegs in Ihr Postfach.",
+    "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns über WhatsApp."
+  },
   "WithdrawalPage": {
     "metaTitle": "Vom Vertrag zurücktreten | The Path of Initiation Prague",
     "metaDescription": "Reichen Sie Ihre Widerrufserklärung für Ihren Vertrag mit The Path of Initiation Prague elektronisch ein, gemäß Artikel 6.4 unserer Allgemeinen Geschäftsbedingungen.",

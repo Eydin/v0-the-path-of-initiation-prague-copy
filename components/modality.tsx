@@ -7,6 +7,7 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { UpcomingDates } from "@/components/upcoming-dates"
+import { EmailContactButton } from "@/components/email-contact-button"
 import { ArrowRight, Mail, MessageCircle } from "lucide-react"
 
 // ── Shared contact details ──────────────────────────────────────────────
@@ -190,16 +191,14 @@ export function WhatsAppButton({ text, label }: { text: string; label?: string }
 export function EmailButton({ subject }: { subject: string }) {
   const t = useTranslations("Modality")
   return (
-    <a
-      href={`mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}`}
-      target="_blank"
-      rel="noopener noreferrer"
+    <EmailContactButton
+      context={subject}
       className="inline-flex items-center justify-center gap-3 rounded border border-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground"
     >
       <Mail className="h-4 w-4" />
       {t("email")}
       <ArrowRight className="h-4 w-4" />
-    </a>
+    </EmailContactButton>
   )
 }
 

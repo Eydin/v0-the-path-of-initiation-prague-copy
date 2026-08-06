@@ -4,6 +4,7 @@ import Image from "next/image"
 import { useTranslations } from "next-intl"
 import { Link } from "@/i18n/navigation"
 import { BRAND } from "@/lib/brand-names"
+import { EmailContactButton } from "@/components/email-contact-button"
 
 export function Footer() {
   const t = useTranslations("Footer")
@@ -93,14 +94,9 @@ export function Footer() {
               >
                 {t("facebook")}
               </a>
-              <a
-                href="mailto:radu@thepathofinitiationprague.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm text-muted-foreground transition-colors hover:text-primary"
-              >
+              <EmailContactButton className="text-left text-sm text-muted-foreground transition-colors hover:text-primary">
                 radu@thepathofinitiationprague.com
-              </a>
+              </EmailContactButton>
               <Link href="/certifications" className="text-sm text-muted-foreground transition-colors hover:text-primary">
                 {tNav("nav.certifications")}
               </Link>

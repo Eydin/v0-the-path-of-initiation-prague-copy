@@ -927,6 +927,17 @@
     "back": "Înapoi la pagina principală",
     "withdrawalCta": "Trebuie să vă retrageți dintr-un contract? Utilizați formularul nostru online →"
   },
+  "ContactDialog": {
+    "title": "Trimite un mesaj",
+    "description": "Completați formularul și mesajul va ajunge direct în inbox-ul lui Radu.",
+    "nameLabel": "Numele dumneavoastră",
+    "emailLabel": "Adresa dumneavoastră de e-mail",
+    "messageLabel": "Mesaj",
+    "submit": "Trimite mesajul",
+    "submitting": "Se trimite…",
+    "success": "Trimis — Radu vă va răspunde personal în curând. O confirmare este pe drum către inbox-ul dumneavoastră.",
+    "errorGeneric": "Ceva nu a funcționat. Vă rugăm să încercați din nou sau să ne contactați pe WhatsApp."
+  },
   "WithdrawalPage": {
     "metaTitle": "Retragere din contract | The Path of Initiation Prague",
     "metaDescription": "Trimiteți electronic notificarea de retragere din contractul cu The Path of Initiation Prague, în conformitate cu Articolul 6.4 al Termenilor și Condițiilor noastre Generale.",

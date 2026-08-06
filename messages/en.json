@@ -966,6 +966,17 @@
     "back": "Back to home",
     "withdrawalCta": "Need to withdraw from a contract? Use our online withdrawal form →"
   },
+  "ContactDialog": {
+    "title": "Send a Message",
+    "description": "Fill this in and it'll land straight in Radu's inbox.",
+    "nameLabel": "Your name",
+    "emailLabel": "Your e-mail address",
+    "messageLabel": "Message",
+    "submit": "Send Message",
+    "submitting": "Sending…",
+    "success": "Sent — Radu will get back to you personally soon. A confirmation is on its way to your inbox.",
+    "errorGeneric": "Something went wrong. Please try again, or reach out on WhatsApp instead."
+  },
   "WithdrawalPage": {
     "metaTitle": "Withdraw from the Contract | The Path of Initiation Prague",
     "metaDescription": "Submit an electronic notice of withdrawal from your contract with The Path of Initiation Prague, in accordance with Article 6.4 of our General Terms and Conditions.",
