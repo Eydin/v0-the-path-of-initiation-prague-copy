@@ -32,6 +32,7 @@ import { content as sevenMysterySchoolsExplained } from "./content/seven-mystery
 import { content as tarotAsAMirror } from "./content/tarot-as-a-mirror"
 import { content as crystalsSaltsHolyWater } from "./content/crystals-salts-holy-water"
 import { content as whyMagickIsGood } from "./content/why-magick-is-good"
+import { content as whatIsARitualMaster } from "./content/what-is-a-ritual-master"
 
 export type BlogCategory =
   | "Lineage & History"
@@ -533,6 +534,28 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     readTime: "8 min read",
     content: whyMagickIsGood,
+  },
+  {
+    slug: "what-is-a-ritual-master",
+    title: "What Is a Ritual Master? A Story of Meeting My First Teacher",
+    excerpt:
+      "A personal story of meeting my first Ritual Master, and the path of preparation — from Life Activation to Healers Academy — that had to come first.",
+    category: "Practical Magick",
+    coverImage: "Ritual Master Blog.jpg",
+    readyToPost: true,
+    releaseDate: "2026-08-17",
+    keywords: [
+      "Ritual Master",
+      "what is a Ritual Master",
+      "Ritual Master path",
+      "Modern Mystery School",
+      "Life Activation",
+      "Healers Academy",
+      "King Salomon lineage",
+      "Radu Coman",
+    ],
+    readTime: "5 min read",
+    content: whatIsARitualMaster,
   },
 ]
 
