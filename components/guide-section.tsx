@@ -85,14 +85,14 @@ export function GuideSection() {
           </ScrollReveal>
         </div>
 
-        {/* ================= DIANA CINPOERU SECTION ================= */}
+        {/* ================= DIANA COMAN SECTION ================= */}
         <ScrollReveal>
           <div className="mt-24 lg:mt-32 mb-12 text-center">
             <p className="mb-3 font-serif text-sm tracking-[0.3em] text-primary uppercase">
               {t("dianaRole")}
             </p>
             <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-4xl">
-              Diana Cinpoeru
+              Diana Coman
             </h2>
           </div>
         </ScrollReveal>
@@ -123,8 +123,8 @@ export function GuideSection() {
               {/* soft gold aura behind the portrait */}
               <div className="absolute -inset-3 -z-10 rounded-sm bg-primary/15 blur-2xl" aria-hidden />
               <KenBurns
-                src="/images/diana-cinpoeru.jpeg"
-                alt="Diana Cinpoeru — Teacher and Healer"
+                src="/images/diana-coman.jpeg"
+                alt="Diana Coman — Teacher and Healer"
                 position="center 25%"
                 sizes="(max-width: 1024px) 90vw, 28rem"
                 className="aspect-[3/4] w-full rounded-sm border border-primary/40 shadow-2xl shadow-black/60 ring-1 ring-primary/10"
@@ -132,7 +132,7 @@ export function GuideSection() {
               {/* gradient lift + name plate */}
               <div className="pointer-events-none absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/70 to-transparent" />
               <p className="absolute bottom-4 left-5 font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                Diana Cinpoeru
+                Diana Coman
               </p>
             </div>
           </ScrollReveal>
