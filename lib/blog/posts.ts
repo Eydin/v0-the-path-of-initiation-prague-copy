@@ -33,6 +33,7 @@ import { content as tarotAsAMirror } from "./content/tarot-as-a-mirror"
 import { content as crystalsSaltsHolyWater } from "./content/crystals-salts-holy-water"
 import { content as whyMagickIsGood } from "./content/why-magick-is-good"
 import { content as whatIsARitualMaster } from "./content/what-is-a-ritual-master"
+import { content as lifeActivationVsFullSpiritActivation } from "./content/life-activation-vs-full-spirit-activation"
 
 export type BlogCategory =
   | "Lineage & History"
@@ -556,6 +557,28 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     readTime: "5 min read",
     content: whatIsARitualMaster,
+  },
+  {
+    slug: "life-activation-vs-full-spirit-activation",
+    title: "Life Activation vs. Full Spirit Activation: A Side-by-Side Guide",
+    excerpt:
+      "Two foundational activations, one lineage — how Life Activation and Full Spirit Activation differ in focus, depth, and timing, and which to book first.",
+    category: "Healing & Modalities",
+    coverImage: "francisco-camilo-ascension-google-art-project.jpg",
+    readyToPost: true,
+    releaseDate: "2026-08-23",
+    keywords: [
+      "Life Activation",
+      "Full Spirit Activation",
+      "Life Activation vs Full Spirit Activation",
+      "DNA activation",
+      "soul activation",
+      "Divine Blueprint",
+      "Modern Mystery School",
+      "spiritual activation Prague",
+    ],
+    readTime: "7 min read",
+    content: lifeActivationVsFullSpiritActivation,
   },
 ]
 
