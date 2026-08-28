@@ -8,31 +8,51 @@ import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { ParallaxImage } from "@/components/parallax-image"
 import { BlogArticleBody } from "@/components/blog-article-body"
-import { BLOG_POSTS, getPostBySlug, formatPostDate, isPreviewMode, isReleased } from "@/lib/blog/posts"
+import { BLOG_POSTS, getPostBySlug, formatPostDate, isPreviewMode, isReleased, hasTranslation } from "@/lib/blog/posts"
+import { routing, type Locale } from "@/i18n/routing"
 
 export const dynamic = "force-dynamic"
 
 const SITE = "https://www.thepathofinitiationprague.com"
 
+/** e.g. localizedPostUrl("cs", "magick") -> ".../cs/blog/magick"; English stays unprefixed. */
+function localizedPostUrl(locale: Locale, slug: string) {
+  const prefix = locale === routing.defaultLocale ? "" : `/${locale}`
+  return `${SITE}${prefix}/blog/${slug}`
+}
+
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ locale: string; slug: string }>
+  params: Promise<{ locale: Locale; slug: string }>
 }): Promise<Metadata> {
-  const { slug } = await params
-  const post = getPostBySlug(slug)
+  const { locale, slug } = await params
+  const post = getPostBySlug(slug, locale)
   if (!post) return {}
 
-  const url = `${SITE}/blog/${post.slug}`
+  const translated = hasTranslation(post, locale)
+  const url = localizedPostUrl(locale, post.slug)
+  // Untranslated posts always canonicalize to the unprefixed English URL, to
+  // avoid indexing near-duplicate content under /cs, /de, /ro. Once a post is
+  // translated, its own localized URL becomes canonical and gets full hreflang
+  // alternates across every locale that has a translation.
+  const canonical = translated ? url : localizedPostUrl(routing.defaultLocale, post.slug)
   const image = `${SITE}/images/art/${post.coverImage}`
 
   return {
     title: `${post.title} | The Path of Initiation Prague`,
     description: post.excerpt,
     keywords: post.keywords,
-    // Article body isn't translated yet, so every locale canonicalizes to the
-    // unprefixed English URL — avoids indexing near-duplicate-content pages.
-    alternates: { canonical: url },
+    alternates: {
+      canonical,
+      ...(translated && {
+        languages: Object.fromEntries(
+          routing.locales
+            .filter((l) => hasTranslation(post, l))
+            .map((l) => [l, localizedPostUrl(l, post.slug)]),
+        ),
+      }),
+    },
     openGraph: {
       title: post.title,
       description: post.excerpt,
@@ -47,17 +67,19 @@ export async function generateMetadata({
 export default async function BlogPostPage({
   params,
 }: {
-  params: Promise<{ locale: string; slug: string }>
+  params: Promise<{ locale: Locale; slug: string }>
 }) {
-  const { slug } = await params
-  const post = getPostBySlug(slug)
+  const { locale, slug } = await params
+  const post = getPostBySlug(slug, locale)
   if (!post) notFound()
 
   const t = await getTranslations("BlogPostPage")
 
   const related = BLOG_POSTS.filter(
-    (p) => p.slug !== post.slug && getPostBySlug(p.slug) && p.category === post.category,
-  ).slice(0, 2)
+    (p) => p.slug !== post.slug && getPostBySlug(p.slug, locale) && p.category === post.category,
+  )
+    .map((p) => getPostBySlug(p.slug, locale)!)
+    .slice(0, 2)
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -66,7 +88,7 @@ export default async function BlogPostPage({
     description: post.excerpt,
     datePublished: post.releaseDate,
     image: `${SITE}/images/art/${post.coverImage}`,
-    url: `${SITE}/blog/${post.slug}`,
+    url: localizedPostUrl(locale, post.slug),
     keywords: post.keywords.join(", "),
     author: {
       "@type": "Person",

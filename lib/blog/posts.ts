@@ -5,9 +5,15 @@
 //  returned by getPublishedPosts()/getPostBySlug() once that date has
 //  arrived — see isPublished() below. To add a post, add its metadata
 //  here and its markdown body in ./content/<slug>.ts.
+//
+//  Translations are optional and per-post: a translated title/excerpt/content
+//  trio lives in ./content/<locale>/<slug>.ts and is attached via the post's
+//  `translations` field. Untranslated posts/locales silently fall back to the
+//  English fields — see localizePost().
 // ─────────────────────────────────────────────────────────────────────────
 
 import { parseLocalDate } from "@/lib/schedule"
+import type { Locale } from "@/i18n/routing"
 
 import { content as whoIsKingSalomon } from "./content/who-is-king-salomon"
 import { content as magickWands } from "./content/magick-wands"
@@ -36,6 +42,25 @@ import { content as whatIsARitualMaster } from "./content/what-is-a-ritual-maste
 import { content as lifeActivationVsFullSpiritActivation } from "./content/life-activation-vs-full-spirit-activation"
 import { content as youAreASpiritualBeingFirst } from "./content/you-are-a-spiritual-being-first"
 
+import { post as whoIsKingSalomonCs } from "./content/cs/who-is-king-salomon"
+import { post as whoIsKingSalomonDe } from "./content/de/who-is-king-salomon"
+import { post as whoIsKingSalomonRo } from "./content/ro/who-is-king-salomon"
+import { post as magickWandsCs } from "./content/cs/magick-wands"
+import { post as magickWandsDe } from "./content/de/magick-wands"
+import { post as magickWandsRo } from "./content/ro/magick-wands"
+import { post as magickCs } from "./content/cs/magick"
+import { post as magickDe } from "./content/de/magick"
+import { post as magickRo } from "./content/ro/magick"
+import { post as whatIsARitualMasterCs } from "./content/cs/what-is-a-ritual-master"
+import { post as whatIsARitualMasterDe } from "./content/de/what-is-a-ritual-master"
+import { post as whatIsARitualMasterRo } from "./content/ro/what-is-a-ritual-master"
+import { post as lifeActivationVsFullSpiritActivationCs } from "./content/cs/life-activation-vs-full-spirit-activation"
+import { post as lifeActivationVsFullSpiritActivationDe } from "./content/de/life-activation-vs-full-spirit-activation"
+import { post as lifeActivationVsFullSpiritActivationRo } from "./content/ro/life-activation-vs-full-spirit-activation"
+import { post as youAreASpiritualBeingFirstCs } from "./content/cs/you-are-a-spiritual-being-first"
+import { post as youAreASpiritualBeingFirstDe } from "./content/de/you-are-a-spiritual-being-first"
+import { post as youAreASpiritualBeingFirstRo } from "./content/ro/you-are-a-spiritual-being-first"
+
 export type BlogCategory =
   | "Lineage & History"
   | "Practical Magick"
@@ -63,6 +88,24 @@ export type BlogPost = {
   readTime: string
   /** Markdown body, rendered with react-markdown. */
   content: string
+  /** Translated title/excerpt/content for non-English locales. A locale missing
+   *  here (or the whole field, for most posts) falls back to the English fields
+   *  above — see localizePost(). */
+  translations?: Partial<Record<Exclude<Locale, "en">, { title: string; excerpt: string; content: string }>>
+}
+
+/** Returns `post` with title/excerpt/content swapped for the requested locale's
+ *  translation, if one exists. Falls back to the English fields untouched. */
+export function localizePost<T extends BlogPost>(post: T, locale: Locale): T {
+  const translation = locale === "en" ? undefined : post.translations?.[locale]
+  if (!translation) return post
+  return { ...post, title: translation.title, excerpt: translation.excerpt, content: translation.content }
+}
+
+/** Whether `post` has real content in `locale` — English always does; other
+ *  locales only once translated. Used to decide canonical URLs / sitemap entries. */
+export function hasTranslation(post: BlogPost, locale: Locale): boolean {
+  return locale === "en" || Boolean(post.translations?.[locale])
 }
 
 export const BLOG_POSTS: BlogPost[] = [
@@ -88,6 +131,11 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     readTime: "6 min read",
     content: whoIsKingSalomon,
+    translations: {
+      cs: whoIsKingSalomonCs,
+      de: whoIsKingSalomonDe,
+      ro: whoIsKingSalomonRo,
+    },
   },
   {
     slug: "magick-wands",
@@ -109,6 +157,11 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     readTime: "5 min read",
     content: magickWands,
+    translations: {
+      cs: magickWandsCs,
+      de: magickWandsDe,
+      ro: magickWandsRo,
+    },
   },
   {
     slug: "magick",
@@ -131,6 +184,11 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     readTime: "6 min read",
     content: magick,
+    translations: {
+      cs: magickCs,
+      de: magickDe,
+      ro: magickRo,
+    },
   },
   {
     slug: "spagyrics",
@@ -558,6 +616,11 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     readTime: "5 min read",
     content: whatIsARitualMaster,
+    translations: {
+      cs: whatIsARitualMasterCs,
+      de: whatIsARitualMasterDe,
+      ro: whatIsARitualMasterRo,
+    },
   },
   {
     slug: "life-activation-vs-full-spirit-activation",
@@ -580,6 +643,11 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     readTime: "7 min read",
     content: lifeActivationVsFullSpiritActivation,
+    translations: {
+      cs: lifeActivationVsFullSpiritActivationCs,
+      de: lifeActivationVsFullSpiritActivationDe,
+      ro: lifeActivationVsFullSpiritActivationRo,
+    },
   },
   {
     slug: "you-are-a-spiritual-being-first",
@@ -601,6 +669,11 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     readTime: "4 min read",
     content: youAreASpiritualBeingFirst,
+    translations: {
+      cs: youAreASpiritualBeingFirstCs,
+      de: youAreASpiritualBeingFirstDe,
+      ro: youAreASpiritualBeingFirstRo,
+    },
   },
 ]
 
@@ -629,15 +702,19 @@ export function isPublished(post: BlogPost): boolean {
   return isPreviewMode() || (isReleased(post) && post.readyToPost)
 }
 
-/** All published posts, newest first. */
-export function getPublishedPosts(): BlogPost[] {
-  return BLOG_POSTS.filter(isPublished).sort((a, b) => b.releaseDate.localeCompare(a.releaseDate))
+/** All published posts, newest first, localized to `locale` (falls back to
+ *  English for any post without a translation for that locale). */
+export function getPublishedPosts(locale: Locale = "en"): BlogPost[] {
+  return BLOG_POSTS.filter(isPublished)
+    .map((post) => localizePost(post, locale))
+    .sort((a, b) => b.releaseDate.localeCompare(a.releaseDate))
 }
 
-/** A single published post by slug — undefined if unknown or not yet released. */
-export function getPostBySlug(slug: string): BlogPost | undefined {
+/** A single published post by slug, localized to `locale` — undefined if
+ *  unknown or not yet released. Falls back to English if untranslated. */
+export function getPostBySlug(slug: string, locale: Locale = "en"): BlogPost | undefined {
   const post = BLOG_POSTS.find((p) => p.slug === slug)
-  return post && isPublished(post) ? post : undefined
+  return post && isPublished(post) ? localizePost(post, locale) : undefined
 }
 
 /** "11 July 2026" */

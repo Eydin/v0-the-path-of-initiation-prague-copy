@@ -7,6 +7,7 @@ import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { KenBurns } from "@/components/ken-burns"
 import { getPublishedPosts, formatPostDate, isPreviewMode, isReleased } from "@/lib/blog/posts"
+import type { Locale } from "@/i18n/routing"
 
 export const dynamic = "force-dynamic"
 
@@ -38,9 +39,14 @@ export async function generateMetadata({
   }
 }
 
-export default async function BlogIndexPage() {
+export default async function BlogIndexPage({
+  params,
+}: {
+  params: Promise<{ locale: Locale }>
+}) {
+  const { locale } = await params
   const t = await getTranslations("BlogPage")
-  const posts = getPublishedPosts()
+  const posts = getPublishedPosts(locale)
   const preview = isPreviewMode()
 
   return (

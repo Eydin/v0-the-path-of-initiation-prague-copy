@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next"
-import { getPublishedPosts } from "@/lib/blog/posts"
+import { getPublishedPosts, hasTranslation } from "@/lib/blog/posts"
 import { routing } from "@/i18n/routing"
 
 export const dynamic = "force-dynamic"
@@ -48,14 +48,35 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   )
 
-  // Blog post bodies aren't translated yet, so posts stay English-only and
-  // unprefixed — no locale variants, to avoid indexing near-duplicate content.
-  const postEntries: MetadataRoute.Sitemap = getPublishedPosts().map((post) => ({
-    url: `${SITE}/blog/${post.slug}`,
-    lastModified: post.releaseDate,
-    changeFrequency: "monthly",
-    priority: 0.6,
-  }))
+  // Most post bodies aren't translated, so they stay English-only and
+  // unprefixed to avoid indexing near-duplicate content. Posts that do have a
+  // translations field get one entry per translated locale, with hreflang
+  // alternates, same as the core routes above.
+  const postEntries: MetadataRoute.Sitemap = getPublishedPosts().flatMap((post) => {
+    const translatedLocales = routing.locales.filter((l) => hasTranslation(post, l))
+    if (translatedLocales.length <= 1) {
+      // English-only: just the one canonical, unprefixed URL.
+      return [
+        {
+          url: `${SITE}/blog/${post.slug}`,
+          lastModified: post.releaseDate,
+          changeFrequency: "monthly" as const,
+          priority: 0.6,
+        },
+      ]
+    }
+    return translatedLocales.map((locale) => ({
+      url: localizedUrl(locale, `/blog/${post.slug}`),
+      lastModified: post.releaseDate,
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+      alternates: {
+        languages: Object.fromEntries(
+          translatedLocales.map((l) => [l, localizedUrl(l, `/blog/${post.slug}`)]),
+        ),
+      },
+    }))
+  })
 
   return [...coreEntries, ...postEntries]
 }
