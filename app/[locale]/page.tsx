@@ -18,7 +18,8 @@ export default function Home() {
   return (
     <div className="overflow-x-hidden">
       <Header />
-      <main>
+      <main className="relative">
+        <div aria-hidden className="pointer-events-none absolute inset-0 -z-10 magnum-opus-gradient" />
         <HeroSection />
         <FactsSection />
         <PillarsSection />
@@ -33,7 +34,6 @@ export default function Home() {
           attribution={t("quote1.attribution")}
           caption={t("quote1.caption")}
           position="center 42%"
-          stage="albedo"
         />
 
         <HallOfInitiates />
@@ -53,7 +53,6 @@ export default function Home() {
           attribution={t("quote2.attribution")}
           caption={t("quote2.caption")}
           position="center 22%"
-          stage="rubedo"
         />
 
         <NewsletterSection />

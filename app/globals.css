@@ -33,9 +33,6 @@
   --gold-light: #e8c84a;
   --brown: #3E2723;
   --brown-light: #5D4037;
-  /* Magnum Opus stages — nigredo (void) → albedo (purification) → citrinitas (awakening) → rubedo (completion) */
-  --albedo: #C9CDD6;
-  --rubedo: #8B2A1E;
 }
 
 @theme inline {
@@ -142,23 +139,27 @@ html {
   will-change: transform;
 }
 
-/* ───────── Alchemical stage washes — the homepage's Magnum Opus arc ─────────
-   A quiet color drift from void to completion as the page is scrolled:
+/* ───────── Magnum Opus backdrop — one continuous gradient for the whole
+   homepage, instead of each section re-declaring its own wash (which used
+   to reset at every section boundary and cause visible seams). A single
+   quiet color drift from void to completion as the page is scrolled:
    nigredo (introduction) → albedo (teachings) → citrinitas (awakening) →
-   rubedo (culmination). Each is a faint radial glow layered over the black
-   base — never a hue swap — so contrast and existing card/border colors
-   stay untouched. */
-.stage-nigredo {
-  background: radial-gradient(ellipse 160% 100% at 50% 0%, rgba(10, 12, 20, 0.7), transparent 100%);
-}
-.stage-albedo {
-  background: radial-gradient(ellipse 160% 100% at 50% 0%, rgba(201, 205, 214, 0.16), transparent 100%);
-}
-.stage-citrinitas {
-  background: radial-gradient(ellipse 160% 100% at 50% 0%, rgba(212, 175, 55, 0.22), transparent 100%);
-}
-.stage-rubedo {
-  background: radial-gradient(ellipse 160% 100% at 50% 0%, rgba(139, 42, 30, 0.32), transparent 100%);
+   rubedo (culmination). Mounted once behind <main> — see app/[locale]/page.tsx.
+   Percentages are relative to <main>'s own rendered height, so this scales
+   correctly regardless of actual content height. */
+.magnum-opus-gradient {
+  background: linear-gradient(
+    to bottom,
+    rgba(10, 12, 20, 0.7) 0%,
+    rgba(10, 12, 20, 0.35) 8%,
+    rgba(201, 205, 214, 0.16) 16%,
+    rgba(201, 205, 214, 0.1) 24%,
+    rgba(212, 175, 55, 0.22) 34%,
+    rgba(212, 175, 55, 0.22) 68%,
+    rgba(212, 175, 55, 0.1) 78%,
+    rgba(139, 42, 30, 0.32) 88%,
+    rgba(139, 42, 30, 0.32) 100%
+  );
 }
 
 /* Respect users who prefer no motion */
