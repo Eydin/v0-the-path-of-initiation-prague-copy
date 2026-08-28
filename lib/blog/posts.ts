@@ -34,6 +34,7 @@ import { content as crystalsSaltsHolyWater } from "./content/crystals-salts-holy
 import { content as whyMagickIsGood } from "./content/why-magick-is-good"
 import { content as whatIsARitualMaster } from "./content/what-is-a-ritual-master"
 import { content as lifeActivationVsFullSpiritActivation } from "./content/life-activation-vs-full-spirit-activation"
+import { content as youAreASpiritualBeingFirst } from "./content/you-are-a-spiritual-being-first"
 
 export type BlogCategory =
   | "Lineage & History"
@@ -579,6 +580,27 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     readTime: "7 min read",
     content: lifeActivationVsFullSpiritActivation,
+  },
+  {
+    slug: "you-are-a-spiritual-being-first",
+    title: "You Are a Spiritual Being First. Everything Else Comes Second.",
+    excerpt:
+      "You are not your body, job, or mistakes — you are Spirit having a human experience. Why ignoring your spiritual nature quietly costs you.",
+    category: "Healing & Modalities",
+    coverImage: "angelico-visione-di-ezechiele-san-marco.jpg",
+    readyToPost: true,
+    releaseDate: "2026-08-28",
+    keywords: [
+      "spiritual being",
+      "spiritual development",
+      "Life Activation",
+      "divine inheritance",
+      "spiritual awakening",
+      "Modern Mystery School",
+      "Radu Coman",
+    ],
+    readTime: "4 min read",
+    content: youAreASpiritualBeingFirst,
   },
 ]
 
