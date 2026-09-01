@@ -101,7 +101,7 @@ export const SCHEDULE: ScheduledClass[] = [
     category: "Workshop",
     title: "Sacred Geometry",
     location: "Prague, CZ",
-    time: "10:00",
+    time: "14:00",
     duration: "Workshop - 5 Hours",
     dates: [
       "2026-07-11",
