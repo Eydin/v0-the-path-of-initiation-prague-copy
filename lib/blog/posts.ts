@@ -41,6 +41,11 @@ import { content as whyMagickIsGood } from "./content/why-magick-is-good"
 import { content as whatIsARitualMaster } from "./content/what-is-a-ritual-master"
 import { content as lifeActivationVsFullSpiritActivation } from "./content/life-activation-vs-full-spirit-activation"
 import { content as youAreASpiritualBeingFirst } from "./content/you-are-a-spiritual-being-first"
+import { content as structureBehindThePractice } from "./content/structure-behind-the-practice"
+
+import { post as structureBehindThePracticeCs } from "./content/cs/structure-behind-the-practice"
+import { post as structureBehindThePracticeDe } from "./content/de/structure-behind-the-practice"
+import { post as structureBehindThePracticeRo } from "./content/ro/structure-behind-the-practice"
 
 import { post as whoIsKingSalomonCs } from "./content/cs/who-is-king-salomon"
 import { post as whoIsKingSalomonDe } from "./content/de/who-is-king-salomon"
@@ -673,6 +678,33 @@ export const BLOG_POSTS: BlogPost[] = [
       cs: youAreASpiritualBeingFirstCs,
       de: youAreASpiritualBeingFirstDe,
       ro: youAreASpiritualBeingFirstRo,
+    },
+  },
+  {
+    slug: "structure-behind-the-practice",
+    title: "The Structure Behind the Practice: Why Energy Work Needs Sacred Geometry",
+    excerpt:
+      "Energy work without structure is a candle in the wind — real, but it doesn't hold. Sacred Geometry is the 3,000-year-old structure that makes it last.",
+    category: "Healing & Modalities",
+    coverImage: "the-elements-alchemical-and-rosicrucian-compendium-c-1760.jpg",
+    readyToPost: true,
+    releaseDate: "2026-09-06",
+    keywords: [
+      "Sacred Geometry",
+      "Sacred Geometry workshop Prague",
+      "energy work",
+      "spiritual structure",
+      "grid your home",
+      "Modern Mystery School",
+      "Diana Coman",
+      "Radu Coman",
+    ],
+    readTime: "5 min read",
+    content: structureBehindThePractice,
+    translations: {
+      cs: structureBehindThePracticeCs,
+      de: structureBehindThePracticeDe,
+      ro: structureBehindThePracticeRo,
     },
   },
 ]
