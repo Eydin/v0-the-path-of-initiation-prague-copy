@@ -172,7 +172,7 @@ export default function CalendarPage() {
               {/* legend + closing CTA */}
               <ScrollReveal>
                 <div className="mt-16 border-t border-primary/15 pt-10 text-center">
-                  <div className="mb-8 flex items-center justify-center gap-6 text-xs uppercase tracking-[0.2em] text-muted-foreground">
+                  <div className="mb-8 flex flex-wrap items-center justify-center gap-x-6 gap-y-3 text-xs uppercase tracking-[0.2em] text-muted-foreground">
                     <span className="inline-flex items-center gap-2">
                       <span className="h-[10px] w-[10px] rotate-45 bg-primary" />
                       {t("categories.Activation")}

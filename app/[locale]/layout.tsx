@@ -312,7 +312,7 @@ export default async function LocaleLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
-      <body className="font-sans antialiased bg-background text-foreground">
+      <body className="overflow-x-hidden font-sans antialiased bg-background text-foreground">
         <NextIntlClientProvider messages={messages}>
           {children}
           <ChatWidget />
