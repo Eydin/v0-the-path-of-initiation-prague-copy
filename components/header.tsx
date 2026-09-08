@@ -46,6 +46,8 @@ export function Header() {
     { href: "/empower-thyself", label: BRAND.empowerThyself },
     { href: "/healers-academy", label: BRAND.healersAcademy },
     { href: "/ritual-master", label: BRAND.ritualMaster },
+    { href: "/keys-of-the-ancients", label: t("nav.keysOfTheAncients") },
+    { href: "/kabbalah-ascension", label: t("nav.kabbalahAscension") },
   ]
 
   const healing = [

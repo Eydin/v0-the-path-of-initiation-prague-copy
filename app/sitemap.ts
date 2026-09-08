@@ -22,10 +22,15 @@ const CORE_ROUTES = [
   "/specialty-healings",
   "/aura-healing",
   "/sacred-geometry",
+  "/sacred-geometry-2",
+  "/sacred-geometry-3",
+  "/sacred-geometry-4",
   "/astral-travel",
   "/spiritual-intuition",
   "/seven-mystery-schools",
   "/stress-management",
+  "/keys-of-the-ancients",
+  "/kabbalah-ascension",
   "/blog",
 ]
 

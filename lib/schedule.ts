@@ -114,6 +114,35 @@ export const SCHEDULE: ScheduledClass[] = [
     ],
   },
   {
+    // No dates yet — not scheduled in Prague. Its page shows a "coming soon"
+    // note instead of an UpcomingDates box (see BookingBlock's `note` prop).
+    slug: "sacred-geometry-2",
+    category: "Workshop",
+    title: "Sacred Geometry II",
+    location: "Prague, CZ",
+    time: "10:00",
+    duration: "Full-Day Workshop",
+    dates: [],
+  },
+  {
+    slug: "sacred-geometry-3",
+    category: "Workshop",
+    title: "Sacred Geometry III",
+    location: "Prague, CZ",
+    time: "10:00",
+    duration: "Workshop",
+    dates: [],
+  },
+  {
+    slug: "sacred-geometry-4",
+    category: "Workshop",
+    title: "Sacred Geometry IV",
+    location: "Prague, CZ",
+    time: "10:00",
+    duration: "Workshop",
+    dates: [],
+  },
+  {
     slug: "astral-travel",
     category: "Workshop",
     title: "Astral Travel",

@@ -21,6 +21,8 @@
       "spiritualIntuition": "Spirituelle Intuition",
       "sevenMysterySchools": "Die 7 Mysterienschulen",
       "stressManagement": "Stress-Rettung",
+      "keysOfTheAncients": "Keys of the Ancients",
+      "kabbalahAscension": "Kabbalah Ascension Program",
       "guide": "Dein Guide",
       "lineage": "Abstammungslinie",
       "testimonials": "Erfahrungsberichte",
@@ -579,6 +581,118 @@
     "duration": "Workshop",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
     "inquiry": "Hallo Radu, ich möchte gerne mehr über den {brand}-Workshop erfahren."
+  },
+  "SacredGeometry2Page": {
+    "heroEyebrow": "Die Sacred-Geometry-Reihe · Stufe II",
+    "heroSubtitle": "Kristallheilung & Raumschutz",
+    "heroTagline": "Einfache, uralte Methoden der Kristallheilung — für dich selbst und für die, denen du dienst.",
+    "introLead": "Der nächste Schritt in der Sacred-Geometry-Reihe",
+    "introBody1": "Sacred Geometry II gibt wunderschöne, aber einfache Methoden der Kristallheilung und des Raumschutzes weiter, mit Kristalllayouts, die du an dir selbst oder im Dienst an Klienten anwenden kannst. Während Sacred Geometry I die drei grundlegenden Geometrien und den Schutz eines Raumes einführt, geht diese Stufe tiefer in die kristallinen Strukturen, die diese Energie tragen und lenken.",
+    "introBody2": "Dies ist eine fortgeschrittene Klasse der Modern Mystery School — Voraussetzung ist <strong>Sacred Geometry I</strong>. Wenn du Sacred Geometry I bereits abgeschlossen hast und eine Heilpraxis führst, sind dies die Werkzeuge, die sie weiterbringen.",
+    "askLabel": "Frage zu Sacred Geometry II",
+    "learnHeading": "Was du lernen wirst",
+    "benefits": [
+      { "label": "Edelsteinheilung:", "text": "Arbeite mit der Frequenz bestimmter Edelsteine, um dein Energiefeld für körperliche, emotionale und mentale Heilung abzustimmen — einschließlich größerer Ermächtigung und eines besseren Verhältnisses zu Zeit und Raum." },
+      { "label": "Kristall-Riten:", "text": "Eine Partnerübung mit Zwillingskristallen und einem uralten Mantra, um emotionales Trauma zu lösen und zu durchschreiten und positive Energie für das Kommende einzuladen." },
+      { "label": "Kristallgitter:", "text": "Strukturierte Kristall-Layouts, die Schutz, Heiligkeit und Fülle in ein Zuhause, einen Heilraum oder einen Arbeitsplatz bringen." }
+    ],
+    "bookingTitle": "Sacred Geometry II in Prag",
+    "duration": "Ganztages-Workshop",
+    "bookingNote": "Demnächst in Prag — Sacred Geometry II ist hier noch nicht terminiert, steht aber als Nächstes an, sobald die Sacred-Geometry-Reihe hier vor Ort wächst. Melde dich bei Radu, um dein Interesse zu hinterlegen und als Erste(r) zu erfahren, wenn ein Termin feststeht.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über Sacred Geometry II erfahren."
+  },
+  "SacredGeometry3Page": {
+    "heroEyebrow": "Die Sacred-Geometry-Reihe · Stufe III",
+    "heroSubtitle": "Ägyptische Aura-Heilung",
+    "heroTagline": "Eine uralte Methode, um dem menschlichen Energiefeld seine Ganzheit zurückzugeben.",
+    "introLead": "Heilung der sieben Schichten der Aura",
+    "introBody1": "Sacred Geometry III geht dazu über, direkt mit der menschlichen Aura zu arbeiten — die aus sieben Schichten besteht, die die für Vitalität und Manifestation nötige Energie liefern. Diese einzigartige Heilmodalität ruft die Kraft der altägyptischen Götter und Göttinnen und ihr Wissen um die Dimensionen und Verhältnisse des physischen und energetischen menschlichen Körpers an.",
+    "introBody2": "Die Voraussetzungen sind die Initiation <strong>Empower Thyself</strong> sowie <strong>Sacred Geometry I & II</strong>. Es ist eine Praxis, die du für deine eigene Heilung ebenso wie im Dienst an anderen nutzen kannst.",
+    "askLabel": "Frage zu Sacred Geometry III",
+    "learnHeading": "Was du lernen wirst",
+    "benefits": [
+      { "label": "Ägyptische Aura-Heilung:", "text": "Eine altägyptische Heilmethode, die die Weisheit der Götter und Göttinnen und ihr Verständnis des physischen und energetischen Körpers anruft." },
+      { "label": "Die sieben Schichten der Aura:", "text": "Lerne, jede der sieben Schichten zu erkennen und mit ihr zu arbeiten, aus denen die menschliche Aura besteht — das Feld, das Vitalität und Manifestationskraft liefert." },
+      { "label": "Wiederherstellung der Aura-Struktur:", "text": "Stelle Gleichgewicht und den richtigen Fluss in den sieben Schichten der Aura wieder her und stelle ihre korrekte Struktur wieder her." }
+    ],
+    "bookingTitle": "Sacred Geometry III in Prag",
+    "duration": "Workshop",
+    "bookingNote": "Demnächst in Prag — Sacred Geometry III ist hier noch nicht terminiert, gehört aber zu dem, wohin sich die Sacred-Geometry-Reihe hier vor Ort entwickelt. Melde dich bei Radu, um dein Interesse zu hinterlegen und als Erste(r) zu erfahren, wenn ein Termin feststeht.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über Sacred Geometry III erfahren."
+  },
+  "SacredGeometry4Page": {
+    "heroEyebrow": "Die Sacred-Geometry-Reihe · Stufe IV",
+    "heroSubtitle": "Heiliger Raum & lebendige Tempel",
+    "heroTagline": "Enthülle die Geheimnisse heiligen Raums und lerne, sie selbst zu erschaffen.",
+    "introLead": "Die fortgeschrittenste hier unterrichtete Sacred-Geometry-Stufe",
+    "introBody1": "Sacred Geometry IV enthüllt die Geheimnisse heiliger Räume und befähigt dich, sie selbst zu erschaffen. Durch die Lehren der Sacred Geometries lernst du, das Spirituelle und das Physische zu verbinden, indem du Zuhause und Arbeitsplatz als heilige Sanktuarien aktivierst — und, indem du in diesen Tempeln lebst und arbeitest, praktisch jeden Bereich deines Lebens zu stärken.",
+    "introBody2": "Diese Stufe ist Initiierten der Modern Mystery School vorbehalten. Voraussetzungen sind, <strong>Certified Life Activation Practitioner</strong> zu sein und <strong>Sacred Geometry I–III</strong> abgeschlossen zu haben.",
+    "introBody3": "Sacred Geometry IV ist die fortgeschrittenste Stufe, die hier in Prag angeboten wird — doch sie ist nicht das Ende des Weges. Studierende, die weitergehen möchten, können ihre Sacred-Geometry-Ausbildung direkt am Hauptsitz der Modern Mystery School fortsetzen.",
+    "askLabel": "Frage zu Sacred Geometry IV",
+    "learnHeading": "Was du lernen wirst",
+    "benefits": [
+      { "label": "Lebendige Tempel:", "text": "Drei Raumschutz-Methoden, mit denen ein Zuhause oder Arbeitsplatz in ein echtes Sanktuarium verwandelt wird — einen Raum, der eine höhere Schwingung aktiv hält und verstärkt." },
+      { "label": "Gestärktes Alltagsleben:", "text": "Ein so aktivierter Raum stärkt Berichten zufolge praktisch jeden Lebensbereich derer, die in ihm leben und arbeiten." },
+      { "label": "Eine Brücke zwischen den Welten:", "text": "Die Methoden wirken, indem sie das Spirituelle und das Physische verbinden und höhere Energien an einem festen, physischen Ort verankern." }
+    ],
+    "bookingTitle": "Sacred Geometry IV in Prag",
+    "duration": "Workshop",
+    "bookingNote": "Demnächst in Prag — Sacred Geometry IV ist hier noch nicht terminiert, ist aber der Horizont, auf den die Sacred-Geometry-Reihe hier vor Ort zusteuert. Melde dich bei Radu, um dein Interesse zu hinterlegen und als Erste(r) zu erfahren, wenn ein Termin feststeht.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über Sacred Geometry IV erfahren."
+  },
+  "KeysOfTheAncientsPage": {
+    "heroEyebrow": "Ein globales Programm in der Linie von König Salomon",
+    "heroSubtitle": "Eine fünftägige hermetische Durchquerung mit Sovereign Ipsissimus Dave Lanyon",
+    "heroTagline": "Für alle, die bereit sind, ihr volles Potenzial zu entfalten und direkt in die tiefsten Lehren dieser Linie einzutreten.",
+    "introLead": "Persönlich unterrichtet von einem der höchsten Initiierten der Linie",
+    "introBody1": "<strong>Keys of the Ancients: A Hermetic Crossing into the Lineage of King Salomon</strong> ist eine fünftägige intensive Klasse unter der Leitung von Dave Lanyon — einem Sovereign Ipsissimus, Bestsellerautor und einem der ranghöchsten Schlüsselträger der Modern Mystery School. Sie enthüllt verborgene Schlüssel hermetischer Weisheit durch direkte, initiatorische Lehre und wird als intimes Kleingruppenprogramm (historisch rund 25 Teilnehmende) an ausgewählten Modern-Mystery-School-Standorten weltweit angeboten.",
+    "introBody2": "Teilnehmende erhalten neben den fünf Tagen direkter Lehre eine persönliche Life-Activation-Sitzung, die Initiation in die Linie von König Salomon, Dave Lanyons zwei Bücher und ein 72-Karten-Hermetic-Wisdom-Deck.",
+    "askLabel": "Radu zu diesem Programm fragen",
+    "learnHeading": "Was das Programm umfasst",
+    "benefits": [
+      { "label": "Die Kraft der Veränderung:", "text": "Direkte, praktische Lehre über Transformation — wie sie wirklich geschieht, und wie man aufhört, sich selbst im Weg zu stehen." },
+      { "label": "Die 5 Schlüssel zum Erfolg:", "text": "Universelle Prinzipien zur Überwindung von Hindernissen, entnommen der hermetischen Tradition, die Dave Lanyon seit Jahrzehnten lehrt." },
+      { "label": "Sacred Geometry & das Pentagramm:", "text": "Ein tieferer Blick auf die Bedeutung des Pentagramms innerhalb der hermetischen Linie und der Linie von König Salomon." },
+      { "label": "Geistführer:", "text": "Verständnis der Rolle, die Geistführer im echten spirituellen Wachstum spielen, und wie man den eigenen erkennt." }
+    ],
+    "forYouHeading": "Ist das etwas für dich?",
+    "forYouBody1": "Keys of the Ancients verlangt einen offenen Geist, echten Lernwillen und die Bereitschaft, sich herausfordern zu lassen. Es ist kein Einsteiger-Workshop — konzipiert für jene, die diesen Weg bereits gehen und bereit sind, direkt zur Quelle zu gehen und an der Seite eines Sovereign Ipsissimus selbst zu lernen.",
+    "forYouBody2": "Dies ist ein globales Programm der Modern Mystery School, keine lokal hier in Prag durchgeführte Sitzung. Termine, genaue Preise und Orte werden direkt von Dave Lanyons Team festgelegt und ändern sich von Durchgang zu Durchgang — aktuelle Details findest du auf <link>thedavelanyon.com</link>.",
+    "bookingTitle": "Neugierig auf Keys of the Ancients?",
+    "bookingNote": "Radu ist diese Linie selbst gegangen und teilt gerne, wie dieses Programm wirklich ist, hilft dir zu verstehen, ob es der richtige nächste Schritt für dich ist, und weist dir den Weg zu offiziellen Terminen und zur Anmeldung.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über Keys of the Ancients mit Dave Lanyon erfahren."
+  },
+  "KabbalahAscensionPage": {
+    "heroEyebrow": "Eine langfristige Aufstiegsreise",
+    "heroSubtitle": "Den Baum des Lebens erklimmen",
+    "heroTagline": "Eine spirituelle und alchemistische Verwandlung — kein Wochenende, sondern eine Reise.",
+    "introLead": "Zehn bis zwölf Monate geführten Aufstiegs",
+    "introBody1": "Das Universal Hermetic Ray Kabbalah Ascension Program ist eine Tradition der Modern Mystery School, die deiner Größe zum Durchbruch verhilft und dich mit deinem Lebenszweck in Einklang bringt. Die vollständige Aufstiegsreise dauert etwa zehn bis zwölf Monate und ist um vier persönliche Klassen herum aufgebaut — die meisten davon am Hauptsitz der Modern Mystery School, mit einem abschließenden Retreat-Wochenende in der Natur.",
+    "introBody2": "Indem du den Baum des Lebens erklimmst, aktivierst du Stufen von Bewusstsein, Heilung und Verständnis, die dich deinem wahrsten, verwirklichten Selbst näherbringen — ein tiefgreifendes System persönlicher Entwicklung, nicht nur ein Studium der Kabbala als Idee.",
+    "askLabel": "Radu zu diesem Programm fragen",
+    "learnHeading": "Was die Reise beinhaltet",
+    "benefits": [
+      { "label": "Den Baum des Lebens erklimmen:", "text": "Jedes der vier persönlichen Treffen aktiviert eine Stufe von Bewusstsein, Heilung, Weisheit und Verständnis, während du den Baum erklimmst." },
+      { "label": "Eine Methode, kein Dogma:", "text": "Ein nicht-dogmatisches System, das zu echter Selbstentdeckung einlädt und den Baum des Lebens als persönliche Landkarte nutzt statt als festen Satz von Antworten." },
+      { "label": "Beziehungen, Karriere & Lebenszweck:", "text": "Der Lehrplan arbeitet direkt mit Beziehungen und Selbstliebe, beruflicher Klarheit und der Ausrichtung deines Alltags auf deinen wahren Lebenszweck." },
+      { "label": "Kabbalist werden:", "text": "Der Abschluss aller vier persönlichen Klassen — die letzte ein Retreat-Wochenende in der Natur — vollendet die Reise. Du erhältst deine Krone zurück und beginnst, dein Leben als vollwertiger Kabbalist zu leben, von den Supernals aus — nicht nur aus dem unteren Teil des Baumes, zu dem die meisten Menschen Zugang haben." }
+    ],
+    "forYouHeading": "Ist das etwas für dich?",
+    "forYouBody1": "Mindestens musst du <strong>Adept Initiate</strong> sein — initiiert durch <strong>Empower Thyself</strong> —, um für das Ascension Program vorbereitet zu sein. Es wird jedoch dringend empfohlen, vor Antritt der Reise auch die <strong>Healers Academy</strong> abgeschlossen zu haben. Ein fortgeschrittener Track, Kabbalah for Kabbalists, wird zudem für Certified Life Activation Practitioners, Heiler, Ritual Masters und Guides angeboten, die einen tieferen Dienst suchen.",
+    "forYouBody2": "Dies ist ein globales Programm der Modern Mystery School auf Hauptsitz-Ebene, keine lokal hier in Prag durchgeführte Sitzung. Gruppengrößen und Durchgänge sind begrenzt und finden einmal alle ein bis zwei Jahre statt — aktuelle Termine und Anmeldung findest du auf <link>der eigenen Seite der Modern Mystery School</link>.",
+    "bookingTitle": "Neugierig auf das Kabbalah Ascension Program?",
+    "bookingNote": "Radu hilft dir gerne zu verstehen, was diese Reise wirklich von dir verlangt, ob du die Voraussetzungen bereits erfüllst, und wie sie sich mit dem Weg verbindet, den du bereits gehst.",
+    "inquiry": "Hallo Radu, ich möchte gerne mehr über das Universal Hermetic Ray Kabbalah Ascension Program erfahren."
+  },
+  "SacredGeometrySeriesLinks": {
+    "heading": "Weitere Sacred-Geometry-Workshops entdecken",
+    "learnMore": "Mehr erfahren",
+    "blurbs": [
+      "Die Grundlage: die 3 Schlüssel zum Himmel und die heiligen Formen der Schöpfung.",
+      "Kristallheilung und Raumschutz.",
+      "Ägyptische Aura-Heilung — Wiederherstellung der 7 Schichten der Aura.",
+      "Heiliger Raum und lebendige Tempel."
+    ]
   },
   "AstralTravelPage": {
     "heroEyebrow": "Ein Workshop der Mysterienschule",

@@ -21,6 +21,8 @@
       "spiritualIntuition": "Duchovní intuice",
       "sevenMysterySchools": "7 mysterijních škol",
       "stressManagement": "Záchrana před stresem",
+      "keysOfTheAncients": "Keys of the Ancients",
+      "kabbalahAscension": "Kabbalah Ascension Program",
       "guide": "Váš průvodce",
       "lineage": "Linie",
       "testimonials": "Reference",
@@ -579,6 +581,118 @@
     "duration": "Workshop",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
     "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu {brand}."
+  },
+  "SacredGeometry2Page": {
+    "heroEyebrow": "Řada Sacred Geometry · Úroveň II",
+    "heroSubtitle": "Léčení krystaly a ochrana prostoru",
+    "heroTagline": "Jednoduché, prastaré metody léčení krystaly — pro vás i pro ty, jimž sloužíte.",
+    "introLead": "Další krok v řadě Sacred Geometry",
+    "introBody1": "Sacred Geometry II předává krásné, ale jednoduché metody léčení krystaly a ochrany prostoru pomocí krystalových sestav, s nimiž můžete pracovat na sobě i ve službě klientům. Zatímco Sacred Geometry I představuje tři základní geometrie a způsob, jak chránit prostor, tato úroveň jde hlouběji do krystalických struktur, které tuto energii nesou a směrují.",
+    "introBody2": "Toto je pokročilá třída Modern Mystery School — předpokladem je <strong>Sacred Geometry I</strong>. Pokud jste Sacred Geometry I absolvovali a už vedete léčitelskou praxi, toto jsou nástroje, které ji posunou dál.",
+    "askLabel": "Zeptat se na Sacred Geometry II",
+    "learnHeading": "Co se naučíte",
+    "benefits": [
+      { "label": "Léčení drahými kameny:", "text": "Pracujte s frekvencí konkrétních drahokamů, abyste naladili své energetické pole pro fyzické, emoční a mentální léčení — včetně většího posílení a lepšího vztahu k času a prostoru." },
+      { "label": "Krystalové rituály:", "text": "Párová praxe využívající dvojici krystalů a prastarou mantru k uvolnění a projití emočním traumatem a k přitažení pozitivní energie pro to, co přijde." },
+      { "label": "Krystalové mřížky:", "text": "Strukturované sestavy krystalů používané k přinesení ochrany, posvátnosti a hojnosti do domova, léčebné místnosti nebo pracovního prostoru." }
+    ],
+    "bookingTitle": "Sacred Geometry II v Praze",
+    "duration": "Celodenní workshop",
+    "bookingNote": "Již brzy v Praze — Sacred Geometry II zde zatím není naplánována, ale je dalším krokem v růstu řady Sacred Geometry v Praze. Ozvěte se Radu a zaregistrujte svůj zájem, abyste byli první, kdo se dozví o vypsaném termínu.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Sacred Geometry II."
+  },
+  "SacredGeometry3Page": {
+    "heroEyebrow": "Řada Sacred Geometry · Úroveň III",
+    "heroSubtitle": "Egyptské léčení aury",
+    "heroTagline": "Prastará metoda pro obnovení celistvosti lidského energetického pole.",
+    "introLead": "Léčení sedmi vrstev aury",
+    "introBody1": "Sacred Geometry III se posouvá k práci přímo s lidskou aurou — tvořenou sedmi vrstvami, které poskytují energii potřebnou pro vitalitu a manifestaci. Tato jedinečná léčebná modalita čerpá ze síly starověkých egyptských bohů a bohyň a jejich znalosti rozměrů a poměrů fyzického a energetického lidského těla.",
+    "introBody2": "Předpoklady jsou iniciace <strong>Empower Thyself</strong> a <strong>Sacred Geometry I a II</strong>. Je to praxe, kterou můžete použít pro vlastní léčení i ve službě druhým.",
+    "askLabel": "Zeptat se na Sacred Geometry III",
+    "learnHeading": "Co se naučíte",
+    "benefits": [
+      { "label": "Egyptské léčení aury:", "text": "Prastará egyptská léčebná metoda čerpající z moudrosti bohů a bohyň a jejich porozumění fyzickému a energetickému tělu." },
+      { "label": "Sedm vrstev aury:", "text": "Naučte se rozpoznávat a pracovat s každou ze sedmi vrstev, které tvoří lidskou auru — pole, jež poskytuje vitalitu a schopnost manifestace." },
+      { "label": "Obnova struktury aury:", "text": "Obnovte rovnováhu a správné proudění v sedmi vrstvách aury a obnovte její správnou strukturu." }
+    ],
+    "bookingTitle": "Sacred Geometry III v Praze",
+    "duration": "Workshop",
+    "bookingNote": "Již brzy v Praze — Sacred Geometry III zde zatím není naplánována, ale je součástí toho, kam řada Sacred Geometry v Praze směřuje. Ozvěte se Radu a zaregistrujte svůj zájem, abyste byli první, kdo se dozví o vypsaném termínu.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Sacred Geometry III."
+  },
+  "SacredGeometry4Page": {
+    "heroEyebrow": "Řada Sacred Geometry · Úroveň IV",
+    "heroSubtitle": "Posvátný prostor a živé chrámy",
+    "heroTagline": "Odhalte tajemství posvátného prostoru a naučte se je sami vytvářet.",
+    "introLead": "Nejpokročilejší úroveň Sacred Geometry vyučovaná zde",
+    "introBody1": "Sacred Geometry IV odhaluje tajemství posvátných prostorů a umožňuje vám je sami vytvářet. Prostřednictvím učení Sacred Geometry se naučíte přemostit duchovno a fyzično aktivací domovů a pracovních prostorů jako svatých svatyní — a díky životu a práci uvnitř těchto chrámů posílit prakticky každou oblast svého života.",
+    "introBody2": "Tato úroveň je vyhrazena iniciovaným Modern Mystery School. Předpoklady jsou být <strong>certifikovaným praktikem Life Activation</strong> a mít dokončené <strong>Sacred Geometry I–III</strong>.",
+    "introBody3": "Sacred Geometry IV je nejpokročilejší úrovní nabízenou zde v Praze — ale není koncem cesty. Studenti, kteří chtějí jít dál, mohou pokračovat ve svém výcviku Sacred Geometry přímo v centrále Modern Mystery School.",
+    "askLabel": "Zeptat se na Sacred Geometry IV",
+    "learnHeading": "Co se naučíte",
+    "benefits": [
+      { "label": "Živé chrámy:", "text": "Tři metody ochrany prostoru používané k proměně domova nebo pracovního prostoru ve skutečnou svatyni — prostor, který aktivně drží a zesiluje vyšší vibraci." },
+      { "label": "Posílený každodenní život:", "text": "O takto aktivovaném prostoru se říká, že posiluje prakticky každou oblast života těch, kdo v něm žijí a pracují." },
+      { "label": "Most mezi světy:", "text": "Tyto metody fungují tak, že přemosťují duchovno a fyzično a ukotvují vyšší energie do pevného, fyzického místa." }
+    ],
+    "bookingTitle": "Sacred Geometry IV v Praze",
+    "duration": "Workshop",
+    "bookingNote": "Již brzy v Praze — Sacred Geometry IV zde zatím není naplánována, ale je horizontem, k němuž řada Sacred Geometry v Praze směřuje. Ozvěte se Radu a zaregistrujte svůj zájem, abyste byli první, kdo se dozví o vypsaném termínu.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Sacred Geometry IV."
+  },
+  "KeysOfTheAncientsPage": {
+    "heroEyebrow": "Globální program v linii krále Šalomouna",
+    "heroSubtitle": "Pětidenní hermetické putování se Sovereign Ipsissimem Davem Lanyonem",
+    "heroTagline": "Pro ty, kdo jsou připraveni odemknout svůj plný potenciál a vstoupit přímo do nejhlubšího učení této linie.",
+    "introLead": "Vyučuje osobně jeden z nejvyšších iniciovaných této linie",
+    "introBody1": "<strong>Keys of the Ancients: A Hermetic Crossing into the Lineage of King Salomon</strong> je pětidenní intenzivní třída vedená Davem Lanyonem — Sovereign Ipsissimem, bestsellerovým autorem a jedním z nejvýše postavených strážců klíčů Modern Mystery School. Odhaluje skryté klíče hermetické moudrosti prostřednictvím přímé, iniciační výuky a je nabízena jako komorní program v malé skupině (historicky kolem 25 účastníků) na vybraných místech Modern Mystery School po celém světě.",
+    "introBody2": "Účastníci obdrží osobní sezení Life Activation, iniciaci do linie krále Šalomouna, dvě knihy Davea Lanyona a sadu 72 karet Hermetic Wisdom, vedle pěti dnů přímé výuky.",
+    "askLabel": "Zeptat se Radu na tento program",
+    "learnHeading": "Co program obsahuje",
+    "benefits": [
+      { "label": "Síla proměny:", "text": "Přímá, praktická výuka o transformaci — jak se skutečně děje a jak si přestat stát v cestě sami sobě." },
+      { "label": "5 klíčů k úspěchu:", "text": "Univerzální principy pro překonávání překážek, čerpající z hermetické tradice, kterou Dave Lanyon vyučuje po desetiletí." },
+      { "label": "Sacred Geometry a pentagram:", "text": "Hlubší pohled na význam pentagramu v rámci hermetické linie a linie krále Šalomouna." },
+      { "label": "Duchovní průvodci:", "text": "Pochopení role, jakou duchovní průvodci hrají ve skutečném duchovním růstu, a jak rozpoznat toho svého." }
+    ],
+    "forYouHeading": "Je to pro vás?",
+    "forYouBody1": "Keys of the Ancients vyžaduje otevřenou mysl, opravdovou touhu učit se a ochotu nechat se vyzvat. Není to workshop pro začátečníky — je určen těm, kdo už touto cestou kráčí a jsou připraveni jít přímo ke zdroji a učit se po boku samotného Sovereign Ipsissima.",
+    "forYouBody2": "Toto je globální program Modern Mystery School, nikoli sezení pořádané lokálně zde v Praze. Termíny, přesné ceny i místa konání stanovuje přímo tým Davea Lanyona a mění se od běhu k běhu — aktuální informace najdete na <link>thedavelanyon.com</link>.",
+    "bookingTitle": "Zajímá vás Keys of the Ancients?",
+    "bookingNote": "Radu touto linií sám prošel a rád vám poví, jaký tento program doopravdy je, pomůže vám pochopit, zda je pro vás správným dalším krokem, a nasměruje vás na oficiální termíny a registraci.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Keys of the Ancients s Davem Lanyonem."
+  },
+  "KabbalahAscensionPage": {
+    "heroEyebrow": "Dlouhá cesta vzestupu",
+    "heroSubtitle": "Výstup po Stromu života",
+    "heroTagline": "Duchovní a alchymická proměna — nikoli víkend, ale cesta.",
+    "introLead": "Deset až dvanáct měsíců vedeného vzestupu",
+    "introBody1": "Universal Hermetic Ray Kabbalah Ascension Program je tradice Modern Mystery School zaměřená na odemčení vaší velikosti a sladění se s vaším životním posláním. Celá cesta vzestupu trvá zhruba deset až dvanáct měsíců a je postavena na čtyřech osobních setkáních — většina se koná v centrále Modern Mystery School, přičemž závěrečné setkání je víkendovým pobytem v přírodě.",
+    "introBody2": "Výstupem po Stromu života aktivujete stupně vědomí, léčení a porozumění, které vás přibližují k vašemu pravému, uskutečněnému já — jde o hluboký systém osobního rozvoje, nikoli jen o studium Kabaly jako myšlenky.",
+    "askLabel": "Zeptat se Radu na tento program",
+    "learnHeading": "Co cesta zahrnuje",
+    "benefits": [
+      { "label": "Výstup po Stromu života:", "text": "Každé ze čtyř osobních setkání aktivuje jeden stupeň vědomí, léčení, moudrosti a porozumění, jak stoupáte po Stromu." },
+      { "label": "Metoda, nikoli dogma:", "text": "Nedogmatický systém, který zve k opravdovému sebeobjevování a používá Strom života jako osobní mapu, nikoli pevnou sadu odpovědí." },
+      { "label": "Vztahy, kariéra a poslání:", "text": "Kurikulum pracuje přímo se vztahy a sebeláskou, jasností v kariéře a sladěním vašeho každodenního života s vaším skutečným posláním." },
+      { "label": "Stát se Kabalistou:", "text": "Dokončení všech čtyř osobních tříd — poslední z nich je víkendový pobyt v přírodě — dovršuje cestu. Získáváte zpět svou korunu a začínáte žít svůj život jako plnohodnotný Kabalista, ze Supernálů — nikoli jen z nižší části Stromu, k níž má přístup většina lidí." }
+    ],
+    "forYouHeading": "Je to pro vás?",
+    "forYouBody1": "Minimálně musíte být <strong>Adept Initiate</strong> — iniciovaní skrze <strong>Empower Thyself</strong> — abyste byli na Ascension Program připraveni. Velmi se však doporučuje mít před vydáním se na tuto cestu dokončenou i <strong>Healers Academy</strong>. Pokročilá varianta, Kabbalah for Kabbalists, je také nabízena certifikovaným praktikům Life Activation, léčitelům, Ritual Masters a průvodcům hledajícím hlubší službu.",
+    "forYouBody2": "Toto je globální program Modern Mystery School pořádaný na úrovni centrály, nikoli sezení pořádané lokálně zde v Praze. Velikost skupin i jednotlivé běhy jsou omezené a konají se jednou za jeden až dva roky — aktuální termíny a přihlášky najdete na <link>vlastní stránce Modern Mystery School</link>.",
+    "bookingTitle": "Zajímá vás Kabbalah Ascension Program?",
+    "bookingNote": "Radu vám rád pomůže pochopit, co tato cesta doopravdy vyžaduje, zda již splňujete předpoklady, a jak souvisí s cestou, po níž se již vydáváte.",
+    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Universal Hermetic Ray Kabbalah Ascension Program."
+  },
+  "SacredGeometrySeriesLinks": {
+    "heading": "Prozkoumejte další workshopy Sacred Geometry",
+    "learnMore": "Zjistit více",
+    "blurbs": [
+      "Základ: 3 klíče k nebi a posvátné tvary stvoření.",
+      "Léčení krystaly a ochrana prostoru.",
+      "Egyptské léčení aury — obnova 7 vrstev aury.",
+      "Posvátný prostor a živé chrámy."
+    ]
   },
   "AstralTravelPage": {
     "heroEyebrow": "Workshop mysterijní školy",

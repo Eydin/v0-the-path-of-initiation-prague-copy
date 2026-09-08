@@ -21,6 +21,8 @@
       "spiritualIntuition": "Intuiție spirituală",
       "sevenMysterySchools": "Cele 7 Școli ale Misterelor",
       "stressManagement": "Eliberare de stres",
+      "keysOfTheAncients": "Keys of the Ancients",
+      "kabbalahAscension": "Kabbalah Ascension Program",
       "guide": "Ghidul tău",
       "lineage": "Linia spirituală",
       "testimonials": "Testimoniale",
@@ -579,6 +581,118 @@
     "duration": "Atelier",
     "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
     "inquiry": "Bună Radu, aș dori să aflu mai multe despre atelierul {brand}."
+  },
+  "SacredGeometry2Page": {
+    "heroEyebrow": "Seria Sacred Geometry · Nivelul II",
+    "heroSubtitle": "Vindecare cu cristale și protecția spațiului",
+    "heroTagline": "Metode simple și străvechi de vindecare cu cristale — pentru tine și pentru cei pe care îi slujești.",
+    "introLead": "Următorul pas în seria Sacred Geometry",
+    "introBody1": "Sacred Geometry II transmite metode frumoase, dar simple, de vindecare cu cristale și protecție a spațiului, folosind configurații de cristale cu care poți lucra asupra ta sau în slujba clienților. Acolo unde Sacred Geometry I introduce cele trei geometrii de bază și modul de a proteja un spațiu, acest nivel merge mai adânc în structurile cristaline care poartă și direcționează acea energie.",
+    "introBody2": "Aceasta este o clasă avansată Modern Mystery School — condiția este <strong>Sacred Geometry I</strong>. Dacă ai finalizat Sacred Geometry I și conduci deja o practică de vindecare, acestea sunt instrumentele care o duc mai departe.",
+    "askLabel": "Întreabă despre Sacred Geometry II",
+    "learnHeading": "Ce vei învăța",
+    "benefits": [
+      { "label": "Vindecare cu pietre prețioase:", "text": "Lucrează cu frecvența unor pietre prețioase anume pentru a-ți acorda câmpul energetic pentru vindecare fizică, emoțională și mentală — inclusiv o mai mare împuternicire și o relație mai bună cu timpul și spațiul." },
+      { "label": "Ritualuri cu cristale:", "text": "O practică în pereche, folosind cristale-gemene și o mantră străveche, pentru a elibera și a trece prin traume emoționale și pentru a atrage energie pozitivă pentru ce urmează." },
+      { "label": "Grilaje de cristale:", "text": "Configurații structurate de cristale folosite pentru a aduce protecție, sfințenie și abundență într-o casă, o cameră de vindecare sau un spațiu de lucru." }
+    ],
+    "bookingTitle": "Sacred Geometry II la Praga",
+    "duration": "Atelier de o zi întreagă",
+    "bookingNote": "În curând la Praga — Sacred Geometry II nu este încă programată aici, dar este următoarea în linie pe măsură ce seria Sacred Geometry crește local. Ia legătura cu Radu pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
+    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Sacred Geometry II."
+  },
+  "SacredGeometry3Page": {
+    "heroEyebrow": "Seria Sacred Geometry · Nivelul III",
+    "heroSubtitle": "Vindecarea egipteană a aurei",
+    "heroTagline": "O metodă străveche pentru restabilirea întregimii câmpului energetic uman.",
+    "introLead": "Vindecarea celor șapte straturi ale aurei",
+    "introBody1": "Sacred Geometry III trece la lucrul direct cu aura umană — alcătuită din șapte straturi care oferă energia necesară pentru vitalitate și manifestare. Această modalitate unică de vindecare invocă puterea zeilor și zeițelor egiptene antice și cunoașterea lor asupra dimensiunilor și proporțiilor corpului uman fizic și energetic.",
+    "introBody2": "Condițiile sunt inițierea <strong>Empower Thyself</strong> și <strong>Sacred Geometry I & II</strong>. Este o practică pe care o poți folosi atât pentru propria vindecare, cât și în slujba altora.",
+    "askLabel": "Întreabă despre Sacred Geometry III",
+    "learnHeading": "Ce vei învăța",
+    "benefits": [
+      { "label": "Vindecarea egipteană a aurei:", "text": "O metodă de vindecare egipteană străveche care invocă înțelepciunea zeilor și zeițelor și înțelegerea lor asupra corpului fizic și energetic." },
+      { "label": "Cele șapte straturi ale aurei:", "text": "Învață să recunoști și să lucrezi cu fiecare dintre cele șapte straturi care alcătuiesc aura umană — câmpul care oferă vitalitate și capacitatea de a manifesta." },
+      { "label": "Restabilirea structurii aurei:", "text": "Restabilește echilibrul și fluxul corect în cele șapte straturi ale aurei, redându-i structura corectă." }
+    ],
+    "bookingTitle": "Sacred Geometry III la Praga",
+    "duration": "Atelier",
+    "bookingNote": "În curând la Praga — Sacred Geometry III nu este încă programată aici, dar face parte din direcția în care se îndreaptă local seria Sacred Geometry. Ia legătura cu Radu pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
+    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Sacred Geometry III."
+  },
+  "SacredGeometry4Page": {
+    "heroEyebrow": "Seria Sacred Geometry · Nivelul IV",
+    "heroSubtitle": "Spațiu sacru și temple vii",
+    "heroTagline": "Dezvăluie secretele spațiului sacru și învață să le creezi tu însuți.",
+    "introLead": "Cel mai avansat nivel Sacred Geometry predat aici",
+    "introBody1": "Sacred Geometry IV dezvăluie secretele spațiilor sacre și te împuternicește să le creezi tu însuți. Prin învățăturile Sacred Geometry, înveți să faci puntea dintre spiritual și fizic, activând case și spații de lucru ca sanctuare sfinte — și, trăind și lucrând în interiorul acestor temple, să întărești practic fiecare aspect al vieții tale.",
+    "introBody2": "Acest nivel este rezervat inițiaților Modern Mystery School. Condițiile sunt să fii <strong>Certified Life Activation Practitioner</strong> și să fi finalizat <strong>Sacred Geometry I–III</strong>.",
+    "introBody3": "Sacred Geometry IV este cel mai avansat nivel oferit aici, la Praga — dar nu este sfârșitul drumului. Studenții care doresc să meargă mai departe își pot continua pregătirea în Sacred Geometry direct la sediul central al Modern Mystery School.",
+    "askLabel": "Întreabă despre Sacred Geometry IV",
+    "learnHeading": "Ce vei învăța",
+    "benefits": [
+      { "label": "Temple vii:", "text": "Trei metode de protecție a spațiului folosite pentru a transforma o casă sau un spațiu de lucru într-un adevărat sanctuar — un spațiu care păstrează și amplifică activ o vibrație superioară." },
+      { "label": "O viață de zi cu zi întărită:", "text": "Un spațiu activat astfel este descris ca întărind practic fiecare aspect al vieții celor care trăiesc și lucrează în el." },
+      { "label": "O punte între lumi:", "text": "Metodele funcționează făcând puntea dintre spiritual și fizic, ancorând energii superioare într-un loc fizic, fix." }
+    ],
+    "bookingTitle": "Sacred Geometry IV la Praga",
+    "duration": "Atelier",
+    "bookingNote": "În curând la Praga — Sacred Geometry IV nu este încă programată aici, dar este orizontul spre care se îndreaptă local seria Sacred Geometry. Ia legătura cu Radu pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
+    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Sacred Geometry IV."
+  },
+  "KeysOfTheAncientsPage": {
+    "heroEyebrow": "Un program global în linia regelui Solomon",
+    "heroSubtitle": "O traversare hermetică de cinci zile cu Sovereign Ipsissimus Dave Lanyon",
+    "heroTagline": "Pentru cei pregătiți să-și deblocheze întregul potențial și să pășească direct în cele mai profunde învățături ale acestei linii.",
+    "introLead": "Predat personal de unul dintre cei mai înalți inițiați ai liniei",
+    "introBody1": "<strong>Keys of the Ancients: A Hermetic Crossing into the Lineage of King Salomon</strong> este o clasă intensivă de cinci zile condusă de Dave Lanyon — un Sovereign Ipsissimus, autor bestseller și unul dintre deținătorii de chei cu cel mai înalt rang din Modern Mystery School. Dezvăluie cheile ascunse ale înțelepciunii hermetice printr-o predare directă, inițiatică, și este oferit ca program intim, în grup mic (istoric, în jur de 25 de participanți), în locații select ale Modern Mystery School la nivel internațional.",
+    "introBody2": "Participanții primesc o ședință personală de Life Activation, inițierea în linia regelui Solomon, cele două cărți ale lui Dave Lanyon și un pachet de 72 de carduri Hermetic Wisdom, alături de cele cinci zile de predare directă.",
+    "askLabel": "Întreabă-l pe Radu despre acest program",
+    "learnHeading": "Ce acoperă programul",
+    "benefits": [
+      { "label": "Puterea schimbării:", "text": "Predare directă și practică despre transformare — cum se întâmplă ea cu adevărat și cum să încetezi să-ți stai singur în cale." },
+      { "label": "Cele 5 chei ale succesului:", "text": "Principii universale pentru depășirea obstacolelor, desprinse din tradiția hermetică pe care Dave Lanyon o predă de zeci de ani." },
+      { "label": "Sacred Geometry și pentagrama:", "text": "O privire mai profundă asupra semnificației pentagramei în cadrul liniei hermetice și al liniei regelui Solomon." },
+      { "label": "Ghizii spirituali:", "text": "Înțelegerea rolului pe care ghizii spirituali îl joacă într-o creștere spirituală autentică și modul de a-l recunoaște pe al tău." }
+    ],
+    "forYouHeading": "Este pentru tine?",
+    "forYouBody1": "Keys of the Ancients cere o minte deschisă, o dorință sinceră de a învăța și disponibilitatea de a fi provocat. Nu este un curs pentru începători — este conceput pentru cei care merg deja pe acest drum și sunt pregătiți să meargă direct la sursă și să învețe alături de un Sovereign Ipsissimus însuși.",
+    "forYouBody2": "Acesta este un program global Modern Mystery School, nu o ședință organizată local aici, la Praga. Datele, prețurile exacte și locațiile sunt stabilite direct de echipa lui Dave Lanyon și se schimbă de la un ciclu la altul — pentru detalii actuale, vizitează <link>thedavelanyon.com</link>.",
+    "bookingTitle": "Ești curios despre Keys of the Ancients?",
+    "bookingNote": "Radu a parcurs el însuși această linie și este bucuros să-ți povestească cum este cu adevărat acest program, să te ajute să înțelegi dacă este pasul potrivit pentru tine și să te îndrume către datele oficiale și înscriere.",
+    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Keys of the Ancients cu Dave Lanyon."
+  },
+  "KabbalahAscensionPage": {
+    "heroEyebrow": "O călătorie de ascensiune pe termen lung",
+    "heroSubtitle": "Urcarea Arborelui Vieții",
+    "heroTagline": "O transformare spirituală și alchimică — nu un weekend, ci o călătorie.",
+    "introLead": "Zece până la douăsprezece luni de ascensiune ghidată",
+    "introBody1": "Universal Hermetic Ray Kabbalah Ascension Program este o tradiție Modern Mystery School dedicată deblocării măreției tale și alinierii cu scopul vieții tale. Întreaga călătorie de ascensiune durează aproximativ zece până la douăsprezece luni, construită în jurul a patru clase în persoană — majoritatea desfășurate la sediul central al Modern Mystery School, ultima întâlnire fiind un weekend de retragere în natură.",
+    "introBody2": "Urcând Arborele Vieții, activezi etape de conștiință, vindecare și înțelegere care te apropie de sinele tău adevărat, actualizat — un sistem profund de dezvoltare personală, nu doar studiul Kabbalei ca idee.",
+    "askLabel": "Întreabă-l pe Radu despre acest program",
+    "learnHeading": "Ce include călătoria",
+    "benefits": [
+      { "label": "Urcarea Arborelui Vieții:", "text": "Fiecare dintre cele patru întâlniri în persoană activează o etapă de conștiință, vindecare, înțelepciune și înțelegere pe măsură ce urci Arborele." },
+      { "label": "O metodă, nu o dogmă:", "text": "Un sistem non-dogmatic care invită la o descoperire de sine autentică, folosind Arborele Vieții ca hartă personală, nu ca un set fix de răspunsuri." },
+      { "label": "Relații, carieră și scop:", "text": "Curricula lucrează direct cu relațiile și iubirea de sine, claritatea în carieră și alinierea vieții tale de zi cu zi cu scopul tău adevărat." },
+      { "label": "Devenind Kabbalist:", "text": "Finalizarea tuturor celor patru clase în persoană — ultima, un weekend de retragere în natură — încheie călătoria. Îți recapeți coroana și începi să-ți trăiești viața ca un Kabbalist deplin, din Supernale — nu doar din partea inferioară a Arborelui, la care are acces majoritatea oamenilor." }
+    ],
+    "forYouHeading": "Este pentru tine?",
+    "forYouBody1": "Cel puțin, trebuie să fii <strong>Adept Initiate</strong> — inițiat prin <strong>Empower Thyself</strong> — pentru a fi pregătit pentru Ascension Program. Totuși, este recomandat cu tărie să fi finalizat și <strong>Healers Academy</strong> înainte de a porni în această călătorie. Un nivel avansat, Kabbalah for Kabbalists, este de asemenea oferit pentru Certified Life Activation Practitioners, vindecători, Ritual Masters și Ghizi care caută o slujire mai profundă.",
+    "forYouBody2": "Acesta este un program global Modern Mystery School organizat la nivel de sediu central, nu o ședință organizată local aici, la Praga. Dimensiunea grupurilor și ciclurile sunt limitate și au loc o dată la unul până la doi ani — pentru date actuale și înscriere, vizitează <link>pagina proprie a Modern Mystery School</link>.",
+    "bookingTitle": "Ești curios despre Kabbalah Ascension Program?",
+    "bookingNote": "Radu te ajută cu bucurie să înțelegi ce îți cere cu adevărat această călătorie, dacă îndeplinești deja condițiile și cum se leagă de drumul pe care mergi deja.",
+    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Universal Hermetic Ray Kabbalah Ascension Program."
+  },
+  "SacredGeometrySeriesLinks": {
+    "heading": "Explorează alte ateliere Sacred Geometry",
+    "learnMore": "Află mai multe",
+    "blurbs": [
+      "Fundația: cele 3 chei către ceruri și formele sacre ale creației.",
+      "Vindecare cu cristale și protecția spațiului.",
+      "Vindecarea egipteană a aurei — restabilirea celor 7 straturi ale aurei.",
+      "Spațiu sacru și temple vii."
+    ]
   },
   "AstralTravelPage": {
     "heroEyebrow": "Un atelier al Școlii Misterelor",
