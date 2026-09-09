@@ -1,7 +1,6 @@
 // AUTO-GENERATED from site pages by scripts/build-knowledge.mjs   do not edit by hand.
 // Regenerate after content changes: node scripts/build-knowledge.mjs
 export const SITE_KNOWLEDGE = `## PAGE: /astral-travel
-AstralTravelPage
 A Workshop of the Mystery School
 Astral Travel
 The art and science of travelling beyond the physical body
@@ -25,7 +24,6 @@ Workshops are scheduled in small groups. Reach out for the next available date i
 Hello Radu, I would like to learn more about the Astral Travel workshop.
 
 ## PAGE: /aura-healing
-AuraHealing
 A Healing of the Mystery School
 Restore and protect your energetic field
 Clear, balance and seal the seven layers of the aura
@@ -48,28 +46,15 @@ After you reach out, we will contact you personally to finalise your appointment
 ## PAGE: /blog/[slug]
 The Path of Initiation Prague
 force-dynamic
-.../cs/blog/magick
-BlogPosting
-, name:
 Organization
 
 ## PAGE: /blog
 King Salomon · Magick · Alchemy
 force-dynamic
-BlogPage
 Modern Mystery School blog
 King Salomon
-), description: t(
-), url:
-, type:
 
 ## PAGE: /calendar
-CalendarPage
-, year:
-, timeZone:
-const isInitiation = ev.category ===
-const isCommunity = ev.category ===
-const isWorkshop = ev.category ===
 The Path Ahead
 Calendar of Classes
 Every activation, initiation, workshop and community gathering held in Prague and other international locations over the coming season. Follow the path one step at a time.
@@ -82,7 +67,6 @@ Not sure where to begin? Reach out and Radu will guide you personally.
 Ask About a Class
 
 ## PAGE: /certifications
-CertificationsPage
 Certifications
 Radu is here to support you in creating a life worth waking up for
 Every morning
@@ -98,7 +82,6 @@ Diplomas & Certificates
 ## PAGE: /community
 lucide-react
 https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20community%20and%20upcoming%20events.
-CommunityPage
 Community
 A circle of hearts and shared transformation
 The Path of Initiation Prague is far more than just a place to take classes. It is a living, breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.
@@ -139,11 +122,8 @@ If you feel called to learn more about our upcoming gatherings, get precise logi
 Contact the Community
 
 ## PAGE: /empower-thyself
-i) return (
 Radu Coman
 https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
-EmpowerThyself
-Modality
 A Two-Day Initiation
 Initiation into the Lineage of King Salomon
 If you could be like God — filled with love, harmony, and creative power — would you do it?
@@ -204,7 +184,6 @@ Includes the 2 day training and a complimentary Life Activation session (valued 
 Booking Process:
 A 12.000 CZK deposit secures your place and allows us to schedule your Life Activation session.
 The remaining 24.500 CZK is due 2 weeks before the 2-day training and Initiation begins.
-WhatsApp
 Email
 Investment
 Duration
@@ -213,7 +192,6 @@ Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
 
 ## PAGE: /full-spirit-activation
-FullSpiritActivation
 The Mystery Tradition · Lineage of King Salomon
 Awaken and anchor the soul and spirit into the body
 Open your soul to miracles
@@ -246,7 +224,6 @@ Discover Your Potential to Be a Divine Being
 2 Hours
 
 ## PAGE: /healers-academy
-HealersAcademy
 The Second Level of Initiation
 Become a certified healer in the lineage of King Salomon
 Step fully into a life of service and light
@@ -274,15 +251,6 @@ Intensive Program & Initiation
 Healers Academy is a 5-day intensive program.
 
 ## PAGE: /healings
-Healings
-groups.activations.items.0.tag
-groups.activations.items.0.description
-groups.activations.items.1.description
-groups.activations.items.2.name
-groups.activations.items.2.description
-groups.activations.items.3.name
-groups.activations.items.3.description
-groups.auraEnergy.items.0.name
 In the Lineage of King Salomon
 Healing Modalities
 A range of healings for body, mind and soul
@@ -337,7 +305,6 @@ Chakra Awakening
 Awakens and harmonises the body's seven energy centres.
 
 ## PAGE: /kabbalah-ascension
-KabbalahAscensionPage
 A Long-Form Ascension Journey
 Climbing the Tree of Life
 A spiritual and alchemical transformation — not a weekend, but a journey.
@@ -362,8 +329,6 @@ Radu is glad to help you understand what this journey really asks of you, whethe
 Hello Radu, I would like to learn more about the Universal Hermetic Ray Kabbalah Ascension Program.
 
 ## PAGE: /keys-of-the-ancients
-KeysOfTheAncientsPage
-), text: t(
 A Global Program in the Lineage of King Salomon
 A Five-Day Hermetic Crossing with Sovereign Ipsissimus Dave Lanyon
 For those ready to unlock their full potential and step directly into the deepest teachings of this lineage.
@@ -389,8 +354,6 @@ Hello Radu, I would like to learn more about Keys of the Ancients with Dave Lany
 
 ## PAGE: /life-activation
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
-LifeActivation
-Modality
 The Mystery Tradition · Lineage of King Salomon
 Activate the innate gifts that reside in your DNA
 Clear 5–7 generations of ancestral trauma and step into your highest potential
@@ -429,7 +392,6 @@ This is a groundbreaking method for inner transformation and unlocking your pers
 Meet Your Authentic Power and Higher Self!
 2 Hours
 After the payment is completed, we will contact you to finalize the appointment.
-WhatsApp
 Email
 Investment
 Duration
@@ -438,26 +400,12 @@ Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
 
 ## PAGE: /lineage
-LineagePage
 https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Lineage%20and%20the%20Path%20of%20Initiation.
 Gudni GED Gudnason
 Hideto REI Nakagome
 Dave THOR Lanyon
-quote.text
-quote.emphasis
-quote.attribution
-quote.caption
 
 ## PAGE: /
-HomeQuotes
-quote1.text
-quote1.emphasis
-quote1.attribution
-quote1.caption
-quote2.text
-quote2.emphasis
-quote2.attribution
-quote2.caption
 Know thyself, and thou shalt know
 the universe and the gods
 Inscribed at the Temple of Apollo · Delphi
@@ -467,11 +415,7 @@ is seeking you
 Rumi · 13th Century
 The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657
 
-## PAGE: /privacy-policy
-PrivacyPolicyPage
-
 ## PAGE: /ritual-master
-RitualMaster
 The Path of the Master Magician
 True mastery of the Self
 The warrior of light breaks every chain that holds them captive — and then helps others do the same.
@@ -502,7 +446,6 @@ Begin Your Mastery
 The Ritual Master path begins with Empower Thyself and the Healers Academy. Reach out and we will help you map the right next step for you.
 
 ## PAGE: /sacred-geometry-2
-SacredGeometry2Page
 The Sacred Geometry Series · Level II
 Crystal Healing & Space Protection
 Simple, ancient methods of crystal healing — for yourself, and for those you serve.
@@ -523,7 +466,6 @@ Coming soon to Prague — Sacred Geometry II isn't scheduled here yet, but it's 
 Hello Radu, I would like to learn more about Sacred Geometry II.
 
 ## PAGE: /sacred-geometry-3
-SacredGeometry3Page
 The Sacred Geometry Series · Level III
 Egyptian Aura Healing
 An ancient method for restoring wholeness to the human energy field.
@@ -544,7 +486,6 @@ Coming soon to Prague — Sacred Geometry III isn't scheduled here yet, but it's
 Hello Radu, I would like to learn more about Sacred Geometry III.
 
 ## PAGE: /sacred-geometry-4
-SacredGeometry4Page
 The Sacred Geometry Series · Level IV
 Sacred Space & Living Temples
 Reveal the secrets of sacred space, and learn to create them yourself.
@@ -566,7 +507,6 @@ Coming soon to Prague — Sacred Geometry IV isn't scheduled here yet, but it's 
 Hello Radu, I would like to learn more about Sacred Geometry IV.
 
 ## PAGE: /sacred-geometry
-SacredGeometryPage
 A Workshop of the Mystery School
 The language in which creation is written
 Learn to work with the building blocks of the universe
@@ -588,7 +528,6 @@ Workshop
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
 
 ## PAGE: /seven-mystery-schools
-SevenMysterySchoolsPage
 A Workshop of the Mystery School
 The 7 Mystery Schools
 The seven great streams of ancient wisdom
@@ -616,7 +555,6 @@ Workshops run in small groups. Reach out for the next scheduled date in Prague.
 Hello Radu, I would like to learn more about the 7 Mystery Schools workshop.
 
 ## PAGE: /specialty-healings
-SpecialtyHealings
 The King Salomon Healing Modality
 Specialty Healings
 The deep healings of a 3,000-year lineage
@@ -662,7 +600,6 @@ Reach out and Radu will listen, then guide you to the healing that truly serves 
 Hello Radu, I would like to learn more about the specialty healings.
 
 ## PAGE: /spiritual-intuition
-SpiritualIntuitionPage
 A Workshop of the Mystery School
 Spiritual Intuition
 Beyond the five senses
@@ -686,7 +623,6 @@ Workshops run in small groups. Reach out for the next scheduled date in Prague.
 Hello Radu, I would like to learn more about the Spiritual Intuition workshop.
 
 ## PAGE: /stress-management
-StressManagementPage
 For Individuals, Teams & Organisations
 Stress Rescue
 Practical tools to meet pressure with calm
@@ -708,12 +644,7 @@ Bring Calm Back Into the Day
 Available for individuals, leadership teams and organisations. Reach out to discuss a session or a programme for your team.
 Hello Radu, I would like to learn more about Stress Rescue / Stress Management.
 
-## PAGE: /terms-and-conditions
-TermsPage
-
 ## PAGE: /testimonials
-TestimonialsPage
-allow=
 The Journey of Transformation
 Maria - Mother, CEO and Healer
 Life Activation Practitioner, Prague, Czech Republic
@@ -744,23 +675,58 @@ The work with the body, with moon cycles, with rituals, with meditation—it's s
 I'm so thankful that I was made to feel safe to be the way I am, who I am. It made me feel like I could trust myself again and remember who I am.
 More Student Journeys
 
-## PAGE: /withdraw-from-contract
-WithdrawalPage
+## PAGE: (component) classes-section.tsx
+Upcoming Events
+Upcoming Classes in Prague
+Each class is a stepping stone on the path of initiation. Begin with the Life Activation and progress through the sacred curriculum.
+Awaken your divine blueprint and ignite the full potential encoded within your DNA. This is the foundational session of the mystery school lineage.
+Foundation
+A 2-day initiation program where you receive the sacred tools and teachings to take command of your life and step onto the path as an Initiate.
+Initiation
+View Full Calendar
+Study the divine patterns that underpin all of creation, how to astral travel, communicate with your higher self and more.
+Advanced Study
+Learn More
 
 ## PAGE: (component) cta-section.tsx
 Your Invitation
 Are You Ready to Walk the Path?
 The door is open, but only you can choose to step through it. If you feel the call, take the first step and apply for a personal consultation with Radu Coman.
 Email
-WhatsApp
+
+## PAGE: (component) ending-section.tsx
+Where All Worlds Meet
+Bridging the Ancient, the Universal, and the Modern
+The Ancient Wisdom
+Temples, Priests & Sacred Rites
+The Universal Science
+Galactic Knowledge & Light
+The Modern Initiate
+Empowered Men & Women
+This path bridges the ancient wisdom of the mystery schools with the universal galactic science that has guided civilisations across the cosmos.
+The result is a living system of knowledge that is profoundly applicable to the modern-day men and women who are ready to awaken, transform, and lead.
+
+## PAGE: (component) facts-section.tsx
+/testimonials#maria-testimonial
+/testimonials#ana-testimonial
+/testimonials
+A Legacy That Speaks for Itself
+Years of Unbroken Lineage
+Countries Worldwide
+Thousands
+Of Lives Transformed
+Follow the Journey of Our Students
+Wall of Love
+The initiation ceremony was beyond my imagination. I felt genuinely welcome and it truly feels like I've found a community that I'm super happy to belong to.
+Maria from Czech Republic
+Radu didn't tell me what to do and what not to do. He really helps me to hear my own truth, my own clarity.
+Ana from Czech Republic
+I came seeking answers and found a whole new dimension of life. The tools I received are beyond anything I imagined.
+Sophie from Canada
 
 ## PAGE: (component) footer.tsx
 PATH OF
-INITIATION
 radu@thepathofinitiationprague.com
-) const tNav = useTranslations(
-, label: t(
-, label: tNav(
 Healing, initiation and training in the lineage of King Salomon, with Guide Radu Coman in Prague.
 Prague, Czech Republic
 Aura Healing
@@ -790,12 +756,197 @@ Certifications
 Calendar
 Community
 
+## PAGE: (component) guide-section.tsx
+Radu Coman
+Diana Coman
+Your Guide
+Radu Coman is a Guide and Teacher in the lineage of King Salomon, certified by the Modern Mystery School . With years of dedicated training and a deep passion for empowering others, Radu has made it his mission to bring the ancient teachings to the heart of Europe.
+Having previously served the community through his work at universitateapentrusuflet.ro , Radu has now transitioned to serving the people in the area of Prague by making the path of initiation available to those in the region. He is providing an immersive experience for those who are truly ready for transformation.
+His approach combines the timeless precision of the ancient mystery school teachings with a modern, grounded understanding of what it means to live as an awakened being in today's world.
+My purpose is to guide you home and help you express your truest self.
+Teacher | Healer
+Diana Coman brings a deeply intuitive and human-centered approach to the work. Her strength lies in perceiving the person in front of her, recognizing the patterns beneath what they are experiencing, and translating the teachings into something personal, practical and embodied.
+Her path here was shaped by a lifelong quest to truly understand human nature and consciousness. That search took her through art, symbolism, astrology, and various healing modalities. She refined her experience by walking the path of the initiate within the Modern Mystery School . Everything she'd only had glimpses of before came together into a clear masterpiece that is her life today.
+Together with her husband Radu, she leads, teaches and heals those who wish to walk the path as well, and helps build the Prague community — sharing these ancient, transformative practices to help others bridge the gap between theory and reality, from simple curiosity to profound personal mastery.
+There is a difference between hearing that something is possible and experiencing it yourself. The second changes everything.
+
+## PAGE: (component) hall-of-initiates.tsx
+Hermes Trismegistus
+Hatshepsut
+Nefertiti
+King David
+King Salomon
+Queen of Sheba
+Pythagoras
+King Leonidas
+Gautama Buddha
+Socrates
+Aristotle
+Alexander the Great
+Julius Caesar
+Cleopatra
+Hall of Initiates
+You walk in great company
+Kings and queens, artists and scientists were initiated on this same path — Leonardo da Vinci, Nikola Tesla, Isaac Newton among them. Their portraits hang here as witnesses.
+Father of Hermetic wisdom
+The pharaoh who built temples
+Keeper of the sacred feminine
+Warrior-poet and psalmist
+Founder of the lineage
+Bridge between kingdoms
+Geometry as divine language
+Guardian-king of the few
+The awakened one
+Father of inquiry
+Master of the sciences
+Visionary world-builder
+Statesman and reformer
+Priestess of power
+Master of transformation
+Warrior of devotion
+Faith in armor
+The universal initiate
+Master of stone and spirit
+Physician and seer
+Poet of the soul
+The sword as a path
+Scientist of the mysteries
+The deathless adept
+Statesman of conscience
+Frequency and light
+Architect of the spirit
+The mystic healer
+What if you could access the exact same path, tools and power they did — what would your legacy be?
+Portraits: historical artworks & photographs, Wikimedia Commons.
+
+## PAGE: (component) header.tsx
+PATH OF
+https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation.
+Activations & Initiations
+Healing & Workshops
+About
+Begin Your Journey
+All Healing Modalities
+Specialty Healings (KSHM)
+Astral Travel
+Spiritual Intuition
+The 7 Mystery Schools
+Stress Rescue
+Keys of the Ancients
+Kabbalah Ascension Program
+Your Guide
+Lineage
+Testimonials
+Certifications
+Calendar
+Community
+
+## PAGE: (component) healing-grid.tsx
+Inquire
+
 ## PAGE: (component) hero-section.tsx
-video[ ]
 Prague, Czech Republic
 The Path of Initiation:
 A 3,000-Year-Old Lineage
 For millennia, this sacred lineage was guarded in silence. Recognizable figures — Leonardo da Vinci, Nikola Tesla, Isaac Newton — have walked this very path to understand the physical and spiritual worlds, but the mystery schools themselves were hidden, nearly impossible to find, and would not accept just anyone into their sacred halls.
 Today though, the doors of one mystery school are open to the public. We are privileged to live in an era where anyone who feels the call can choose to study the mysteries and awaken to their true potential. This is a school where magick is a core part of existence, where the soul is developed and healed, and where the divine purpose of each person is discovered and fulfilled.
 Discover if this Path is for you
-WhatsApp`;
+
+## PAGE: (component) modality.tsx
+radu@thepathofinitiationprague.com
+inscriere-eveniment
+investment
+duration
+Email
+Investment
+Duration
+Book Now
+Do you have any questions?
+After you reach out, we will contact you personally to finalize your appointment.
+
+## PAGE: (component) newsletter-section.tsx
+application/json
+application/x-www-form-urlencoded;charset=UTF-8
+ml-submit
+submitting
+subscribe
+Letters from the Path
+Receive the Teachings
+Weekly letters on initiation, sacred geometry, and the work of the soul. Also includes links to free guided meditations and Chi Do.
+Your email
+Submitting...
+Subscribe
+Please enter your email address.
+Thank you — your subscription request has been received.
+Something went wrong. Please try again or contact us directly.
+No noise. Unsubscribe anytime.
+
+## PAGE: (component) parallax-image.tsx
+end start
+
+## PAGE: (component) pillars-section.tsx
+The Foundation
+The Four Pillars of Transformation
+Each pillar builds upon the last, creating a complete system of spiritual evolution that has stood the test of time.
+Spiritual Knowledge
+Deepen your understanding of the universe and the metaphysical laws that govern all of creation. Access teachings that have been preserved for over three millennia by an unbroken lineage of initiates.
+Practical Magic
+Awaken dormant powers within yourself and learn to direct energy to create tangible, real-world outcomes. This is not theory; it is the practical application of universal principles.
+Divine Purpose
+Develop your soul and forge a living connection with your Higher Purpose. Discover why you are here, what you are meant to create, and how to align every aspect of your life with your true calling.
+Healing Modalities
+Learn sacred healing techniques that allow you to be of profound service to others. Become a channel for transformation and help others awaken to their own divine potential.
+
+## PAGE: (component) sacred-geometry-series-links.tsx
+sacred-geometry
+Sacred Geometry I
+sacred-geometry-2
+Sacred Geometry II
+sacred-geometry-3
+Sacred Geometry III
+sacred-geometry-4
+Sacred Geometry IV
+Explore Other Sacred Geometry Workshops
+Learn more
+The foundation: the 3 keys to heaven and the sacred shapes of creation.
+Crystal healing and space protection.
+Egyptian Aura Healing — restoring the 7 layers of the aura.
+Sacred space and living temples.
+
+## PAGE: (component) teaser-section.tsx
+Commitment to Greatness
+This is Not a Weekend Workshop
+Let us be clear: The Path of Initiation is a rigorous training program. It involves months of dedicated study, constant practice, and an unwavering commitment to your own transformation. This is not a casual seminar or a feel-good retreat.
+This is a sacred commitment to become the greatest version of yourself — to unlock powers that most people will never know exist, and to step into a lineage that has shaped the course of human history.
+What is expected of you
+An open mind and a willingness to challenge your current assumptions
+Daily practice of the tools and techniques
+A genuine desire for self-mastery
+Willingness to serve and uplift yourself and others
+
+## PAGE: (component) withdrawal-form.tsx
+w-full rounded-sm border border-border bg-background/60 px-4 py-3 text-base text-foreground placeholder:text-muted-foreground backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary
+mb-2 block text-sm font-semibold uppercase tracking-wide text-foreground
+application/json
+request failed
+submitting
+Withdraw from the Contract | The Path of Initiation Prague
+Submit an electronic notice of withdrawal from your contract with The Path of Initiation Prague, in accordance with Article 6.4 of our General Terms and Conditions.
+Back to home
+Withdraw from the Contract
+Use this form to submit your notice of withdrawal electronically, as provided for in Article 6.4 of our General Terms and Conditions. You'll receive an e-mail confirming we've received it.
+Which Services are you withdrawing from?
+e.g. Empower Thyself, booked for 12 September 2026
+Date of order
+Order number (if assigned)
+optional
+Your full name
+Your address
+Bank account number for the refund
+Your e-mail address
+We'll send your confirmation here.
+Submit withdrawal notice
+Submitting…
+Received — check your inbox for a confirmation e-mail.
+Something went wrong. Please try again, or e-mail us directly at radu@thepathofinitiationprague.com.
+All fields are required unless marked optional.`;

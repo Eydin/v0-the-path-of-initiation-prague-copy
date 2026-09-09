@@ -15,10 +15,27 @@ function walk(dir){
 }
 walk(join(ROOT,"app"));
 
-for(const c of ["hero-section.tsx","footer.tsx","cta-section.tsx"]){
+// FIX 3: the old hardcoded list of 3 component filenames (hero-section,
+// footer, cta-section) had already gone stale — components like
+// guide-section.tsx (Radu's and Diana's bios) were never scanned, so their
+// content silently never made it into the knowledge base. Instead, discover
+// every component each page.tsx actually imports from "@/components/*" and
+// scan those too, so new sections are picked up automatically.
+const componentFiles = new Set();
+const IMPORT_RE = /from\s+["']@\/components\/([^"']+)["']/g;
+for(const f of files){
+  const src = readFileSync(f,"utf8");
+  for(const m of src.matchAll(IMPORT_RE)){
+    let rel = m[1];
+    if(!rel.endsWith(".tsx")) rel += ".tsx";
+    componentFiles.add(rel);
+  }
+}
+for(const c of componentFiles){
   try{
-    statSync(join(ROOT,"components",c));
-    files.push(join(ROOT,"components",c));
+    const p = join(ROOT,"components",c);
+    statSync(p);
+    files.push(p);
   }catch{}
 }
 
@@ -40,22 +57,36 @@ function clean(t){
   return t.replace(/&mdash;/g," ").replace(/&amp;/g,"&").replace(/&nbsp;/g," ").replace(/&[a-z]+;/g,"").replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim();
 }
 
+// FIX 4: several kinds of pure-noise fragments were leaking into the
+// knowledge base: bare namespace/type identifiers left over from
+// useTranslations("XPage") calls (e.g. "AstralTravelPage", "Modality"),
+// dotted i18n key-path leaks (e.g. "quote.text", "groups.activations.items.0.tag"),
+// and truncated JS/TSX code fragments (destructured params, JSX conditionals,
+// comment remnants) that the regex-based extractor can't fully avoid. These
+// rules reject that shape of text without touching real prose content.
 function isJunk(t){
   if(!t||t.length<5)return true;
   if(!/[a-zA-Z]{3}/.test(t))return true;
   if(t.startsWith("@/")||t.startsWith("@/components"))return true;
-  if(/^[a-z]+([A-Z][a-z0-9]+)+$/.test(t))return true;
-  if(/[{}<>]/.test(t))return true;
+  if(/^[a-z]+([A-Z][a-z0-9]+)+$/.test(t))return true; // lowerCamelCase identifier
+  if(/^([A-Z][a-z0-9]*){2,}$/.test(t))return true; // PascalCase identifier (namespace/type name)
+  if(/[{}<>\[\]]/.test(t))return true;
   if(/^(const|return|function|export|true|false|null|undefined|className)$/.test(t))return true;
   if(/^https?:\/\//.test(t)&&!/wa\.me|stripe|youtube/.test(t))return true;
   if(/^[\w./-]+\.(tsx|ts|jpg|jpeg|png|webp|svg|mp4|css)$/i.test(t))return true;
+  if(/^[),]/.test(t)||/[(=]$/.test(t))return true; // truncated code fragment
+  if(/=>|===|!==|\?\?|useTranslations\(|useState\(|\.split\(|return \(|t\.rich\(/.test(t))return true; // JS syntax
+  if(/^[a-zA-Z][a-zA-Z0-9]*\?:/.test(t))return true; // TS type-annotation fragment like "variant?:"
+  if(/^[a-z][a-zA-Z0-9]*(\.[a-z0-9][a-zA-Z0-9]*){2,}$/.test(t))return true; // dotted i18n key path (3+ segments)
+  if(/^[a-z][a-zA-Z0-9]*\d*\.(text|emphasis|attribution|caption|label|description|tag|name|title|heading)$/i.test(t))return true; // dotted i18n key path (2 segments)
   return false;
 }
 
 function extract(src){
+  src=src.replace(/\/\*[\s\S]*?\*\//g," ").replace(/(^|[^:])\/\/[^\n]*/g,"$1 "); // strip JS comments (keep `://` in URLs)
   src=src.replace(/^\s*import[^\n]*\n/gm," ").replace(/"use client"/g," ").replace(/'use client'/g," ");
   src=src.replace(/className=\{`[^`]*`\}/gs," ").replace(/className="[^"]*"/g," ").replace(/className=\{[^}]*\}/gs," ");
-  src=src.replace(/\b(src|href|bg|position|style|sizes|alt|viewBox|d|id|rel|target|type|aria-[a-z]+|initial|animate|transition|whileInView|variants|className)=("[^"]*"|\{[^}]*\}|`[^`]*`)/g," ");
+  src=src.replace(/\b(src|href|bg|position|style|sizes|alt|viewBox|d|id|rel|target|type|allow|aria-[a-z]+|initial|animate|transition|whileInView|variants|className)=("[^"]*"|\{[^}]*\}|`[^`]*`)/g," ");
 
   // Convert React curly-brace string literals (like {" "}) into raw text
   // so the following regex doesn't stop matching prematurely.
@@ -99,8 +130,11 @@ function flattenStrings(node, out=[]){
   return out;
 }
 
-function extractTranslatedNamespaces(src){
-  const namespaces = [...src.matchAll(/useTranslations\(\s*["']([^"']+)["']\s*\)/g)].map(m=>m[1]);
+function getNamespaces(src){
+  return [...src.matchAll(/useTranslations\(\s*["']([^"']+)["']\s*\)/g)].map(m=>m[1]);
+}
+
+function extractTranslatedNamespaces(src, namespaces){
   const out=[],seen=new Set();
   const push=(raw)=>{
     const t=clean(raw);
@@ -122,7 +156,15 @@ files.sort();
 
 for(const f of files){
   const src = readFileSync(f,"utf8");
-  const lines = Array.from(new Set([...extract(src), ...extractTranslatedNamespaces(src)]));
+  const namespaces = getNamespaces(src);
+  // A single-segment namespace name (e.g. "Modality", "Healings") isn't
+  // caught by isJunk()'s PascalCase-identifier rule (which requires 2+
+  // segments to avoid rejecting real single-word content like
+  // "Recommendations"). Since we know exactly which namespace strings this
+  // file references, drop bare occurrences of those specific names instead.
+  const namespaceSet = new Set(namespaces);
+  const lines = Array.from(new Set([...extract(src), ...extractTranslatedNamespaces(src, namespaces)]))
+    .filter((line) => !namespaceSet.has(line));
   if(!lines.length)continue;
   doc+=`\n\n## PAGE: ${routeName(f)}\n`+lines.join("\n");
 }
