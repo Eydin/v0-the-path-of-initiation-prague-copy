@@ -12,6 +12,8 @@ import {
   BookingBlock,
 } from "@/components/modality"
 
+const STRIPE = "https://buy.stripe.com/7sY28k8TJ7c24AR3K3g360v"
+
 export async function generateMetadata({
   params,
 }: {
@@ -64,8 +66,11 @@ export default async function StressManagement({
       <BookingBlock
         slug="stress-management"
         title={t("bookingTitle")}
+        investment="3.500 CZK"
+        duration={t("duration")}
         inquiry={inquiry}
         note={t("bookingNote")}
+        bookHref={STRIPE}
       />
     </ModalityShell>
   )

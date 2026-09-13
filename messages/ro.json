@@ -558,7 +558,7 @@
       { "label": "Protecție și vitalitate:", "text": "Restabilește un câmp puternic și întreg, care îți susține starea de bine zi de zi." }
     ],
     "bookingTitle": "Restabilește-ți lumina",
-    "duration": "Aproximativ 1 oră",
+    "duration": "2 ore",
     "bookingNote": "După ce ne contactezi, te vom contacta personal pentru a finaliza programarea.",
     "inquiry": "Bună Radu, aș dori să aflu mai multe despre Vindecarea Aurică {brand}."
   },
@@ -578,7 +578,7 @@
       { "label": "Trăind tiparul:", "text": "Vezi ordinea din spatele vieții de zi cu zi și aliniază-te cu ea." }
     ],
     "bookingTitle": "Citește limbajul creației",
-    "duration": "Atelier",
+    "duration": "5 ore",
     "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
     "inquiry": "Bună Radu, aș dori să aflu mai multe despre atelierul {brand}."
   },
@@ -711,7 +711,7 @@
       { "label": "Ancorare și integrare:", "text": "Întoarce-te cu claritate și adu înțelepciunea călătoriilor tale în viața de zi cu zi." }
     ],
     "bookingTitle": "Pășește dincolo de corp",
-    "duration": "Atelier",
+    "duration": "5 ore",
     "bookingNote": "Atelierele sunt programate în grupuri mici. Contactează-ne pentru următoarea dată disponibilă în Praga.",
     "inquiry": "Bună Radu, aș dori să aflu mai multe despre atelierul de Călătorie Astrală."
   },
@@ -732,7 +732,7 @@
       { "label": "Aplicarea în viață:", "text": "Folosește-ți intuiția pentru decizii, relații și direcție mai clare." }
     ],
     "bookingTitle": "Ai încredere în ceea ce știi deja",
-    "duration": "Atelier",
+    "duration": "3 ore",
     "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
     "inquiry": "Bună Radu, aș dori să aflu mai multe despre atelierul de Intuiție Spirituală."
   },
@@ -759,7 +759,7 @@
       { "label": "Un context mai profund:", "text": "Ancorează-ți practica în istoria și rădăcinile muncii pe care o faci." }
     ],
     "bookingTitle": "Trece prin cele șapte porți",
-    "duration": "Atelier",
+    "duration": "3 ore",
     "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
     "inquiry": "Bună Radu, aș dori să aflu mai multe despre atelierul Cele 7 Școli ale Misterelor."
   },
@@ -780,6 +780,7 @@
       { "label": "Pentru echipe:", "text": "Un limbaj comun și instrumente comune care fac întregul grup mai rezilient." }
     ],
     "bookingTitle": "Adu calmul înapoi în zi",
+    "duration": "2 ore",
     "bookingNote": "Disponibil pentru persoane, echipe de conducere și organizații. Contactează-ne pentru a discuta o ședință sau un program pentru echipa ta.",
     "inquiry": "Bună Radu, aș dori să aflu mai multe despre Eliberarea de Stres."
   },
@@ -807,6 +808,7 @@
     "gatheringsHeading2": "Deschise studenților, inițiaților și oricui altcuiva interesat.",
     "freeOfCharge": "Gratuit",
     "twoHours": "2 ore",
+    "oneHour": "1 oră",
     "prayerEvening": {
       "title": "Seara de rugăciune",
       "inquiry": "Bună Radu, aș dori să aflu mai multe despre întâlnirea comunitară Seara de rugăciune.",

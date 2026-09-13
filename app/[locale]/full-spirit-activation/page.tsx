@@ -14,6 +14,8 @@ import {
 } from "@/components/modality"
 import { QuoteBreaker } from "@/components/quote-breaker"
 
+const STRIPE = "https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t"
+
 export async function generateMetadata({
   params,
 }: {
@@ -93,6 +95,7 @@ export default async function FullSpiritActivation({
         investment="8500 CZK"
         duration={t("duration")}
         inquiry={inquiry}
+        bookHref={STRIPE}
       />
     </ModalityShell>
   )

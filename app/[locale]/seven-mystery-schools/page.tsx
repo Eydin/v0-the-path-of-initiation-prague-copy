@@ -13,6 +13,8 @@ import {
 } from "@/components/modality"
 import { QuoteBreaker } from "@/components/quote-breaker"
 
+const STRIPE = "https://buy.stripe.com/5kQ7sE2vl1RIffv2FZg360w"
+
 export async function generateMetadata({
   params,
 }: {
@@ -77,9 +79,11 @@ export default async function SevenMysterySchools({
       <BookingBlock
         slug="seven-mystery-schools"
         title={t("bookingTitle")}
+        investment="1.333 CZK"
         duration={t("duration")}
         inquiry={inquiry}
         note={t("bookingNote")}
+        bookHref={STRIPE}
       />
     </ModalityShell>
   )

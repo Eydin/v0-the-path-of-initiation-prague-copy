@@ -558,7 +558,7 @@
       { "label": "Schutz & Vitalität:", "text": "Stellt ein starkes, ganzes Feld wieder her, das dein tägliches Wohlbefinden unterstützt." }
     ],
     "bookingTitle": "Stelle dein Licht wieder her",
-    "duration": "Ca. 1 Stunde",
+    "duration": "2 Stunden",
     "bookingNote": "Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu finalisieren.",
     "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand} Aura-Heilung erfahren."
   },
@@ -578,7 +578,7 @@
       { "label": "Das Muster leben:", "text": "Erkenne die Ordnung unter dem Alltag und richte dich danach aus." }
     ],
     "bookingTitle": "Lies die Sprache der Schöpfung",
-    "duration": "Workshop",
+    "duration": "5 Stunden",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
     "inquiry": "Hallo Radu, ich möchte gerne mehr über den {brand}-Workshop erfahren."
   },
@@ -711,7 +711,7 @@
       { "label": "Erdung & Integration:", "text": "Kehre klar zurück und bringe die Weisheit deiner Reisen in den Alltag." }
     ],
     "bookingTitle": "Trete über den Körper hinaus",
-    "duration": "Workshop",
+    "duration": "5 Stunden",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten verfügbaren Termin in Prag.",
     "inquiry": "Hallo Radu, ich möchte gerne mehr über den Astralreisen-Workshop erfahren."
   },
@@ -732,7 +732,7 @@
       { "label": "Im Leben anwenden:", "text": "Nutze deine Intuition für klarere Entscheidungen, Beziehungen und Richtung." }
     ],
     "bookingTitle": "Vertraue dem, was du bereits weißt",
-    "duration": "Workshop",
+    "duration": "3 Stunden",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
     "inquiry": "Hallo Radu, ich möchte gerne mehr über den Workshop Spirituelle Intuition erfahren."
   },
@@ -759,7 +759,7 @@
       { "label": "Ein tieferer Kontext:", "text": "Verankere deine Praxis in der Geschichte und den Wurzeln der Arbeit, die du tust." }
     ],
     "bookingTitle": "Durchschreite die sieben Tore",
-    "duration": "Workshop",
+    "duration": "3 Stunden",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
     "inquiry": "Hallo Radu, ich möchte gerne mehr über den Workshop Die 7 Mysterienschulen erfahren."
   },
@@ -780,6 +780,7 @@
       { "label": "Für Teams:", "text": "Eine gemeinsame Sprache und gemeinsame Werkzeuge, die eine ganze Gruppe widerstandsfähiger machen." }
     ],
     "bookingTitle": "Bringe Ruhe zurück in den Tag",
+    "duration": "2 Stunden",
     "bookingNote": "Verfügbar für Einzelpersonen, Führungsteams und Organisationen. Melde dich, um eine Sitzung oder ein Programm für dein Team zu besprechen.",
     "inquiry": "Hallo Radu, ich möchte gerne mehr über Stress-Rettung / Stressmanagement erfahren."
   },
@@ -807,6 +808,7 @@
     "gatheringsHeading2": "Offen für Studenten, Initiierte und alle anderen Interessierten.",
     "freeOfCharge": "Kostenlos",
     "twoHours": "2 Stunden",
+    "oneHour": "1 Stunde",
     "prayerEvening": {
       "title": "Gebetsabend",
       "inquiry": "Hallo Radu, ich möchte gerne mehr über das Gemeinschaftstreffen Gebetsabend erfahren.",

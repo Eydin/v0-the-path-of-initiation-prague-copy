@@ -14,6 +14,8 @@ import {
 } from "@/components/modality"
 import { SacredGeometrySeriesLinks } from "@/components/sacred-geometry-series-links"
 
+const STRIPE = "https://buy.stripe.com/aFa00c4Dt0NE8R780jg360s"
+
 export async function generateMetadata({
   params,
 }: {
@@ -68,9 +70,11 @@ export default async function SacredGeometry({
       <BookingBlock
         slug="sacred-geometry"
         title={t("bookingTitle")}
+        investment="4.200 CZK"
         duration={t("duration")}
         inquiry={inquiry}
         note={t("bookingNote")}
+        bookHref={STRIPE}
       />
     </ModalityShell>
   )

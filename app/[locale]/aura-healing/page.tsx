@@ -13,6 +13,8 @@ import {
   BookingBlock,
 } from "@/components/modality"
 
+const STRIPE = "https://buy.stripe.com/8x29AM0ndbsic3j94ng360y"
+
 export async function generateMetadata({
   params,
 }: {
@@ -65,9 +67,11 @@ export default async function AuraHealing({
       <BookingBlock
         slug="aura-healing"
         title={t("bookingTitle")}
+        investment="4.800 CZK"
         duration={t("duration")}
         inquiry={inquiry}
         note={t("bookingNote")}
+        bookHref={STRIPE}
       />
     </ModalityShell>
   )

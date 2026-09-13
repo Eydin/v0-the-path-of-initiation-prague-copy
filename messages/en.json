@@ -597,7 +597,7 @@
       { "label": "Protection & vitality:", "text": "Re-establish a strong, whole field that supports your wellbeing day to day." }
     ],
     "bookingTitle": "Restore Your Light",
-    "duration": "Approx. 1 Hour",
+    "duration": "2 Hours",
     "bookingNote": "After you reach out, we will contact you personally to finalise your appointment.",
     "inquiry": "Hello Radu, I would like to learn more about the {brand} Aura Healing."
   },
@@ -617,7 +617,7 @@
       { "label": "Living the pattern:", "text": "See the order beneath everyday life and align yourself with it." }
     ],
     "bookingTitle": "Read the Language of Creation",
-    "duration": "Workshop",
+    "duration": "5 Hours",
     "bookingNote": "Workshops run in small groups. Reach out for the next scheduled date in Prague.",
     "inquiry": "Hello Radu, I would like to learn more about the {brand} workshop."
   },
@@ -750,7 +750,7 @@
       { "label": "Grounding & integration:", "text": "Return clearly and bring the wisdom of your journeys into daily life." }
     ],
     "bookingTitle": "Step Beyond the Body",
-    "duration": "Workshop",
+    "duration": "5 Hours",
     "bookingNote": "Workshops are scheduled in small groups. Reach out for the next available date in Prague.",
     "inquiry": "Hello Radu, I would like to learn more about the Astral Travel workshop."
   },
@@ -771,7 +771,7 @@
       { "label": "Apply it in life:", "text": "Use your intuition for clearer decisions, relationships and direction." }
     ],
     "bookingTitle": "Trust What You Already Know",
-    "duration": "Workshop",
+    "duration": "3 Hours",
     "bookingNote": "Workshops run in small groups. Reach out for the next scheduled date in Prague.",
     "inquiry": "Hello Radu, I would like to learn more about the Spiritual Intuition workshop."
   },
@@ -798,7 +798,7 @@
       { "label": "A deeper context:", "text": "Ground your practice in the history and roots of the work you are doing." }
     ],
     "bookingTitle": "Walk Through the Seven Gates",
-    "duration": "Workshop",
+    "duration": "3 Hours",
     "bookingNote": "Workshops run in small groups. Reach out for the next scheduled date in Prague.",
     "inquiry": "Hello Radu, I would like to learn more about the 7 Mystery Schools workshop."
   },
@@ -819,6 +819,7 @@
       { "label": "For teams:", "text": "A shared language and shared tools that make a whole group more resilient." }
     ],
     "bookingTitle": "Bring Calm Back Into the Day",
+    "duration": "2 Hours",
     "bookingNote": "Available for individuals, leadership teams and organisations. Reach out to discuss a session or a programme for your team.",
     "inquiry": "Hello Radu, I would like to learn more about Stress Rescue / Stress Management."
   },
@@ -846,6 +847,7 @@
     "gatheringsHeading2": "Open to students, initiates and anyone else interested.",
     "freeOfCharge": "Free of Charge",
     "twoHours": "2 Hours",
+    "oneHour": "1 Hour",
     "prayerEvening": {
       "title": "Prayer Evening",
       "inquiry": "Hello Radu, I would like to learn more about the Prayer Evening community gathering.",

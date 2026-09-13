@@ -558,7 +558,7 @@
       { "label": "Ochrana a vitalita:", "text": "Znovu nastoluje silné, celistvé pole, které podporuje vaši pohodu den co den." }
     ],
     "bookingTitle": "Obnovte své světlo",
-    "duration": "Přibližně 1 hodina",
+    "duration": "2 hodiny",
     "bookingNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
     "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o {brand} — léčení aury."
   },
@@ -578,7 +578,7 @@
       { "label": "Žít podle vzoru:", "text": "Uvidíte řád, který je základem každodenního života, a sladíte se s ním." }
     ],
     "bookingTitle": "Čtěte jazyk stvoření",
-    "duration": "Workshop",
+    "duration": "5 hodin",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
     "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu {brand}."
   },
@@ -711,7 +711,7 @@
       { "label": "Ukotvení a integrace:", "text": "Vraťte se jasně a přineste moudrost svých cest do každodenního života." }
     ],
     "bookingTitle": "Vykročte za hranice těla",
-    "duration": "Workshop",
+    "duration": "5 hodin",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího dostupného termínu v Praze.",
     "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu Astrální cestování."
   },
@@ -732,7 +732,7 @@
       { "label": "Uplatnění v životě:", "text": "Používejte svou intuici pro jasnější rozhodnutí, vztahy a směřování." }
     ],
     "bookingTitle": "Důvěřujte tomu, co už víte",
-    "duration": "Workshop",
+    "duration": "3 hodiny",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
     "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu Duchovní intuice."
   },
@@ -759,7 +759,7 @@
       { "label": "Hlubší kontext:", "text": "Zakotvěte svou praxi v historii a kořenech práce, kterou vykonáváte." }
     ],
     "bookingTitle": "Projděte sedmi branami",
-    "duration": "Workshop",
+    "duration": "3 hodiny",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
     "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu 7 mysterijních škol."
   },
@@ -780,6 +780,7 @@
       { "label": "Pro týmy:", "text": "Sdílený jazyk a sdílené nástroje, které činí celou skupinu odolnější." }
     ],
     "bookingTitle": "Vraťte klid zpět do svého dne",
+    "duration": "2 hodiny",
     "bookingNote": "Dostupné pro jednotlivce, vedoucí týmy a organizace. Ozvěte se nám a probereme sezení nebo program pro váš tým.",
     "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Záchraně před stresem."
   },
@@ -807,6 +808,7 @@
     "gatheringsHeading2": "Otevřeno studentům, zasvěcencům i komukoli dalšímu, kdo má zájem.",
     "freeOfCharge": "Zdarma",
     "twoHours": "2 hodiny",
+    "oneHour": "1 hodina",
     "prayerEvening": {
       "title": "Modlitební večer",
       "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o komunitním setkání Modlitební večer.",
