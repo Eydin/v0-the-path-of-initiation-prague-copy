@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import { Link } from "@/i18n/navigation"
 import { BRAND } from "@/lib/brand-names"
 import {
@@ -15,8 +14,29 @@ import {
 import { HealingGroup, type Healing } from "@/components/healing-grid"
 import { ScrollReveal } from "@/components/scroll-reveal"
 
-export default function Healings() {
-  const t = useTranslations("Healings")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "Healings" })
+  const title = `${t("heroTitle")} | The Path of Initiation Prague`
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/bethesda-bloch.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function Healings({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "Healings" })
 
   const activations: Healing[] = [
     { name: BRAND.lifeActivation, tag: t("groups.activations.items.0.tag"), description: t("groups.activations.items.0.description") },

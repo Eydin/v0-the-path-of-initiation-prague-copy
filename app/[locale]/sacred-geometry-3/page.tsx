@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import {
   ModalityShell,
   ModalityHero,
@@ -14,8 +13,29 @@ import {
 } from "@/components/modality"
 import { SacredGeometrySeriesLinks } from "@/components/sacred-geometry-series-links"
 
-export default function SacredGeometryThree() {
-  const t = useTranslations("SacredGeometry3Page")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "SacredGeometry3Page" })
+  const title = "Sacred Geometry III | The Path of Initiation Prague"
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/flammarion.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function SacredGeometryThree({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "SacredGeometry3Page" })
   const inquiry = t("inquiry")
   const benefits = [0, 1, 2].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
 

@@ -39,7 +39,7 @@ export async function generateMetadata({
   const { locale } = await params
 
   return {
-    title: 'The Path of Initiation Prague | Radu Coman',
+    title: 'The Path of Initiation Prague',
     description: 'A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker. Begin your journey of transformation in Prague with Guide Radu Coman.',
     generator: 'v0.app',
     metadataBase: new URL(SITE),
@@ -49,16 +49,20 @@ export async function generateMetadata({
       ),
     },
     openGraph: {
-      title: 'The Path of Initiation Prague | Radu Coman',
+      title: 'The Path of Initiation Prague',
       description: 'Begin your journey of spiritual transformation, life activation, and ancient mystery school lineage teachings locally in Prague.',
       url: SITE,
       siteName: 'The Path of Initiation Prague',
       images: [
         {
-          url: '/images/radu-coman-square.jpg', // High-quality featured image
-          width: 1080,
-          height: 1080,
-          alt: 'Radu Coman - Guide and Teacher of the Path of Initiation',
+          // Site wordmark, upscaled from the 682x382 source icon to the
+          // standard 1200x630-ish OG size via Lanczos3 (preserves the gold
+          // gradient much better than re-rendering the traced icon.svg,
+          // which flattens it to solid color).
+          url: '/images/path-of-initiation-og.png',
+          width: 1200,
+          height: 672,
+          alt: 'The Path of Initiation',
         },
       ],
       locale: OPEN_GRAPH_LOCALE[locale] ?? OPEN_GRAPH_LOCALE[routing.defaultLocale],

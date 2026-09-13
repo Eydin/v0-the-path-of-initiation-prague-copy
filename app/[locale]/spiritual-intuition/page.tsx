@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import {
   ModalityShell,
   ModalityHero,
@@ -13,8 +12,29 @@ import {
   BookingBlock,
 } from "@/components/modality"
 
-export default function SpiritualIntuition() {
-  const t = useTranslations("SpiritualIntuitionPage")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "SpiritualIntuitionPage" })
+  const title = `${t("heroTitle")} | The Path of Initiation Prague`
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/wanderer-friedrich.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function SpiritualIntuition({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "SpiritualIntuitionPage" })
   const inquiry = t("inquiry")
   const benefits = [0, 1, 2, 3].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
 

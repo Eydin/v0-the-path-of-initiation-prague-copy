@@ -1,10 +1,9 @@
-"use client"
-
 // Referral/informational page, not a locally-run session: the Ascension
 // Program is a long-form Modern Mystery School curriculum held mainly at MMS
 // Headquarters (historically Toronto), not something Radu runs in Prague.
 // Sources disagree on exact length (10 vs. 12 months) — stated as a range.
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import {
   ModalityShell,
   ModalityHero,
@@ -17,8 +16,29 @@ import {
   BookingBlock,
 } from "@/components/modality"
 
-export default function KabbalahAscension() {
-  const t = useTranslations("KabbalahAscensionPage")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "KabbalahAscensionPage" })
+  const title = "Universal Hermetic Ray Kabbalah Ascension Program | The Path of Initiation Prague"
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/ascent-blessed-bosch.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function KabbalahAscension({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "KabbalahAscensionPage" })
   const inquiry = t("inquiry")
   const benefits = [0, 1, 2, 3].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
 

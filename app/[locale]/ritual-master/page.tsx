@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import { BRAND } from "@/lib/brand-names"
 import {
   ModalityShell,
@@ -15,8 +14,29 @@ import {
 } from "@/components/modality"
 import { QuoteBreaker } from "@/components/quote-breaker"
 
-export default function RitualMaster() {
-  const t = useTranslations("RitualMaster")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "RitualMaster" })
+  const title = `${BRAND.ritualMaster} | The Path of Initiation Prague`
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/accolade-leighton.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function RitualMaster({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "RitualMaster" })
   const inquiry = t("inquiry", { brand: BRAND.ritualMaster })
   const steps = [0, 1, 2, 3].map((i) => ({ label: t(`steps.${i}.label`), text: t(`steps.${i}.text`) }))
 

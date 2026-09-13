@@ -1,12 +1,11 @@
-"use client"
-
 // This is a referral/informational page, not a locally-run session: Keys of
 // the Ancients is taught personally by Sovereign Ipsissimus Dave Lanyon at
 // Modern Mystery School HQ events (historically London), not by Radu in
 // Prague. The BookingBlock below deliberately has no `slug`/investment/
 // duration — it only offers to connect a visitor with Radu, and links out to
 // Dave Lanyon's own site for official dates and registration.
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import {
   ModalityShell,
   ModalityHero,
@@ -19,8 +18,29 @@ import {
   BookingBlock,
 } from "@/components/modality"
 
-export default function KeysOfTheAncients() {
-  const t = useTranslations("KeysOfTheAncientsPage")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "KeysOfTheAncientsPage" })
+  const title = "Keys of the Ancients | The Path of Initiation Prague"
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/hermes-trismegistus-sienna-cathedral-mosaic.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function KeysOfTheAncients({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "KeysOfTheAncientsPage" })
   const inquiry = t("inquiry")
   const benefits = [0, 1, 2, 3].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
 

@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import { BRAND } from "@/lib/brand-names"
 import {
   ModalityShell,
@@ -15,8 +14,29 @@ import {
 } from "@/components/modality"
 import { QuoteBreaker } from "@/components/quote-breaker"
 
-export default function HealersAcademy() {
-  const t = useTranslations("HealersAcademy")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "HealersAcademy" })
+  const title = `${BRAND.healersAcademy} | The Path of Initiation Prague`
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/bethesda-bloch.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function HealersAcademy({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "HealersAcademy" })
   const inquiry = t("inquiry", { brand: BRAND.healersAcademy })
   const learn = [0, 1, 2, 3, 4].map((i) => ({ label: t(`learn.${i}.label`), text: t(`learn.${i}.text`) }))
 

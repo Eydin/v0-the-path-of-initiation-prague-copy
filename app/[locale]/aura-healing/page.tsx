@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import { BRAND } from "@/lib/brand-names"
 import {
   ModalityShell,
@@ -14,8 +13,29 @@ import {
   BookingBlock,
 } from "@/components/modality"
 
-export default function AuraHealing() {
-  const t = useTranslations("AuraHealing")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "AuraHealing" })
+  const title = `${t("heroTitle", { brand: BRAND.sacredGeometry })} | The Path of Initiation Prague`
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/ancient-of-days-blake.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function AuraHealing({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "AuraHealing" })
   const inquiry = t("inquiry", { brand: BRAND.sacredGeometry })
   const benefits = [0, 1, 2, 3].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
 

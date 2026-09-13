@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import { BRAND } from "@/lib/brand-names"
 import {
   ModalityShell,
@@ -15,8 +14,29 @@ import {
 } from "@/components/modality"
 import { QuoteBreaker } from "@/components/quote-breaker"
 
-export default function FullSpiritActivation() {
-  const t = useTranslations("FullSpiritActivation")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "FullSpiritActivation" })
+  const title = `${BRAND.fullSpiritActivation} | The Path of Initiation Prague`
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/plains-of-heaven.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function FullSpiritActivation({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "FullSpiritActivation" })
   const inquiry = t("inquiry", { brand: BRAND.fullSpiritActivation })
   const aspects = [0, 1, 2].map((i) => ({ label: t(`aspects.${i}.label`), text: t(`aspects.${i}.text`) }))
   const procedures = [0, 1, 2].map((i) => ({ label: t(`procedures.${i}.label`), text: t(`procedures.${i}.text`) }))

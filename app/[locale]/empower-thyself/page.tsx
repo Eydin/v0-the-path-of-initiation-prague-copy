@@ -1,7 +1,6 @@
-"use client"
-
+import type { Metadata } from "next"
 import Image from "next/image"
-import { useTranslations } from "next-intl"
+import { getTranslations } from "next-intl/server"
 import { BRAND } from "@/lib/brand-names"
 import {
   ModalityShell,
@@ -18,9 +17,30 @@ const STRIPE = "https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i"
 
 const bold = (chunks: React.ReactNode) => <span className="font-semibold text-primary">{chunks}</span>
 
-export default function EmpowerThyself() {
-  const t = useTranslations("EmpowerThyself")
-  const tModality = useTranslations("Modality")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "EmpowerThyself" })
+  const title = `${t("heroTitle", { brand: BRAND.empowerThyself })} | The Path of Initiation Prague`
+  const description = t("heroSubtitle")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/accolade-leighton.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function EmpowerThyself({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "EmpowerThyself" })
+  const tModality = await getTranslations({ locale, namespace: "Modality" })
   const inquiry = t("inquiry", { brand: BRAND.empowerThyself })
   const whatBenefits = [0, 1, 2].map((i) => ({ text: t(`whatWillYouDo.benefits.${i}`) }))
   const curriculum = Array.from({ length: 11 }, (_, i) => t(`curriculum.items.${i}`))

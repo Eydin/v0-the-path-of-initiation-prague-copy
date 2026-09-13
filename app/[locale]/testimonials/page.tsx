@@ -1,13 +1,31 @@
-"use client"
-
+import type { Metadata } from "next"
 import Image from "next/image"
-import { useTranslations } from "next-intl"
+import { getTranslations } from "next-intl/server"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 
-export default function Testimonials() {
-  const t = useTranslations("TestimonialsPage")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "TestimonialsPage" })
+  const title = `${t("heading")} | The Path of Initiation Prague`
+  return {
+    title,
+    openGraph: { title, images: [{ url: "/images/life-activation-bg.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function Testimonials({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "TestimonialsPage" })
   const mariaQA = [0, 1, 2, 3, 4].map((i) => ({
     q: t(`maria.qa.${i}.q`),
     a1: t.has(`maria.qa.${i}.a1`) ? t(`maria.qa.${i}.a1`) : undefined,

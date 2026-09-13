@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations, useFormatter } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations, getFormatter } from "next-intl/server"
 import { Clock, MapPin, ArrowUpRight } from "lucide-react"
 import { Link } from "@/i18n/navigation"
 import { Header } from "@/components/header"
@@ -12,9 +11,30 @@ import {
   parseLocalDate,
 } from "@/lib/schedule"
 
-export default function CalendarPage() {
-  const t = useTranslations("CalendarPage")
-  const format = useFormatter()
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "CalendarPage" })
+  const title = `${t("heading")} | The Path of Initiation Prague`
+  const description = t("intro")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/starry-rhone-gogh.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function CalendarPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "CalendarPage" })
+  const format = await getFormatter({ locale })
   const months = getUpcomingEventsByMonth()
   const total = getAllUpcomingEvents().length
 

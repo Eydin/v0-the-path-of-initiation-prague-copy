@@ -1,13 +1,33 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import Image from "next/image"
 
-export default function Certifications() {
-  const t = useTranslations("CertificationsPage")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "CertificationsPage" })
+  const title = `${t("heading")} | The Path of Initiation Prague`
+  const description = t("subheading")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/empower-thyself-bg.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function Certifications({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "CertificationsPage" })
 
   return (
     <>

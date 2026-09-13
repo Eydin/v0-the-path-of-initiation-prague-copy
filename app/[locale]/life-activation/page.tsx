@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import { Link } from "@/i18n/navigation"
 import { BRAND } from "@/lib/brand-names"
 import {
@@ -18,9 +17,30 @@ import {
 
 const STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
 
-export default function LifeActivation() {
-  const t = useTranslations("LifeActivation")
-  const tModality = useTranslations("Modality")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "LifeActivation" })
+  const title = `${BRAND.lifeActivation} | The Path of Initiation Prague`
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/bethesda-bloch.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function LifeActivation({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "LifeActivation" })
+  const tModality = await getTranslations({ locale, namespace: "Modality" })
   const inquiry = t("inquiry", { brand: BRAND.lifeActivation })
   const benefits = [0, 1, 2, 3, 4].map((i) => ({
     label: t(`benefits.${i}.label`),

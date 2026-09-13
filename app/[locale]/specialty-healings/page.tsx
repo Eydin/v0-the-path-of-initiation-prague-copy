@@ -1,6 +1,5 @@
-"use client"
-
-import { useTranslations } from "next-intl"
+import type { Metadata } from "next"
+import { getTranslations } from "next-intl/server"
 import { Link } from "@/i18n/navigation"
 import {
   ModalityShell,
@@ -14,8 +13,29 @@ import {
 import { HealingGroup, type Healing } from "@/components/healing-grid"
 import { ScrollReveal } from "@/components/scroll-reveal"
 
-export default function SpecialtyHealings() {
-  const t = useTranslations("SpecialtyHealings")
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "SpecialtyHealings" })
+  const title = `${t("heroTitle")} | The Path of Initiation Prague`
+  const description = t("heroTagline")
+  return {
+    title,
+    description,
+    openGraph: { title, description, images: [{ url: "/images/art/sheba-Salomon-temple.jpg", width: 1200, height: 630 }] },
+  }
+}
+
+export default async function SpecialtyHealings({
+  params,
+}: {
+  params: Promise<{ locale: string }>
+}) {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: "SpecialtyHealings" })
   const inquiry = t("inquiry")
 
   const kshmSessions: Healing[] = [0, 1, 2].map((i) => ({
