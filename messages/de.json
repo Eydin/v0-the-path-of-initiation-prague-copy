@@ -33,14 +33,14 @@
     }
   },
   "Footer": {
-    "tagline": "Heilung, Initiation und Ausbildung in der Linie von König Salomon, mit Guide Radu Coman in Prag.",
+    "tagline": "Heilung, Initiation und Ausbildung in der Linie von König Salomon, mit den Guides Radu und Diana Coman in Prag.",
     "location": "Prag, Tschechische Republik",
     "auraHealing": "Aura-Heilung",
     "contact": "Kontakt",
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
     "certifiedAlt": "Zertifiziert von der Modern Mystery School",
-    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Alle Rechte vorbehalten.",
+    "copyright": "© {year} The Path of Initiation Prague · Radu & Diana Coman. Alle Rechte vorbehalten.",
     "privacyPolicy": "Datenschutzerklärung",
     "terms": "Allgemeine Geschäftsbedingungen",
     "withdrawFromContract": "Vom Vertrag zurücktreten"
@@ -121,7 +121,7 @@
   "CTA": {
     "eyebrow": "Deine Einladung",
     "heading": "Bist du bereit, den Pfad zu beschreiten?",
-    "body": "Die Tür steht offen, doch nur du kannst dich entscheiden, hindurchzutreten. Wenn du den Ruf spürst, mach den ersten Schritt und bewirb dich für eine persönliche Beratung mit Radu Coman.",
+    "body": "Die Tür steht offen, doch nur du kannst dich entscheiden, hindurchzutreten. Wenn du den Ruf spürst, mach den ersten Schritt und bewirb dich für eine persönliche Beratung mit Radu und Diana Coman.",
     "email": "E-Mail",
     "whatsapp": "WhatsApp"
   },
@@ -252,7 +252,7 @@
     "bookingTitle": "Begegne deiner authentischen Kraft und deinem höheren Selbst!",
     "duration": "2 Stunden",
     "bookingNote": "Sobald die Zahlung abgeschlossen ist, kontaktieren wir dich, um den Termin zu finalisieren.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand} erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über die {brand} erfahren."
   },
   "EmpowerThyself": {
     "heroEyebrow": "Eine zweitägige Initiation",
@@ -345,7 +345,7 @@
       "deposit": "Eine Anzahlung von 12.000 CZK sichert dir deinen Platz und ermöglicht es uns, deine Life-Activation-Sitzung zu planen.",
       "remainder": "Die restlichen 24.500 CZK sind 2 Wochen vor Beginn des zweitägigen Trainings und der Initiation fällig."
     },
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand}-Initiation erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über die {brand}-Initiation erfahren."
   },
   "FullSpiritActivation": {
     "heroEyebrow": "Die Mysterientradition · Linie von König Salomon",
@@ -379,7 +379,7 @@
     "proceduresClosing": "Nach einer so intensiven Sitzung wird empfohlen, sich Zeit zu nehmen, um die Transformationen vollständig zu integrieren. Um die Vorteile zu maximieren, absolviere zuerst die Life Activation — idealerweise drei Wochen bis drei Monate vorher.",
     "bookingTitle": "Entdecke dein Potenzial, ein göttliches Wesen zu sein",
     "duration": "2 Stunden",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand} erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über die {brand} erfahren."
   },
   "HealersAcademy": {
     "heroEyebrow": "Die zweite Stufe der Initiation",
@@ -409,7 +409,7 @@
     "bookingTitle": "Antworte auf den Ruf zu dienen",
     "duration": "Intensivprogramm & Initiation",
     "bookingNote": "Die Healers Academy ist ein 5-tägiges Intensivprogramm.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand} erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über die {brand} erfahren."
   },
   "RitualMaster": {
     "heroEyebrow": "Der Pfad des Meistermagiers",
@@ -443,11 +443,11 @@
     "readyClosing": "Diese Lehren sind unerlässlich für jeden, der wirklich etwas in seinem Leben verändern möchte und sich seiner Verwandlung verpflichtet — der Verantwortung für seine innere Arbeit übernimmt und handelt, um eine reinere, authentischere und freiere Version seines Selbst zu erschaffen.",
     "bookingTitle": "Beginne deine Meisterschaft",
     "bookingNote": "Der Ritual-Master-Pfad beginnt mit Empower Thyself und der Healers Academy. Melde dich, und wir helfen dir, den richtigen nächsten Schritt für dich zu planen.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über das {brand}-Programm erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über das {brand}-Programm erfahren."
   },
   "HealingGrid": {
     "inquire": "Anfragen",
-    "inquiryTemplate": "Hallo Radu, ich möchte mich über die Heilung {name} informieren."
+    "inquiryTemplate": "Hallo, ich möchte mich über die Heilung {name} informieren."
   },
   "Healings": {
     "heroEyebrow": "In der Linie von König Salomon",
@@ -458,7 +458,7 @@
     "introBody": "Die Modern Mystery School trägt eines der ältesten und vollständigsten Heilsysteme der Erde — zusammengetragen von König Salomon und durch eine ununterbrochene Linie ganz gehalten. Unten findest du die Bandbreite der in Prag verfügbaren Heilungen. Du musst nicht wissen, welche für dich die richtige ist. Erkunde einfach und frage nach allem, was dich anspricht — Radu wird dich von dort an begleiten.",
     "specialtyLead": "Für die tiefere, spezialisierte Arbeit der Tradition, siehe die",
     "specialtyLinkLabel": "{brand}-Spezialheilungen →",
-    "inquiry": "Hallo Radu, ich möchte mich über die Heilmethoden informieren.",
+    "inquiry": "Hallo, ich möchte mich über die Heilmethoden informieren.",
     "ctaHeading": "Beginne deine Heilung",
     "ctaBody": "Erzähl Radu ein wenig darüber, wo du gerade stehst, und er hilft dir, die Heilung zu wählen, die dir am besten dient.",
     "groups": {
@@ -539,7 +539,7 @@
     "seeAllLinkLabel": "Alle Heilmethoden ansehen →",
     "ctaHeading": "Nicht sicher, welche Heilung du brauchst?",
     "ctaBody": "Melde dich, und Radu wird zuhören und dich dann zu der Heilung führen, die dir gerade jetzt wirklich dient.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über die Spezialheilungen erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über die Spezialheilungen erfahren."
   },
   "AuraHealing": {
     "heroEyebrow": "Eine Heilung der Mysterienschule",
@@ -560,7 +560,7 @@
     "bookingTitle": "Stelle dein Licht wieder her",
     "duration": "2 Stunden",
     "bookingNote": "Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu finalisieren.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über die {brand} Aura-Heilung erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über die {brand} Aura-Heilung erfahren."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "Ein Workshop der Mysterienschule",
@@ -580,7 +580,7 @@
     "bookingTitle": "Lies die Sprache der Schöpfung",
     "duration": "5 Stunden",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über den {brand}-Workshop erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über den {brand}-Workshop erfahren."
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Die Sacred-Geometry-Reihe · Stufe II",
@@ -599,7 +599,7 @@
     "bookingTitle": "Sacred Geometry II in Prag",
     "duration": "Ganztages-Workshop",
     "bookingNote": "Demnächst in Prag — Sacred Geometry II ist hier noch nicht terminiert, steht aber als Nächstes an, sobald die Sacred-Geometry-Reihe hier vor Ort wächst. Melde dich bei Radu, um dein Interesse zu hinterlegen und als Erste(r) zu erfahren, wenn ein Termin feststeht.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über Sacred Geometry II erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über Sacred Geometry II erfahren."
   },
   "SacredGeometry3Page": {
     "heroEyebrow": "Die Sacred-Geometry-Reihe · Stufe III",
@@ -618,7 +618,7 @@
     "bookingTitle": "Sacred Geometry III in Prag",
     "duration": "Workshop",
     "bookingNote": "Demnächst in Prag — Sacred Geometry III ist hier noch nicht terminiert, gehört aber zu dem, wohin sich die Sacred-Geometry-Reihe hier vor Ort entwickelt. Melde dich bei Radu, um dein Interesse zu hinterlegen und als Erste(r) zu erfahren, wenn ein Termin feststeht.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über Sacred Geometry III erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über Sacred Geometry III erfahren."
   },
   "SacredGeometry4Page": {
     "heroEyebrow": "Die Sacred-Geometry-Reihe · Stufe IV",
@@ -638,7 +638,7 @@
     "bookingTitle": "Sacred Geometry IV in Prag",
     "duration": "Workshop",
     "bookingNote": "Demnächst in Prag — Sacred Geometry IV ist hier noch nicht terminiert, ist aber der Horizont, auf den die Sacred-Geometry-Reihe hier vor Ort zusteuert. Melde dich bei Radu, um dein Interesse zu hinterlegen und als Erste(r) zu erfahren, wenn ein Termin feststeht.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über Sacred Geometry IV erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über Sacred Geometry IV erfahren."
   },
   "KeysOfTheAncientsPage": {
     "heroEyebrow": "Ein globales Programm in der Linie von König Salomon",
@@ -660,7 +660,7 @@
     "forYouBody2": "Dies ist ein globales Programm der Modern Mystery School, keine lokal hier in Prag durchgeführte Sitzung. Termine, genaue Preise und Orte werden direkt von Dave Lanyons Team festgelegt und ändern sich von Durchgang zu Durchgang — aktuelle Details findest du auf <link>thedavelanyon.com</link>.",
     "bookingTitle": "Neugierig auf Keys of the Ancients?",
     "bookingNote": "Radu ist diese Linie selbst gegangen und teilt gerne, wie dieses Programm wirklich ist, hilft dir zu verstehen, ob es der richtige nächste Schritt für dich ist, und weist dir den Weg zu offiziellen Terminen und zur Anmeldung.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über Keys of the Ancients mit Dave Lanyon erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über Keys of the Ancients mit Dave Lanyon erfahren."
   },
   "KabbalahAscensionPage": {
     "heroEyebrow": "Eine langfristige Aufstiegsreise",
@@ -682,7 +682,7 @@
     "forYouBody2": "Dies ist ein globales Programm der Modern Mystery School auf Hauptsitz-Ebene, keine lokal hier in Prag durchgeführte Sitzung. Gruppengrößen und Durchgänge sind begrenzt und finden einmal alle ein bis zwei Jahre statt — aktuelle Termine und Anmeldung findest du auf <link>der eigenen Seite der Modern Mystery School</link>.",
     "bookingTitle": "Neugierig auf das Kabbalah Ascension Program?",
     "bookingNote": "Radu hilft dir gerne zu verstehen, was diese Reise wirklich von dir verlangt, ob du die Voraussetzungen bereits erfüllst, und wie sie sich mit dem Weg verbindet, den du bereits gehst.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über das Universal Hermetic Ray Kabbalah Ascension Program erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über das Universal Hermetic Ray Kabbalah Ascension Program erfahren."
   },
   "SacredGeometrySeriesLinks": {
     "heading": "Weitere Sacred-Geometry-Workshops entdecken",
@@ -713,7 +713,7 @@
     "bookingTitle": "Trete über den Körper hinaus",
     "duration": "5 Stunden",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten verfügbaren Termin in Prag.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über den Astralreisen-Workshop erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über den Astralreisen-Workshop erfahren."
   },
   "SpiritualIntuitionPage": {
     "heroEyebrow": "Ein Workshop der Mysterienschule",
@@ -734,7 +734,7 @@
     "bookingTitle": "Vertraue dem, was du bereits weißt",
     "duration": "3 Stunden",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über den Workshop Spirituelle Intuition erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über den Workshop Spirituelle Intuition erfahren."
   },
   "SevenMysterySchoolsPage": {
     "heroEyebrow": "Ein Workshop der Mysterienschule",
@@ -761,7 +761,7 @@
     "bookingTitle": "Durchschreite die sieben Tore",
     "duration": "3 Stunden",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über den Workshop Die 7 Mysterienschulen erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über den Workshop Die 7 Mysterienschulen erfahren."
   },
   "StressManagementPage": {
     "heroEyebrow": "Für Einzelpersonen, Teams & Organisationen",
@@ -782,7 +782,7 @@
     "bookingTitle": "Bringe Ruhe zurück in den Tag",
     "duration": "2 Stunden",
     "bookingNote": "Verfügbar für Einzelpersonen, Führungsteams und Organisationen. Melde dich, um eine Sitzung oder ein Programm für dein Team zu besprechen.",
-    "inquiry": "Hallo Radu, ich möchte gerne mehr über Stress-Rettung / Stressmanagement erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über Stress-Rettung / Stressmanagement erfahren."
   },
   "CommunityPage": {
     "eyebrow": "Gemeinschaft",
@@ -811,22 +811,22 @@
     "oneHour": "1 Stunde",
     "prayerEvening": {
       "title": "Gebetsabend",
-      "inquiry": "Hallo Radu, ich möchte gerne mehr über das Gemeinschaftstreffen Gebetsabend erfahren.",
+      "inquiry": "Hallo, ich möchte gerne mehr über das Gemeinschaftstreffen Gebetsabend erfahren.",
       "description": "Sanfte Abende des Gebets, der tiefen Reflexion und der kollektiven Absicht, konzipiert, um das Herz zu öffnen und die innere Ausrichtung zu stärken. Eine friedliche Oase, um deine Schwingung neu auszurichten, dich vom Durcheinander des Lebens zurückzuziehen und deinen Fokus auf dein höchstes Wesen zu verankern, gemeinsam mit Gefährten, die dieselbe heilige Absicht tragen."
     },
     "meditationEvening": {
       "title": "Meditationsabend",
-      "inquiry": "Hallo Radu, ich möchte gerne mehr über das Gemeinschaftstreffen Meditationsabend erfahren.",
+      "inquiry": "Hallo, ich möchte gerne mehr über das Gemeinschaftstreffen Meditationsabend erfahren.",
       "description": "Ruhige Räume für tiefe Stille, Atemarbeit, Visualisierung und die Vertiefung des Bewusstseins durch geführte traditionelle Pfade. Perfekt, um das Nervensystem zurückzusetzen, mentale Überaktivität zu zähmen und sich auf die kollektive Gruppenenergie zu stützen, um tiefere meditative Zustände zu erschließen, als es allein möglich wäre."
     },
     "socializationEvening": {
       "title": "Geselligkeitsabend",
-      "inquiry": "Hallo Radu, ich möchte gerne mehr über das Gemeinschaftstreffen Geselligkeitsabend erfahren.",
+      "inquiry": "Hallo, ich möchte gerne mehr über das Gemeinschaftstreffen Geselligkeitsabend erfahren.",
       "description": "Warme, hochschwingende und wunderbar entspannte Treffen, bei denen Freunde, Suchende und Studenten in fröhlicher Gemeinschaft zusammenkommen. Hier lassen wir die Haare herunter, lachen bei Tee, tauschen Geschichten über die Abenteuer des Lebens aus und knüpfen Freundschaften, die unsere menschliche Erfahrung genauso unterstützen wie unsere spirituellen Pfade."
     },
     "international": {
       "title": "Internationale Mysterienschul-Gemeinschaft",
-      "inquiry": "Hallo Radu, ich möchte gerne mehr über die Möglichkeiten der Internationalen Mysterienschul-Gemeinschaft erfahren.",
+      "inquiry": "Hallo, ich möchte gerne mehr über die Möglichkeiten der Internationalen Mysterienschul-Gemeinschaft erfahren.",
       "description": "Ein weitreichender globaler Kreis von Praktizierenden, Initiierten und Lehrern, die die uralten Linien, Werte und das spirituelle Erbe der Modern Mystery School teilen. Die Verbindung hier erschließt internationale Veranstaltungen, globale Vernetzung mit bewussten Gleichgesinnten und gemeinsame Unterstützungsstrukturen für systemische Verwandlung.",
       "scheduleLead": "Den internationalen Kalender findest du hier:",
       "scheduleLinkLabel": "Kalender - Modern Mystery School UK und Europa"
@@ -897,16 +897,22 @@
   },
   "CertificationsPage": {
     "heading": "Zertifizierungen",
-    "subheading": "Radu ist hier, um dich dabei zu unterstützen, ein Leben zu erschaffen, für das es sich lohnt aufzuwachen",
+    "subheading": "Radu und Diana sind hier, um dich dabei zu unterstützen, ein Leben zu erschaffen, für das es sich lohnt aufzuwachen",
     "everyMorning": "Jeden Morgen",
-    "introLead": "Die Zertifizierungen für die Kurse, Initiationen und Heilsitzungen, die Radu anbietet, stammen von der <mms>Modern Mystery School International</mms>.",
-    "introBody": "Er hat zahlreiche Initiationen und Ausbildungen durchlaufen, um sich vorzubereiten und in der Lage zu sein, die Energie zu halten, damit die Verwandlung bei seinen Schülern geschehen kann.",
+    "introLead": "Die Zertifizierungen für die Kurse, Initiationen und Heilsitzungen, die Radu und Diana anbieten, stammen von der <mms>Modern Mystery School International</mms>.",
+    "introBody": "Beide haben zahlreiche Initiationen und Ausbildungen durchlaufen, um sich vorzubereiten und in der Lage zu sein, die Energie zu halten, damit die Verwandlung bei ihren Schülern geschehen kann.",
     "certifiedAlt": "Zertifiziert von der Modern Mystery School",
     "qualificationsHeading": "Radus Qualifikationen",
     "qualifications": [
       "Radu ist ein zertifizierter <bold>Guide</bold> und <bold>Lehrer</bold> in der Linie der Modern Mystery School.",
       "Radu ist außerdem zertifizierter <bold>Life-Activation-Praktiker und Heiler</bold>, jährlich rezertifiziert.",
       "Radu hat alle drei Stufen der <bold>Ensofischen Strahlenheilung</bold> abgeschlossen, mit einer Spezialisierung auf die Bearbeitung destruktiver mentaler Muster, schädlicher Gewohnheiten und Süchte."
+    ],
+    "dianaQualificationsHeading": "Dianas Qualifikationen",
+    "dianaQualifications": [
+      "Diana ist eine zertifizierte <bold>Lehrerin</bold> in der Linie der Modern Mystery School.",
+      "Diana ist außerdem zertifizierte <bold>Life-Activation-Praktikerin und Heilerin</bold>, jährlich rezertifiziert.",
+      "Diana hat alle drei Stufen der <bold>Ensofischen Strahlenheilung</bold> abgeschlossen."
     ],
     "galleryHeading": "Diplome & Zertifikate"
   },

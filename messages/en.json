@@ -33,14 +33,14 @@
     }
   },
   "Footer": {
-    "tagline": "Healing, initiation and training in the lineage of King Salomon, with Guide Radu Coman in Prague.",
+    "tagline": "Healing, initiation and training in the lineage of King Salomon, with Guides Radu and Diana Coman in Prague.",
     "location": "Prague, Czech Republic",
     "auraHealing": "Aura Healing",
     "contact": "Contact",
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
     "certifiedAlt": "Certified by the Modern Mystery School",
-    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. All rights reserved.",
+    "copyright": "© {year} The Path of Initiation Prague · Radu & Diana Coman. All rights reserved.",
     "privacyPolicy": "Privacy Policy",
     "terms": "Terms and Conditions",
     "withdrawFromContract": "Withdraw from a Contract"
@@ -121,7 +121,7 @@
   "CTA": {
     "eyebrow": "Your Invitation",
     "heading": "Are You Ready to Walk the Path?",
-    "body": "The door is open, but only you can choose to step through it. If you feel the call, take the first step and apply for a personal consultation with Radu Coman.",
+    "body": "The door is open, but only you can choose to step through it. If you feel the call, take the first step and apply for a personal consultation with Radu and Diana Coman.",
     "email": "Email",
     "whatsapp": "WhatsApp"
   },
@@ -291,7 +291,7 @@
     "bookingTitle": "Meet Your Authentic Power and Higher Self!",
     "duration": "2 Hours",
     "bookingNote": "After the payment is completed, we will contact you to finalize the appointment.",
-    "inquiry": "Hello Radu, I would like to learn more about the {brand}."
+    "inquiry": "Hello, I would like to learn more about the {brand}."
   },
   "EmpowerThyself": {
     "heroEyebrow": "A Two-Day Initiation",
@@ -384,7 +384,7 @@
       "deposit": "A 12.000 CZK deposit secures your place and allows us to schedule your Life Activation session.",
       "remainder": "The remaining 24.500 CZK is due 2 weeks before the 2-day training and Initiation begins."
     },
-    "inquiry": "Hello Radu, I would like to learn more about the {brand} Initiation."
+    "inquiry": "Hello, I would like to learn more about the {brand} Initiation."
   },
   "FullSpiritActivation": {
     "heroEyebrow": "The Mystery Tradition · Lineage of King Salomon",
@@ -418,7 +418,7 @@
     "proceduresClosing": "After such an intense session, it is recommended to allow yourself time to fully integrate the transformations. To maximise the benefits, complete the Life Activation first — ideally between three weeks and three months beforehand.",
     "bookingTitle": "Discover Your Potential to Be a Divine Being",
     "duration": "2 Hours",
-    "inquiry": "Hello Radu, I would like to learn more about the {brand}."
+    "inquiry": "Hello, I would like to learn more about the {brand}."
   },
   "HealersAcademy": {
     "heroEyebrow": "The Second Level of Initiation",
@@ -448,7 +448,7 @@
     "bookingTitle": "Answer the Call to Serve",
     "duration": "Intensive Program & Initiation",
     "bookingNote": "Healers Academy is a 5-day intensive program.",
-    "inquiry": "Hello Radu, I would like to learn more about the {brand}."
+    "inquiry": "Hello, I would like to learn more about the {brand}."
   },
   "RitualMaster": {
     "heroEyebrow": "The Path of the Master Magician",
@@ -482,11 +482,11 @@
     "readyClosing": "These teachings are essential for anyone who truly wants to change something in their life and is committed to their transformation — taking responsibility for their inner work and acting to create a purer, more authentic, and freer version of their Self.",
     "bookingTitle": "Begin Your Mastery",
     "bookingNote": "The Ritual Master path begins with Empower Thyself and the Healers Academy. Reach out and we will help you map the right next step for you.",
-    "inquiry": "Hello Radu, I would like to learn more about the {brand} program."
+    "inquiry": "Hello, I would like to learn more about the {brand} program."
   },
   "HealingGrid": {
     "inquire": "Inquire",
-    "inquiryTemplate": "Hello Radu, I would like to inquire about the {name} healing."
+    "inquiryTemplate": "Hello, I would like to inquire about the {name} healing."
   },
   "Healings": {
     "heroEyebrow": "In the Lineage of King Salomon",
@@ -497,7 +497,7 @@
     "introBody": "The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu will guide you from there.",
     "specialtyLead": "For the deeper, specialised work of the tradition, see the",
     "specialtyLinkLabel": "{brand} specialty healings →",
-    "inquiry": "Hello Radu, I would like to inquire about the healing modalities.",
+    "inquiry": "Hello, I would like to inquire about the healing modalities.",
     "ctaHeading": "Begin Your Healing",
     "ctaBody": "Tell Radu a little about where you are right now, and he will help you choose the healing that serves you best.",
     "groups": {
@@ -578,7 +578,7 @@
     "seeAllLinkLabel": "See all healing modalities →",
     "ctaHeading": "Not Sure Which Healing You Need?",
     "ctaBody": "Reach out and Radu will listen, then guide you to the healing that truly serves you right now.",
-    "inquiry": "Hello Radu, I would like to learn more about the specialty healings."
+    "inquiry": "Hello, I would like to learn more about the specialty healings."
   },
   "AuraHealing": {
     "heroEyebrow": "A Healing of the Mystery School",
@@ -599,7 +599,7 @@
     "bookingTitle": "Restore Your Light",
     "duration": "2 Hours",
     "bookingNote": "After you reach out, we will contact you personally to finalise your appointment.",
-    "inquiry": "Hello Radu, I would like to learn more about the {brand} Aura Healing."
+    "inquiry": "Hello, I would like to learn more about the {brand} Aura Healing."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "A Workshop of the Mystery School",
@@ -619,7 +619,7 @@
     "bookingTitle": "Read the Language of Creation",
     "duration": "5 Hours",
     "bookingNote": "Workshops run in small groups. Reach out for the next scheduled date in Prague.",
-    "inquiry": "Hello Radu, I would like to learn more about the {brand} workshop."
+    "inquiry": "Hello, I would like to learn more about the {brand} workshop."
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "The Sacred Geometry Series · Level II",
@@ -638,7 +638,7 @@
     "bookingTitle": "Sacred Geometry II in Prague",
     "duration": "Full-Day Workshop",
     "bookingNote": "Coming soon to Prague — Sacred Geometry II isn't scheduled here yet, but it's next in line as the Sacred Geometry series grows locally. Reach out to Radu to register your interest and be the first to know when a date is set.",
-    "inquiry": "Hello Radu, I would like to learn more about Sacred Geometry II."
+    "inquiry": "Hello, I would like to learn more about Sacred Geometry II."
   },
   "SacredGeometry3Page": {
     "heroEyebrow": "The Sacred Geometry Series · Level III",
@@ -657,7 +657,7 @@
     "bookingTitle": "Sacred Geometry III in Prague",
     "duration": "Workshop",
     "bookingNote": "Coming soon to Prague — Sacred Geometry III isn't scheduled here yet, but it's part of where the Sacred Geometry series is heading locally. Reach out to Radu to register your interest and be the first to know when a date is set.",
-    "inquiry": "Hello Radu, I would like to learn more about Sacred Geometry III."
+    "inquiry": "Hello, I would like to learn more about Sacred Geometry III."
   },
   "SacredGeometry4Page": {
     "heroEyebrow": "The Sacred Geometry Series · Level IV",
@@ -677,7 +677,7 @@
     "bookingTitle": "Sacred Geometry IV in Prague",
     "duration": "Workshop",
     "bookingNote": "Coming soon to Prague — Sacred Geometry IV isn't scheduled here yet, but it's the horizon the Sacred Geometry series is building toward locally. Reach out to Radu to register your interest and be the first to know when a date is set.",
-    "inquiry": "Hello Radu, I would like to learn more about Sacred Geometry IV."
+    "inquiry": "Hello, I would like to learn more about Sacred Geometry IV."
   },
   "KeysOfTheAncientsPage": {
     "heroEyebrow": "A Global Program in the Lineage of King Salomon",
@@ -699,7 +699,7 @@
     "forYouBody2": "This is a global Modern Mystery School program, not a session run locally here in Prague. Dates, exact pricing, and locations are set directly by Dave Lanyon's team and change from cohort to cohort — for current details, visit <link>thedavelanyon.com</link>.",
     "bookingTitle": "Curious About Keys of the Ancients?",
     "bookingNote": "Radu has walked this lineage himself and is glad to share what this program is really like, help you understand whether it's the right next step, and point you toward official dates and registration.",
-    "inquiry": "Hello Radu, I would like to learn more about Keys of the Ancients with Dave Lanyon."
+    "inquiry": "Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon."
   },
   "KabbalahAscensionPage": {
     "heroEyebrow": "A Long-Form Ascension Journey",
@@ -721,7 +721,7 @@
     "forYouBody2": "This is a global Modern Mystery School program run at Headquarters level, not a session run locally here in Prague. Class sizes and cohorts are limited and run once every one to two years — for current dates and enrollment, visit <link>the Modern Mystery School's own page</link>.",
     "bookingTitle": "Curious About the Kabbalah Ascension Program?",
     "bookingNote": "Radu is glad to help you understand what this journey really asks of you, whether you meet the prerequisites yet, and how it connects to the path you're already walking.",
-    "inquiry": "Hello Radu, I would like to learn more about the Universal Hermetic Ray Kabbalah Ascension Program."
+    "inquiry": "Hello, I would like to learn more about the Universal Hermetic Ray Kabbalah Ascension Program."
   },
   "SacredGeometrySeriesLinks": {
     "heading": "Explore Other Sacred Geometry Workshops",
@@ -752,7 +752,7 @@
     "bookingTitle": "Step Beyond the Body",
     "duration": "5 Hours",
     "bookingNote": "Workshops are scheduled in small groups. Reach out for the next available date in Prague.",
-    "inquiry": "Hello Radu, I would like to learn more about the Astral Travel workshop."
+    "inquiry": "Hello, I would like to learn more about the Astral Travel workshop."
   },
   "SpiritualIntuitionPage": {
     "heroEyebrow": "A Workshop of the Mystery School",
@@ -773,7 +773,7 @@
     "bookingTitle": "Trust What You Already Know",
     "duration": "3 Hours",
     "bookingNote": "Workshops run in small groups. Reach out for the next scheduled date in Prague.",
-    "inquiry": "Hello Radu, I would like to learn more about the Spiritual Intuition workshop."
+    "inquiry": "Hello, I would like to learn more about the Spiritual Intuition workshop."
   },
   "SevenMysterySchoolsPage": {
     "heroEyebrow": "A Workshop of the Mystery School",
@@ -800,7 +800,7 @@
     "bookingTitle": "Walk Through the Seven Gates",
     "duration": "3 Hours",
     "bookingNote": "Workshops run in small groups. Reach out for the next scheduled date in Prague.",
-    "inquiry": "Hello Radu, I would like to learn more about the 7 Mystery Schools workshop."
+    "inquiry": "Hello, I would like to learn more about the 7 Mystery Schools workshop."
   },
   "StressManagementPage": {
     "heroEyebrow": "For Individuals, Teams & Organisations",
@@ -821,7 +821,7 @@
     "bookingTitle": "Bring Calm Back Into the Day",
     "duration": "2 Hours",
     "bookingNote": "Available for individuals, leadership teams and organisations. Reach out to discuss a session or a programme for your team.",
-    "inquiry": "Hello Radu, I would like to learn more about Stress Rescue / Stress Management."
+    "inquiry": "Hello, I would like to learn more about Stress Rescue / Stress Management."
   },
   "CommunityPage": {
     "eyebrow": "Community",
@@ -850,22 +850,22 @@
     "oneHour": "1 Hour",
     "prayerEvening": {
       "title": "Prayer Evening",
-      "inquiry": "Hello Radu, I would like to learn more about the Prayer Evening community gathering.",
+      "inquiry": "Hello, I would like to learn more about the Prayer Evening community gathering.",
       "description": "Gentle evenings of prayer, deep reflection, and collective intention designed to open the heart and strengthen inner alignment. A peaceful oasis to realign your vibration, step back from life's clutter, and anchor your focus into your highest essence alongside companions who hold the same sacred intent."
     },
     "meditationEvening": {
       "title": "Meditation Evening",
-      "inquiry": "Hello Radu, I would like to learn more about the Meditation Evening community gathering.",
+      "inquiry": "Hello, I would like to learn more about the Meditation Evening community gathering.",
       "description": "Quiet spaces built for profound stillness, breath-work, visualization, and the deepening of awareness through guided traditional paths. Perfect for resetting the nervous system, taming mental over-activity, and leaning on collective group energy to unlock deeper meditative states than practicing alone."
     },
     "socializationEvening": {
       "title": "Socialization Evening",
-      "inquiry": "Hello Radu, I would like to learn more about the Socialization Evening community gathering.",
+      "inquiry": "Hello, I would like to learn more about the Socialization Evening community gathering.",
       "description": "Warm, high-vibrational, and beautifully relaxed gatherings where friends, seekers, and students meet in joyful fellowship. This is where we let our hair down, laugh over tea, swap stories about life's adventures, and build friendships that support our human experience just as much as our spiritual paths."
     },
     "international": {
       "title": "International Mystery School Community",
-      "inquiry": "Hello Radu, I would like to learn more about the International Mystery School Community opportunities.",
+      "inquiry": "Hello, I would like to learn more about the International Mystery School Community opportunities.",
       "description": "An expansive global circle of practitioners, initiates, and teachers sharing the ancient lineages, values, and spiritual lineage of the Modern Mystery School. Connecting here unlocks international events, global networking with conscious peers, and shared support infrastructures for systemic transformation.",
       "scheduleLead": "See the international schedule over here:",
       "scheduleLinkLabel": "Calendar - Modern Mystery School UK and Europe"
@@ -936,16 +936,22 @@
   },
   "CertificationsPage": {
     "heading": "Certifications",
-    "subheading": "Radu is here to support you in creating a life worth waking up for",
+    "subheading": "Radu and Diana are here to support you in creating a life worth waking up for",
     "everyMorning": "Every morning",
-    "introLead": "The certifications for the classes, initiations and healing sessions that Radu offers come from <mms>Modern Mystery School International</mms>.",
-    "introBody": "He has undergone numerous initiations and trainings to prepare himself and to be able to hold the energy for the trasformation to happen for his students.",
+    "introLead": "The certifications for the classes, initiations and healing sessions that Radu and Diana offer come from <mms>Modern Mystery School International</mms>.",
+    "introBody": "They have each undergone numerous initiations and trainings to prepare themselves and to be able to hold the energy for the transformation to happen for their students.",
     "certifiedAlt": "Certified by the Modern Mystery School",
     "qualificationsHeading": "Radu's Qualifications",
     "qualifications": [
       "Radu is a certified <bold>Guide</bold> and <bold>Teacher</bold> in the lineage of the Modern Mystery School.",
       "Radu is also certified as a <bold>Life Activation Practitioner and Healer</bold>, recertified annually.",
       "Radu has completed all three levels of <bold>Ensofic Ray Healing</bold>, with a specialization in addressing destructive mental patterns, harmful habits, and addictions."
+    ],
+    "dianaQualificationsHeading": "Diana's Qualifications",
+    "dianaQualifications": [
+      "Diana is a certified <bold>Teacher</bold> in the lineage of the Modern Mystery School.",
+      "Diana is also certified as a <bold>Life Activation Practitioner and Healer</bold>, recertified annually.",
+      "Diana has completed all three levels of <bold>Ensofic Ray Healing</bold>."
     ],
     "galleryHeading": "Diplomas & Certificates"
   },

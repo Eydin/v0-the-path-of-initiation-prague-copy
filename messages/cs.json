@@ -33,14 +33,14 @@
     }
   },
   "Footer": {
-    "tagline": "Léčení, iniciace a výcvik v linii krále Šalomouna s průvodcem Radu Comanem v Praze.",
+    "tagline": "Léčení, iniciace a výcvik v linii krále Šalomouna s průvodci Radu a Dianou Coman v Praze.",
     "location": "Praha, Česká republika",
     "auraHealing": "Léčení aury",
     "contact": "Kontakt",
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
     "certifiedAlt": "Certifikováno Modern Mystery School",
-    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Všechna práva vyhrazena.",
+    "copyright": "© {year} The Path of Initiation Prague · Radu & Diana Coman. Všechna práva vyhrazena.",
     "privacyPolicy": "Zásady ochrany osobních údajů",
     "terms": "Všeobecné obchodní podmínky",
     "withdrawFromContract": "Odstoupení od smlouvy"
@@ -121,7 +121,7 @@
   "CTA": {
     "eyebrow": "Vaše pozvání",
     "heading": "Jste připraveni vykročit na cestu?",
-    "body": "Dveře jsou otevřené, ale jen vy se můžete rozhodnout jimi projít. Pokud cítíte volání, udělejte první krok a přihlaste se na osobní konzultaci s Radu Comanem.",
+    "body": "Dveře jsou otevřené, ale jen vy se můžete rozhodnout jimi projít. Pokud cítíte volání, udělejte první krok a přihlaste se na osobní konzultaci s Radu a Dianou Coman.",
     "email": "E-mail",
     "whatsapp": "WhatsApp"
   },
@@ -252,7 +252,7 @@
     "bookingTitle": "Poznejte svou autentickou sílu a vyšší já!",
     "duration": "2 hodiny",
     "bookingNote": "Po dokončení platby vás budeme kontaktovat, abychom domluvili termín.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o {brand}."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand}."
   },
   "EmpowerThyself": {
     "heroEyebrow": "Dvoudenní iniciace",
@@ -345,7 +345,7 @@
       "deposit": "Záloha 12 000 Kč zajistí vaše místo a umožní nám naplánovat vaše sezení Life Activation.",
       "remainder": "Zbývajících 24 500 Kč je splatných 2 týdny před zahájením dvoudenního výcviku a iniciace."
     },
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o iniciaci {brand}."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o iniciaci {brand}."
   },
   "FullSpiritActivation": {
     "heroEyebrow": "Mysterijní tradice · Linie krále Šalomouna",
@@ -379,7 +379,7 @@
     "proceduresClosing": "Po tak intenzivním sezení se doporučuje dopřát si čas na plnou integraci proměn. Pro maximalizaci přínosů nejprve absolvujte Life Activation — ideálně tři týdny až tři měsíce předem.",
     "bookingTitle": "Objevte svůj potenciál být božskou bytostí",
     "duration": "2 hodiny",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o {brand}."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand}."
   },
   "HealersAcademy": {
     "heroEyebrow": "Druhý stupeň iniciace",
@@ -409,7 +409,7 @@
     "bookingTitle": "Odpovězte na volání sloužit",
     "duration": "Intenzivní program a iniciace",
     "bookingNote": "Healers Academy je pětidenní intenzivní program.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o {brand}."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand}."
   },
   "RitualMaster": {
     "heroEyebrow": "Cesta mistrovského mága",
@@ -443,11 +443,11 @@
     "readyClosing": "Toto učení je nezbytné pro každého, kdo skutečně chce něco ve svém životě změnit a je odhodlán ke své proměně — kdo přebírá odpovědnost za svou vnitřní práci a jedná tak, aby vytvořil čistší, autentičtější a svobodnější verzi sebe sama.",
     "bookingTitle": "Začněte své mistrovství",
     "bookingNote": "Cesta Ritual Master začíná programy Empower Thyself a Healers Academy. Ozvěte se nám a pomůžeme vám naplánovat správný další krok.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o programu {brand}."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o programu {brand}."
   },
   "HealingGrid": {
     "inquire": "Zeptat se",
-    "inquiryTemplate": "Ahoj Radu, rád(a) bych se zeptal(a) na léčení {name}."
+    "inquiryTemplate": "Ahoj, rád(a) bych se zeptal(a) na léčení {name}."
   },
   "Healings": {
     "heroEyebrow": "V linii krále Šalomouna",
@@ -458,7 +458,7 @@
     "introBody": "Modern Mystery School nese jeden z nejstarších a nejúplnějších léčebných systémů na Zemi — shromážděný králem Šalomounem a udržovaný celistvý nepřerušenou linií. Níže naleznete škálu léčení dostupných v Praze. Nemusíte vědět, které je pro vás to pravé. Stačí prozkoumat a zeptat se na cokoli, co vás osloví — Radu vás odtud provede dál.",
     "specialtyLead": "Pro hlubší, specializovanou práci tradice se podívejte na",
     "specialtyLinkLabel": "speciální léčení {brand} →",
-    "inquiry": "Ahoj Radu, chtěl(a) bych se zeptat na léčebné modality.",
+    "inquiry": "Ahoj, chtěl(a) bych se zeptat na léčebné modality.",
     "ctaHeading": "Začněte své léčení",
     "ctaBody": "Řekněte Radu trochu o tom, kde se právě nacházíte, a on vám pomůže vybrat léčení, které vám poslouží nejlépe.",
     "groups": {
@@ -539,7 +539,7 @@
     "seeAllLinkLabel": "Zobrazit všechny léčebné modality →",
     "ctaHeading": "Nejste si jisti, které léčení potřebujete?",
     "ctaBody": "Ozvěte se a Radu vás vyslechne a poté vás nasměruje k léčení, které vám nyní skutečně poslouží.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o speciálních léčeních."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o speciálních léčeních."
   },
   "AuraHealing": {
     "heroEyebrow": "Léčení mysterijní školy",
@@ -560,7 +560,7 @@
     "bookingTitle": "Obnovte své světlo",
     "duration": "2 hodiny",
     "bookingNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o {brand} — léčení aury."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand} — léčení aury."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "Workshop mysterijní školy",
@@ -580,7 +580,7 @@
     "bookingTitle": "Čtěte jazyk stvoření",
     "duration": "5 hodin",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu {brand}."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu {brand}."
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Řada Sacred Geometry · Úroveň II",
@@ -599,7 +599,7 @@
     "bookingTitle": "Sacred Geometry II v Praze",
     "duration": "Celodenní workshop",
     "bookingNote": "Již brzy v Praze — Sacred Geometry II zde zatím není naplánována, ale je dalším krokem v růstu řady Sacred Geometry v Praze. Ozvěte se Radu a zaregistrujte svůj zájem, abyste byli první, kdo se dozví o vypsaném termínu.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Sacred Geometry II."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Sacred Geometry II."
   },
   "SacredGeometry3Page": {
     "heroEyebrow": "Řada Sacred Geometry · Úroveň III",
@@ -618,7 +618,7 @@
     "bookingTitle": "Sacred Geometry III v Praze",
     "duration": "Workshop",
     "bookingNote": "Již brzy v Praze — Sacred Geometry III zde zatím není naplánována, ale je součástí toho, kam řada Sacred Geometry v Praze směřuje. Ozvěte se Radu a zaregistrujte svůj zájem, abyste byli první, kdo se dozví o vypsaném termínu.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Sacred Geometry III."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Sacred Geometry III."
   },
   "SacredGeometry4Page": {
     "heroEyebrow": "Řada Sacred Geometry · Úroveň IV",
@@ -638,7 +638,7 @@
     "bookingTitle": "Sacred Geometry IV v Praze",
     "duration": "Workshop",
     "bookingNote": "Již brzy v Praze — Sacred Geometry IV zde zatím není naplánována, ale je horizontem, k němuž řada Sacred Geometry v Praze směřuje. Ozvěte se Radu a zaregistrujte svůj zájem, abyste byli první, kdo se dozví o vypsaném termínu.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Sacred Geometry IV."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Sacred Geometry IV."
   },
   "KeysOfTheAncientsPage": {
     "heroEyebrow": "Globální program v linii krále Šalomouna",
@@ -660,7 +660,7 @@
     "forYouBody2": "Toto je globální program Modern Mystery School, nikoli sezení pořádané lokálně zde v Praze. Termíny, přesné ceny i místa konání stanovuje přímo tým Davea Lanyona a mění se od běhu k běhu — aktuální informace najdete na <link>thedavelanyon.com</link>.",
     "bookingTitle": "Zajímá vás Keys of the Ancients?",
     "bookingNote": "Radu touto linií sám prošel a rád vám poví, jaký tento program doopravdy je, pomůže vám pochopit, zda je pro vás správným dalším krokem, a nasměruje vás na oficiální termíny a registraci.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Keys of the Ancients s Davem Lanyonem."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Keys of the Ancients s Davem Lanyonem."
   },
   "KabbalahAscensionPage": {
     "heroEyebrow": "Dlouhá cesta vzestupu",
@@ -682,7 +682,7 @@
     "forYouBody2": "Toto je globální program Modern Mystery School pořádaný na úrovni centrály, nikoli sezení pořádané lokálně zde v Praze. Velikost skupin i jednotlivé běhy jsou omezené a konají se jednou za jeden až dva roky — aktuální termíny a přihlášky najdete na <link>vlastní stránce Modern Mystery School</link>.",
     "bookingTitle": "Zajímá vás Kabbalah Ascension Program?",
     "bookingNote": "Radu vám rád pomůže pochopit, co tato cesta doopravdy vyžaduje, zda již splňujete předpoklady, a jak souvisí s cestou, po níž se již vydáváte.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Universal Hermetic Ray Kabbalah Ascension Program."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Universal Hermetic Ray Kabbalah Ascension Program."
   },
   "SacredGeometrySeriesLinks": {
     "heading": "Prozkoumejte další workshopy Sacred Geometry",
@@ -713,7 +713,7 @@
     "bookingTitle": "Vykročte za hranice těla",
     "duration": "5 hodin",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího dostupného termínu v Praze.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu Astrální cestování."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu Astrální cestování."
   },
   "SpiritualIntuitionPage": {
     "heroEyebrow": "Workshop mysterijní školy",
@@ -734,7 +734,7 @@
     "bookingTitle": "Důvěřujte tomu, co už víte",
     "duration": "3 hodiny",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu Duchovní intuice."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu Duchovní intuice."
   },
   "SevenMysterySchoolsPage": {
     "heroEyebrow": "Workshop mysterijní školy",
@@ -761,7 +761,7 @@
     "bookingTitle": "Projděte sedmi branami",
     "duration": "3 hodiny",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o workshopu 7 mysterijních škol."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu 7 mysterijních škol."
   },
   "StressManagementPage": {
     "heroEyebrow": "Pro jednotlivce, týmy a organizace",
@@ -782,7 +782,7 @@
     "bookingTitle": "Vraťte klid zpět do svého dne",
     "duration": "2 hodiny",
     "bookingNote": "Dostupné pro jednotlivce, vedoucí týmy a organizace. Ozvěte se nám a probereme sezení nebo program pro váš tým.",
-    "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o Záchraně před stresem."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Záchraně před stresem."
   },
   "CommunityPage": {
     "eyebrow": "Komunita",
@@ -811,22 +811,22 @@
     "oneHour": "1 hodina",
     "prayerEvening": {
       "title": "Modlitební večer",
-      "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o komunitním setkání Modlitební večer.",
+      "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o komunitním setkání Modlitební večer.",
       "description": "Jemné večery modlitby, hluboké reflexe a kolektivního záměru, navržené k otevření srdce a posílení vnitřního souladu. Klidná oáza, kde znovu sladíte svou vibraci, odstoupíte od životního zmatku a zakotvíte své soustředění do své nejvyšší podstaty spolu se společníky, kteří sdílejí stejný posvátný záměr."
     },
     "meditationEvening": {
       "title": "Meditační večer",
-      "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o komunitním setkání Meditační večer.",
+      "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o komunitním setkání Meditační večer.",
       "description": "Tiché prostory vytvořené pro hluboký klid, práci s dechem, vizualizaci a prohlubování uvědomění prostřednictvím vedených tradičních cest. Ideální pro restartování nervového systému, zkrocení mentální přeaktivity a spolehnutí se na kolektivní skupinovou energii k odemknutí hlubších meditativních stavů, než jakých lze dosáhnout samostatnou praxí."
     },
     "socializationEvening": {
       "title": "Společenský večer",
-      "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o komunitním setkání Společenský večer.",
+      "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o komunitním setkání Společenský večer.",
       "description": "Vřelá, vysokovibrační a krásně uvolněná setkání, kde se přátelé, hledači a studenti scházejí v radostném společenství. Zde si dovolíme uvolnit se, smát se u čaje, sdílet příběhy o životních dobrodružstvích a budovat přátelství, která podporují naši lidskou zkušenost stejně jako naše duchovní cesty."
     },
     "international": {
       "title": "Mezinárodní komunita mysterijní školy",
-      "inquiry": "Ahoj Radu, rád(a) bych se dozvěděl(a) více o příležitostech mezinárodní komunity mysterijní školy.",
+      "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o příležitostech mezinárodní komunity mysterijní školy.",
       "description": "Rozsáhlý celosvětový okruh praktiků, zasvěcenců a učitelů sdílejících starobylé linie, hodnoty a duchovní odkaz Modern Mystery School. Napojení zde odemyká mezinárodní akce, globální propojování s vědomými spřízněnými dušemi a sdílenou podpůrnou infrastrukturu pro systémovou proměnu.",
       "scheduleLead": "Mezinárodní kalendář naleznete zde:",
       "scheduleLinkLabel": "Kalendář - Modern Mystery School UK a Evropa"
@@ -897,16 +897,22 @@
   },
   "CertificationsPage": {
     "heading": "Certifikace",
-    "subheading": "Radu je tu, aby vás podpořil ve vytváření života, pro který stojí za to se probouzet",
+    "subheading": "Radu a Diana jsou tu, aby vás podpořili ve vytváření života, pro který stojí za to se probouzet",
     "everyMorning": "Každé ráno",
-    "introLead": "Certifikace pro kurzy, iniciace a léčebná sezení, které Radu nabízí, pocházejí z <mms>Modern Mystery School International</mms>.",
-    "introBody": "Prošel řadou iniciací a výcviků, aby se připravil a byl schopen udržet energii potřebnou k tomu, aby se u jeho studentů mohla uskutečnit proměna.",
+    "introLead": "Certifikace pro kurzy, iniciace a léčebná sezení, které Radu a Diana nabízejí, pocházejí z <mms>Modern Mystery School International</mms>.",
+    "introBody": "Oba prošli řadou iniciací a výcviků, aby se připravili a byli schopni udržet energii potřebnou k tomu, aby se u jejich studentů mohla uskutečnit proměna.",
     "certifiedAlt": "Certifikováno Modern Mystery School",
     "qualificationsHeading": "Raduho kvalifikace",
     "qualifications": [
       "Radu je certifikovaný <bold>průvodce</bold> a <bold>učitel</bold> v linii Modern Mystery School.",
       "Radu je také certifikován jako <bold>praktik a léčitel Life Activation</bold>, s každoroční recertifikací.",
       "Radu dokončil všechny tři úrovně <bold>léčení paprskem Ensof</bold>, se specializací na destruktivní myšlenkové vzorce, škodlivé návyky a závislosti."
+    ],
+    "dianaQualificationsHeading": "Dianiny kvalifikace",
+    "dianaQualifications": [
+      "Diana je certifikovaná <bold>učitelka</bold> v linii Modern Mystery School.",
+      "Diana je také certifikována jako <bold>praktička a léčitelka Life Activation</bold>, s každoroční recertifikací.",
+      "Diana dokončila všechny tři úrovně <bold>léčení paprskem Ensof</bold>."
     ],
     "galleryHeading": "Diplomy a certifikáty"
   },

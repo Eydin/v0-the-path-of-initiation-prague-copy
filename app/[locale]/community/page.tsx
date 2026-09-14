@@ -13,7 +13,7 @@ import {
 } from "lucide-react"
 
 const WHATSAPP =
-  "https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20community%20and%20upcoming%20events."
+  "https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20community%20and%20upcoming%20events."
 
 const STRIPE_MEDITATION_EVENING = "https://buy.stripe.com/9B6cMYgmb8g6ffv80jg360x"
 

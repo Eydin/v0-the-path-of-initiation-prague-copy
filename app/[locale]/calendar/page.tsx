@@ -214,7 +214,7 @@ export default async function CalendarPage({
                     {t("notSure")}
                   </p>
                   <a
-                    href="https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20ask%20about%20the%20upcoming%20classes."
+                    href="https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20ask%20about%20the%20upcoming%20classes."
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-3 rounded border border-primary bg-primary px-8 py-3 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"

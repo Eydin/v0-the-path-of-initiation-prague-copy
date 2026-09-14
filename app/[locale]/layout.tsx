@@ -40,7 +40,7 @@ export async function generateMetadata({
 
   return {
     title: 'The Path of Initiation Prague',
-    description: 'A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker. Begin your journey of transformation in Prague with Guide Radu Coman.',
+    description: 'A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker. Begin your journey of transformation in Prague with Guides Radu and Diana Coman.',
     generator: 'v0.app',
     metadataBase: new URL(SITE),
     alternates: {
@@ -110,7 +110,7 @@ export default async function LocaleLayout({
         "@id": `${SITE}/#website`,
         "url": SITE,
         "name": "The Path of Initiation Prague",
-        "description": "A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker — with Guide Radu Coman in Prague.",
+        "description": "A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker — with Guides Radu and Diana Coman in Prague.",
         "inLanguage": JSON_LD_LANGUAGE[locale] ?? JSON_LD_LANGUAGE[routing.defaultLocale],
         "publisher": { "@id": `${SITE}/#organization` },
         "about": { "@id": `${SITE}/#organization` }
@@ -142,6 +142,28 @@ export default async function LocaleLayout({
         ]
       },
       {
+        "@type": "Person",
+        "@id": `${SITE}/#diana-coman`,
+        "name": "Diana Coman",
+        "jobTitle": "Teacher and Healer of the Path of Initiation",
+        "description": "Diana Coman is a certified Teacher, Life Activation Practitioner and Healer in the Lineage of King Salomon, dedicated to spiritual awakening, practical magic, and soul development.",
+        "url": SITE,
+        "image": `${SITE}/images/diana-coman.jpeg`,
+        "worksFor": { "@id": `${SITE}/#organization` },
+        "sameAs": [
+          "https://www.modernmysteryschoolint.com",
+          "https://www.modernmysteryschooluk.com"
+        ],
+        "knowsAbout": [
+          "Hermeticism",
+          "Life Activation",
+          "Initiation",
+          "Healing Modalities",
+          "Modern Mystery School",
+          "Lineage of King Salomon"
+        ]
+      },
+      {
         "@type": ["ProfessionalService", "LocalBusiness"],
         "@id": `${SITE}/#organization`,
         "name": "The Path of Initiation Prague",
@@ -162,6 +184,10 @@ export default async function LocaleLayout({
         "telephone": "+420 792 908 296",
         "email": "radu@thepathofinitiationprague.com",
         "founder": { "@id": `${SITE}/#radu-coman` },
+        "employee": [
+          { "@id": `${SITE}/#radu-coman` },
+          { "@id": `${SITE}/#diana-coman` }
+        ],
         "knowsAbout": [
           "Life Activation",
           "Empower Thyself Initiation",
@@ -252,7 +278,7 @@ export default async function LocaleLayout({
             "name": "What is The Path of Initiation Prague?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "The Path of Initiation Prague is a spiritual training path and mystery-school program in Prague, guided by Radu Coman, a certified Guide in the Lineage of King Salomon (Modern Mystery School). It offers activations, initiations, healings and classes, taught in English."
+              "text": "The Path of Initiation Prague is a spiritual training path and mystery-school program in Prague, guided by Radu and Diana Coman, certified Guides in the Lineage of King Salomon (Modern Mystery School). It offers activations, initiations, healings and classes, taught in English."
             }
           },
           {
@@ -261,6 +287,14 @@ export default async function LocaleLayout({
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Radu Coman is a Guide and Teacher in the Lineage of King Salomon, certified by the Modern Mystery School. He brings the ancient teachings to Prague, guiding people through initiation, activation and healing in English."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is Diana Coman?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Diana Coman is a certified Teacher, Life Activation Practitioner and Healer in the Lineage of King Salomon. Together with her husband Radu, she leads, teaches and heals at the Path of Initiation Prague, bringing a deeply intuitive and human-centered approach to the work."
             }
           },
           {
@@ -284,7 +318,7 @@ export default async function LocaleLayout({
             "name": "Where is The Path of Initiation Prague located?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Ve Smečkách 22, Nové Město, 110 00 Prague, Czech Republic. You can reach Radu on WhatsApp at +420 792 908 296."
+              "text": "Ve Smečkách 22, Nové Město, 110 00 Prague, Czech Republic. You can reach Radu or Diana on WhatsApp at +420 792 908 296."
             }
           },
           {
@@ -300,7 +334,7 @@ export default async function LocaleLayout({
             "name": "How do I begin?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Most people begin with a Life Activation or with the Empower Thyself initiation. Reach out to Radu on WhatsApp at +420 792 908 296 and he will guide you personally to the right first step."
+              "text": "Most people begin with a Life Activation or with the Empower Thyself initiation. Reach out on WhatsApp at +420 792 908 296 and Radu or Diana will guide you personally to the right first step."
             }
           }
         ]

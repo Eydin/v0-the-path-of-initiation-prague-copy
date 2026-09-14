@@ -9,7 +9,7 @@ import { BRAND } from "@/lib/brand-names"
 import { LocaleSwitcher } from "@/components/locale-switcher"
 
 const WHATSAPP =
-  "https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
+  "https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
 
 function DropdownLink({ label, items }: { label: string; items: { href: string; label: string }[] }) {
   return (

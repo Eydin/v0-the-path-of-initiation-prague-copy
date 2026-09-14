@@ -131,7 +131,13 @@ function flattenStrings(node, out=[]){
 }
 
 function getNamespaces(src){
-  return [...src.matchAll(/useTranslations\(\s*["']([^"']+)["']\s*\)/g)].map(m=>m[1]);
+  const clientHook = [...src.matchAll(/useTranslations\(\s*["']([^"']+)["']\s*\)/g)].map(m=>m[1]);
+  // Server components use getTranslations({ locale, namespace: "X" }) instead
+  // of the useTranslations("X") client hook — most pages were migrated to
+  // this form so generateMetadata could run server-side, which left this
+  // extractor blind to their namespace unless both forms are matched.
+  const serverFn = [...src.matchAll(/getTranslations\(\s*\{[^}]*?namespace:\s*["']([^"']+)["']/g)].map(m=>m[1]);
+  return [...clientHook, ...serverFn];
 }
 
 function extractTranslatedNamespaces(src, namespaces){

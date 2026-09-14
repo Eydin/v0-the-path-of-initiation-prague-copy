@@ -1,6 +1,7 @@
 // AUTO-GENERATED from site pages by scripts/build-knowledge.mjs   do not edit by hand.
 // Regenerate after content changes: node scripts/build-knowledge.mjs
 export const SITE_KNOWLEDGE = `## PAGE: /astral-travel
+https://buy.stripe.com/3cI7sE1rh1RIc3jeoHg360k
 A Workshop of the Mystery School
 Astral Travel
 The art and science of travelling beyond the physical body
@@ -19,11 +20,12 @@ How to move with intention, meet your guides, and ask the right questions.
 Grounding & integration:
 Return clearly and bring the wisdom of your journeys into daily life.
 Step Beyond the Body
-Workshop
+5 Hours
 Workshops are scheduled in small groups. Reach out for the next available date in Prague.
-Hello Radu, I would like to learn more about the Astral Travel workshop.
+Hello, I would like to learn more about the Astral Travel workshop.
 
 ## PAGE: /aura-healing
+https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
 A Healing of the Mystery School
 Restore and protect your energetic field
 Clear, balance and seal the seven layers of the aura
@@ -40,7 +42,7 @@ Clear stagnant and foreign energies, leaving you calm and clear.
 Protection & vitality:
 Re-establish a strong, whole field that supports your wellbeing day to day.
 Restore Your Light
-Approx. 1 Hour
+2 Hours
 After you reach out, we will contact you personally to finalise your appointment.
 
 ## PAGE: /blog/[slug]
@@ -53,6 +55,16 @@ King Salomon · Magick · Alchemy
 force-dynamic
 Modern Mystery School blog
 King Salomon
+Blog | The Path of Initiation Prague
+Articles on King Salomon, Magick, Alchemy, Spagyrics and the living Modern Mystery School lineage — written to inform, uplift and bring hope.
+Articles on King Salomon, Magick, Alchemy, Spagyrics and the living Modern Mystery School lineage.
+Preview Mode — showing all posts, including those not yet scheduled and those you haven't marked ready. Visitors only ever see posts that are both released and approved.
+Wisdom For The Path
+The Blog
+Reflections on lineage, practical magick and the alchemical tradition — written to inform and to bring hope. New articles are released regularly; check back often.
+The first article is being prepared. Please check back soon.
+Scheduled
+Needs Review
 
 ## PAGE: /calendar
 The Path Ahead
@@ -68,20 +80,25 @@ Ask About a Class
 
 ## PAGE: /certifications
 Certifications
-Radu is here to support you in creating a life worth waking up for
+Radu and Diana are here to support you in creating a life worth waking up for
 Every morning
-The certifications for the classes, initiations and healing sessions that Radu offers come from Modern Mystery School International .
-He has undergone numerous initiations and trainings to prepare himself and to be able to hold the energy for the trasformation to happen for his students.
+The certifications for the classes, initiations and healing sessions that Radu and Diana offer come from Modern Mystery School International .
+They have each undergone numerous initiations and trainings to prepare themselves and to be able to hold the energy for the transformation to happen for their students.
 Certified by the Modern Mystery School
 Radu's Qualifications
 Radu is a certified Guide and Teacher in the lineage of the Modern Mystery School.
 Radu is also certified as a Life Activation Practitioner and Healer , recertified annually.
 Radu has completed all three levels of Ensofic Ray Healing , with a specialization in addressing destructive mental patterns, harmful habits, and addictions.
+Diana's Qualifications
+Diana is a certified Teacher in the lineage of the Modern Mystery School.
+Diana is also certified as a Life Activation Practitioner and Healer , recertified annually.
+Diana has completed all three levels of Ensofic Ray Healing .
 Diplomas & Certificates
 
 ## PAGE: /community
 lucide-react
-https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20community%20and%20upcoming%20events.
+https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20community%20and%20upcoming%20events.
+https://buy.stripe.com/9B6cMYgmb8g6ffv80jg360x
 Community
 A circle of hearts and shared transformation
 The Path of Initiation Prague is far more than just a place to take classes. It is a living, breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.
@@ -102,17 +119,18 @@ Regular Community Evenings
 Open to students, initiates and anyone else interested.
 Free of Charge
 2 Hours
+1 Hour
 Prayer Evening
-Hello Radu, I would like to learn more about the Prayer Evening community gathering.
+Hello, I would like to learn more about the Prayer Evening community gathering.
 Gentle evenings of prayer, deep reflection, and collective intention designed to open the heart and strengthen inner alignment. A peaceful oasis to realign your vibration, step back from life's clutter, and anchor your focus into your highest essence alongside companions who hold the same sacred intent.
 Meditation Evening
-Hello Radu, I would like to learn more about the Meditation Evening community gathering.
+Hello, I would like to learn more about the Meditation Evening community gathering.
 Quiet spaces built for profound stillness, breath-work, visualization, and the deepening of awareness through guided traditional paths. Perfect for resetting the nervous system, taming mental over-activity, and leaning on collective group energy to unlock deeper meditative states than practicing alone.
 Socialization Evening
-Hello Radu, I would like to learn more about the Socialization Evening community gathering.
+Hello, I would like to learn more about the Socialization Evening community gathering.
 Warm, high-vibrational, and beautifully relaxed gatherings where friends, seekers, and students meet in joyful fellowship. This is where we let our hair down, laugh over tea, swap stories about life's adventures, and build friendships that support our human experience just as much as our spiritual paths.
 International Mystery School Community
-Hello Radu, I would like to learn more about the International Mystery School Community opportunities.
+Hello, I would like to learn more about the International Mystery School Community opportunities.
 An expansive global circle of practitioners, initiates, and teachers sharing the ancient lineages, values, and spiritual lineage of the Modern Mystery School. Connecting here unlocks international events, global networking with conscious peers, and shared support infrastructures for systemic transformation.
 See the international schedule over here:
 Calendar - Modern Mystery School UK and Europe
@@ -192,6 +210,7 @@ Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
 
 ## PAGE: /full-spirit-activation
+https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
 The Mystery Tradition · Lineage of King Salomon
 Awaken and anchor the soul and spirit into the body
 Open your soul to miracles
@@ -258,7 +277,7 @@ Each session is offered one-to-one — reach out to inquire about any of them
 A living tradition of healing
 The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu will guide you from there.
 For the deeper, specialised work of the tradition, see the
-Hello Radu, I would like to inquire about the healing modalities.
+Hello, I would like to inquire about the healing modalities.
 Begin Your Healing
 Tell Radu a little about where you are right now, and he will help you choose the healing that serves you best.
 Foundational Activations
@@ -305,6 +324,7 @@ Chakra Awakening
 Awakens and harmonises the body's seven energy centres.
 
 ## PAGE: /kabbalah-ascension
+Universal Hermetic Ray Kabbalah Ascension Program | The Path of Initiation Prague
 A Long-Form Ascension Journey
 Climbing the Tree of Life
 A spiritual and alchemical transformation — not a weekend, but a journey.
@@ -326,9 +346,10 @@ At minimum, you need to be an Adept Initiate — initiated through Empower Thyse
 This is a global Modern Mystery School program run at Headquarters level, not a session run locally here in Prague. Class sizes and cohorts are limited and run once every one to two years — for current dates and enrollment, visit the Modern Mystery School's own page .
 Curious About the Kabbalah Ascension Program?
 Radu is glad to help you understand what this journey really asks of you, whether you meet the prerequisites yet, and how it connects to the path you're already walking.
-Hello Radu, I would like to learn more about the Universal Hermetic Ray Kabbalah Ascension Program.
+Hello, I would like to learn more about the Universal Hermetic Ray Kabbalah Ascension Program.
 
 ## PAGE: /keys-of-the-ancients
+Keys of the Ancients | The Path of Initiation Prague
 A Global Program in the Lineage of King Salomon
 A Five-Day Hermetic Crossing with Sovereign Ipsissimus Dave Lanyon
 For those ready to unlock their full potential and step directly into the deepest teachings of this lineage.
@@ -350,7 +371,7 @@ Keys of the Ancients asks for an open mind, a genuine desire to learn, and a wil
 This is a global Modern Mystery School program, not a session run locally here in Prague. Dates, exact pricing, and locations are set directly by Dave Lanyon's team and change from cohort to cohort — for current details, visit thedavelanyon.com .
 Curious About Keys of the Ancients?
 Radu has walked this lineage himself and is glad to share what this program is really like, help you understand whether it's the right next step, and point you toward official dates and registration.
-Hello Radu, I would like to learn more about Keys of the Ancients with Dave Lanyon.
+Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
 
 ## PAGE: /life-activation
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
@@ -400,10 +421,52 @@ Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
 
 ## PAGE: /lineage
-https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Lineage%20and%20the%20Path%20of%20Initiation.
+https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Lineage%20and%20the%20Path%20of%20Initiation.
 Gudni GED Gudnason
 Hideto REI Nakagome
 Dave THOR Lanyon
+The Lineage of King Salomon | The Path of Initiation Prague
+Over 3,000 years of unbroken written lineage. Discover the Modern Mystery School, the King Salomon Lineage, and the three Lineage Holders of the Third Order — Gudni Gudnason, Hideto Nakagome, and Dave Lanyon.
+The Modern Mystery School
+The Lineage of King Salomon
+Over 3,000 years of written history. An unbroken chain of teacher to student, affirmed by the holy process of initiation — preserving the keys to true spiritual power since the beginning of time.
+What is Lineage?
+The measure of an authentic Mystery School
+Lineage is a key and important factor in determining the legitimacy, integrity and authority that an authentic Mystery School holds. By definition, lineage means a lineal descent from an ancestor — an ancestry, a pedigree.
+The Modern Mystery School has persisted through time an ancient tradition of sharing knowledge from teacher to student, affirmed by the holy process of initiation. This direct transfer of information has preserved the virtue and honour of the mystery school tradition, which has held the secrets of God, the universe, and the keys to true spiritual power since the beginning of time.
+This wisdom and power is available to all who truly seek it and are willing to honour its sacred nature by walking the Path of Initiation.
+As above,
+so below
+Hermes Trismegistus
+Hermes Trismegistus · Floor of Siena Cathedral, c. 1488
+Over 3,000 Years
+The King Salomon Lineage
+The lineage of the Modern Mystery School dates back to the time of King Salomon and therefore carries over 3,000 years of written history and lineage. While the mystery school tradition is far older, the lineage of the MMS and its teachings can be verified and traced directly to the teachings of King Salomon himself.
+The oral tradition reaches back more than 8,000 years to the time of Hermes — Hermes Trismegistus. Initiation, combined with this unbroken lineage, empowers the Adept to engage in the Great Work: creating a better world and living in accordance with their true potential and life purpose.
+The great masters have all walked upon the Path of Initiation in the mystery school tradition — the very path that led them to fulfill their promise to God while here on this earth.
+The Third Order
+The Three Lineage Holders
+All lineages have main key holders — individuals who hold and anchor the lineage on the planet, with the authority to keep the door of the Mystery School open to those who seek the Light. In this lineage they are titled the Third Order, and in union they maintain the purity of the lineage and its teachings.
+Today, these three lineage holders carry the great responsibility of maintaining the purity of the teachings — working in collaboration with the Council of Twelve women and the wider leadership, stewarding the lineage of King Salomon into the modern age.
+Sovereign Ipsissimus & Hierophant
+Founder of the Modern Mystery School
+Born in Iceland and raised steeped in the mysteries, Gudni travelled widely to receive teachings and initiations across a myriad of traditions. His teaching career spans over forty years — Kabbalah, Alchemy, Metaphysics, Quantum Physics and far beyond. A master metaphorical teacher, he imparts esoteric principle through analogy, allegory and parable. In 1997 he brought the Modern Mystery School publicly to the world.
+Sovereign Ipsissimus
+Member of the Third Order
+A lineage holder and administrator of the Third Order, anchoring the lineage and its teachings in the East. Together with his brothers of the Third Order, he safeguards the purity of the tradition and keeps the door of the Mystery School open to those who seek the Light.
+A lineage holder and administrator of the Third Order. In union with his fellow key holders he administers and attends to the maintenance of the lineage, ensuring the teachings are passed on with integrity from teacher to student through the holy process of initiation.
+Those Who Guide
+The Council of Ipsissimi, The Council of 12 & Leadership
+Alongside the Third Order, the lineage is held and guided by the Governing Ipsissima & Ipsissimus, the Council of Twelve Women and the wider leadership of the Modern Mystery School — devoted teachers who steward the tradition and serve the school across the world.
+Governing Ipsissima & Ipsissimus
+The Leadership Team
+Other resources you can read
+Lineage
+Core Values & Beliefs
+Culture of Light
+Walk the Path
+Being part of the Modern Mystery School lineage is being part of a family — a global tribe dedicated to the empowerment and betterment of humanity. The door is open to those who feel the call.
+Begin Your Journey
 
 ## PAGE: /
 Know thyself, and thou shalt know
@@ -414,6 +477,11 @@ What you seek
 is seeking you
 Rumi · 13th Century
 The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657
+
+## PAGE: /privacy-policy
+Privacy Policy | The Path of Initiation Prague
+How The Path of Initiation Prague (Sanctum Lux Divine SRL) collects, uses and protects your personal data, in accordance with the GDPR.
+Back to home
 
 ## PAGE: /ritual-master
 The Path of the Master Magician
@@ -446,6 +514,7 @@ Begin Your Mastery
 The Ritual Master path begins with Empower Thyself and the Healers Academy. Reach out and we will help you map the right next step for you.
 
 ## PAGE: /sacred-geometry-2
+Sacred Geometry II | The Path of Initiation Prague
 The Sacred Geometry Series · Level II
 Crystal Healing & Space Protection
 Simple, ancient methods of crystal healing — for yourself, and for those you serve.
@@ -463,9 +532,10 @@ Structured crystal layouts used to bring protection, holiness, and abundance to 
 Sacred Geometry II in Prague
 Full-Day Workshop
 Coming soon to Prague — Sacred Geometry II isn't scheduled here yet, but it's next in line as the Sacred Geometry series grows locally. Reach out to Radu to register your interest and be the first to know when a date is set.
-Hello Radu, I would like to learn more about Sacred Geometry II.
+Hello, I would like to learn more about Sacred Geometry II.
 
 ## PAGE: /sacred-geometry-3
+Sacred Geometry III | The Path of Initiation Prague
 The Sacred Geometry Series · Level III
 Egyptian Aura Healing
 An ancient method for restoring wholeness to the human energy field.
@@ -483,9 +553,10 @@ Restore balance and correct flow in the seven layers of the aura, restoring its 
 Sacred Geometry III in Prague
 Workshop
 Coming soon to Prague — Sacred Geometry III isn't scheduled here yet, but it's part of where the Sacred Geometry series is heading locally. Reach out to Radu to register your interest and be the first to know when a date is set.
-Hello Radu, I would like to learn more about Sacred Geometry III.
+Hello, I would like to learn more about Sacred Geometry III.
 
 ## PAGE: /sacred-geometry-4
+Sacred Geometry IV | The Path of Initiation Prague
 The Sacred Geometry Series · Level IV
 Sacred Space & Living Temples
 Reveal the secrets of sacred space, and learn to create them yourself.
@@ -504,9 +575,10 @@ The methods work by bridging the spiritual and the physical, anchoring higher en
 Sacred Geometry IV in Prague
 Workshop
 Coming soon to Prague — Sacred Geometry IV isn't scheduled here yet, but it's the horizon the Sacred Geometry series is building toward locally. Reach out to Radu to register your interest and be the first to know when a date is set.
-Hello Radu, I would like to learn more about Sacred Geometry IV.
+Hello, I would like to learn more about Sacred Geometry IV.
 
 ## PAGE: /sacred-geometry
+https://buy.stripe.com/aFa00c4Dt0NE8R780jg360s
 A Workshop of the Mystery School
 The language in which creation is written
 Learn to work with the building blocks of the universe
@@ -524,10 +596,11 @@ Apply these forms for focus, meditation, manifestation and healing.
 Living the pattern:
 See the order beneath everyday life and align yourself with it.
 Read the Language of Creation
-Workshop
+5 Hours
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
 
 ## PAGE: /seven-mystery-schools
+https://buy.stripe.com/5kQ7sE2vl1RIffv2FZg360w
 A Workshop of the Mystery School
 The 7 Mystery Schools
 The seven great streams of ancient wisdom
@@ -550,9 +623,9 @@ See where your own path fits within this vast, living current of wisdom.
 A deeper context:
 Ground your practice in the history and roots of the work you are doing.
 Walk Through the Seven Gates
-Workshop
+3 Hours
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
-Hello Radu, I would like to learn more about the 7 Mystery Schools workshop.
+Hello, I would like to learn more about the 7 Mystery Schools workshop.
 
 ## PAGE: /specialty-healings
 The King Salomon Healing Modality
@@ -597,9 +670,10 @@ Looking for the foundational sessions and the full range of healings?
 See all healing modalities →
 Not Sure Which Healing You Need?
 Reach out and Radu will listen, then guide you to the healing that truly serves you right now.
-Hello Radu, I would like to learn more about the specialty healings.
+Hello, I would like to learn more about the specialty healings.
 
 ## PAGE: /spiritual-intuition
+https://buy.stripe.com/00waEQ7PFfIy6IZ80jg360u
 A Workshop of the Mystery School
 Spiritual Intuition
 Beyond the five senses
@@ -618,11 +692,12 @@ Develop your inner sight, hearing and knowing through daily practice.
 Apply it in life:
 Use your intuition for clearer decisions, relationships and direction.
 Trust What You Already Know
-Workshop
+3 Hours
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
-Hello Radu, I would like to learn more about the Spiritual Intuition workshop.
+Hello, I would like to learn more about the Spiritual Intuition workshop.
 
 ## PAGE: /stress-management
+https://buy.stripe.com/7sY28k8TJ7c24AR3K3g360v
 For Individuals, Teams & Organisations
 Stress Rescue
 Practical tools to meet pressure with calm
@@ -641,8 +716,15 @@ Think clearly and decide well, even when the day is demanding.
 For teams:
 A shared language and shared tools that make a whole group more resilient.
 Bring Calm Back Into the Day
+2 Hours
 Available for individuals, leadership teams and organisations. Reach out to discuss a session or a programme for your team.
-Hello Radu, I would like to learn more about Stress Rescue / Stress Management.
+Hello, I would like to learn more about Stress Rescue / Stress Management.
+
+## PAGE: /terms-and-conditions
+General Terms and Conditions | The Path of Initiation Prague
+The General Terms and Conditions governing the provision of Services by The Path of Initiation Prague (Sanctum Lux Divine SRL).
+Back to home
+Need to withdraw from a contract? Use our online withdrawal form →
 
 ## PAGE: /testimonials
 The Journey of Transformation
@@ -675,6 +757,28 @@ The work with the body, with moon cycles, with rituals, with meditation—it's s
 I'm so thankful that I was made to feel safe to be the way I am, who I am. It made me feel like I could trust myself again and remember who I am.
 More Student Journeys
 
+## PAGE: /withdraw-from-contract
+Withdraw from the Contract | The Path of Initiation Prague
+Submit an electronic notice of withdrawal from your contract with The Path of Initiation Prague, in accordance with Article 6.4 of our General Terms and Conditions.
+Back to home
+Withdraw from the Contract
+Use this form to submit your notice of withdrawal electronically, as provided for in Article 6.4 of our General Terms and Conditions. You'll receive an e-mail confirming we've received it.
+Which Services are you withdrawing from?
+e.g. Empower Thyself, booked for 12 September 2026
+Date of order
+Order number (if assigned)
+optional
+Your full name
+Your address
+Bank account number for the refund
+Your e-mail address
+We'll send your confirmation here.
+Submit withdrawal notice
+Submitting…
+Received — check your inbox for a confirmation e-mail.
+Something went wrong. Please try again, or e-mail us directly at radu@thepathofinitiationprague.com.
+All fields are required unless marked optional.
+
 ## PAGE: (component) classes-section.tsx
 Upcoming Events
 Upcoming Classes in Prague
@@ -688,10 +792,51 @@ Study the divine patterns that underpin all of creation, how to astral travel, c
 Advanced Study
 Learn More
 
+## PAGE: (component) community-carousel.tsx
+Community
+A circle of hearts and shared transformation
+The Path of Initiation Prague is far more than just a place to take classes. It is a living, breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.
+Beyond the Classroom
+Space for genuine growth & connection
+Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about embodying their divine essence , accelerating personal growth, and overcoming life's challenges together.
+But don't worry, it's not all serious! We believe that true spiritual integration comes with a light heart. We share plenty of laughter, joy, and genuine fun along the way.
+What ties us together
+Supportive gatherings and zero-judgment conversations
+Overcoming personal challenges with community support
+Celebrating the joy, magic, and fun of life together
+Embodying our divinity through practical daily actions
+Excitement of living life alive!
+Previous slide
+Next slide
+Our Gatherings
+Regular Community Evenings
+Open to students, initiates and anyone else interested.
+Free of Charge
+2 Hours
+1 Hour
+Prayer Evening
+Hello, I would like to learn more about the Prayer Evening community gathering.
+Gentle evenings of prayer, deep reflection, and collective intention designed to open the heart and strengthen inner alignment. A peaceful oasis to realign your vibration, step back from life's clutter, and anchor your focus into your highest essence alongside companions who hold the same sacred intent.
+Meditation Evening
+Hello, I would like to learn more about the Meditation Evening community gathering.
+Quiet spaces built for profound stillness, breath-work, visualization, and the deepening of awareness through guided traditional paths. Perfect for resetting the nervous system, taming mental over-activity, and leaning on collective group energy to unlock deeper meditative states than practicing alone.
+Socialization Evening
+Hello, I would like to learn more about the Socialization Evening community gathering.
+Warm, high-vibrational, and beautifully relaxed gatherings where friends, seekers, and students meet in joyful fellowship. This is where we let our hair down, laugh over tea, swap stories about life's adventures, and build friendships that support our human experience just as much as our spiritual paths.
+International Mystery School Community
+Hello, I would like to learn more about the International Mystery School Community opportunities.
+An expansive global circle of practitioners, initiates, and teachers sharing the ancient lineages, values, and spiritual lineage of the Modern Mystery School. Connecting here unlocks international events, global networking with conscious peers, and shared support infrastructures for systemic transformation.
+See the international schedule over here:
+Calendar - Modern Mystery School UK and Europe
+Begin with a conversation
+Join the circle
+If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
+Contact the Community
+
 ## PAGE: (component) cta-section.tsx
 Your Invitation
 Are You Ready to Walk the Path?
-The door is open, but only you can choose to step through it. If you feel the call, take the first step and apply for a personal consultation with Radu Coman.
+The door is open, but only you can choose to step through it. If you feel the call, take the first step and apply for a personal consultation with Radu and Diana Coman.
 Email
 
 ## PAGE: (component) ending-section.tsx
@@ -727,7 +872,7 @@ Sophie from Canada
 ## PAGE: (component) footer.tsx
 PATH OF
 radu@thepathofinitiationprague.com
-Healing, initiation and training in the lineage of King Salomon, with Guide Radu Coman in Prague.
+Healing, initiation and training in the lineage of King Salomon, with Guides Radu and Diana Coman in Prague.
 Prague, Czech Republic
 Aura Healing
 Contact
@@ -821,7 +966,7 @@ Portraits: historical artworks & photographs, Wikimedia Commons.
 
 ## PAGE: (component) header.tsx
 PATH OF
-https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation.
+https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation.
 Activations & Initiations
 Healing & Workshops
 About

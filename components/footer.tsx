@@ -79,7 +79,7 @@ export function Footer() {
             <p className="mb-4 font-serif text-xs uppercase tracking-[0.3em] text-primary">{t("contact")}</p>
             <div className="flex flex-col gap-2.5">
               <a
-                href="https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
+                href="https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-muted-foreground transition-colors hover:text-primary"

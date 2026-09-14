@@ -140,6 +140,39 @@ export default async function Certifications({
                       </div>
                     </div>
                   </div>
+
+                  <h2 className="font-serif text-3xl md:text-4xl tracking-wide text-primary mb-12 mt-16 text-center">
+                    {t("dianaQualificationsHeading")}
+                  </h2>
+
+                  <div className="bg-muted/60 backdrop-blur-sm border border-primary/20 rounded-lg p-8 md:p-12 space-y-6">
+                    <div className="flex gap-4">
+                      <span className="text-primary font-semibold flex-shrink-0">•</span>
+                      <div>
+                        <p className="text-lg leading-relaxed text-foreground">
+                          {t.rich("dianaQualifications.0", { bold: (chunks) => <span className="text-primary font-semibold">{chunks}</span> })}
+                        </p>
+                      </div>
+                    </div>
+
+                    <div className="flex gap-4">
+                      <span className="text-primary font-semibold flex-shrink-0">•</span>
+                      <div>
+                        <p className="text-lg leading-relaxed text-foreground">
+                          {t.rich("dianaQualifications.1", { bold: (chunks) => <span className="text-primary font-semibold">{chunks}</span> })}
+                        </p>
+                      </div>
+                    </div>
+
+                    <div className="flex gap-4">
+                      <span className="text-primary font-semibold flex-shrink-0">•</span>
+                      <div>
+                        <p className="text-lg leading-relaxed text-foreground">
+                          {t.rich("dianaQualifications.2", { bold: (chunks) => <span className="text-primary font-semibold">{chunks}</span> })}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </ScrollReveal>
             </div>
@@ -198,7 +231,27 @@ export default async function Certifications({
                     <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
                       <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img
-                          src="images/radu-lap-old.webp"
+                          src="images/radu-ensofic.webp"
+                          alt="Ensofic Ray - Radu"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
+                        />
+                      </div>
+                    </a>
+
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
+                        <img
+                          src="images/diana-lap.jpg"
+                          alt="Life Activation Practitioner - Diana"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
+                        />
+                      </div>
+                    </a>
+
+                    <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
+                      <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
+                        <img
+                          src="images/diana-healer.jpg"
                           alt="Healer Certification - Diana"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
@@ -208,8 +261,8 @@ export default async function Certifications({
                     <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
                       <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img
-                          src="images/radu-lap.jpg"
-                          alt="Ensofic Ray - Diana"
+                          src="images/diana-teacher.jpg"
+                          alt="Certified Teacher - Diana"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>
@@ -218,8 +271,8 @@ export default async function Certifications({
                     <a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer" className="group">
                       <div className="relative w-full h-96 rounded-lg overflow-hidden border border-primary/20 hover:border-primary/40 transition cursor-pointer">
                         <img
-                          src="images/radu-ensofic.webp"
-                          alt="Ensofic Ray - Radu"
+                          src="images/diana-ensofic.webp"
+                          alt="Ensofic Ray - Diana"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                         />
                       </div>

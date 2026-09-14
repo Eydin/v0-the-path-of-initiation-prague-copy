@@ -33,14 +33,14 @@
     }
   },
   "Footer": {
-    "tagline": "Vindecare, inițiere și pregătire în linia regelui Solomon, alături de Ghidul Radu Coman în Praga.",
+    "tagline": "Vindecare, inițiere și pregătire în linia regelui Solomon, alături de Ghizii Radu și Diana Coman în Praga.",
     "location": "Praga, Republica Cehă",
     "auraHealing": "Vindecare aurică",
     "contact": "Contact",
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
     "certifiedAlt": "Certificat de Modern Mystery School",
-    "copyright": "© {year} The Path of Initiation Prague · Radu Coman. Toate drepturile rezervate.",
+    "copyright": "© {year} The Path of Initiation Prague · Radu & Diana Coman. Toate drepturile rezervate.",
     "privacyPolicy": "Politica de confidențialitate",
     "terms": "Termeni și condiții",
     "withdrawFromContract": "Retragere din contract"
@@ -121,7 +121,7 @@
   "CTA": {
     "eyebrow": "Invitația ta",
     "heading": "Ești pregătit să pășești pe Cale?",
-    "body": "Ușa este deschisă, dar doar tu poți alege să treci pragul. Dacă simți chemarea, fă primul pas și solicită o consultație personală cu Radu Coman.",
+    "body": "Ușa este deschisă, dar doar tu poți alege să treci pragul. Dacă simți chemarea, fă primul pas și solicită o consultație personală cu Radu și Diana Coman.",
     "email": "Email",
     "whatsapp": "WhatsApp"
   },
@@ -252,7 +252,7 @@
     "bookingTitle": "Întâlnește-ți puterea autentică și sinele superior!",
     "duration": "2 ore",
     "bookingNote": "După finalizarea plății, te vom contacta pentru a stabili programarea.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre {brand}."
+    "inquiry": "Bună, aș dori să aflu mai multe despre {brand}."
   },
   "EmpowerThyself": {
     "heroEyebrow": "O inițiere de două zile",
@@ -345,7 +345,7 @@
       "deposit": "Un avans de 12.000 CZK îți asigură locul și ne permite să programăm ședința ta de Life Activation.",
       "remainder": "Restul de 24.500 CZK este scadent cu 2 săptămâni înainte de începerea instruirii de 2 zile și a Inițierii."
     },
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Inițierea {brand}."
+    "inquiry": "Bună, aș dori să aflu mai multe despre Inițierea {brand}."
   },
   "FullSpiritActivation": {
     "heroEyebrow": "Tradiția misterelor · Linia regelui Solomon",
@@ -379,7 +379,7 @@
     "proceduresClosing": "După o ședință atât de intensă, este recomandat să îți acorzi timp pentru a integra complet transformările. Pentru a maximiza beneficiile, finalizează mai întâi Life Activation — ideal cu trei săptămâni până la trei luni înainte.",
     "bookingTitle": "Descoperă-ți potențialul de a fi o ființă divină",
     "duration": "2 ore",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre {brand}."
+    "inquiry": "Bună, aș dori să aflu mai multe despre {brand}."
   },
   "HealersAcademy": {
     "heroEyebrow": "Al doilea nivel de inițiere",
@@ -409,7 +409,7 @@
     "bookingTitle": "Răspunde chemării de a sluji",
     "duration": "Program intensiv și inițiere",
     "bookingNote": "Healers Academy este un program intensiv de 5 zile.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre {brand}."
+    "inquiry": "Bună, aș dori să aflu mai multe despre {brand}."
   },
   "RitualMaster": {
     "heroEyebrow": "Calea maestrului magician",
@@ -443,11 +443,11 @@
     "readyClosing": "Aceste învățături sunt esențiale pentru oricine dorește cu adevărat să schimbe ceva în viața sa și este dedicat transformării sale — asumându-și responsabilitatea pentru munca sa interioară și acționând pentru a crea o versiune mai pură, mai autentică și mai liberă a Sinelui său.",
     "bookingTitle": "Începe-ți măiestria",
     "bookingNote": "Calea Ritual Master începe cu Empower Thyself și Healers Academy. Contactează-ne și te vom ajuta să stabilești următorul pas potrivit pentru tine.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre programul {brand}."
+    "inquiry": "Bună, aș dori să aflu mai multe despre programul {brand}."
   },
   "HealingGrid": {
     "inquire": "Întreabă",
-    "inquiryTemplate": "Bună Radu, aș dori să întreb despre vindecarea {name}."
+    "inquiryTemplate": "Bună, aș dori să întreb despre vindecarea {name}."
   },
   "Healings": {
     "heroEyebrow": "În linia regelui Solomon",
@@ -458,7 +458,7 @@
     "introBody": "Modern Mystery School poartă unul dintre cele mai vechi și complete sisteme de vindecare de pe Pământ — adunat de regele Solomon și păstrat întreg printr-o linie neîntreruptă. Mai jos găsești gama de vindecări disponibile în Praga. Nu trebuie să știi care este potrivită pentru tine. Explorează pur și simplu și întreabă despre orice te atrage — Radu te va ghida de acolo.",
     "specialtyLead": "Pentru munca mai profundă, specializată, a tradiției, vezi",
     "specialtyLinkLabel": "vindecările speciale {brand} →",
-    "inquiry": "Bună Radu, aș dori să întreb despre modalitățile de vindecare.",
+    "inquiry": "Bună, aș dori să întreb despre modalitățile de vindecare.",
     "ctaHeading": "Începe-ți vindecarea",
     "ctaBody": "Spune-i lui Radu puțin despre unde te afli acum, iar el te va ajuta să alegi vindecarea care ți se potrivește cel mai bine.",
     "groups": {
@@ -539,7 +539,7 @@
     "seeAllLinkLabel": "Vezi toate modalitățile de vindecare →",
     "ctaHeading": "Nu ești sigur de ce vindecare ai nevoie?",
     "ctaBody": "Contactează-ne și Radu te va asculta, apoi te va ghida către vindecarea care te servește cu adevărat chiar acum.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre vindecările speciale."
+    "inquiry": "Bună, aș dori să aflu mai multe despre vindecările speciale."
   },
   "AuraHealing": {
     "heroEyebrow": "O vindecare a Școlii Misterelor",
@@ -560,7 +560,7 @@
     "bookingTitle": "Restabilește-ți lumina",
     "duration": "2 ore",
     "bookingNote": "După ce ne contactezi, te vom contacta personal pentru a finaliza programarea.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Vindecarea Aurică {brand}."
+    "inquiry": "Bună, aș dori să aflu mai multe despre Vindecarea Aurică {brand}."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "Un atelier al Școlii Misterelor",
@@ -580,7 +580,7 @@
     "bookingTitle": "Citește limbajul creației",
     "duration": "5 ore",
     "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre atelierul {brand}."
+    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul {brand}."
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Seria Sacred Geometry · Nivelul II",
@@ -599,7 +599,7 @@
     "bookingTitle": "Sacred Geometry II la Praga",
     "duration": "Atelier de o zi întreagă",
     "bookingNote": "În curând la Praga — Sacred Geometry II nu este încă programată aici, dar este următoarea în linie pe măsură ce seria Sacred Geometry crește local. Ia legătura cu Radu pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Sacred Geometry II."
+    "inquiry": "Bună, aș dori să aflu mai multe despre Sacred Geometry II."
   },
   "SacredGeometry3Page": {
     "heroEyebrow": "Seria Sacred Geometry · Nivelul III",
@@ -618,7 +618,7 @@
     "bookingTitle": "Sacred Geometry III la Praga",
     "duration": "Atelier",
     "bookingNote": "În curând la Praga — Sacred Geometry III nu este încă programată aici, dar face parte din direcția în care se îndreaptă local seria Sacred Geometry. Ia legătura cu Radu pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Sacred Geometry III."
+    "inquiry": "Bună, aș dori să aflu mai multe despre Sacred Geometry III."
   },
   "SacredGeometry4Page": {
     "heroEyebrow": "Seria Sacred Geometry · Nivelul IV",
@@ -638,7 +638,7 @@
     "bookingTitle": "Sacred Geometry IV la Praga",
     "duration": "Atelier",
     "bookingNote": "În curând la Praga — Sacred Geometry IV nu este încă programată aici, dar este orizontul spre care se îndreaptă local seria Sacred Geometry. Ia legătura cu Radu pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Sacred Geometry IV."
+    "inquiry": "Bună, aș dori să aflu mai multe despre Sacred Geometry IV."
   },
   "KeysOfTheAncientsPage": {
     "heroEyebrow": "Un program global în linia regelui Solomon",
@@ -660,7 +660,7 @@
     "forYouBody2": "Acesta este un program global Modern Mystery School, nu o ședință organizată local aici, la Praga. Datele, prețurile exacte și locațiile sunt stabilite direct de echipa lui Dave Lanyon și se schimbă de la un ciclu la altul — pentru detalii actuale, vizitează <link>thedavelanyon.com</link>.",
     "bookingTitle": "Ești curios despre Keys of the Ancients?",
     "bookingNote": "Radu a parcurs el însuși această linie și este bucuros să-ți povestească cum este cu adevărat acest program, să te ajute să înțelegi dacă este pasul potrivit pentru tine și să te îndrume către datele oficiale și înscriere.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Keys of the Ancients cu Dave Lanyon."
+    "inquiry": "Bună, aș dori să aflu mai multe despre Keys of the Ancients cu Dave Lanyon."
   },
   "KabbalahAscensionPage": {
     "heroEyebrow": "O călătorie de ascensiune pe termen lung",
@@ -682,7 +682,7 @@
     "forYouBody2": "Acesta este un program global Modern Mystery School organizat la nivel de sediu central, nu o ședință organizată local aici, la Praga. Dimensiunea grupurilor și ciclurile sunt limitate și au loc o dată la unul până la doi ani — pentru date actuale și înscriere, vizitează <link>pagina proprie a Modern Mystery School</link>.",
     "bookingTitle": "Ești curios despre Kabbalah Ascension Program?",
     "bookingNote": "Radu te ajută cu bucurie să înțelegi ce îți cere cu adevărat această călătorie, dacă îndeplinești deja condițiile și cum se leagă de drumul pe care mergi deja.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Universal Hermetic Ray Kabbalah Ascension Program."
+    "inquiry": "Bună, aș dori să aflu mai multe despre Universal Hermetic Ray Kabbalah Ascension Program."
   },
   "SacredGeometrySeriesLinks": {
     "heading": "Explorează alte ateliere Sacred Geometry",
@@ -713,7 +713,7 @@
     "bookingTitle": "Pășește dincolo de corp",
     "duration": "5 ore",
     "bookingNote": "Atelierele sunt programate în grupuri mici. Contactează-ne pentru următoarea dată disponibilă în Praga.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre atelierul de Călătorie Astrală."
+    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul de Călătorie Astrală."
   },
   "SpiritualIntuitionPage": {
     "heroEyebrow": "Un atelier al Școlii Misterelor",
@@ -734,7 +734,7 @@
     "bookingTitle": "Ai încredere în ceea ce știi deja",
     "duration": "3 ore",
     "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre atelierul de Intuiție Spirituală."
+    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul de Intuiție Spirituală."
   },
   "SevenMysterySchoolsPage": {
     "heroEyebrow": "Un atelier al Școlii Misterelor",
@@ -761,7 +761,7 @@
     "bookingTitle": "Trece prin cele șapte porți",
     "duration": "3 ore",
     "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre atelierul Cele 7 Școli ale Misterelor."
+    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul Cele 7 Școli ale Misterelor."
   },
   "StressManagementPage": {
     "heroEyebrow": "Pentru persoane, echipe și organizații",
@@ -782,7 +782,7 @@
     "bookingTitle": "Adu calmul înapoi în zi",
     "duration": "2 ore",
     "bookingNote": "Disponibil pentru persoane, echipe de conducere și organizații. Contactează-ne pentru a discuta o ședință sau un program pentru echipa ta.",
-    "inquiry": "Bună Radu, aș dori să aflu mai multe despre Eliberarea de Stres."
+    "inquiry": "Bună, aș dori să aflu mai multe despre Eliberarea de Stres."
   },
   "CommunityPage": {
     "eyebrow": "Comunitate",
@@ -811,22 +811,22 @@
     "oneHour": "1 oră",
     "prayerEvening": {
       "title": "Seara de rugăciune",
-      "inquiry": "Bună Radu, aș dori să aflu mai multe despre întâlnirea comunitară Seara de rugăciune.",
+      "inquiry": "Bună, aș dori să aflu mai multe despre întâlnirea comunitară Seara de rugăciune.",
       "description": "Seri blânde de rugăciune, reflecție profundă și intenție colectivă, concepute pentru a deschide inima și a întări alinierea interioară. O oază liniștită pentru a-ți realinia vibrația, a te retrage din agitația vieții și a-ți ancora atenția în esența ta cea mai înaltă, alături de tovarăși care împărtășesc aceeași intenție sacră."
     },
     "meditationEvening": {
       "title": "Seara de meditație",
-      "inquiry": "Bună Radu, aș dori să aflu mai multe despre întâlnirea comunitară Seara de meditație.",
+      "inquiry": "Bună, aș dori să aflu mai multe despre întâlnirea comunitară Seara de meditație.",
       "description": "Spații liniștite create pentru liniște profundă, lucru cu respirația, vizualizare și aprofundarea conștiinței prin căi tradiționale ghidate. Perfect pentru resetarea sistemului nervos, îmblânzirea suprasolicitării mentale și sprijinirea pe energia colectivă de grup pentru a debloca stări meditative mai profunde decât practicarea solitară."
     },
     "socializationEvening": {
       "title": "Seara de socializare",
-      "inquiry": "Bună Radu, aș dori să aflu mai multe despre întâlnirea comunitară Seara de socializare.",
+      "inquiry": "Bună, aș dori să aflu mai multe despre întâlnirea comunitară Seara de socializare.",
       "description": "Întâlniri calde, cu vibrație înaltă și minunat de relaxate, unde prieteni, căutători și studenți se reunesc într-o comuniune bucuroasă. Aici ne relaxăm cu adevărat, râdem la un ceai, ne împărtășim poveștile aventurilor vieții și construim prietenii care ne susțin experiența umană la fel de mult ca și căile noastre spirituale."
     },
     "international": {
       "title": "Comunitatea Internațională a Școlii Misterelor",
-      "inquiry": "Bună Radu, aș dori să aflu mai multe despre oportunitățile Comunității Internaționale a Școlii Misterelor.",
+      "inquiry": "Bună, aș dori să aflu mai multe despre oportunitățile Comunității Internaționale a Școlii Misterelor.",
       "description": "Un cerc global amplu de practicieni, inițiați și profesori care împărtășesc liniile străvechi, valorile și moștenirea spirituală a Modern Mystery School. Conectarea aici deschide evenimente internaționale, networking global cu semeni conștienți și infrastructuri comune de sprijin pentru transformarea sistemică.",
       "scheduleLead": "Vezi programul internațional aici:",
       "scheduleLinkLabel": "Calendar - Modern Mystery School UK și Europa"
@@ -897,16 +897,22 @@
   },
   "CertificationsPage": {
     "heading": "Certificări",
-    "subheading": "Radu este aici să te sprijine în crearea unei vieți pentru care merită să te trezești",
+    "subheading": "Radu și Diana sunt aici să te sprijine în crearea unei vieți pentru care merită să te trezești",
     "everyMorning": "În fiecare dimineață",
-    "introLead": "Certificările pentru cursurile, inițierile și ședințele de vindecare pe care le oferă Radu provin de la <mms>Modern Mystery School International</mms>.",
-    "introBody": "A trecut prin numeroase inițieri și pregătiri pentru a se pregăti și pentru a putea susține energia necesară transformării studenților săi.",
+    "introLead": "Certificările pentru cursurile, inițierile și ședințele de vindecare pe care le oferă Radu și Diana provin de la <mms>Modern Mystery School International</mms>.",
+    "introBody": "Amândoi au trecut prin numeroase inițieri și pregătiri pentru a se pregăti și pentru a putea susține energia necesară transformării studenților lor.",
     "certifiedAlt": "Certificat de Modern Mystery School",
     "qualificationsHeading": "Calificările lui Radu",
     "qualifications": [
       "Radu este un <bold>Ghid</bold> și <bold>Profesor</bold> certificat în linia Modern Mystery School.",
       "Radu este de asemenea certificat ca <bold>Practician și Vindecător Life Activation</bold>, recertificat anual.",
       "Radu a finalizat toate cele trei niveluri de <bold>Vindecare cu raza Ensofică</bold>, cu specializare în abordarea tiparelor mentale distructive, obiceiurilor dăunătoare și dependențelor."
+    ],
+    "dianaQualificationsHeading": "Calificările Dianei",
+    "dianaQualifications": [
+      "Diana este o <bold>Profesoară</bold> certificată în linia Modern Mystery School.",
+      "Diana este de asemenea certificată ca <bold>Practiciană și Vindecătoare Life Activation</bold>, recertificată anual.",
+      "Diana a finalizat toate cele trei niveluri de <bold>Vindecare cu raza Ensofică</bold>."
     ],
     "galleryHeading": "Diplome și certificate"
   },

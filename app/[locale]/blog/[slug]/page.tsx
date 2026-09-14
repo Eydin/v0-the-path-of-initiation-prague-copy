@@ -208,7 +208,7 @@ export default async function BlogPostPage({
                 {t("ctaBody")}
               </p>
               <a
-                href="https://wa.me/420792908296?text=Hello%20Radu%2C%20I%20read%20a%20blog%20post%20and%20would%20like%20to%20learn%20more."
+                href="https://wa.me/420792908296?text=Hello%2C%20I%20read%20a%20blog%20post%20and%20would%20like%20to%20learn%20more."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
