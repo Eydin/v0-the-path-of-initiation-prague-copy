@@ -105,8 +105,8 @@ export default async function LifeActivation({
         <div className="grid items-center gap-8 md:grid-cols-3">
           <Link href="/certifications" className="transition hover:opacity-80">
             <img
-              src="/images/radu-lap-old.webp"
-              alt="Radu — Life Activation certification"
+              src="/images/diana-lap.jpg"
+              alt="Diana — Life Activation certification"
               loading="lazy"
               className="h-auto w-full rounded border border-primary/20"
             />
