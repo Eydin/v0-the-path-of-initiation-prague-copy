@@ -65,7 +65,7 @@
       { "number": "60+", "label": "Countries Worldwide" },
       { "number": "Thousands", "label": "Of Lives Transformed" }
     ],
-    "videosHeading": "Follow the Journey of Our Students",
+    "videosHeading": "Follow the Journey of Our Students and Teachers",
     "wallOfLove": "Wall of Love",
     "testimonials": [
       {
@@ -88,20 +88,20 @@
     "intro": "Each pillar builds upon the last, creating a complete system of spiritual evolution that has stood the test of time.",
     "items": [
       {
-        "title": "Spiritual Knowledge",
-        "description": "Deepen your understanding of the universe and the metaphysical laws that govern all of creation. Access teachings that have been preserved for over three millennia by an unbroken lineage of initiates."
+        "title": "Activation",
+        "description": "Awaken your DNA and restore your connection to your Spirit. This work begins with the Life Activation and continues through the Full Spirit Activation."
       },
       {
-        "title": "Practical Magic",
-        "description": "Awaken dormant powers within yourself and learn to direct energy to create tangible, real-world outcomes. This is not theory; it is the practical application of universal principles."
+        "title": "Initiation",
+        "description": "Purify and prepare the vessel to receive the pure Light of Spirit and manifest it without distortion into the physical — the path opened by Empower Thyself."
       },
       {
-        "title": "Divine Purpose",
-        "description": "Develop your soul and forge a living connection with your Higher Purpose. Discover why you are here, what you are meant to create, and how to align every aspect of your life with your true calling."
+        "title": "Study & Learn",
+        "description": "By mastering the arts and sciences of Sacred Geometry, Astral Travel, Kabbalah and many more, you become a master of your physical life."
       },
       {
-        "title": "Healing Modalities",
-        "description": "Learn sacred healing techniques that allow you to be of profound service to others. Become a channel for transformation and help others awaken to their own divine potential."
+        "title": "Serving Others",
+        "description": "Life is not complete, and you cannot fully understand it, unless you also strive to be of service to others. By guiding, healing, teaching and generally supporting others in their needs, you become the full version of yourself."
       }
     ]
   },
@@ -121,9 +121,8 @@
   "CTA": {
     "eyebrow": "Your Invitation",
     "heading": "Are You Ready to Walk the Path?",
-    "body": "The door is open, but only you can choose to step through it. If you feel the call, take the first step and apply for a personal consultation with Radu and Diana Coman.",
-    "email": "Email",
-    "whatsapp": "WhatsApp"
+    "body": "The door is open, but only you can choose to step through it. If you feel the call, let's start with the beginning: the Life Activation.",
+    "bookLifeActivation": "Book a Life Activation"
   },
   "Guide": {
     "eyebrow": "Your Guide",

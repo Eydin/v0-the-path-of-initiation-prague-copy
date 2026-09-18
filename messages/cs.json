@@ -65,7 +65,7 @@
       { "number": "60+", "label": "Zemí po celém světě" },
       { "number": "Tisíce", "label": "Proměněných životů" }
     ],
-    "videosHeading": "Sledujte cestu našich studentů",
+    "videosHeading": "Sledujte cestu našich studentů a učitelů",
     "wallOfLove": "Zeď lásky",
     "testimonials": [
       {
@@ -88,20 +88,20 @@
     "intro": "Každý pilíř staví na tom předchozím a vytváří ucelený systém duchovní evoluce, který obstál ve zkoušce času.",
     "items": [
       {
-        "title": "Duchovní poznání",
-        "description": "Prohlubte své porozumění vesmíru a metafyzickým zákonům, které řídí veškeré stvoření. Získejte přístup k učení, které bylo po více než tři tisíciletí uchováváno nepřerušenou linií zasvěcenců."
+        "title": "Aktivace",
+        "description": "Probuďte svou DNA a obnovte spojení se svým Duchem. Tato práce začíná Life Activation a pokračuje skrze Full Spirit Activation."
       },
       {
-        "title": "Praktická magie",
-        "description": "Probuďte v sobě dřímající síly a naučte se směřovat energii k dosažení hmatatelných výsledků v reálném světě. Toto není teorie; jde o praktickou aplikaci univerzálních principů."
+        "title": "Zasvěcení",
+        "description": "Očistěte a připravte nádobu k přijetí čistého Světla Ducha a projevte je bez zkreslení do fyzična — cestu otevírá Empower Thyself."
       },
       {
-        "title": "Božské poslání",
-        "description": "Rozvíjejte svou duši a vytvořte živé spojení se svým Vyšším posláním. Objevte, proč jste zde, co máte vytvořit, a jak sladit každou stránku svého života se svým skutečným povoláním."
+        "title": "Studujte a učte se",
+        "description": "Zvládnutím umění a věd Sacred Geometry, Astral Travel, Kabbalah a mnoha dalších se stanete pánem svého fyzického života."
       },
       {
-        "title": "Léčebné modality",
-        "description": "Naučte se posvátné léčebné techniky, které vám umožní hluboce sloužit druhým. Staňte se kanálem proměny a pomozte ostatním probudit jejich vlastní božský potenciál."
+        "title": "Služba druhým",
+        "description": "Život není úplný a nemůžete mu plně porozumět, pokud také neusilujete o službu druhým. Tím, že vedete, léčíte, učíte a obecně podporujete druhé v jejich potřebách, se stáváte plnou verzí sebe sama."
       }
     ]
   },
@@ -121,9 +121,8 @@
   "CTA": {
     "eyebrow": "Vaše pozvání",
     "heading": "Jste připraveni vykročit na cestu?",
-    "body": "Dveře jsou otevřené, ale jen vy se můžete rozhodnout jimi projít. Pokud cítíte volání, udělejte první krok a přihlaste se na osobní konzultaci s Radu a Dianou Coman.",
-    "email": "E-mail",
-    "whatsapp": "WhatsApp"
+    "body": "Dveře jsou otevřené, ale jen vy se můžete rozhodnout jimi projít. Pokud cítíte volání, začněme od začátku: Life Activation.",
+    "bookLifeActivation": "Rezervovat Life Activation"
   },
   "Guide": {
     "eyebrow": "Váš průvodce",

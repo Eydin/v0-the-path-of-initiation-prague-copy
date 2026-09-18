@@ -65,7 +65,7 @@
       { "number": "60+", "label": "Țări din întreaga lume" },
       { "number": "Mii", "label": "De vieți transformate" }
     ],
-    "videosHeading": "Urmărește călătoria studenților noștri",
+    "videosHeading": "Urmărește călătoria studenților și profesorilor noștri",
     "wallOfLove": "Zidul iubirii",
     "testimonials": [
       {
@@ -88,20 +88,20 @@
     "intro": "Fiecare pilon se construiește pe cel anterior, creând un sistem complet de evoluție spirituală care a rezistat testului timpului.",
     "items": [
       {
-        "title": "Cunoaștere spirituală",
-        "description": "Aprofundează-ți înțelegerea universului și a legilor metafizice care guvernează întreaga creație. Ai acces la învățături păstrate timp de peste trei milenii de o linie neîntreruptă de inițiați."
+        "title": "Activare",
+        "description": "Trezește-ți ADN-ul și restabilește-ți legătura cu Spiritul tău. Această lucrare începe cu Life Activation și continuă prin Full Spirit Activation."
       },
       {
-        "title": "Magie practică",
-        "description": "Trezește puterile latente din tine și învață să direcționezi energia pentru a crea rezultate tangibile, reale. Aceasta nu este teorie; este aplicarea practică a principiilor universale."
+        "title": "Inițiere",
+        "description": "Purifică și pregătește vasul pentru a primi Lumina pură a Spiritului și a o manifesta fără distorsiune în plan fizic — calea deschisă de Empower Thyself."
       },
       {
-        "title": "Scop divin",
-        "description": "Dezvoltă-ți sufletul și construiește o legătură vie cu Scopul tău Superior. Descoperă de ce ești aici, ce ești menit să creezi și cum să aliniezi fiecare aspect al vieții tale cu adevărata ta chemare."
+        "title": "Studiază și Învață",
+        "description": "Stăpânind artele și științele Sacred Geometry, Astral Travel, Kabbalah și multe altele, devii stăpânul propriei tale vieți fizice."
       },
       {
-        "title": "Modalități de vindecare",
-        "description": "Învață tehnici sacre de vindecare care îți permit să slujești profund altora. Devino un canal al transformării și ajută-i pe alții să-și trezească propriul potențial divin."
+        "title": "Slujirea celorlalți",
+        "description": "Viața nu este completă și nu o poți înțelege pe deplin decât dacă te străduiești și să fii de folos celorlalți. Ghidând, vindecând, învățând și sprijinind în general pe alții în nevoile lor, devii versiunea deplină a ta însuți."
       }
     ]
   },
@@ -121,9 +121,8 @@
   "CTA": {
     "eyebrow": "Invitația ta",
     "heading": "Ești pregătit să pășești pe Cale?",
-    "body": "Ușa este deschisă, dar doar tu poți alege să treci pragul. Dacă simți chemarea, fă primul pas și solicită o consultație personală cu Radu și Diana Coman.",
-    "email": "Email",
-    "whatsapp": "WhatsApp"
+    "body": "Ușa este deschisă, dar doar tu poți alege să treci pragul. Dacă simți chemarea, să începem cu începutul: Life Activation.",
+    "bookLifeActivation": "Rezervă un Life Activation"
   },
   "Guide": {
     "eyebrow": "Ghidul tău",

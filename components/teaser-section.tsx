@@ -40,7 +40,7 @@ export function TeaserSection() {
             <p className="font-serif text-sm tracking-wider text-primary uppercase">
               {t("expectedHeading")}
             </p>
-            <ul className="flex flex-col gap-3 text-left text-sm text-muted-foreground">
+            <ul className="flex flex-col gap-3 text-left text-base text-muted-foreground">
               {expectations.map((item) => (
                 <li key={item} className="flex items-start gap-3">
                   <span className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full bg-primary" />

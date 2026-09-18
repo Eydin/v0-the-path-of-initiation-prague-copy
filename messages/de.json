@@ -65,7 +65,7 @@
       { "number": "60+", "label": "Länder weltweit" },
       { "number": "Tausende", "label": "Verwandelter Leben" }
     ],
-    "videosHeading": "Verfolge die Reise unserer Studenten",
+    "videosHeading": "Verfolge die Reise unserer Studenten und Lehrer",
     "wallOfLove": "Wand der Liebe",
     "testimonials": [
       {
@@ -88,20 +88,20 @@
     "intro": "Jede Säule baut auf der vorherigen auf und bildet ein vollständiges System spiritueller Evolution, das sich über die Zeit bewährt hat.",
     "items": [
       {
-        "title": "Spirituelles Wissen",
-        "description": "Vertiefe dein Verständnis des Universums und der metaphysischen Gesetze, die die gesamte Schöpfung lenken. Erhalte Zugang zu Lehren, die seit über drei Jahrtausenden von einer ununterbrochenen Linie von Initiierten bewahrt werden."
+        "title": "Aktivierung",
+        "description": "Erwecke deine DNA und stelle deine Verbindung zu deinem Geist wieder her. Diese Arbeit beginnt mit der Life Activation und setzt sich fort durch die Full Spirit Activation."
       },
       {
-        "title": "Praktische Magie",
-        "description": "Erwecke schlummernde Kräfte in dir und lerne, Energie zu lenken, um greifbare, reale Ergebnisse zu erzielen. Dies ist keine Theorie; es ist die praktische Anwendung universeller Prinzipien."
+        "title": "Initiation",
+        "description": "Reinige und bereite das Gefäß vor, um das reine Licht des Geistes zu empfangen und es ohne Verzerrung ins Physische zu manifestieren — der Weg, den Empower Thyself eröffnet."
       },
       {
-        "title": "Göttliche Bestimmung",
-        "description": "Entwickle deine Seele und schaffe eine lebendige Verbindung zu deiner Höheren Bestimmung. Entdecke, warum du hier bist, was du erschaffen sollst, und wie du jeden Aspekt deines Lebens mit deiner wahren Berufung in Einklang bringst."
+        "title": "Studieren & Lernen",
+        "description": "Indem du die Künste und Wissenschaften der Sacred Geometry, des Astral Travel, der Kabbalah und vieler weiterer meisterst, wirst du zum Meister deines physischen Lebens."
       },
       {
-        "title": "Heilmethoden",
-        "description": "Erlerne heilige Heiltechniken, die es dir ermöglichen, anderen auf tiefgreifende Weise zu dienen. Werde zu einem Kanal der Verwandlung und hilf anderen, ihr eigenes göttliches Potenzial zu erwecken."
+        "title": "Anderen dienen",
+        "description": "Das Leben ist nicht vollständig, und du kannst es nicht ganz verstehen, wenn du nicht auch danach strebst, anderen zu dienen. Indem du andere führst, heilst, lehrst und in ihren Bedürfnissen unterstützt, wirst du zur vollen Version deiner selbst."
       }
     ]
   },
@@ -121,9 +121,8 @@
   "CTA": {
     "eyebrow": "Deine Einladung",
     "heading": "Bist du bereit, den Pfad zu beschreiten?",
-    "body": "Die Tür steht offen, doch nur du kannst dich entscheiden, hindurchzutreten. Wenn du den Ruf spürst, mach den ersten Schritt und bewirb dich für eine persönliche Beratung mit Radu und Diana Coman.",
-    "email": "E-Mail",
-    "whatsapp": "WhatsApp"
+    "body": "Die Tür steht offen, doch nur du kannst dich entscheiden, hindurchzutreten. Wenn du den Ruf spürst, lass uns mit dem Anfang beginnen: der Life Activation.",
+    "bookLifeActivation": "Life Activation buchen"
   },
   "Guide": {
     "eyebrow": "Dein Guide",
