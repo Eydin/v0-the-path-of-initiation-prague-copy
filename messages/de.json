@@ -892,7 +892,10 @@
         }
       ]
     },
-    "moreJourneys": "Weitere Erfahrungsberichte von Studierenden"
+    "moreJourneys": "Weitere Erfahrungsberichte von Studierenden",
+    "ctaHeading": "Auch deine Reise kann beginnen",
+    "ctaBody": "Jede Geschichte oben begann genauso, wie sie auch für dich beginnen kann — mit einem einzigen ersten Schritt. Die Tür steht offen für alle, die den Ruf spüren.",
+    "ctaButton": "Beginne deine Reise"
   },
   "CertificationsPage": {
     "heading": "Zertifizierungen",
@@ -913,7 +916,10 @@
       "Diana ist außerdem zertifizierte <bold>Life-Activation-Praktikerin und Heilerin</bold>, jährlich rezertifiziert.",
       "Diana hat alle drei Stufen der <bold>Ensofischen Strahlenheilung</bold> abgeschlossen."
     ],
-    "galleryHeading": "Diplome & Zertifikate"
+    "galleryHeading": "Diplome & Zertifikate",
+    "ctaHeading": "Beschreite den Pfad",
+    "ctaBody": "Diese Zertifizierungen sind nicht der eigentliche Punkt — sie sind der Beweis einer treu weitergegebenen Linie, damit das, was dir angeboten wird, authentisch ist. Die Tür steht offen für alle, die den Ruf spüren.",
+    "ctaButton": "Beginne deine Reise"
   },
   "LineagePage": {
     "metaTitle": "Die Linie von König Salomon | Der Pfad der Initiation Prag",

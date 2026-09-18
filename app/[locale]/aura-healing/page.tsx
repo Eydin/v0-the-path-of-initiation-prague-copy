@@ -9,7 +9,6 @@ import {
   Lead,
   Body,
   BenefitList,
-  WhatsAppButton,
   BookingBlock,
 } from "@/components/modality"
 
@@ -54,8 +53,15 @@ export default async function AuraHealing({
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1", { brand: BRAND.sacredGeometry })}</Body>
         <Body>{t("introBody2")}</Body>
-        <div className="border-t border-primary/20 pt-6">
-          <WhatsAppButton text={inquiry} label={t("bookSession")} />
+        <div className="border-t border-primary/20 pt-6 text-center">
+          <a
+            href={STRIPE}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
+          >
+            {t("bookSession")} →
+          </a>
         </div>
       </Panel>
 

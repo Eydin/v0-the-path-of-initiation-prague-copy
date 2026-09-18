@@ -892,7 +892,10 @@
         }
       ]
     },
-    "moreJourneys": "Další cesty studentů"
+    "moreJourneys": "Další cesty studentů",
+    "ctaHeading": "Vaše cesta může začít také",
+    "ctaBody": "Každý příběh výše začal stejně, jako může začít i ten váš — jediným prvním krokem. Dveře jsou otevřené těm, kdo cítí volání.",
+    "ctaButton": "Začněte svou cestu"
   },
   "CertificationsPage": {
     "heading": "Certifikace",
@@ -913,7 +916,10 @@
       "Diana je také certifikována jako <bold>praktička a léčitelka Life Activation</bold>, s každoroční recertifikací.",
       "Diana dokončila všechny tři úrovně <bold>léčení paprskem Ensof</bold>."
     ],
-    "galleryHeading": "Diplomy a certifikáty"
+    "galleryHeading": "Diplomy a certifikáty",
+    "ctaHeading": "Vykročte na cestu",
+    "ctaBody": "Tyto certifikace nejsou samy o sobě cílem — jsou důkazem věrně předávané linie, díky níž je vám nabízeno něco autentického. Dveře jsou otevřené těm, kdo cítí volání.",
+    "ctaButton": "Začněte svou cestu"
   },
   "LineagePage": {
     "metaTitle": "Linie krále Šalomouna | Cesta iniciace Praha",

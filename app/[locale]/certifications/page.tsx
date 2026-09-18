@@ -4,6 +4,9 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import Image from "next/image"
+import { ArrowRight } from "lucide-react"
+
+const LIFE_ACTIVATION_STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
 
 export async function generateMetadata({
   params,
@@ -278,6 +281,32 @@ export default async function Certifications({
                       </div>
                     </a>
                   </div>
+                </div>
+              </ScrollReveal>
+            </div>
+          </section>
+
+          {/* CTA */}
+          <section className="relative py-24 lg:py-32">
+            <div className="mx-auto max-w-2xl px-6 text-center">
+              <ScrollReveal>
+                <div className="bg-muted/60 backdrop-blur-sm border border-primary/20 rounded-lg p-12 md:p-16">
+                  <div className="mx-auto mb-6 h-px w-16 bg-primary/60" />
+                  <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
+                    {t("ctaHeading")}
+                  </h2>
+                  <p className="mx-auto mb-10 max-w-xl text-lg leading-relaxed text-muted-foreground">
+                    {t("ctaBody")}
+                  </p>
+                  <a
+                    href={LIFE_ACTIVATION_STRIPE}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
+                  >
+                    {t("ctaButton")}
+                    <ArrowRight className="h-4 w-4" />
+                  </a>
                 </div>
               </ScrollReveal>
             </div>

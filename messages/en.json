@@ -931,7 +931,10 @@
         }
       ]
     },
-    "moreJourneys": "More Student Journeys"
+    "moreJourneys": "More Student Journeys",
+    "ctaHeading": "Your Journey Can Begin Too",
+    "ctaBody": "Every story above started the same way it can for you — with a single first step. The door is open to those who feel the call.",
+    "ctaButton": "Begin Your Journey"
   },
   "CertificationsPage": {
     "heading": "Certifications",
@@ -952,7 +955,10 @@
       "Diana is also certified as a <bold>Life Activation Practitioner and Healer</bold>, recertified annually.",
       "Diana has completed all three levels of <bold>Ensofic Ray Healing</bold>."
     ],
-    "galleryHeading": "Diplomas & Certificates"
+    "galleryHeading": "Diplomas & Certificates",
+    "ctaHeading": "Walk the Path",
+    "ctaBody": "These certifications are not the point — they are the proof of a lineage faithfully carried, so that what is offered to you is authentic. The door is open to those who feel the call.",
+    "ctaButton": "Begin Your Journey"
   },
   "LineagePage": {
     "metaTitle": "The Lineage of King Salomon | The Path of Initiation Prague",

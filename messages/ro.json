@@ -892,7 +892,10 @@
         }
       ]
     },
-    "moreJourneys": "Mai multe călătorii ale studenților"
+    "moreJourneys": "Mai multe călătorii ale studenților",
+    "ctaHeading": "Călătoria ta poate începe și ea",
+    "ctaBody": "Fiecare poveste de mai sus a început la fel cum poate începe și a ta — cu un singur prim pas. Ușa este deschisă celor care simt chemarea.",
+    "ctaButton": "Începe-ți călătoria"
   },
   "CertificationsPage": {
     "heading": "Certificări",
@@ -913,7 +916,10 @@
       "Diana este de asemenea certificată ca <bold>Practiciană și Vindecătoare Life Activation</bold>, recertificată anual.",
       "Diana a finalizat toate cele trei niveluri de <bold>Vindecare cu raza Ensofică</bold>."
     ],
-    "galleryHeading": "Diplome și certificate"
+    "galleryHeading": "Diplome și certificate",
+    "ctaHeading": "Pășește pe Cale",
+    "ctaBody": "Aceste certificări nu sunt scopul în sine — sunt dovada unei linii transmise cu fidelitate, astfel încât ceea ce ți se oferă să fie autentic. Ușa este deschisă celor care simt chemarea.",
+    "ctaButton": "Începe-ți călătoria"
   },
   "LineagePage": {
     "metaTitle": "Linia Regelui Solomon | Calea Inițierii Praga",

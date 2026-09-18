@@ -4,6 +4,9 @@ import { getTranslations } from "next-intl/server"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
+import { ArrowRight } from "lucide-react"
+
+const LIFE_ACTIVATION_STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
 
 export async function generateMetadata({
   params,
@@ -149,6 +152,29 @@ export default async function Testimonials({
             </div>
           </div>
         </ScrollReveal>
+
+        <div className="relative mx-auto max-w-7xl px-6 py-16 border-t border-border">
+          <ScrollReveal>
+            <div className="mx-auto max-w-2xl border border-border bg-card p-8 md:p-12 text-center">
+              <div className="mx-auto mb-6 h-px w-16 bg-primary/60" />
+              <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
+                {t("ctaHeading")}
+              </h2>
+              <p className="mx-auto mb-10 text-lg leading-relaxed text-muted-foreground">
+                {t("ctaBody")}
+              </p>
+              <a
+                href={LIFE_ACTIVATION_STRIPE}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
+              >
+                {t("ctaButton")}
+                <ArrowRight className="h-4 w-4" />
+              </a>
+            </div>
+          </ScrollReveal>
+        </div>
       </main>
       <Footer />
     </>
