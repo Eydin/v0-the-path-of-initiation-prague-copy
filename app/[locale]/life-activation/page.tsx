@@ -52,7 +52,7 @@ export default async function LifeActivation({
   }))
 
   return (
-    <ModalityShell bg="bethesda-bloch.jpg" position="center 18%">
+    <ModalityShell bg="life-activation.jpg" position="center 40%">
       <ModalityHero
         eyebrow={t("heroEyebrow")}
         title={BRAND.lifeActivation}
