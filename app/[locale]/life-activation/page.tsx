@@ -29,7 +29,7 @@ export async function generateMetadata({
   return {
     title,
     description,
-    openGraph: { title, description, images: [{ url: "/images/art/bethesda-bloch.jpg", width: 1200, height: 630 }] },
+    openGraph: { title, description, images: [{ url: "/images/art/life-activation.jpg", width: 1200, height: 630 }] },
   }
 }
 
@@ -52,7 +52,7 @@ export default async function LifeActivation({
   }))
 
   return (
-    <ModalityShell bg="life-activation.jpg" position="center 40%">
+    <ModalityShell bg="bethesda-bloch.jpg" position="center 18%">
       <ModalityHero
         eyebrow={t("heroEyebrow")}
         title={BRAND.lifeActivation}
