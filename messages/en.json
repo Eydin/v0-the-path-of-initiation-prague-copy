@@ -58,6 +58,11 @@
     "heading": "Next Dates in Prague",
     "seeFullCalendar": "See the full calendar"
   },
+  "CalendarWidget": {
+    "heading": "Explore Our Calendar",
+    "body": "See every activation, initiation, workshop and community gathering coming up in Prague.",
+    "button": "View Calendar"
+  },
   "Facts": {
     "heading": "A Legacy That Speaks for Itself",
     "stats": [

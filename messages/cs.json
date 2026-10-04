@@ -58,6 +58,11 @@
     "heading": "Nejbližší termíny v Praze",
     "seeFullCalendar": "Zobrazit celý kalendář"
   },
+  "CalendarWidget": {
+    "heading": "Prozkoumejte náš kalendář",
+    "body": "Podívejte se na všechny nadcházející aktivace, zasvěcení, workshopy a komunitní setkání v Praze.",
+    "button": "Zobrazit kalendář"
+  },
   "Facts": {
     "heading": "Odkaz, který mluví sám za sebe",
     "stats": [

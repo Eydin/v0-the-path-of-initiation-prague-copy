@@ -58,6 +58,11 @@
     "heading": "Următoarele date în Praga",
     "seeFullCalendar": "Vezi calendarul complet"
   },
+  "CalendarWidget": {
+    "heading": "Explorează Calendarul Nostru",
+    "body": "Vezi toate activările, inițierile, atelierele și întâlnirile comunitare care urmează în Praga.",
+    "button": "Vezi Calendarul"
+  },
   "Facts": {
     "heading": "Un legat care vorbește de la sine",
     "stats": [

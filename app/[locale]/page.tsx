@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl"
 import { Header } from "@/components/header"
 import { HeroSection } from "@/components/hero-section"
+import { CalendarWidgetSection } from "@/components/calendar-widget-section"
 import { FactsSection } from "@/components/facts-section"
 import { PillarsSection } from "@/components/pillars-section"
 import { TeaserSection } from "@/components/teaser-section"
@@ -21,6 +22,7 @@ export default function Home() {
       <main className="relative">
         <div aria-hidden className="pointer-events-none absolute inset-0 -z-10 magnum-opus-gradient" />
         <HeroSection />
+        <CalendarWidgetSection />
         <FactsSection />
         <PillarsSection />
 

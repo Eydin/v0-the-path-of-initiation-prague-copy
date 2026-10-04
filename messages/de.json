@@ -58,6 +58,11 @@
     "heading": "Nächste Termine in Prag",
     "seeFullCalendar": "Zum vollständigen Kalender"
   },
+  "CalendarWidget": {
+    "heading": "Entdecke unseren Kalender",
+    "body": "Sieh dir alle anstehenden Aktivierungen, Initiationen, Workshops und Community-Treffen in Prag an.",
+    "button": "Kalender ansehen"
+  },
   "Facts": {
     "heading": "Ein Vermächtnis, das für sich spricht",
     "stats": [
