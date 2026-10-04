@@ -11,6 +11,13 @@ import {
   parseLocalDate,
 } from "@/lib/schedule"
 
+// This page statically filters SCHEDULE down to "today or later" — without
+// forcing dynamic rendering, that filter runs once at build/deploy time and
+// freezes "today" to that moment, so past events silently stop being
+// filtered out until the next deploy. Must stay dynamic so it re-evaluates
+// on every request.
+export const dynamic = "force-dynamic"
+
 export async function generateMetadata({
   params,
 }: {
