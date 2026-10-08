@@ -83,7 +83,7 @@ export const SCHEDULE: ScheduledClass[] = [
     time: "09:30",
     duration: "Multi-Day Program",
     dates: [
-      "2026-10-8",
+      "2026-10-08",
       "2027-03-12"
     ],
   },
