@@ -8,6 +8,7 @@ import { TeaserSection } from "@/components/teaser-section"
 import { CTASection } from "@/components/cta-section"
 import { GuideSection } from "@/components/guide-section"
 import { ClassesSection } from "@/components/classes-section"
+import { FAQSection } from "@/components/faq-section"
 import { EndingSection } from "@/components/ending-section"
 import { Footer } from "@/components/footer"
 import { HallOfInitiates } from "@/components/hall-of-initiates"
@@ -25,6 +26,7 @@ export default function Home() {
         <CalendarWidgetSection />
         <FactsSection />
         <PillarsSection />
+        <FAQSection />
 
         <QuoteBreaker
           image="ascent-blessed-bosch.jpg"

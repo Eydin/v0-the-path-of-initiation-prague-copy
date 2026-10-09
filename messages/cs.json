@@ -162,6 +162,32 @@
     ],
     "learnMore": "Zjistit více"
   },
+  "FAQ": {
+    "eyebrow": "Než začnete",
+    "heading": "Často kladené otázky",
+    "items": [
+      {
+        "q": "Jsem v tomhle nový/á — kde mám začít?",
+        "a": "Začněte s Life Activation — jemným, zásadním vstupním bodem, který nevyžaduje žádné předchozí znalosti ani duchovní zkušenosti. Pokud chcete nejprve poradit, ozvěte se na WhatsApp a Radu nebo Diana vám pomohou najít správný první krok."
+      },
+      {
+        "q": "Co je Modern Mystery School a linie krále Šalomouna?",
+        "a": "Duchovní linie sahající více než 3 000 let zpět, předávaná z ruky do ruky prostřednictvím zasvěcení, nikoli psanou formou — nejde o nic, co vzniklo přes noc, ale o systém předávaný neporušený z učitele na žáka, zdokonalovaný po mnoho generací."
+      },
+      {
+        "q": "Musím něčemu konkrétnímu věřit, aby to fungovalo?",
+        "a": "Ne. Klidně si přineste své pochybnosti — většina lidí, kteří se vydali na tuto cestu, je na začátku měla také. Nepotřebujete žádný konkrétní systém víry, jen ochotu přijít, přijímat s otevřenou myslí a odvést práci, která je vám předložena, abyste na vlastní kůži zažili proměnu."
+      },
+      {
+        "q": "Čím se to liší od terapie nebo koučování?",
+        "a": "Jde o duchovní a energetickou práci, nikoli o lékařskou či psychologickou službu — nenahrazuje terapii ani žádnou léčbu předepsanou lékařem. Mnoho lidí využívá obojí současně."
+      },
+      {
+        "q": "Jak poznám, které sezení je pro mě to pravé?",
+        "a": "Ozvěte se na WhatsApp a stručně popište, co právě prožíváte — Radu a Diana vás provedou k pochopení toho, co vám ve vaší aktuální situaci přinese největší prospěch."
+      }
+    ]
+  },
   "Ending": {
     "eyebrow": "Kde se setkávají všechny světy",
     "heading": "Spojení starověku, vesmíru a moderní doby",

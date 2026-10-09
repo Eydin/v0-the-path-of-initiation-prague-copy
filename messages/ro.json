@@ -162,6 +162,32 @@
     ],
     "learnMore": "Află mai multe"
   },
+  "FAQ": {
+    "eyebrow": "Înainte să începi",
+    "heading": "Întrebări frecvente",
+    "items": [
+      {
+        "q": "Sunt nou/nouă în acest domeniu — de unde ar trebui să încep?",
+        "a": "Începe cu un Life Activation — un punct de intrare blând și profund, care nu necesită cunoștințe anterioare sau un fundal spiritual. Dacă vrei îndrumare mai întâi, scrie pe WhatsApp, iar Radu sau Diana te vor ajuta să găsești primul pas potrivit."
+      },
+      {
+        "q": "Ce este Modern Mystery School și linia regelui Solomon?",
+        "a": "O linie spirituală care datează de peste 3.000 de ani, transmisă din mână în mână prin inițiere, nu doar prin învățătură scrisă — nu este ceva apărut peste noapte, ci un sistem transmis intact de la profesor la elev, rafinat de-a lungul multor generații."
+      },
+      {
+        "q": "Trebuie să cred în ceva anume pentru ca asta să funcționeze?",
+        "a": "Nu. Poți veni cu îndoielile tale, dacă le ai — majoritatea celor care pășesc pe această cale le-au avut și ei la început. Nu ai nevoie de un anumit sistem de credințe, ci doar de dorința de a te prezenta, de a primi cu mintea deschisă și de a face munca ce îți este prezentată, pentru a trăi tu însuți transformarea."
+      },
+      {
+        "q": "Cu ce este diferit de terapie sau coaching?",
+        "a": "Aceasta este o lucrare spirituală și energetică, nu un serviciu medical sau psihologic — nu înlocuiește terapia sau orice tratament prescris de un medic. Mulți oameni fac ambele, în paralel."
+      },
+      {
+        "q": "Cum știu care ședință este potrivită pentru mine?",
+        "a": "Scrie pe WhatsApp și povestește puțin ce se întâmplă — Radu și Diana te vor ghida să înțelegi ce te va ajuta cel mai mult în situația ta actuală."
+      }
+    ]
+  },
   "Ending": {
     "eyebrow": "Unde se întâlnesc toate lumile",
     "heading": "Punte între vechi, universal și modern",

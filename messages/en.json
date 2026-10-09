@@ -162,6 +162,32 @@
     ],
     "learnMore": "Learn More"
   },
+  "FAQ": {
+    "eyebrow": "Before You Begin",
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "I'm new to this — where should I start?",
+        "a": "Begin with a Life Activation — a gentle, profound entry point that needs no prior knowledge or spiritual background. If you'd like guidance first, reach out on WhatsApp and Radu or Diana will help you find the right first step."
+      },
+      {
+        "q": "What is the Modern Mystery School, and the lineage of King Salomon?",
+        "a": "A spiritual lineage tracing back over 3,000 years, carried hand to hand through initiation rather than written teaching alone — not a recent pop-up, but a system handed down intact from teacher to student, refined for many generations."
+      },
+      {
+        "q": "Do I need to believe in anything specific for this to work?",
+        "a": "No. Bring your doubts with you if you have them — most people who walk this path did too, when they started. You don't need a particular belief system, only a willingness to show up, receive with an open mind and do the work that is presented to you to experience the transformation for yourself."
+      },
+      {
+        "q": "How is this different from therapy or coaching?",
+        "a": "This is spiritual and energetic work, not a medical or psychological service — it doesn't replace therapy or any treatment prescribed by a doctor. Many people do both, side by side."
+      },
+      {
+        "q": "How do I know which session is right for me?",
+        "a": "Reach out on WhatsApp and share a little about what's going on — Radu and Diana will guide you to understand what will benefit you the most in your current situation."
+      }
+    ]
+  },
   "Ending": {
     "eyebrow": "Where All Worlds Meet",
     "heading": "Bridging the Ancient, the Universal, and the Modern",

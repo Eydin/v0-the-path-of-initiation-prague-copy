@@ -162,6 +162,32 @@
     ],
     "learnMore": "Mehr erfahren"
   },
+  "FAQ": {
+    "eyebrow": "Bevor du beginnst",
+    "heading": "Häufig gestellte Fragen",
+    "items": [
+      {
+        "q": "Ich bin neu in diesem Bereich — wo sollte ich anfangen?",
+        "a": "Beginne mit einer Life Activation — einem sanften, tiefgreifenden Einstiegspunkt, der keine Vorkenntnisse oder spirituellen Hintergrund erfordert. Wenn du zuerst eine Orientierung möchtest, melde dich auf WhatsApp, und Radu oder Diana helfen dir, den richtigen ersten Schritt zu finden."
+      },
+      {
+        "q": "Was ist die Modern Mystery School, und die Linie von König Salomon?",
+        "a": "Eine spirituelle Linie, die über 3.000 Jahre zurückreicht und von Hand zu Hand durch Initiation weitergegeben wird, statt nur in schriftlicher Lehre — nicht über Nacht entstanden, sondern ein System, das unversehrt von Lehrer zu Schüler weitergereicht wird, verfeinert über viele Generationen hinweg."
+      },
+      {
+        "q": "Muss ich an etwas Bestimmtes glauben, damit das wirkt?",
+        "a": "Nein. Bring ruhig deine Zweifel mit, falls du welche hast — die meisten, die diesen Weg gehen, hatten sie am Anfang auch. Du brauchst kein bestimmtes Glaubenssystem, nur die Bereitschaft, dich zu zeigen, mit offenem Geist anzunehmen und die Arbeit zu tun, die dir vorgelegt wird, um die Verwandlung selbst zu erfahren."
+      },
+      {
+        "q": "Wie unterscheidet sich das von Therapie oder Coaching?",
+        "a": "Dies ist spirituelle und energetische Arbeit, kein medizinischer oder psychologischer Dienst — sie ersetzt keine Therapie oder ärztlich verordnete Behandlung. Viele Menschen nutzen beides nebeneinander."
+      },
+      {
+        "q": "Woher weiß ich, welche Sitzung die richtige für mich ist?",
+        "a": "Melde dich auf WhatsApp und erzähle kurz, was gerade bei dir los ist — Radu und Diana helfen dir zu verstehen, was dir in deiner aktuellen Situation am meisten nützt."
+      }
+    ]
+  },
   "Ending": {
     "eyebrow": "Wo sich alle Welten begegnen",
     "heading": "Die Brücke zwischen dem Alten, dem Universellen und dem Modernen",
