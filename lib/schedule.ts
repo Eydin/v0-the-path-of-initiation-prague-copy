@@ -101,8 +101,8 @@ export const SCHEDULE: ScheduledClass[] = [
     category: "Workshop",
     title: "Sacred Geometry",
     location: "Prague, CZ",
-    time: "14:00",
-    duration: "Workshop - 5 Hours",
+    time: "10:00",
+    duration: "Workshop - 4.5 Hours",
     dates: [
       "2026-07-11",
       "2026-09-12",
@@ -147,8 +147,8 @@ export const SCHEDULE: ScheduledClass[] = [
     category: "Workshop",
     title: "Astral Travel",
     location: "Prague, CZ",
-    time: "14:00",
-    duration: "Workshop - 5 Hours",
+    time: "10:00",
+    duration: "Workshop - 4.5 Hours",
     dates: [
       "2026-09-19",
       "2026-11-01",
