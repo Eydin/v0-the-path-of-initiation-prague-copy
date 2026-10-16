@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Samhain Weekend Prague</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Jost:wght@300;400;500&display=swap">
+<style>
+:root{
+  --bg:#0b0807; --bg2:#120d0b; --ink:#f2eadb; --muted:#b4a692; --gold:#cfae72; --gold-soft:rgba(207,174,114,.28);
+  --burg:#5b1c29; --burg2:#3a111a; --btn-fg:#140e0a; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:'Jost',system-ui,sans-serif;font-weight:300;font-size:17px;line-height:1.7;margin:0;overflow-x:hidden}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.07;z-index:5;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>")}
+.in{max-width:1040px;margin:0 auto;padding-left:max(20px,env(safe-area-inset-left,0px));padding-right:max(20px,env(safe-area-inset-right,0px))}
+h1,h2,h3{font-family:'Cormorant Garamond',Georgia,serif;font-weight:400;margin:0;text-wrap:balance;line-height:1.05}
+.eyebrow{font-size:11.5px;letter-spacing:.34em;text-transform:uppercase;color:var(--gold);font-weight:400}
+.rule{display:flex;align-items:center;gap:14px;color:var(--gold);justify-content:center}
+.rule::before,.rule::after{content:"";height:1px;width:64px;background:linear-gradient(90deg,transparent,var(--gold))}
+.rule::after{transform:scaleX(-1)}
+.rule i{width:7px;height:7px;transform:rotate(45deg);border:1px solid var(--gold)}
+/* top */
+.nav{display:flex;justify-content:space-between;align-items:center;padding-block:26px;position:relative;z-index:3}
+.brand{font-family:'Cormorant Garamond',serif;letter-spacing:.3em;text-transform:uppercase;font-size:13px}
+/* hero */
+.hero{position:relative;overflow:hidden;text-align:center;padding-block:40px 110px;
+  background:radial-gradient(ellipse 60% 55% at 50% 38%,rgba(207,174,114,.20),rgba(91,28,41,.16) 45%,transparent 72%),var(--bg)}
+.geo{position:absolute;left:50%;top:44%;width:min(900px,140vw);transform:translate(-50%,-50%);color:var(--gold);opacity:.22;animation:turn 240s linear infinite;pointer-events:none}
+@keyframes turn{to{transform:translate(-50%,-50%) rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.geo{animation:none}}
+.hero .in{position:relative;z-index:2}
+.hero h1{font-size:clamp(46px,9.5vw,112px);font-weight:300;letter-spacing:-.01em;margin:26px auto 26px;max-width:12ch}
+.hero h1 em{font-style:italic;color:var(--gold);font-weight:400}
+.hero .lead{max-width:50ch;margin:0 auto 38px;color:var(--muted);font-size:19px}
+.dates{display:inline-flex;gap:22px;flex-wrap:wrap;justify-content:center;margin-bottom:38px;font-family:'Cormorant Garamond',serif;font-size:22px;font-style:italic}
+.dates span{display:flex;gap:10px;align-items:center}
+.dates b{font-weight:400;color:var(--gold)}
+.btn{display:inline-block;padding:16px 34px;background:var(--gold);color:var(--btn-fg);text-decoration:none;letter-spacing:.2em;text-transform:uppercase;font-size:12px;font-weight:500;border:1px solid var(--gold);transition:.25s}
+.btn:hover{background:transparent;color:var(--gold)}
+.btn.ghost{background:transparent;color:var(--gold)}
+.btn.ghost:hover{background:var(--gold);color:var(--btn-fg)}
+/* classes */
+.cls{position:relative;padding-block:96px;border-top:1px solid var(--gold-soft)}
+.cls.alt{background:linear-gradient(180deg,var(--bg2),var(--bg))}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:72px;align-items:center}
+.cols>*{min-width:0}
+.cls.flip .cols>.txt{order:2}
+@media(max-width:820px){.cols{grid-template-columns:1fr;gap:40px}.cls.flip .cols>.txt{order:0}.cls{padding-block:72px}}
+.num{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:clamp(70px,12vw,140px);line-height:.8;color:transparent;-webkit-text-stroke:1px var(--gold-soft);display:block;margin-bottom:6px}
+.cls h2{font-size:clamp(40px,6.5vw,72px);font-weight:300;margin:10px 0 12px}
+.cls h2 em{font-style:italic;color:var(--gold)}
+.when{font-family:'Cormorant Garamond',serif;font-size:22px;font-style:italic;color:var(--gold);margin:0 0 22px}
+.txt p{margin:0 0 16px}
+.txt p.dim{color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin:24px 0 30px;padding:0;list-style:none}
+.chips li{border:1px solid var(--gold-soft);padding:7px 16px;font-size:13px;letter-spacing:.06em;color:var(--muted);border-radius:99px}
+/* arch video */
+.arch{position:relative;aspect-ratio:4/5;max-width:100%;width:min(100%,440px);margin:0 auto;border-radius:999px 999px 6px 6px;overflow:hidden;
+  border:1px solid var(--gold);box-shadow:0 0 0 8px var(--bg),0 0 0 9px var(--gold-soft),0 30px 80px rgba(0,0,0,.6),0 0 120px rgba(207,174,114,.10);
+  background:radial-gradient(circle at 50% 35%,rgba(207,174,114,.25),var(--burg2) 55%,#0b0807)}
+.arch .geo2{position:absolute;inset:0;margin:auto;width:130%;left:-15%;top:-5%;color:var(--gold);opacity:.35}
+.arch iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.vcard{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:10px;text-decoration:none;color:var(--ink);text-align:center;padding:0 20px 48px}
+.vcard .play{width:76px;height:76px;border-radius:50%;border:1px solid var(--gold);display:grid;place-items:center;background:rgba(11,8,7,.45);transition:.25s;margin-bottom:6px}
+.vcard:hover .play{background:var(--gold)}
+.play::after{content:"";border-left:17px solid var(--gold);border-top:11px solid transparent;border-bottom:11px solid transparent;margin-left:5px}
+.vcard:hover .play::after{border-left-color:var(--btn-fg)}
+.vcard small{letter-spacing:.3em;text-transform:uppercase;color:var(--gold);font-size:10.5px}
+.vcard span.t{font-family:'Cormorant Garamond',serif;font-size:26px;font-style:italic}
+.badge{position:absolute;top:26px;left:50%;transform:translateX(-50%);z-index:2;background:var(--gold);color:var(--btn-fg);font-size:10.5px;letter-spacing:.3em;text-transform:uppercase;font-weight:500;padding:8px 18px;white-space:nowrap}
+.learn{list-style:none;padding:0;margin:22px 0 8px;border-top:1px solid var(--gold-soft)}
+.learn li{padding:12px 0 12px 30px;border-bottom:1px solid var(--gold-soft);position:relative;color:var(--ink);font-size:16px}
+.learn li::before{content:"";position:absolute;left:4px;top:21px;width:7px;height:7px;transform:rotate(45deg);border:1px solid var(--gold)}
+.sub{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:21px;color:var(--gold);margin:26px 0 0}
+.path{display:flex;justify-content:center;align-items:center;gap:18px;flex-wrap:wrap;margin:30px 0 34px;font-family:'Cormorant Garamond',serif;font-size:24px;font-style:italic}
+.path b{font-weight:400;color:var(--gold)}
+.path i{width:46px;height:1px;background:var(--gold)}
+.both .btns{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:30px}
+
+.badge{z-index:7}
+.curtain{position:absolute;inset:0;z-index:5;display:flex;pointer-events:auto}
+.curtain .c{position:relative;width:50.5%;height:100%;transition:transform 1.5s cubic-bezier(.77,0,.18,1);
+  background:
+    repeating-linear-gradient(90deg,rgba(0,0,0,.38) 0 7px,rgba(255,255,255,.05) 7px 14px,rgba(0,0,0,.2) 14px 24px),
+    linear-gradient(180deg,#6b1f2e,#4a1220 60%,#2d0a13);
+  box-shadow:inset 0 0 60px rgba(0,0,0,.55)}
+.curtain .c.l{transform-origin:left;border-right:1px solid var(--gold)}
+.curtain .c.r{border-left:1px solid var(--gold);margin-left:-1px}
+.curtain .c::after{content:"";position:absolute;left:0;right:0;bottom:0;height:12px;background:repeating-linear-gradient(90deg,var(--gold) 0 2px,transparent 2px 7px);opacity:.7}
+.curtain .hint{position:absolute;left:50%;bottom:78px;transform:translateX(-50%);z-index:2;text-align:center;font-family:'Cormorant Garamond',serif;font-style:italic;font-size:22px;color:var(--gold);transition:opacity .5s;pointer-events:none;width:80%;text-shadow:0 2px 12px rgba(0,0,0,.8)}
+.curtain .hint small{display:block;font-family:'Jost',sans-serif;font-style:normal;font-size:10.5px;letter-spacing:.3em;text-transform:uppercase;margin-top:6px;color:var(--ink);opacity:.8}
+.arch:hover .c.l,.arch.open .c.l,.arch:focus-within .c.l{transform:translateX(-102%)}
+.arch:hover .c.r,.arch.open .c.r,.arch:focus-within .c.r{transform:translateX(102%)}
+.arch:hover .hint,.arch.open .hint,.arch:focus-within .hint{opacity:0}
+.arch:hover .curtain,.arch.open .curtain,.arch:focus-within .curtain{pointer-events:none}
+@media (prefers-reduced-motion:reduce){.curtain .c{transition-duration:.01s}}
+.bgvid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.9}
+.vshade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,8,7,.25) 0%,rgba(11,8,7,0) 35%,rgba(11,8,7,.8) 100%)}
+button.vcard{background:none;border:0;cursor:pointer;font:inherit;width:100%}
+.cap{text-align:center;color:var(--muted);font-size:13px;letter-spacing:.08em;margin:22px 0 0}
+/* both */
+.both{background:linear-gradient(135deg,var(--burg2),var(--burg) 55%,var(--burg2));padding-block:70px;text-align:center;border-block:1px solid var(--gold-soft)}
+.both h2{font-size:clamp(30px,5vw,54px);font-weight:300;max-width:20ch;margin:16px auto 14px}
+.both h2 em{font-style:italic;color:var(--gold)}
+.both p{max-width:46ch;margin:0 auto;color:#e3d3c2}
+/* practical */
+.prac{padding-block:90px}
+.prac h2{text-align:center;font-size:clamp(34px,5vw,56px);font-weight:300;margin:18px 0 52px}
+.pg{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:0}
+.pg>div{padding:6px 24px;border-left:1px solid var(--gold-soft)}
+.pg>div:first-child{border-left:0}
+@media(max-width:720px){.pg>div{border-left:0;border-top:1px solid var(--gold-soft);padding:20px 0}.pg>div:first-child{border-top:0}}
+.pg h3{font-size:26px;font-style:italic;color:var(--gold);margin-bottom:6px;font-weight:400}
+.pg p{margin:0;color:var(--muted);font-size:15.5px}
+/* final */
+.final{position:relative;overflow:hidden;text-align:center;padding-block:110px;border-top:1px solid var(--gold-soft);
+  background:radial-gradient(ellipse 55% 70% at 50% 100%,rgba(207,174,114,.22),transparent 70%),var(--bg)}
+.final h2{font-size:clamp(38px,7vw,84px);font-weight:300;max-width:14ch;margin:20px auto 20px}
+.final h2 em{font-style:italic;color:var(--gold)}
+.final p{max-width:46ch;margin:0 auto 36px;color:var(--muted);font-size:18px}
+footer{padding-block:34px 44px;text-align:center;font-size:12.5px;letter-spacing:.1em;color:var(--muted);border-top:1px solid var(--gold-soft)}
+footer a{color:var(--muted)}
+</style>
+</head><body>
+
+<div class="hero">
+  <svg class="geo" viewBox="0 0 400 400" fill="none" stroke="currentColor" stroke-width=".6" aria-hidden="true"><g><circle cx="200.0" cy="200.0" r="58"/><circle cx="258.0" cy="200.0" r="58"/><circle cx="229.0" cy="250.2" r="58"/><circle cx="171.0" cy="250.2" r="58"/><circle cx="142.0" cy="200.0" r="58"/><circle cx="171.0" cy="149.8" r="58"/><circle cx="229.0" cy="149.8" r="58"/><circle cx="316.0" cy="200.0" r="58"/><circle cx="258.0" cy="300.5" r="58"/><circle cx="142.0" cy="300.5" r="58"/><circle cx="84.0" cy="200.0" r="58"/><circle cx="142.0" cy="99.5" r="58"/><circle cx="258.0" cy="99.5" r="58"/><circle cx="287.0" cy="250.2" r="58"/><circle cx="200.0" cy="300.5" r="58"/><circle cx="113.0" cy="250.2" r="58"/><circle cx="113.0" cy="149.8" r="58"/><circle cx="200.0" cy="99.5" r="58"/><circle cx="287.0" cy="149.8" r="58"/></g><circle cx="200" cy="200" r="174"/><circle cx="200" cy="200" r="196"/></svg>
+  <div class="in">
+    <div class="nav"><span class="brand">The Path of Initiation</span><span class="eyebrow">Prague</span></div>
+    <div style="margin-top:46px" class="eyebrow">Samhain weekend · Two small-group classes</div>
+    <h1>When the veil gets thin, the <em>light</em> gets closer.</h1>
+    <p class="lead">Samhain, the original Halloween. Join Diana &amp; Radu Coman in Prague for two classes in English. Watch a short free video first, then choose the door that calls you.</p>
+    <div class="dates"><span><b>I</b> Sat 31 Oct · Sacred Geometry</span><span><b>II</b> Sun 1 Nov · Astral Travel</span></div><br>
+    <a class="btn" href="#classes">Enter</a>
+  </div>
+</div>
+
+<div id="classes"></div>
+<section class="cls">
+  <div class="in"><div class="cols">
+    <div class="txt">
+      <span class="num">I</span>
+      <div class="eyebrow">Saturday · 31 October</div>
+      <h2>Sacred <em>Geometry</em></h2>
+      <p class="when">10:00–14:30 · Our Studio, Vršovice</p>
+      <p>Sacred Geometry is the pattern behind all life. In a hands-on half day with Diana &amp; Radu Coman, you learn to work with it to lift your own energy and raise your frequency.</p>
+      <p class="dim">It is not about one symbol. It is about life itself: the foundation of how everything came into existence, and how you can use these energies for yourself.</p>
+      <p class="sub">In the class you will</p>
+      <ul class="learn">
+        <li>Recognise the basic geometric forms and the quality each one carries</li>
+        <li>Learn to work with them deliberately, not just admire them</li>
+        <li>Clear, protect and consecrate a space: your home, your practice, or yourself</li>
+        <li>Use geometry for focus, meditation, manifestation and healing</li>
+        <li>Start to see the hidden order in everyday life</li>
+      </ul>
+      <ul class="chips"><li>Small group</li><li>In English</li><li>Short breaks &amp; tea</li></ul>
+      <a class="btn" href="https://wa.me/420792908296?text=Hi%20Diana%20%26%20Radu%2C%20I%27d%20like%20to%20join%20the%20Sacred%20Geometry%20class%20on%20Sat%2031%20Oct.%20Is%20there%20a%20seat%3F" target="_blank" rel="noopener">Ask about a seat</a>
+    </div>
+    <div>
+      <div class="arch"><span class="badge">Your free video</span><div class="curtain" aria-hidden="true"><div class="c l"></div><div class="c r"></div><div class="hint">Open the curtain<small class="h-hover">Hover to reveal</small></div></div><svg class="geo2" viewBox="0 0 400 400" fill="none" stroke="currentColor" stroke-width=".6" aria-hidden="true"><g><circle cx="200.0" cy="200.0" r="58"/><circle cx="258.0" cy="200.0" r="58"/><circle cx="229.0" cy="250.2" r="58"/><circle cx="171.0" cy="250.2" r="58"/><circle cx="142.0" cy="200.0" r="58"/><circle cx="171.0" cy="149.8" r="58"/><circle cx="229.0" cy="149.8" r="58"/><circle cx="316.0" cy="200.0" r="58"/><circle cx="258.0" cy="300.5" r="58"/><circle cx="142.0" cy="300.5" r="58"/><circle cx="84.0" cy="200.0" r="58"/><circle cx="142.0" cy="99.5" r="58"/><circle cx="258.0" cy="99.5" r="58"/><circle cx="287.0" cy="250.2" r="58"/><circle cx="200.0" cy="300.5" r="58"/><circle cx="113.0" cy="250.2" r="58"/><circle cx="113.0" cy="149.8" r="58"/><circle cx="200.0" cy="99.5" r="58"/><circle cx="287.0" cy="149.8" r="58"/></g><circle cx="200" cy="200" r="174"/><circle cx="200" cy="200" r="196"/></svg><button type="button" class="vcard" data-yt="https://www.youtube-nocookie.com/embed/Ed98-n2Tong?start=116&rel=0&autoplay=1" aria-label="Play the Sacred Geometry video"><span class="play"></span><small>Press play</small><span class="t">Sacred Geometry</span></button></div>
+      <p class="cap">Free video · see what we will do in class</p>
+    </div>
+  </div></div>
+</section>
+
+<section class="cls alt flip">
+  <div class="in"><div class="cols">
+    <div class="txt">
+      <span class="num">II</span>
+      <div class="eyebrow">Sunday · The night after Samhain</div>
+      <h2>Astral <em>Travel</em></h2>
+      <p class="when">10:00–14:30 · Our Studio, Vršovice</p>
+      <p>A guided class in the same studio, the day after the veil is at its thinnest. Astral Travel is the conscious projection of your awareness beyond the physical body.</p>
+      <p class="dim">Sacred Geometry gives you the pattern. Astral Travel takes you through the door.</p>
+      <p class="sub">In the class you will</p>
+      <ul class="learn">
+        <li>Understand the structure of the subtle planes</li>
+        <li>Practise leaving and re-entering the body, with protection</li>
+        <li>Move with intention and meet your guides</li>
+        <li>Return to ordinary awareness and apply what you learned</li>
+      </ul>
+      <ul class="chips"><li>Small group</li><li>In English</li><li>Short breaks &amp; tea</li></ul>
+      <a class="btn" href="https://wa.me/420792908296?text=Hi%20Diana%20%26%20Radu%2C%20I%27d%20like%20to%20join%20the%20Astral%20Travel%20class%20on%20Sun%201%20Nov.%20Is%20there%20a%20seat%3F" target="_blank" rel="noopener">Ask about a seat</a>
+    </div>
+    <div>
+      <div class="arch"><span class="badge">Your free video</span><div class="curtain" aria-hidden="true"><div class="c l"></div><div class="c r"></div><div class="hint">Open the curtain<small class="h-hover">Hover to reveal</small></div></div><svg class="geo2" viewBox="0 0 400 400" fill="none" stroke="currentColor" stroke-width=".6" aria-hidden="true"><g><circle cx="200.0" cy="200.0" r="58"/><circle cx="258.0" cy="200.0" r="58"/><circle cx="229.0" cy="250.2" r="58"/><circle cx="171.0" cy="250.2" r="58"/><circle cx="142.0" cy="200.0" r="58"/><circle cx="171.0" cy="149.8" r="58"/><circle cx="229.0" cy="149.8" r="58"/><circle cx="316.0" cy="200.0" r="58"/><circle cx="258.0" cy="300.5" r="58"/><circle cx="142.0" cy="300.5" r="58"/><circle cx="84.0" cy="200.0" r="58"/><circle cx="142.0" cy="99.5" r="58"/><circle cx="258.0" cy="99.5" r="58"/><circle cx="287.0" cy="250.2" r="58"/><circle cx="200.0" cy="300.5" r="58"/><circle cx="113.0" cy="250.2" r="58"/><circle cx="113.0" cy="149.8" r="58"/><circle cx="200.0" cy="99.5" r="58"/><circle cx="287.0" cy="149.8" r="58"/></g><circle cx="200" cy="200" r="174"/><circle cx="200" cy="200" r="196"/></svg><button type="button" class="vcard" data-yt="https://www.youtube-nocookie.com/embed/CM12cKCVcNE?start=311&rel=0&autoplay=1" aria-label="Play the Astral Travel video"><span class="play"></span><small>Press play</small><span class="t">Astral Travel</span></button></div>
+      <p class="cap">Free video · see what we will do in class</p>
+    </div>
+  </div></div>
+</section>
+
+<div class="both"><div class="in">
+  <div class="rule"><i></i></div>
+  <h2>One weekend. <em>One journey.</em></h2>
+  <div class="path"><span><b>I</b> Sacred Geometry</span><i></i><span><b>II</b> Astral Travel</span></div>
+  <p><strong style="font-weight:400;color:var(--gold)">Saturday:</strong> you learn to work with the pattern behind all life, and raise your own energy.<br><strong style="font-weight:400;color:var(--gold)">Sunday:</strong> Astral Travel takes you further, with that foundation.</p>
+  <p style="margin-top:14px;color:#e3d3c2">Each class is great on its own, but if you put them together, magick happens. Not sure which day fits you? Write to us and we will tell you honestly.</p>
+  <div class="btns">
+    <a class="btn" href="https://wa.me/420792908296?text=Hi%20Diana%20%26%20Radu%2C%20I%27d%20like%20to%20join%20both%20days%3A%20Sacred%20Geometry%20on%20Sat%2031%20Oct%20and%20Astral%20Travel%20on%20Sun%201%20Nov.%20Are%20there%20seats%3F" target="_blank" rel="noopener">I'd like both days</a>
+  </div>
+</div></div>
+
+<div class="prac"><div class="in">
+  <div class="eyebrow" style="text-align:center">Good to know</div>
+  <h2>The details</h2>
+  <div class="pg">
+    <div><h3>Where</h3><p>Our Studio, Vršovice, Prague 10</p></div>
+    <div><h3>When</h3><p>Sat 31 Oct and Sun 1 Nov, 10:00–14:30</p></div>
+    <div><h3>Who</h3><p>Taught by Diana &amp; Radu Coman, in English</p></div>
+    <div><h3>Group</h3><p>Small, so there is space for your questions. Tea included.</p></div>
+  </div>
+</div></div>
+
+<div class="final"><div class="in">
+  <div class="eyebrow">Small group · Personal replies</div>
+  <h2>Come as you are. Leave with <em>more of you</em>.</h2>
+  <p>Write to us on WhatsApp with the day you would like, or any question. Diana or Radu will answer you personally.</p>
+  <a class="btn" href="https://wa.me/420792908296?text=Hi%20Diana%20%26%20Radu%2C%20I%20saw%20the%20Samhain%20weekend%20classes%20and%20I%20have%20a%20question." target="_blank" rel="noopener">Message us on WhatsApp</a>
+</div></div>
+
+<script>
+document.querySelectorAll('.arch').forEach(function(a){
+  function open(){a.classList.add('open')}
+  a.addEventListener('mouseenter',open);
+  a.addEventListener('click',open);
+  a.addEventListener('touchstart',open,{passive:true});
+});
+if(window.matchMedia&&window.matchMedia('(hover:none)').matches){document.querySelectorAll('.h-hover').forEach(function(h){h.textContent='Tap to reveal'})}
+</script>
+<script>
+document.querySelectorAll('button.vcard').forEach(function(b){
+  b.addEventListener('click',function(){
+    var f=document.createElement('iframe');
+    f.src=b.getAttribute('data-yt');f.title=b.getAttribute('aria-label');
+    f.allow='autoplay; accelerometer; encrypted-media; picture-in-picture';f.allowFullscreen=true;
+    var a=b.closest('.arch');
+    a.querySelectorAll('.bgvid,.vshade').forEach(function(x){x.remove()});
+    b.replaceWith(f);
+  });
+});
+</script>
+<footer><div class="in">
+  The Path of Initiation Prague · Radu &amp; Diana Coman · Certified by the Modern Mystery School<br>
+  <a href="https://thepathofinitiationprague.com/privacy-policy" target="_blank" rel="noopener">Privacy policy</a>
+</div></footer>
+</body></html>
