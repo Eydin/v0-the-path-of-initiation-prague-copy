@@ -13,7 +13,7 @@ const nextConfig = {
   async headers() {
     return [
       {
-        source: "/samhain-weekend.html",
+        source: "/:path(samhain-weekend|wa-video).html",
         headers: [{ key: "Cache-Control", value: "no-cache, must-revalidate" }],
       },
     ]
