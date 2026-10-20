@@ -11,12 +11,10 @@ const nextConfig = {
     unoptimized: true,
   },
   async headers() {
-    return [
-      {
-        source: "/samhain-weekend.html",
-        headers: [{ key: "Cache-Control", value: "no-cache, must-revalidate" }],
-      },
-    ]
+    return ["/samhain-weekend.html", "/wa-video.html"].map((source) => ({
+      source,
+      headers: [{ key: "Cache-Control", value: "no-cache, must-revalidate" }],
+    }))
   },
 }
 
