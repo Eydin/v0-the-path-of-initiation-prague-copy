@@ -20,7 +20,7 @@ How to move with intention, meet your guides, and ask the right questions.
 Grounding & integration:
 Return clearly and bring the wisdom of your journeys into daily life.
 Step Beyond the Body
-5 Hours
+4.5 Hours
 Workshops are scheduled in small groups. Reach out for the next available date in Prague.
 Hello, I would like to learn more about the Astral Travel workshop.
 
@@ -67,6 +67,7 @@ Scheduled
 Needs Review
 
 ## PAGE: /calendar
+force-dynamic
 The Path Ahead
 Calendar of Classes
 Every activation, initiation, workshop and community gathering held in Prague and other international locations over the coming season. Follow the path one step at a time.
@@ -79,6 +80,7 @@ Not sure where to begin? Reach out and Radu will guide you personally.
 Ask About a Class
 
 ## PAGE: /certifications
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 Certifications
 Radu and Diana are here to support you in creating a life worth waking up for
 Every morning
@@ -94,6 +96,9 @@ Diana is a certified Teacher in the lineage of the Modern Mystery School.
 Diana is also certified as a Life Activation Practitioner and Healer , recertified annually.
 Diana has completed all three levels of Ensofic Ray Healing .
 Diplomas & Certificates
+Walk the Path
+These certifications are not the point — they are the proof of a lineage faithfully carried, so that what is offered to you is authentic. The door is open to those who feel the call.
+Begin Your Journey
 
 ## PAGE: /community
 lucide-react
@@ -421,7 +426,7 @@ Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
 
 ## PAGE: /lineage
-https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Lineage%20and%20the%20Path%20of%20Initiation.
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 Gudni GED Gudnason
 Hideto REI Nakagome
 Dave THOR Lanyon
@@ -596,7 +601,7 @@ Apply these forms for focus, meditation, manifestation and healing.
 Living the pattern:
 See the order beneath everyday life and align yourself with it.
 Read the Language of Creation
-5 Hours
+4.5 Hours
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
 
 ## PAGE: /seven-mystery-schools
@@ -727,6 +732,7 @@ Back to home
 Need to withdraw from a contract? Use our online withdrawal form →
 
 ## PAGE: /testimonials
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 The Journey of Transformation
 Maria - Mother, CEO and Healer
 Life Activation Practitioner, Prague, Czech Republic
@@ -756,6 +762,9 @@ How have the tools and practices helped you?
 The work with the body, with moon cycles, with rituals, with meditation—it's so important. It's not easy, it's really hard, but when you put it inside and work with yourself, you get it.
 I'm so thankful that I was made to feel safe to be the way I am, who I am. It made me feel like I could trust myself again and remember who I am.
 More Student Journeys
+Your Journey Can Begin Too
+Every story above started the same way it can for you — with a single first step. The door is open to those who feel the call.
+Begin Your Journey
 
 ## PAGE: /withdraw-from-contract
 Withdraw from the Contract | The Path of Initiation Prague
@@ -778,6 +787,11 @@ Submitting…
 Received — check your inbox for a confirmation e-mail.
 Something went wrong. Please try again, or e-mail us directly at radu@thepathofinitiationprague.com.
 All fields are required unless marked optional.
+
+## PAGE: (component) calendar-widget-section.tsx
+Explore Our Calendar
+See every activation, initiation, workshop and community gathering coming up in Prague.
+View Calendar
 
 ## PAGE: (component) classes-section.tsx
 Upcoming Events
@@ -834,10 +848,11 @@ If you feel called to learn more about our upcoming gatherings, get precise logi
 Contact the Community
 
 ## PAGE: (component) cta-section.tsx
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 Your Invitation
 Are You Ready to Walk the Path?
-The door is open, but only you can choose to step through it. If you feel the call, take the first step and apply for a personal consultation with Radu and Diana Coman.
-Email
+The door is open, but only you can choose to step through it. If you feel the call, let's start with the beginning: the Life Activation.
+Book a Life Activation
 
 ## PAGE: (component) ending-section.tsx
 Where All Worlds Meet
@@ -860,7 +875,7 @@ Years of Unbroken Lineage
 Countries Worldwide
 Thousands
 Of Lives Transformed
-Follow the Journey of Our Students
+Follow the Journey of Our Students and Teachers
 Wall of Love
 The initiation ceremony was beyond my imagination. I felt genuinely welcome and it truly feels like I've found a community that I'm super happy to belong to.
 Maria from Czech Republic
@@ -868,6 +883,21 @@ Radu didn't tell me what to do and what not to do. He really helps me to hear my
 Ana from Czech Republic
 I came seeking answers and found a whole new dimension of life. The tools I received are beyond anything I imagined.
 Sophie from Canada
+
+## PAGE: (component) faq-section.tsx
+./ui/accordion
+Before You Begin
+Frequently Asked Questions
+I'm new to this — where should I start?
+Begin with a Life Activation — a gentle, profound entry point that needs no prior knowledge or spiritual background. If you'd like guidance first, reach out on WhatsApp and Radu or Diana will help you find the right first step.
+What is the Modern Mystery School, and the lineage of King Salomon?
+A spiritual lineage tracing back over 3,000 years, carried hand to hand through initiation rather than written teaching alone — not a recent pop-up, but a system handed down intact from teacher to student, refined for many generations.
+Do I need to believe in anything specific for this to work?
+No. Bring your doubts with you if you have them — most people who walk this path did too, when they started. You don't need a particular belief system, only a willingness to show up, receive with an open mind and do the work that is presented to you to experience the transformation for yourself.
+How is this different from therapy or coaching?
+This is spiritual and energetic work, not a medical or psychological service — it doesn't replace therapy or any treatment prescribed by a doctor. Many people do both, side by side.
+How do I know which session is right for me?
+Reach out on WhatsApp and share a little about what's going on — Radu and Diana will guide you to understand what will benefit you the most in your current situation.
 
 ## PAGE: (component) footer.tsx
 PATH OF
@@ -1033,14 +1063,14 @@ end start
 The Foundation
 The Four Pillars of Transformation
 Each pillar builds upon the last, creating a complete system of spiritual evolution that has stood the test of time.
-Spiritual Knowledge
-Deepen your understanding of the universe and the metaphysical laws that govern all of creation. Access teachings that have been preserved for over three millennia by an unbroken lineage of initiates.
-Practical Magic
-Awaken dormant powers within yourself and learn to direct energy to create tangible, real-world outcomes. This is not theory; it is the practical application of universal principles.
-Divine Purpose
-Develop your soul and forge a living connection with your Higher Purpose. Discover why you are here, what you are meant to create, and how to align every aspect of your life with your true calling.
-Healing Modalities
-Learn sacred healing techniques that allow you to be of profound service to others. Become a channel for transformation and help others awaken to their own divine potential.
+Activation
+Awaken your DNA and restore your connection to your Spirit. This work begins with the Life Activation and continues through the Full Spirit Activation.
+Initiation
+Purify and prepare the vessel to receive the pure Light of Spirit and manifest it without distortion into the physical — the path opened by Empower Thyself.
+Study & Learn
+By mastering the arts and sciences of Sacred Geometry, Astral Travel, Kabbalah and many more, you become a master of your physical life.
+Serving Others
+Life is not complete, and you cannot fully understand it, unless you also strive to be of service to others. By guiding, healing, teaching and generally supporting others in their needs, you become the full version of yourself.
 
 ## PAGE: (component) sacred-geometry-series-links.tsx
 sacred-geometry
