@@ -516,7 +516,9 @@
   },
   "HealingGrid": {
     "inquire": "Inquire",
-    "inquiryTemplate": "Hello, I would like to inquire about the {name} healing."
+    "inquiryTemplate": "Hello, I would like to inquire about the {name} healing.",
+    "bookNow": "Book Now",
+    "details": "See Details"
   },
   "Healings": {
     "heroEyebrow": "In the Lineage of King Salomon",

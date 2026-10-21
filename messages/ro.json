@@ -477,7 +477,9 @@
   },
   "HealingGrid": {
     "inquire": "Întreabă",
-    "inquiryTemplate": "Bună, aș dori să întreb despre vindecarea {name}."
+    "inquiryTemplate": "Bună, aș dori să întreb despre vindecarea {name}.",
+    "bookNow": "Rezervă acum",
+    "details": "Vezi detalii"
   },
   "Healings": {
     "heroEyebrow": "În linia regelui Solomon",

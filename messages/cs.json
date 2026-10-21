@@ -477,7 +477,9 @@
   },
   "HealingGrid": {
     "inquire": "Zeptat se",
-    "inquiryTemplate": "Ahoj, rád(a) bych se zeptal(a) na léčení {name}."
+    "inquiryTemplate": "Ahoj, rád(a) bych se zeptal(a) na léčení {name}.",
+    "bookNow": "Rezervovat",
+    "details": "Zobrazit detaily"
   },
   "Healings": {
     "heroEyebrow": "V linii krále Šalomouna",

@@ -477,7 +477,9 @@
   },
   "HealingGrid": {
     "inquire": "Anfragen",
-    "inquiryTemplate": "Hallo, ich möchte mich über die Heilung {name} informieren."
+    "inquiryTemplate": "Hallo, ich möchte mich über die Heilung {name} informieren.",
+    "bookNow": "Jetzt buchen",
+    "details": "Details ansehen"
   },
   "Healings": {
     "heroEyebrow": "In der Linie von König Salomon",
