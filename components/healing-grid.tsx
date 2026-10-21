@@ -11,19 +11,20 @@ export type Healing = {
   description: string
   /** Optional small tag, e.g. "Foundation", "Advanced" */
   tag?: string
-  /** When set (with bookHref + detailsHref), the card shows a price and two
-   *  buttons instead of the default single "inquire" link. */
+  /** When any of these are set, the card shows a price and/or Book Now /
+   *  See Details buttons instead of the default single "inquire" link. */
   price?: string
   bookHref?: string
   detailsHref?: string
 }
 
-// ── A single healing card — either a priced card with Book Now/See Details,
-// or the default card with a single "inquire" link ────────────────────────
+// ── A single healing card — either a priced/linked card (price and/or Book
+// Now / See Details buttons), or the default card with a single "inquire"
+// link ──────────────────────────────────────────────────────────────────
 function HealingCard({ healing }: { healing: Healing }) {
   const t = useTranslations("HealingGrid")
 
-  if (healing.price && healing.bookHref && healing.detailsHref) {
+  if (healing.price || healing.bookHref || healing.detailsHref) {
     return (
       <div className="flex h-full flex-col rounded-lg border border-primary/15 bg-card/50 p-6 backdrop-blur-sm transition-all duration-300 hover:border-primary/45 hover:bg-card/75">
         {healing.tag && (
@@ -33,24 +34,32 @@ function HealingCard({ healing }: { healing: Healing }) {
         )}
         <h3 className="font-serif text-lg leading-tight tracking-wide text-primary">{healing.name}</h3>
         <p className="mt-2.5 flex-1 text-sm leading-relaxed text-muted-foreground">{healing.description}</p>
-        <p className="mt-4 font-serif text-base tracking-wide text-foreground">{healing.price}</p>
-        <div className="mt-4 flex flex-wrap gap-2.5">
-          <a
-            href={healing.bookHref}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center justify-center rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90"
-          >
-            {t("bookNow")}
-          </a>
-          <Link
-            href={healing.detailsHref}
-            className="inline-flex items-center justify-center gap-1 rounded border border-primary/40 px-4 py-2 text-xs uppercase tracking-wider text-primary transition-all hover:border-primary hover:bg-primary/10"
-          >
-            {t("details")}
-            <ArrowUpRight className="h-3 w-3" />
-          </Link>
-        </div>
+        {healing.price && (
+          <p className="mt-4 font-serif text-base tracking-wide text-foreground">{healing.price}</p>
+        )}
+        {(healing.bookHref || healing.detailsHref) && (
+          <div className="mt-4 flex flex-wrap gap-2.5">
+            {healing.bookHref && (
+              <a
+                href={healing.bookHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90"
+              >
+                {t("bookNow")}
+              </a>
+            )}
+            {healing.detailsHref && (
+              <Link
+                href={healing.detailsHref}
+                className="inline-flex items-center justify-center gap-1 rounded border border-primary/40 px-4 py-2 text-xs uppercase tracking-wider text-primary transition-all hover:border-primary hover:bg-primary/10"
+              >
+                {t("details")}
+                <ArrowUpRight className="h-3 w-3" />
+              </Link>
+            )}
+          </div>
+        )}
       </div>
     )
   }

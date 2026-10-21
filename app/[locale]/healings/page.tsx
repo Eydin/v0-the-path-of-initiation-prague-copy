@@ -59,7 +59,6 @@ export default async function Healings({
       detailsHref: "/full-spirit-activation",
     },
     { name: t("groups.activations.items.2.name"), description: t("groups.activations.items.2.description") },
-    { name: t("groups.activations.items.3.name"), description: t("groups.activations.items.3.description") },
   ]
 
   const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5].map((i) => ({
@@ -73,6 +72,9 @@ export default async function Healings({
   const readings: Healing[] = [0, 1, 2].map((i) => ({
     name: t(`groups.readings.items.${i}.name`),
     description: t(`groups.readings.items.${i}.description`),
+    ...(i === 0
+      ? { price: "6.150 CZK", detailsHref: "/life-purpose-reading" }
+      : {}),
   }))
 
   const bodyWork: Healing[] = [0, 1, 2, 3, 4].map((i) => ({
@@ -97,7 +99,7 @@ export default async function Healings({
         <Body>
           {t("specialtyLead")}{" "}
           <Link href="/specialty-healings" className="text-primary underline transition-colors hover:text-gold-light">
-            {t("specialtyLinkLabel", { brand: BRAND.sacredGeometry })}
+            {t("specialtyLinkLabel")}
           </Link>
         </Body>
       </Panel>

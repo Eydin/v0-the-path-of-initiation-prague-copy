@@ -489,7 +489,7 @@
     "introLead": "Eine lebendige Heiltradition",
     "introBody": "Die Modern Mystery School trägt eines der ältesten und vollständigsten Heilsysteme der Erde — zusammengetragen von König Salomon und durch eine ununterbrochene Linie ganz gehalten. Unten findest du die Bandbreite der in Prag verfügbaren Heilungen. Du musst nicht wissen, welche für dich die richtige ist. Erkunde einfach und frage nach allem, was dich anspricht — Radu wird dich von dort an begleiten.",
     "specialtyLead": "Für die tiefere, spezialisierte Arbeit der Tradition, siehe die",
-    "specialtyLinkLabel": "{brand}-Spezialheilungen →",
+    "specialtyLinkLabel": "Spezialheilungen →",
     "inquiry": "Hallo, ich möchte mich über die Heilmethoden informieren.",
     "ctaHeading": "Beginne deine Heilung",
     "ctaBody": "Erzähl Radu ein wenig darüber, wo du gerade stehst, und er hilft dir, die Heilung zu wählen, die dir am besten dient.",
@@ -500,8 +500,7 @@
         "items": [
           { "tag": "Grundlage", "description": "Die grundlegende Sitzung der Linie — aktiviert 22 der 24 DNA-Stränge und deinen göttlichen Bauplan." },
           { "description": "Vertieft deine Verbindung zur Seele und zum Höheren Selbst über die Life Activation hinaus." },
-          { "name": "Galaktische Aktivierung", "description": "Fortschreitende Aktivierung der galaktischen und göttlichen Codes in deiner physischen und spirituellen DNA." },
-          { "name": "11. Codon-Lesung", "description": "Aktiviert den 11. und 12. spirituellen und physischen DNA-Strang über die Life Activation hinaus." }
+          { "name": "Galaktische Aktivierung", "description": "Fortschreitende Aktivierung der galaktischen und göttlichen Codes in deiner physischen und spirituellen DNA." }
         ]
       },
       "auraEnergy": {
@@ -520,7 +519,7 @@
         "title": "Lesungen & Führung",
         "blurb": "Einblick in deine Bestimmung, deine Seele und deinen Pfad.",
         "items": [
-          { "name": "Lebenszweck-Lesung", "description": "Eine Lesung, die dir hilft, deine göttliche Lebensbestimmung zu erkennen und dich an ihr auszurichten." },
+          { "name": "Lebenszweck- & 11. Codon-Lesung", "description": "Eine Lesung deiner göttlichen Bestimmung und der Gaben, die du trägst, verbunden mit der Aktivierung des 11. und 12. DNA-Strangs über die Life Activation hinaus." },
           { "name": "Seelenrückholung", "description": "Gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit." },
           { "name": "Lebensfunke — Fernheilung", "description": "Eine Fernheilung, die dir wiederherstellende Energie über jede Entfernung hinweg bringt." }
         ]
@@ -593,6 +592,26 @@
     "duration": "2 Stunden",
     "bookingNote": "Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu finalisieren.",
     "inquiry": "Hallo, ich möchte gerne mehr über die {brand} Aura-Heilung erfahren."
+  },
+  "LifePurposeReading": {
+    "heroEyebrow": "Eine Lesung der Mysterienschule",
+    "heroTitle": "Lebenszweck- & 11. Codon-Lesung",
+    "heroSubtitle": "Entdecke deine Bestimmung, und aktiviere die Codons, die sie tragen",
+    "heroTagline": "Eine Lesung des Entwurfs deiner Seele, und der DNA-Stränge, die ihn kodieren",
+    "introLead": "Deine Bestimmung war nie verborgen — sie wartete nur darauf, gelesen zu werden",
+    "introBody1": "Diese Sitzung verbindet zwei Lesungen zu einer. Zuerst eine Lebenszweck-Lesung — bei der dein energetisches Feld gelesen wird, um deine göttliche Bestimmung, die Gaben, die du trägst, und die Richtung zu erkennen, in die dein Weg dich ruft. Dann die 11. Codon-Lesung — die den 11. und 12. spirituellen und physischen DNA-Strang über das hinaus aktiviert, was die Life Activation öffnet, und diese Bestimmung tiefer in deinem Körper verankert.",
+    "introBody2": "Zusammen geben sie dir sowohl die Landkarte als auch den Treibstoff: Klarheit darüber, wohin du gehst, und eine Aktivierung, die deinem Körper hilft, dich dorthin zu tragen.",
+    "benefitsHeading": "Was du gewinnst",
+    "benefits": [
+      { "label": "Klarheit über deine Bestimmung:", "text": "Verstehe die göttliche Bestimmung, für die du hier bist, in klarer, praktischer Sprache." },
+      { "label": "Deine einzigartigen Gaben benannt:", "text": "Erkenne die spezifischen Gaben und Stärken, die in dir kodiert sind, oft direkt vor deinen Augen verborgen." },
+      { "label": "Tiefere DNA-Aktivierung:", "text": "Aktiviere den 11. und 12. Strang und erweitere die Arbeit, die mit deiner Life Activation begonnen hat." },
+      { "label": "Ein klarerer nächster Schritt:", "text": "Gehe mit einem konkreten Gefühl von Richtung, nicht nur mit Inspiration." }
+    ],
+    "bookingTitle": "Lies deine Bestimmung",
+    "duration": "60–90 Minuten",
+    "bookingNote": "Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu finalisieren.",
+    "inquiry": "Hallo, ich möchte gerne mehr über die Lebenszweck- & 11. Codon-Lesung erfahren."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "Ein Workshop der Mysterienschule",

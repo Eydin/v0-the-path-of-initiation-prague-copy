@@ -21,6 +21,7 @@ const CORE_ROUTES = [
   "/healings",
   "/specialty-healings",
   "/aura-healing",
+  "/life-purpose-reading",
   "/sacred-geometry",
   "/sacred-geometry-2",
   "/sacred-geometry-3",

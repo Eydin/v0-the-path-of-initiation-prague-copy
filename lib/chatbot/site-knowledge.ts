@@ -275,6 +275,16 @@ Intensive Program & Initiation
 Healers Academy is a 5-day intensive program.
 
 ## PAGE: /healings
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
+https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
+https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
+8.500 CZK
+/life-activation
+/full-spirit-activation
+4.800 CZK
+/aura-healing
+6.150 CZK
+/life-purpose-reading
 In the Lineage of King Salomon
 Healing Modalities
 A range of healings for body, mind and soul
@@ -292,8 +302,6 @@ The foundational session of the lineage — activates 22 of the 24 DNA strands a
 Deepens your connection to the soul and higher self beyond the Life Activation.
 Galactic Activation
 Progressive activation of the Galactic and Divinity codes within your physical and spiritual DNA.
-11th Codon Reading
-Activates the 11th and 12th spiritual and physical DNA strands beyond the Life Activation.
 Aura & Energy Healings
 Clearing, repairing and protecting your energetic field.
 Clears, balances and seals the seven layers of the aura through the geometry of light.
@@ -309,8 +317,8 @@ Crystal Healing
 Ancient lineage techniques working with crystals for healing, intuition and protection.
 Readings & Guidance
 Insight into your purpose, your soul and your path.
-Purpose of Life Reading
-A reading to help you identify and align with your divine life purpose.
+Life Purpose & 11th Codon Reading
+A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation.
 Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
@@ -424,6 +432,28 @@ Duration
 Book Now
 Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
+
+## PAGE: /life-purpose-reading
+A Reading of the Mystery School
+Life Purpose & 11th Codon Reading
+Discover your purpose, and activate the codons that carry it
+A reading of your soul's design, and the DNA strands that encode it
+Your purpose was never hidden — only waiting to be read
+This session combines two readings into one. First, a Life Purpose Reading — where your energy field is read to identify your divine purpose, the gifts you carry, and the direction your path is asking you to take. Then, the 11th Codon Reading — which activates the 11th and 12th spiritual and physical DNA strands beyond what the Life Activation opens, anchoring that purpose more fully into your body.
+Together, they give you both the map and the fuel: clarity about where you are going, and an activation that helps your body carry you there.
+What You Gain
+Clarity on your purpose:
+Understand the divine purpose you came here to live, in plain, practical language.
+Your unique gifts named:
+Recognize the specific gifts and strengths encoded within you, often hidden in plain sight.
+Deeper DNA activation:
+Activate the 11th and 12th strands, extending the work begun in your Life Activation.
+A clearer next step:
+Leave with a concrete sense of direction, not just inspiration.
+Read Your Purpose
+60–90 Minutes
+After you reach out, we will contact you personally to finalise your appointment.
+Hello, I would like to learn more about the Life Purpose & 11th Codon Reading.
 
 ## PAGE: /lineage
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
@@ -1018,6 +1048,8 @@ Community
 
 ## PAGE: (component) healing-grid.tsx
 Inquire
+Book Now
+See Details
 
 ## PAGE: (component) hero-section.tsx
 Prague, Czech Republic
