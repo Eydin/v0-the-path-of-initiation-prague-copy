@@ -41,6 +41,20 @@ export async function generateMetadata({
   return {
     title: 'The Path of Initiation Prague',
     description: 'A 3,000-year-old lineage of spiritual initiation, now open to the modern seeker. Begin your journey of transformation in Prague with Guides Radu and Diana Coman.',
+    // Default keywords inherited by every page that doesn't set its own
+    // (Next.js only replaces this field when a page's own generateMetadata
+    // explicitly returns `keywords` — pages/blog posts and blog/[slug] do,
+    // see their own keywords arrays).
+    keywords: [
+      'The Path of Initiation Prague',
+      'Path of Initiation',
+      'Path of Initiation Prague',
+      'Modern Mystery School Prague',
+      'Lineage of King Salomon',
+      'spiritual initiation Prague',
+      'Radu Coman',
+      'Diana Coman',
+    ],
     generator: 'v0.app',
     metadataBase: new URL(SITE),
     alternates: {

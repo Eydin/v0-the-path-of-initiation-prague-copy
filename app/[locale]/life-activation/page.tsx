@@ -106,7 +106,7 @@ export default async function LifeActivation({
           <Link href="/certifications" className="transition hover:opacity-80">
             <img
               src="/images/diana-lap.jpg"
-              alt="Diana — Life Activation certification"
+              alt="Diana — Life Activation certification, The Path of Initiation Prague"
               loading="lazy"
               className="h-auto w-full rounded border border-primary/20"
             />
@@ -125,7 +125,7 @@ export default async function LifeActivation({
           <Link href="/certifications" className="transition hover:opacity-80">
             <img
               src="/images/radu-lap.jpg"
-              alt="Radu — Life Activation certification"
+              alt="Radu — Life Activation certification, The Path of Initiation Prague"
               loading="lazy"
               className="h-auto w-full rounded border border-primary/20"
             />

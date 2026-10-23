@@ -53,6 +53,7 @@ Organization
 ## PAGE: /blog
 King Salomon · Magick · Alchemy
 force-dynamic
+The Path of Initiation Prague
 Modern Mystery School blog
 King Salomon
 Blog | The Path of Initiation Prague
@@ -86,7 +87,7 @@ Radu and Diana are here to support you in creating a life worth waking up for
 Every morning
 The certifications for the classes, initiations and healing sessions that Radu and Diana offer come from Modern Mystery School International .
 They have each undergone numerous initiations and trainings to prepare themselves and to be able to hold the energy for the transformation to happen for their students.
-Certified by the Modern Mystery School
+Certified by the Modern Mystery School — The Path of Initiation Prague
 Radu's Qualifications
 Radu is a certified Guide and Teacher in the lineage of the Modern Mystery School.
 Radu is also certified as a Life Activation Practitioner and Healer , recertified annually.
@@ -939,7 +940,7 @@ Aura Healing
 Contact
 WhatsApp · +420 792 908 296
 Facebook
-Certified by the Modern Mystery School
+Certified by the Modern Mystery School — The Path of Initiation Prague
 Privacy Policy
 Terms and Conditions
 Withdraw from a Contract

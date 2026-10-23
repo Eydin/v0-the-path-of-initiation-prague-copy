@@ -42,7 +42,10 @@ export async function generateMetadata({
   return {
     title: `${post.title} | The Path of Initiation Prague`,
     description: post.excerpt,
-    keywords: post.keywords,
+    // "The Path of Initiation Prague" is appended here (rather than baked into
+    // every post's own keywords array in lib/blog/posts.ts) so it's guaranteed
+    // present on every post, present and future, from one place.
+    keywords: [...post.keywords, "The Path of Initiation"],
     alternates: {
       canonical,
       ...(translated && {
@@ -89,7 +92,7 @@ export default async function BlogPostPage({
     datePublished: post.releaseDate,
     image: `${SITE}/images/art/${post.coverImage}`,
     url: localizedPostUrl(locale, post.slug),
-    keywords: post.keywords.join(", "),
+    keywords: [...post.keywords, "The Path of Initiation"].join(", "),
     author: {
       "@type": "Person",
       name: "Radu Coman",

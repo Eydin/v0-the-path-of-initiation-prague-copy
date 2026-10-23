@@ -22,6 +22,7 @@ export async function generateMetadata({
     title: t("metaTitle"),
     description: t("metaDescription"),
     keywords: [
+      "The Path of Initiation",
       "Modern Mystery School blog",
       "King Salomon",
       "Magick",
