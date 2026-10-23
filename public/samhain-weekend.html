@@ -121,6 +121,28 @@ button.vcard{background:none;border:0;cursor:pointer;font:inherit;width:100%}
 @media(max-width:720px){.pg>div{border-left:0;border-top:1px solid var(--gold-soft);padding:20px 0}.pg>div:first-child{border-top:0}}
 .pg h3{font-size:26px;font-style:italic;color:var(--gold);margin-bottom:6px;font-weight:400}
 .pg p{margin:0;color:var(--muted);font-size:15.5px}
+
+/* videos up top */
+.cols.solo{grid-template-columns:1fr;max-width:720px;margin-inline:auto}
+.vids{padding-block:70px 90px;text-align:center;border-top:1px solid var(--gold-soft)}
+.vids h2{font-size:clamp(34px,5.5vw,60px);font-weight:300;margin:16px auto 10px;max-width:18ch}
+.vids h2 em{font-style:italic;color:var(--gold)}
+.vids .sub2{max-width:46ch;margin:0 auto 54px;color:var(--muted)}
+.vgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:64px 40px;max-width:900px;margin:0 auto}
+.vgrid>*{min-width:0}
+.vgrid .cap{margin-top:26px}
+/* did you know */
+.dyk{padding-block:84px;border-top:1px solid var(--gold-soft);background:radial-gradient(ellipse 70% 90% at 50% 0%,rgba(207,174,114,.16),transparent 70%),var(--bg2)}
+.dyk .card{max-width:760px;margin:0 auto;text-align:center;border:1px solid var(--gold);padding:54px clamp(24px,6vw,64px);position:relative;box-shadow:0 0 0 8px var(--bg2),0 0 0 9px var(--gold-soft)}
+.dyk .q1{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:clamp(28px,4.5vw,40px);color:var(--gold);margin:0 0 10px;line-height:1.1}
+.dyk h2{font-size:clamp(28px,4.6vw,46px);font-weight:300;margin:0 auto 18px;max-width:22ch}
+.dyk h2 em{font-style:italic;color:var(--gold)}
+.dyk p{margin:0 auto 18px;max-width:52ch;color:var(--muted)}
+.dyk .sep{margin:30px auto}
+.dyk .know{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:clamp(28px,4vw,38px);color:var(--gold);margin:6px 0 0}
+.call{text-align:center;padding-block:70px 10px}
+.call h2{font-size:clamp(28px,4.5vw,46px);font-weight:300;max-width:24ch;margin:16px auto 0}
+.call h2 em{font-style:italic;color:var(--gold)}
 /* final */
 .final{position:relative;overflow:hidden;text-align:center;padding-block:110px;border-top:1px solid var(--gold-soft);
   background:radial-gradient(ellipse 55% 70% at 50% 100%,rgba(207,174,114,.22),transparent 70%),var(--bg)}
@@ -140,13 +162,44 @@ footer a{color:var(--muted)}
     <h1>When the veil gets thin, the <em>light</em> gets closer.</h1>
     <p class="lead">Samhain, the original Halloween. Join Diana &amp; Radu Coman in Prague for two classes in English. Watch a short free video first, then choose the door that calls you.</p>
     <div class="dates"><span><b>I</b> Sat 31 Oct · Sacred Geometry</span><span><b>II</b> Sun 1 Nov · Astral Travel</span></div><br>
-    <a class="btn" href="#classes">Enter</a>
+    <a class="btn" href="#videos">Enter</a>
   </div>
 </div>
 
+<section class="vids" id="videos"><div class="in">
+  <div class="eyebrow">Watch first · Free videos</div>
+  <h2>Two short videos, <em>before you decide</em></h2>
+  <p class="sub2">Press play to open the curtain.</p>
+  <div class="vgrid">
+    <div>
+      <div class="arch"><span class="badge">Your free video</span><div class="curtain" aria-hidden="true"><div class="c l"></div><div class="c r"></div><div class="hint">Open the curtain<small class="h-hover">Hover to reveal</small></div></div><svg class="geo2" viewBox="0 0 400 400" fill="none" stroke="currentColor" stroke-width=".6" aria-hidden="true"><g><circle cx="200.0" cy="200.0" r="58"/><circle cx="258.0" cy="200.0" r="58"/><circle cx="229.0" cy="250.2" r="58"/><circle cx="171.0" cy="250.2" r="58"/><circle cx="142.0" cy="200.0" r="58"/><circle cx="171.0" cy="149.8" r="58"/><circle cx="229.0" cy="149.8" r="58"/><circle cx="316.0" cy="200.0" r="58"/><circle cx="258.0" cy="300.5" r="58"/><circle cx="142.0" cy="300.5" r="58"/><circle cx="84.0" cy="200.0" r="58"/><circle cx="142.0" cy="99.5" r="58"/><circle cx="258.0" cy="99.5" r="58"/><circle cx="287.0" cy="250.2" r="58"/><circle cx="200.0" cy="300.5" r="58"/><circle cx="113.0" cy="250.2" r="58"/><circle cx="113.0" cy="149.8" r="58"/><circle cx="200.0" cy="99.5" r="58"/><circle cx="287.0" cy="149.8" r="58"/></g><circle cx="200" cy="200" r="174"/><circle cx="200" cy="200" r="196"/></svg><button type="button" class="vcard" data-yt="TB_VIDEO_URL" aria-label="Play the video with Dr. Theresa Bullard"><span class="play"></span><small>Press play</small><span class="t">Dr. Theresa Bullard</span></button></div>
+      <p class="cap">Dr. Theresa Bullard · Modern Mystery School</p>
+    </div>
+    <div>
+      <div class="arch"><span class="badge">Your free video</span><div class="curtain" aria-hidden="true"><div class="c l"></div><div class="c r"></div><div class="hint">Open the curtain<small class="h-hover">Hover to reveal</small></div></div><svg class="geo2" viewBox="0 0 400 400" fill="none" stroke="currentColor" stroke-width=".6" aria-hidden="true"><g><circle cx="200.0" cy="200.0" r="58"/><circle cx="258.0" cy="200.0" r="58"/><circle cx="229.0" cy="250.2" r="58"/><circle cx="171.0" cy="250.2" r="58"/><circle cx="142.0" cy="200.0" r="58"/><circle cx="171.0" cy="149.8" r="58"/><circle cx="229.0" cy="149.8" r="58"/><circle cx="316.0" cy="200.0" r="58"/><circle cx="258.0" cy="300.5" r="58"/><circle cx="142.0" cy="300.5" r="58"/><circle cx="84.0" cy="200.0" r="58"/><circle cx="142.0" cy="99.5" r="58"/><circle cx="258.0" cy="99.5" r="58"/><circle cx="287.0" cy="250.2" r="58"/><circle cx="200.0" cy="300.5" r="58"/><circle cx="113.0" cy="250.2" r="58"/><circle cx="113.0" cy="149.8" r="58"/><circle cx="200.0" cy="99.5" r="58"/><circle cx="287.0" cy="149.8" r="58"/></g><circle cx="200" cy="200" r="174"/><circle cx="200" cy="200" r="196"/></svg><button type="button" class="vcard" data-yt="https://www.youtube-nocookie.com/embed/Ed98-n2Tong?start=116&rel=0&autoplay=1" aria-label="Play the Sacred Geometry video"><span class="play"></span><small>Press play</small><span class="t">Sacred Geometry</span></button></div>
+      <p class="cap">Sacred Geometry · see what we will do in class</p>
+    </div>
+  </div>
+</div></section>
+
+<section class="dyk"><div class="in"><div class="card">
+  <div class="eyebrow">Good to know</div>
+  <p class="q1" style="margin-top:14px">Did you know?</p>
+  <h2>Dr. Theresa Bullard is one of the <em>senior teachers</em> of the Modern Mystery School.</h2>
+  <p>She holds a Ph.D. in physics, sits on the school's senior Council of 12, and has taught internationally since 2002.</p>
+  <div class="rule sep"><i></i></div>
+  <p>We are certified practitioners with many years of training and a dedication to bringing out the best in people. We know that the world can only become better when each person becomes more aware of themselves.</p>
+  <p class="know">Know thyself.</p>
+</div></div></section>
+
+<div class="call"><div class="in">
+  <div class="rule"><i></i></div>
+  <h2>If you feel the call to learn more, <em>join us.</em></h2>
+</div></div>
+
 <div id="classes"></div>
 <section class="cls">
-  <div class="in"><div class="cols">
+  <div class="in"><div class="cols solo">
     <div class="txt">
       <span class="num">I</span>
       <div class="eyebrow">Saturday · 31 October</div>
@@ -165,10 +218,6 @@ footer a{color:var(--muted)}
       <ul class="chips"><li>Max 7 people</li><li>In English</li><li>Short breaks &amp; tea</li></ul>
       <a class="btn signup" href="https://buy.stripe.com/aFa00c4Dt0NE8R780jg360s" target="_blank" rel="noopener">Book Sacred Geometry · Sat 31 Oct</a>
       <p class="q">If you have any questions, <a href="https://wa.me/420792908296?text=Hi%20Diana%20%26%20Radu%2C%20I%27d%20like%20to%20join%20the%20Sacred%20Geometry%20class%20on%20Sat%2031%20Oct.%20Is%20there%20a%20seat%3F" target="_blank" rel="noopener">reach out to us on WhatsApp</a>.</p>
-    </div>
-    <div>
-      <div class="arch"><span class="badge">Your free video</span><div class="curtain" aria-hidden="true"><div class="c l"></div><div class="c r"></div><div class="hint">Open the curtain<small class="h-hover">Hover to reveal</small></div></div><svg class="geo2" viewBox="0 0 400 400" fill="none" stroke="currentColor" stroke-width=".6" aria-hidden="true"><g><circle cx="200.0" cy="200.0" r="58"/><circle cx="258.0" cy="200.0" r="58"/><circle cx="229.0" cy="250.2" r="58"/><circle cx="171.0" cy="250.2" r="58"/><circle cx="142.0" cy="200.0" r="58"/><circle cx="171.0" cy="149.8" r="58"/><circle cx="229.0" cy="149.8" r="58"/><circle cx="316.0" cy="200.0" r="58"/><circle cx="258.0" cy="300.5" r="58"/><circle cx="142.0" cy="300.5" r="58"/><circle cx="84.0" cy="200.0" r="58"/><circle cx="142.0" cy="99.5" r="58"/><circle cx="258.0" cy="99.5" r="58"/><circle cx="287.0" cy="250.2" r="58"/><circle cx="200.0" cy="300.5" r="58"/><circle cx="113.0" cy="250.2" r="58"/><circle cx="113.0" cy="149.8" r="58"/><circle cx="200.0" cy="99.5" r="58"/><circle cx="287.0" cy="149.8" r="58"/></g><circle cx="200" cy="200" r="174"/><circle cx="200" cy="200" r="196"/></svg><button type="button" class="vcard" data-yt="https://www.youtube-nocookie.com/embed/Ed98-n2Tong?start=116&rel=0&autoplay=1" aria-label="Play the Sacred Geometry video"><span class="play"></span><small>Press play</small><span class="t">Sacred Geometry</span></button></div>
-      <p class="cap">Free video · see what we will do in class</p>
     </div>
   </div></div>
 </section>
