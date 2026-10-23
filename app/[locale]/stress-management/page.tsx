@@ -48,6 +48,16 @@ export default async function StressManagement({
         tagline={t("heroTagline")}
       />
 
+      <BookingBlock
+        slug="stress-management"
+        title={t("bookingTitle")}
+        investment="3.500 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        note={t("bookingNote")}
+        bookHref={STRIPE}
+      />
+
       <Panel>
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1")}</Body>
@@ -69,15 +79,6 @@ export default async function StressManagement({
         <BenefitList items={benefits} />
       </Panel>
 
-      <BookingBlock
-        slug="stress-management"
-        title={t("bookingTitle")}
-        investment="3.500 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        note={t("bookingNote")}
-        bookHref={STRIPE}
-      />
     </ModalityShell>
   )
 }

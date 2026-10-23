@@ -48,6 +48,14 @@ export default async function SacredGeometryThree({
         tagline={t("heroTagline")}
       />
 
+      <BookingBlock
+        slug="sacred-geometry-3"
+        title={t("bookingTitle")}
+        duration={t("duration")}
+        inquiry={inquiry}
+        note={t("bookingNote")}
+      />
+
       <Panel>
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1")}</Body>
@@ -65,14 +73,6 @@ export default async function SacredGeometryThree({
       </Panel>
 
       <SacredGeometrySeriesLinks current="sacred-geometry-3" />
-
-      <BookingBlock
-        slug="sacred-geometry-3"
-        title={t("bookingTitle")}
-        duration={t("duration")}
-        inquiry={inquiry}
-        note={t("bookingNote")}
-      />
     </ModalityShell>
   )
 }

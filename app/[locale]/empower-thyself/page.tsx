@@ -54,6 +54,23 @@ export default async function EmpowerThyself({
         subtitle={t("heroSubtitle")}
       />
 
+      <BookingBlock
+        slug="empower-thyself"
+        title={t("bookingTitle")}
+        investment="36.500 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        bookHref={STRIPE}
+        note={t("bookingNote")}
+      >
+        <div className="mx-auto max-w-2xl space-y-3 text-foreground">
+          <p className="leading-relaxed">{t("bookingExtra.included")}</p>
+          <p className="font-semibold text-primary">{t("bookingExtra.processLabel")}</p>
+          <p className="leading-relaxed">{t("bookingExtra.deposit")}</p>
+          <p className="leading-relaxed">{t("bookingExtra.remainder")}</p>
+        </div>
+      </BookingBlock>
+
       {/* Invitation + key image */}
       <Panel wide>
         <div className="grid items-center gap-10 md:grid-cols-2">
@@ -213,22 +230,6 @@ export default async function EmpowerThyself({
         </div>
       </Panel>
 
-      <BookingBlock
-        slug="empower-thyself"
-        title={t("bookingTitle")}
-        investment="36.500 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        bookHref={STRIPE}
-        note={t("bookingNote")}
-      >
-        <div className="mx-auto max-w-2xl space-y-3 text-foreground">
-          <p className="leading-relaxed">{t("bookingExtra.included")}</p>
-          <p className="font-semibold text-primary">{t("bookingExtra.processLabel")}</p>
-          <p className="leading-relaxed">{t("bookingExtra.deposit")}</p>
-          <p className="leading-relaxed">{t("bookingExtra.remainder")}</p>
-        </div>
-      </BookingBlock>
     </ModalityShell>
   )
 }

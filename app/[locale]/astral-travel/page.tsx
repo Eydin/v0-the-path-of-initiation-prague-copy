@@ -48,6 +48,16 @@ export default async function AstralTravel({
         tagline={t("heroTagline")}
       />
 
+      <BookingBlock
+        slug="astral-travel"
+        title={t("bookingTitle")}
+        investment="4.200 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        note={t("bookingNote")}
+        bookHref={STRIPE}
+      />
+
       <Panel>
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1")}</Body>
@@ -69,15 +79,6 @@ export default async function AstralTravel({
         <BenefitList items={benefits} />
       </Panel>
 
-      <BookingBlock
-        slug="astral-travel"
-        title={t("bookingTitle")}
-        investment="4.200 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        note={t("bookingNote")}
-        bookHref={STRIPE}
-      />
     </ModalityShell>
   )
 }

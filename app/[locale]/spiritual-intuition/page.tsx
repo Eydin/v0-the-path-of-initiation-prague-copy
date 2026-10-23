@@ -48,6 +48,16 @@ export default async function SpiritualIntuition({
         tagline={t("heroTagline")}
       />
 
+      <BookingBlock
+        slug="spiritual-intuition"
+        title={t("bookingTitle")}
+        investment="1.333 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        note={t("bookingNote")}
+        bookHref={STRIPE}
+      />
+
       <Panel>
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1")}</Body>
@@ -69,15 +79,6 @@ export default async function SpiritualIntuition({
         <BenefitList items={benefits} />
       </Panel>
 
-      <BookingBlock
-        slug="spiritual-intuition"
-        title={t("bookingTitle")}
-        investment="1.333 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        note={t("bookingNote")}
-        bookHref={STRIPE}
-      />
     </ModalityShell>
   )
 }
