@@ -3,7 +3,7 @@
 <title>Samhain Weekend Prague</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Jost:wght@300;400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Jost:wght@300;400;500&family=Playfair+Display:wght@400;500&family=Inter:wght@300;400;500&display=swap">
 <style>
 :root{
   --bg:#0b0807; --bg2:#120d0b; --ink:#f2eadb; --muted:#b4a692; --gold:#cfae72; --gold-soft:rgba(207,174,114,.28);
@@ -144,6 +144,61 @@ button.vcard{background:none;border:0;cursor:pointer;font:inherit;width:100%}
 .call h2{font-size:clamp(28px,4.5vw,46px);font-weight:300;max-width:24ch;margin:16px auto 0}
 .call .intro{max-width:56ch;margin:20px auto 0;color:var(--muted);font-size:19px}
 .call h2 em{font-style:italic;color:var(--gold)}
+
+/* main-site header + footer */
+:root{--sg:#D4AF37;--sm:#9e958a;--sb:#2a2118;--sbr:#5D4037;--sfg:#e8e0d4}
+body{padding-top:68px}
+.hero{padding-block:70px 110px}
+.sh,.sf{font-family:'Inter',system-ui,sans-serif;font-weight:400;text-align:left;letter-spacing:normal;text-transform:none;line-height:1.5}
+.sh{position:fixed;top:0;left:0;right:0;z-index:50;border-bottom:1px solid rgba(42,33,24,.8);background:rgba(0,0,0,.82);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+.sh a{text-decoration:none}
+.sh-in{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:14px max(24px,env(safe-area-inset-right,0px)) 14px max(24px,env(safe-area-inset-left,0px))}
+.slogo{display:flex;flex-direction:column;line-height:1;font-family:'Playfair Display',Georgia,serif}
+.slogo span:nth-child(1){font-size:12px;letter-spacing:.3em;color:var(--sg)}
+.slogo span:nth-child(2){font-size:14px;letter-spacing:.2em;color:var(--sg);margin:2px 0}
+.slogo span:nth-child(3){font-size:12px;letter-spacing:.3em;color:var(--sbr)}
+.snav{display:none;align-items:center;gap:28px}
+@media(min-width:1024px){.snav{display:flex}.sburger{display:none}}
+.snav>a,.sdd>button{font:inherit;font-size:14px;letter-spacing:.02em;color:var(--sm);background:none;border:0;cursor:pointer;padding:0;transition:color .2s}
+.snav>a:hover,.sdd:hover>button,.sdd:focus-within>button{color:var(--sg)}
+.sdd{position:relative}
+.sdd>button::after{content:"";display:inline-block;width:6px;height:6px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(45deg) translateY(-2px);margin-left:7px}
+.sdd .pan{position:absolute;left:50%;top:100%;transform:translateX(-50%);padding-top:16px;visibility:hidden;opacity:0;transition:.2s;z-index:60}
+.sdd:hover .pan,.sdd:focus-within .pan{visibility:visible;opacity:1}
+.sdd .pan div{width:256px;border:1px solid rgba(42,33,24,.9);background:rgba(0,0,0,.95);padding:8px;box-shadow:0 20px 50px rgba(0,0,0,.6)}
+.sdd .pan a{display:block;padding:10px 16px;font-size:14px;color:var(--sm);transition:.2s}
+.sdd .pan a:hover{background:rgba(212,175,55,.1);color:var(--sg)}
+.sbtn{border:1px solid var(--sg);background:rgba(212,175,55,.1);color:var(--sg)!important;padding:8px 20px;font-family:'Playfair Display',Georgia,serif;font-size:14px;letter-spacing:.02em;transition:.2s}
+.sbtn:hover{background:var(--sg);color:#000!important}
+.sburger{background:none;border:0;cursor:pointer;color:var(--sg);padding:4px}
+.sburger svg{width:24px;height:24px;display:block}
+.smob{display:none;max-height:80vh;overflow-y:auto;border-top:1px solid rgba(42,33,24,.8);background:rgba(0,0,0,.96);padding:20px max(24px,env(safe-area-inset-right,0px)) 24px max(24px,env(safe-area-inset-left,0px))}
+.smob.open{display:block}
+@media(min-width:1024px){.smob{display:none!important}}
+.smob h4{margin:20px 0 8px;font-family:'Playfair Display',Georgia,serif;font-weight:400;font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--sg)}
+.smob h4:first-child{margin-top:0}
+.smob a{display:block;padding:5px 4px;font-size:14px;color:var(--sm)}
+.smob a:hover{color:var(--sg)}
+.smob .sbtn{display:inline-block;margin-top:14px}
+.smob .sep{border-top:1px solid rgba(42,33,24,.8);margin-top:18px;padding-top:14px}
+.slang{display:flex;gap:12px;flex-wrap:wrap}
+.slang a{font-size:13px}
+.sf{border-top:1px solid var(--sb);background:#000;padding:64px 0 40px;color:var(--sm)}
+.sf-in{max-width:1280px;margin:0 auto;padding-left:max(24px,env(safe-area-inset-left,0px));padding-right:max(24px,env(safe-area-inset-right,0px))}
+.sf-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:40px}
+.sf-grid>*{min-width:0}
+.sf a{color:var(--sm);text-decoration:none;font-size:14px;transition:color .2s}
+.sf a:hover{color:var(--sg)}
+.sf h4{margin:0 0 16px;font-family:'Playfair Display',Georgia,serif;font-weight:400;font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--sg)}
+.sf .col{display:flex;flex-direction:column;gap:10px}
+.sf .tag{max-width:300px;font-size:14px;line-height:1.65;margin:20px 0}
+.sf .loc{font-size:12px;letter-spacing:.08em;text-transform:uppercase;margin:0}
+.sf .cert{display:flex;justify-content:center;margin-top:40px}
+.sf .cert img{width:100%;max-width:260px;height:auto;display:block}
+.sf .bot{margin-top:56px;padding-top:24px;border-top:1px solid rgba(42,33,24,.6);display:flex;flex-wrap:wrap;gap:12px 24px;align-items:center;justify-content:space-between}
+.sf .bot p{margin:0;font-size:12px}
+.sf .bot div{display:flex;flex-wrap:wrap;gap:8px 20px}
+.sf .bot a{font-size:12px}
 /* final */
 .final{position:relative;overflow:hidden;text-align:center;padding-block:110px;border-top:1px solid var(--gold-soft);
   background:radial-gradient(ellipse 55% 70% at 50% 100%,rgba(207,174,114,.22),transparent 70%),var(--bg)}
@@ -155,10 +210,17 @@ footer a{color:var(--muted)}
 </style>
 </head><body>
 
+<header class="sh"><div class="sh-in">
+  <a class="slogo" href="/" aria-label="The Path of Initiation, home"><span>THE</span><span>PATH OF</span><span>INITIATION</span></a>
+  <nav class="snav" aria-label="Main"><div class="sdd"><button type="button" aria-haspopup="true">Activations &amp; Initiations</button><div class="pan"><div><a href="/life-activation">Life Activation</a><a href="/full-spirit-activation">Full Spirit Activation</a><a href="/empower-thyself">Empower Thyself</a><a href="/healers-academy">Healers Academy</a><a href="/ritual-master">Ritual Master</a><a href="/keys-of-the-ancients">Keys of the Ancients</a><a href="/kabbalah-ascension">Kabbalah Ascension Program</a></div></div></div><div class="sdd"><button type="button" aria-haspopup="true">Healing &amp; Workshops</button><div class="pan"><div><a href="/healings">All Healing Modalities</a><a href="/specialty-healings">Specialty Healings (KSHM)</a><a href="/sacred-geometry">Sacred Geometry</a><a href="/astral-travel">Astral Travel</a><a href="/spiritual-intuition">Spiritual Intuition</a><a href="/seven-mystery-schools">The 7 Mystery Schools</a><a href="/stress-management">Stress Rescue</a></div></div></div><div class="sdd"><button type="button" aria-haspopup="true">About</button><div class="pan"><div><a href="/#guide">Your Guide</a><a href="/lineage">Lineage</a><a href="/testimonials">Testimonials</a><a href="/certifications">Certifications</a></div></div></div><a href="/calendar">Calendar</a><a href="/community">Community</a><a href="/blog">Blog</a><div class="sdd"><button type="button" aria-haspopup="true">EN</button><div class="pan"><div><a href="/">English</a><a href="/cs">Čeština</a><a href="/de">Deutsch</a><a href="/ro">Română</a></div></div></div><a class="sbtn" href="https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation." target="_blank" rel="noopener noreferrer">Begin Your Journey</a></nav>
+  <button class="sburger" type="button" aria-label="Menu" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+</div>
+<nav class="smob" aria-label="Mobile"><h4>Activations &amp; Initiations</h4><a href="/life-activation">Life Activation</a><a href="/full-spirit-activation">Full Spirit Activation</a><a href="/empower-thyself">Empower Thyself</a><a href="/healers-academy">Healers Academy</a><a href="/ritual-master">Ritual Master</a><a href="/keys-of-the-ancients">Keys of the Ancients</a><a href="/kabbalah-ascension">Kabbalah Ascension Program</a><h4>Healing &amp; Workshops</h4><a href="/healings">All Healing Modalities</a><a href="/specialty-healings">Specialty Healings (KSHM)</a><a href="/sacred-geometry">Sacred Geometry</a><a href="/astral-travel">Astral Travel</a><a href="/spiritual-intuition">Spiritual Intuition</a><a href="/seven-mystery-schools">The 7 Mystery Schools</a><a href="/stress-management">Stress Rescue</a><h4>About</h4><a href="/#guide">Your Guide</a><a href="/lineage">Lineage</a><a href="/testimonials">Testimonials</a><a href="/certifications">Certifications</a><div class="sep"><a href="/calendar">Calendar</a><a href="/community">Community</a><a href="/blog">Blog</a></div><div class="sep slang"><a href="/">English</a><a href="/cs">Čeština</a><a href="/de">Deutsch</a><a href="/ro">Română</a></div><a class="sbtn" href="https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation." target="_blank" rel="noopener noreferrer">Begin Your Journey</a></nav>
+</header>
+
 <div class="hero">
   <svg class="geo" viewBox="0 0 400 400" fill="none" stroke="currentColor" stroke-width=".6" aria-hidden="true"><g><circle cx="200.0" cy="200.0" r="58"/><circle cx="258.0" cy="200.0" r="58"/><circle cx="229.0" cy="250.2" r="58"/><circle cx="171.0" cy="250.2" r="58"/><circle cx="142.0" cy="200.0" r="58"/><circle cx="171.0" cy="149.8" r="58"/><circle cx="229.0" cy="149.8" r="58"/><circle cx="316.0" cy="200.0" r="58"/><circle cx="258.0" cy="300.5" r="58"/><circle cx="142.0" cy="300.5" r="58"/><circle cx="84.0" cy="200.0" r="58"/><circle cx="142.0" cy="99.5" r="58"/><circle cx="258.0" cy="99.5" r="58"/><circle cx="287.0" cy="250.2" r="58"/><circle cx="200.0" cy="300.5" r="58"/><circle cx="113.0" cy="250.2" r="58"/><circle cx="113.0" cy="149.8" r="58"/><circle cx="200.0" cy="99.5" r="58"/><circle cx="287.0" cy="149.8" r="58"/></g><circle cx="200" cy="200" r="174"/><circle cx="200" cy="200" r="196"/></svg>
   <div class="in">
-    <div class="nav"><span class="brand">The Path of Initiation</span><span class="eyebrow">Prague</span></div>
     <div style="margin-top:46px" class="eyebrow">Samhain weekend · Two small-group classes</div>
     <h1>When the veil gets thin, the <em>light</em> gets closer.</h1>
     <div class="dates"><span><b>I</b> Sat 31 Oct · Sacred Geometry</span><span><b>II</b> Sun 1 Nov · Astral Travel</span></div><br>
@@ -286,8 +348,17 @@ document.querySelectorAll('button.vcard').forEach(function(b){
   });
 });
 </script>
-<footer><div class="in">
-  The Path of Initiation Prague · Radu &amp; Diana Coman · Certified by the Modern Mystery School<br>
-  <a href="https://thepathofinitiationprague.com/privacy-policy" target="_blank" rel="noopener">Privacy policy</a>
+<footer class="sf"><div class="sf-in">
+  <div class="sf-grid">
+    <div><a class="slogo" href="/" style="display:flex"><span>THE</span><span>PATH OF</span><span>INITIATION</span></a><p class="tag">Healing, initiation and training in the lineage of King Salomon, with Guides Radu and Diana Coman in Prague.</p><p class="loc">Prague, Czech Republic</p></div>
+    <div><h4>Activations &amp; Initiations</h4><div class="col"><a href="/life-activation">Life Activation</a><a href="/full-spirit-activation">Full Spirit Activation</a><a href="/empower-thyself">Empower Thyself</a><a href="/healers-academy">Healers Academy</a><a href="/ritual-master">Ritual Master</a></div></div>
+    <div><h4>Healing &amp; Workshops</h4><div class="col"><a href="/aura-healing">Aura Healing</a><a href="/sacred-geometry">Sacred Geometry</a><a href="/astral-travel">Astral Travel</a><a href="/spiritual-intuition">Spiritual Intuition</a><a href="/seven-mystery-schools">The 7 Mystery Schools</a><a href="/stress-management">Stress Rescue</a></div></div>
+    <div><h4>Contact</h4><div class="col"><a href="https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation." target="_blank" rel="noopener noreferrer">WhatsApp · +420 792 908 296</a><a href="https://www.facebook.com/radu.coman.338" target="_blank" rel="noopener noreferrer">Facebook</a><a href="mailto:radu@thepathofinitiationprague.com">radu@thepathofinitiationprague.com</a><a href="/certifications">Certifications</a><a href="/testimonials">Testimonials</a><a href="/blog">Blog</a></div></div>
+  </div>
+  <div class="cert"><a href="https://modernmysteryschoolint.com/certified-professionals/" target="_blank" rel="noopener noreferrer"><img src="/images/certified-by-mms-new.png" alt="Certified by the Modern Mystery School — The Path of Initiation Prague" width="260" height="104"></a></div>
+  <div class="bot"><p>© 2026 The Path of Initiation Prague · Radu &amp; Diana Coman. All rights reserved.</p><div><a href="/privacy-policy">Privacy Policy</a><a href="/terms-and-conditions">Terms and Conditions</a><a href="/withdraw-from-contract">Withdraw from a Contract</a></div></div>
 </div></footer>
+<script>
+(function(){var b=document.querySelector(".sburger"),m=document.querySelector(".smob");if(!b||!m)return;b.addEventListener("click",function(){var o=m.classList.toggle("open");b.setAttribute("aria-expanded",o)});m.addEventListener("click",function(e){if(e.target.tagName==="A")m.classList.remove("open")})})();
+</script>
 </body></html>
