@@ -14,6 +14,10 @@ import {
 import { HealingGroup, type Healing } from "@/components/healing-grid"
 import { ScrollReveal } from "@/components/scroll-reveal"
 
+const LIFE_ACTIVATION_STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
+const FULL_SPIRIT_ACTIVATION_STRIPE = "https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t"
+const AURA_HEALING_STRIPE = "https://buy.stripe.com/8x29AM0ndbsic3j94ng360y"
+
 export async function generateMetadata({
   params,
 }: {
@@ -39,20 +43,38 @@ export default async function Healings({
   const t = await getTranslations({ locale, namespace: "Healings" })
 
   const activations: Healing[] = [
-    { name: BRAND.lifeActivation, tag: t("groups.activations.items.0.tag"), description: t("groups.activations.items.0.description") },
-    { name: BRAND.fullSpiritActivation, description: t("groups.activations.items.1.description") },
+    {
+      name: BRAND.lifeActivation,
+      tag: t("groups.activations.items.0.tag"),
+      description: t("groups.activations.items.0.description"),
+      price: "8.500 CZK",
+      bookHref: LIFE_ACTIVATION_STRIPE,
+      detailsHref: "/life-activation",
+    },
+    {
+      name: BRAND.fullSpiritActivation,
+      description: t("groups.activations.items.1.description"),
+      price: "8.500 CZK",
+      bookHref: FULL_SPIRIT_ACTIVATION_STRIPE,
+      detailsHref: "/full-spirit-activation",
+    },
     { name: t("groups.activations.items.2.name"), description: t("groups.activations.items.2.description") },
-    { name: t("groups.activations.items.3.name"), description: t("groups.activations.items.3.description") },
   ]
 
   const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5].map((i) => ({
     name: i === 0 ? t("groups.auraEnergy.items.0.name", { brand: BRAND.sacredGeometry }) : t(`groups.auraEnergy.items.${i}.name`),
     description: t(`groups.auraEnergy.items.${i}.description`),
+    ...(i === 0
+      ? { price: "4.800 CZK", bookHref: AURA_HEALING_STRIPE, detailsHref: "/aura-healing" }
+      : {}),
   }))
 
   const readings: Healing[] = [0, 1, 2].map((i) => ({
     name: t(`groups.readings.items.${i}.name`),
     description: t(`groups.readings.items.${i}.description`),
+    ...(i === 0
+      ? { price: "6.150 CZK", detailsHref: "/life-purpose-reading" }
+      : {}),
   }))
 
   const bodyWork: Healing[] = [0, 1, 2, 3, 4].map((i) => ({
@@ -77,7 +99,7 @@ export default async function Healings({
         <Body>
           {t("specialtyLead")}{" "}
           <Link href="/specialty-healings" className="text-primary underline transition-colors hover:text-gold-light">
-            {t("specialtyLinkLabel", { brand: BRAND.sacredGeometry })}
+            {t("specialtyLinkLabel")}
           </Link>
         </Body>
       </Panel>

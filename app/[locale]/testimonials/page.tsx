@@ -75,7 +75,7 @@ export default async function Testimonials({
                     <div className="aspect-square border border-border bg-muted rounded-lg overflow-hidden">
                       <Image
                         src="/images/maria.webp"
-                        alt="Maria - Healers Academy Student"
+                        alt="Maria - Healers Academy Student at The Path of Initiation Prague"
                         width={400}
                         height={400}
                         className="w-full h-full object-cover"
@@ -113,7 +113,7 @@ export default async function Testimonials({
                     <div className="aspect-square border border-border bg-muted rounded-lg overflow-hidden">
                       <Image
                         src="/images/ana.jpg"
-                        alt="Ana"
+                        alt="Ana - Testimonial at The Path of Initiation Prague"
                         width={400}
                         height={400}
                         className="w-full h-full object-cover"

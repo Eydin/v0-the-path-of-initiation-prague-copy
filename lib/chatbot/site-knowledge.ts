@@ -20,7 +20,7 @@ How to move with intention, meet your guides, and ask the right questions.
 Grounding & integration:
 Return clearly and bring the wisdom of your journeys into daily life.
 Step Beyond the Body
-5 Hours
+4.5 Hours
 Workshops are scheduled in small groups. Reach out for the next available date in Prague.
 Hello, I would like to learn more about the Astral Travel workshop.
 
@@ -53,6 +53,7 @@ Organization
 ## PAGE: /blog
 King Salomon · Magick · Alchemy
 force-dynamic
+The Path of Initiation Prague
 Modern Mystery School blog
 King Salomon
 Blog | The Path of Initiation Prague
@@ -67,6 +68,7 @@ Scheduled
 Needs Review
 
 ## PAGE: /calendar
+force-dynamic
 The Path Ahead
 Calendar of Classes
 Every activation, initiation, workshop and community gathering held in Prague and other international locations over the coming season. Follow the path one step at a time.
@@ -79,12 +81,13 @@ Not sure where to begin? Reach out and Radu will guide you personally.
 Ask About a Class
 
 ## PAGE: /certifications
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 Certifications
 Radu and Diana are here to support you in creating a life worth waking up for
 Every morning
 The certifications for the classes, initiations and healing sessions that Radu and Diana offer come from Modern Mystery School International .
 They have each undergone numerous initiations and trainings to prepare themselves and to be able to hold the energy for the transformation to happen for their students.
-Certified by the Modern Mystery School
+Certified by the Modern Mystery School — The Path of Initiation Prague
 Radu's Qualifications
 Radu is a certified Guide and Teacher in the lineage of the Modern Mystery School.
 Radu is also certified as a Life Activation Practitioner and Healer , recertified annually.
@@ -94,6 +97,9 @@ Diana is a certified Teacher in the lineage of the Modern Mystery School.
 Diana is also certified as a Life Activation Practitioner and Healer , recertified annually.
 Diana has completed all three levels of Ensofic Ray Healing .
 Diplomas & Certificates
+Walk the Path
+These certifications are not the point — they are the proof of a lineage faithfully carried, so that what is offered to you is authentic. The door is open to those who feel the call.
+Begin Your Journey
 
 ## PAGE: /community
 lucide-react
@@ -270,6 +276,16 @@ Intensive Program & Initiation
 Healers Academy is a 5-day intensive program.
 
 ## PAGE: /healings
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
+https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
+https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
+8.500 CZK
+/life-activation
+/full-spirit-activation
+4.800 CZK
+/aura-healing
+6.150 CZK
+/life-purpose-reading
 In the Lineage of King Salomon
 Healing Modalities
 A range of healings for body, mind and soul
@@ -277,6 +293,7 @@ Each session is offered one-to-one — reach out to inquire about any of them
 A living tradition of healing
 The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu will guide you from there.
 For the deeper, specialised work of the tradition, see the
+Specialty Healings →
 Hello, I would like to inquire about the healing modalities.
 Begin Your Healing
 Tell Radu a little about where you are right now, and he will help you choose the healing that serves you best.
@@ -287,8 +304,6 @@ The foundational session of the lineage — activates 22 of the 24 DNA strands a
 Deepens your connection to the soul and higher self beyond the Life Activation.
 Galactic Activation
 Progressive activation of the Galactic and Divinity codes within your physical and spiritual DNA.
-11th Codon Reading
-Activates the 11th and 12th spiritual and physical DNA strands beyond the Life Activation.
 Aura & Energy Healings
 Clearing, repairing and protecting your energetic field.
 Clears, balances and seals the seven layers of the aura through the geometry of light.
@@ -304,8 +319,8 @@ Crystal Healing
 Ancient lineage techniques working with crystals for healing, intuition and protection.
 Readings & Guidance
 Insight into your purpose, your soul and your path.
-Purpose of Life Reading
-A reading to help you identify and align with your divine life purpose.
+Life Purpose & 11th Codon Reading
+A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation.
 Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
@@ -420,8 +435,30 @@ Book Now
 Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
 
+## PAGE: /life-purpose-reading
+A Reading of the Mystery School
+Life Purpose & 11th Codon Reading
+Discover your purpose, and activate the codons that carry it
+A reading of your soul's design, and the DNA strands that encode it
+Your purpose was never hidden — only waiting to be read
+This session combines two readings into one. First, a Life Purpose Reading — where your energy field is read to identify your divine purpose, the gifts you carry, and the direction your path is asking you to take. Then, the 11th Codon Reading — which activates the 11th and 12th spiritual and physical DNA strands beyond what the Life Activation opens, anchoring that purpose more fully into your body.
+Together, they give you both the map and the fuel: clarity about where you are going, and an activation that helps your body carry you there.
+What You Gain
+Clarity on your purpose:
+Understand the divine purpose you came here to live, in plain, practical language.
+Your unique gifts named:
+Recognize the specific gifts and strengths encoded within you, often hidden in plain sight.
+Deeper DNA activation:
+Activate the 11th and 12th strands, extending the work begun in your Life Activation.
+A clearer next step:
+Leave with a concrete sense of direction, not just inspiration.
+Read Your Purpose
+60–90 Minutes
+After you reach out, we will contact you personally to finalise your appointment.
+Hello, I would like to learn more about the Life Purpose & 11th Codon Reading.
+
 ## PAGE: /lineage
-https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Lineage%20and%20the%20Path%20of%20Initiation.
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 Gudni GED Gudnason
 Hideto REI Nakagome
 Dave THOR Lanyon
@@ -596,7 +633,7 @@ Apply these forms for focus, meditation, manifestation and healing.
 Living the pattern:
 See the order beneath everyday life and align yourself with it.
 Read the Language of Creation
-5 Hours
+4.5 Hours
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
 
 ## PAGE: /seven-mystery-schools
@@ -727,6 +764,7 @@ Back to home
 Need to withdraw from a contract? Use our online withdrawal form →
 
 ## PAGE: /testimonials
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 The Journey of Transformation
 Maria - Mother, CEO and Healer
 Life Activation Practitioner, Prague, Czech Republic
@@ -756,6 +794,9 @@ How have the tools and practices helped you?
 The work with the body, with moon cycles, with rituals, with meditation—it's so important. It's not easy, it's really hard, but when you put it inside and work with yourself, you get it.
 I'm so thankful that I was made to feel safe to be the way I am, who I am. It made me feel like I could trust myself again and remember who I am.
 More Student Journeys
+Your Journey Can Begin Too
+Every story above started the same way it can for you — with a single first step. The door is open to those who feel the call.
+Begin Your Journey
 
 ## PAGE: /withdraw-from-contract
 Withdraw from the Contract | The Path of Initiation Prague
@@ -778,6 +819,11 @@ Submitting…
 Received — check your inbox for a confirmation e-mail.
 Something went wrong. Please try again, or e-mail us directly at radu@thepathofinitiationprague.com.
 All fields are required unless marked optional.
+
+## PAGE: (component) calendar-widget-section.tsx
+Explore Our Calendar
+See every activation, initiation, workshop and community gathering coming up in Prague.
+View Calendar
 
 ## PAGE: (component) classes-section.tsx
 Upcoming Events
@@ -834,10 +880,11 @@ If you feel called to learn more about our upcoming gatherings, get precise logi
 Contact the Community
 
 ## PAGE: (component) cta-section.tsx
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 Your Invitation
 Are You Ready to Walk the Path?
-The door is open, but only you can choose to step through it. If you feel the call, take the first step and apply for a personal consultation with Radu and Diana Coman.
-Email
+The door is open, but only you can choose to step through it. If you feel the call, let's start with the beginning: the Life Activation.
+Book a Life Activation
 
 ## PAGE: (component) ending-section.tsx
 Where All Worlds Meet
@@ -860,7 +907,7 @@ Years of Unbroken Lineage
 Countries Worldwide
 Thousands
 Of Lives Transformed
-Follow the Journey of Our Students
+Follow the Journey of Our Students and Teachers
 Wall of Love
 The initiation ceremony was beyond my imagination. I felt genuinely welcome and it truly feels like I've found a community that I'm super happy to belong to.
 Maria from Czech Republic
@@ -868,6 +915,21 @@ Radu didn't tell me what to do and what not to do. He really helps me to hear my
 Ana from Czech Republic
 I came seeking answers and found a whole new dimension of life. The tools I received are beyond anything I imagined.
 Sophie from Canada
+
+## PAGE: (component) faq-section.tsx
+./ui/accordion
+Before You Begin
+Frequently Asked Questions
+I'm new to this — where should I start?
+Begin with a Life Activation — a gentle, profound entry point that needs no prior knowledge or spiritual background. If you'd like guidance first, reach out on WhatsApp and Radu or Diana will help you find the right first step.
+What is the Modern Mystery School, and the lineage of King Salomon?
+A spiritual lineage tracing back over 3,000 years, carried hand to hand through initiation rather than written teaching alone — not a recent pop-up, but a system handed down intact from teacher to student, refined for many generations.
+Do I need to believe in anything specific for this to work?
+No. Bring your doubts with you if you have them — most people who walk this path did too, when they started. You don't need a particular belief system, only a willingness to show up, receive with an open mind and do the work that is presented to you to experience the transformation for yourself.
+How is this different from therapy or coaching?
+This is spiritual and energetic work, not a medical or psychological service — it doesn't replace therapy or any treatment prescribed by a doctor. Many people do both, side by side.
+How do I know which session is right for me?
+Reach out on WhatsApp and share a little about what's going on — Radu and Diana will guide you to understand what will benefit you the most in your current situation.
 
 ## PAGE: (component) footer.tsx
 PATH OF
@@ -878,7 +940,7 @@ Aura Healing
 Contact
 WhatsApp · +420 792 908 296
 Facebook
-Certified by the Modern Mystery School
+Certified by the Modern Mystery School — The Path of Initiation Prague
 Privacy Policy
 Terms and Conditions
 Withdraw from a Contract
@@ -988,6 +1050,8 @@ Community
 
 ## PAGE: (component) healing-grid.tsx
 Inquire
+Book Now
+See Details
 
 ## PAGE: (component) hero-section.tsx
 Prague, Czech Republic
@@ -1033,14 +1097,14 @@ end start
 The Foundation
 The Four Pillars of Transformation
 Each pillar builds upon the last, creating a complete system of spiritual evolution that has stood the test of time.
-Spiritual Knowledge
-Deepen your understanding of the universe and the metaphysical laws that govern all of creation. Access teachings that have been preserved for over three millennia by an unbroken lineage of initiates.
-Practical Magic
-Awaken dormant powers within yourself and learn to direct energy to create tangible, real-world outcomes. This is not theory; it is the practical application of universal principles.
-Divine Purpose
-Develop your soul and forge a living connection with your Higher Purpose. Discover why you are here, what you are meant to create, and how to align every aspect of your life with your true calling.
-Healing Modalities
-Learn sacred healing techniques that allow you to be of profound service to others. Become a channel for transformation and help others awaken to their own divine potential.
+Activation
+Awaken your DNA and restore your connection to your Spirit. This work begins with the Life Activation and continues through the Full Spirit Activation.
+Initiation
+Purify and prepare the vessel to receive the pure Light of Spirit and manifest it without distortion into the physical — the path opened by Empower Thyself.
+Study & Learn
+By mastering the arts and sciences of Sacred Geometry, Astral Travel, Kabbalah and many more, you become a master of your physical life.
+Serving Others
+Life is not complete, and you cannot fully understand it, unless you also strive to be of service to others. By guiding, healing, teaching and generally supporting others in their needs, you become the full version of yourself.
 
 ## PAGE: (component) sacred-geometry-series-links.tsx
 sacred-geometry

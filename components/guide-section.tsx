@@ -40,7 +40,7 @@ export function GuideSection() {
               <div className="absolute -inset-3 -z-10 rounded-sm bg-primary/15 blur-2xl" aria-hidden />
               <KenBurns
                 src="/images/Radu2.jpg"
-                alt="Radu Coman — Guide and Teacher in the Lineage of King Salomon"
+                alt="Radu Coman — Guide and Teacher in the Lineage of King Salomon at The Path of Initiation Prague"
                 position="center 25%"
                 sizes="(max-width: 1024px) 90vw, 28rem"
                 className="aspect-[3/4] w-full rounded-sm border border-primary/40 shadow-2xl shadow-black/60 ring-1 ring-primary/10"
@@ -122,7 +122,7 @@ export function GuideSection() {
               <div className="absolute -inset-3 -z-10 rounded-sm bg-primary/15 blur-2xl" aria-hidden />
               <KenBurns
                 src="/images/diana-coman.jpeg"
-                alt="Diana Coman — Teacher and Healer"
+                alt="Diana Coman — Teacher and Healer at The Path of Initiation Prague"
                 position="center 25%"
                 sizes="(max-width: 1024px) 90vw, 28rem"
                 className="aspect-[3/4] w-full rounded-sm border border-primary/40 shadow-2xl shadow-black/60 ring-1 ring-primary/10"

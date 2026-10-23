@@ -39,7 +39,7 @@
     "contact": "Kontakt",
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
-    "certifiedAlt": "Certifikováno Modern Mystery School",
+    "certifiedAlt": "Certifikováno Modern Mystery School — The Path of Initiation Prague",
     "copyright": "© {year} The Path of Initiation Prague · Radu & Diana Coman. Všechna práva vyhrazena.",
     "privacyPolicy": "Zásady ochrany osobních údajů",
     "terms": "Všeobecné obchodní podmínky",
@@ -477,7 +477,9 @@
   },
   "HealingGrid": {
     "inquire": "Zeptat se",
-    "inquiryTemplate": "Ahoj, rád(a) bych se zeptal(a) na léčení {name}."
+    "inquiryTemplate": "Ahoj, rád(a) bych se zeptal(a) na léčení {name}.",
+    "bookNow": "Rezervovat",
+    "details": "Zobrazit detaily"
   },
   "Healings": {
     "heroEyebrow": "V linii krále Šalomouna",
@@ -487,7 +489,7 @@
     "introLead": "Živá tradice léčení",
     "introBody": "Modern Mystery School nese jeden z nejstarších a nejúplnějších léčebných systémů na Zemi — shromážděný králem Šalomounem a udržovaný celistvý nepřerušenou linií. Níže naleznete škálu léčení dostupných v Praze. Nemusíte vědět, které je pro vás to pravé. Stačí prozkoumat a zeptat se na cokoli, co vás osloví — Radu vás odtud provede dál.",
     "specialtyLead": "Pro hlubší, specializovanou práci tradice se podívejte na",
-    "specialtyLinkLabel": "speciální léčení {brand} →",
+    "specialtyLinkLabel": "Speciální léčení →",
     "inquiry": "Ahoj, chtěl(a) bych se zeptat na léčebné modality.",
     "ctaHeading": "Začněte své léčení",
     "ctaBody": "Řekněte Radu trochu o tom, kde se právě nacházíte, a on vám pomůže vybrat léčení, které vám poslouží nejlépe.",
@@ -498,8 +500,7 @@
         "items": [
           { "tag": "Základ", "description": "Základní sezení linie — aktivuje 22 z 24 vláken DNA a váš božský plán." },
           { "description": "Prohlubuje vaše spojení s duší a vyšším já nad rámec Life Activation." },
-          { "name": "Galaktická aktivace", "description": "Postupná aktivace galaktických a božských kódů ve vaší fyzické a duchovní DNA." },
-          { "name": "Čtení 11. kodonu", "description": "Aktivuje 11. a 12. duchovní a fyzické vlákno DNA nad rámec Life Activation." }
+          { "name": "Galaktická aktivace", "description": "Postupná aktivace galaktických a božských kódů ve vaší fyzické a duchovní DNA." }
         ]
       },
       "auraEnergy": {
@@ -518,7 +519,7 @@
         "title": "Čtení a vedení",
         "blurb": "Vhled do vašeho poslání, vaší duše a vaší cesty.",
         "items": [
-          { "name": "Čtení životního poslání", "description": "Čtení, které vám pomůže identifikovat a sladit se s vaším božským životním posláním." },
+          { "name": "Čtení životního poslání a 11. kodonu", "description": "Čtení vašeho božského poslání a darů, které nesete, spojené s aktivací 11. a 12. vlákna DNA nad rámec Life Activation." },
           { "name": "Návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
           { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." }
         ]
@@ -591,6 +592,26 @@
     "duration": "2 hodiny",
     "bookingNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand} — léčení aury."
+  },
+  "LifePurposeReading": {
+    "heroEyebrow": "Čtení mysterijní školy",
+    "heroTitle": "Čtení životního poslání a 11. kodonu",
+    "heroSubtitle": "Objevte své poslání a aktivujte kodony, které je nesou",
+    "heroTagline": "Čtení plánu vaší duše a vláken DNA, která jej kódují",
+    "introLead": "Vaše poslání nikdy nebylo skryté — jen čekalo, až bude přečteno",
+    "introBody1": "Toto sezení spojuje dvě čtení do jednoho. Nejprve Čtení životního poslání — kdy je vaše energetické pole čteno, abychom identifikovali vaše božské poslání, dary, které nesete, a směr, kterým vás vaše cesta volá. Poté Čtení 11. kodonu — které aktivuje 11. a 12. duchovní a fyzické vlákno DNA nad rámec toho, co otevírá Life Activation, a ukotvuje toto poslání hlouběji ve vašem těle.",
+    "introBody2": "Společně vám dávají mapu i palivo: jasnost o tom, kam směřujete, a aktivaci, která vašemu tělu pomáhá vás tam donést.",
+    "benefitsHeading": "Co získáte",
+    "benefits": [
+      { "label": "Jasnost ohledně vašeho poslání:", "text": "Pochopte božské poslání, pro které jste sem přišli, srozumitelným a praktickým jazykem." },
+      { "label": "Pojmenování vašich jedinečných darů:", "text": "Rozpoznejte konkrétní dary a silné stránky ve vás zakódované, často skryté na očích všem." },
+      { "label": "Hlubší aktivace DNA:", "text": "Aktivujte 11. a 12. vlákno a rozšiřte práci započatou při vaší Life Activation." },
+      { "label": "Jasnější další krok:", "text": "Odejděte s konkrétním smyslem pro směr, nejen s inspirací." }
+    ],
+    "bookingTitle": "Přečtěte si své poslání",
+    "duration": "60–90 minut",
+    "bookingNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Čtení životního poslání a 11. kodonu."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "Workshop mysterijní školy",
@@ -934,7 +955,7 @@
     "everyMorning": "Každé ráno",
     "introLead": "Certifikace pro kurzy, iniciace a léčebná sezení, které Radu a Diana nabízejí, pocházejí z <mms>Modern Mystery School International</mms>.",
     "introBody": "Oba prošli řadou iniciací a výcviků, aby se připravili a byli schopni udržet energii potřebnou k tomu, aby se u jejich studentů mohla uskutečnit proměna.",
-    "certifiedAlt": "Certifikováno Modern Mystery School",
+    "certifiedAlt": "Certifikováno Modern Mystery School — The Path of Initiation Prague",
     "qualificationsHeading": "Raduho kvalifikace",
     "qualifications": [
       "Radu je certifikovaný <bold>průvodce</bold> a <bold>učitel</bold> v linii Modern Mystery School.",
@@ -1042,7 +1063,9 @@
     "sendAriaLabel": "Odeslat",
     "errorFallback": "**Je mi líto** — momentálně nemám přístup ke svým znalostem. Radu vám rád pomůže osobně na WhatsApp.",
     "messageRaduWhatsapp": "Napsat Radu na WhatsApp",
-    "talkToRaduWhatsapp": "Promluvit si s Radu na WhatsApp"
+    "talkToRaduWhatsapp": "Promluvit si s Radu na WhatsApp",
+    "nudgeQuestion": "Máte pro mě nějaké otázky?",
+    "dismissNudgeAriaLabel": "Zavřít"
   },
   "CalendarPage": {
     "eyebrow": "Cesta před vámi",

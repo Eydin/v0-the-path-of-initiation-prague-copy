@@ -39,7 +39,7 @@
     "contact": "Contact",
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
-    "certifiedAlt": "Certificat de Modern Mystery School",
+    "certifiedAlt": "Certificat de Modern Mystery School — The Path of Initiation Prague",
     "copyright": "© {year} The Path of Initiation Prague · Radu & Diana Coman. Toate drepturile rezervate.",
     "privacyPolicy": "Politica de confidențialitate",
     "terms": "Termeni și condiții",
@@ -477,7 +477,9 @@
   },
   "HealingGrid": {
     "inquire": "Întreabă",
-    "inquiryTemplate": "Bună, aș dori să întreb despre vindecarea {name}."
+    "inquiryTemplate": "Bună, aș dori să întreb despre vindecarea {name}.",
+    "bookNow": "Rezervă acum",
+    "details": "Vezi detalii"
   },
   "Healings": {
     "heroEyebrow": "În linia regelui Solomon",
@@ -487,7 +489,7 @@
     "introLead": "O tradiție vie de vindecare",
     "introBody": "Modern Mystery School poartă unul dintre cele mai vechi și complete sisteme de vindecare de pe Pământ — adunat de regele Solomon și păstrat întreg printr-o linie neîntreruptă. Mai jos găsești gama de vindecări disponibile în Praga. Nu trebuie să știi care este potrivită pentru tine. Explorează pur și simplu și întreabă despre orice te atrage — Radu te va ghida de acolo.",
     "specialtyLead": "Pentru munca mai profundă, specializată, a tradiției, vezi",
-    "specialtyLinkLabel": "vindecările speciale {brand} →",
+    "specialtyLinkLabel": "Vindecări speciale →",
     "inquiry": "Bună, aș dori să întreb despre modalitățile de vindecare.",
     "ctaHeading": "Începe-ți vindecarea",
     "ctaBody": "Spune-i lui Radu puțin despre unde te afli acum, iar el te va ajuta să alegi vindecarea care ți se potrivește cel mai bine.",
@@ -498,8 +500,7 @@
         "items": [
           { "tag": "Fundație", "description": "Ședința fundamentală a liniei — activează 22 din cele 24 de fire de ADN și planul tău divin." },
           { "description": "Îți adâncește conexiunea cu sufletul și sinele superior, dincolo de Life Activation." },
-          { "name": "Activare Galactică", "description": "Activarea progresivă a codurilor Galactice și Divine din ADN-ul tău fizic și spiritual." },
-          { "name": "Citirea celui de-al 11-lea codon", "description": "Activează firele de ADN spirituale și fizice 11 și 12, dincolo de Life Activation." }
+          { "name": "Activare Galactică", "description": "Activarea progresivă a codurilor Galactice și Divine din ADN-ul tău fizic și spiritual." }
         ]
       },
       "auraEnergy": {
@@ -518,7 +519,7 @@
         "title": "Lecturi și îndrumare",
         "blurb": "Perspectivă asupra scopului tău, a sufletului tău și a căii tale.",
         "items": [
-          { "name": "Lectura scopului vieții", "description": "O lectură care te ajută să identifici și să te aliniezi cu scopul tău divin de viață." },
+          { "name": "Lectura Scopului Vieții și a celui de-al 11-lea Codon", "description": "O lectură a scopului tău divin și a darurilor pe care le porți, însoțită de activarea firelor de ADN 11 și 12, dincolo de Life Activation." },
           { "name": "Recuperarea sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
           { "name": "Scânteia vieții — vindecare la distanță", "description": "O vindecare la distanță care îți aduce energie restauratoare de la orice distanță." }
         ]
@@ -591,6 +592,26 @@
     "duration": "2 ore",
     "bookingNote": "După ce ne contactezi, te vom contacta personal pentru a finaliza programarea.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Vindecarea Aurică {brand}."
+  },
+  "LifePurposeReading": {
+    "heroEyebrow": "O lectură a Școlii Misterelor",
+    "heroTitle": "Lectura Scopului Vieții și a celui de-al 11-lea Codon",
+    "heroSubtitle": "Descoperă-ți scopul și activează codonii care îl poartă",
+    "heroTagline": "O lectură a planului sufletului tău și a firelor de ADN care îl codifică",
+    "introLead": "Scopul tău nu a fost niciodată ascuns — doar aștepta să fie citit",
+    "introBody1": "Această ședință combină două lecturi într-una singură. Mai întâi, o Lectură a Scopului Vieții — în care câmpul tău energetic este citit pentru a identifica scopul tău divin, darurile pe care le porți și direcția spre care te cheamă calea ta. Apoi, Lectura celui de-al 11-lea Codon — care activează firele de ADN spirituale și fizice 11 și 12, dincolo de ceea ce deschide Life Activation, ancorând acest scop mai profund în corpul tău.",
+    "introBody2": "Împreună, îți oferă atât harta, cât și combustibilul: claritate despre încotro te îndrepți și o activare care îți ajută corpul să te ducă acolo.",
+    "benefitsHeading": "Ce câștigi",
+    "benefits": [
+      { "label": "Claritate asupra scopului tău:", "text": "Înțelege scopul divin pentru care ai venit aici, într-un limbaj simplu și practic." },
+      { "label": "Darurile tale unice, numite:", "text": "Recunoaște darurile și punctele forte specifice codificate în tine, adesea ascunse la vedere." },
+      { "label": "Activare mai profundă a ADN-ului:", "text": "Activează firele 11 și 12, extinzând lucrarea începută la Life Activation." },
+      { "label": "Un pas următor mai clar:", "text": "Pleci cu un sens concret al direcției, nu doar cu inspirație." }
+    ],
+    "bookingTitle": "Citește-ți scopul",
+    "duration": "60–90 de minute",
+    "bookingNote": "După ce ne contactezi, te vom contacta personal pentru a finaliza programarea.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre Lectura Scopului Vieții și a celui de-al 11-lea Codon."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "Un atelier al Școlii Misterelor",
@@ -934,7 +955,7 @@
     "everyMorning": "În fiecare dimineață",
     "introLead": "Certificările pentru cursurile, inițierile și ședințele de vindecare pe care le oferă Radu și Diana provin de la <mms>Modern Mystery School International</mms>.",
     "introBody": "Amândoi au trecut prin numeroase inițieri și pregătiri pentru a se pregăti și pentru a putea susține energia necesară transformării studenților lor.",
-    "certifiedAlt": "Certificat de Modern Mystery School",
+    "certifiedAlt": "Certificat de Modern Mystery School — The Path of Initiation Prague",
     "qualificationsHeading": "Calificările lui Radu",
     "qualifications": [
       "Radu este un <bold>Ghid</bold> și <bold>Profesor</bold> certificat în linia Modern Mystery School.",
@@ -1042,7 +1063,9 @@
     "sendAriaLabel": "Trimite",
     "errorFallback": "**Îmi pare rău** — nu pot accesa cunoștințele mele chiar acum. Radu te va ajuta cu plăcere personal pe WhatsApp.",
     "messageRaduWhatsapp": "Trimite-i mesaj lui Radu pe WhatsApp",
-    "talkToRaduWhatsapp": "Vorbește cu Radu pe WhatsApp"
+    "talkToRaduWhatsapp": "Vorbește cu Radu pe WhatsApp",
+    "nudgeQuestion": "Ai vreo întrebare pentru mine?",
+    "dismissNudgeAriaLabel": "Închide"
   },
   "CalendarPage": {
     "eyebrow": "Calea din față",

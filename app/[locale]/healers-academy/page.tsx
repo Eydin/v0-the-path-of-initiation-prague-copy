@@ -49,6 +49,14 @@ export default async function HealersAcademy({
         tagline={t("heroTagline")}
       />
 
+      <BookingBlock
+        slug="healers-academy"
+        title={t("bookingTitle")}
+        duration={t("duration")}
+        inquiry={inquiry}
+        note={t("bookingNote")}
+      />
+
       <Panel>
         <Lead>{t("introLead", { brand: BRAND.empowerThyself })}</Lead>
         <Body>{t("introBody1", { brand: BRAND.healersAcademy })}</Body>
@@ -81,13 +89,6 @@ export default async function HealersAcademy({
         <Body>{t("whoBody2")}</Body>
       </Panel>
 
-      <BookingBlock
-        slug="healers-academy"
-        title={t("bookingTitle")}
-        duration={t("duration")}
-        inquiry={inquiry}
-        note={t("bookingNote")}
-      />
     </ModalityShell>
   )
 }

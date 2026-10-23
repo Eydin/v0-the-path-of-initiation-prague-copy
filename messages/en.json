@@ -39,7 +39,7 @@
     "contact": "Contact",
     "whatsapp": "WhatsApp · +420 792 908 296",
     "facebook": "Facebook",
-    "certifiedAlt": "Certified by the Modern Mystery School",
+    "certifiedAlt": "Certified by the Modern Mystery School — The Path of Initiation Prague",
     "copyright": "© {year} The Path of Initiation Prague · Radu & Diana Coman. All rights reserved.",
     "privacyPolicy": "Privacy Policy",
     "terms": "Terms and Conditions",
@@ -516,7 +516,9 @@
   },
   "HealingGrid": {
     "inquire": "Inquire",
-    "inquiryTemplate": "Hello, I would like to inquire about the {name} healing."
+    "inquiryTemplate": "Hello, I would like to inquire about the {name} healing.",
+    "bookNow": "Book Now",
+    "details": "See Details"
   },
   "Healings": {
     "heroEyebrow": "In the Lineage of King Salomon",
@@ -526,7 +528,7 @@
     "introLead": "A living tradition of healing",
     "introBody": "The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu will guide you from there.",
     "specialtyLead": "For the deeper, specialised work of the tradition, see the",
-    "specialtyLinkLabel": "{brand} specialty healings →",
+    "specialtyLinkLabel": "Specialty Healings →",
     "inquiry": "Hello, I would like to inquire about the healing modalities.",
     "ctaHeading": "Begin Your Healing",
     "ctaBody": "Tell Radu a little about where you are right now, and he will help you choose the healing that serves you best.",
@@ -537,8 +539,7 @@
         "items": [
           { "tag": "Foundation", "description": "The foundational session of the lineage — activates 22 of the 24 DNA strands and your divine blueprint." },
           { "description": "Deepens your connection to the soul and higher self beyond the Life Activation." },
-          { "name": "Galactic Activation", "description": "Progressive activation of the Galactic and Divinity codes within your physical and spiritual DNA." },
-          { "name": "11th Codon Reading", "description": "Activates the 11th and 12th spiritual and physical DNA strands beyond the Life Activation." }
+          { "name": "Galactic Activation", "description": "Progressive activation of the Galactic and Divinity codes within your physical and spiritual DNA." }
         ]
       },
       "auraEnergy": {
@@ -557,7 +558,7 @@
         "title": "Readings & Guidance",
         "blurb": "Insight into your purpose, your soul and your path.",
         "items": [
-          { "name": "Purpose of Life Reading", "description": "A reading to help you identify and align with your divine life purpose." },
+          { "name": "Life Purpose & 11th Codon Reading", "description": "A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation." },
           { "name": "Soul Retrieval", "description": "Recovers and reintegrates lost fragments of the self into wholeness." },
           { "name": "Spark of Life — Distance Healing", "description": "A remote healing that carries restorative energy to you across any distance." }
         ]
@@ -630,6 +631,26 @@
     "duration": "2 Hours",
     "bookingNote": "After you reach out, we will contact you personally to finalise your appointment.",
     "inquiry": "Hello, I would like to learn more about the {brand} Aura Healing."
+  },
+  "LifePurposeReading": {
+    "heroEyebrow": "A Reading of the Mystery School",
+    "heroTitle": "Life Purpose & 11th Codon Reading",
+    "heroSubtitle": "Discover your purpose, and activate the codons that carry it",
+    "heroTagline": "A reading of your soul's design, and the DNA strands that encode it",
+    "introLead": "Your purpose was never hidden — only waiting to be read",
+    "introBody1": "This session combines two readings into one. First, a Life Purpose Reading — where your energy field is read to identify your divine purpose, the gifts you carry, and the direction your path is asking you to take. Then, the 11th Codon Reading — which activates the 11th and 12th spiritual and physical DNA strands beyond what the Life Activation opens, anchoring that purpose more fully into your body.",
+    "introBody2": "Together, they give you both the map and the fuel: clarity about where you are going, and an activation that helps your body carry you there.",
+    "benefitsHeading": "What You Gain",
+    "benefits": [
+      { "label": "Clarity on your purpose:", "text": "Understand the divine purpose you came here to live, in plain, practical language." },
+      { "label": "Your unique gifts named:", "text": "Recognize the specific gifts and strengths encoded within you, often hidden in plain sight." },
+      { "label": "Deeper DNA activation:", "text": "Activate the 11th and 12th strands, extending the work begun in your Life Activation." },
+      { "label": "A clearer next step:", "text": "Leave with a concrete sense of direction, not just inspiration." }
+    ],
+    "bookingTitle": "Read Your Purpose",
+    "duration": "60–90 Minutes",
+    "bookingNote": "After you reach out, we will contact you personally to finalise your appointment.",
+    "inquiry": "Hello, I would like to learn more about the Life Purpose & 11th Codon Reading."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "A Workshop of the Mystery School",
@@ -973,7 +994,7 @@
     "everyMorning": "Every morning",
     "introLead": "The certifications for the classes, initiations and healing sessions that Radu and Diana offer come from <mms>Modern Mystery School International</mms>.",
     "introBody": "They have each undergone numerous initiations and trainings to prepare themselves and to be able to hold the energy for the transformation to happen for their students.",
-    "certifiedAlt": "Certified by the Modern Mystery School",
+    "certifiedAlt": "Certified by the Modern Mystery School — The Path of Initiation Prague",
     "qualificationsHeading": "Radu's Qualifications",
     "qualifications": [
       "Radu is a certified <bold>Guide</bold> and <bold>Teacher</bold> in the lineage of the Modern Mystery School.",
@@ -1081,7 +1102,9 @@
     "sendAriaLabel": "Send",
     "errorFallback": "**I'm sorry** — I can't reach my knowledge right now. Radu would be glad to help you personally on WhatsApp.",
     "messageRaduWhatsapp": "Message Radu on WhatsApp",
-    "talkToRaduWhatsapp": "Talk to Radu on WhatsApp"
+    "talkToRaduWhatsapp": "Talk to Radu on WhatsApp",
+    "nudgeQuestion": "Do you have any questions for me?",
+    "dismissNudgeAriaLabel": "Dismiss"
   },
   "CalendarPage": {
     "eyebrow": "The Path Ahead",

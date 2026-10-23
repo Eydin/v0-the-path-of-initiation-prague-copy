@@ -42,6 +42,7 @@ import { content as whatIsARitualMaster } from "./content/what-is-a-ritual-maste
 import { content as lifeActivationVsFullSpiritActivation } from "./content/life-activation-vs-full-spirit-activation"
 import { content as youAreASpiritualBeingFirst } from "./content/you-are-a-spiritual-being-first"
 import { content as structureBehindThePractice } from "./content/structure-behind-the-practice"
+import { content as whatIsSacredGeometry } from "./content/what-is-sacred-geometry"
 
 import { post as structureBehindThePracticeCs } from "./content/cs/structure-behind-the-practice"
 import { post as structureBehindThePracticeDe } from "./content/de/structure-behind-the-practice"
@@ -65,6 +66,9 @@ import { post as lifeActivationVsFullSpiritActivationRo } from "./content/ro/lif
 import { post as youAreASpiritualBeingFirstCs } from "./content/cs/you-are-a-spiritual-being-first"
 import { post as youAreASpiritualBeingFirstDe } from "./content/de/you-are-a-spiritual-being-first"
 import { post as youAreASpiritualBeingFirstRo } from "./content/ro/you-are-a-spiritual-being-first"
+import { post as whatIsSacredGeometryCs } from "./content/cs/what-is-sacred-geometry"
+import { post as whatIsSacredGeometryDe } from "./content/de/what-is-sacred-geometry"
+import { post as whatIsSacredGeometryRo } from "./content/ro/what-is-sacred-geometry"
 
 export type BlogCategory =
   | "Lineage & History"
@@ -705,6 +709,32 @@ export const BLOG_POSTS: BlogPost[] = [
       cs: structureBehindThePracticeCs,
       de: structureBehindThePracticeDe,
       ro: structureBehindThePracticeRo,
+    },
+  },
+  {
+    slug: "what-is-sacred-geometry",
+    title: "What Is Sacred Geometry, and Why Is It Called Sacred?",
+    excerpt:
+      "Why the mystery schools call Sacred Geometry the language of creation — the pure thoughts of God, and the 3 Keys to Heaven that unlock them.",
+    category: "Healing & Modalities",
+    coverImage: "flammarion.jpg",
+    readyToPost: true,
+    releaseDate: "2026-10-20",
+    keywords: [
+      "Sacred Geometry",
+      "what is sacred geometry",
+      "why is sacred geometry sacred",
+      "3 Keys to Heaven",
+      "Modern Mystery School",
+      "Lineage of King Salomon",
+      "language of creation",
+    ],
+    readTime: "7 min read",
+    content: whatIsSacredGeometry,
+    translations: {
+      cs: whatIsSacredGeometryCs,
+      de: whatIsSacredGeometryDe,
+      ro: whatIsSacredGeometryRo,
     },
   },
 ]

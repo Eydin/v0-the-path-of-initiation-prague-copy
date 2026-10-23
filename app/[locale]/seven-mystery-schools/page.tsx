@@ -49,6 +49,16 @@ export default async function SevenMysterySchools({
         tagline={t("heroTagline")}
       />
 
+      <BookingBlock
+        slug="seven-mystery-schools"
+        title={t("bookingTitle")}
+        investment="1.333 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        note={t("bookingNote")}
+        bookHref={STRIPE}
+      />
+
       <Panel>
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1")}</Body>
@@ -82,15 +92,6 @@ export default async function SevenMysterySchools({
         <BenefitList items={benefits} />
       </Panel>
 
-      <BookingBlock
-        slug="seven-mystery-schools"
-        title={t("bookingTitle")}
-        investment="1.333 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        note={t("bookingNote")}
-        bookHref={STRIPE}
-      />
     </ModalityShell>
   )
 }
