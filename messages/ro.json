@@ -1063,7 +1063,9 @@
     "sendAriaLabel": "Trimite",
     "errorFallback": "**Îmi pare rău** — nu pot accesa cunoștințele mele chiar acum. Radu te va ajuta cu plăcere personal pe WhatsApp.",
     "messageRaduWhatsapp": "Trimite-i mesaj lui Radu pe WhatsApp",
-    "talkToRaduWhatsapp": "Vorbește cu Radu pe WhatsApp"
+    "talkToRaduWhatsapp": "Vorbește cu Radu pe WhatsApp",
+    "nudgeQuestion": "Ai vreo întrebare pentru mine?",
+    "dismissNudgeAriaLabel": "Închide"
   },
   "CalendarPage": {
     "eyebrow": "Calea din față",

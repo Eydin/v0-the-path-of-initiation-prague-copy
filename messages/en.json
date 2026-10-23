@@ -1102,7 +1102,9 @@
     "sendAriaLabel": "Send",
     "errorFallback": "**I'm sorry** — I can't reach my knowledge right now. Radu would be glad to help you personally on WhatsApp.",
     "messageRaduWhatsapp": "Message Radu on WhatsApp",
-    "talkToRaduWhatsapp": "Talk to Radu on WhatsApp"
+    "talkToRaduWhatsapp": "Talk to Radu on WhatsApp",
+    "nudgeQuestion": "Do you have any questions for me?",
+    "dismissNudgeAriaLabel": "Dismiss"
   },
   "CalendarPage": {
     "eyebrow": "The Path Ahead",

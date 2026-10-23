@@ -292,6 +292,7 @@ Each session is offered one-to-one — reach out to inquire about any of them
 A living tradition of healing
 The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu will guide you from there.
 For the deeper, specialised work of the tradition, see the
+Specialty Healings →
 Hello, I would like to inquire about the healing modalities.
 Begin Your Healing
 Tell Radu a little about where you are right now, and he will help you choose the healing that serves you best.

@@ -1063,7 +1063,9 @@
     "sendAriaLabel": "Odeslat",
     "errorFallback": "**Je mi líto** — momentálně nemám přístup ke svým znalostem. Radu vám rád pomůže osobně na WhatsApp.",
     "messageRaduWhatsapp": "Napsat Radu na WhatsApp",
-    "talkToRaduWhatsapp": "Promluvit si s Radu na WhatsApp"
+    "talkToRaduWhatsapp": "Promluvit si s Radu na WhatsApp",
+    "nudgeQuestion": "Máte pro mě nějaké otázky?",
+    "dismissNudgeAriaLabel": "Zavřít"
   },
   "CalendarPage": {
     "eyebrow": "Cesta před vámi",

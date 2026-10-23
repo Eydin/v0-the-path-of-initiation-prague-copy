@@ -46,6 +46,7 @@ export function ChatWidget() {
   const [input, setInput] = useState("")
   const [streaming, setStreaming] = useState(false)
   const [error, setError] = useState(false)
+  const [showNudge, setShowNudge] = useState(false)
 
   const scrollRef = useRef<HTMLDivElement>(null)
   const inputRef = useRef<HTMLTextAreaElement>(null)
@@ -82,6 +83,19 @@ export function ChatWidget() {
 
   useEffect(() => {
     if (open) setTimeout(() => inputRef.current?.focus(), 200)
+  }, [open])
+
+  // Nudge the visitor toward the assistant 3:33 after they land on the site —
+  // skipped if they've already opened the chat by then.
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      if (!open) setShowNudge(true)
+    }, 3 * 60 * 1000 + 33 * 1000)
+    return () => clearTimeout(timer)
+  }, [])
+
+  useEffect(() => {
+    if (open) setShowNudge(false)
   }, [open])
 
   async function send() {
@@ -163,19 +177,48 @@ export function ChatWidget() {
     <>
       {/* Launcher */}
       {!open && (
-        <button
-          onClick={() => setOpen(true)}
-          aria-label={t("launcherAriaLabel")}
-          className="group chat-launcher-nudge fixed bottom-6 right-6 z-[60] flex items-center"
+        <div
+          className="fixed bottom-6 right-6 z-[60] flex items-center"
           style={{ bottom: "calc(1.5rem + env(safe-area-inset-bottom, 0px))" }}
         >
-          <span className="pointer-events-none mr-3 hidden translate-x-2 whitespace-nowrap rounded-full border border-primary/30 bg-background/90 px-4 py-2 font-serif text-sm tracking-wide text-foreground opacity-0 shadow-lg backdrop-blur-sm transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100 sm:inline-block">
-            {t("askAQuestion")}
-          </span>
-          <span className="chat-launcher-glow relative flex h-14 w-14 items-center justify-center rounded-full bg-primary text-primary-foreground ring-2 ring-primary/40 transition-transform duration-300 group-hover:scale-110">
-            <Sparkles className="h-6 w-6" />
-          </span>
-        </button>
+          {showNudge && (
+            <div className="mr-3 flex items-center gap-1.5 rounded-full border border-primary/30 bg-background/95 py-2 pl-4 pr-1.5 font-serif text-sm tracking-wide text-foreground shadow-lg backdrop-blur-sm animate-in fade-in slide-in-from-right-2">
+              <button
+                onClick={() => {
+                  setShowNudge(false)
+                  setOpen(true)
+                }}
+                className="whitespace-nowrap"
+              >
+                {t("nudgeQuestion")}
+              </button>
+              <button
+                onClick={(e) => {
+                  e.stopPropagation()
+                  setShowNudge(false)
+                }}
+                aria-label={t("dismissNudgeAriaLabel")}
+                className="flex h-5 w-5 flex-shrink-0 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-primary/10 hover:text-primary"
+              >
+                <X className="h-3.5 w-3.5" />
+              </button>
+            </div>
+          )}
+          <button
+            onClick={() => setOpen(true)}
+            aria-label={t("launcherAriaLabel")}
+            className="group chat-launcher-nudge flex items-center"
+          >
+            {!showNudge && (
+              <span className="pointer-events-none mr-3 hidden translate-x-2 whitespace-nowrap rounded-full border border-primary/30 bg-background/90 px-4 py-2 font-serif text-sm tracking-wide text-foreground opacity-0 shadow-lg backdrop-blur-sm transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100 sm:inline-block">
+                {t("askAQuestion")}
+              </span>
+            )}
+            <span className="chat-launcher-glow relative flex h-14 w-14 items-center justify-center rounded-full bg-primary text-primary-foreground ring-2 ring-primary/40 transition-transform duration-300 group-hover:scale-110">
+              <Sparkles className="h-6 w-6" />
+            </span>
+          </button>
+        </div>
       )}
 
       {/* Panel */}
