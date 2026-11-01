@@ -184,7 +184,7 @@ export default async function LocaleLayout({
         "url": SITE,
         "logo": `${SITE}/logo.png`,
         "image": `${SITE}/logo.png`,
-        "description": "A dedicated training program and mystery school path in Prague focused on spiritual knowledge, divine purpose, healing and practical magic — part of the Modern Mystery School lineage. Taught in English.",
+        "description": "A dedicated training program and mystery school path in Prague focused on spiritual knowledge, divine purpose, healing and practical magic — part of the Modern Mystery School lineage. All workshops and classes are taught in English.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Ve Smečkách 22, Nové Město",
@@ -292,7 +292,7 @@ export default async function LocaleLayout({
             "name": "What is The Path of Initiation Prague?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "The Path of Initiation Prague is a spiritual training path and mystery-school program in Prague, guided by Radu and Diana Coman, certified Guides in the Lineage of King Salomon (Modern Mystery School). It offers activations, initiations, healings and classes, taught in English."
+              "text": "The Path of Initiation Prague is a spiritual training path and mystery-school program in Prague, guided by Radu and Diana Coman, certified Guides in the Lineage of King Salomon (Modern Mystery School). It offers activations, initiations, healings and classes. All workshops and classes are taught in English."
             }
           },
           {
@@ -300,7 +300,7 @@ export default async function LocaleLayout({
             "name": "Who is Radu Coman?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Radu Coman is a Guide and Teacher in the Lineage of King Salomon, certified by the Modern Mystery School. He brings the ancient teachings to Prague, guiding people through initiation, activation and healing in English."
+              "text": "Radu Coman is a Guide and Teacher in the Lineage of King Salomon, certified by the Modern Mystery School. He brings the ancient teachings to Prague, guiding people through initiation, activation and healing. His workshops and classes are taught in English."
             }
           },
           {
@@ -316,7 +316,7 @@ export default async function LocaleLayout({
             "name": "What is Life Activation and how much does it cost?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Life Activation is the foundational session of the Modern Mystery School. It activates 22 of the 24 DNA strands to awaken your divine potential. The session lasts about 2 hours and the investment is 8,500 CZK."
+              "text": "Life Activation is the foundational session of the Modern Mystery School. It activates 22 of the 24 DNA strands to awaken your divine potential. The session lasts about 2 hours and the price is 8,500 CZK."
             }
           },
           {

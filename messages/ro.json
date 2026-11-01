@@ -48,11 +48,13 @@
   "Modality": {
     "whatsapp": "WhatsApp",
     "email": "Email",
-    "investment": "Investiție",
+    "investment": "Preț",
     "duration": "Durată",
     "bookNow": "Rezervă acum",
     "askQuestion": "Ai întrebări?",
-    "defaultNote": "După ce ne contactezi, te vom contacta personal pentru a stabili programarea."
+    "defaultNote": "După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "healingSession": "Ședință de vindecare",
+    "readingSession": "Ședință de lectură"
   },
   "UpcomingDates": {
     "heading": "Următoarele date în Praga",
@@ -487,7 +489,7 @@
     "heroSubtitle": "O gamă de vindecări pentru corp, minte și suflet",
     "heroTagline": "Fiecare ședință este oferită individual — contactează-ne pentru a întreba despre oricare dintre ele",
     "introLead": "O tradiție vie de vindecare",
-    "introBody": "Modern Mystery School poartă unul dintre cele mai vechi și complete sisteme de vindecare de pe Pământ — adunat de regele Solomon și păstrat întreg printr-o linie neîntreruptă. Mai jos găsești gama de vindecări disponibile în Praga. Nu trebuie să știi care este potrivită pentru tine. Explorează pur și simplu și întreabă despre orice te atrage — Radu te va ghida de acolo.",
+    "introBody": "Modern Mystery School poartă unul dintre cele mai vechi și complete sisteme de vindecare de pe Pământ — adunat de regele Solomon și păstrat întreg printr-o linie neîntreruptă. Mai jos găsești gama de vindecări disponibile în Praga. Nu trebuie să știi care este potrivită pentru tine. Explorează pur și simplu și întreabă despre orice te atrage — Radu și Diana te vor ghida de acolo.",
     "specialtyLead": "Pentru munca mai profundă, specializată, a tradiției, vezi",
     "specialtyLinkLabel": "Vindecări speciale →",
     "inquiry": "Bună, aș dori să întreb despre modalitățile de vindecare.",
@@ -511,17 +513,24 @@
           { "name": "Eliminarea energiei negative", "description": "Elimină blocajele energetice și tiparele negative din sistemul tău energetic." },
           { "name": "Tăierea cordoanelor emoționale", "description": "Deconectează cordoanele emoționale epuizante, ca să nu-ți mai pierzi energia către alte persoane." },
           { "name": "Curățare șamanică a aurei", "description": "Tehnici șamanice pentru eliminarea blocajelor și a energiilor grele din câmpul auric." },
-          { "name": "Vindecare cu raza Ensofică", "description": "Cea mai strălucitoare și puternică rază de energie — realiniază corpul, sufletul și spiritul în miez." },
-          { "name": "Vindecare cu cristale", "description": "Tehnici străvechi ale liniei, care folosesc cristale pentru vindecare, intuiție și protecție." }
+          { "name": "Ensofic Reiki", "description": "O singură sesiune de 90 de minute cu raza Ensofică — eliberează blocajele și te readuce la echilibru și prezență." },
+          { "name": "Tratarea obiceiurilor negative", "description": "Folosește raza Ensofică pentru a te ajuta să eliberezi tiparele sau obiceiurile negative pe care le repeți în viața ta." },
+          { "name": "Vindecare cu cristale", "description": "Tehnici străvechi ale liniei, care folosesc cristale pentru vindecare, intuiție și protecție." },
+          { "name": "Recuperarea sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
+          { "name": "Scânteia vieții — vindecare la distanță", "description": "O vindecare la distanță care îți aduce energie restauratoare de la orice distanță." }
         ]
+      },
+      "remote": {
+        "title": "Vindecări la distanță",
+        "blurb": "Primește vindecare de oriunde te afli, în orice colț al lumii."
       },
       "readings": {
         "title": "Lecturi și îndrumare",
         "blurb": "Perspectivă asupra scopului tău, a sufletului tău și a căii tale.",
         "items": [
           { "name": "Lectura Scopului Vieții și a celui de-al 11-lea Codon", "description": "O lectură a scopului tău divin și a darurilor pe care le porți, însoțită de activarea firelor de ADN 11 și 12, dincolo de Life Activation." },
-          { "name": "Recuperarea sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
-          { "name": "Scânteia vieții — vindecare la distanță", "description": "O vindecare la distanță care îți aduce energie restauratoare de la orice distanță." }
+          { "name": "Lectură intuitivă cu cristal", "description": "O lectură cu un cristal, care deschide accesul la înțelepciunea Sinelui tău Superior și a călăuzelor." },
+          { "name": "Lectura Chronos", "description": "O lectură care lucrează cu energiile timpului pentru a aduce claritate asupra trecutului, prezentului și căii tale înainte." }
         ]
       },
       "bodyWork": {
@@ -555,6 +564,7 @@
     "specialtyGroupTitle": "Ședințe speciale",
     "specialtyGroupBlurb": "Lucrare mai profundă, specializată a tradiției — fiecare oferită individual.",
     "specialtySessions": [
+      { "name": "Vindecare avansată cu raza Ensofică", "description": "O serie de trei sesiuni de 90 de minute cu raza Ensofică — corp, suflet și spirit, apoi integrare — care îți adâncește și stabilizează alinierea." },
       { "name": "Infuzie a Focului Sufletului", "description": "Reaprinde focul interior al sufletului, restabilind pasiunea, motivația și forța vitală acolo unde te simți epuizat." },
       { "name": "Infuzie a Voinței de Bază", "description": "Îți întărește voința de bază — sediul interior al puterii personale, hotărârii și direcției." },
       { "name": "Tubul de Lumină Interstelar al Arhanghelului Mihail", "description": "Îl invocă pe Arhanghelul Mihail să te învăluie într-o coloană de lumină protectoare, curățându-ți și protejându-ți câmpul energetic." },
@@ -1140,5 +1150,295 @@
     "success": "Primit — verificați e-mailul pentru confirmare.",
     "errorGeneric": "Ceva nu a funcționat. Vă rugăm să încercați din nou sau să ne scrieți direct la radu@thepathofinitiationprague.com.",
     "requiredFieldsNote": "Toate câmpurile sunt obligatorii, cu excepția celor marcate opțional."
+  },
+  "HealingSession": {
+    "faqEyebrow": "Întrebări",
+    "faqHeading": "Întrebări frecvente",
+    "whoHeading": "Pentru cine este",
+    "disclaimer": "Această lucrare nu înlocuiește niciun tratament medical prescris de medicul tău. Este oferită ca sprijin energetic și spiritual complementar, alături de îngrijirea ta medicală."
+  },
+  "SoulRetrieval": {
+    "heroEyebrow": "Vindecare profundă · Praga",
+    "heroTitle": "Recuperarea hermetică a sufletului",
+    "heroSubtitle": "Cheamă înapoi părțile din tine care au rămas în urmă",
+    "heroTagline": "O sesiune blândă, dar profund puternică, care readuce sentimentul de întregime",
+    "introLead": "În clipele de copleșire, părți din noi se retrag pentru a rămâne în siguranță",
+    "introBody1": "Înrădăcinată în linia hermetică a tradiției Modern Mystery School, această sesiune lucrează în câmpul tău energetic pentru a găsi și a readuce cu blândețe părțile de suflet lăsate în urmă — părți legate de inocență, creativitate, forță, iubire sau vitalitate.",
+    "introBody2": "Experiențe precum respingerea, abandonul, stresul prelungit sau relațiile limitative ne pot fragmenta în timp. Aducerea acestor părți acasă restabilește prezența, claritatea și sentimentul de a fi pe deplin tu însuți.",
+    "benefitsHeading": "Ce poți simți",
+    "benefits": [
+      "Pace profundă și eliberare interioară",
+      "Reamintirea părților uitate din tine",
+      "Sentimentul de a fi mai întreg și mai integrat",
+      "Claritate, prezență și direcție reînnoite",
+      "O întoarcere subtilă la starea ta naturală"
+    ],
+    "who": [
+      "Te simți amorțit, deconectat sau nu pe deplin prezent",
+      "Treci prin durere emoțională, traumă, epuizare, pierdere sau dependență",
+      "Trăiești sub stres constant sau o mare tranziție în viață",
+      "Te confrunți cu un blocaj creativ, un gol sau un sentiment de fragmentare",
+      "Mergi pe un drum al descoperirii de sine sau al stăpânirii de sine"
+    ],
+    "faq": [
+      {
+        "q": "Ce este recuperarea sufletului?",
+        "a": "O practică ce găsește și readuce cu blândețe părțile fragmentate ale sinelui, rămase în urmă în clipe de copleșire, și îndrumă reintegrarea lor."
+      },
+      {
+        "q": "Cum decurge sesiunea?",
+        "a": "În cele 2,5 ore lucrăm în câmpul tău energetic, găsim părțile sufletului tău care sunt gata să se întoarcă și le călăuzim înapoi la tine, ajutându-le să se reintegreze."
+      },
+      {
+        "q": "Este sigur?",
+        "a": "Da. Este un proces blând, de sprijin — nu trebuie să retrăiești sau să discuți evenimente dureroase pentru ca el să funcționeze."
+      },
+      {
+        "q": "Care sunt beneficiile?",
+        "a": "Pace, reconectare emoțională, sentimentul de întregime și claritate reînnoită."
+      }
+    ],
+    "duration": "2,5 ore",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre Recuperarea hermetică a sufletului."
+  },
+  "AdvancedEnsoficRay": {
+    "heroEyebrow": "Vindecare energetică · Praga și la distanță",
+    "heroTitle": "Vindecare avansată cu raza Ensofică",
+    "heroSubtitle": "Prima emanație a Luminii din Sursă",
+    "heroTagline": "O serie de trei sesiuni care îți adâncesc și stabilizează alinierea",
+    "introLead": "Un sistem profund și precis de aliniere energetică",
+    "introBody1": "Raza Ensofică este prima emanație a Luminii din Sursă. Această vindecare lucrează cu ea pentru a sprijini alinierea corpului fizic, a câmpului emoțional, a minții și a structurii energetice.",
+    "introBody2": "Protocolul de trei sesiuni este conceput pentru a adânci și a stabiliza procesul, fiecare sesiune construind pe cea anterioară. Sesiunile sunt disponibile la Praga sau la distanță, în toată lumea.",
+    "protocolHeading": "Protocolul celor trei sesiuni",
+    "protocol": [
+      {
+        "label": "I. Corpul:",
+        "text": "Eliberează blocajele, tensiunea și energia stagnantă, pentru ca sistemele corpului să revină la echilibru și curgere."
+      },
+      {
+        "label": "II. Suflet și spirit:",
+        "text": "Cheamă și activează cele 12 Raze ale Creației — Romantism, Vindecare, Mister, Regalitate, Noi începuturi și altele — sprijinind întruparea esenței tale divine."
+      },
+      {
+        "label": "III. Integrare:",
+        "text": "O sesiune personalizată, care întărește și stabilizează sigiliile energetice ale sesiunilor anterioare."
+      }
+    ],
+    "benefitsHeading": "Beneficii",
+    "benefits": [
+      "Te reconectează cu sinele tău autentic și cu lumina interioară",
+      "Curăță blocajele fizice, emoționale și energetice",
+      "Aliniază corpul, mintea și spiritul",
+      "Activează și ancorează cele 12 Raze",
+      "Sprijină noile începuturi și încheierea ciclurilor vechi",
+      "Ridică vibrația și restabilește claritatea și pacea",
+      "Sprijină vindecarea emoțională și reînnoirea",
+      "Întărește câmpul tău energetic și legătura spirituală"
+    ],
+    "bookingTitle": "Primește raza",
+    "duration": "3 × 90 de minute",
+    "bookingNote": "Disponibil la Praga sau la distanță, în toată lumea. Scrie-ne pentru a stabili ora.",
+    "inquiry": "Bună, sunt interesat(ă) de Vindecarea avansată cu raza Ensofică."
+  },
+  "EnsoficReiki": {
+    "heroEyebrow": "Vindecare energetică · Praga și la distanță",
+    "heroTitle": "Ensofic Reiki",
+    "heroSubtitle": "Prima emanație a Luminii din Sursă",
+    "heroTagline": "O singură sesiune pentru a elibera blocajele și a reveni la echilibru și prezență",
+    "introLead": "Cea mai pură rază de lumină, adusă la tine într-o singură sesiune",
+    "introBody1": "Raza Ensofică este prima emanație a Luminii din Sursă. Într-o sesiune de Ensofic Reiki, ea este folosită pentru a curăța distorsiunea și a elibera blocajele din corpul fizic, câmpul emoțional, minte și structura ta energetică.",
+    "introBody2": "O singură sesiune poate aduce o ușurare vizibilă și o revenire la echilibru și prezență. Pentru un proces mai profund, pas cu pas, descoperă Vindecarea avansată cu raza Ensofică. Sesiunile se pot desfășura în persoană la Praga sau la distanță, oriunde te afli.",
+    "benefitsHeading": "Beneficii",
+    "benefits": [
+      "Te reconectează cu sinele tău autentic și cu lumina interioară",
+      "Curăță blocajele fizice, emoționale și energetice",
+      "Aliniază corpul, mintea și spiritul",
+      "Ridică vibrația și restabilește claritatea și pacea",
+      "Sprijină vindecarea emoțională și reînnoirea"
+    ],
+    "faq": [
+      {
+        "q": "Cum poate funcționa vindecarea la distanță?",
+        "a": "Radu și Diana s-au pregătit și au muncit din greu pentru a stăpâni această abilitate. Și-au șlefuit concentrarea, precum și relația cu Ierarhia Luminii. Împreună canalizează forța de vindecare oriunde este nevoie de ea în lume."
+      }
+    ],
+    "duration": "90 de minute",
+    "bookingNote": "Disponibil la Praga sau la distanță, în toată lumea. Scrie-ne pentru a stabili ora.",
+    "inquiry": "Bună, sunt interesat(ă) de Ensofic Reiki."
+  },
+  "NegativeHabits": {
+    "heroEyebrow": "Vindecare energetică · Praga și la distanță",
+    "heroTitle": "Tratarea obiceiurilor negative",
+    "heroSubtitle": "Eliberează tiparele pe care le repeți mereu",
+    "heroTagline": "Vindecare cu raza Ensofică pentru a elibera tiparele și obiceiurile negative",
+    "introLead": "Unele tipare revin pentru că stau mai adânc decât voința",
+    "introBody1": "Această sesiune folosește raza Ensofică pentru a te ajuta să eliberezi tiparele sau obiceiurile negative pe care le repeți în viața ta — buclele de gândire, emoție și comportament care revin oricât ai încerca să le schimbi.",
+    "introBody2": "Lucrând la nivelul structurii energetice în care sunt ținute aceste tipare, sesiunea sprijină eliberarea lor, astfel încât alegerile noi și mai sănătoase să devină mai ușoare și mai firești. Sesiunile se pot desfășura în persoană la Praga sau la distanță, oriunde te afli.",
+    "benefitsHeading": "Ce sprijină",
+    "benefits": [
+      "Eliberarea tiparelor și a obiceiurilor negative care se tot repetă",
+      "Mai multă libertate față de reacțiile automate și buclele vechi",
+      "Ușurime emoțională și claritate",
+      "Mai multă ușurință în a face alegeri noi, de sprijin",
+      "Sprijin alături de propria ta muncă, terapie sau îngrijire medicală"
+    ],
+    "who": [
+      "Repeți aceleași tipare în relații, la muncă sau în viață",
+      "Nu reușești să renunți la un obicei, deși îți dorești",
+      "Te simți blocat(ă) în bucle familiare de gânduri sau emoții",
+      "Ești gata să lași în urmă ceea ce nu îți mai servește"
+    ],
+    "faq": [
+      {
+        "q": "Cum funcționează?",
+        "a": "Raza Ensofică este folosită pentru a lucra cu structura energetică în care sunt ținute aceste tipare, sprijinindu-te să le eliberezi."
+      },
+      {
+        "q": "Cu ce fel de obiceiuri și tipare poate ajuta?",
+        "a": "Cu orice tipar sau obicei care se repetă în viața ta — în gânduri, emoții, comportament sau relații. De exemplu accese de furie, supraalimentare, dependențe, vinovăție, rușine."
+      },
+      {
+        "q": "Cum poate funcționa vindecarea la distanță?",
+        "a": "Radu și Diana s-au pregătit și au muncit din greu pentru a stăpâni această abilitate. Și-au șlefuit concentrarea, precum și relația cu Ierarhia Luminii. Împreună canalizează forța de vindecare oriunde este nevoie de ea în lume."
+      }
+    ],
+    "duration": "90 de minute",
+    "bookingNote": "Disponibil la Praga sau la distanță, în toată lumea. După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre Tratarea obiceiurilor negative."
+  },
+  "CrystalHealing": {
+    "heroEyebrow": "Vindecare energetică · Praga",
+    "heroTitle": "Vindecare cu cristale",
+    "heroSubtitle": "Odihnește-te, în timp ce regnul mineral își face lucrarea tăcută",
+    "heroTagline": "Sunet sacru și piatră, așezate pentru a restabili echilibrul, claritatea și curgerea",
+    "introLead": "Blândă, împământătoare și profund reparatoare",
+    "introBody1": "Cristalele și pietrele prețioase sunt așezate pe puncte specifice ale corpului, iar fiecare piatră este activată prin sunet sacru și plasare intenționată. Aceasta sprijină eliberarea tensiunii, a stresului emoțional și a stagnării, astfel încât energia ta să se poată reorganiza.",
+    "introBody2": "Pur și simplu te odihnești în timp ce lucrarea se desfășoară. Este deosebit de utilă în caz de epuizare, suprasolicitare emoțională sau când viața pare împrăștiată.",
+    "benefitsHeading": "Ce oferă",
+    "benefits": [
+      "Eliberarea tensiunii și a stresului emoțional",
+      "Ușurare față de stagnare, pentru ca energia să curgă din nou",
+      "Împământare și odihnă profundă",
+      "Echilibru și claritate restabilite"
+    ],
+    "faq": [
+      {
+        "q": "Este sigur?",
+        "a": "Da. Este o practică blândă, neinvazivă, fără efecte adverse."
+      },
+      {
+        "q": "Trebuie să mă pregătesc?",
+        "a": "Nu este nevoie de nimic. Vino așa cum ești."
+      }
+    ],
+    "bookingTitle": "Odihnește-te și reînnoiește-te",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "inquiry": "Bună, sunt interesat(ă) de Vindecarea cu cristale."
+  },
+  "SparkOfLife": {
+    "heroEyebrow": "Vindecare energetică la distanță · Oriunde în lume",
+    "heroTitle": "Scânteia vieții",
+    "heroSubtitle": "Reconectează-te cu scânteia ta originară de forță vitală",
+    "heroTagline": "O sesiune de vindecare la distanță, în toată lumea, din Praga",
+    "introLead": "Forță vitală, canalizată în miezul ființei tale",
+    "introBody1": "Scânteia vieții lucrează dincolo de matricea eterică și de sistemul chakrelor, canalizând energia forței vitale către miezul ființei. Rădăcinile ei duc la templele Egiptului antic, unde a fost dezvoltată pentru preoți și preotese, ca să-i întinerească pentru ani lungi de slujire, și a fost transmisă prin transmitere directă.",
+    "introBody2": "Te odihnești liniștit(ă), întins(ă) sau așezat(ă), oriunde te afli, în timp ce Diana și Radu lucrează la distanță. Trebuie doar să primești. Se completează bine cu o Life Activation, înainte sau după.",
+    "benefitsHeading": "Beneficii",
+    "benefits": [
+      "Ușurarea durerii fizice și a tensiunii",
+      "O revenire simțită a energiei și a vitalității",
+      "Echilibru emoțional și lejeritate",
+      "Claritate mentală și motivație reînnoită",
+      "Eliberarea tiparelor stagnante",
+      "Reconectarea cu forța ta vitală",
+      "Sprijin constant, alături de alte îngrijiri"
+    ],
+    "who": [
+      "Mergi pe ultimele resurse",
+      "Te confrunți cu dureri fizice, tensiune sau ceață mentală",
+      "Îți lipsește motivația, te simți blocat(ă) sau copleșit(ă) emoțional",
+      "Ești la început cu lucrul energetic",
+      "Locuiești departe de Praga"
+    ],
+    "faq": [
+      {
+        "q": "Cum poate funcționa vindecarea la distanță?",
+        "a": "Radu și Diana s-au pregătit și au muncit din greu pentru a stăpâni această abilitate. Și-au șlefuit concentrarea, precum și relația cu Ierarhia Luminii. Împreună canalizează forța de vindecare oriunde este nevoie de ea în lume."
+      },
+      {
+        "q": "Cum mă pregătesc?",
+        "a": "Ajută să bei puțină apă înainte și după și să-ți acorzi câteva minute de liniște după sesiune."
+      },
+      {
+        "q": "Cât durează sesiunea?",
+        "a": "În total aproximativ 75 de minute — cam 60 de minute de vindecare activă, plus o scurtă discuție înainte și după."
+      }
+    ],
+    "bookingTitle": "Reaprinde-ți scânteia",
+    "duration": "75 de minute",
+    "bookingNote": "Sesiune la distanță, în toată lumea. Scrie-ne pentru a stabili o oră.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre vindecarea la distanță Scânteia vieții."
+  },
+  "LifeActivationFaq": {
+    "items": [
+      {
+        "q": "Ce se întâmplă într-o sesiune?",
+        "a": "Începi așezat(ă), pentru prima parte a curățării, apoi stai în picioare cam 20–30 de minute, în timp ce chakrele și corpul tău eteric sunt echilibrate, și închei așezat(ă), cu activarea celor 22 de fire de ADN, urmată de o scurtă lectură. Nu trebuie să pregătești nimic — pur și simplu primești. De obicei rezerv 2 ore, ca să fie loc de discuție înainte și de liniștire după."
+      },
+      {
+        "q": "Ce voi simți?",
+        "a": "Variază: căldură, furnicături, emoții, relaxare profundă, somnolență sau aproape nimic pe moment, cu schimbări care apar în zilele următoare. Toate sunt normale."
+      },
+      {
+        "q": "Cum se face integrarea?",
+        "a": "Activarea continuă să se desfășoare aproximativ una până la trei luni. Pot ieși la suprafață emoții vechi, oboseală sau o claritate bruscă. Diana te contactează în această perioadă."
+      },
+      {
+        "q": "Cât de des ar trebui să o primesc?",
+        "a": "Majoritatea oamenilor primesc Life Activation o singură dată. Nu există un program de urmat."
+      },
+      {
+        "q": "Am nevoie de un fundal spiritual?",
+        "a": "Nu. Nu este nevoie de nicio credință sau experiență spirituală."
+      },
+      {
+        "q": "Se poate face la distanță?",
+        "a": "Nu — Life Activation se face doar în persoană. Ensofic Reiki și Scânteia vieții sunt disponibile la distanță."
+      },
+      {
+        "q": "Este practicianta certificată?",
+        "a": "Da. Doar practicienii certificați direct de Modern Mystery School International o pot efectua și se recertifică în fiecare an."
+      }
+    ]
+  },
+  "FullSpiritFaq": {
+    "items": [
+      {
+        "q": "Ce se întâmplă într-o sesiune?",
+        "a": "Stai confortabil așezat(ă) tot timpul, în timp ce Diana sau Radu lucrează cu centrele superioare — glanda pineală, hipofiza și talamusul. Nu trebuie să faci nimic; pur și simplu primești."
+      },
+      {
+        "q": "Am nevoie mai întâi de o Life Activation?",
+        "a": "Da, este necesară o Life Activation din ultimele 90 de zile. Fereastra de 90 de zile vine din tradiția însăși. Dacă a trecut mai mult timp, vom discuta împreună unde te afli înainte de a merge mai departe."
+      },
+      {
+        "q": "Ce voi simți?",
+        "a": "Variază: căldură, schimbări subtile, eliberare emoțională sau calm profund."
+      },
+      {
+        "q": "Ce se întâmplă după?",
+        "a": "Mulți observă o așezare în săptămânile următoare — mai puțin zgomot mental, o dispoziție mai stabilă și o direcție mai clară."
+      },
+      {
+        "q": "Se poate face la distanță?",
+        "a": "Nu — Full Spirit Activation se face doar în persoană."
+      },
+      {
+        "q": "Este practicianta certificată?",
+        "a": "Da. Doar practicienii certificați direct de Modern Mystery School International o pot efectua."
+      }
+    ]
   }
 }

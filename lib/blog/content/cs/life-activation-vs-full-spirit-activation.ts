@@ -16,9 +16,9 @@ Představte si to takto: [Life Activation](/life-activation) zapíná váš pův
 - **Life Activation** pracuje na fyzické úrovni, aktivuje 22 z 24 vláken DNA uznávaných v této tradici (11 fyzických a 11 duchovních) a otevírá hlubší spojení s vaším Božským Já a Vyšším Já. Jejím účelem je znovu vás propojit s vaším původním plánem — talenty, zdroji a potenciálem, který je ve vás už zakódován. Více se dočtete v našem článku o tom, [co Life Activation vlastně je](/blog/what-is-life-activation).
 - **Full Spirit Activation** pracuje na úrovni duše a jde hlouběji do Oblasti mysli, Centra vůle a vaší intuice, paměti a přístupových bodů. Namísto zapnutí vašeho plánu zakotvuje vaši duši a ducha *do* fyzického těla, které jste již aktivovali, a zesiluje proudění duchovní energie celým vaším systémem.
 
-### Délka a investice
+### Délka a cena
 
-Obě sezení zde v Praze trvají zhruba **dvě hodiny** a jsou nabízena za stejnou investici **8 500 Kč**. Rozdíl není v čase na hodinách, ale v hloubce toho, co se během něj odehraje — a stejně důležité je, co s tímto časem uděláte *potom*.
+Obě sezení zde v Praze trvají zhruba **dvě hodiny** a jsou nabízena za stejnou cenu **8 500 Kč**. Rozdíl není v čase na hodinách, ale v hloubce toho, co se během něj odehraje — a stejně důležité je, co s tímto časem uděláte *potom*.
 
 ### Doplňkové procedury
 

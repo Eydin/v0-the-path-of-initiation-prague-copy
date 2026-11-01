@@ -48,11 +48,13 @@
   "Modality": {
     "whatsapp": "WhatsApp",
     "email": "E-mail",
-    "investment": "Investice",
+    "investment": "Cena",
     "duration": "Doba trvání",
     "bookNow": "Rezervovat",
     "askQuestion": "Máte nějaké otázky?",
-    "defaultNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín."
+    "defaultNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "healingSession": "Léčebná seance",
+    "readingSession": "Čtecí seance"
   },
   "UpcomingDates": {
     "heading": "Nejbližší termíny v Praze",
@@ -487,7 +489,7 @@
     "heroSubtitle": "Řada léčení pro tělo, mysl a duši",
     "heroTagline": "Každé sezení je nabízeno individuálně — ozvěte se nám s dotazem na kterékoli z nich",
     "introLead": "Živá tradice léčení",
-    "introBody": "Modern Mystery School nese jeden z nejstarších a nejúplnějších léčebných systémů na Zemi — shromážděný králem Šalomounem a udržovaný celistvý nepřerušenou linií. Níže naleznete škálu léčení dostupných v Praze. Nemusíte vědět, které je pro vás to pravé. Stačí prozkoumat a zeptat se na cokoli, co vás osloví — Radu vás odtud provede dál.",
+    "introBody": "Modern Mystery School nese jeden z nejstarších a nejúplnějších léčebných systémů na Zemi — shromážděný králem Šalomounem a udržovaný celistvý nepřerušenou linií. Níže naleznete škálu léčení dostupných v Praze. Nemusíte vědět, které je pro vás to pravé. Stačí prozkoumat a zeptat se na cokoli, co vás osloví — Radu a Diana vás odtud provedou dál.",
     "specialtyLead": "Pro hlubší, specializovanou práci tradice se podívejte na",
     "specialtyLinkLabel": "Speciální léčení →",
     "inquiry": "Ahoj, chtěl(a) bych se zeptat na léčebné modality.",
@@ -511,17 +513,24 @@
           { "name": "Odstranění negativní energie", "description": "Odstraňuje energetické bloky a negativní vzorce z vašeho energetického systému." },
           { "name": "Přeříznutí emočních pout", "description": "Odpojuje vysilující emoční pouta, abyste přestali ztrácet energii ve prospěch druhých." },
           { "name": "Šamanské čištění aury", "description": "Šamanské techniky k odstranění blokád a těžkých energií z aurického pole." },
-          { "name": "Léčení paprskem Ensof", "description": "Nejjasnější, nejsilnější paprsek energie — přeskupuje tělo, duši a ducha v samém jádru." },
-          { "name": "Krystaloterapie", "description": "Starobylé techniky linie pracující s krystaly pro léčení, intuici a ochranu." }
+          { "name": "Ensofic Reiki", "description": "Jedna 90minutová seance s paprskem Ensof — uvolní blokády a vrátí vás k rovnováze a přítomnosti." },
+          { "name": "Léčení negativních návyků", "description": "Využívá paprsek Ensof, aby vám pomohl pustit negativní vzorce nebo návyky, které ve svém životě stále opakujete." },
+          { "name": "Krystaloterapie", "description": "Starobylé techniky linie pracující s krystaly pro léčení, intuici a ochranu." },
+          { "name": "Návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
+          { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." }
         ]
+      },
+      "remote": {
+        "title": "Léčení na dálku",
+        "blurb": "Přijměte léčení tam, kde právě jste, kdekoli na světě."
       },
       "readings": {
         "title": "Čtení a vedení",
         "blurb": "Vhled do vašeho poslání, vaší duše a vaší cesty.",
         "items": [
           { "name": "Čtení životního poslání a 11. kodonu", "description": "Čtení vašeho božského poslání a darů, které nesete, spojené s aktivací 11. a 12. vlákna DNA nad rámec Life Activation." },
-          { "name": "Návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
-          { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." }
+          { "name": "Intuitivní čtení s krystalem", "description": "Čtení s krystalem, které otevírá přístup k moudrosti vašeho Vyššího já a průvodců." },
+          { "name": "Čtení Chronos", "description": "Čtení, které pracuje s energiemi času a přináší jasnost ohledně vaší minulosti, přítomnosti a cesty vpřed." }
         ]
       },
       "bodyWork": {
@@ -555,6 +564,7 @@
     "specialtyGroupTitle": "Speciální sezení",
     "specialtyGroupBlurb": "Hlubší, specializovaná práce tradice — každé nabízeno individuálně.",
     "specialtySessions": [
+      { "name": "Pokročilé léčení paprskem Ensof", "description": "Série tří 90minutových seancí s paprskem Ensof — tělo, duše a duch, poté integrace — která prohlubuje a stabilizuje vaše sladění." },
       { "name": "Vlévání ohně duše", "description": "Znovu zapaluje vnitřní oheň duše a obnovuje vášeň, hnací sílu a životní energii tam, kde se cítíte vyčerpáni." },
       { "name": "Vlévání jádra vůle", "description": "Posiluje vaše jádro vůle — vnitřní sídlo osobní síly, odhodlání a směřování." },
       { "name": "Archanděl Michael — mezihvězdná trubice světla", "description": "Vzývá archanděla Michaela, aby vás obklopil sloupem ochranného světla, čistil a chránil vaše energetické pole." },
@@ -1140,5 +1150,295 @@
     "success": "Přijato — potvrzení naleznete ve své e-mailové schránce.",
     "errorGeneric": "Něco se nepovedlo. Zkuste to prosím znovu, nebo nám napište přímo na radu@thepathofinitiationprague.com.",
     "requiredFieldsNote": "Všechna pole jsou povinná, pokud není uvedeno jinak."
+  },
+  "HealingSession": {
+    "faqEyebrow": "Otázky",
+    "faqHeading": "Často kladené otázky",
+    "whoHeading": "Pro koho je určeno",
+    "disclaimer": "Tato práce nenahrazuje žádnou léčbu předepsanou vaším lékařem. Nabízí se jako doplňková energetická a duchovní podpora vedle vaší lékařské péče."
+  },
+  "SoulRetrieval": {
+    "heroEyebrow": "Hluboké léčení · Praha",
+    "heroTitle": "Hermetický návrat duše",
+    "heroSubtitle": "Zavolejte zpět části sebe, které zůstaly pozadu",
+    "heroTagline": "Jemná, a přesto hluboce silná seance, která obnovuje pocit celistvosti",
+    "introLead": "V okamžicích přemožení se části nás stahují stranou, aby byly v bezpečí",
+    "introBody1": "Tato seance vychází z hermetické linie tradice Modern Mystery School a pracuje ve vašem energetickém poli. Nalézá a jemně přivádí zpět části duše, které zůstaly pozadu — části spojené s nevinností, tvořivostí, silou, láskou nebo vitalitou.",
+    "introBody2": "Zkušenosti jako odmítnutí, opuštění, dlouhodobý stres nebo svazující vztahy nás mohou postupem času roztříštit. Návrat těchto částí domů obnovuje přítomnost, jasnost a pocit, že jste plně sami sebou.",
+    "benefitsHeading": "Co můžete zažít",
+    "benefits": [
+      "Hluboký mír a vnitřní uvolnění",
+      "Rozpomenutí se na zapomenuté části sebe",
+      "Pocit větší celistvosti a integrace",
+      "Obnovenou jasnost, přítomnost a směr",
+      "Jemný návrat do vašeho přirozeného stavu"
+    ],
+    "who": [
+      "Cítíte se otupělí, odpojení nebo ne zcela přítomní",
+      "Procházíte emoční bolestí, traumatem, vyhořením, ztrátou nebo závislostí",
+      "Žijete v neustálém stresu nebo ve velké životní změně",
+      "Zažíváte tvůrčí blok, prázdnotu nebo pocit roztříštěnosti",
+      "Jdete cestou sebepoznání nebo mistrovství sebe sama"
+    ],
+    "faq": [
+      {
+        "q": "Co je návrat duše?",
+        "a": "Praxe, která jemně nalézá a přivádí zpět roztříštěné části já, jež zůstaly pozadu v okamžicích přemožení, a provází jejich znovuzačlenění."
+      },
+      {
+        "q": "Jak seance probíhá?",
+        "a": "Během 2,5hodinové seance pracujeme ve vašem energetickém poli, nalézáme části vaší duše, které jsou připravené se vrátit, a provázíme je zpět k vám a pomáháme jim znovu se začlenit."
+      },
+      {
+        "q": "Je to bezpečné?",
+        "a": "Ano. Je to jemný, podpůrný proces — nemusíte znovu prožívat ani rozebírat bolestné události, aby fungoval."
+      },
+      {
+        "q": "Jaké jsou přínosy?",
+        "a": "Mír, emoční znovupropojení, pocit celistvosti a obnovená jasnost."
+      }
+    ],
+    "duration": "2,5 hodiny",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Hermetickém návratu duše."
+  },
+  "AdvancedEnsoficRay": {
+    "heroEyebrow": "Energetické léčení · Praha a na dálku",
+    "heroTitle": "Pokročilé léčení paprskem Ensof",
+    "heroSubtitle": "První emanace Světla ze Zdroje",
+    "heroTagline": "Série tří seancí, která prohlubuje a stabilizuje vaše sladění",
+    "introLead": "Hluboký, precizní systém energetického vyrovnání",
+    "introBody1": "Paprsek Ensof je první emanací Světla ze Zdroje. Toto léčení s ním pracuje a podporuje sladění fyzického těla, emočního pole, mysli i energetické struktury.",
+    "introBody2": "Protokol o třech seancích je navržen tak, aby proces prohloubil a stabilizoval, přičemž každá seance navazuje na předchozí. Seance jsou dostupné v Praze nebo na dálku po celém světě.",
+    "protocolHeading": "Protokol o třech seancích",
+    "protocol": [
+      {
+        "label": "I. Tělo:",
+        "text": "Uvolňuje blokády, napětí a stagnující energii, aby se systémy těla vrátily k rovnováze a proudění."
+      },
+      {
+        "label": "II. Duše a duch:",
+        "text": "Přivolává a aktivuje 12 paprsků stvoření — Romantiku, Léčení, Tajemství, Královskou důstojnost, Nové začátky a další — a podporuje vtělení vaší božské podstaty."
+      },
+      {
+        "label": "III. Integrace:",
+        "text": "Individuálně vedená seance, která posiluje a stabilizuje energetické pečeti předchozích seancí."
+      }
+    ],
+    "benefitsHeading": "Přínosy",
+    "benefits": [
+      "Znovu vás propojuje s vaším autentickým já a vnitřním světlem",
+      "Čistí fyzické, emoční a energetické blokády",
+      "Sladí tělo, mysl a ducha",
+      "Aktivuje a ukotvuje 12 paprsků",
+      "Podporuje nové začátky a uzavření starých cyklů",
+      "Zvyšuje vibrace a obnovuje jasnost a mír",
+      "Podporuje emoční léčení a obnovu",
+      "Posiluje váš energetický systém a duchovní spojení"
+    ],
+    "bookingTitle": "Přijměte paprsek",
+    "duration": "3 × 90 minut",
+    "bookingNote": "K dispozici v Praze nebo na dálku po celém světě. Napište nám a domluvíme si čas.",
+    "inquiry": "Ahoj, mám zájem o pokročilé léčení paprskem Ensof."
+  },
+  "EnsoficReiki": {
+    "heroEyebrow": "Energetické léčení · Praha a na dálku",
+    "heroTitle": "Ensofic Reiki",
+    "heroSubtitle": "První emanace Světla ze Zdroje",
+    "heroTagline": "Jedna seance, která uvolní blokády a vrátí vás k rovnováze a přítomnosti",
+    "introLead": "Nejčistší paprsek světla, přinesený k vám v jediné seanci",
+    "introBody1": "Paprsek Ensof je první emanací Světla ze Zdroje. Při seanci Ensofic Reiki se používá k vyčištění zkreslení a uvolnění blokád ve fyzickém těle, emočním poli, mysli i energetické struktuře.",
+    "introBody2": "Jedna seance může přinést znatelnou úlevu a návrat k rovnováze a přítomnosti. Pro hlubší, postupný proces objevte Pokročilé léčení paprskem Ensof. Seance lze absolvovat osobně v Praze nebo na dálku, kdekoli na světě jste.",
+    "benefitsHeading": "Přínosy",
+    "benefits": [
+      "Znovu vás propojuje s vaším autentickým já a vnitřním světlem",
+      "Čistí fyzické, emoční a energetické blokády",
+      "Sladí tělo, mysl a ducha",
+      "Zvyšuje vibrace a obnovuje jasnost a mír",
+      "Podporuje emoční léčení a obnovu"
+    ],
+    "faq": [
+      {
+        "q": "Jak může léčení fungovat na dálku?",
+        "a": "Radu a Diana se tomuto umění učili a tvrdě na sobě pracovali, aby ho zvládli. Zdokonalili své soustředění i svůj vztah s Hierarchií Světla. Společně směřují léčivou sílu všude tam, kde je ve světě potřeba."
+      }
+    ],
+    "duration": "90 minut",
+    "bookingNote": "K dispozici v Praze nebo na dálku po celém světě. Napište nám a domluvíme si čas.",
+    "inquiry": "Ahoj, mám zájem o Ensofic Reiki."
+  },
+  "NegativeHabits": {
+    "heroEyebrow": "Energetické léčení · Praha a na dálku",
+    "heroTitle": "Léčení negativních návyků",
+    "heroSubtitle": "Pusťte vzorce, které stále opakujete",
+    "heroTagline": "Léčení paprskem Ensof k uvolnění negativních vzorců a návyků",
+    "introLead": "Některé vzorce se vracejí, protože sídlí hlouběji než síla vůle",
+    "introBody1": "Tato seance využívá paprsek Ensof, aby vám pomohla pustit negativní vzorce nebo návyky, které ve svém životě opakujete — smyčky myšlenek, emocí a chování, které se vracejí, ať se je snažíte změnit sebevíc.",
+    "introBody2": "Díky práci na úrovni energetické struktury, v níž jsou tyto vzorce uloženy, seance podporuje jejich uvolnění, takže nové a zdravější volby jsou snazší a přirozenější. Seance lze absolvovat osobně v Praze nebo na dálku, kdekoli na světě jste.",
+    "benefitsHeading": "Co podporuje",
+    "benefits": [
+      "Uvolnění negativních vzorců a návyků, které se stále opakují",
+      "Větší svobodu od automatických reakcí a starých smyček",
+      "Emoční lehkost a jasnost",
+      "Snazší nové, podpůrné volby",
+      "Podporu vedle vaší vlastní práce, terapie nebo lékařské péče"
+    ],
+    "who": [
+      "Opakujete stejné vzorce ve vztazích, práci nebo životě",
+      "Navzdory nejlepšímu úmyslu se vám nedaří přestat s návykem",
+      "Uvízli jste ve známých smyčkách myšlenek nebo emocí",
+      "Jste připraveni pustit to, co vám už neslouží"
+    ],
+    "faq": [
+      {
+        "q": "Jak to funguje?",
+        "a": "Paprsek Ensof se používá k práci s energetickou strukturou, v níž jsou tyto vzorce uloženy, a podporuje vás v jejich uvolnění."
+      },
+      {
+        "q": "S jakými návyky a vzorci může pomoci?",
+        "a": "S jakýmkoli vzorcem nebo návykem, který se ve vašem životě stále opakuje — v myšlenkách, emocích, chování nebo vztazích. Například výbuchy hněvu, přejídání, závislosti, vina, stud."
+      },
+      {
+        "q": "Jak může léčení fungovat na dálku?",
+        "a": "Radu a Diana se tomuto umění učili a tvrdě na sobě pracovali, aby ho zvládli. Zdokonalili své soustředění i svůj vztah s Hierarchií Světla. Společně směřují léčivou sílu všude tam, kde je ve světě potřeba."
+      }
+    ],
+    "duration": "90 minut",
+    "bookingNote": "K dispozici v Praze nebo na dálku po celém světě. Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o léčení negativních návyků."
+  },
+  "CrystalHealing": {
+    "heroEyebrow": "Energetické léčení · Praha",
+    "heroTitle": "Krystaloterapie",
+    "heroSubtitle": "Odpočívejte, zatímco říše minerálů tiše koná své dílo",
+    "heroTagline": "Posvátný zvuk a kámen, umístěné tak, aby obnovily rovnováhu, jasnost a proudění",
+    "introLead": "Jemné, uzemňující a hluboce obnovující",
+    "introBody1": "Krystaly a drahé kameny se pokládají na určitá místa těla a každý kámen je aktivován posvátným zvukem a záměrným umístěním. To podporuje uvolnění napětí, emočního stresu a stagnace, takže se vaše energie může znovu uspořádat.",
+    "introBody2": "Jednoduše odpočíváte, zatímco práce probíhá. Je obzvlášť podpůrná při vyčerpání, emočním přetížení nebo když se život zdá roztříštěný.",
+    "benefitsHeading": "Co nabízí",
+    "benefits": [
+      "Uvolnění napětí a emočního stresu",
+      "Úlevu od stagnace, aby energie opět proudila",
+      "Uzemnění a hluboký odpočinek",
+      "Obnovenou rovnováhu a jasnost"
+    ],
+    "faq": [
+      {
+        "q": "Je to bezpečné?",
+        "a": "Ano. Je to jemná, neinvazivní praxe a nemá žádné nežádoucí účinky."
+      },
+      {
+        "q": "Musím se připravit?",
+        "a": "Nic není potřeba. Přijďte, jak jste."
+      }
+    ],
+    "bookingTitle": "Odpočiňte si a obnovte se",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Ahoj, mám zájem o krystaloterapii."
+  },
+  "SparkOfLife": {
+    "heroEyebrow": "Dálkové energetické léčení · Celý svět",
+    "heroTitle": "Jiskra života",
+    "heroSubtitle": "Znovu se spojte se svou původní jiskrou životní síly",
+    "heroTagline": "Dálková léčebná seance, po celém světě, z Prahy",
+    "introLead": "Životní síla směřovaná do jádra vaší bytosti",
+    "introBody1": "Jiskra života působí za hranicí éterické matrice a systému čaker a směřuje energii životní síly do jádra bytosti. Její kořeny sahají do starověkých egyptských chrámů, kde byla vyvinuta pro kněze a kněžky, aby je omladila pro dlouhá léta služby, a je předávána přímým přenosem.",
+    "introBody2": "Tiše odpočíváte, vleže nebo vsedě, tam, kde jste, zatímco Diana a Radu pracují na dálku. Stačí jen přijímat. Dobře se doplňuje s Life Activation, před ní i po ní.",
+    "benefitsHeading": "Přínosy",
+    "benefits": [
+      "Úleva od fyzické bolesti a napětí",
+      "Pocit návratu energie a vitality",
+      "Emoční vyrovnanost a lehkost",
+      "Jasná mysl a obnovená motivace",
+      "Uvolnění stagnujících vzorců",
+      "Znovupropojení s vaší životní silou",
+      "Stálá podpora vedle jiné péče"
+    ],
+    "who": [
+      "Jedete na doraz",
+      "Potýkáte se s fyzickou bolestí, napětím nebo mentální mlhou",
+      "Chybí vám motivace, uvízli jste nebo vás přemáhají emoce",
+      "S energetickou prací teprve začínáte",
+      "Žijete daleko od Prahy"
+    ],
+    "faq": [
+      {
+        "q": "Jak může léčení fungovat na dálku?",
+        "a": "Radu a Diana se tomuto umění učili a tvrdě na sobě pracovali, aby ho zvládli. Zdokonalili své soustředění i svůj vztah s Hierarchií Světla. Společně směřují léčivou sílu všude tam, kde je ve světě potřeba."
+      },
+      {
+        "q": "Jak se připravit?",
+        "a": "Pomáhá vypít před seancí i po ní trochu vody a po seanci si dopřát pár tichých minut."
+      },
+      {
+        "q": "Jak dlouho seance trvá?",
+        "a": "Celkem asi 75 minut — zhruba 60 minut aktivního léčení plus krátký rozhovor před a po."
+      }
+    ],
+    "bookingTitle": "Oživte svou jiskru",
+    "duration": "75 minut",
+    "bookingNote": "Dálková seance, po celém světě. Napište nám a domluvíme si čas.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o dálkovém léčení Jiskra života."
+  },
+  "LifeActivationFaq": {
+    "items": [
+      {
+        "q": "Co se během seance děje?",
+        "a": "První část očisty začínáte vsedě, poté asi 20–30 minut stojíte, zatímco se vyrovnávají vaše čakry a éterické tělo, a končíte vsedě aktivací 22 vláken DNA, po níž následuje krátké čtení. Nemusíte se nijak připravovat — jednoduše přijímáte. Obvykle rezervuji 2 hodiny, aby byl prostor na rozhovor předem i na uklidnění potom."
+      },
+      {
+        "q": "Co budu cítit?",
+        "a": "Různě: teplo, mravenčení, emoce, hluboké uvolnění, ospalost, nebo v daném okamžiku téměř nic a posuny se projeví v následujících dnech. Vše je normální."
+      },
+      {
+        "q": "Jak probíhá integrace?",
+        "a": "Aktivace se rozvíjí zhruba jeden až tři měsíce. Mohou vyplout staré emoce, únava nebo náhlá jasnost. Diana se vám v této době ozývá."
+      },
+      {
+        "q": "Jak často ji mám podstoupit?",
+        "a": "Většina lidí podstoupí Life Activation jednou. Žádný rozvrh se dodržovat nemusí."
+      },
+      {
+        "q": "Potřebuji nějaké duchovní zázemí?",
+        "a": "Ne. Není třeba žádná víra ani duchovní zázemí."
+      },
+      {
+        "q": "Dá se provést na dálku?",
+        "a": "Ne — Life Activation probíhá pouze osobně. Ensofic Reiki a Jiskra života jsou dostupné na dálku."
+      },
+      {
+        "q": "Má praktik certifikaci?",
+        "a": "Ano. Provádět ji smějí pouze praktici certifikovaní přímo Modern Mystery School International a každý rok se znovu certifikují."
+      }
+    ]
+  },
+  "FullSpiritFaq": {
+    "items": [
+      {
+        "q": "Co se během seance děje?",
+        "a": "Po celou dobu pohodlně sedíte, zatímco Diana nebo Radu pracuje s vyššími centry — šišinkou, hypofýzou a thalamem. Nemusíte nic dělat; jednoduše přijímáte."
+      },
+      {
+        "q": "Potřebuji nejdřív Life Activation?",
+        "a": "Ano, vyžaduje se Life Activation v posledních 90 dnech. Lhůta 90 dnů pochází přímo z tradice. Pokud uplynula delší doba, společně si jednoduše ujasníme, kde jste, než půjdeme dál."
+      },
+      {
+        "q": "Co budu cítit?",
+        "a": "Různě: teplo, jemné posuny, emoční uvolnění nebo hluboký klid."
+      },
+      {
+        "q": "Co se děje potom?",
+        "a": "Mnoho lidí v následujících týdnech pozoruje usazování — méně mentálního hluku, vyrovnanější náladu a jasnější směr."
+      },
+      {
+        "q": "Dá se provést na dálku?",
+        "a": "Ne — Full Spirit Activation probíhá pouze osobně."
+      },
+      {
+        "q": "Má praktik certifikaci?",
+        "a": "Ano. Provádět ji smějí pouze praktici certifikovaní přímo Modern Mystery School International."
+      }
+    ]
   }
 }

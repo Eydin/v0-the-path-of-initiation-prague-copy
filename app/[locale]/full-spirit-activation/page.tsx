@@ -11,6 +11,7 @@ import {
   BenefitList,
   BookingBlock,
 } from "@/components/modality"
+import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { QuoteBreaker } from "@/components/quote-breaker"
 
 const STRIPE = "https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t"
@@ -39,6 +40,8 @@ export default async function FullSpiritActivation({
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "FullSpiritActivation" })
   const inquiry = t("inquiry", { brand: BRAND.fullSpiritActivation })
+  const tFaq = await getTranslations({ locale, namespace: "FullSpiritFaq" })
+  const faqItems = tFaq.raw("items") as FaqItem[]
   const aspects = [0, 1, 2].map((i) => ({ label: t(`aspects.${i}.label`), text: t(`aspects.${i}.text`) }))
   const procedures = [0, 1, 2].map((i) => ({ label: t(`procedures.${i}.label`), text: t(`procedures.${i}.text`) }))
 
@@ -49,6 +52,16 @@ export default async function FullSpiritActivation({
         title={BRAND.fullSpiritActivation}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+      />
+
+      <BookingBlock
+        kind="healing"
+        slug="full-spirit-activation"
+        title={t("bookingTitle")}
+        investment="8500 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        bookHref={STRIPE}
       />
 
       <Panel>
@@ -95,14 +108,8 @@ export default async function FullSpiritActivation({
         <Body>{t("proceduresClosing")}</Body>
       </Panel>
 
-      <BookingBlock
-        slug="full-spirit-activation"
-        title={t("bookingTitle")}
-        investment="8500 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        bookHref={STRIPE}
-      />
+      <ModalityFaq items={faqItems} />
+
     </ModalityShell>
   )
 }

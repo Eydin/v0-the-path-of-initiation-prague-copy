@@ -16,9 +16,9 @@ Gândește-te astfel: [Life Activation](/life-activation) activează planul tău
 - **Life Activation** lucrează la nivel fizic, activând 22 din cele 24 de fire de ADN recunoscute în această tradiție (11 fizice și 11 spirituale) și deschizând o conexiune mai profundă cu Sinele tău Divin și cu Sinele Superior. Scopul ei este să te reconecteze cu propriul tău plan originar — talentele, resursele și potențialul deja codificate în tine. Poți citi mai multe în articolul nostru despre [ce este de fapt o Life Activation](/blog/what-is-life-activation).
 - **Full Spirit Activation** lucrează la nivelul sufletului, mergând mai adânc în Regiunea Minții, Centrul Voinței și în intuiția, memoria și punctele tale de acces. În loc să activeze planul originar, ea ancorează sufletul și spiritul tău *în* corpul fizic pe care l-ai activat deja, amplificând fluxul de energie spirituală prin întregul tău sistem.
 
-### Durată și investiție
+### Durată și preț
 
-Ambele ședințe, aici la Praga, durează aproximativ **două ore** și sunt oferite la aceeași investiție de **8.500 CZK**. Ceea ce diferă nu este ceasul, ci profunzimea a ceea ce se întâmplă în acel interval — și, la fel de important, ce vei face cu timpul tău *după*.
+Ambele ședințe, aici la Praga, durează aproximativ **două ore** și sunt oferite la același preț de **8.500 CZK**. Ceea ce diferă nu este ceasul, ci profunzimea a ceea ce se întâmplă în acel interval — și, la fel de important, ce vei face cu timpul tău *după*.
 
 ### Proceduri suplimentare
 

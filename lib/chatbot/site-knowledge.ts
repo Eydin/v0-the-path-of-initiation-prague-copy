@@ -1,6 +1,10 @@
 // AUTO-GENERATED from site pages by scripts/build-knowledge.mjs   do not edit by hand.
 // Regenerate after content changes: node scripts/build-knowledge.mjs
-export const SITE_KNOWLEDGE = `## PAGE: /astral-travel
+export const SITE_KNOWLEDGE = `## PAGE: /advanced-ensofic-ray-healing
+center 30%
+16.900 CZK
+
+## PAGE: /astral-travel
 https://buy.stripe.com/3cI7sE1rh1RIc3jeoHg360k
 A Workshop of the Mystery School
 Astral Travel
@@ -48,12 +52,13 @@ After you reach out, we will contact you personally to finalise your appointment
 ## PAGE: /blog/[slug]
 The Path of Initiation Prague
 force-dynamic
+The Path of Initiation
 Organization
 
 ## PAGE: /blog
 King Salomon · Magick · Alchemy
 force-dynamic
-The Path of Initiation Prague
+The Path of Initiation
 Modern Mystery School blog
 King Salomon
 Blog | The Path of Initiation Prague
@@ -145,6 +150,10 @@ Join the circle
 If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
 Contact the Community
 
+## PAGE: /crystal-healing
+center 30%
+3.669 CZK
+
 ## PAGE: /empower-thyself
 Radu Coman
 https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
@@ -209,11 +218,17 @@ Booking Process:
 A 12.000 CZK deposit secures your place and allows us to schedule your Life Activation session.
 The remaining 24.500 CZK is due 2 weeks before the 2-day training and Initiation begins.
 Email
-Investment
+Price
 Duration
 Book Now
 Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
+Healing Session
+Reading Session
+
+## PAGE: /ensofic-reiki
+center 30%
+6.150 CZK
 
 ## PAGE: /full-spirit-activation
 https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
@@ -247,6 +262,18 @@ A magical Energy Spray (Spagyrics) created to support the process and gentle det
 After such an intense session, it is recommended to allow yourself time to fully integrate the transformations. To maximise the benefits, complete the Life Activation first — ideally between three weeks and three months beforehand.
 Discover Your Potential to Be a Divine Being
 2 Hours
+What happens in a session?
+You stay comfortably seated throughout while Diana or Radu works with the higher centres — the pineal, pituitary and thalamus. There is nothing you need to do; you simply receive.
+Do I need a Life Activation first?
+Yes, a Life Activation within the last 90 days is required. The 90-day window comes from the tradition itself. If it has been longer, we will simply check in together on where you are before moving forward.
+What will I feel?
+It varies: warmth, subtle shifts, emotional release or deep calm.
+What happens afterwards?
+Many people notice a settling over the following weeks — less mental noise, a steadier mood and clearer direction.
+Can it be done remotely?
+No — the Full Spirit Activation is in person only.
+Is the practitioner certified?
+Yes. Only practitioners certified directly by Modern Mystery School International may perform it.
 
 ## PAGE: /healers-academy
 The Second Level of Initiation
@@ -285,13 +312,19 @@ https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
 4.800 CZK
 /aura-healing
 6.150 CZK
+/ensofic-reiki
+/treating-negative-habits
+3.669 CZK
+/crystal-healing
+/soul-retrieval
+/spark-of-life
 /life-purpose-reading
 In the Lineage of King Salomon
 Healing Modalities
 A range of healings for body, mind and soul
 Each session is offered one-to-one — reach out to inquire about any of them
 A living tradition of healing
-The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu will guide you from there.
+The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu and Diana will guide you from there.
 For the deeper, specialised work of the tradition, see the
 Specialty Healings →
 Hello, I would like to inquire about the healing modalities.
@@ -313,18 +346,26 @@ Emotional Cord Cutting
 Disconnects draining emotional cords so you stop losing energy to other people.
 Shamanic Aura Clearing
 Shamanic techniques to clear blockages and heavy energies from the auric field.
-Ensofic Ray Healing
-The brightest, most powerful ray of energy — realigns body, soul and spirit at the core.
+Ensofic Reiki
+A single 90-minute session with the Ensofic Ray — clears blockages and returns you to balance and presence.
+Treating of Negative Habits
+Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life.
 Crystal Healing
 Ancient lineage techniques working with crystals for healing, intuition and protection.
-Readings & Guidance
-Insight into your purpose, your soul and your path.
-Life Purpose & 11th Codon Reading
-A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation.
 Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
 A remote healing that carries restorative energy to you across any distance.
+Remote Healings
+Receive healing from wherever you are, anywhere in the world.
+Readings & Guidance
+Insight into your purpose, your soul and your path.
+Life Purpose & 11th Codon Reading
+A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation.
+Intuitive Reading with Crystal
+A reading with a crystal that opens access to the wisdom of your Higher Self and guides.
+Chronos Reading
+A reading that works with the energies of time to bring clarity on your past, present and path ahead.
 Body, Meridian & Meditation
 Restoring flow, balance and stillness through body and breath.
 Max Meditation System™
@@ -429,11 +470,27 @@ Meet Your Authentic Power and Higher Self!
 2 Hours
 After the payment is completed, we will contact you to finalize the appointment.
 Email
-Investment
+Price
 Duration
 Book Now
 Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
+Healing Session
+Reading Session
+What happens in a session?
+You start seated for the first part of the clearing, then stand for about 20–30 minutes while your chakras and etheric body are balanced, and finish seated for the activation of the 22 strands of DNA, followed by a short reading. There is nothing you need to prepare — you simply receive. I usually book 2 hours so there is room to talk beforehand and to settle afterwards.
+What will I feel?
+It varies: warmth, tingling, emotion, deep relaxation, sleepiness, or very little in the moment with shifts showing up in the following days. All of these are normal.
+How does integration work?
+The activation keeps unfolding for roughly one to three months. Old emotions may surface, along with tiredness or sudden clarity. Diana checks in with you during this time.
+How often should I receive it?
+Most people receive the Life Activation once. There is no schedule to follow.
+Do I need any spiritual background?
+No. No belief or spiritual background is required.
+Can it be done remotely?
+No — the Life Activation is in person only. Ensofic Reiki and Spark of Life are available at a distance.
+Is the practitioner certified?
+Yes. Only practitioners certified directly by Modern Mystery School International may perform it, and they re-certify every year.
 
 ## PAGE: /life-purpose-reading
 A Reading of the Mystery School
@@ -664,6 +721,14 @@ Walk Through the Seven Gates
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
 Hello, I would like to learn more about the 7 Mystery Schools workshop.
 
+## PAGE: /soul-retrieval
+center 30%
+6.150 CZK
+
+## PAGE: /spark-of-life
+center 40%
+6.150 CZK
+
 ## PAGE: /specialty-healings
 The King Salomon Healing Modality
 Specialty Healings
@@ -683,6 +748,8 @@ Specialty
 Focused King Salomon work within the auric field, clearing and rebuilding the region that surrounds and protects you.
 Specialty Sessions
 Deeper, specialised work of the tradition — each offered one-to-one.
+Advanced Ensofic Ray Healing
+A series of three 90-minute sessions with the Ensofic Ray — body, soul & spirit, then integration — to deepen and stabilise your alignment.
 Fire Soul Infusion
 Reignites the inner fire of the soul, restoring passion, drive and life-force where you feel depleted.
 Core Will Infusion
@@ -797,6 +864,10 @@ More Student Journeys
 Your Journey Can Begin Too
 Every story above started the same way it can for you — with a single first step. The door is open to those who feel the call.
 Begin Your Journey
+
+## PAGE: /treating-negative-habits
+center 30%
+6.150 CZK
 
 ## PAGE: /withdraw-from-contract
 Withdraw from the Contract | The Path of Initiation Prague
@@ -1053,6 +1124,14 @@ Inquire
 Book Now
 See Details
 
+## PAGE: (component) healing-session-page.tsx
+benefits
+duration
+Questions
+Frequently Asked Questions
+Who It Is For
+This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
+
 ## PAGE: (component) hero-section.tsx
 Prague, Czech Republic
 The Path of Initiation:
@@ -1061,17 +1140,27 @@ For millennia, this sacred lineage was guarded in silence. Recognizable figures 
 Today though, the doors of one mystery school are open to the public. We are privileged to live in an era where anyone who feels the call can choose to study the mysteries and awaken to their true potential. This is a school where magick is a core part of existence, where the soul is developed and healed, and where the divine purpose of each person is discovered and fulfilled.
 Discover if this Path is for you
 
+## PAGE: (component) modality-faq.tsx
+./ui/accordion
+disclaimer
+Questions
+Frequently Asked Questions
+Who It Is For
+This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
+
 ## PAGE: (component) modality.tsx
 radu@thepathofinitiationprague.com
 inscriere-eveniment
 investment
 duration
 Email
-Investment
+Price
 Duration
 Book Now
 Do you have any questions?
 After you reach out, we will contact you personally to finalize your appointment.
+Healing Session
+Reading Session
 
 ## PAGE: (component) newsletter-section.tsx
 application/json

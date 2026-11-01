@@ -16,9 +16,9 @@ Stellen Sie es sich so vor: [Life Activation](/life-activation) schaltet Ihren u
 - **Life Activation** wirkt auf physischer Ebene, aktiviert 22 der 24 in dieser Tradition anerkannten DNA-Stränge (11 physische und 11 spirituelle) und öffnet eine tiefere Verbindung zu Ihrem Göttlichen Selbst und Höheren Selbst. Ihr Zweck ist es, Sie mit Ihrem eigenen ursprünglichen Bauplan wiederzuverbinden — den Talenten, Ressourcen und dem Potenzial, das bereits in Ihnen codiert ist. Mehr dazu in unserem Beitrag darüber, [was eine Life Activation eigentlich ist](/blog/what-is-life-activation).
 - **Full Spirit Activation** wirkt auf der Ebene der Seele und geht tiefer in die Verstandesregion, das Willenszentrum sowie Ihre Intuition, Erinnerung und Zugangspunkte. Statt Ihren Bauplan einzuschalten, verankert sie Ihre Seele und Ihren Geist *in* dem physischen Körper, den Sie bereits aktiviert haben, und verstärkt den Fluss spiritueller Energie durch Ihr gesamtes System.
 
-### Dauer und Investition
+### Dauer und Preis
 
-Beide Sitzungen dauern hier in Prag etwa **zwei Stunden** und werden für dieselbe Investition von **8.500 CZK** angeboten. Unterschiedlich ist nicht die Uhr, sondern die Tiefe dessen, was innerhalb dieses Zeitfensters geschieht — und, ebenso wichtig, was Sie mit Ihrer Zeit *danach* anfangen möchten.
+Beide Sitzungen dauern hier in Prag etwa **zwei Stunden** und werden zum selben Preis von **8.500 CZK** angeboten. Unterschiedlich ist nicht die Uhr, sondern die Tiefe dessen, was innerhalb dieses Zeitfensters geschieht — und, ebenso wichtig, was Sie mit Ihrer Zeit *danach* anfangen möchten.
 
 ### Ergänzende Verfahren
 

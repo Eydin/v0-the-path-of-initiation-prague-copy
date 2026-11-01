@@ -49,6 +49,17 @@ export default async function AuraHealing({
         tagline={t("heroTagline")}
       />
 
+      <BookingBlock
+        kind="healing"
+        slug="aura-healing"
+        title={t("bookingTitle")}
+        investment="4.800 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        note={t("bookingNote")}
+        bookHref={STRIPE}
+      />
+
       <Panel>
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1", { brand: BRAND.sacredGeometry })}</Body>
@@ -70,15 +81,6 @@ export default async function AuraHealing({
         <BenefitList items={benefits} />
       </Panel>
 
-      <BookingBlock
-        slug="aura-healing"
-        title={t("bookingTitle")}
-        investment="4.800 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        note={t("bookingNote")}
-        bookHref={STRIPE}
-      />
     </ModalityShell>
   )
 }

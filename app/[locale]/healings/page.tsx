@@ -61,13 +61,21 @@ export default async function Healings({
     { name: t("groups.activations.items.2.name"), description: t("groups.activations.items.2.description") },
   ]
 
-  const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5].map((i) => ({
+  const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5, 6, 7, 8].map((i) => ({
     name: i === 0 ? t("groups.auraEnergy.items.0.name", { brand: BRAND.sacredGeometry }) : t(`groups.auraEnergy.items.${i}.name`),
     description: t(`groups.auraEnergy.items.${i}.description`),
     ...(i === 0
       ? { price: "4.800 CZK", bookHref: AURA_HEALING_STRIPE, detailsHref: "/aura-healing" }
       : {}),
+    ...(i === 4 ? { price: "6.150 CZK", detailsHref: "/ensofic-reiki" } : {}),
+    ...(i === 5 ? { price: "6.150 CZK", detailsHref: "/treating-negative-habits" } : {}),
+    ...(i === 6 ? { price: "3.669 CZK", detailsHref: "/crystal-healing" } : {}),
+    ...(i === 7 ? { price: "6.150 CZK", detailsHref: "/soul-retrieval" } : {}),
+    ...(i === 8 ? { price: "6.150 CZK", detailsHref: "/spark-of-life" } : {}),
   }))
+
+  // The remote-capable sessions also appear in "Aura & Energy" above — same cards, so the two never drift apart.
+  const remote: Healing[] = [4, 5, 8].map((i) => auraEnergy[i])
 
   const readings: Healing[] = [0, 1, 2].map((i) => ({
     name: t(`groups.readings.items.${i}.name`),
@@ -113,6 +121,11 @@ export default async function Healings({
         title={t("groups.auraEnergy.title")}
         blurb={t("groups.auraEnergy.blurb")}
         items={auraEnergy}
+      />
+      <HealingGroup
+        title={t("groups.remote.title")}
+        blurb={t("groups.remote.blurb")}
+        items={remote}
       />
       <HealingGroup
         title={t("groups.readings.title")}

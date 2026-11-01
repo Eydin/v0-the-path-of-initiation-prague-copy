@@ -14,6 +14,7 @@ import {
   WhatsAppButton,
   VideoEmbed,
 } from "@/components/modality"
+import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
 
 const STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
 
@@ -41,6 +42,7 @@ export default async function LifeActivation({
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "LifeActivation" })
   const tModality = await getTranslations({ locale, namespace: "Modality" })
+  const tFaq = await getTranslations({ locale, namespace: "LifeActivationFaq" })
   const inquiry = t("inquiry", { brand: BRAND.lifeActivation })
   const benefits = [0, 1, 2, 3, 4].map((i) => ({
     label: t(`benefits.${i}.label`),
@@ -51,6 +53,8 @@ export default async function LifeActivation({
     text: t(`procedures.${i}.text`),
   }))
 
+  const faqItems = tFaq.raw("items") as FaqItem[]
+
   return (
     <ModalityShell bg="bethesda-bloch.jpg" position="center 18%">
       <ModalityHero
@@ -58,6 +62,17 @@ export default async function LifeActivation({
         title={BRAND.lifeActivation}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+      />
+
+      <BookingBlock
+        kind="healing"
+        slug="life-activation"
+        title={t("bookingTitle")}
+        investment="8.500 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        bookHref={STRIPE}
+        note={t("bookingNote")}
       />
 
       {/* Introduction */}
@@ -100,6 +115,8 @@ export default async function LifeActivation({
         </div>
       </Panel>
 
+      <ModalityFaq items={faqItems} />
+
       {/* Certifications */}
       <Panel wide>
         <div className="grid items-center gap-8 md:grid-cols-3">
@@ -132,16 +149,6 @@ export default async function LifeActivation({
           </Link>
         </div>
       </Panel>
-
-      <BookingBlock
-        slug="life-activation"
-        title={t("bookingTitle")}
-        investment="8.500 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        bookHref={STRIPE}
-        note={t("bookingNote")}
-      />
     </ModalityShell>
   )
 }

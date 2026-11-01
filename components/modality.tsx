@@ -214,8 +214,9 @@ export function BookingBlock({
   bookLabel,
   children,
   note,
+  kind,
 }: {
-  title: string
+  title?: string
   investment?: string
   duration?: string
   inquiry: string
@@ -229,6 +230,8 @@ export function BookingBlock({
   /** Optional extra detail (e.g. deposit breakdown) shown above the buttons. */
   children?: ReactNode
   note?: string
+  /** Shows a "Healing Session" / "Reading Session" badge above the title. */
+  kind?: "healing" | "reading"
 }) {
   const t = useTranslations("Modality")
   // Extract id from slug if not provided (e.g., "community#prayer-evening" -> "prayer-evening")
@@ -242,7 +245,14 @@ export function BookingBlock({
             <div className="rounded-lg border border-primary/20 bg-muted/60 p-8 backdrop-blur-sm md:p-12">
               <div className="space-y-12 text-center">
                 <div>
-                  <h2 className="mb-8 font-serif text-3xl tracking-wide text-primary md:text-4xl">{title}</h2>
+                  {kind && (
+                    <p className="mb-4 inline-block rounded-full border border-primary/30 px-4 py-1 text-xs uppercase tracking-[0.25em] text-primary">
+                      {kind === "reading" ? t("readingSession") : t("healingSession")}
+                    </p>
+                  )}
+                  {title && (
+                    <h2 className="mb-8 font-serif text-3xl tracking-wide text-primary md:text-4xl">{title}</h2>
+                  )}
                   <div className="mx-auto h-px w-16 bg-border" />
                 </div>
 

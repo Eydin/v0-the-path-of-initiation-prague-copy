@@ -12,9 +12,9 @@ Think of it this way: [Life Activation](/life-activation) switches on your origi
 - **Life Activation** works at the physical level, activating 22 of the 24 DNA strands recognized in this tradition (11 physical and 11 spiritual) and opening a deeper connection to your Divine Self and Higher Self. Its purpose is to reconnect you with your own original blueprint — the talents, resources, and potential already coded within you. Read more in our post on [what a Life Activation actually is](/blog/what-is-life-activation).
 - **Full Spirit Activation** works at the level of the soul, going deeper into the Mind Region, the Will Center, and your intuition, memory, and access points. Rather than switching on your blueprint, it anchors your soul and spirit *into* the physical body you have already activated, amplifying the flow of spiritual energy through your entire system.
 
-### Duration & Investment
+### Duration & Price
 
-Both sessions here in Prague run for roughly **two hours** and are offered at the same **8,500 CZK** investment. What differs is not the clock, but the depth of what happens inside that window — and, just as importantly, what you'll want to do with your time *afterward*.
+Both sessions here in Prague run for roughly **two hours** and are offered at the same **8,500 CZK** price. What differs is not the clock, but the depth of what happens inside that window — and, just as importantly, what you'll want to do with your time *afterward*.
 
 ### Supplementary Procedures
 

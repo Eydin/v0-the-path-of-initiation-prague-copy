@@ -21,7 +21,7 @@ const KEY_FACTS = `
   some sessions can also be booked directly online.
 - Empower Thyself initiation (first level of initiation): 2 days in person, followed by
   weekly follow-up check-ins and support for many months.
-- Life Activation: activates 22 of 24 DNA strands; ~2 hours; investment 8,500 CZK.
+- Life Activation: activates 22 of 24 DNA strands; ~2 hours; price 8,500 CZK.
 - The path: Life Activation → Empower Thyself → Healers Academy → Ritual Master, alongside
   healings, Sacred Geometry, Astral Travel, Spiritual Intuition and other workshops.
 

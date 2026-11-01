@@ -46,6 +46,16 @@ export default async function LifePurposeReading({
         tagline={t("heroTagline")}
       />
 
+      <BookingBlock
+        kind="reading"
+        slug="life-purpose-reading"
+        title={t("bookingTitle")}
+        investment="6.150 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        note={t("bookingNote")}
+      />
+
       <Panel>
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1")}</Body>
@@ -57,14 +67,6 @@ export default async function LifePurposeReading({
         <BenefitList items={benefits} />
       </Panel>
 
-      <BookingBlock
-        slug="life-purpose-reading"
-        title={t("bookingTitle")}
-        investment="6.150 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        note={t("bookingNote")}
-      />
     </ModalityShell>
   )
 }
