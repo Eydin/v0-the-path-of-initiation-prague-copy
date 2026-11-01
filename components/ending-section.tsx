@@ -29,12 +29,12 @@ export function EndingSection() {
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
               />
-              <div className="absolute inset-0 bg-background/40" />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/30 to-black/15" />
               <div className="absolute inset-0 flex flex-col items-center justify-end p-6 text-center">
-                <p className="font-serif text-lg tracking-wide text-foreground">
+                <p className="font-serif text-lg tracking-wide text-[#f5efe0]">
                   {t("cards.0.title")}
                 </p>
-                <p className="text-xs tracking-wider text-primary uppercase">
+                <p className="text-xs tracking-wider text-[#e3c36e] uppercase">
                   {t("cards.0.subtitle")}
                 </p>
               </div>
@@ -49,12 +49,12 @@ export function EndingSection() {
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
               />
-              <div className="absolute inset-0 bg-background/40" />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/30 to-black/15" />
               <div className="absolute inset-0 flex flex-col items-center justify-end p-6 text-center">
-                <p className="font-serif text-lg tracking-wide text-foreground">
+                <p className="font-serif text-lg tracking-wide text-[#f5efe0]">
                   {t("cards.1.title")}
                 </p>
-                <p className="text-xs tracking-wider text-primary uppercase">
+                <p className="text-xs tracking-wider text-[#e3c36e] uppercase">
                   {t("cards.1.subtitle")}
                 </p>
               </div>
@@ -69,12 +69,12 @@ export function EndingSection() {
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
               />
-              <div className="absolute inset-0 bg-background/40" />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/30 to-black/15" />
               <div className="absolute inset-0 flex flex-col items-center justify-end p-6 text-center">
-                <p className="font-serif text-lg tracking-wide text-foreground">
+                <p className="font-serif text-lg tracking-wide text-[#f5efe0]">
                   {t("cards.2.title")}
                 </p>
-                <p className="text-xs tracking-wider text-primary uppercase">
+                <p className="text-xs tracking-wider text-[#e3c36e] uppercase">
                   {t("cards.2.subtitle")}
                 </p>
               </div>

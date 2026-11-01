@@ -65,11 +65,12 @@
     "seeFullCalendar": "See the full calendar"
   },
   "CalendarWidget": {
-    "heading": "Explore Our Calendar",
-    "body": "See every activation, initiation, workshop and community gathering coming up in Prague.",
+    "heading": "Would you like to join a class or a workshop?",
+    "body": "Explore our upcoming events",
     "button": "View Calendar"
   },
   "Facts": {
+    "intro": "Do you want to become an initiate of the mysteries? Then read on.",
     "heading": "A Legacy That Speaks for Itself",
     "stats": [
       { "number": "3,000+", "label": "Years of Unbroken Lineage" },
@@ -1597,5 +1598,10 @@
     "duration": "1 Hour",
     "bookingNote": "Dates to be announced. Reach out and we will let you know when the next Max Meditation takes place in Prague.",
     "inquiry": "Hello, I would like to learn more about Max Meditation."
+  },
+  "HealingsWidget": {
+    "heading": "Are you looking for healing for yourself or a loved one?",
+    "body": "See our healing section",
+    "button": "View Healings"
   }
 }

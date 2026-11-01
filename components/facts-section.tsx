@@ -28,6 +28,7 @@ export function FactsSection() {
       <div className="relative z-10 mx-auto max-w-7xl px-6">
         <ScrollReveal>
           <div className="mb-16 text-center">
+            <p className="mb-4 font-serif text-lg italic text-primary md:text-xl text-balance">{t("intro")}</p>
             <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
               {t("heading")}
             </h2>

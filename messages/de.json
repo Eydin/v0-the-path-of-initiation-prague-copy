@@ -65,11 +65,12 @@
     "seeFullCalendar": "Zum vollständigen Kalender"
   },
   "CalendarWidget": {
-    "heading": "Entdecke unseren Kalender",
-    "body": "Sieh dir alle anstehenden Aktivierungen, Initiationen, Workshops und Community-Treffen in Prag an.",
+    "heading": "Möchtest du an einem Kurs oder Workshop teilnehmen?",
+    "body": "Entdecke unsere kommenden Veranstaltungen",
     "button": "Kalender ansehen"
   },
   "Facts": {
+    "intro": "Möchtest du ein Initiierter der Mysterien werden? Dann lies weiter.",
     "heading": "Ein Vermächtnis, das für sich spricht",
     "stats": [
       { "number": "3.000+", "label": "Jahre ununterbrochener Linie" },
@@ -1558,5 +1559,10 @@
     "duration": "1 Stunde",
     "bookingNote": "Termine werden bekanntgegeben. Melde dich, und wir lassen dich wissen, wann die nächste Max Meditation in Prag stattfindet.",
     "inquiry": "Hallo, ich möchte mehr über Max Meditation erfahren."
+  },
+  "HealingsWidget": {
+    "heading": "Suchst du Heilung für dich selbst oder einen geliebten Menschen?",
+    "body": "Entdecke unseren Heilungsbereich",
+    "button": "Heilungen ansehen"
   }
 }

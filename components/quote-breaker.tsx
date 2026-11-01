@@ -24,7 +24,7 @@ export function QuoteBreaker({ image, quote, attribution, caption, position = "c
       style={{ minHeight: "clamp(440px, 66vh, 660px)" }}
     >
       <ParallaxImage src={`/images/art/${image}`} alt="" position={position} strength={70} />
-      <div className="absolute inset-0 bg-gradient-to-b from-background/75 via-background/55 to-background/80" />
+      <div className="image-veil absolute inset-0 bg-gradient-to-b from-background/75 via-background/55 to-background/80" />
 
       <div className="relative z-10 mx-auto max-w-3xl px-6 text-center">
         <ScrollReveal>

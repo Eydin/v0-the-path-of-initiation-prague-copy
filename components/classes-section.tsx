@@ -56,31 +56,37 @@ export function ClassesSection() {
             <ScrollReveal key={cls.title} delay={i * 0.12}>
               <Link
                 href={cls.link}
-                className="group relative flex h-full flex-col overflow-hidden border border-border p-8 transition-colors hover:border-primary/40"
+                className="group relative flex h-full flex-col overflow-hidden border border-border bg-card transition-colors hover:border-primary/40"
               >
-                <div
-                  className="absolute inset-0 -z-10 bg-cover bg-center transition-transform duration-500 group-hover:scale-105"
-                  style={{ backgroundImage: `url('${cls.image}')` }}
-                  aria-hidden
-                />
-                <div className="absolute inset-0 -z-10 bg-gradient-to-t from-background via-background/90 to-background/60" />
+                {/* artwork strip on top — fully visible, nothing written over it */}
+                <div className="relative h-44 overflow-hidden">
+                  <div
+                    className="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105"
+                    style={{ backgroundImage: `url('${cls.image}')` }}
+                    aria-hidden
+                  />
+                  <div className="absolute inset-x-0 bottom-0 h-10 bg-gradient-to-t from-card to-transparent" />
+                </div>
 
-                <div className="mb-4 flex items-center gap-3">
-                  <Calendar className="h-5 w-5 text-primary" />
-                  <span className="text-xs tracking-wider text-primary uppercase">
-                    {cls.tag}
+                {/* text sits on the solid card colour for easy reading */}
+                <div className="flex flex-1 flex-col p-8">
+                  <div className="mb-4 flex items-center gap-3">
+                    <Calendar className="h-5 w-5 text-primary" />
+                    <span className="text-xs font-medium tracking-wider text-primary uppercase">
+                      {cls.tag}
+                    </span>
+                  </div>
+                  <h3 className="mb-3 font-serif text-xl tracking-wide text-foreground">
+                    {cls.title}
+                  </h3>
+                  <p className="mb-6 flex-1 text-sm leading-relaxed text-foreground/80">
+                    {cls.description}
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-sm font-medium tracking-wide text-primary transition-colors group-hover:text-gold-light">
+                    {cls.linkLabel ?? t("learnMore")}
+                    <ArrowRight className="h-3 w-3" />
                   </span>
                 </div>
-                <h3 className="mb-3 font-serif text-xl tracking-wide text-foreground">
-                  {cls.title}
-                </h3>
-                <p className="mb-6 flex-1 text-sm leading-relaxed text-muted-foreground">
-                  {cls.description}
-                </p>
-                <span className="inline-flex items-center gap-2 text-sm tracking-wide text-primary transition-colors group-hover:text-gold-light">
-                  {cls.linkLabel ?? t("learnMore")}
-                  <ArrowRight className="h-3 w-3" />
-                </span>
               </Link>
             </ScrollReveal>
           ))}

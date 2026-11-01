@@ -65,11 +65,12 @@
     "seeFullCalendar": "Vezi calendarul complet"
   },
   "CalendarWidget": {
-    "heading": "Explorează Calendarul Nostru",
-    "body": "Vezi toate activările, inițierile, atelierele și întâlnirile comunitare care urmează în Praga.",
+    "heading": "Ai dori să participi la un curs sau la un atelier?",
+    "body": "Descoperă evenimentele noastre viitoare",
     "button": "Vezi Calendarul"
   },
   "Facts": {
+    "intro": "Vrei să devii inițiat al misterelor? Atunci citește mai departe.",
     "heading": "Un legat care vorbește de la sine",
     "stats": [
       { "number": "3.000+", "label": "Ani de linie neîntreruptă" },
@@ -1558,5 +1559,10 @@
     "duration": "1 oră",
     "bookingNote": "Datele vor fi anunțate. Contactează-ne și te vom anunța când va avea loc următoarea Max Meditation la Praga.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Max Meditation."
+  },
+  "HealingsWidget": {
+    "heading": "Cauți vindecare pentru tine sau pentru o persoană dragă?",
+    "body": "Vezi secțiunea noastră de vindecare",
+    "button": "Vezi vindecările"
   }
 }

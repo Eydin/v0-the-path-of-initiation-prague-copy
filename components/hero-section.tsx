@@ -33,8 +33,17 @@ export function HeroSection() {
           }, 30000)
         }}
       />
-      {/* veil — keeps the cinematic dark mood and the light headline legible over the bright sky */}
-      <div className="absolute inset-0 bg-gradient-to-b from-background/88 via-background/78 to-background/94" />
+      {/* veil — two layers so the dragon stays visible: a light wash over the whole video, plus a soft
+          glow right behind the text block (strong in the middle, fading to clear at the edges) that keeps
+          the headline and paragraphs readable. */}
+      <div className="absolute inset-0 bg-gradient-to-b from-background/35 via-background/15 to-background/55" />
+      <div
+        className="absolute inset-0"
+        style={{
+          background:
+            "radial-gradient(ellipse 58% 62% at 50% 50%, color-mix(in oklab, var(--background) 88%, transparent) 0%, color-mix(in oklab, var(--background) 74%, transparent) 50%, transparent 100%)",
+        }}
+      />
 
       <div className="relative z-10 mx-auto max-w-4xl px-6 py-32 text-center">
         <motion.div

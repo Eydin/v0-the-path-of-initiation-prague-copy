@@ -73,7 +73,7 @@ export function NewsletterSection() {
       style={{ minHeight: "clamp(460px, 60vh, 600px)" }}
     >
       <ParallaxImage src="/images/art/flammarion.jpg" alt="" position="center 30%" strength={60} />
-      <div className="absolute inset-0 bg-gradient-to-b from-background/85 via-background/70 to-background/90" />
+      <div className="image-veil image-veil--text absolute inset-0 bg-gradient-to-b from-background/85 via-background/70 to-background/90" />
 
       <div className="relative z-10 mx-auto max-w-2xl px-6 text-center">
         <ScrollReveal>
@@ -90,7 +90,7 @@ export function NewsletterSection() {
 
           <form className="mx-auto flex max-w-md flex-col gap-3 sm:flex-row" onSubmit={handleSubmit}>
             <div className="relative flex-1">
-              <Mail className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-primary/60" />
+              <Mail className="pointer-events-none absolute left-4 top-1/2 z-10 h-4 w-4 -translate-y-1/2 text-[#e3c36e]/80" />
               <input
                 type="email"
                 inputMode="email"
@@ -98,7 +98,7 @@ export function NewsletterSection() {
                 onChange={(event) => setEmail(event.target.value)}
                 placeholder={t("placeholder")}
                 aria-label={t("placeholder")}
-                className="h-14 w-full rounded-sm border border-border bg-background/60 pl-11 pr-4 text-base text-foreground placeholder:text-muted-foreground backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+                className="h-14 w-full rounded-sm border border-[#2a2118] bg-[#2a1a14]/90 pl-11 pr-4 text-base text-[#f5efe0] placeholder:text-[#cdbfa6] backdrop-blur-sm transition-colors focus:border-[#e3c36e] focus:outline-none focus:ring-1 focus:ring-[#e3c36e]"
               />
             </div>
             <button

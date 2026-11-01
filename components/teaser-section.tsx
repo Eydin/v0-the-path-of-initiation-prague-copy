@@ -36,7 +36,7 @@ export function TeaserSection() {
         </ScrollReveal>
 
         <ScrollReveal delay={0.35}>
-          <div className="mx-auto flex max-w-md flex-col gap-4 border border-primary/30 bg-card p-8">
+          <div className="home-box mx-auto flex max-w-md flex-col gap-4 border border-primary/30 bg-card p-8">
             <p className="font-serif text-sm tracking-wider text-primary uppercase">
               {t("expectedHeading")}
             </p>

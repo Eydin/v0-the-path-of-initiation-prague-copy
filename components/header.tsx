@@ -8,8 +8,6 @@ import { Link } from "@/i18n/navigation"
 import { BRAND } from "@/lib/brand-names"
 import { LocaleSwitcher } from "@/components/locale-switcher"
 
-const WHATSAPP =
-  "https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
 
 function DropdownLink({ label, items }: { label: string; items: { href: string; label: string }[] }) {
   return (
@@ -99,14 +97,12 @@ export function Header() {
             </Link>
           ))}
           <LocaleSwitcher />
-          <a
-            href={WHATSAPP}
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/life-activation"
             className="border border-primary bg-primary/10 px-5 py-2 font-serif text-sm tracking-wide text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
           >
             {t("beginJourney")}
-          </a>
+          </Link>
         </nav>
 
         {/* Mobile Menu Button */}
@@ -182,14 +178,13 @@ export function Header() {
             </div>
             <div className="flex flex-col gap-3 border-t border-border/40 pt-4">
               <LocaleSwitcher />
-              <a
-                href={WHATSAPP}
-                target="_blank"
-                rel="noopener noreferrer"
+              <Link
+                href="/life-activation"
+                onClick={() => setMobileMenuOpen(false)}
                 className="mt-1 inline-block border border-primary bg-primary/10 px-5 py-2 text-center font-serif text-sm tracking-wide text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
               >
                 {t("beginJourney")}
-              </a>
+              </Link>
             </div>
           </div>
         </motion.nav>

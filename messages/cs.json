@@ -65,11 +65,12 @@
     "seeFullCalendar": "Zobrazit celý kalendář"
   },
   "CalendarWidget": {
-    "heading": "Prozkoumejte náš kalendář",
-    "body": "Podívejte se na všechny nadcházející aktivace, zasvěcení, workshopy a komunitní setkání v Praze.",
+    "heading": "Chcete se zúčastnit kurzu nebo workshopu?",
+    "body": "Prozkoumejte naše nadcházející události",
     "button": "Zobrazit kalendář"
   },
   "Facts": {
+    "intro": "Chcete se stát zasvěcencem mystérií? Čtěte dál.",
     "heading": "Odkaz, který mluví sám za sebe",
     "stats": [
       { "number": "3000+", "label": "Let nepřerušené linie" },
@@ -1558,5 +1559,10 @@
     "duration": "1 hodina",
     "bookingNote": "Termíny budou oznámeny. Ozvěte se a dáme vám vědět, kdy se v Praze uskuteční další Max Meditation.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Max Meditation."
+  },
+  "HealingsWidget": {
+    "heading": "Hledáte léčení pro sebe nebo pro někoho blízkého?",
+    "body": "Prohlédněte si naši sekci léčení",
+    "button": "Zobrazit léčení"
   }
 }

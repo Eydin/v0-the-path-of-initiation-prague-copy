@@ -1213,11 +1213,6 @@ Certifications
 Calendar
 Community
 
-## PAGE: (component) calendar-widget-section.tsx
-Explore Our Calendar
-See every activation, initiation, workshop and community gathering coming up in Prague.
-View Calendar
-
 ## PAGE: (component) class-card.tsx
 inline-flex items-center justify-center gap-1 rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90
 
@@ -1298,6 +1293,7 @@ The result is a living system of knowledge that is profoundly applicable to the 
 /testimonials#maria-testimonial
 /testimonials#ana-testimonial
 /testimonials
+Do you want to become an initiate of the mysteries? Then read on.
 A Legacy That Speaks for Itself
 Years of Unbroken Lineage
 Countries Worldwide
@@ -1462,6 +1458,9 @@ Questions
 Frequently Asked Questions
 Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
+
+## PAGE: (component) healings-widget-section.tsx
+Healings
 
 ## PAGE: (component) hero-section.tsx
 Prague, Czech Republic
