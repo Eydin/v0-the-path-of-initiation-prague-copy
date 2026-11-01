@@ -72,7 +72,6 @@ export const SCHEDULE: ScheduledClass[] = [
     duration: "2 Hours",
     dates: [
       "2026-09-27",
-      "2026-11-22"
     ],
   },
   {
@@ -189,7 +188,6 @@ export const SCHEDULE: ScheduledClass[] = [
     duration: "Workshop - 2.5 Hours",
     dates: [
       "2026-08-30",
-      "2026-11-08"
     ],
   },
   {
@@ -201,7 +199,6 @@ export const SCHEDULE: ScheduledClass[] = [
     duration: "Workshop - 2.5 Hours",
     dates: [
       "2026-09-27",
-      "2026-11-08"
     ],
   },
   {
@@ -256,7 +253,6 @@ export const SCHEDULE: ScheduledClass[] = [
       "2026-08-21",
       "2026-09-18",
       "2026-10-16",
-      "2026-11-20",
       "2026-12-18",
     ],
   },
