@@ -11,6 +11,7 @@ import {
   BenefitList,
   WhatsAppButton,
   BookingBlock,
+  MMS_UK_CALENDAR_URL,
 } from "@/components/modality"
 import { QuoteBreaker } from "@/components/quote-breaker"
 
@@ -37,6 +38,7 @@ export default async function RitualMaster({
 }) {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "RitualMaster" })
+  const tModality = await getTranslations({ locale, namespace: "Modality" })
   const inquiry = t("inquiry", { brand: BRAND.ritualMaster })
   const steps = [0, 1, 2, 3].map((i) => ({ label: t(`steps.${i}.label`), text: t(`steps.${i}.text`) }))
 
@@ -93,7 +95,11 @@ export default async function RitualMaster({
         title={t("bookingTitle")}
         inquiry={inquiry}
         note={t("bookingNote")}
-      />
+        bookHref={MMS_UK_CALENDAR_URL}
+        bookLabel={tModality("mmsUkButton")}
+      >
+        <p className="text-center text-lg font-semibold text-primary">{tModality("mmsUkNote")}</p>
+      </BookingBlock>
     </ModalityShell>
   )
 }

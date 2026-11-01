@@ -11,6 +11,8 @@ import { EmailContactButton } from "@/components/email-contact-button"
 import { ArrowRight, Mail, MessageCircle } from "lucide-react"
 
 // ── Shared contact details ──────────────────────────────────────────────
+/** Official MMS UK calendar — where prices and sign-up live for programs we do not run locally. */
+export const MMS_UK_CALENDAR_URL = "https://modernmysteryschooluk.com/calendar/"
 export const WHATSAPP_NUMBER = "420792908296"
 export const CONTACT_EMAIL = "radu@thepathofinitiationprague.com"
 

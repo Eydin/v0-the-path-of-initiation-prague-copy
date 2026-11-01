@@ -53,11 +53,8 @@ export function Header() {
   const healing = [
     { href: "/healings", label: t("nav.healings") },
     { href: "/specialty-healings", label: t("nav.specialtyHealings") },
-    { href: "/sacred-geometry", label: BRAND.sacredGeometry },
-    { href: "/astral-travel", label: t("nav.astralTravel") },
-    { href: "/spiritual-intuition", label: t("nav.spiritualIntuition") },
-    { href: "/seven-mystery-schools", label: t("nav.sevenMysterySchools") },
-    { href: "/stress-management", label: t("nav.stressManagement") },
+    { href: "/workshops", label: t("nav.workshops") },
+    { href: "/meditation-and-prayer", label: t("nav.meditationPrayer") },
   ]
 
   const aboutLinks = [

@@ -7,4 +7,6 @@ export const BRAND = {
   healersAcademy: "Healers Academy",
   ritualMaster: "Ritual Master",
   sacredGeometry: "Sacred Geometry",
+  // The first workshop of the series (the series itself is "Sacred Geometry" / "Sacred Geometry Aura Healing").
+  sacredGeometryI: "Sacred Geometry I",
 } as const

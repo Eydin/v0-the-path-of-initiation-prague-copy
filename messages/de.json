@@ -14,6 +14,8 @@
     "aboutGroup": "Über uns",
     "beginJourney": "Beginne deine Reise",
     "nav": {
+      "meditationPrayer": "Meditation und Gebet",
+      "workshops": "Kurse & Workshops",
       "healings": "Alle Heilmethoden",
       "specialtyHealings": "Spezialheilungen (KSHM)",
       "auraHealingLabel": "{brand} – Aura-Heilung",
@@ -46,6 +48,8 @@
     "withdrawFromContract": "Vom Vertrag zurücktreten"
   },
   "Modality": {
+    "mmsUkNote": "Preise und Anmeldung findest du auf der Website der Modern Mystery School UK.",
+    "mmsUkButton": "Preise & Anmeldung bei MMS UK",
     "whatsapp": "WhatsApp",
     "email": "E-Mail",
     "investment": "Preis",
@@ -478,6 +482,8 @@
     "inquiry": "Hallo, ich möchte gerne mehr über das {brand}-Programm erfahren."
   },
   "HealingGrid": {
+    "mmsUkNote": "Preise und Anmeldung findest du auf der Website der Modern Mystery School UK.",
+    "mmsUkButton": "Preise & Anmeldung bei MMS UK",
     "inquire": "Anfragen",
     "inquiryTemplate": "Hallo, ich möchte mich über die Heilung {name} informieren.",
     "bookNow": "Jetzt buchen",
@@ -1440,5 +1446,117 @@
         "a": "Ja. Nur direkt von Modern Mystery School International zertifizierte Praktizierende dürfen sie durchführen."
       }
     ]
+  },
+  "Workshops": {
+    "priceTbd": "Preis wird bekanntgegeben",
+    "seeMmsUk": "Siehe MMS-UK-Website",
+    "heroEyebrow": "Lernen & Üben",
+    "heroTitle": "Kurse & Workshops",
+    "heroSubtitle": "Gruppenkurse und Programme der Linie",
+    "heroTagline": "Praktische Vermittlung der Praktiken der Mysterienschule — alle Kurse und Workshops werden auf Englisch unterrichtet",
+    "introLead": "Lerne die Praktiken der Linie Schritt für Schritt",
+    "introBody": "Wähle einen Workshop, um eine Praxis tiefgehend zu lernen, oder ein Programm für einen tieferen, längeren Weg. Unten findest du zu jedem den Preis und den nächsten Termin — sowie eine eigene Seite mit allem, was du wissen musst.",
+    "workshopsTitle": "Workshops",
+    "workshopsBlurb": "Fokussierte Kurse, jeder einer Praxis gewidmet.",
+    "programsTitle": "Programme & Einweihungen",
+    "programsBlurb": "Tiefere Wege der Modern Mystery School.",
+    "price": "Preis",
+    "nextDate": "Nächster Termin",
+    "noDate": "Termine werden bekanntgegeben",
+    "onEnquiry": "Auf Anfrage",
+    "viewDetails": "Details ansehen",
+    "ctaHeading": "Nicht sicher, welcher Kurs der richtige für dich ist?",
+    "ctaBody": "Melde dich, und wir helfen dir, den Kurs zu wählen, der zu deinem jetzigen Stand passt.",
+    "inquiry": "Hallo, ich möchte mehr über eure Kurse und Workshops erfahren."
+  },
+  "SanctuaryMeditationPage": {
+    "heroEyebrow": "Geführte Meditation",
+    "heroTitle": "Sanctuary Meditation Class",
+    "heroSubtitle": "Reise zu deinem Heiligtum und begegne deinem Höheren Selbst",
+    "heroTagline": "Eine Technik, die dich an einen heiligen und sicheren Ort führt, wo du Führung und Antworten erhältst",
+    "introLead": "Bist du intuitiv? Vertraust du deinem Bauchgefühl? Würdest du dir mehr Klarheit bei intuitiven Botschaften wünschen?",
+    "introBody1": "Die Sanctuary Meditation ist eine Technik, die dich an einen heiligen und sicheren Ort führt, an dem du deinem Höheren Selbst begegnen und Führung und Antworten erhalten kannst.",
+    "introBody2": "Sie ist einer der idealen Wege, um zu erkennen, dass die Botschaften, die du empfängst, wahr, echt und zu deinem höchsten und besten Wohl sind.",
+    "higherSelfHeading": "Dein Höheres Selbst",
+    "higherSelfBody": "Dein Höheres Selbst kennenzulernen ist ein großer Vorteil für jeden intuitiven Menschen. Deine Beziehung zu deinem Höheren Selbst wird zu einem erstaunlichen Werkzeug für Unterscheidungsvermögen und Wachstum, denn es ist dein vertrauenswürdigster Ratgeber und derjenige, der dich am besten kennt.",
+    "benefitsHeading": "Was du gewinnst",
+    "benefits": [
+      "Einen eigenen heiligen, sicheren Ort, zu dem du reisen kannst",
+      "Eine Begegnung mit deinem Höheren Selbst",
+      "Führung und Antworten",
+      "Die Gewissheit, dass die Botschaften, die du empfängst, wahr, echt und zu deinem höchsten Wohl sind",
+      "Ein dauerhaftes Werkzeug für Unterscheidungsvermögen und Wachstum"
+    ],
+    "nextHeading": "Wohin es führt",
+    "nextBody": "Diese Technik der Sanctuary Meditation ist die Grundlage des Workshops Journeys of the Spirit, der dir beibringt, durch Führung noch mehr Einsicht und Informationen zu empfangen.",
+    "bookingTitle": "Sichere dir deinen Platz",
+    "duration": "3 Stunden",
+    "bookingNote": "Termine werden bekanntgegeben. Melde dich, und wir lassen dich wissen, wann die nächste Sanctuary Meditation in Prag stattfindet.",
+    "inquiry": "Hallo, ich möchte mehr über die Sanctuary Meditation erfahren."
+  },
+  "MeditationPrayer": {
+    "heroEyebrow": "Stille & Hingabe",
+    "heroTitle": "Meditation und Gebet",
+    "heroSubtitle": "Praktiken der Stille, des Gebets und der Gemeinschaft",
+    "heroTagline": "Meditiere, bete und komme mit anderen auf dem Weg zusammen",
+    "introLead": "Schaffe Raum für Stille",
+    "introBody": "Ob du kommst, um deinen Geist zu beruhigen, zu beten oder einfach unter verwandten Herzen zu sein — hier findest du einen Ort.",
+    "sectionTitle": "Praktiken",
+    "sectionBlurb": "Geführte Meditationen, Gebet und Gemeinschaftsabende in Prag.",
+    "sanctuaryDescription": "Eine einstündige geführte Meditation, um zu deinem Heiligtum zurückzukehren und deinem Höheren Selbst zu begegnen. Für alle, die den vollständigen Kurs besucht oder an Empower Thyself teilgenommen haben.",
+    "communityDescription": "Regelmäßige Abende mit Gebet, Meditation und Gemeinschaft, offen für Studierende, Eingeweihte und alle anderen Interessierten.",
+    "ctaHeading": "Nicht sicher, wo du anfangen sollst?",
+    "ctaBody": "Melde dich, und wir helfen dir, die Praxis zu finden, die zu deinem jetzigen Stand passt.",
+    "inquiry": "Hallo, ich möchte mehr über Meditation und Gebet erfahren."
+  },
+  "SanctuarySessionPage": {
+    "heroEyebrow": "Geführte Meditation · Prag",
+    "heroTitle": "Sanctuary Meditation",
+    "heroSubtitle": "Kehre zu deinem Heiligtum zurück und begegne deinem Höheren Selbst",
+    "heroTagline": "Eine einstündige geführte Meditation für alle, die den Weg schon kennen",
+    "introLead": "Kehre an den heiligen und sicheren Ort zurück, an dem du deinem Höheren Selbst begegnest",
+    "introBody1": "Die Sanctuary Meditation ist eine Technik, die dich an einen heiligen und sicheren Ort führt, an dem du deinem Höheren Selbst begegnen und Führung und Antworten erhalten kannst. Diese Sitzung ist eine einstündige geführte Meditation, in der wir sie gemeinsam praktizieren.",
+    "introBody2": "Sie steht allen offen, die den vollständigen Kurs Sanctuary Meditation Class bereits besucht oder an Empower Thyself teilgenommen haben.",
+    "whoHeading": "Wer teilnehmen kann",
+    "who": [
+      "Absolventen des vollständigen Kurses Sanctuary Meditation Class",
+      "Alle, die an Empower Thyself teilgenommen haben"
+    ],
+    "newHeading": "Neu bei der Technik?",
+    "newBody": "Beginne mit dem Kurs Sanctuary Meditation Class, der dich die gesamte Technik lehrt.",
+    "newButton": "Zum Kurs",
+    "benefitsHeading": "Was sie bietet",
+    "benefits": [
+      "Eine regelmäßige Rückkehr an deinen heiligen, sicheren Ort",
+      "Eine tiefere Beziehung zu deinem Höheren Selbst",
+      "Führung und Antworten",
+      "Die Gewissheit, dass die Botschaften, die du empfängst, wahr, echt und zu deinem höchsten Wohl sind"
+    ],
+    "bookingTitle": "Sichere dir deinen Platz",
+    "duration": "1 Stunde",
+    "bookingNote": "Termine werden bekanntgegeben. Melde dich, und wir lassen dich wissen, wann die nächste Meditation in Prag stattfindet.",
+    "inquiry": "Hallo, ich möchte mehr über die Sanctuary Meditation (1 Stunde) erfahren."
+  },
+  "MaxMeditationPage": {
+    "heroEyebrow": "Geführte Meditation · Prag",
+    "heroTitle": "Max Meditation",
+    "heroSubtitle": "Finde inneren Frieden",
+    "heroTagline": "Eine geführte Meditation, die Zeit und Raum für Frieden und Balance in deinem Leben schafft",
+    "introLead": "Suchst du mehr Seelenfrieden?",
+    "introBody1": "Meditation kann dir Frieden inmitten des Chaos in deinem Geist schenken. Überladene Gedanken können dich daran hindern, dein bestes Leben zu leben.",
+    "introBody2": "Vielleicht kennst du Meditation schon, findest aber kaum Zeit für dich, um sie zu einem festen Teil deiner Routine zu machen. Die Teilnahme an einer Sitzung, in der dich jemand anderes in die Meditation führt, kann dir helfen, deinen Achtsamkeitsmuskel aufzubauen.",
+    "whatHeading": "Eine erfahrungsorientierte Sitzung",
+    "whatBody1": "Max Meditation ist ein geführtes System, das uralte yogische Technik mit moderner Methode verbindet, um Stress zu lösen und Vitalität wiederherzustellen.",
+    "whatBody2": "Komm zu einer erfahrungsorientierten Sitzung, in der du lernst, Zeit und Raum für Frieden und Balance in deinem Leben zu schaffen.",
+    "whoHeading": "Für wen es gedacht ist",
+    "who": [
+      "Für alle, die mehr Seelenfrieden suchen",
+      "Für alle, die schon meditieren, aber kaum Zeit finden, es zu einem festen Teil ihrer Routine zu machen",
+      "Für absolute Anfänger — keine Erfahrung nötig"
+    ],
+    "bookingTitle": "Sichere dir deinen Platz",
+    "duration": "1 Stunde",
+    "bookingNote": "Termine werden bekanntgegeben. Melde dich, und wir lassen dich wissen, wann die nächste Max Meditation in Prag stattfindet.",
+    "inquiry": "Hallo, ich möchte mehr über Max Meditation erfahren."
   }
 }

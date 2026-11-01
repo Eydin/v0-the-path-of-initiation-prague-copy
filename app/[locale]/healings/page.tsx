@@ -10,6 +10,7 @@ import {
   Body,
   WhatsAppButton,
   EmailButton,
+  MMS_UK_CALENDAR_URL,
 } from "@/components/modality"
 import { HealingGroup, type Healing } from "@/components/healing-grid"
 import { ScrollReveal } from "@/components/scroll-reveal"
@@ -58,7 +59,11 @@ export default async function Healings({
       bookHref: FULL_SPIRIT_ACTIVATION_STRIPE,
       detailsHref: "/full-spirit-activation",
     },
-    { name: t("groups.activations.items.2.name"), description: t("groups.activations.items.2.description") },
+    {
+      name: t("groups.activations.items.2.name"),
+      description: t("groups.activations.items.2.description"),
+      externalHref: MMS_UK_CALENDAR_URL,
+    },
   ]
 
   const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5, 6, 7, 8].map((i) => ({
@@ -88,6 +93,7 @@ export default async function Healings({
   const bodyWork: Healing[] = [0, 1, 2, 3, 4].map((i) => ({
     name: t(`groups.bodyWork.items.${i}.name`),
     description: t(`groups.bodyWork.items.${i}.description`),
+    ...(i === 0 ? { price: "350 CZK", detailsHref: "/max-meditation" } : {}),
   }))
 
   const inquiry = t("inquiry")

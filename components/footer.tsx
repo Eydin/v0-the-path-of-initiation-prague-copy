@@ -20,7 +20,7 @@ export function Footer() {
 
   const healing = [
     { href: "/aura-healing", label: t("auraHealing") },
-    { href: "/sacred-geometry", label: BRAND.sacredGeometry },
+    { href: "/sacred-geometry", label: BRAND.sacredGeometryI },
     { href: "/astral-travel", label: tNav("nav.astralTravel") },
     { href: "/spiritual-intuition", label: tNav("nav.spiritualIntuition") },
     { href: "/seven-mystery-schools", label: tNav("nav.sevenMysterySchools") },

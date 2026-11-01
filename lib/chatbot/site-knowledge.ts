@@ -217,6 +217,8 @@ Includes the 2 day training and a complimentary Life Activation session (valued 
 Booking Process:
 A 12.000 CZK deposit secures your place and allows us to schedule your Life Activation session.
 The remaining 24.500 CZK is due 2 weeks before the 2-day training and Initiation begins.
+For prices and sign-up, please see the Modern Mystery School UK website.
+Prices & Sign-Up on MMS UK
 Email
 Price
 Duration
@@ -301,6 +303,16 @@ Graduates join a worldwide community of certified healers and are eligible to co
 Answer the Call to Serve
 Intensive Program & Initiation
 Healers Academy is a 5-day intensive program.
+For prices and sign-up, please see the Modern Mystery School UK website.
+Prices & Sign-Up on MMS UK
+Email
+Price
+Duration
+Book Now
+Do you have any questions?
+After you reach out, we will contact you personally to finalize your appointment.
+Healing Session
+Reading Session
 
 ## PAGE: /healings
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
@@ -469,6 +481,8 @@ This is a groundbreaking method for inner transformation and unlocking your pers
 Meet Your Authentic Power and Higher Self!
 2 Hours
 After the payment is completed, we will contact you to finalize the appointment.
+For prices and sign-up, please see the Modern Mystery School UK website.
+Prices & Sign-Up on MMS UK
 Email
 Price
 Duration
@@ -562,6 +576,196 @@ Walk the Path
 Being part of the Modern Mystery School lineage is being part of a family — a global tribe dedicated to the empowerment and betterment of humanity. The door is open to those who feel the call.
 Begin Your Journey
 
+## PAGE: /max-meditation
+Guided Meditation · Prague
+Max Meditation
+Find peace of mind
+A guided meditation session to create time and space for peace and balance in your life
+Are you looking for more peace of mind?
+Meditation can bring you peace from the chaos in your mind. Cluttered thoughts can stop you from living your best life.
+You may already be familiar with meditation, but struggle to find the time for yourself to make it part of your regular routine. Attending a session where someone else guides you into meditation can help you build your mindfulness muscle.
+An Experiential Session
+Max Meditation is a guided system that blends ancient yogic technique with modern method to release stress and restore vitality.
+Join us for an experiential session where you learn to create the time and space for peace and balance in your life.
+Who It Is For
+Anyone looking for more peace of mind
+Those who already meditate, but struggle to find the time to make it a regular part of their routine
+Complete beginners — no experience necessary
+Reserve Your Place
+1 Hour
+Dates to be announced. Reach out and we will let you know when the next Max Meditation takes place in Prague.
+Hello, I would like to learn more about Max Meditation.
+
+## PAGE: /meditation-and-prayer
+community#meditation-evening
+community#socialization-evening
+Stillness & Devotion
+Meditation and Prayer
+Practices of stillness, prayer and fellowship
+Meditate, pray and gather with others on the path
+Make space for stillness
+Whether you come to quiet your mind, to pray, or simply to be among kindred hearts, you will find a place here.
+Practices
+Guided meditations, prayer and community evenings in Prague.
+A one-hour guided meditation to return to your Sanctuary and meet your Higher Self. For those who have taken the full class or attended Empower Thyself.
+Regular evenings of prayer, meditation and fellowship, open to students, initiates and anyone else interested.
+Not Sure Where to Begin?
+Reach out and we will help you find the practice that fits where you are right now.
+Hello, I would like to learn more about meditation and prayer.
+Price to be announced
+See MMS UK website
+Learn & Practise
+Classes & Workshops
+Group classes and programs in the lineage
+Hands-on teaching of the mystery school's practices — all classes and workshops are taught in English
+Learn the practices of the lineage, step by step
+Choose a workshop to learn one practice in depth, or a program for a deeper, longer path. Below you will find the price and the next date for each — and a full page with everything you need to know.
+Focused classes, each dedicated to one practice.
+Programs & Initiations
+Deeper paths of the Modern Mystery School.
+Price
+Next date
+Dates to be announced
+On enquiry
+View Details
+Not Sure Which Class Is Right for You?
+Reach out and we will help you choose the class that fits where you are right now.
+Hello, I would like to learn more about your classes and workshops.
+Community
+A circle of hearts and shared transformation
+The Path of Initiation Prague is far more than just a place to take classes. It is a living, breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.
+Beyond the Classroom
+Space for genuine growth & connection
+Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about embodying their divine essence , accelerating personal growth, and overcoming life's challenges together.
+But don't worry, it's not all serious! We believe that true spiritual integration comes with a light heart. We share plenty of laughter, joy, and genuine fun along the way.
+What ties us together
+Supportive gatherings and zero-judgment conversations
+Overcoming personal challenges with community support
+Celebrating the joy, magic, and fun of life together
+Embodying our divinity through practical daily actions
+Excitement of living life alive!
+Previous slide
+Next slide
+Our Gatherings
+Regular Community Evenings
+Open to students, initiates and anyone else interested.
+Free of Charge
+2 Hours
+1 Hour
+Prayer Evening
+Hello, I would like to learn more about the Prayer Evening community gathering.
+Gentle evenings of prayer, deep reflection, and collective intention designed to open the heart and strengthen inner alignment. A peaceful oasis to realign your vibration, step back from life's clutter, and anchor your focus into your highest essence alongside companions who hold the same sacred intent.
+Meditation Evening
+Hello, I would like to learn more about the Meditation Evening community gathering.
+Quiet spaces built for profound stillness, breath-work, visualization, and the deepening of awareness through guided traditional paths. Perfect for resetting the nervous system, taming mental over-activity, and leaning on collective group energy to unlock deeper meditative states than practicing alone.
+Socialization Evening
+Hello, I would like to learn more about the Socialization Evening community gathering.
+Warm, high-vibrational, and beautifully relaxed gatherings where friends, seekers, and students meet in joyful fellowship. This is where we let our hair down, laugh over tea, swap stories about life's adventures, and build friendships that support our human experience just as much as our spiritual paths.
+International Mystery School Community
+Hello, I would like to learn more about the International Mystery School Community opportunities.
+An expansive global circle of practitioners, initiates, and teachers sharing the ancient lineages, values, and spiritual lineage of the Modern Mystery School. Connecting here unlocks international events, global networking with conscious peers, and shared support infrastructures for systemic transformation.
+See the international schedule over here:
+Calendar - Modern Mystery School UK and Europe
+Begin with a conversation
+Join the circle
+If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
+Contact the Community
+Guided Meditation · Prague
+Sanctuary Meditation
+Return to your Sanctuary & meet your Higher Self
+A one-hour guided meditation for those who already know the way
+Return to the sacred and safe place where you meet your Higher Self
+The Sanctuary Meditation is a technique that takes you to a sacred and safe place where you can meet your Higher Self and receive guidance and answers. This session is a one-hour guided meditation in which we practise it together.
+It is open to those who have already taken the full Sanctuary Meditation Class or who have attended Empower Thyself.
+Who Can Join
+Graduates of the full Sanctuary Meditation Class
+Those who have attended Empower Thyself
+New to the Technique?
+Begin with the Sanctuary Meditation Class, which teaches you the whole technique.
+View the Class
+What It Offers
+A regular return to your sacred, safe place
+A deeper relationship with your Higher Self
+Guidance and answers
+Confidence that the messages you receive are true, real and for your highest good
+Reserve Your Place
+Dates to be announced. Reach out and we will let you know when the next meditation takes place in Prague.
+Hello, I would like to learn more about the Sanctuary Meditation (1 hour).
+Max Meditation
+Find peace of mind
+A guided meditation session to create time and space for peace and balance in your life
+Are you looking for more peace of mind?
+Meditation can bring you peace from the chaos in your mind. Cluttered thoughts can stop you from living your best life.
+You may already be familiar with meditation, but struggle to find the time for yourself to make it part of your regular routine. Attending a session where someone else guides you into meditation can help you build your mindfulness muscle.
+An Experiential Session
+Max Meditation is a guided system that blends ancient yogic technique with modern method to release stress and restore vitality.
+Join us for an experiential session where you learn to create the time and space for peace and balance in your life.
+Who It Is For
+Anyone looking for more peace of mind
+Those who already meditate, but struggle to find the time to make it a regular part of their routine
+Complete beginners — no experience necessary
+Dates to be announced. Reach out and we will let you know when the next Max Meditation takes place in Prague.
+Hello, I would like to learn more about Max Meditation.
+In the Lineage of King Salomon
+Healing Modalities
+A range of healings for body, mind and soul
+Each session is offered one-to-one — reach out to inquire about any of them
+A living tradition of healing
+The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu and Diana will guide you from there.
+For the deeper, specialised work of the tradition, see the
+Specialty Healings →
+Hello, I would like to inquire about the healing modalities.
+Begin Your Healing
+Tell Radu a little about where you are right now, and he will help you choose the healing that serves you best.
+Foundational Activations
+Where most journeys begin — awakening the gifts already encoded within you.
+Foundation
+The foundational session of the lineage — activates 22 of the 24 DNA strands and your divine blueprint.
+Deepens your connection to the soul and higher self beyond the Life Activation.
+Galactic Activation
+Progressive activation of the Galactic and Divinity codes within your physical and spiritual DNA.
+Aura & Energy Healings
+Clearing, repairing and protecting your energetic field.
+Clears, balances and seals the seven layers of the aura through the geometry of light.
+Negative Energy Removal
+Removes energetic blocks and negative patterns from your energy system.
+Emotional Cord Cutting
+Disconnects draining emotional cords so you stop losing energy to other people.
+Shamanic Aura Clearing
+Shamanic techniques to clear blockages and heavy energies from the auric field.
+Ensofic Reiki
+A single 90-minute session with the Ensofic Ray — clears blockages and returns you to balance and presence.
+Treating of Negative Habits
+Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life.
+Crystal Healing
+Ancient lineage techniques working with crystals for healing, intuition and protection.
+Soul Retrieval
+Recovers and reintegrates lost fragments of the self into wholeness.
+Spark of Life — Distance Healing
+A remote healing that carries restorative energy to you across any distance.
+Remote Healings
+Receive healing from wherever you are, anywhere in the world.
+Readings & Guidance
+Insight into your purpose, your soul and your path.
+Life Purpose & 11th Codon Reading
+A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation.
+Intuitive Reading with Crystal
+A reading with a crystal that opens access to the wisdom of your Higher Self and guides.
+Chronos Reading
+A reading that works with the energies of time to bring clarity on your past, present and path ahead.
+Body, Meridian & Meditation
+Restoring flow, balance and stillness through body and breath.
+Max Meditation System™
+A guided system blending ancient yogic technique with modern method to release stress and restore vitality.
+Laser Light Healing
+Light frequencies and reflexology applied along the meridian lines to restore flow.
+Meridian Line Balancing
+Balances the flow of life-force (chi) along the body's meridian lines.
+Tree of Life Awakening
+Awakens your connection to the Tree of Life and expands consciousness.
+Chakra Awakening
+Awakens and harmonises the body's seven energy centres.
+
 ## PAGE: /
 Know thyself, and thou shalt know
 the universe and the gods
@@ -606,6 +810,16 @@ Enrol in the Ritual Master Novice class at one of the international centers of t
 These teachings are essential for anyone who truly wants to change something in their life and is committed to their transformation — taking responsibility for their inner work and acting to create a purer, more authentic, and freer version of their Self.
 Begin Your Mastery
 The Ritual Master path begins with Empower Thyself and the Healers Academy. Reach out and we will help you map the right next step for you.
+For prices and sign-up, please see the Modern Mystery School UK website.
+Prices & Sign-Up on MMS UK
+Email
+Price
+Duration
+Book Now
+Do you have any questions?
+After you reach out, we will contact you personally to finalize your appointment.
+Healing Session
+Reading Session
 
 ## PAGE: /sacred-geometry-2
 Sacred Geometry II | The Path of Initiation Prague
@@ -692,6 +906,53 @@ See the order beneath everyday life and align yourself with it.
 Read the Language of Creation
 4.5 Hours
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
+
+## PAGE: /sanctuary-meditation-session
+Guided Meditation · Prague
+Sanctuary Meditation
+Return to your Sanctuary & meet your Higher Self
+A one-hour guided meditation for those who already know the way
+Return to the sacred and safe place where you meet your Higher Self
+The Sanctuary Meditation is a technique that takes you to a sacred and safe place where you can meet your Higher Self and receive guidance and answers. This session is a one-hour guided meditation in which we practise it together.
+It is open to those who have already taken the full Sanctuary Meditation Class or who have attended Empower Thyself.
+Who Can Join
+Graduates of the full Sanctuary Meditation Class
+Those who have attended Empower Thyself
+New to the Technique?
+Begin with the Sanctuary Meditation Class, which teaches you the whole technique.
+View the Class
+What It Offers
+A regular return to your sacred, safe place
+A deeper relationship with your Higher Self
+Guidance and answers
+Confidence that the messages you receive are true, real and for your highest good
+Reserve Your Place
+1 Hour
+Dates to be announced. Reach out and we will let you know when the next meditation takes place in Prague.
+Hello, I would like to learn more about the Sanctuary Meditation (1 hour).
+
+## PAGE: /sanctuary-meditation
+Guided Meditation
+Sanctuary Meditation Class
+Journey to your Sanctuary & Meet your Higher Self
+A technique that takes you to a sacred and safe place, where you receive guidance and answers
+Are you intuitive? Do you trust your gut instincts? Would you like more clarity on intuitive messages?
+The Sanctuary Meditation is a technique that will take you to a sacred and safe place where you can meet your Higher Self and receive guidance and answers.
+It is one of the ideal ways to know that the messages you receive are true, real and in your highest and best good.
+Your Higher Self
+Getting to know your Higher Self is a huge advantage to any intuitive person. Your relationship with your Higher Self becomes an amazing tool for discernment and growth, as it is your most trusted advisor and the one who knows you best.
+What You Gain
+A sacred, safe place of your own to journey to
+A meeting with your Higher Self
+Guidance and answers
+Confidence that the messages you receive are true, real and for your highest good
+A lasting tool for discernment and growth
+Where It Leads
+This Sanctuary Meditation technique is the basis for the Journeys of the Spirit workshop, which teaches you how to receive even more insight and information through guidance.
+Reserve Your Place
+3 Hours
+Dates to be announced. Reach out and we will let you know when the next Sanctuary Meditation is scheduled in Prague.
+Hello, I would like to learn more about the Sanctuary Meditation.
 
 ## PAGE: /seven-mystery-schools
 https://buy.stripe.com/5kQ7sE2vl1RIffv2FZg360w
@@ -891,10 +1152,74 @@ Received — check your inbox for a confirmation e-mail.
 Something went wrong. Please try again, or e-mail us directly at radu@thepathofinitiationprague.com.
 All fields are required unless marked optional.
 
+## PAGE: /workshops
+4.200 CZK
+sacred-geometry-2
+sacred-geometry-3
+sacred-geometry-4
+astral-travel
+nav.astralTravel
+spiritual-intuition
+nav.spiritualIntuition
+1.333 CZK
+sanctuary-meditation
+Sanctuary Meditation Class
+seven-mystery-schools
+nav.sevenMysterySchools
+stress-management
+nav.stressManagement
+3.500 CZK
+empower-thyself
+36.500 CZK
+healers-academy
+ritual-master
+duration
+Price to be announced
+See MMS UK website
+Learn & Practise
+Classes & Workshops
+Group classes and programs in the lineage
+Hands-on teaching of the mystery school's practices — all classes and workshops are taught in English
+Learn the practices of the lineage, step by step
+Choose a workshop to learn one practice in depth, or a program for a deeper, longer path. Below you will find the price and the next date for each — and a full page with everything you need to know.
+Focused classes, each dedicated to one practice.
+Programs & Initiations
+Deeper paths of the Modern Mystery School.
+Price
+Next date
+Dates to be announced
+On enquiry
+View Details
+Not Sure Which Class Is Right for You?
+Reach out and we will help you choose the class that fits where you are right now.
+Hello, I would like to learn more about your classes and workshops.
+Activations & Initiations
+Healing & Workshops
+About
+Begin Your Journey
+Meditation and Prayer
+All Healing Modalities
+Specialty Healings (KSHM)
+Astral Travel
+Spiritual Intuition
+The 7 Mystery Schools
+Stress Rescue
+Keys of the Ancients
+Kabbalah Ascension Program
+Your Guide
+Lineage
+Testimonials
+Certifications
+Calendar
+Community
+
 ## PAGE: (component) calendar-widget-section.tsx
 Explore Our Calendar
 See every activation, initiation, workshop and community gathering coming up in Prague.
 View Calendar
+
+## PAGE: (component) class-card.tsx
+inline-flex items-center justify-center gap-1 rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90
 
 ## PAGE: (component) classes-section.tsx
 Upcoming Events
@@ -1019,6 +1344,8 @@ Activations & Initiations
 Healing & Workshops
 About
 Begin Your Journey
+Meditation and Prayer
+Classes & Workshops
 All Healing Modalities
 Specialty Healings (KSHM)
 Astral Travel
@@ -1104,6 +1431,8 @@ Activations & Initiations
 Healing & Workshops
 About
 Begin Your Journey
+Meditation and Prayer
+Classes & Workshops
 All Healing Modalities
 Specialty Healings (KSHM)
 Astral Travel
@@ -1120,6 +1449,8 @@ Calendar
 Community
 
 ## PAGE: (component) healing-grid.tsx
+For prices and sign-up, please see the Modern Mystery School UK website.
+Prices & Sign-Up on MMS UK
 Inquire
 Book Now
 See Details
@@ -1153,6 +1484,8 @@ radu@thepathofinitiationprague.com
 inscriere-eveniment
 investment
 duration
+For prices and sign-up, please see the Modern Mystery School UK website.
+Prices & Sign-Up on MMS UK
 Email
 Price
 Duration

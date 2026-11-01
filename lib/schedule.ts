@@ -99,7 +99,7 @@ export const SCHEDULE: ScheduledClass[] = [
   {
     slug: "sacred-geometry",
     category: "Workshop",
-    title: "Sacred Geometry",
+    title: "Sacred Geometry I",
     location: "Prague, CZ",
     time: "10:00",
     duration: "Workshop - 4.5 Hours",
@@ -171,6 +171,16 @@ export const SCHEDULE: ScheduledClass[] = [
     ],
   },
   {
+    // No dates yet: shows "Dates to be announced" on /workshops and a note on its page.
+    slug: "sanctuary-meditation",
+    category: "Workshop",
+    title: "Sanctuary Meditation Class",
+    location: "Prague, CZ",
+    time: "19:00",
+    duration: "Meditation - 3 Hours",
+    dates: [],
+  },
+  {
     slug: "seven-mystery-schools",
     category: "Workshop",
     title: "The 7 Mystery Schools",
@@ -193,6 +203,16 @@ export const SCHEDULE: ScheduledClass[] = [
       "2026-09-27",
       "2026-11-08"
     ],
+  },
+  {
+    // No dates yet: 1-hour meditation for graduates of the Sanctuary Meditation Class / Empower Thyself.
+    slug: "sanctuary-meditation-session",
+    category: "Community",
+    title: "Sanctuary Meditation",
+    location: "Vrsovice, Prague 10, CZ",
+    time: "19:00",
+    duration: "1 Hour",
+    dates: [],
   },
   {
     slug: "community#prayer-evening",

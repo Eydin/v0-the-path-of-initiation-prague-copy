@@ -14,6 +14,8 @@
     "aboutGroup": "Despre noi",
     "beginJourney": "Începe-ți călătoria",
     "nav": {
+      "meditationPrayer": "Meditație și rugăciune",
+      "workshops": "Cursuri și ateliere",
       "healings": "Toate modalitățile de vindecare",
       "specialtyHealings": "Vindecări speciale (KSHM)",
       "auraHealingLabel": "{brand} – Vindecare Aurică",
@@ -46,6 +48,8 @@
     "withdrawFromContract": "Retragere din contract"
   },
   "Modality": {
+    "mmsUkNote": "Pentru prețuri și înscriere, consultă site-ul Modern Mystery School UK.",
+    "mmsUkButton": "Prețuri și înscriere pe MMS UK",
     "whatsapp": "WhatsApp",
     "email": "Email",
     "investment": "Preț",
@@ -478,6 +482,8 @@
     "inquiry": "Bună, aș dori să aflu mai multe despre programul {brand}."
   },
   "HealingGrid": {
+    "mmsUkNote": "Pentru prețuri și înscriere, consultă site-ul Modern Mystery School UK.",
+    "mmsUkButton": "Prețuri și înscriere pe MMS UK",
     "inquire": "Întreabă",
     "inquiryTemplate": "Bună, aș dori să întreb despre vindecarea {name}.",
     "bookNow": "Rezervă acum",
@@ -1440,5 +1446,117 @@
         "a": "Da. Doar practicienii certificați direct de Modern Mystery School International o pot efectua."
       }
     ]
+  },
+  "Workshops": {
+    "priceTbd": "Prețul va fi anunțat",
+    "seeMmsUk": "Vezi site-ul MMS UK",
+    "heroEyebrow": "Învață și practică",
+    "heroTitle": "Cursuri și ateliere",
+    "heroSubtitle": "Cursuri de grup și programe ale liniei",
+    "heroTagline": "Predare practică a practicilor școlii misterelor — toate cursurile și atelierele se țin în limba engleză",
+    "introLead": "Învață practicile liniei pas cu pas",
+    "introBody": "Alege un atelier pentru a învăța o practică în profunzime sau un program pentru un drum mai profund și mai lung. Mai jos găsești pentru fiecare prețul și următoarea dată — și o pagină completă cu tot ce trebuie să știi.",
+    "workshopsTitle": "Ateliere",
+    "workshopsBlurb": "Cursuri concentrate, fiecare dedicat unei practici.",
+    "programsTitle": "Programe și inițieri",
+    "programsBlurb": "Drumuri mai profunde ale Modern Mystery School.",
+    "price": "Preț",
+    "nextDate": "Următoarea dată",
+    "noDate": "Datele vor fi anunțate",
+    "onEnquiry": "La cerere",
+    "viewDetails": "Vezi detalii",
+    "ctaHeading": "Nu ești sigur(ă) care curs ți se potrivește?",
+    "ctaBody": "Contactează-ne și te vom ajuta să alegi cursul potrivit pentru locul în care te afli acum.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre cursurile și atelierele voastre."
+  },
+  "SanctuaryMeditationPage": {
+    "heroEyebrow": "Meditație ghidată",
+    "heroTitle": "Sanctuary Meditation Class",
+    "heroSubtitle": "Călătorește spre sanctuarul tău și întâlnește-ți Sinele Superior",
+    "heroTagline": "O tehnică ce te duce într-un loc sacru și sigur, unde primești îndrumare și răspunsuri",
+    "introLead": "Ești intuitiv(ă)? Ai încredere în instinctele tale? Ți-ai dori mai multă claritate în mesajele intuitive?",
+    "introBody1": "Sanctuary Meditation este o tehnică ce te duce într-un loc sacru și sigur, unde îți poți întâlni Sinele Superior și poți primi îndrumare și răspunsuri.",
+    "introBody2": "Este una dintre căile ideale de a ști că mesajele pe care le primești sunt adevărate, reale și spre binele tău cel mai înalt.",
+    "higherSelfHeading": "Sinele tău Superior",
+    "higherSelfBody": "A-ți cunoaște Sinele Superior este un avantaj uriaș pentru orice persoană intuitivă. Relația ta cu Sinele Superior devine un instrument extraordinar de discernământ și creștere, fiindcă este cel mai de încredere consilier al tău și cel care te cunoaște cel mai bine.",
+    "benefitsHeading": "Ce câștigi",
+    "benefits": [
+      "Un loc sacru și sigur al tău, spre care să călătorești",
+      "O întâlnire cu Sinele tău Superior",
+      "Îndrumare și răspunsuri",
+      "Încrederea că mesajele pe care le primești sunt adevărate, reale și spre binele tău cel mai înalt",
+      "Un instrument durabil de discernământ și creștere"
+    ],
+    "nextHeading": "Încotro duce",
+    "nextBody": "Această tehnică Sanctuary Meditation este baza atelierului Journeys of the Spirit, care te învață să primești și mai multă înțelegere și informații prin îndrumare.",
+    "bookingTitle": "Rezervă-ți locul",
+    "duration": "3 ore",
+    "bookingNote": "Datele vor fi anunțate. Contactează-ne și te vom anunța când va avea loc următoarea Sanctuary Meditation la Praga.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre Sanctuary Meditation."
+  },
+  "MeditationPrayer": {
+    "heroEyebrow": "Liniște și devoțiune",
+    "heroTitle": "Meditație și rugăciune",
+    "heroSubtitle": "Practici de liniște, rugăciune și comuniune",
+    "heroTagline": "Meditează, roagă-te și adună-te cu alții pe cale",
+    "introLead": "Fă loc liniștii",
+    "introBody": "Fie că vii să-ți liniștești mintea, să te rogi sau pur și simplu să fii printre inimi înrudite, aici vei găsi un loc.",
+    "sectionTitle": "Practici",
+    "sectionBlurb": "Meditații ghidate, rugăciune și seri comunitare la Praga.",
+    "sanctuaryDescription": "O meditație ghidată de o oră, prin care te întorci la sanctuarul tău și îți întâlnești Sinele Superior. Pentru cei care au urmat cursul complet sau au participat la Empower Thyself.",
+    "communityDescription": "Seri regulate de rugăciune, meditație și comuniune, deschise studenților, inițiaților și oricui altcuiva interesat.",
+    "ctaHeading": "Nu ești sigur(ă) de unde să începi?",
+    "ctaBody": "Contactează-ne și te vom ajuta să găsești practica potrivită pentru locul în care te afli acum.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre meditație și rugăciune."
+  },
+  "SanctuarySessionPage": {
+    "heroEyebrow": "Meditație ghidată · Praga",
+    "heroTitle": "Sanctuary Meditation",
+    "heroSubtitle": "Întoarce-te la sanctuarul tău și întâlnește-ți Sinele Superior",
+    "heroTagline": "O meditație ghidată de o oră pentru cei care cunosc deja drumul",
+    "introLead": "Întoarce-te în locul sacru și sigur unde îți întâlnești Sinele Superior",
+    "introBody1": "Sanctuary Meditation este o tehnică ce te duce într-un loc sacru și sigur, unde îți poți întâlni Sinele Superior și poți primi îndrumare și răspunsuri. Această sesiune este o meditație ghidată de o oră, în care o practicăm împreună.",
+    "introBody2": "Este deschisă celor care au urmat deja cursul complet Sanctuary Meditation Class sau au participat la Empower Thyself.",
+    "whoHeading": "Cine poate participa",
+    "who": [
+      "Absolvenții cursului complet Sanctuary Meditation Class",
+      "Cei care au participat la Empower Thyself"
+    ],
+    "newHeading": "Ești nou(ă) în tehnică?",
+    "newBody": "Începe cu Sanctuary Meditation Class, care te învață întreaga tehnică.",
+    "newButton": "Vezi cursul",
+    "benefitsHeading": "Ce oferă",
+    "benefits": [
+      "O întoarcere regulată în locul tău sacru și sigur",
+      "O relație mai profundă cu Sinele tău Superior",
+      "Îndrumare și răspunsuri",
+      "Încrederea că mesajele pe care le primești sunt adevărate, reale și spre binele tău cel mai înalt"
+    ],
+    "bookingTitle": "Rezervă-ți locul",
+    "duration": "1 oră",
+    "bookingNote": "Datele vor fi anunțate. Contactează-ne și te vom anunța când va avea loc următoarea meditație la Praga.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre Sanctuary Meditation (1 oră)."
+  },
+  "MaxMeditationPage": {
+    "heroEyebrow": "Meditație ghidată · Praga",
+    "heroTitle": "Max Meditation",
+    "heroSubtitle": "Găsește pacea minții",
+    "heroTagline": "O meditație ghidată care creează timp și spațiu pentru pace și echilibru în viața ta",
+    "introLead": "Cauți mai multă pace a minții?",
+    "introBody1": "Meditația îți poate aduce pace în mijlocul haosului din mintea ta. Gândurile aglomerate te pot opri să trăiești cea mai bună viață a ta.",
+    "introBody2": "Poate ești deja familiarizat(ă) cu meditația, dar îți este greu să găsești timp pentru tine ca s-o faci parte din rutina ta obișnuită. Participarea la o sesiune în care altcineva te ghidează în meditație te poate ajuta să-ți construiești mușchiul atenției.",
+    "whatHeading": "O sesiune experiențială",
+    "whatBody1": "Max Meditation este un sistem ghidat care îmbină tehnica yoghină străveche cu metoda modernă pentru a elibera stresul și a reda vitalitatea.",
+    "whatBody2": "Alătură-te unei sesiuni experiențiale în care înveți să creezi timp și spațiu pentru pace și echilibru în viața ta.",
+    "whoHeading": "Pentru cine este",
+    "who": [
+      "Pentru oricine caută mai multă pace a minții",
+      "Pentru cei care meditează deja, dar au dificultăți în a găsi timp ca s-o facă parte obișnuită din rutina lor",
+      "Pentru începători absoluți — nu este nevoie de experiență"
+    ],
+    "bookingTitle": "Rezervă-ți locul",
+    "duration": "1 oră",
+    "bookingNote": "Datele vor fi anunțate. Contactează-ne și te vom anunța când va avea loc următoarea Max Meditation la Praga.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre Max Meditation."
   }
 }

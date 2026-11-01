@@ -22,7 +22,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "SacredGeometryPage" })
-  const title = `${BRAND.sacredGeometry} | The Path of Initiation Prague`
+  const title = `${BRAND.sacredGeometryI} | The Path of Initiation Prague`
   const description = t("heroTagline")
   return {
     title,
@@ -38,14 +38,14 @@ export default async function SacredGeometry({
 }) {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "SacredGeometryPage" })
-  const inquiry = t("inquiry", { brand: BRAND.sacredGeometry })
+  const inquiry = t("inquiry", { brand: BRAND.sacredGeometryI })
   const benefits = [0, 1, 2, 3].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
 
   return (
     <ModalityShell bg="flammarion.jpg" position="center 30%">
       <ModalityHero
         eyebrow={t("heroEyebrow")}
-        title={BRAND.sacredGeometry}
+        title={BRAND.sacredGeometryI}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
       />

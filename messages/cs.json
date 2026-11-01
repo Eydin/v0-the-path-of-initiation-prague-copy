@@ -14,6 +14,8 @@
     "aboutGroup": "O nás",
     "beginJourney": "Začněte svou cestu",
     "nav": {
+      "meditationPrayer": "Meditace a modlitba",
+      "workshops": "Kurzy a workshopy",
       "healings": "Všechny léčebné modality",
       "specialtyHealings": "Speciální léčení (KSHM)",
       "auraHealingLabel": "{brand} – léčení aury",
@@ -46,6 +48,8 @@
     "withdrawFromContract": "Odstoupení od smlouvy"
   },
   "Modality": {
+    "mmsUkNote": "Ceny a přihlášení najdete na webu Modern Mystery School UK.",
+    "mmsUkButton": "Ceny a přihlášení na MMS UK",
     "whatsapp": "WhatsApp",
     "email": "E-mail",
     "investment": "Cena",
@@ -478,6 +482,8 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o programu {brand}."
   },
   "HealingGrid": {
+    "mmsUkNote": "Ceny a přihlášení najdete na webu Modern Mystery School UK.",
+    "mmsUkButton": "Ceny a přihlášení na MMS UK",
     "inquire": "Zeptat se",
     "inquiryTemplate": "Ahoj, rád(a) bych se zeptal(a) na léčení {name}.",
     "bookNow": "Rezervovat",
@@ -1440,5 +1446,117 @@
         "a": "Ano. Provádět ji smějí pouze praktici certifikovaní přímo Modern Mystery School International."
       }
     ]
+  },
+  "Workshops": {
+    "priceTbd": "Cena bude oznámena",
+    "seeMmsUk": "Viz web MMS UK",
+    "heroEyebrow": "Učte se a praktikujte",
+    "heroTitle": "Kurzy a workshopy",
+    "heroSubtitle": "Skupinové kurzy a programy linie",
+    "heroTagline": "Praktická výuka praxí mystérijní školy — všechny kurzy a workshopy se vyučují v angličtině",
+    "introLead": "Naučte se praxe linie krok za krokem",
+    "introBody": "Vyberte si workshop, ve kterém se hlouběji naučíte jednu praxi, nebo program pro hlubší a delší cestu. Níže najdete u každého cenu a nejbližší termín — a celou stránku se vším, co potřebujete vědět.",
+    "workshopsTitle": "Workshopy",
+    "workshopsBlurb": "Zaměřené kurzy, každý věnovaný jedné praxi.",
+    "programsTitle": "Programy a zasvěcení",
+    "programsBlurb": "Hlubší cesty Modern Mystery School.",
+    "price": "Cena",
+    "nextDate": "Nejbližší termín",
+    "noDate": "Termíny budou oznámeny",
+    "onEnquiry": "Na dotaz",
+    "viewDetails": "Zobrazit detaily",
+    "ctaHeading": "Nevíte, který kurz je pro vás ten pravý?",
+    "ctaBody": "Ozvěte se a pomůžeme vám vybrat kurz, který odpovídá tomu, kde se právě nacházíte.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o vašich kurzech a workshopech."
+  },
+  "SanctuaryMeditationPage": {
+    "heroEyebrow": "Vedená meditace",
+    "heroTitle": "Sanctuary Meditation Class",
+    "heroSubtitle": "Vydejte se do své svatyně a setkejte se se svým Vyšším já",
+    "heroTagline": "Technika, která vás zavede na posvátné a bezpečné místo, kde získáte vedení a odpovědi",
+    "introLead": "Jste intuitivní? Důvěřujete svým instinktům? Přáli byste si větší jasnost v intuitivních sděleních?",
+    "introBody1": "Sanctuary Meditation je technika, která vás zavede na posvátné a bezpečné místo, kde se můžete setkat se svým Vyšším já a získat vedení a odpovědi.",
+    "introBody2": "Je to jeden z ideálních způsobů, jak poznat, že sdělení, která přijímáte, jsou pravdivá, skutečná a v tom nejvyšším a nejlepším zájmu pro vás.",
+    "higherSelfHeading": "Vaše Vyšší já",
+    "higherSelfBody": "Poznání svého Vyššího já je obrovskou výhodou pro každého intuitivního člověka. Váš vztah s Vyšším já se stává úžasným nástrojem rozlišování a růstu, protože je to váš nejdůvěryhodnější rádce a ten, kdo vás zná nejlépe.",
+    "benefitsHeading": "Co získáte",
+    "benefits": [
+      "Vlastní posvátné a bezpečné místo, kam se můžete vydat",
+      "Setkání se svým Vyšším já",
+      "Vedení a odpovědi",
+      "Jistotu, že sdělení, která přijímáte, jsou pravdivá, skutečná a v tom nejvyšším zájmu",
+      "Trvalý nástroj rozlišování a růstu"
+    ],
+    "nextHeading": "Kam to vede",
+    "nextBody": "Technika Sanctuary Meditation je základem workshopu Journeys of the Spirit, který vás naučí získávat ještě více vhledů a informací skrze vedení.",
+    "bookingTitle": "Rezervujte si místo",
+    "duration": "3 hodiny",
+    "bookingNote": "Termíny budou oznámeny. Ozvěte se a dáme vám vědět, kdy se v Praze uskuteční další Sanctuary Meditation.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Sanctuary Meditation."
+  },
+  "MeditationPrayer": {
+    "heroEyebrow": "Ticho a oddanost",
+    "heroTitle": "Meditace a modlitba",
+    "heroSubtitle": "Praxe ticha, modlitby a společenství",
+    "heroTagline": "Meditujte, modlete se a scházejte se s ostatními na cestě",
+    "introLead": "Udělejte prostor pro ticho",
+    "introBody": "Ať přicházíte uklidnit mysl, modlit se, nebo prostě být mezi spřízněnými srdci, najdete zde své místo.",
+    "sectionTitle": "Praxe",
+    "sectionBlurb": "Vedené meditace, modlitby a komunitní večery v Praze.",
+    "sanctuaryDescription": "Hodinová vedená meditace, při níž se vrátíte do své svatyně a setkáte se se svým Vyšším já. Pro ty, kdo absolvovali celý kurz nebo se zúčastnili programu Empower Thyself.",
+    "communityDescription": "Pravidelné večery modlitby, meditace a společenství, otevřené studentům, zasvěcencům i všem ostatním zájemcům.",
+    "ctaHeading": "Nevíte, kde začít?",
+    "ctaBody": "Ozvěte se a pomůžeme vám najít praxi, která odpovídá tomu, kde se právě nacházíte.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o meditaci a modlitbě."
+  },
+  "SanctuarySessionPage": {
+    "heroEyebrow": "Vedená meditace · Praha",
+    "heroTitle": "Sanctuary Meditation",
+    "heroSubtitle": "Vraťte se do své svatyně a setkejte se se svým Vyšším já",
+    "heroTagline": "Hodinová vedená meditace pro ty, kdo už cestu znají",
+    "introLead": "Vraťte se na posvátné a bezpečné místo, kde se setkáváte se svým Vyšším já",
+    "introBody1": "Sanctuary Meditation je technika, která vás zavede na posvátné a bezpečné místo, kde se můžete setkat se svým Vyšším já a získat vedení a odpovědi. Tato seance je hodinová vedená meditace, při níž ji společně praktikujeme.",
+    "introBody2": "Je otevřená těm, kdo už absolvovali celý kurz Sanctuary Meditation Class nebo se zúčastnili programu Empower Thyself.",
+    "whoHeading": "Kdo se může zúčastnit",
+    "who": [
+      "Absolventi celého kurzu Sanctuary Meditation Class",
+      "Ti, kdo se zúčastnili programu Empower Thyself"
+    ],
+    "newHeading": "S technikou začínáte?",
+    "newBody": "Začněte kurzem Sanctuary Meditation Class, který vás celou techniku naučí.",
+    "newButton": "Zobrazit kurz",
+    "benefitsHeading": "Co nabízí",
+    "benefits": [
+      "Pravidelný návrat na vaše posvátné a bezpečné místo",
+      "Hlubší vztah s vaším Vyšším já",
+      "Vedení a odpovědi",
+      "Jistotu, že sdělení, která přijímáte, jsou pravdivá, skutečná a v tom nejvyšším zájmu"
+    ],
+    "bookingTitle": "Rezervujte si místo",
+    "duration": "1 hodina",
+    "bookingNote": "Termíny budou oznámeny. Ozvěte se a dáme vám vědět, kdy se další meditace uskuteční v Praze.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Sanctuary Meditation (1 hodina)."
+  },
+  "MaxMeditationPage": {
+    "heroEyebrow": "Vedená meditace · Praha",
+    "heroTitle": "Max Meditation",
+    "heroSubtitle": "Najděte klid mysli",
+    "heroTagline": "Vedená meditace, která vám vytvoří čas a prostor pro klid a rovnováhu ve vašem životě",
+    "introLead": "Hledáte víc klidu mysli?",
+    "introBody1": "Meditace vám může přinést klid uprostřed chaosu ve vaší mysli. Zahlcené myšlenky vám mohou bránit žít svůj nejlepší život.",
+    "introBody2": "Možná už meditaci znáte, ale těžko hledáte čas sami pro sebe, abyste z ní udělali pravidelnou součást svého režimu. Návštěva seance, kde vás do meditace vede někdo jiný, vám může pomoci budovat „sval“ všímavosti.",
+    "whatHeading": "Zážitková seance",
+    "whatBody1": "Max Meditation je vedený systém, který spojuje starodávnou jógovou techniku s moderní metodou, aby uvolnil stres a obnovil vitalitu.",
+    "whatBody2": "Připojte se k nám na zážitkové seanci, kde se naučíte vytvářet čas a prostor pro klid a rovnováhu ve svém životě.",
+    "whoHeading": "Pro koho je určeno",
+    "who": [
+      "Pro každého, kdo hledá víc klidu mysli",
+      "Pro ty, kdo už meditují, ale těžko hledají čas, aby z toho udělali pravidelnou součást svého režimu",
+      "Pro úplné začátečníky — žádné zkušenosti nejsou potřeba"
+    ],
+    "bookingTitle": "Rezervujte si místo",
+    "duration": "1 hodina",
+    "bookingNote": "Termíny budou oznámeny. Ozvěte se a dáme vám vědět, kdy se v Praze uskuteční další Max Meditation.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Max Meditation."
   }
 }

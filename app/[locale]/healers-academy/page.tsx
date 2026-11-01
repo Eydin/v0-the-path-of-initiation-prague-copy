@@ -11,6 +11,7 @@ import {
   BenefitList,
   WhatsAppButton,
   BookingBlock,
+  MMS_UK_CALENDAR_URL,
 } from "@/components/modality"
 import { QuoteBreaker } from "@/components/quote-breaker"
 
@@ -37,6 +38,7 @@ export default async function HealersAcademy({
 }) {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "HealersAcademy" })
+  const tModality = await getTranslations({ locale, namespace: "Modality" })
   const inquiry = t("inquiry", { brand: BRAND.healersAcademy })
   const learn = [0, 1, 2, 3, 4].map((i) => ({ label: t(`learn.${i}.label`), text: t(`learn.${i}.text`) }))
 
@@ -55,7 +57,11 @@ export default async function HealersAcademy({
         duration={t("duration")}
         inquiry={inquiry}
         note={t("bookingNote")}
-      />
+        bookHref={MMS_UK_CALENDAR_URL}
+        bookLabel={tModality("mmsUkButton")}
+      >
+        <p className="text-center text-lg font-semibold text-primary">{tModality("mmsUkNote")}</p>
+      </BookingBlock>
 
       <Panel>
         <Lead>{t("introLead", { brand: BRAND.empowerThyself })}</Lead>
