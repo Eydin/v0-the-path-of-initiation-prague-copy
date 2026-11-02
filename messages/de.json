@@ -3,10 +3,11 @@
     "location": "Prag, Tschechische Republik",
     "titleLine1": "Der Pfad der Initiation:",
     "titleLine2": "Eine 3.000 Jahre alte Linie",
-    "intro1": "Jahrtausendelang wurde diese heilige Linie in Stille gehütet. Bekannte Persönlichkeiten — Leonardo da Vinci, Nikola Tesla, Isaac Newton — sind genau diesen Weg gegangen, um die physische und spirituelle Welt zu verstehen, doch die Mysterienschulen selbst blieben verborgen, kaum auffindbar, und ließen nicht einfach jeden in ihre heiligen Hallen ein.",
-    "intro2": "Heute jedoch stehen die Türen einer Mysterienschule der Öffentlichkeit offen. Wir haben das Privileg, in einer Zeit zu leben, in der <emphasis>jeder</emphasis>, der den Ruf spürt, die Mysterien studieren und sein wahres Potenzial erwecken kann. Dies ist eine Schule, in der <emphasis>Magie</emphasis> ein zentraler Teil des Daseins ist, in der die <emphasis>Seele</emphasis> entwickelt und geheilt wird und in der die <emphasis>göttliche Bestimmung</emphasis> jedes Menschen entdeckt und erfüllt wird.",
-    "ctaLabel": "Finde heraus, ob dieser Pfad für dich ist",
-    "whatsapp": "WhatsApp"
+    "subtitle": "Heilung, Meditation und spirituelle Ausbildung in Prag, mit Radu & Diana Coman, zertifizierten Lehrern der Modern Mystery School.",
+    "intro": "Seit Jahrtausenden geben die Mysterienschulen praktische Werkzeuge weiter, um dich selbst zu erkennen, Körper und Seele zu heilen und ein sinnerfülltes Leben zu führen: den Weg, den Leonardo da Vinci, Nikola Tesla und Isaac Newton gegangen sind. Heute steht er jedem offen, der den Ruf spürt. Keine Erfahrung und kein bestimmter Glaube nötig.",
+    "doorHealing": "Ich suche Heilung",
+    "doorLearn": "Ich möchte lernen & wachsen",
+    "askLink": "Unsicher, wo du anfangen sollst? Frag uns auf WhatsApp"
   },
   "Header": {
     "activationsGroup": "Aktivierungen & Initiationen",
@@ -74,8 +75,8 @@
     "heading": "Ein Vermächtnis, das für sich spricht",
     "stats": [
       { "number": "3.000+", "label": "Jahre ununterbrochener Linie" },
-      { "number": "60+", "label": "Länder weltweit" },
-      { "number": "Tausende", "label": "Verwandelter Leben" }
+      { "number": "55", "label": "Länder weltweit" },
+      { "number": "44.000+", "label": "Initiierte weltweit" }
     ],
     "videosHeading": "Verfolge die Reise unserer Studenten und Lehrer",
     "wallOfLove": "Wand der Liebe",
@@ -124,11 +125,24 @@
     "body2": "Dies ist eine <emphasis>heilige Verpflichtung</emphasis>, die beste Version deiner selbst zu werden — Kräfte zu erschließen, von deren Existenz die meisten Menschen nie erfahren werden, und in eine Linie einzutreten, die den Lauf der Menschheitsgeschichte geprägt hat.",
     "expectedHeading": "Was von dir erwartet wird",
     "expectations": [
-      "Ein offener Geist und die Bereitschaft, deine aktuellen Annahmen zu hinterfragen",
-      "Tägliches Üben der Werkzeuge und Techniken",
-      "Ein echter Wunsch nach Selbstbeherrschung",
-      "Bereitschaft, zu dienen und dich selbst und andere zu erheben"
-    ]
+      {
+        "title": "Ein offener Geist",
+        "description": "Die Bereitschaft, neue Perspektiven zu erkunden und deine aktuellen Annahmen zu hinterfragen."
+      },
+      {
+        "title": "Tägliche Praxis",
+        "description": "Die konsequente Anwendung der Werkzeuge und Techniken in deinem Alltag."
+      },
+      {
+        "title": "Hingabe an die Selbstbeherrschung",
+        "description": "Der echte Wunsch, dich selbst zu verstehen, dein Potenzial zu entfalten und Verantwortung für deine eigene Entwicklung zu übernehmen."
+      },
+      {
+        "title": "Ein Geist des Dienens",
+        "description": "Die Bereitschaft, dein Wachstum und deine Entwicklung zu nutzen, um dich selbst zu erheben und positiv zum Leben anderer beizutragen."
+      }
+    ],
+    "expectedClosing": "Dies ist deine Reise, deine Investition und deine Verantwortung. Du gehst diesen Weg für deine eigene Entwicklung und für das Leben, das du erschaffen willst. Niemand kann ihn für dich gehen."
   },
   "CTA": {
     "eyebrow": "Deine Einladung",
@@ -237,8 +251,7 @@
       { "role": "Der unsterbliche Adept" },
       { "role": "Staatsmann des Gewissens" },
       { "role": "Frequenz und Licht" },
-      { "role": "Architekt des Geistes" },
-      { "role": "Der mystische Heiler" }
+      { "role": "Architekt des Geistes" }
     ],
     "closing": "Was, wenn du Zugang zu genau <emphasis>demselben</emphasis> Pfad, denselben Werkzeugen und derselben Kraft hättest, die sie hatten — was wäre dein Vermächtnis?",
     "portraitsCredit": "Porträts: historische Kunstwerke & Fotografien, Wikimedia Commons."
@@ -1561,8 +1574,39 @@
     "inquiry": "Hallo, ich möchte mehr über Max Meditation erfahren."
   },
   "HealingsWidget": {
+    "eyebrow": "Heilung eins zu eins in Prag",
     "heading": "Suchst du Heilung für dich selbst oder einen geliebten Menschen?",
-    "body": "Entdecke unseren Heilungsbereich",
-    "button": "Heilungen ansehen"
+    "body": "Stress, Schwere, alte Muster, ein Körper oder ein Herz, das Erleichterung braucht — was auch immer du trägst, du musst es nicht allein tragen. Jede Sitzung ist persönlich, in einem sicheren und liebevollen Raum, und viele gehen leichter, klarer und wieder mehr bei sich selbst nach Hause.",
+    "perks": [
+      "Persönliche Sitzungen, eins zu eins",
+      "Vor Ort in Prag oder aus der Ferne",
+      "Unsicher, welche? Wir helfen dir bei der Wahl"
+    ],
+    "button": "Alle Heilungen entdecken",
+    "askButton": "Hilf mir bei der Wahl",
+    "inquiry": "Hallo, ich suche eine Heilung und hätte gerne Hilfe bei der Wahl der richtigen für mich."
+  },
+  "FirstSteps": {
+    "eyebrow": "Wo du beginnst",
+    "heading": "Dein erster Schritt auf dem Pfad",
+    "intro": "Du musst dich nicht gleich auf alles festlegen. Der Pfad entfaltet sich Schritt für Schritt, und jeder Schritt ist in sich vollständig.",
+    "startHere": "Hier beginnen",
+    "learnMore": "Mehr erfahren",
+    "step1": {
+      "meta": "Einzelsitzung · ca. 2 Stunden · vor Ort in Prag",
+      "body": "Eine Einzelsitzung mit Radu oder Diana, beide zertifizierte Life Activation Practitioner, die sich jedes Jahr neu zertifizieren. Sie erweckt die Gaben, die bereits in deiner DNA angelegt sind: Du sitzt und stehst bequem, während deine Energie geklärt und ausgeglichen wird; dann werden 22 der 24 Stränge deiner physischen und spirituellen DNA aktiviert, gefolgt von einem kurzen Reading. Du musst nichts vorbereiten: Du empfängst einfach.",
+      "feel": "Danach spüren viele Wärme, Emotionen, tiefe Entspannung oder neue Klarheit, und die Aktivierung entfaltet sich in den folgenden ein bis drei Monaten weiter."
+    },
+    "step2": {
+      "meta": "Zweitägige Initiation · in Prag",
+      "body": "Für den Moment, in dem du bereit bist, tiefer zu gehen. In zwei Tagen erhältst du die Lehren, praktischen Werkzeuge und die heilige Initiationszeremonie, die dich zu einem Initiierten in der Linie von König Salomon machen, mit allem, was du brauchst, um dich selbstständig weiter zu wandeln."
+    },
+    "step3": {
+      "title": "Weitergehen",
+      "meta": "Heiler-Ausbildung · Kurse · Gemeinschaft",
+      "body": "Von da an gestaltest du den Pfad selbst: Werde in der Healers Academy zum zertifizierten Heiler in der Tradition der Modern Mystery School, besuche Workshops wie Sacred Geometry und Astralreisen und wachse mit einer herzlichen Gemeinschaft in Prag, die den Weg mit dir geht.",
+      "link": "Kommende Kurse ansehen"
+    },
+    "askLink": "Unsicher, welcher Schritt der richtige für dich ist? Frag uns auf WhatsApp"
   }
 }

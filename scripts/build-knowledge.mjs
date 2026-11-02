@@ -39,6 +39,25 @@ for(const c of componentFiles){
   }catch{}
 }
 
+// Page data that lives in "@/lib/*" rather than in the page itself (e.g.
+// lib/healings.ts holds the healing prices and links shared by /healings and
+// the homepage teaser). Only lib files that load translations are page
+// content; the rest (schedule, blog posts, this knowledge base) are not.
+// Their literal strings are scanned, but not their namespaces, which the
+// pages that use them already pull in.
+const libFiles = new Set();
+const LIB_IMPORT_RE = /from\s+["']@\/lib\/([^"']+)["']/g;
+for(const f of [...files]){
+  const src = readFileSync(f,"utf8");
+  for(const m of src.matchAll(LIB_IMPORT_RE)){
+    const p = join(ROOT,"lib",m[1].endsWith(".ts")?m[1]:m[1]+".ts");
+    try{
+      if(/getTranslations\(|useTranslations\(/.test(readFileSync(p,"utf8"))) libFiles.add(p);
+    }catch{}
+  }
+}
+files.push(...libFiles);
+
 // FIX 1: `p` and `ROOT` contain backslashes on Windows, so the old
 // forward-slash-only string replace never matched and the raw absolute path
 // leaked into every "PAGE:" header. Normalize to forward slashes first, and
@@ -48,6 +67,7 @@ function routeName(p){
   const norm = p.split(sep).join("/");
   const rootNorm = ROOT.split(sep).join("/");
   if(norm.includes("/components/"))return "(component) "+norm.split("/").pop();
+  if(norm.startsWith(rootNorm+"/lib/"))return "(data) "+norm.split("/").pop();
   let rel = norm.replace(rootNorm+"/app/","").replace(/page\.tsx$/,"");
   rel = rel.replace(/^\[locale\]\/?/,"").replace(/\/$/,"");
   return "/"+rel;
@@ -78,7 +98,7 @@ function isJunk(t){
   if(/=>|===|!==|\?\?|useTranslations\(|useState\(|\.split\(|return \(|t\.rich\(/.test(t))return true; // JS syntax
   if(/^[a-zA-Z][a-zA-Z0-9]*\?:/.test(t))return true; // TS type-annotation fragment like "variant?:"
   if(/^[a-z][a-zA-Z0-9]*(\.[a-z0-9][a-zA-Z0-9]*){2,}$/.test(t))return true; // dotted i18n key path (3+ segments)
-  if(/^[a-z][a-zA-Z0-9]*\d*\.(text|emphasis|attribution|caption|label|description|tag|name|title|heading)$/i.test(t))return true; // dotted i18n key path (2 segments)
+  if(/^[a-z][a-zA-Z0-9]*\d*\.(text|emphasis|attribution|caption|label|description|tag|name|title|heading|meta|body|feel|link)$/i.test(t))return true; // dotted i18n key path (2 segments)
   return false;
 }
 
@@ -137,7 +157,9 @@ function getNamespaces(src){
   // this form so generateMetadata could run server-side, which left this
   // extractor blind to their namespace unless both forms are matched.
   const serverFn = [...src.matchAll(/getTranslations\(\s*\{[^}]*?namespace:\s*["']([^"']+)["']/g)].map(m=>m[1]);
-  return [...clientHook, ...serverFn];
+  // ...and getTranslations("X") (plain string) in server components that take the locale from the request.
+  const serverStr = [...src.matchAll(/getTranslations\(\s*["']([^"']+)["']\s*\)/g)].map(m=>m[1]);
+  return [...clientHook, ...serverFn, ...serverStr];
 }
 
 function extractTranslatedNamespaces(src, namespaces){
@@ -162,13 +184,13 @@ files.sort();
 
 for(const f of files){
   const src = readFileSync(f,"utf8");
-  const namespaces = getNamespaces(src);
+  const namespaces = libFiles.has(f) ? [] : getNamespaces(src);
   // A single-segment namespace name (e.g. "Modality", "Healings") isn't
   // caught by isJunk()'s PascalCase-identifier rule (which requires 2+
   // segments to avoid rejecting real single-word content like
   // "Recommendations"). Since we know exactly which namespace strings this
   // file references, drop bare occurrences of those specific names instead.
-  const namespaceSet = new Set(namespaces);
+  const namespaceSet = new Set(getNamespaces(src));
   const lines = Array.from(new Set([...extract(src), ...extractTranslatedNamespaces(src, namespaces)]))
     .filter((line) => !namespaceSet.has(line));
   if(!lines.length)continue;

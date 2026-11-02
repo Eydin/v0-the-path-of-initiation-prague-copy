@@ -3,10 +3,11 @@
     "location": "Praga, Republica Cehă",
     "titleLine1": "Calea Inițierii:",
     "titleLine2": "O linie spirituală veche de 3.000 de ani",
-    "intro1": "Timp de milenii, această linie sacră a fost păzită în tăcere. Figuri recunoscute — Leonardo da Vinci, Nikola Tesla, Isaac Newton — au pășit chiar pe acest drum pentru a înțelege lumea fizică și spirituală, dar școlile misterelor rămâneau ascunse, aproape imposibil de găsit, și nu acceptau pe oricine în sălile lor sacre.",
-    "intro2": "Astăzi însă, porțile unei școli a misterelor sunt deschise publicului. Avem privilegiul de a trăi într-o eră în care <emphasis>oricine</emphasis> simte chemarea poate alege să studieze misterele și să-și trezească adevăratul potențial. Aceasta este o școală în care <emphasis>magia</emphasis> este o parte esențială a existenței, în care <emphasis>sufletul</emphasis> este dezvoltat și vindecat, și în care <emphasis>scopul divin</emphasis> al fiecărei persoane este descoperit și împlinit.",
-    "ctaLabel": "Descoperă dacă această cale este pentru tine",
-    "whatsapp": "WhatsApp"
+    "subtitle": "Vindecare, meditație și pregătire spirituală în Praga, cu Radu și Diana Coman, profesori certificați ai Modern Mystery School.",
+    "intro": "Timp de mii de ani, școlile misterelor au transmis instrumente practice pentru a te cunoaște pe tine însuți, pentru a-ți vindeca trupul și sufletul și pentru a trăi cu sens: calea pe care au pășit Leonardo da Vinci, Nikola Tesla și Isaac Newton. Astăzi, ea este deschisă oricui simte chemarea. Nu ai nevoie de experiență sau de o anumită credință.",
+    "doorHealing": "Caut vindecare",
+    "doorLearn": "Vreau să învăț și să cresc",
+    "askLink": "Nu știi de unde să începi? Întreabă-ne pe WhatsApp"
   },
   "Header": {
     "activationsGroup": "Activări și inițieri",
@@ -74,8 +75,8 @@
     "heading": "Un legat care vorbește de la sine",
     "stats": [
       { "number": "3.000+", "label": "Ani de linie neîntreruptă" },
-      { "number": "60+", "label": "Țări din întreaga lume" },
-      { "number": "Mii", "label": "De vieți transformate" }
+      { "number": "55", "label": "Țări din întreaga lume" },
+      { "number": "44.000+", "label": "Inițiați în întreaga lume" }
     ],
     "videosHeading": "Urmărește călătoria studenților și profesorilor noștri",
     "wallOfLove": "Zidul iubirii",
@@ -124,11 +125,24 @@
     "body2": "Acesta este un <emphasis>angajament sacru</emphasis> de a deveni cea mai bună versiune a ta — de a debloca puteri despre a căror existență majoritatea oamenilor nu vor ști niciodată și de a păși într-o linie spirituală care a modelat cursul istoriei umane.",
     "expectedHeading": "Ce se așteaptă de la tine",
     "expectations": [
-      "O minte deschisă și dorința de a-ți pune la îndoială presupunerile actuale",
-      "Practica zilnică a instrumentelor și tehnicilor",
-      "O dorință autentică de auto-stăpânire",
-      "Dorința de a sluji și de a te ridica pe tine și pe ceilalți"
-    ]
+      {
+        "title": "O minte deschisă",
+        "description": "Dorința de a explora perspective noi și de a-ți pune la îndoială presupunerile actuale."
+      },
+      {
+        "title": "Practica zilnică",
+        "description": "Aplicarea constantă a instrumentelor și tehnicilor în viața de zi cu zi."
+      },
+      {
+        "title": "Angajamentul față de auto-stăpânire",
+        "description": "O dorință autentică de a te înțelege pe tine însuți, de a-ți dezvolta potențialul și de a-ți asuma responsabilitatea pentru propria evoluție."
+      },
+      {
+        "title": "Spiritul de slujire",
+        "description": "Dorința de a-ți folosi creșterea și dezvoltarea pentru a te înălța pe tine și pentru a contribui pozitiv la viețile celorlalți."
+      }
+    ],
+    "expectedClosing": "Aceasta este călătoria ta, investiția ta și responsabilitatea ta. Faci această muncă pentru propria evoluție și pentru viața pe care alegi să o creezi. Nimeni nu o poate face în locul tău."
   },
   "CTA": {
     "eyebrow": "Invitația ta",
@@ -237,8 +251,7 @@
       { "role": "Adeptul nemuritor" },
       { "role": "Om de stat al conștiinței" },
       { "role": "Frecvență și lumină" },
-      { "role": "Arhitect al spiritului" },
-      { "role": "Vindecătorul mistic" }
+      { "role": "Arhitect al spiritului" }
     ],
     "closing": "Ce-ar fi dacă ai putea avea acces la <emphasis>exact aceeași</emphasis> cale, aceleași instrumente și putere pe care le-au avut ei — care ar fi moștenirea ta?",
     "portraitsCredit": "Portrete: opere de artă și fotografii istorice, Wikimedia Commons."
@@ -1561,8 +1574,39 @@
     "inquiry": "Bună, aș dori să aflu mai multe despre Max Meditation."
   },
   "HealingsWidget": {
+    "eyebrow": "Vindecare individuală în Praga",
     "heading": "Cauți vindecare pentru tine sau pentru o persoană dragă?",
-    "body": "Vezi secțiunea noastră de vindecare",
-    "button": "Vezi vindecările"
+    "body": "Stres, greutate, tipare vechi, un corp sau o inimă care are nevoie de alinare — orice ai purta, nu trebuie să porți singur. Fiecare ședință este personală, într-un spațiu sigur și plin de grijă, iar mulți pleacă mai ușori, mai limpezi și mai aproape de ei înșiși.",
+    "perks": [
+      "Ședințe individuale, personale",
+      "Față în față în Praga sau la distanță",
+      "Nu știi pe care să o alegi? Te ajutăm noi"
+    ],
+    "button": "Descoperă toate vindecările",
+    "askButton": "Ajută-mă să aleg",
+    "inquiry": "Bună, caut o vindecare și aș dori ajutor pentru a o alege pe cea potrivită pentru mine."
+  },
+  "FirstSteps": {
+    "eyebrow": "De unde să începi",
+    "heading": "Primul tău pas pe cale",
+    "intro": "Nu trebuie să te angajezi la totul deodată. Calea se desfășoară pas cu pas, iar fiecare pas este complet în sine.",
+    "startHere": "Începe aici",
+    "learnMore": "Află mai multe",
+    "step1": {
+      "meta": "Individual · aproximativ 2 ore · față în față în Praga",
+      "body": "O ședință individuală cu Radu sau Diana, amândoi practicieni certificați Life Activation, care se recertifică în fiecare an. Trezește darurile deja codificate în ADN-ul tău: stai confortabil, așezat și în picioare, în timp ce energia îți este curățată și echilibrată, apoi 22 din cele 24 de catene ale ADN-ului tău fizic și spiritual sunt activate, urmate de o scurtă citire. Nu trebuie să pregătești nimic: doar primești.",
+      "feel": "După aceea, oamenii simt adesea căldură, emoție, relaxare profundă sau o nouă claritate, iar activarea continuă să se desfășoare în următoarele una până la trei luni."
+    },
+    "step2": {
+      "meta": "Inițiere de 2 zile · în Praga",
+      "body": "Pentru momentul în care ești pregătit să mergi mai adânc. În două zile primești învățăturile, instrumentele practice și ceremonia sacră de inițiere care te fac Inițiat în linia regelui Solomon, cu tot ce ai nevoie pentru a continua să te transformi singur."
+    },
+    "step3": {
+      "title": "Continuă drumul",
+      "meta": "Pregătire de vindecător · cursuri · comunitate",
+      "body": "De aici, calea o modelezi tu: devino vindecător certificat în tradiția Modern Mystery School prin Healers Academy, studiază workshopuri precum Sacred Geometry și călătoria astrală și crește alături de o comunitate caldă din Praga care parcurge drumul împreună cu tine.",
+      "link": "Vezi cursurile următoare"
+    },
+    "askLink": "Nu știi care pas e potrivit pentru tine? Întreabă-ne pe WhatsApp"
   }
 }

@@ -9,6 +9,7 @@ import { TeaserSection } from "@/components/teaser-section"
 import { CTASection } from "@/components/cta-section"
 import { GuideSection } from "@/components/guide-section"
 import { InitiateInvite } from "@/components/initiate-invite"
+import { FirstStepsSection } from "@/components/first-steps-section"
 import { ClassesSection } from "@/components/classes-section"
 import { FAQSection } from "@/components/faq-section"
 import { EndingSection } from "@/components/ending-section"
@@ -31,11 +32,15 @@ export default function Home() {
         <HeroSection />
         <CalendarWidgetSection />
         <HealingsWidgetSection />
+        <FirstStepsSection />
         <InitiateInvite />
         <GuideSection />
+        {/* answer the doubts, then offer the booking while they're answered */}
+        <FAQSection />
+        <CTASection />
         <FactsSection />
         <PillarsSection />
-        <FAQSection />
+        <TeaserSection />
 
         <QuoteBreaker
           image="ancient-versus-eternal-sounion.jpg"
@@ -53,8 +58,6 @@ export default function Home() {
 
         <HallOfInitiates />
 
-        <TeaserSection />
-        <CTASection />
         <ClassesSection />
 
         <QuoteBreaker

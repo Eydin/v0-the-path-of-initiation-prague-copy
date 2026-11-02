@@ -35,7 +35,6 @@ const initiates: { name: string; file: string }[] = [
   { name: "Abraham Lincoln", file: "abraham-lincoln.jpg" },
   { name: "Nikola Tesla", file: "nikola-tesla.jpg" },
   { name: "Rudolf Steiner", file: "rudolf-steiner.jpg" },
-  { name: "Grigori Rasputin", file: "grigori-rasputin.jpg" },
 ]
 
 export function HallOfInitiates() {

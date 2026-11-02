@@ -65,8 +65,11 @@ scratch every time — read it fully before starting non-trivial work here.
   `lib/chatbot/site-knowledge.ts` (auto-generated — never hand-edit it, it
   gets overwritten). It walks every `app/**/page.tsx`, auto-discovers every
   component transitively imported via `@/components/*`, strips code/JS
-  comments, and pulls in each page's `useTranslations()` namespace content
-  from `messages/en.json`. **Run `node scripts/build-knowledge.mjs` after any
+  comments, and pulls in each page's `useTranslations()` /
+  `getTranslations()` namespace content from `messages/en.json`. It also
+  scans `@/lib/*` files a page imports **if** they load translations (e.g.
+  `lib/healings.ts`, which holds the healing prices/links shared by
+  `/healings` and the homepage teaser) — other lib files are skipped. **Run `node scripts/build-knowledge.mjs` after any
   copy change that should reach the chatbot** — `lib/chatbot/knowledge.ts`
   combines `KEY_FACTS + MMS_KNOWLEDGE + SITE_KNOWLEDGE` into the
   `KNOWLEDGE_BASE` the chat API actually uses.

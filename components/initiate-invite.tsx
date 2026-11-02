@@ -6,7 +6,7 @@ export async function InitiateInvite() {
   const t = await getTranslations("Facts")
 
   return (
-    <section className="relative py-16 lg:py-24">
+    <section id="path" className="relative scroll-mt-20 py-16 lg:py-24">
       <div className="mx-auto max-w-4xl px-6 text-center">
         <ScrollReveal>
           <div className="mx-auto mb-8 h-px w-24 bg-primary/60" />
