@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { ArrowRight, ChevronDown, MessageCircle } from "lucide-react"
+import { ChevronDown, HeartHandshake, MessageCircle, Sparkles } from "lucide-react"
 import { useTranslations } from "next-intl"
 import { useIsMobile } from "@/hooks/use-mobile"
 
@@ -33,10 +33,19 @@ export function HeroSection() {
           }, 30000)
         }}
       />
-      {/* veil — keeps the cinematic dark mood and the light headline legible over the bright sky */}
-      <div className="absolute inset-0 bg-gradient-to-b from-background/88 via-background/78 to-background/94" />
+      {/* veil — two layers so the dragon stays visible: a light wash over the whole video, plus a soft
+          glow right behind the text block (strong in the middle, fading to clear at the edges) that keeps
+          the headline and paragraphs readable. */}
+      <div className="absolute inset-0 bg-gradient-to-b from-background/35 via-background/15 to-background/55" />
+      <div
+        className="absolute inset-0"
+        style={{
+          background:
+            "radial-gradient(ellipse 58% 62% at 50% 50%, color-mix(in oklab, var(--background) 88%, transparent) 0%, color-mix(in oklab, var(--background) 74%, transparent) 50%, transparent 100%)",
+        }}
+      />
 
-      <div className="relative z-10 mx-auto max-w-4xl px-6 py-32 text-center">
+      <div className="relative z-10 mx-auto max-w-5xl px-6 pt-28 pb-24 text-center">
         <motion.div
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
@@ -53,50 +62,62 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.3, ease: [0.25, 0.4, 0.25, 1] }}
-          className="mb-8 font-serif text-4xl leading-tight tracking-wide text-foreground md:text-6xl lg:text-7xl text-balance"
+          className="mb-6 font-serif text-4xl leading-tight tracking-wide text-foreground md:text-6xl lg:text-7xl text-balance"
         >
           {t("titleLine1")}
           <br />
           <span className="text-primary">{t("titleLine2")}</span>
         </motion.h1>
 
+        {/* plain one-line answer to "what is this?" */}
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.6, ease: [0.25, 0.4, 0.25, 1] }}
-          className="mx-auto mb-12 max-w-2xl text-lg leading-relaxed text-muted-foreground"
+          transition={{ duration: 0.8, delay: 0.5, ease: [0.25, 0.4, 0.25, 1] }}
+          className="mx-auto mb-8 max-w-3xl font-serif text-xl leading-snug text-foreground text-balance md:text-2xl"
         >
-          {t("intro1")}
+          {t("subtitle")}
         </motion.p>
 
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.8, ease: [0.25, 0.4, 0.25, 1] }}
-          className="mx-auto mb-12 max-w-2xl text-lg leading-relaxed text-foreground"
+          transition={{ duration: 0.8, delay: 0.7, ease: [0.25, 0.4, 0.25, 1] }}
+          className="mx-auto mb-10 max-w-2xl text-lg leading-relaxed text-foreground/85"
         >
-          {t.rich("intro2", {
-            emphasis: (chunks) => <span className="text-primary font-serif italic">{chunks}</span>,
-          })}
+          {t("intro")}
         </motion.p>
 
+        {/* two doors: the two reasons people arrive */}
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ delay: 1.2, duration: 0.6 }}
+          transition={{ delay: 1.1, duration: 0.6 }}
         >
-          <p className="mb-4 text-sm tracking-wide text-muted-foreground uppercase">
-            {t("ctaLabel")}
-          </p>
+          <div className="flex flex-col items-stretch justify-center gap-4 sm:flex-row sm:items-center">
+            <a
+              href="#healing"
+              className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-8 py-4 font-serif text-sm tracking-widest text-primary-foreground uppercase transition-all hover:bg-primary/90"
+            >
+              <HeartHandshake className="h-4 w-4" />
+              {t("doorHealing")}
+            </a>
+            <a
+              href="#first-steps"
+              className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-background/60 px-8 py-4 font-serif text-sm tracking-widest text-primary uppercase backdrop-blur-sm transition-all hover:bg-primary hover:text-primary-foreground"
+            >
+              <Sparkles className="h-4 w-4" />
+              {t("doorLearn")}
+            </a>
+          </div>
           <a
             href="https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm tracking-widest text-primary-foreground transition-all hover:bg-primary/90 uppercase"
+            className="mx-auto mt-6 block max-w-xs text-center text-sm font-semibold text-[#25D366] underline-offset-4 transition-colors hover:text-[#1ebe5b] hover:underline sm:max-w-none"
           >
-            <MessageCircle className="h-4 w-4" />
-            {t("whatsapp")}
-            <ArrowRight className="h-4 w-4" />
+            <MessageCircle className="mr-2 inline h-4 w-4 align-[-3px]" />
+            {t("askLink")}
           </a>
         </motion.div>
       </div>

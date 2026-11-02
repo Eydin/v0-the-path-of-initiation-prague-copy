@@ -162,6 +162,420 @@ html {
   );
 }
 
+/* ───────── Cream homepage — re-themes the home page only. Every colour in the
+   app comes from the CSS variables above (via Tailwind's @theme inline), so
+   redefining them on the page wrapper flips the whole page: cream background,
+   dark-brown text, and a darker gold for text/buttons so it stays readable on
+   a light ground. Other pages keep the dark theme. */
+.home-cream {
+  --background: #f5efe0;
+  --foreground: #2a2118;
+  --card: #fbf7ec;
+  --card-foreground: #2a2118;
+  --popover: #fbf7ec;
+  --popover-foreground: #2a2118;
+  --primary: #7a5c0f;
+  --primary-foreground: #fffaf0;
+  --secondary: #e9dfc8;
+  --secondary-foreground: #2a2118;
+  --muted: #ece3cf;
+  --muted-foreground: #6b5f50;
+  --accent: #e9dfc8;
+  --accent-foreground: #7a5c0f;
+  --border: #d9ccb0;
+  --input: #d9ccb0;
+  --ring: #7a5c0f;
+  --gold: #7a5c0f;
+  --gold-light: #96721a;
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* The big section boxes (.home-box) are dark burgundy. Inside one, the colours flip
+   to light-on-dark: cream text and light gold accents. */
+.home-cream .home-box {
+  background-color: #4a0f1d;
+  --foreground: #f5efe0;
+  --muted-foreground: #dccfb8;
+  --primary: #e3c36e;
+  --primary-foreground: #3a0d16;
+  --gold: #e3c36e;
+  --gold-light: #f2dc9a;
+  --border: rgba(245, 239, 224, 0.28);
+  --background: #330a14;
+  color: var(--foreground);
+}
+
+/* FAQ box: dark green instead of burgundy (same cream-on-dark text colours as the other boxes). */
+.home-cream .home-box.home-box-green {
+  background-color: #12372a;
+  --background: #0b2419;
+}
+
+/* Calendar box: the starry Empower Thyself artwork (same image as that card at the
+   bottom of the page) instead of plain burgundy, under a dark veil so the cream text stays
+   readable. It is alive: the sky drifts and zooms very slowly, and a scatter of stars
+   twinkles. Both layers sit behind the content (negative z-index inside an isolated box). */
+.home-cream .home-box-stars {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+}
+.home-cream .home-box-stars::before {
+  content: "";
+  position: absolute;
+  inset: -10%;
+  z-index: -2;
+  background-image:
+    linear-gradient(rgba(8, 10, 28, 0.5), rgba(8, 10, 28, 0.62)),
+    url("/images/empower-thyself-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  animation: stars-drift 45s ease-in-out infinite alternate;
+  will-change: transform;
+}
+.home-cream .home-box-stars::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image:
+    radial-gradient(1.6px 1.6px at 7% 18%, #fff, transparent),
+    radial-gradient(1.2px 1.2px at 15% 62%, #fff, transparent),
+    radial-gradient(2px 2px at 23% 34%, #fff, transparent),
+    radial-gradient(1.2px 1.2px at 31% 82%, #fff, transparent),
+    radial-gradient(1.6px 1.6px at 42% 12%, #fff, transparent),
+    radial-gradient(1.2px 1.2px at 51% 48%, #fff, transparent),
+    radial-gradient(2px 2px at 58% 86%, #fff, transparent),
+    radial-gradient(1.4px 1.4px at 66% 26%, #fff, transparent),
+    radial-gradient(1.2px 1.2px at 74% 70%, #fff, transparent),
+    radial-gradient(1.8px 1.8px at 83% 14%, #fff, transparent),
+    radial-gradient(1.2px 1.2px at 90% 54%, #fff, transparent),
+    radial-gradient(1.6px 1.6px at 95% 88%, #fff, transparent),
+    radial-gradient(1.2px 1.2px at 38% 66%, #fff, transparent),
+    radial-gradient(1.4px 1.4px at 78% 42%, #fff, transparent);
+  animation: stars-twinkle 4.5s ease-in-out infinite alternate;
+}
+@keyframes stars-drift {
+  from { transform: scale(1.04) translate3d(-2.5%, -1.5%, 0); }
+  to   { transform: scale(1.16) translate3d(2.5%, 1.5%, 0); }
+}
+@keyframes stars-twinkle {
+  from { opacity: 0.25; }
+  to   { opacity: 0.95; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .home-cream .home-box-stars::before,
+  .home-cream .home-box-stars::after {
+    animation: none;
+  }
+}
+
+/* "What is expected of you" box: Friedrich's Wanderer above the Sea of Fog under a deep
+   burgundy veil with a soft gold glow at the top, so the cream text stays readable. The fog
+   drifts very slowly. The image sits behind the content (negative z-index inside an isolated box). */
+.home-cream .home-box-wanderer {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+}
+.home-cream .home-box-wanderer::before {
+  content: "";
+  position: absolute;
+  inset: -8%;
+  z-index: -1;
+  background-image:
+    radial-gradient(ellipse 70% 45% at 50% 0%, rgba(227, 195, 110, 0.22), transparent 70%),
+    linear-gradient(to bottom, rgba(52, 12, 24, 0.5), rgba(36, 8, 16, 0.66) 50%, rgba(18, 4, 8, 0.9)),
+    url("/images/art/caspar-david-friedrich-wanderer-above-the-sea-of-fog.jpg");
+  background-size: cover;
+  background-position: center 38%;
+  animation: wanderer-drift 60s ease-in-out infinite alternate;
+  will-change: transform;
+}
+@keyframes wanderer-drift {
+  from { transform: scale(1.02) translate3d(-1.5%, 0, 0); }
+  to   { transform: scale(1.1) translate3d(1.5%, -1%, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .home-cream .home-box-wanderer::before {
+    animation: none;
+  }
+}
+
+/* Shooting stars over the calendar box: two streaks on different cycles (13s / 19s) that each
+   cross the box in about a second and then stay hidden, so one falls only once in a while. */
+.home-cream .shooting-star {
+  position: absolute;
+  z-index: 5;
+  width: 130px;
+  height: 2px;
+  border-radius: 999px;
+  pointer-events: none;
+  opacity: 0;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.95));
+  filter: drop-shadow(0 0 6px rgba(190, 220, 255, 0.95));
+  transform: rotate(160deg);
+}
+.home-cream .shooting-star::after {
+  content: "";
+  position: absolute;
+  right: -2px;
+  top: 50%;
+  width: 5px;
+  height: 5px;
+  margin-top: -2.5px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 10px 3px rgba(190, 220, 255, 0.9);
+}
+.home-cream .shooting-star--a {
+  top: 4%;
+  left: 82%;
+  animation: shoot 13s linear 3s infinite;
+}
+.home-cream .shooting-star--b {
+  top: 6%;
+  left: 98%;
+  width: 100px;
+  animation: shoot 19s linear 10s infinite;
+}
+/* third star: same direction as the others, from the upper middle, on a 23s cycle */
+.home-cream .shooting-star--c {
+  top: 4%;
+  left: 62%;
+  width: 115px;
+  animation: shoot 23s linear 6s infinite;
+}
+@keyframes shoot {
+  0%   { opacity: 0; transform: rotate(160deg) translateX(0); }
+  1.5% { opacity: 1; }
+  7%   { opacity: 1; }
+  9%   { opacity: 0; transform: rotate(160deg) translateX(400px); }
+  100% { opacity: 0; transform: rotate(160deg) translateX(400px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .home-cream .shooting-star { display: none; }
+}
+
+/* Flickering background stars: two extra scatters of tiny stars, each flickering on its own
+   irregular rhythm (on top of the calendar box's slow ::after twinkle), so the sky shimmers
+   unevenly instead of pulsing as one. */
+.home-cream .stars-flicker {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  filter: drop-shadow(0 0 3px rgba(255, 255, 255, 0.95)) drop-shadow(0 0 7px rgba(190, 215, 255, 0.7));
+}
+.home-cream .stars-flicker--a {
+  background-image:
+    radial-gradient(2.8px 2.8px at 4% 40%, #fff, transparent),
+    radial-gradient(3.6px 3.6px at 11% 78%, #ffe9a8, transparent),
+    radial-gradient(2.4px 2.4px at 19% 12%, #fff, transparent),
+    radial-gradient(3.2px 3.2px at 27% 52%, #cfe2ff, transparent),
+    radial-gradient(2.4px 2.4px at 36% 90%, #fff, transparent),
+    radial-gradient(3.6px 3.6px at 47% 28%, #fff, transparent),
+    radial-gradient(2.8px 2.8px at 61% 60%, #ffe9a8, transparent),
+    radial-gradient(2.4px 2.4px at 72% 8%, #fff, transparent),
+    radial-gradient(3.2px 3.2px at 88% 36%, #cfe2ff, transparent),
+    radial-gradient(2.8px 2.8px at 97% 72%, #fff, transparent);
+  animation: star-flicker-a 3.7s ease-in-out infinite;
+}
+.home-cream .stars-flicker--b {
+  background-image:
+    radial-gradient(3.2px 3.2px at 8% 24%, #fff, transparent),
+    radial-gradient(2.4px 2.4px at 14% 58%, #cfe2ff, transparent),
+    radial-gradient(3.6px 3.6px at 22% 92%, #fff, transparent),
+    radial-gradient(2.4px 2.4px at 33% 34%, #ffe9a8, transparent),
+    radial-gradient(3.2px 3.2px at 44% 70%, #fff, transparent),
+    radial-gradient(2.4px 2.4px at 54% 6%, #fff, transparent),
+    radial-gradient(3.6px 3.6px at 66% 84%, #cfe2ff, transparent),
+    radial-gradient(2.8px 2.8px at 78% 46%, #fff, transparent),
+    radial-gradient(2.4px 2.4px at 92% 16%, #ffe9a8, transparent),
+    radial-gradient(3.2px 3.2px at 85% 94%, #fff, transparent);
+  animation: star-flicker-b 5.3s ease-in-out -1.7s infinite;
+}
+@keyframes star-flicker-a {
+  0%, 100% { opacity: 0.95; }
+  7%  { opacity: 0.4; }
+  13% { opacity: 0.85; }
+  21% { opacity: 0.5; }
+  38% { opacity: 1.0; }
+  52% { opacity: 0.35; }
+  66% { opacity: 0.8; }
+  80% { opacity: 0.55; }
+}
+@keyframes star-flicker-b {
+  0%, 100% { opacity: 0.5; }
+  10% { opacity: 1.0; }
+  17% { opacity: 0.6; }
+  30% { opacity: 0.9; }
+  36% { opacity: 0.4; }
+  58% { opacity: 0.95; }
+  64% { opacity: 0.55; }
+  82% { opacity: 0.85; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .home-cream .stars-flicker { animation: none; opacity: 0.6; }
+}
+
+/* Healing box: heart energy. A deep crimson-rose ground with a warm rose light at its heart
+   and a touch of gold at the top. The colour field drifts very slowly, and the light behind
+   the heading beats like a heart (a double "lub-dub" pulse, then rest). Only warm hues are
+   mixed here: rose blended with green turns grey. Both layers sit behind the content. */
+.home-cream .home-box-heart {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  background-color: #3a0a22;
+}
+.home-cream .home-box-heart::before {
+  content: "";
+  position: absolute;
+  inset: -15%;
+  z-index: -2;
+  background-image:
+    radial-gradient(ellipse 55% 40% at 50% 36%, rgba(214, 64, 112, 0.42), transparent 72%),
+    radial-gradient(ellipse 60% 30% at 50% 0%, rgba(240, 190, 110, 0.22), transparent 70%),
+    radial-gradient(circle at 10% 90%, rgba(150, 22, 70, 0.55), transparent 50%),
+    radial-gradient(circle at 92% 88%, rgba(120, 18, 62, 0.5), transparent 46%),
+    linear-gradient(165deg, #4a0d2b 0%, #6a1438 48%, #2e0819 100%);
+  animation: heart-drift 40s ease-in-out infinite alternate;
+  will-change: transform;
+}
+.home-cream .home-box-heart::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  width: min(680px, 115%);
+  aspect-ratio: 1;
+  z-index: -1;
+  pointer-events: none;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle,
+    rgba(255, 168, 176, 0.34) 0%,
+    rgba(232, 96, 136, 0.2) 28%,
+    rgba(190, 50, 100, 0.08) 50%,
+    transparent 68%
+  );
+  transform: translate(-50%, -50%) scale(0.92);
+  animation: heart-beat 4.2s ease-in-out infinite;
+}
+@keyframes heart-drift {
+  from { transform: scale(1) translate3d(-2%, -1%, 0) rotate(-1deg); }
+  to   { transform: scale(1.08) translate3d(2%, 1.5%, 0) rotate(1deg); }
+}
+@keyframes heart-beat {
+  0%   { transform: translate(-50%, -50%) scale(0.92); opacity: 0.55; }
+  12%  { transform: translate(-50%, -50%) scale(1.04); opacity: 1; }
+  22%  { transform: translate(-50%, -50%) scale(0.97); opacity: 0.7; }
+  32%  { transform: translate(-50%, -50%) scale(1.02); opacity: 0.92; }
+  60%  { transform: translate(-50%, -50%) scale(0.92); opacity: 0.55; }
+  100% { transform: translate(-50%, -50%) scale(0.92); opacity: 0.55; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .home-cream .home-box-heart::before,
+  .home-cream .home-box-heart::after {
+    animation: none;
+  }
+}
+
+/* Site header and footer on the home page: the starry Empower Thyself artwork under a dark veil, with
+   the colours flipped to light-on-dark (cream links, light gold accents; dropdown panels go dark navy). */
+.home-cream > header,
+.home-cream > footer {
+  background-image:
+    linear-gradient(rgba(8, 10, 28, 0.55), rgba(8, 10, 28, 0.7)),
+    url("/images/empower-thyself-bg.jpg");
+  background-size: cover;
+  background-position: center 28%;
+  --foreground: #f5efe0;
+  --muted-foreground: #e4d8c2;
+  --primary: #e3c36e;
+  --primary-foreground: #3a0d16;
+  --gold-light: #f2dc9a;
+  --brown-light: #cdbb9d;
+  --border: rgba(245, 239, 224, 0.28);
+  --background: #0c1226;
+  color: var(--foreground);
+}
+
+/* Small cards sitting inside a burgundy box stay cream, with the normal dark-on-cream text. */
+.home-cream .home-box .home-mini-card {
+  background-color: #fbf7ec;
+  --foreground: #2a2118;
+  --muted-foreground: #6b5f50;
+  --primary: #7a5c0f;
+  --primary-foreground: #fffaf0;
+  --gold: #7a5c0f;
+  --gold-light: #96721a;
+  --border: #d9ccb0;
+  --background: #f5efe0;
+  border-color: #d9ccb0;
+  color: var(--foreground);
+}
+
+/* the dark alchemical colour wash would muddy a cream page — keep it as a faint warm tint */
+.home-cream .magnum-opus-gradient {
+  background: linear-gradient(
+    to bottom,
+    rgba(245, 239, 224, 0) 0%,
+    rgba(212, 175, 55, 0.08) 40%,
+    rgba(212, 175, 55, 0.08) 70%,
+    rgba(201, 150, 90, 0.12) 100%
+  );
+}
+
+/* Artwork banners (quote breakers, newsletter): a light wash over the picture plus a soft
+   glow right behind the centred text — strong in the middle, clear toward the edges — so the
+   painting reads clearly while the text stays legible. */
+.home-cream .image-veil {
+  background-image:
+    radial-gradient(
+      ellipse 60% 70% at 50% 50%,
+      color-mix(in oklab, var(--background) 82%, transparent) 0%,
+      color-mix(in oklab, var(--background) 64%, transparent) 50%,
+      transparent 100%
+    ),
+    linear-gradient(
+      to bottom,
+      color-mix(in oklab, var(--background) 28%, transparent),
+      color-mix(in oklab, var(--background) 10%, transparent) 50%,
+      color-mix(in oklab, var(--background) 38%, transparent)
+    );
+}
+
+/* Same, with a wider and stronger glow — for banners whose text spreads across a busy picture. */
+.home-cream .image-veil--text {
+  background-image:
+    radial-gradient(
+      ellipse 78% 90% at 50% 50%,
+      color-mix(in oklab, var(--background) 93%, transparent) 0%,
+      color-mix(in oklab, var(--background) 82%, transparent) 55%,
+      transparent 100%
+    ),
+    linear-gradient(
+      to bottom,
+      color-mix(in oklab, var(--background) 28%, transparent),
+      color-mix(in oklab, var(--background) 10%, transparent) 50%,
+      color-mix(in oklab, var(--background) 38%, transparent)
+    );
+}
+
+/* dark-tone banners (night-sky picture): a dark shadow behind the light text */
+.home-cream figure.quote-dark blockquote {
+  text-shadow: 0 2px 24px rgba(0, 0, 0, 0.8) !important;
+}
+
+/* quote banners: a dark glow behind dark text would look dirty on cream */
+.home-cream figure blockquote {
+  text-shadow: 0 2px 22px rgba(255, 250, 240, 0.85) !important;
+}
+
 /* Respect users who prefer no motion */
 @media (prefers-reduced-motion: reduce) {
   .animate-kenburns,

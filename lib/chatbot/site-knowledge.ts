@@ -54,6 +54,12 @@ The Path of Initiation Prague
 force-dynamic
 The Path of Initiation
 Organization
+All Articles
+Continue Reading
+Walk the Path Yourself
+Every article on this blog is one step into a living tradition. If it speaks to you, Radu would be glad to guide you personally toward the right next step, here in Prague.
+Begin Your Journey
+Preview Mode — this post's release date has arrived, but it is not yet marked ready to post, so real visitors will not see it.
 
 ## PAGE: /blog
 King Salomon · Magick · Alchemy
@@ -315,22 +321,6 @@ Healing Session
 Reading Session
 
 ## PAGE: /healings
-https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
-https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
-https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
-8.500 CZK
-/life-activation
-/full-spirit-activation
-4.800 CZK
-/aura-healing
-6.150 CZK
-/ensofic-reiki
-/treating-negative-habits
-3.669 CZK
-/crystal-healing
-/soul-retrieval
-/spark-of-life
-/life-purpose-reading
 In the Lineage of King Salomon
 Healing Modalities
 A range of healings for body, mind and soul
@@ -770,7 +760,7 @@ Awakens and harmonises the body's seven energy centres.
 Know thyself, and thou shalt know
 the universe and the gods
 Inscribed at the Temple of Apollo · Delphi
-Ascent of the Blessed · H. Bosch, c. 1505
+Milky Way over the Temple of Poseidon, Sounion · Kouts182, CC BY-SA 4.0
 What you seek
 is seeking you
 Rumi · 13th Century
@@ -1214,9 +1204,19 @@ Calendar
 Community
 
 ## PAGE: (component) calendar-widget-section.tsx
-Explore Our Calendar
-See every activation, initiation, workshop and community gathering coming up in Prague.
+Would you like to join a class or a workshop?
+Explore our upcoming events
 View Calendar
+The Path Ahead
+Calendar of Classes
+Every activation, initiation, workshop and community gathering held in Prague and other international locations over the coming season. Follow the path one step at a time.
+New dates are being scheduled. Please check back soon.
+Activation
+Initiation
+Workshop
+Community
+Not sure where to begin? Reach out and Radu will guide you personally.
+Ask About a Class
 
 ## PAGE: (component) class-card.tsx
 inline-flex items-center justify-center gap-1 rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90
@@ -1298,11 +1298,11 @@ The result is a living system of knowledge that is profoundly applicable to the 
 /testimonials#maria-testimonial
 /testimonials#ana-testimonial
 /testimonials
+Do you want to become an initiate of the mysteries? Then read on.
 A Legacy That Speaks for Itself
 Years of Unbroken Lineage
 Countries Worldwide
-Thousands
-Of Lives Transformed
+Initiates Worldwide
 Follow the Journey of Our Students and Teachers
 Wall of Love
 The initiation ceremony was beyond my imagination. I felt genuinely welcome and it truly feels like I've found a community that I'm super happy to belong to.
@@ -1326,6 +1326,27 @@ How is this different from therapy or coaching?
 This is spiritual and energetic work, not a medical or psychological service — it doesn't replace therapy or any treatment prescribed by a doctor. Many people do both, side by side.
 How do I know which session is right for me?
 Reach out on WhatsApp and share a little about what's going on — Radu and Diana will guide you to understand what will benefit you the most in your current situation.
+
+## PAGE: (component) first-steps-section.tsx
+Where to begin
+Your first step on the path
+You don't need to commit to everything at once. The path unfolds one step at a time, and each step is complete in itself.
+Start here
+Learn more
+One-to-one · about 2 hours · in person in Prague
+A one-to-one session with Radu or Diana, both certified Life Activation practitioners who recertify every year. It awakens the gifts already encoded in your DNA: you sit and stand comfortably while your energy is cleared and balanced, then 22 of the 24 strands of your physical and spiritual DNA are activated, followed by a short reading. There is nothing to prepare: you simply receive.
+Afterwards people often feel warmth, emotion, deep relaxation or new clarity, and the activation keeps unfolding over the next one to three months.
+2-day initiation · in Prague
+For when you're ready to go deeper. Over two days you receive the teachings, practical tools and sacred initiation ceremony that make you an Initiate in the lineage of King Salomon, with everything you need to keep transforming on your own.
+Keep walking
+Healer training · classes · community
+From there, the path is yours to shape: become a certified healer in the Modern Mystery School tradition through Healers Academy, study workshops such as Sacred Geometry and Astral Travel, and grow with a warm community in Prague that walks the path with you.
+See upcoming classes
+Not sure which step is right for you? Ask us on WhatsApp
+Your Invitation
+Are You Ready to Walk the Path?
+The door is open, but only you can choose to step through it. If you feel the call, let's start with the beginning: the Life Activation.
+Book a Life Activation
 
 ## PAGE: (component) footer.tsx
 PATH OF
@@ -1420,13 +1441,11 @@ The deathless adept
 Statesman of conscience
 Frequency and light
 Architect of the spirit
-The mystic healer
 What if you could access the exact same path, tools and power they did — what would your legacy be?
 Portraits: historical artworks & photographs, Wikimedia Commons.
 
 ## PAGE: (component) header.tsx
 PATH OF
-https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation.
 Activations & Initiations
 Healing & Workshops
 About
@@ -1463,13 +1482,41 @@ Frequently Asked Questions
 Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
 
+## PAGE: (component) healings-widget-section.tsx
+One-to-one healing in Prague
+Are you looking for healing for yourself or a loved one?
+Stress, heaviness, old patterns, a body or a heart that needs relief — whatever you are carrying, you don't have to carry it alone. Every session is personal, in a safe and caring space, and many leave feeling lighter, clearer and more like themselves again.
+One-to-one, personal sessions
+In person in Prague or at a distance
+Not sure which one? We'll help you choose
+Explore all healings
+Help me choose
+Hello, I am looking for a healing and would like help choosing the right one for me.
+
 ## PAGE: (component) hero-section.tsx
 Prague, Czech Republic
 The Path of Initiation:
 A 3,000-Year-Old Lineage
-For millennia, this sacred lineage was guarded in silence. Recognizable figures — Leonardo da Vinci, Nikola Tesla, Isaac Newton — have walked this very path to understand the physical and spiritual worlds, but the mystery schools themselves were hidden, nearly impossible to find, and would not accept just anyone into their sacred halls.
-Today though, the doors of one mystery school are open to the public. We are privileged to live in an era where anyone who feels the call can choose to study the mysteries and awaken to their true potential. This is a school where magick is a core part of existence, where the soul is developed and healed, and where the divine purpose of each person is discovered and fulfilled.
-Discover if this Path is for you
+Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, certified teachers of the Modern Mystery School.
+For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call. No experience or belief needed.
+I'm looking for healing
+I want to learn & grow
+Not sure where to begin? Ask us on WhatsApp
+
+## PAGE: (component) initiate-invite.tsx
+Do you want to become an initiate of the mysteries? Then read on.
+A Legacy That Speaks for Itself
+Years of Unbroken Lineage
+Countries Worldwide
+Initiates Worldwide
+Follow the Journey of Our Students and Teachers
+Wall of Love
+The initiation ceremony was beyond my imagination. I felt genuinely welcome and it truly feels like I've found a community that I'm super happy to belong to.
+Maria from Czech Republic
+Radu didn't tell me what to do and what not to do. He really helps me to hear my own truth, my own clarity.
+Ana from Czech Republic
+I came seeking answers and found a whole new dimension of life. The tools I received are beyond anything I imagined.
+Sophie from Canada
 
 ## PAGE: (component) modality-faq.tsx
 ./ui/accordion
@@ -1528,6 +1575,10 @@ By mastering the arts and sciences of Sacred Geometry, Astral Travel, Kabbalah a
 Serving Others
 Life is not complete, and you cannot fully understand it, unless you also strive to be of service to others. By guiding, healing, teaching and generally supporting others in their needs, you become the full version of yourself.
 
+## PAGE: (component) quote-breaker.tsx
+--primary
+--background
+
 ## PAGE: (component) sacred-geometry-series-links.tsx
 sacred-geometry
 Sacred Geometry I
@@ -1550,10 +1601,15 @@ This is Not a Weekend Workshop
 Let us be clear: The Path of Initiation is a rigorous training program. It involves months of dedicated study, constant practice, and an unwavering commitment to your own transformation. This is not a casual seminar or a feel-good retreat.
 This is a sacred commitment to become the greatest version of yourself — to unlock powers that most people will never know exist, and to step into a lineage that has shaped the course of human history.
 What is expected of you
-An open mind and a willingness to challenge your current assumptions
-Daily practice of the tools and techniques
-A genuine desire for self-mastery
-Willingness to serve and uplift yourself and others
+An open mind
+A willingness to explore new perspectives and challenge your current assumptions.
+Daily practice
+Consistent application of the tools and techniques in your everyday life.
+A commitment to self-mastery
+A genuine desire to understand yourself, develop your potential, and take responsibility for your own evolution.
+A spirit of service
+A willingness to use your growth and development to uplift yourself and positively contribute to the lives of others.
+This is your journey, your investment, and your responsibility. You undertake this work for your own evolution and for the life you choose to create. No one can do it for you.
 
 ## PAGE: (component) withdrawal-form.tsx
 w-full rounded-sm border border-border bg-background/60 px-4 py-3 text-base text-foreground placeholder:text-muted-foreground backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary
@@ -1580,4 +1636,22 @@ Submit withdrawal notice
 Submitting…
 Received — check your inbox for a confirmation e-mail.
 Something went wrong. Please try again, or e-mail us directly at radu@thepathofinitiationprague.com.
-All fields are required unless marked optional.`;
+All fields are required unless marked optional.
+
+## PAGE: (data) healings.ts
+https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
+https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
+https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
+8.500 CZK
+/life-activation
+/full-spirit-activation
+4.800 CZK
+/aura-healing
+6.150 CZK
+/ensofic-reiki
+/treating-negative-habits
+3.669 CZK
+/crystal-healing
+/soul-retrieval
+/spark-of-life
+/life-purpose-reading`;

@@ -12,7 +12,7 @@ export function CTASection() {
     <section id="apply" className="relative py-24 lg:py-32">
       <div className="relative z-10 mx-auto max-w-3xl px-6 text-center">
         <ScrollReveal>
-          <div className="border border-primary/50 bg-card p-12 md:p-16">
+          <div className="home-box border border-primary/50 bg-card p-12 md:p-16">
             <div className="mx-auto mb-8 h-px w-16 bg-primary/60" />
             <p className="mb-3 font-serif text-sm tracking-[0.3em] text-primary uppercase">
               {t("eyebrow")}

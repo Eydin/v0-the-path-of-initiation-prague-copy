@@ -3,10 +3,11 @@
     "location": "Prague, Czech Republic",
     "titleLine1": "The Path of Initiation:",
     "titleLine2": "A 3,000-Year-Old Lineage",
-    "intro1": "For millennia, this sacred lineage was guarded in silence. Recognizable figures — Leonardo da Vinci, Nikola Tesla, Isaac Newton — have walked this very path to understand the physical and spiritual worlds, but the mystery schools themselves were hidden, nearly impossible to find, and would not accept just anyone into their sacred halls.",
-    "intro2": "Today though, the doors of one mystery school are open to the public. We are privileged to live in an era where <emphasis>anyone</emphasis> who feels the call can choose to study the mysteries and awaken to their true potential. This is a school where <emphasis>magick</emphasis> is a core part of existence, where the <emphasis>soul</emphasis> is developed and healed, and where the <emphasis>divine purpose</emphasis> of each person is discovered and fulfilled.",
-    "ctaLabel": "Discover if this Path is for you",
-    "whatsapp": "WhatsApp"
+    "subtitle": "Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, certified teachers of the Modern Mystery School.",
+    "intro": "For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call. No experience or belief needed.",
+    "doorHealing": "I'm looking for healing",
+    "doorLearn": "I want to learn & grow",
+    "askLink": "Not sure where to begin? Ask us on WhatsApp"
   },
   "Header": {
     "activationsGroup": "Activations & Initiations",
@@ -65,16 +66,17 @@
     "seeFullCalendar": "See the full calendar"
   },
   "CalendarWidget": {
-    "heading": "Explore Our Calendar",
-    "body": "See every activation, initiation, workshop and community gathering coming up in Prague.",
+    "heading": "Would you like to join a class or a workshop?",
+    "body": "Explore our upcoming events",
     "button": "View Calendar"
   },
   "Facts": {
+    "intro": "Do you want to become an initiate of the mysteries? Then read on.",
     "heading": "A Legacy That Speaks for Itself",
     "stats": [
       { "number": "3,000+", "label": "Years of Unbroken Lineage" },
-      { "number": "60+", "label": "Countries Worldwide" },
-      { "number": "Thousands", "label": "Of Lives Transformed" }
+      { "number": "55", "label": "Countries Worldwide" },
+      { "number": "44,000+", "label": "Initiates Worldwide" }
     ],
     "videosHeading": "Follow the Journey of Our Students and Teachers",
     "wallOfLove": "Wall of Love",
@@ -123,11 +125,24 @@
     "body2": "This is a <emphasis>sacred commitment</emphasis> to become the greatest version of yourself — to unlock powers that most people will never know exist, and to step into a lineage that has shaped the course of human history.",
     "expectedHeading": "What is expected of you",
     "expectations": [
-      "An open mind and a willingness to challenge your current assumptions",
-      "Daily practice of the tools and techniques",
-      "A genuine desire for self-mastery",
-      "Willingness to serve and uplift yourself and others"
-    ]
+      {
+        "title": "An open mind",
+        "description": "A willingness to explore new perspectives and challenge your current assumptions."
+      },
+      {
+        "title": "Daily practice",
+        "description": "Consistent application of the tools and techniques in your everyday life."
+      },
+      {
+        "title": "A commitment to self-mastery",
+        "description": "A genuine desire to understand yourself, develop your potential, and take responsibility for your own evolution."
+      },
+      {
+        "title": "A spirit of service",
+        "description": "A willingness to use your growth and development to uplift yourself and positively contribute to the lives of others."
+      }
+    ],
+    "expectedClosing": "This is your journey, your investment, and your responsibility. You undertake this work for your own evolution and for the life you choose to create. No one can do it for you."
   },
   "CTA": {
     "eyebrow": "Your Invitation",
@@ -236,8 +251,7 @@
       { "role": "The deathless adept" },
       { "role": "Statesman of conscience" },
       { "role": "Frequency and light" },
-      { "role": "Architect of the spirit" },
-      { "role": "The mystic healer" }
+      { "role": "Architect of the spirit" }
     ],
     "closing": "What if you could access the <emphasis>exact same</emphasis> path, tools and power they did — what would your legacy be?",
     "portraitsCredit": "Portraits: historical artworks & photographs, Wikimedia Commons."
@@ -1143,7 +1157,7 @@
       "text": "Know thyself, and thou shalt know",
       "emphasis": "the universe and the gods",
       "attribution": "Inscribed at the Temple of Apollo · Delphi",
-      "caption": "Ascent of the Blessed · H. Bosch, c. 1505"
+      "caption": "Milky Way over the Temple of Poseidon, Sounion · Kouts182, CC BY-SA 4.0"
     },
     "quote2": {
       "text": "What you seek",
@@ -1597,5 +1611,41 @@
     "duration": "1 Hour",
     "bookingNote": "Dates to be announced. Reach out and we will let you know when the next Max Meditation takes place in Prague.",
     "inquiry": "Hello, I would like to learn more about Max Meditation."
+  },
+  "HealingsWidget": {
+    "eyebrow": "One-to-one healing in Prague",
+    "heading": "Are you looking for healing for yourself or a loved one?",
+    "body": "Stress, heaviness, old patterns, a body or a heart that needs relief — whatever you are carrying, you don't have to carry it alone. Every session is personal, in a safe and caring space, and many leave feeling lighter, clearer and more like themselves again.",
+    "perks": [
+      "One-to-one, personal sessions",
+      "In person in Prague or at a distance",
+      "Not sure which one? We'll help you choose"
+    ],
+    "button": "Explore all healings",
+    "askButton": "Help me choose",
+    "inquiry": "Hello, I am looking for a healing and would like help choosing the right one for me."
+  },
+  "FirstSteps": {
+    "eyebrow": "Where to begin",
+    "heading": "Your first step on the path",
+    "intro": "You don't need to commit to everything at once. The path unfolds one step at a time, and each step is complete in itself.",
+    "startHere": "Start here",
+    "learnMore": "Learn more",
+    "step1": {
+      "meta": "One-to-one · about 2 hours · in person in Prague",
+      "body": "A one-to-one session with Radu or Diana, both certified Life Activation practitioners who recertify every year. It awakens the gifts already encoded in your DNA: you sit and stand comfortably while your energy is cleared and balanced, then 22 of the 24 strands of your physical and spiritual DNA are activated, followed by a short reading. There is nothing to prepare: you simply receive.",
+      "feel": "Afterwards people often feel warmth, emotion, deep relaxation or new clarity, and the activation keeps unfolding over the next one to three months."
+    },
+    "step2": {
+      "meta": "2-day initiation · in Prague",
+      "body": "For when you're ready to go deeper. Over two days you receive the teachings, practical tools and sacred initiation ceremony that make you an Initiate in the lineage of King Salomon, with everything you need to keep transforming on your own."
+    },
+    "step3": {
+      "title": "Keep walking",
+      "meta": "Healer training · classes · community",
+      "body": "From there, the path is yours to shape: become a certified healer in the Modern Mystery School tradition through Healers Academy, study workshops such as Sacred Geometry and Astral Travel, and grow with a warm community in Prague that walks the path with you.",
+      "link": "See upcoming classes"
+    },
+    "askLink": "Not sure which step is right for you? Ask us on WhatsApp"
   }
 }

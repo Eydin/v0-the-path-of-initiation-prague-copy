@@ -14,6 +14,8 @@ interface ParallaxImageProps {
   kenBurns?: boolean
   priority?: boolean
   className?: string
+  /** keep the full left/right edges (only oversize vertically) — for pictures with something important at the sides */
+  keepSides?: boolean
 }
 
 /**
@@ -29,6 +31,7 @@ export function ParallaxImage({
   kenBurns = true,
   priority = false,
   className = "",
+  keepSides = false,
 }: ParallaxImageProps) {
   const ref = useRef<HTMLDivElement>(null)
   const { scrollYProgress } = useScroll({
@@ -40,7 +43,7 @@ export function ParallaxImage({
   return (
     <div ref={ref} className={`absolute inset-0 overflow-hidden ${className}`}>
       {/* oversized so the parallax drift never reveals an edge */}
-      <motion.div style={{ y }} className="absolute inset-[-12%]">
+      <motion.div style={{ y }} className={`absolute ${keepSides ? "inset-x-0 inset-y-[-12%]" : "inset-[-12%]"}`}>
         <Image
           src={src}
           alt={alt}

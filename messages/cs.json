@@ -3,10 +3,11 @@
     "location": "Praha, Česká republika",
     "titleLine1": "Cesta iniciace:",
     "titleLine2": "3000 let stará linie",
-    "intro1": "Po tisíciletí byla tato posvátná linie střežena v tichosti. Významné osobnosti — Leonardo da Vinci, Nikola Tesla, Isaac Newton — kráčely touto cestou, aby porozuměly fyzickému i duchovnímu světu, ale samotné mysterijní školy zůstávaly skryté, téměř nemožné najít, a nepřijímaly do svých posvátných síní jen tak někoho.",
-    "intro2": "Dnes jsou však dveře jedné mysterijní školy otevřené veřejnosti. Máme tu výsadu žít v době, kdy si <emphasis>kdokoli</emphasis>, kdo cítí volání, může zvolit studium mystérií a probuzení svého skutečného potenciálu. Je to škola, kde je <emphasis>magie</emphasis> nedílnou součástí existence, kde se rozvíjí a léčí <emphasis>duše</emphasis> a kde je objevováno a naplňováno <emphasis>božské poslání</emphasis> každého člověka.",
-    "ctaLabel": "Zjistěte, zda je tato cesta pro vás",
-    "whatsapp": "WhatsApp"
+    "subtitle": "Léčení, meditace a duchovní výcvik v Praze s Radu a Dianou Coman, certifikovanými učiteli Modern Mystery School.",
+    "intro": "Po tisíce let mysterijní školy předávaly praktické nástroje, jak poznat sebe sama, uzdravit tělo i duši a žít smysluplný život: cestu, kterou kráčeli Leonardo da Vinci, Nikola Tesla a Isaac Newton. Dnes je otevřená každému, kdo cítí volání. Nepotřebujete žádné zkušenosti ani víru.",
+    "doorHealing": "Hledám léčení",
+    "doorLearn": "Chci se učit a růst",
+    "askLink": "Nevíte, kde začít? Zeptejte se nás na WhatsAppu"
   },
   "Header": {
     "activationsGroup": "Aktivace a iniciace",
@@ -65,16 +66,17 @@
     "seeFullCalendar": "Zobrazit celý kalendář"
   },
   "CalendarWidget": {
-    "heading": "Prozkoumejte náš kalendář",
-    "body": "Podívejte se na všechny nadcházející aktivace, zasvěcení, workshopy a komunitní setkání v Praze.",
+    "heading": "Chcete se zúčastnit kurzu nebo workshopu?",
+    "body": "Prozkoumejte naše nadcházející události",
     "button": "Zobrazit kalendář"
   },
   "Facts": {
+    "intro": "Chcete se stát zasvěcencem mystérií? Čtěte dál.",
     "heading": "Odkaz, který mluví sám za sebe",
     "stats": [
       { "number": "3000+", "label": "Let nepřerušené linie" },
-      { "number": "60+", "label": "Zemí po celém světě" },
-      { "number": "Tisíce", "label": "Proměněných životů" }
+      { "number": "55", "label": "Zemí po celém světě" },
+      { "number": "44 000+", "label": "Zasvěcenců po celém světě" }
     ],
     "videosHeading": "Sledujte cestu našich studentů a učitelů",
     "wallOfLove": "Zeď lásky",
@@ -123,11 +125,24 @@
     "body2": "Toto je <emphasis>posvátný závazek</emphasis> stát se tou nejlepší verzí sebe sama — odemknout síly, o jejichž existenci většina lidí nikdy nebude vědět, a vstoupit do linie, která formovala běh lidských dějin.",
     "expectedHeading": "Co se od vás očekává",
     "expectations": [
-      "Otevřená mysl a ochota zpochybnit své současné domněnky",
-      "Každodenní praxe nástrojů a technik",
-      "Upřímná touha po sebeovládání",
-      "Ochota sloužit a povznášet sebe i druhé"
-    ]
+      {
+        "title": "Otevřená mysl",
+        "description": "Ochota zkoumat nové pohledy a zpochybnit své současné domněnky."
+      },
+      {
+        "title": "Každodenní praxe",
+        "description": "Důsledné uplatňování nástrojů a technik ve vašem každodenním životě."
+      },
+      {
+        "title": "Odhodlání k sebeovládání",
+        "description": "Upřímná touha poznat sebe sama, rozvinout svůj potenciál a převzít zodpovědnost za svůj vlastní vývoj."
+      },
+      {
+        "title": "Duch služby",
+        "description": "Ochota využít svůj růst a rozvoj k povznesení sebe sama a k pozitivnímu přispění do životů druhých."
+      }
+    ],
+    "expectedClosing": "Toto je vaše cesta, vaše investice a vaše zodpovědnost. Tuto práci podstupujete pro svůj vlastní vývoj a pro život, který se rozhodnete vytvořit. Nikdo ji za vás udělat nemůže."
   },
   "CTA": {
     "eyebrow": "Vaše pozvání",
@@ -236,8 +251,7 @@
       { "role": "Nesmrtelný adept" },
       { "role": "Státník svědomí" },
       { "role": "Frekvence a světlo" },
-      { "role": "Architekt ducha" },
-      { "role": "Mystický léčitel" }
+      { "role": "Architekt ducha" }
     ],
     "closing": "Co kdybyste mohli získat přístup k <emphasis>úplně stejné</emphasis> cestě, nástrojům a síle, jaké měli oni — jaký by byl váš odkaz?",
     "portraitsCredit": "Portréty: historická umělecká díla a fotografie, Wikimedia Commons."
@@ -1104,7 +1118,7 @@
       "text": "Poznej sám sebe, a poznáš",
       "emphasis": "vesmír i bohy",
       "attribution": "Vyryto na chrámu v Delfách",
-      "caption": "Nanebevstoupení blažených · H. Bosch, kolem 1505"
+      "caption": "Mléčná dráha nad Poseidonovým chrámem, Sounion · Kouts182, CC BY-SA 4.0"
     },
     "quote2": {
       "text": "To, co hledáš,",
@@ -1558,5 +1572,41 @@
     "duration": "1 hodina",
     "bookingNote": "Termíny budou oznámeny. Ozvěte se a dáme vám vědět, kdy se v Praze uskuteční další Max Meditation.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Max Meditation."
+  },
+  "HealingsWidget": {
+    "eyebrow": "Individuální léčení v Praze",
+    "heading": "Hledáte léčení pro sebe nebo pro někoho blízkého?",
+    "body": "Stres, tíha, staré vzorce, tělo nebo srdce, které potřebuje úlevu — ať nesete cokoli, nemusíte to nést sami. Každé sezení je osobní, v bezpečném a laskavém prostoru, a mnozí odcházejí lehčí, jasnější a znovu více sami sebou.",
+    "perks": [
+      "Individuální, osobní sezení",
+      "Osobně v Praze nebo na dálku",
+      "Nevíte, které vybrat? Pomůžeme vám"
+    ],
+    "button": "Prozkoumat všechna léčení",
+    "askButton": "Pomozte mi vybrat",
+    "inquiry": "Dobrý den, hledám léčení a rád/a bych pomohl/a s výběrem toho pravého pro mě."
+  },
+  "FirstSteps": {
+    "eyebrow": "Kde začít",
+    "heading": "Váš první krok na cestě",
+    "intro": "Nemusíte se hned zavázat ke všemu. Cesta se odvíjí krok za krokem a každý krok je celistvý sám o sobě.",
+    "startHere": "Začněte zde",
+    "learnMore": "Zjistit více",
+    "step1": {
+      "meta": "Individuálně · asi 2 hodiny · osobně v Praze",
+      "body": "Individuální sezení s Radu nebo Dianou, kteří jsou oba certifikovanými praktiky Life Activation a každý rok obnovují svou certifikaci. Probouzí dary již zakódované ve vaší DNA: pohodlně sedíte a stojíte, zatímco je vaše energie očištěna a vyvážena, poté je aktivováno 22 z 24 vláken vaší fyzické a duchovní DNA a následuje krátké čtení. Nic nemusíte připravovat: jednoduše přijímáte.",
+      "feel": "Lidé poté často pociťují teplo, emoce, hluboké uvolnění nebo novou jasnost a aktivace se dále rozvíjí během následujících jednoho až tří měsíců."
+    },
+    "step2": {
+      "meta": "Dvoudenní iniciace · v Praze",
+      "body": "Pro chvíli, kdy jste připraveni jít hlouběji. Během dvou dnů obdržíte učení, praktické nástroje a posvátný iniciační obřad, díky nimž se stanete Zasvěcencem v linii krále Šalomouna, se vším, co potřebujete, abyste se mohli dál proměňovat sami."
+    },
+    "step3": {
+      "title": "Kráčejte dál",
+      "meta": "Výcvik léčitelů · kurzy · komunita",
+      "body": "Odtud je cesta na vás: staňte se certifikovaným léčitelem v tradici Modern Mystery School prostřednictvím Healers Academy, studujte workshopy jako Sacred Geometry a astrální cestování a rosťte s vřelou komunitou v Praze, která jde touto cestou s vámi.",
+      "link": "Zobrazit nadcházející kurzy"
+    },
+    "askLink": "Nevíte, který krok je pro vás ten pravý? Zeptejte se nás na WhatsAppu"
   }
 }

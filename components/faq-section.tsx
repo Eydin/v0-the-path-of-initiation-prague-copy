@@ -31,9 +31,13 @@ export function FAQSection() {
         </ScrollReveal>
 
         <ScrollReveal delay={0.1}>
-          <Accordion type="single" collapsible className="border border-border bg-card px-6 md:px-8">
+          <Accordion type="single" collapsible className="home-box home-box-green flex flex-col gap-3 rounded-2xl border border-border bg-card p-4 md:p-6">
             {items.map((item, i) => (
-              <AccordionItem key={i} value={`item-${i}`} className="border-border">
+              <AccordionItem
+                key={i}
+                value={`item-${i}`}
+                className="rounded-2xl border-0 bg-[#2a6e50] px-6 transition-colors hover:bg-[#318059] data-[state=open]:bg-[#318059]"
+              >
                 <AccordionTrigger className="font-serif text-lg tracking-wide text-foreground hover:no-underline [&[data-state=open]>svg]:rotate-180">
                   {item.q}
                 </AccordionTrigger>
