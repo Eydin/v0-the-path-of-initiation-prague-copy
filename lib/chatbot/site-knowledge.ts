@@ -770,7 +770,7 @@ Awakens and harmonises the body's seven energy centres.
 Know thyself, and thou shalt know
 the universe and the gods
 Inscribed at the Temple of Apollo · Delphi
-Ascent of the Blessed · H. Bosch, c. 1505
+Milky Way over the Temple of Poseidon, Sounion · Kouts182, CC BY-SA 4.0
 What you seek
 is seeking you
 Rumi · 13th Century
@@ -1422,7 +1422,6 @@ Portraits: historical artworks & photographs, Wikimedia Commons.
 
 ## PAGE: (component) header.tsx
 PATH OF
-https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation.
 Activations & Initiations
 Healing & Workshops
 About
@@ -1526,6 +1525,10 @@ Study & Learn
 By mastering the arts and sciences of Sacred Geometry, Astral Travel, Kabbalah and many more, you become a master of your physical life.
 Serving Others
 Life is not complete, and you cannot fully understand it, unless you also strive to be of service to others. By guiding, healing, teaching and generally supporting others in their needs, you become the full version of yourself.
+
+## PAGE: (component) quote-breaker.tsx
+--primary
+--background
 
 ## PAGE: (component) sacred-geometry-series-links.tsx
 sacred-geometry

@@ -8,6 +8,7 @@ import { PillarsSection } from "@/components/pillars-section"
 import { TeaserSection } from "@/components/teaser-section"
 import { CTASection } from "@/components/cta-section"
 import { GuideSection } from "@/components/guide-section"
+import { InitiateInvite } from "@/components/initiate-invite"
 import { ClassesSection } from "@/components/classes-section"
 import { FAQSection } from "@/components/faq-section"
 import { EndingSection } from "@/components/ending-section"
@@ -30,12 +31,16 @@ export default function Home() {
         <HeroSection />
         <CalendarWidgetSection />
         <HealingsWidgetSection />
+        <InitiateInvite />
+        <GuideSection />
         <FactsSection />
         <PillarsSection />
         <FAQSection />
 
         <QuoteBreaker
-          image="ascent-blessed-bosch.jpg"
+          image="ancient-versus-eternal-sounion.jpg"
+          tone="dark"
+          keepSides
           quote={
             <>
               &ldquo;{t("quote1.text")} <em className="text-primary">{t("quote1.emphasis")}</em>.&rdquo;
@@ -43,14 +48,13 @@ export default function Home() {
           }
           attribution={t("quote1.attribution")}
           caption={t("quote1.caption")}
-          position="center 42%"
+          position="center 62%"
         />
 
         <HallOfInitiates />
 
         <TeaserSection />
         <CTASection />
-        <GuideSection />
         <ClassesSection />
 
         <QuoteBreaker

@@ -1,6 +1,6 @@
 "use client"
 
-import type { ReactNode } from "react"
+import type { CSSProperties, ReactNode } from "react"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { ParallaxImage } from "@/components/parallax-image"
 
@@ -15,16 +15,33 @@ interface QuoteBreakerProps {
   position?: string
   /** optional call-to-action rendered under the attribution */
   cta?: ReactNode
+  /** "dark" is for dark pictures (night sky): dark veil with cream text and light gold accents */
+  tone?: "light" | "dark"
+  /** show the picture's full left/right edges (no sideways crop) */
+  keepSides?: boolean
 }
 
-export function QuoteBreaker({ image, quote, attribution, caption, position = "center", cta }: QuoteBreakerProps) {
+const DARK_TONE_VARS = {
+  "--foreground": "#f5efe0",
+  "--primary": "#e3c36e",
+  "--background": "#0b1020",
+} as CSSProperties
+
+export function QuoteBreaker({ image, quote, attribution, caption, position = "center", cta, tone = "light", keepSides = false }: QuoteBreakerProps) {
+  const dark = tone === "dark"
   return (
     <figure
-      className="relative m-0 flex items-center justify-center overflow-hidden"
-      style={{ minHeight: "clamp(440px, 66vh, 660px)" }}
+      className={`relative m-0 flex items-center justify-center overflow-hidden ${dark ? "quote-dark" : ""}`}
+      style={{ minHeight: "clamp(440px, 66vh, 660px)", ...(dark ? DARK_TONE_VARS : {}) }}
     >
-      <ParallaxImage src={`/images/art/${image}`} alt="" position={position} strength={70} />
-      <div className="image-veil absolute inset-0 bg-gradient-to-b from-background/75 via-background/55 to-background/80" />
+      <ParallaxImage src={`/images/art/${image}`} alt="" position={position} strength={70} keepSides={keepSides} kenBurns={!keepSides} />
+      <div
+        className={
+          dark
+            ? "absolute inset-0 bg-gradient-to-b from-black/45 via-black/25 to-black/55"
+            : "image-veil absolute inset-0 bg-gradient-to-b from-background/75 via-background/55 to-background/80"
+        }
+      />
 
       <div className="relative z-10 mx-auto max-w-3xl px-6 text-center">
         <ScrollReveal>
