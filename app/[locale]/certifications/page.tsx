@@ -33,9 +33,9 @@ export default async function Certifications({
   const t = await getTranslations({ locale, namespace: "CertificationsPage" })
 
   return (
-    <>
+    <div className="home-cream isolate overflow-x-hidden">
       <Header />
-      <main className="pt-20 bg-[url('/images/empower-thyself-bg.jpg')] bg-fixed bg-cover">
+      <main className="pt-20 bg-[linear-gradient(rgba(245,239,224,0.86),rgba(245,239,224,0.93)),url('/images/empower-thyself-bg.jpg')] bg-fixed bg-cover">
         <div className="relative z-10">
           {/* Hero Section */}
           <section className="relative py-24 lg:py-32">
@@ -314,6 +314,6 @@ export default async function Certifications({
         </div>
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

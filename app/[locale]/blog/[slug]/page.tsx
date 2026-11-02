@@ -120,7 +120,7 @@ export default async function BlogPostPage({
   }
 
   return (
-    <>
+    <div className="home-cream isolate overflow-x-hidden">
       <Header />
       {showBanner && (
         <div className="fixed top-20 left-0 right-0 z-40 bg-amber-500 px-4 py-2 text-center text-sm font-semibold text-black">
@@ -225,6 +225,6 @@ export default async function BlogPostPage({
         </section>
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

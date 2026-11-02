@@ -47,7 +47,7 @@ export default async function EmpowerThyself({
   const nextSteps = Array.from({ length: 5 }, (_, i) => i)
 
   return (
-    <ModalityShell bg="accolade-leighton.jpg" position="center 20%">
+    <ModalityShell bg="accolade-leighton.jpg" position="center 20%" veil={false}>
       <ModalityHero
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle", { brand: BRAND.empowerThyself })}

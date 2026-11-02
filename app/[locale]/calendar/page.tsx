@@ -46,18 +46,16 @@ export default async function CalendarPage({
   const total = getAllUpcomingEvents().length
 
   return (
-    <>
+    <div className="home-cream isolate overflow-x-hidden">
       <Header />
       <main className="relative min-h-screen bg-[url('/images/art/starry-rhone-gogh.jpg')] bg-cover bg-fixed bg-center pt-20">
-        {/* lighter veil at the top so the painting reads, deepening down the page for legibility */}
-        <div className="absolute inset-0 -z-0 bg-gradient-to-b from-black/70 via-black/85 to-black/95" />
-
         <div className="relative z-10">
           {/* ── Hero ──────────────────────────────────────────────── */}
-          <section className="relative py-20 lg:py-28">
+          <section className="on-image relative py-20 lg:py-28">
             <div className="mx-auto max-w-7xl px-6">
               <ScrollReveal>
-                <div className="mx-auto max-w-3xl text-center">
+                {/* dark glass panel: the Van Gogh painting is too busy for text straight on it */}
+                <div className="mx-auto max-w-3xl rounded-lg border border-white/10 bg-[#0c1226]/70 px-6 py-10 text-center backdrop-blur-md md:px-12">
                   <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
                     {t("eyebrow")}
                   </p>
@@ -84,7 +82,7 @@ export default async function CalendarPage({
             <div className="mx-auto max-w-3xl px-6">
               {months.length === 0 && (
                 <ScrollReveal>
-                  <p className="text-center text-lg text-muted-foreground">
+                  <p className="on-image rounded-lg bg-[#0c1226]/70 px-6 py-4 text-center text-lg text-muted-foreground backdrop-blur-md">
                     {t("empty")}
                   </p>
                 </ScrollReveal>
@@ -95,7 +93,7 @@ export default async function CalendarPage({
                   <ScrollReveal key={group.monthKey}>
                     <div>
                       {/* month header */}
-                      <div className="mb-8 flex items-baseline gap-4">
+                      <div className="on-image mb-8 flex items-baseline gap-4 rounded-lg border border-white/10 bg-[#142b66]/80 px-5 py-3 backdrop-blur-md">
                         <h2 className="font-serif text-2xl tracking-wide text-primary md:text-3xl">
                           {format.dateTime(parseLocalDate(group.sampleDate), { month: "long", year: "numeric", timeZone: "UTC" })}
                         </h2>
@@ -124,25 +122,26 @@ export default async function CalendarPage({
                           const categoryLabel = t(`categories.${ev.category}`)
                           return (
                             <li key={`${ev.slug}-${ev.date}`} className="relative pl-9">
-                              {/* node on the path — filled for Activations, highlighted for Initiations, hollow for Workshops */}
+                              {/* node on the path, in full colour per category: gold Activations, burgundy
+                                  Initiations, green Workshops, blue Community (matches the legend below) */}
                               <span
                                 aria-hidden
                                 className={`absolute left-[3px] top-7 h-[11px] w-[11px] rotate-45 border border-primary transition-colors ${
                                   isActivation
-                                    ? "bg-primary/50"
+                                    ? "bg-[#e3c36e]"
                                     : isInitiation
-                                      ? "bg-primary"
+                                      ? "bg-[#7a1f33]"
                                       : isWorkshop
-                                        ? "bg-emerald-500/50"
+                                        ? "bg-emerald-500"
                                         : isCommunity
-                                          ? "bg-blue-500/50"
+                                          ? "bg-blue-500"
                                           : "bg-background"
                                 }`}
                               />
 
                               <Link
                                 href={`/${ev.slug}`}
-                                className="group flex items-stretch gap-4 rounded-lg border border-primary/15 bg-card/60 p-4 backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/50 hover:bg-card/80 hover:shadow-[0_8px_30px_-12px_rgba(212,175,55,0.35)] sm:gap-5 sm:p-5"
+                                className="group flex items-stretch gap-4 rounded-lg border border-primary/15 bg-card/95 p-4 backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/50 hover:bg-card hover:shadow-[0_8px_30px_-12px_rgba(212,175,55,0.35)] sm:gap-5 sm:p-5"
                               >
                                 {/* illuminated date seal */}
                                 <div className="relative flex w-16 flex-shrink-0 flex-col items-center justify-center rounded-md border border-primary/30 bg-background/50 py-2.5 transition-colors group-hover:border-primary/60">
@@ -198,14 +197,14 @@ export default async function CalendarPage({
 
               {/* legend + closing CTA */}
               <ScrollReveal>
-                <div className="mt-16 border-t border-primary/15 pt-10 text-center">
+                <div className="on-image mt-16 rounded-lg border border-white/10 bg-[#0c1226]/70 px-6 py-10 text-center backdrop-blur-md">
                   <div className="mb-8 flex flex-wrap items-center justify-center gap-x-6 gap-y-3 text-xs uppercase tracking-[0.2em] text-muted-foreground">
                     <span className="inline-flex items-center gap-2">
                       <span className="h-[10px] w-[10px] rotate-45 bg-primary" />
                       {t("categories.Activation")}
                     </span>
                     <span className="inline-flex items-center gap-2">
-                      <span className="h-[10px] w-[10px] rotate-45 bg-primary/20 border border-primary" />
+                      <span className="h-[10px] w-[10px] rotate-45 border border-primary bg-[#7a1f33]" />
                       {t("categories.Initiation")}
                     </span>
                     <span className="inline-flex items-center gap-2">
@@ -213,7 +212,7 @@ export default async function CalendarPage({
                       {t("categories.Workshop")}
                     </span>
                     <span className="inline-flex items-center gap-2">
-                      <span className="h-[10px] w-[10px] rotate-45 border border-primary bg-blue-500/50" />
+                      <span className="h-[10px] w-[10px] rotate-45 border border-primary bg-blue-500" />
                       {t("categories.Community")}
                     </span>
                   </div>
@@ -236,6 +235,6 @@ export default async function CalendarPage({
         </div>
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

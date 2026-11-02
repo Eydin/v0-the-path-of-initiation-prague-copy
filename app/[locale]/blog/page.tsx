@@ -51,7 +51,7 @@ export default async function BlogIndexPage({
   const preview = isPreviewMode()
 
   return (
-    <>
+    <div className="home-cream isolate overflow-x-hidden">
       <Header />
       {preview && (
         <div className="fixed top-20 left-0 right-0 z-40 bg-amber-500 px-4 py-2 text-center text-sm font-semibold text-black">
@@ -59,7 +59,7 @@ export default async function BlogIndexPage({
         </div>
       )}
       <main className={`relative min-h-screen bg-[url('/images/art/starry-rhone-gogh.jpg')] bg-cover bg-fixed bg-center pt-20 ${preview ? "mt-9" : ""}`}>
-        <div className="absolute inset-0 -z-0 bg-gradient-to-b from-black/70 via-black/85 to-black/95" />
+        <div className="absolute inset-0 -z-0 bg-gradient-to-b from-background/[0.86] via-background/[0.9] to-background/[0.94]" />
 
         <div className="relative z-10">
           {/* ── Hero ──────────────────────────────────────────────── */}
@@ -152,6 +152,6 @@ export default async function BlogIndexPage({
         </div>
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

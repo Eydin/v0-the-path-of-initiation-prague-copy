@@ -21,15 +21,50 @@ export function waLink(text: string) {
 }
 
 // ── Page shell: fixed dark-veiled painting background + header/footer ─────
+// `cream` (the default, site-wide) gives the page the homepage look: the .home-cream
+// colours (see globals.css), a light veil over the painting, the starry header/footer,
+// and the hero and booking boxes in burgundy (.home-box only takes effect inside
+// .home-cream). `cream={false}` keeps the original dark look; `veil={false}` shows the
+// painting at full strength behind the cream page.
 export function ModalityShell({
   bg,
   position = "center",
+  cream = true,
+  veil = true,
   children,
 }: {
   bg: string
   position?: string
+  cream?: boolean
+  veil?: boolean
   children: ReactNode
 }) {
+  if (cream) {
+    return (
+      // isolate: the fixed painting (-z-10) stays above this wrapper's cream background
+      <div className="home-cream isolate overflow-x-hidden">
+        <Header />
+        <main className="relative min-h-screen pt-20">
+          <div className="fixed inset-0 -z-10 overflow-hidden">
+            <Image
+              src={`/images/art/${bg}`}
+              alt=""
+              fill
+              priority
+              sizes="100vw"
+              style={{ objectPosition: position }}
+              className="object-cover animate-kenburns-pan"
+            />
+            {veil && (
+              <div className="absolute inset-0 bg-gradient-to-b from-background/[0.86] to-background/[0.94]" />
+            )}
+          </div>
+          <div className="relative z-10">{children}</div>
+        </main>
+        <Footer />
+      </div>
+    )
+  }
   return (
     <>
       <Header />
@@ -73,7 +108,7 @@ export function ModalityHero({
       <div className="mx-auto max-w-7xl px-6">
         <ScrollReveal>
           <div className="mx-auto max-w-4xl">
-            <div className="space-y-8 rounded-lg border border-primary/20 bg-muted/30 p-12 text-center backdrop-blur-sm md:p-16">
+            <div className="home-box space-y-8 rounded-lg border border-primary/20 bg-muted/30 p-12 text-center backdrop-blur-sm md:p-16">
               {eyebrow && (
                 <p className="font-serif text-sm uppercase tracking-[0.4em] text-primary">{eyebrow}</p>
               )}
@@ -244,7 +279,7 @@ export function BookingBlock({
       <div className="mx-auto max-w-7xl px-6">
         <ScrollReveal>
           <div className="mx-auto max-w-4xl">
-            <div className="rounded-lg border border-primary/20 bg-muted/60 p-8 backdrop-blur-sm md:p-12">
+            <div className="home-box rounded-lg border border-primary/20 bg-muted/60 p-8 backdrop-blur-sm md:p-12">
               <div className="space-y-12 text-center">
                 <div>
                   {kind && (

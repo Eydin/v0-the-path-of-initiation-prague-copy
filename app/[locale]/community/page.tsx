@@ -43,20 +43,19 @@ export default async function CommunityPage({
   const ties = [0, 1, 2, 3, 4].map((i) => t(`ties.${i}`))
 
   return (
-    <>
+    <div className="home-cream isolate overflow-x-hidden">
       <Header />
       <main style={{ backgroundImage: "url('/images/empower-thyself-bg.jpg')", backgroundAttachment: 'fixed', backgroundPosition: 'center' }}>
         {/* Hero Section */}
-        <section className="relative flex min-h-[90vh] items-center justify-center overflow-hidden bg-cover">
-          <div className="absolute inset-0 bg-background/20" />
+        {/* straight on the night sky, like the "Our Gatherings" heading further down */}
+        <section className="on-image relative flex min-h-[90vh] items-center justify-center overflow-hidden bg-cover">
           <div className="relative z-10 mx-auto max-w-4xl px-6 py-32 text-center">
             <ScrollReveal>
-              <div className="mx-auto mb-6 h-px w-24 bg-primary/60" />
               <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
                 {t("eyebrow")}
               </p>
               <h1 className="mb-8 font-serif text-4xl leading-tight tracking-wide text-foreground md:text-6xl lg:text-7xl text-balance">
-                {t.rich("heroHeading", { emphasis: (chunks) => <span className="text-primary">{chunks}</span> })}
+                {t.rich("heroHeading", { emphasis: (chunks) => <span>{chunks}</span> })}
               </h1>
               <p className="mx-auto max-w-2xl text-lg leading-relaxed text-muted-foreground">
                 {t("heroBody")}
@@ -67,7 +66,6 @@ export default async function CommunityPage({
 
         {/* Core Values / Connection Section */}
         <section className="relative py-24 lg:py-32">
-          <div className="absolute inset-0 bg-background/20" />
           <div className="relative z-10 mx-auto max-w-6xl px-6">
             <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-stretch">
               <ScrollReveal direction="left" className="h-full">
@@ -116,7 +114,7 @@ export default async function CommunityPage({
         <section className="relative py-24 lg:py-32">
           <div className="mx-auto max-w-4xl px-6">
             <ScrollReveal>
-              <div className="mb-20 text-center">
+              <div className="on-image mb-20 text-center">
                 <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">
                   {t("gatheringsEyebrow")}
                 </p>
@@ -209,7 +207,7 @@ export default async function CommunityPage({
         </section>
 
         {/* CTA / Contact Section */}
-        <section className="relative py-20 lg:py-24">
+        <section className="on-image relative py-20 lg:py-24">
           <div className="mx-auto max-w-3xl px-6 text-center">
             <ScrollReveal>
               <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">
@@ -236,6 +234,6 @@ export default async function CommunityPage({
         </section>
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

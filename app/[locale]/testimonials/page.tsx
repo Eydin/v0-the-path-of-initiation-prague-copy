@@ -42,9 +42,9 @@ export default async function Testimonials({
   }))
 
   return (
-    <>
+    <div className="home-cream isolate overflow-x-hidden">
       <Header />
-      <main className="pt-20 bg-[url('/images/life-activation-bg.jpg')] bg-fixed bg-cover">
+      <main className="pt-20 bg-[linear-gradient(rgba(245,239,224,0.86),rgba(245,239,224,0.93)),url('/images/life-activation-bg.jpg')] bg-fixed bg-cover">
         <div className="relative mx-auto max-w-7xl px-6 py-16">
           {/* Featured Testimonial: Maria */}
           <ScrollReveal>
@@ -177,6 +177,6 @@ export default async function Testimonials({
         </div>
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

@@ -27,7 +27,7 @@ export default async function WithdrawFromContractPage({
   const t = await getTranslations({ locale, namespace: "WithdrawalPage" })
 
   return (
-    <>
+    <div className="home-cream isolate overflow-x-hidden">
       <Header />
       <main className="relative min-h-screen bg-background pt-20">
         <div className="mx-auto max-w-2xl px-6 py-20">
@@ -45,6 +45,6 @@ export default async function WithdrawFromContractPage({
         </div>
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

@@ -44,7 +44,7 @@ export default async function LineagePage() {
   }))
 
   return (
-    <>
+    <div className="home-cream isolate overflow-x-hidden">
       <Header />
       <main>
         {/* ── Hero ── */}
@@ -326,6 +326,6 @@ export default async function LineagePage() {
         </section>
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

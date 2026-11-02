@@ -92,7 +92,7 @@ export default async function Healings({
       <section className="relative py-20 lg:py-28">
         <div className="mx-auto max-w-4xl px-6">
           <ScrollReveal>
-            <div className="rounded-lg border border-primary/20 bg-muted/60 p-8 text-center backdrop-blur-sm md:p-12">
+            <div className="home-box rounded-lg border border-primary/20 bg-muted/60 p-8 text-center backdrop-blur-sm md:p-12">
               <h2 className="mb-8 font-serif text-3xl tracking-wide text-primary md:text-4xl">
                 {t("ctaHeading")}
               </h2>

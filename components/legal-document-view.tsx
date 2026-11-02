@@ -19,7 +19,7 @@ export function LegalDocumentView({
   annotations?: Record<string, ReactNode>
 }) {
   return (
-    <>
+    <div className="home-cream isolate overflow-x-hidden">
       <Header />
       <main className="relative min-h-screen bg-background pt-20">
         <div className="mx-auto max-w-3xl px-6 py-20">
@@ -100,6 +100,6 @@ export function LegalDocumentView({
         </div>
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

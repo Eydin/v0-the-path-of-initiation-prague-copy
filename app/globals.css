@@ -504,6 +504,22 @@ html {
   color: var(--foreground);
 }
 
+/* Text that sits straight on an unveiled painting (Calendar, Community): light cream text and
+   light gold accents with a soft dark shadow, so it reads over the dark artwork. Buttons inside
+   keep their own colours and no shadow. */
+.home-cream .on-image {
+  --foreground: #f5efe0;
+  --muted-foreground: #ece3d0;
+  --primary: #e3c36e;
+  --primary-foreground: #3a0d16;
+  --gold-light: #f2dc9a;
+  color: var(--foreground);
+  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.8), 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+.home-cream .on-image .bg-primary {
+  text-shadow: none;
+}
+
 /* Small cards sitting inside a burgundy box stay cream, with the normal dark-on-cream text. */
 .home-cream .home-box .home-mini-card {
   background-color: #fbf7ec;
