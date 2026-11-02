@@ -1338,7 +1338,7 @@ A one-to-one session with Radu or Diana, both certified Life Activation practiti
 Afterwards people often feel warmth, emotion, deep relaxation or new clarity, and the activation keeps unfolding over the next one to three months.
 2-day initiation · in Prague
 For when you're ready to go deeper. Over two days you receive the teachings, practical tools and sacred initiation ceremony that make you an Initiate in the lineage of King Salomon, with everything you need to keep transforming on your own.
-Keep walking
+Continue with
 Healer training · classes · community
 From there, the path is yours to shape: become a certified healer in the Modern Mystery School tradition through Healers Academy, study workshops such as Sacred Geometry and Astral Travel, and grow with a warm community in Prague that walks the path with you.
 See upcoming classes

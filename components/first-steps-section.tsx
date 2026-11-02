@@ -72,10 +72,10 @@ export async function FirstStepsSection() {
                     {i + 1}
                   </span>
                   <div
-                    className={`mt-5 flex w-full flex-1 flex-col rounded-lg border p-7 text-left ${
+                    className={`group relative mt-5 flex w-full flex-1 cursor-pointer flex-col rounded-lg border p-7 text-left transition-all duration-300 hover:-translate-y-1 ${
                       first
-                        ? "home-box border-primary/40 shadow-2xl"
-                        : "border-primary/20 bg-card shadow-sm"
+                        ? "home-box border-primary/40 shadow-2xl hover:border-primary/70"
+                        : "border-primary/20 bg-card shadow-sm hover:border-primary/50 hover:shadow-lg"
                     }`}
                   >
                     {first && (
@@ -95,15 +95,17 @@ export async function FirstStepsSection() {
                           href={LIFE_ACTIVATION_STRIPE}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-flex items-center gap-2 rounded border border-primary bg-primary px-5 py-3 font-serif text-sm tracking-widest text-primary-foreground uppercase transition-all hover:bg-primary/90"
+                          className="relative z-10 inline-flex items-center gap-2 rounded border border-primary bg-primary px-5 py-3 font-serif text-sm tracking-widest text-primary-foreground uppercase transition-all hover:bg-primary/90"
                         >
                           <Sparkles className="h-4 w-4" />
                           {tCta("bookLifeActivation")}
                         </a>
                       )}
+                      {/* the link stretches over the whole card (after:inset-0), so the card is clickable;
+                          the booking button sits above it (z-10) and keeps its own destination */}
                       <Link
                         href={step.href}
-                        className="group inline-flex w-fit items-center gap-1.5 text-sm tracking-wider text-primary uppercase transition-colors hover:text-gold-light"
+                        className="inline-flex w-fit items-center gap-1.5 text-sm tracking-wider text-primary uppercase transition-colors after:absolute after:inset-0 after:rounded-lg after:content-[''] group-hover:text-gold-light"
                       >
                         {step.link}
                         <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />

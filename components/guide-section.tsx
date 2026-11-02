@@ -96,8 +96,8 @@ export function GuideSection() {
         </ScrollReveal>
 
         <div className="grid items-center gap-12 lg:grid-cols-2">
-          {/* Text Column (Now First) */}
-          <ScrollReveal direction="left">
+          {/* Text Column: on the left on wide screens, below the photo on mobile (like Radu's) */}
+          <ScrollReveal direction="left" className="order-2 lg:order-1">
             <div className="flex flex-col gap-6">
               <p className="text-lg leading-relaxed text-muted-foreground">
                 {t("dianaBody1")}
@@ -115,8 +115,8 @@ export function GuideSection() {
             </div>
           </ScrollReveal>
 
-          {/* Image Column (Now Second) */}
-          <ScrollReveal direction="right">
+          {/* Image Column: on the right on wide screens, first on mobile */}
+          <ScrollReveal direction="right" className="order-1 lg:order-2">
             <div className="relative mx-auto w-full max-w-md">
               {/* soft gold aura behind the portrait */}
               <div className="absolute -inset-3 -z-10 rounded-sm bg-primary/15 blur-2xl" aria-hidden />
