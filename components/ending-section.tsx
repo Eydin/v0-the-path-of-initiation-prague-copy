@@ -64,8 +64,8 @@ export function EndingSection() {
           <ScrollReveal delay={0.3} direction="right">
             <div className="group relative aspect-[4/3] overflow-hidden border border-border">
               <Image
-                src="/images/modern-initiate-2.png"
-                alt="Modern men and women empowered by the mystery school teachings"
+                src="/images/community/10.jpg"
+                alt="Hundreds of Modern Mystery School initiates, men and women, gathered together"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
               />

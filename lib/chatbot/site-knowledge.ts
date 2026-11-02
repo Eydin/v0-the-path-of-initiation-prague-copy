@@ -761,10 +761,6 @@ Know thyself, and thou shalt know
 the universe and the gods
 Inscribed at the Temple of Apollo · Delphi
 Milky Way over the Temple of Poseidon, Sounion · Kouts182, CC BY-SA 4.0
-What you seek
-is seeking you
-Rumi · 13th Century
-The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657
 
 ## PAGE: /privacy-policy
 Privacy Policy | The Path of Initiation Prague
@@ -1567,7 +1563,7 @@ ml-submit
 submitting
 subscribe
 Letters from the Path
-Receive the Teachings
+Subscribe to the Newsletter
 Weekly letters on initiation, sacred geometry, and the work of the soul. Also includes links to free guided meditations and Chi Do.
 Your email
 Submitting...

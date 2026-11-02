@@ -60,18 +60,6 @@ export default function Home() {
 
         <ClassesSection />
 
-        <QuoteBreaker
-          image="sheba-Salomon-temple.jpg"
-          quote={
-            <>
-              &ldquo;{t("quote2.text")} <em className="text-primary">{t("quote2.emphasis")}</em>.&rdquo;
-            </>
-          }
-          attribution={t("quote2.attribution")}
-          caption={t("quote2.caption")}
-          position="center 22%"
-        />
-
         <NewsletterSection />
 
         <EndingSection />

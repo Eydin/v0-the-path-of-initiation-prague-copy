@@ -259,7 +259,7 @@
   },
   "Newsletter": {
     "eyebrow": "Dopisy z cesty",
-    "heading": "Přijímejte učení",
+    "heading": "Přihlaste se k odběru newsletteru",
     "intro": "Týdenní dopisy o iniciaci, posvátné geometrii a práci s duší. Obsahují také odkazy na bezplatné vedené meditace a Chi Do.",
     "placeholder": "Váš e-mail",
     "submitting": "Odesílání...",
@@ -1120,12 +1120,6 @@
       "emphasis": "vesmír i bohy",
       "attribution": "Vyryto na chrámu v Delfách",
       "caption": "Mléčná dráha nad Poseidonovým chrámem, Sounion · Kouts182, CC BY-SA 4.0"
-    },
-    "quote2": {
-      "text": "To, co hledáš,",
-      "emphasis": "hledá tebe",
-      "attribution": "Rúmí · 13. století",
-      "caption": "Královna ze Sáby před chrámem Šalomouna · S. de Bray, 1657"
     }
   },
   "PrivacyPolicyPage": {

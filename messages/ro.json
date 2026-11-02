@@ -259,7 +259,7 @@
   },
   "Newsletter": {
     "eyebrow": "Scrisori de pe Cale",
-    "heading": "Primește învățăturile",
+    "heading": "Abonează-te la newsletter",
     "intro": "Scrisori săptămânale despre inițiere, geometrie sacră și lucrul cu sufletul. Include și linkuri către meditații ghidate gratuite și Chi Do.",
     "placeholder": "Emailul tău",
     "submitting": "Se trimite...",
@@ -1120,12 +1120,6 @@
       "emphasis": "universul și zeii",
       "attribution": "Inscripționat la Templul lui Apollo · Delfi",
       "caption": "Calea Lactee deasupra Templului lui Poseidon, Sounion · Kouts182, CC BY-SA 4.0"
-    },
-    "quote2": {
-      "text": "Ceea ce cauți",
-      "emphasis": "te caută pe tine",
-      "attribution": "Rumi · secolul al XIII-lea",
-      "caption": "Regina din Saba în fața Templului lui Solomon · S. de Bray, 1657"
     }
   },
   "PrivacyPolicyPage": {
