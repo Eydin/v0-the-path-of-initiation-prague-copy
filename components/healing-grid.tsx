@@ -27,8 +27,17 @@ function HealingCard({ healing }: { healing: Healing }) {
   const t = useTranslations("HealingGrid")
 
   if (healing.price || healing.bookHref || healing.detailsHref || healing.externalHref) {
+    // The whole card is clickable: its main link (See Details, else the MMS UK link, else
+    // Book Now) stretches over the card (after:inset-0); the other buttons sit above it (z-10).
+    const main = healing.detailsHref ? "details" : healing.externalHref ? "external" : healing.bookHref ? "book" : null
+    const stretch = "after:absolute after:inset-0 after:rounded-lg after:content-['']"
+    const raised = "relative z-10"
     return (
-      <div className="flex h-full flex-col rounded-lg border border-primary/15 bg-card/50 p-6 backdrop-blur-sm transition-all duration-300 hover:border-primary/45 hover:bg-card/75">
+      <div
+        className={`relative flex h-full flex-col rounded-lg border border-primary/15 bg-card/50 p-6 backdrop-blur-sm transition-all duration-300 hover:border-primary/45 hover:bg-card/75 ${
+          main ? "cursor-pointer hover:-translate-y-0.5 hover:shadow-[0_10px_30px_-14px_rgba(212,175,55,0.4)]" : ""
+        }`}
+      >
         {healing.tag && (
           <span className="mb-3 inline-block w-fit rounded-full border border-primary/25 px-2.5 py-0.5 text-[0.6rem] uppercase tracking-[0.2em] text-primary/80">
             {healing.tag}
@@ -49,7 +58,7 @@ function HealingCard({ healing }: { healing: Healing }) {
                 href={healing.bookHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center justify-center rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90"
+                className={`${main === "book" ? stretch : raised} inline-flex items-center justify-center rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90`}
               >
                 {t("bookNow")}
               </a>
@@ -59,7 +68,7 @@ function HealingCard({ healing }: { healing: Healing }) {
                 href={healing.externalHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-1 rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90"
+                className={`${main === "external" ? stretch : raised} inline-flex items-center justify-center gap-1 rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90`}
               >
                 {t("mmsUkButton")}
                 <ArrowUpRight className="h-3 w-3" />
@@ -68,7 +77,7 @@ function HealingCard({ healing }: { healing: Healing }) {
             {healing.detailsHref && (
               <Link
                 href={healing.detailsHref}
-                className="inline-flex items-center justify-center gap-1 rounded border border-primary/40 px-4 py-2 text-xs uppercase tracking-wider text-primary transition-all hover:border-primary hover:bg-primary/10"
+                className={`${stretch} inline-flex items-center justify-center gap-1 rounded border border-primary/40 px-4 py-2 text-xs uppercase tracking-wider text-primary transition-all hover:border-primary hover:bg-primary/10`}
               >
                 {t("details")}
                 <ArrowUpRight className="h-3 w-3" />

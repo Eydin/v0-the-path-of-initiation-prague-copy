@@ -17,12 +17,13 @@ export type ClassCardProps = {
 }
 
 // ── A class / practice card: price, next date and a button to the full page ──
+// The whole card is clickable: the button's link stretches over the card (after:inset-0).
 export function ClassCard({ name, description, tag, price, nextDate, location, href, external, labels }: ClassCardProps) {
   const buttonClass =
-    "inline-flex items-center justify-center gap-1 rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90"
+    "inline-flex items-center justify-center gap-1 rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90 after:absolute after:inset-0 after:rounded-lg after:content-['']"
 
   return (
-    <div className="flex h-full flex-col rounded-lg border border-primary/15 bg-card/50 p-6 backdrop-blur-sm transition-all duration-300 hover:border-primary/45 hover:bg-card/75">
+    <div className="relative flex h-full cursor-pointer flex-col rounded-lg border border-primary/15 bg-card/50 p-6 backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/45 hover:bg-card/75 hover:shadow-[0_10px_30px_-14px_rgba(212,175,55,0.4)]">
       {tag && (
         <span className="mb-3 inline-block w-fit rounded-full border border-primary/25 px-2.5 py-0.5 text-[0.6rem] uppercase tracking-[0.2em] text-primary/80">
           {tag}
