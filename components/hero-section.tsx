@@ -4,6 +4,7 @@ import { motion } from "framer-motion"
 import { ChevronDown, HeartHandshake, MessageCircle, Sparkles } from "lucide-react"
 import { useTranslations } from "next-intl"
 import { useIsMobile } from "@/hooks/use-mobile"
+import { waLink } from "@/components/modality"
 
 export function HeroSection() {
   const isMobile = useIsMobile()
@@ -111,7 +112,7 @@ export function HeroSection() {
             </a>
           </div>
           <a
-            href="https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
+            href={waLink(t("inquiry"))}
             target="_blank"
             rel="noopener noreferrer"
             className="mx-auto mt-6 block max-w-xs text-center text-sm font-semibold text-[#25D366] underline-offset-4 transition-colors hover:text-[#1ebe5b] hover:underline sm:max-w-none"

@@ -1347,6 +1347,15 @@ Your Invitation
 Are You Ready to Walk the Path?
 The door is open, but only you can choose to step through it. If you feel the call, let's start with the beginning: the Life Activation.
 Book a Life Activation
+Prague, Czech Republic
+The Path of Initiation:
+A 3,000-Year-Old Lineage
+Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, certified teachers of the Modern Mystery School.
+For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call. No experience or belief needed.
+I'm looking for healing
+I want to learn & grow
+Not sure where to begin? Ask us on WhatsApp
+Hello, I would like to learn more about the Path of Initiation.
 
 ## PAGE: (component) footer.tsx
 PATH OF
@@ -1381,6 +1390,14 @@ Testimonials
 Certifications
 Calendar
 Community
+The Path of Initiation:
+A 3,000-Year-Old Lineage
+Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, certified teachers of the Modern Mystery School.
+For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call. No experience or belief needed.
+I'm looking for healing
+I want to learn & grow
+Not sure where to begin? Ask us on WhatsApp
+Hello, I would like to learn more about the Path of Initiation.
 
 ## PAGE: (component) guide-section.tsx
 Radu Coman
@@ -1502,6 +1519,7 @@ For thousands of years, the mystery schools passed on practical tools for knowin
 I'm looking for healing
 I want to learn & grow
 Not sure where to begin? Ask us on WhatsApp
+Hello, I would like to learn more about the Path of Initiation.
 
 ## PAGE: (component) initiate-invite.tsx
 Do you want to become an initiate of the mysteries? Then read on.

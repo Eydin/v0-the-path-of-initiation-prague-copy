@@ -11,6 +11,7 @@ import { ScrollReveal } from "./scroll-reveal"
 export async function FirstStepsSection() {
   const t = await getTranslations("FirstSteps")
   const tCta = await getTranslations("CTA")
+  const tHero = await getTranslations("Hero")
 
   const steps = [
     {
@@ -116,7 +117,7 @@ export async function FirstStepsSection() {
         </ol>
 
         <a
-          href="https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
+          href={`https://wa.me/420792908296?text=${encodeURIComponent(tHero("inquiry"))}`}
           target="_blank"
           rel="noopener noreferrer"
           className="mx-auto mt-12 block max-w-xs text-center text-sm font-semibold text-[#25D366] underline-offset-4 transition-colors hover:text-[#1ebe5b] hover:underline sm:max-w-none"

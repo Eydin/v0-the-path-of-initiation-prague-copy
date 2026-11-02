@@ -5,10 +5,12 @@ import { useTranslations } from "next-intl"
 import { Link } from "@/i18n/navigation"
 import { BRAND } from "@/lib/brand-names"
 import { EmailContactButton } from "@/components/email-contact-button"
+import { waLink } from "@/components/modality"
 
 export function Footer() {
   const t = useTranslations("Footer")
   const tNav = useTranslations("Header")
+  const tHero = useTranslations("Hero")
 
   const activations = [
     { href: "/life-activation", label: BRAND.lifeActivation },
@@ -79,7 +81,7 @@ export function Footer() {
             <p className="mb-4 font-serif text-xs uppercase tracking-[0.3em] text-primary">{t("contact")}</p>
             <div className="flex flex-col gap-2.5">
               <a
-                href="https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20the%20Path%20of%20Initiation."
+                href={waLink(tHero("inquiry"))}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-muted-foreground transition-colors hover:text-primary"

@@ -5,8 +5,9 @@ import { ScrollReveal } from "@/components/scroll-reveal"
 
 // Historical figures said to have walked the path of initiation through the ages.
 // Portraits are public-domain artworks & photographs (Wikimedia Commons).
-// Names are proper nouns (untranslated); the epithet ("role") is translated —
-// see the "HallOfInitiates.initiates" message namespace, indexed in this order.
+// The epithet ("role") is translated, and so is the name where a language has its own form
+// (Alexandr Veliký, Jeanne d'Arc) — see the "HallOfInitiates.initiates" message namespace,
+// indexed in this order. Without a translated name the English one is shown.
 const initiates: { name: string; file: string }[] = [
   { name: "Hermes Trismegistus", file: "hermes-trismegistus.jpg" },
   { name: "Hatshepsut", file: "hatshepsut.jpg" },
@@ -57,23 +58,26 @@ export function HallOfInitiates() {
 
       <ScrollReveal>
         <div className="flex snap-x gap-6 overflow-x-auto px-6 pb-4 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-          {initiates.map((p, i) => (
+          {initiates.map((p, i) => {
+            const name = t.has(`initiates.${i}.name`) ? t(`initiates.${i}.name`) : p.name
+            return (
             <figure key={p.name} className="group w-[200px] flex-none snap-center md:w-[230px]">
               <div className="aspect-[3/4] overflow-hidden rounded-b-md rounded-t-[100px] border border-primary/20 bg-card">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={`/images/initiates/${p.file}`}
-                  alt={p.name}
+                  alt={name}
                   loading="lazy"
                   className="h-full w-full object-cover object-[center_12%] grayscale-[0.35] sepia-[0.2] transition duration-700 group-hover:grayscale-0 group-hover:sepia-0"
                 />
               </div>
               <figcaption className="mt-4 text-center">
-                <p className="font-serif text-lg tracking-wide text-primary">{p.name}</p>
+                <p className="font-serif text-lg tracking-wide text-primary">{name}</p>
                 <p className="text-sm italic text-muted-foreground">{t(`initiates.${i}.role`)}</p>
               </figcaption>
             </figure>
-          ))}
+            )
+          })}
         </div>
       </ScrollReveal>
 
