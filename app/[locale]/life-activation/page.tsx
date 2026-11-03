@@ -4,7 +4,7 @@ import { Link } from "@/i18n/navigation"
 import { BRAND } from "@/lib/brand-names"
 import {
   ModalityShell,
-  ModalityHero,
+  ImageHero,
   Panel,
   PanelHeading,
   Lead,
@@ -57,11 +57,15 @@ export default async function LifeActivation({
 
   return (
     <ModalityShell bg="bethesda-bloch.jpg" position="center 18%">
-      <ModalityHero
+      <ImageHero
+        image="creation-of-adam.jpg"
+        position="50% 45%"
+        caption="The Creation of Adam · Michelangelo, 1512"
         eyebrow={t("heroEyebrow")}
         title={BRAND.lifeActivation}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+        cta={{ href: STRIPE, label: tModality("bookNow"), external: true }}
       />
 
       <BookingBlock

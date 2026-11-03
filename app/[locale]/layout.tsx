@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { hasLocale, NextIntlClientProvider } from 'next-intl'
 import { getMessages, setRequestLocale } from 'next-intl/server'
-import { Inter, Playfair_Display } from 'next/font/google'
+import { Inter, Playfair_Display, Saira_Condensed } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import { ChatWidget } from '@/components/chat-widget'
 import { routing } from '@/i18n/routing'
@@ -10,6 +10,8 @@ import '../globals.css'
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfair" });
+// tall condensed capitals for the big painting-hero titles (ImageHero in components/modality.tsx)
+const saira = Saira_Condensed({ subsets: ["latin", "latin-ext"], weight: ["400", "700"], variable: "--font-display" });
 
 const SITE = "https://www.thepathofinitiationprague.com"
 
@@ -357,7 +359,7 @@ export default async function LocaleLayout({
   };
 
   return (
-    <html lang={locale} className={`${inter.variable} ${playfair.variable}`}>
+    <html lang={locale} className={`${inter.variable} ${playfair.variable} ${saira.variable}`}>
       <head>
         <script
           type="application/ld+json"

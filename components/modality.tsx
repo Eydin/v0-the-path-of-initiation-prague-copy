@@ -128,6 +128,109 @@ export function ModalityHero({
   )
 }
 
+// ── Painting hero: full-width artwork under a burgundy wash that fades into the cream page,
+// with a left-aligned title block (gold label, tall condensed capitals, serif lines, button)
+// and the painting's credit running down the right edge. Same layout as Diana's Hestia site.
+export function ImageHero({
+  image,
+  position = "center",
+  caption,
+  eyebrow,
+  title,
+  subtitle,
+  tagline,
+  cta,
+  secondary,
+}: {
+  /** file in /public/images/art */
+  image: string
+  position?: string
+  /** artwork credit, e.g. "The Creation of Adam · Michelangelo, 1512" */
+  caption?: string
+  eyebrow?: string
+  title: string
+  subtitle?: string
+  tagline?: string
+  cta?: { href: string; label: string; external?: boolean }
+  /** quiet text link beside the button, e.g. "ask a question first" */
+  secondary?: { href: string; label: string; external?: boolean }
+}) {
+  return (
+    <section className="relative flex min-h-[560px] items-end overflow-hidden md:h-[82vh] md:max-h-[700px]">
+      <Image
+        src={`/images/art/${image}`}
+        alt=""
+        fill
+        priority
+        sizes="100vw"
+        style={{ objectPosition: position }}
+        className="object-cover"
+      />
+      <div
+        aria-hidden
+        className="absolute inset-0"
+        style={{
+          background:
+            "linear-gradient(rgba(48, 14, 22, 0.34), rgba(48, 14, 22, 0.06) 35%, rgba(48, 14, 22, 0.16) 55%, rgba(48, 14, 22, 0.86) 85%, var(--background) 100%)",
+        }}
+      />
+      {caption && (
+        <p
+          className="absolute top-1/2 right-4 hidden -translate-y-1/2 font-[family-name:var(--font-display)] text-[11px] uppercase tracking-[0.26em] text-[#efe7d7]/60 [writing-mode:vertical-rl] sm:block"
+        >
+          {caption}
+        </p>
+      )}
+      <div className="relative z-10 mx-auto w-full max-w-7xl px-6 pt-24 pb-20 md:px-12 md:pb-24 [text-shadow:0_2px_18px_rgba(30,8,14,0.55)]">
+        <ScrollReveal>
+          <div className="max-w-3xl">
+            {eyebrow && (
+              // the site's deeper gold (cream-page headings), so it stays gold yet reads on the pale ceiling
+              <p className="mb-4 font-[family-name:var(--font-display)] text-sm font-bold uppercase tracking-[0.3em] text-[#7a5c0f] [text-shadow:0_0_14px_rgba(255,250,240,0.7)]">
+                {eyebrow}
+              </p>
+            )}
+            <h1 className="font-[family-name:var(--font-display)] text-6xl leading-[0.95] font-bold uppercase tracking-wide text-[#f4ecdb] md:text-8xl">
+              {title}
+            </h1>
+            {subtitle && (
+              <p className="mt-6 font-serif text-lg font-light text-[#efe7d7]/90 md:text-xl">{subtitle}</p>
+            )}
+            {tagline && (
+              <p className="mt-3 max-w-xl font-serif text-base leading-relaxed text-[#e7c667] italic md:text-lg">
+                {tagline}
+              </p>
+            )}
+            {(cta || secondary) && (
+              <div className="mt-8 flex flex-wrap items-center gap-x-7 gap-y-4">
+                {cta && (
+                  <a
+                    href={cta.href}
+                    {...(cta.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+                    className="inline-flex items-center gap-2 rounded-sm bg-[#6e1426] px-7 py-3.5 font-[family-name:var(--font-display)] text-sm uppercase tracking-[0.16em] text-[#fbf6ec] transition-colors [text-shadow:none] hover:bg-[#85192f]"
+                  >
+                    {cta.label}
+                    <ArrowRight className="h-4 w-4" />
+                  </a>
+                )}
+                {secondary && (
+                  <a
+                    href={secondary.href}
+                    {...(secondary.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+                    className="font-[family-name:var(--font-display)] text-sm uppercase tracking-[0.14em] text-[#f4ecdb] underline decoration-[#f4ecdb]/40 underline-offset-4 transition-colors hover:decoration-[#f4ecdb]"
+                  >
+                    {secondary.label}
+                  </a>
+                )}
+              </div>
+            )}
+          </div>
+        </ScrollReveal>
+      </div>
+    </section>
+  )
+}
+
 // ── Generic content panel ───────────────────────────────────────────────
 export function Panel({
   children,

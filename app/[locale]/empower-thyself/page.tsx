@@ -4,7 +4,7 @@ import { getTranslations } from "next-intl/server"
 import { BRAND } from "@/lib/brand-names"
 import {
   ModalityShell,
-  ModalityHero,
+  ImageHero,
   Panel,
   PanelHeading,
   Body,
@@ -48,10 +48,19 @@ export default async function EmpowerThyself({
 
   return (
     <ModalityShell bg="accolade-leighton.jpg" position="center 20%" veil={false}>
-      <ModalityHero
+      <ImageHero
+        image="empower-thyself-altar.jpg"
+        position="62% 40%"
+        caption="The altar, prepared · lineage tools, held with care"
         eyebrow={t("heroEyebrow")}
-        title={t("heroTitle", { brand: BRAND.empowerThyself })}
+        title={BRAND.empowerThyself}
         subtitle={t("heroSubtitle")}
+        cta={{ href: STRIPE, label: tModality("bookNow"), external: true }}
+        secondary={{
+          href: `https://wa.me/420792908296?text=${encodeURIComponent(inquiry)}`,
+          label: tModality("askQuestion"),
+          external: true,
+        }}
       />
 
       <BookingBlock

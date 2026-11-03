@@ -163,7 +163,7 @@ center 30%
 ## PAGE: /empower-thyself
 Radu Coman
 https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
-A Two-Day Initiation
+A Two-Day Program
 Initiation into the Lineage of King Salomon
 If you could be like God — filled with love, harmony, and creative power — would you do it?
 This initiation will expand the horizon of what you believe is possible. It awakens new potentials and challenges us to release old dogmas and paradigms.
@@ -1214,9 +1214,6 @@ Community
 Not sure where to begin? Reach out and Radu will guide you personally.
 Ask About a Class
 
-## PAGE: (component) class-card.tsx
-inline-flex items-center justify-center gap-1 rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90
-
 ## PAGE: (component) classes-section.tsx
 Upcoming Events
 Upcoming Classes in Prague
@@ -1481,6 +1478,8 @@ Calendar
 Community
 
 ## PAGE: (component) healing-grid.tsx
+: healing.externalHref ?
+: healing.bookHref ?
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Inquire
@@ -1542,6 +1541,7 @@ This work does not replace any medical treatment prescribed by your doctor. It i
 
 ## PAGE: (component) modality.tsx
 radu@thepathofinitiationprague.com
+noopener noreferrer
 inscriere-eveniment
 investment
 duration
