@@ -43,6 +43,7 @@ import { content as lifeActivationVsFullSpiritActivation } from "./content/life-
 import { content as youAreASpiritualBeingFirst } from "./content/you-are-a-spiritual-being-first"
 import { content as structureBehindThePractice } from "./content/structure-behind-the-practice"
 import { content as whatIsSacredGeometry } from "./content/what-is-sacred-geometry"
+import { content as whyWeNeedInitiation } from "./content/why-we-need-initiation"
 
 import { post as structureBehindThePracticeCs } from "./content/cs/structure-behind-the-practice"
 import { post as structureBehindThePracticeDe } from "./content/de/structure-behind-the-practice"
@@ -69,6 +70,9 @@ import { post as youAreASpiritualBeingFirstRo } from "./content/ro/you-are-a-spi
 import { post as whatIsSacredGeometryCs } from "./content/cs/what-is-sacred-geometry"
 import { post as whatIsSacredGeometryDe } from "./content/de/what-is-sacred-geometry"
 import { post as whatIsSacredGeometryRo } from "./content/ro/what-is-sacred-geometry"
+import { post as whyWeNeedInitiationCs } from "./content/cs/why-we-need-initiation"
+import { post as whyWeNeedInitiationDe } from "./content/de/why-we-need-initiation"
+import { post as whyWeNeedInitiationRo } from "./content/ro/why-we-need-initiation"
 
 export type BlogCategory =
   | "Lineage & History"
@@ -735,6 +739,32 @@ export const BLOG_POSTS: BlogPost[] = [
       cs: whatIsSacredGeometryCs,
       de: whatIsSacredGeometryDe,
       ro: whatIsSacredGeometryRo,
+    },
+  },
+  {
+    slug: "why-we-need-initiation",
+    title: "Why Do We Need Initiation?",
+    excerpt:
+      "Initiation is how we honor our ancestors, claim the power we were given and take our place in a plan older than this world.",
+    category: "Lineage & History",
+    coverImage: "ascent-blessed-bosch.jpg",
+    readyToPost: true,
+    releaseDate: "2026-11-03",
+    keywords: [
+      "why initiation",
+      "rite of initiation",
+      "honoring ancestors",
+      "Modern Mystery School",
+      "Gudni Gudnason",
+      "Hierarchy of Light",
+      "Know Thyself",
+    ],
+    readTime: "5 min read",
+    content: whyWeNeedInitiation,
+    translations: {
+      cs: whyWeNeedInitiationCs,
+      de: whyWeNeedInitiationDe,
+      ro: whyWeNeedInitiationRo,
     },
   },
 ]
