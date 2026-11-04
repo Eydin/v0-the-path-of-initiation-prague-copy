@@ -120,7 +120,7 @@ const nextHref = nextEvening ?
 returning
 Community in Prague
 Calm evenings with real people, right here in Prague
-Come for tea, a short practice and good conversation. No experience needed and no beliefs required: just come as you are.
+Come for tea, a short practice and good conversation.
 Beyond the Classroom
 Space for genuine growth & connection
 Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about embodying their divine essence , accelerating personal growth, and overcoming life's challenges together.
@@ -697,7 +697,7 @@ Reach out and we will help you choose the class that fits where you are right no
 Hello, I would like to learn more about your classes and workshops.
 Community in Prague
 Calm evenings with real people, right here in Prague
-Come for tea, a short practice and good conversation. No experience needed and no beliefs required: just come as you are.
+Come for tea, a short practice and good conversation.
 Beyond the Classroom
 Space for genuine growth & connection
 Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about embodying their divine essence , accelerating personal growth, and overcoming life's challenges together.
@@ -1363,7 +1363,7 @@ Learn More
 ## PAGE: (component) community-carousel.tsx
 Community in Prague
 Calm evenings with real people, right here in Prague
-Come for tea, a short practice and good conversation. No experience needed and no beliefs required: just come as you are.
+Come for tea, a short practice and good conversation.
 Beyond the Classroom
 Space for genuine growth & connection
 Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about embodying their divine essence , accelerating personal growth, and overcoming life's challenges together.
