@@ -5,6 +5,9 @@ const config = {
   namespace: "CrystalHealing",
   bg: "the-elements-alchemical-and-rosicrucian-compendium-c-1760.jpg",
   position: "center 30%",
+  heroImage: "amethyst-geode.jpg",
+  heroPosition: "center 50%",
+  heroCaption: "Amethyst geode · photo by Calvin Chai, Unsplash",
   investment: "3.669 CZK",
 }
 

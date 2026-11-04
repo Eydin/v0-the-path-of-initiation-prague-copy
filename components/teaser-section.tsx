@@ -43,7 +43,7 @@ export function TeaserSection() {
       {/* the expectations box runs wider than the text column above */}
       <div className="relative z-10 mx-auto max-w-7xl px-4 text-center sm:px-6">
         <ScrollReveal delay={0.35}>
-          <div className="home-box home-box-wanderer border border-primary/40 px-5 py-10 shadow-2xl sm:px-10 md:py-14 lg:px-14">
+          <div className="home-box home-box-espresso relative border border-primary/40 px-5 py-10 shadow-2xl sm:px-10 md:py-14 lg:px-14">
             {/* inner gold hairline frame */}
             <div className="pointer-events-none absolute inset-2.5 border border-primary/20 sm:inset-3.5" />
 

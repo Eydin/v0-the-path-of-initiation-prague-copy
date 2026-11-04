@@ -4,7 +4,7 @@
     "titleLine1": "Cesta iniciace:",
     "titleLine2": "3000 let stará linie",
     "subtitle": "Léčení, meditace a duchovní výcvik v Praze s Radu a Dianou Coman, certifikovanými učiteli Modern Mystery School.",
-    "intro": "Po tisíce let mysterijní školy předávaly praktické nástroje, jak poznat sebe sama, uzdravit tělo i duši a žít smysluplný život: cestu, kterou kráčeli Leonardo da Vinci, Nikola Tesla a Isaac Newton. Dnes je otevřená každému, kdo cítí volání. Nepotřebujete žádné zkušenosti ani víru.",
+    "intro": "Po tisíce let mysterijní školy předávaly praktické nástroje, jak poznat sebe sama, uzdravit tělo i duši a žít smysluplný život: cestu, kterou kráčeli Leonardo da Vinci, Nikola Tesla a Isaac Newton. Dnes je otevřená každému, kdo cítí volání.",
     "doorHealing": "Hledám léčení",
     "doorLearn": "Chci se učit a růst",
     "askLink": "Nevíte, kde začít? Zeptejte se nás na WhatsAppu",
@@ -270,34 +270,34 @@
     "footnote": "Žádný šum. Odhlásit se můžete kdykoli."
   },
   "LifeActivation": {
-    "heroEyebrow": "Mysterijní tradice · Linie krále Šalomouna",
+    "heroEyebrow": "Modern Mystery School · Linie krále Šalomouna",
     "heroSubtitle": "Aktivujte vrozené dary, které přebývají ve vaší DNA",
     "heroTagline": "Vyčistěte 5–7 generací předků od traumat a vykročte ke svému nejvyššímu potenciálu",
-    "introLead": "{brand} – Mysterijní tradice, linie krále Šalomouna",
-    "introBody": "{brand} je hluboký zážitek nabízený v tradici Modern Mystery School, navržený k probuzení božského potenciálu v každé lidské bytosti. Toto silné sezení aktivuje 22 z 24 vláken DNA (11 fyzických a 11 duchovních), čímž otevírá bránu k hlubšímu spojení s vaším Božským Já. Tím se zvyšuje vaše schopnost přijímat, obíhat a udržovat více Světla — což podporuje léčení, jasnost a duchovní růst ve fyzickém těle.",
+    "introLead": "{brand} – Modern Mystery School, linie krále Šalomouna",
+    "introBody": "{brand} je probuzení duše nabízené v tradici Modern Mystery School, navržené k zažehnutí božského potenciálu v každé lidské bytosti. Toto silné sezení aktivuje 22 z 24 vláken DNA (11 fyzických a 11 duchovních), čímž otevírá bránu k hlubšímu spojení s vaším Božským Já. Tím se zvyšuje vaše schopnost přijímat, obíhat a udržovat více Světla — což podporuje léčení, jasnost a duchovní růst.",
     "benefitsHeading": "Přínosy {brand}",
     "benefits": [
       { "label": "Hluboké spojení s Božským Já:", "text": "Life Activation usnadňuje hlubší spojení s vaším Božským Já a umožňuje projev vašich vnitřních zdrojů, talentů a potenciálu." },
       { "label": "Energie a jasnost:", "text": "Zážitek přináší vlivnou dávku energie a jasnosti do všech oblastí života a podporuje vaši schopnost sebejistě zvládat každodenní život." },
-      { "label": "Projev talentů a schopností:", "text": "Probuzením vnitřního potenciálu se účastníci stávají vnímavějšími a schopnějšími plněji vyjadřovat své jedinečné talenty a schopnosti." },
+      { "label": "Projev talentů a schopností:", "text": "Probuzením vnitřního potenciálu se stáváte vnímavějšími a schopnějšími plněji vyjadřovat své jedinečné talenty a schopnosti." },
       { "label": "Proměna těla a uvolnění karmy:", "text": "Life Activation zahajuje proces proměny v těle a pomáhá uvolnit emocionální a mentální vzorce uložené v DNA, známé jako „karma“." },
       { "label": "Rozšířené využití mozkové kapacity:", "text": "Díky tomuto zážitku se posiluje schopnost čerpat z většího potenciálu mozku a vynáší na světlo dříve přehlížené nebo dřímající schopnosti." }
     ],
     "proceduresHeading": "Doplňkové procedury pro vyvážení a proměnu",
     "proceduresLead": "Kromě samotné aktivace zahrnuje sezení doplňkové procedury navržené k vyvážení a stimulaci těla v souladu s nově aktivovanými informacemi z DNA.",
     "procedures": [
-      { "label": "Odstranění emocionálních bloků:", "text": "Zaměřeno na odstranění případných emocionálních bloků z korunní čakry, tento proces vytváří volnější proudění energie." },
+      { "label": "Odstranění emocionálních bloků:", "text": "Zaměřeno na odstranění případných emocionálních bloků z korunní čakry, tento proces vytváří lepší proudění energie." },
       { "label": "Vyvážení centrálního jádra:", "text": "Tento proces harmonizuje energie proudící centrálním jádrem a podporuje vyrovnání a rovnováhu celého energetického systému." },
-      { "label": "Otevření 16 lotosových okvětních lístků:", "text": "Tento úkon posiluje spojení s Elementálními energiemi — Zemí, Vodou, Vzduchem a Ohněm — a zesiluje vaši interakci s nimi." },
-      { "label": "Vyvážení elementálních a magnetických energetických linií:", "text": "Tento proces se zaměřuje na vyvážení a harmonizaci energetických linií procházejících tělem a podporuje plynulé a sladěné proudění energie." },
-      { "label": "Vyvážení čaker:", "text": "Tento proces si klade za cíl přinést harmonii a vyrovnání do systému čaker — energetických center těla." },
+      { "label": "Otevření 16 lotosových okvětních lístků:", "text": "Toto posiluje spojení s Elementálními energiemi — Zemí, Vodou, Vzduchem a Ohněm — a dává vám více jejich vlastností a síly." },
+      { "label": "Vyvážení elementálních a magnetických energetických linií:", "text": "Toto vyvažuje a harmonizuje energetické linie procházející tělem a podporuje plynulé a sladěné proudění energie." },
+      { "label": "Vyvážení čaker:", "text": "Toto přináší harmonii a vyrovnání do energetických center těla." },
       { "label": "Odstranění vypálených éterických krystalů z těla:", "text": "Tato procedura je určena k očistě a revitalizaci energetického těla." },
-      { "label": "Krátké čtení z vaší nově aktivované DNA:", "text": "Krátké prozkoumání vrstev podvědomí, které vám poskytne hlubší sebepoznání." },
+      { "label": "Krátké čtení z vaší nově aktivované DNA:", "text": "Krátké prozkoumání vrstev podvědomí, které vám přinese vhled a vedení." },
       { "label": "Homeopatický lék:", "text": "Homeopatický lék vytvořený v alchymistické laboratoři školy, navržený k detoxikaci, podpoře a zmírnění fyzických a energetických změn spojených s tímto jedinečným zážitkem." }
     ],
     "exploreHeading": "Objevte vyšší dimenze",
     "exploreBody1": "Aktivace DNA je návratem k sobě samému — sezení, které nejen přináší světlo do temnoty života, ale také otevírá dveře k neomezenému potenciálu.",
-    "exploreBody2": "V Modern Mystery School slouží tato aktivace jako brána k duchovní evoluci a objevení pravého Já hlubokým a transformačním způsobem. Je to krok k sebepoznání a příležitost žít život s větší energií, jasností a uvědoměním.",
+    "exploreBody2": "V Modern Mystery School slouží tato aktivace jako brána k duchovní evoluci a objevení pravého Já hluboce transformačním způsobem. Je to krok k životu s větší energií, jasností a uvědoměním.",
     "certTitle": "{brand} – Aktivace DNA",
     "certBody": "Toto je průlomová metoda pro <i>vnitřní proměnu a odemknutí vašeho osobního potenciálu</i>. Kombinuje starobylou moudrost s moderními energiemi, aby vám pomohla růst a vyvíjet se. Tuto techniku nabízí Modern Mystery School prostřednictvím certifikovaných praktiků Life Activation. Slouží jako <bold>brána k vyššímu vědomí a duchovní expanzi.</bold>",
     "bookingTitle": "Poznejte svou autentickou sílu a vyšší já!",
@@ -399,7 +399,7 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o iniciaci {brand}."
   },
   "FullSpiritActivation": {
-    "heroEyebrow": "Mysterijní tradice · Linie krále Šalomouna",
+    "heroEyebrow": "Modern Mystery School · Linie krále Šalomouna",
     "heroSubtitle": "Probuďte a ukotvěte duši a ducha v těle",
     "heroTagline": "Otevřete svou duši zázrakům",
     "introLead": "{brand} — přijímá se po Life Activation",
@@ -534,7 +534,7 @@
           { "name": "Odstranění negativní energie", "description": "Odstraňuje energetické bloky a negativní vzorce z vašeho energetického systému." },
           { "name": "Přeříznutí emočních pout", "description": "Odpojuje vysilující emoční pouta, abyste přestali ztrácet energii ve prospěch druhých." },
           { "name": "Šamanské čištění aury", "description": "Šamanské techniky k odstranění blokád a těžkých energií z aurického pole." },
-          { "name": "Ensofic Reiki", "description": "Jedna 90minutová seance s paprskem Ensof — uvolní blokády a vrátí vás k rovnováze a přítomnosti." },
+          { "name": "Ensofic Reiki", "description": "Jednotlivé léčebné sezení s paprskem Ensof pro vaše tělo a nervový systém, v Praze nebo na dálku." },
           { "name": "Léčení negativních návyků", "description": "Využívá paprsek Ensof, aby vám pomohl pustit negativní vzorce nebo návyky, které ve svém životě stále opakujete." },
           { "name": "Krystaloterapie", "description": "Starobylé techniky linie pracující s krystaly pro léčení, intuici a ochranu." },
           { "name": "Návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
@@ -585,7 +585,7 @@
     "specialtyGroupTitle": "Speciální sezení",
     "specialtyGroupBlurb": "Hlubší, specializovaná práce tradice — každé nabízeno individuálně.",
     "specialtySessions": [
-      { "name": "Pokročilé léčení paprskem Ensof", "description": "Série tří 90minutových seancí s paprskem Ensof — tělo, duše a duch, poté integrace — která prohlubuje a stabilizuje vaše sladění." },
+      { "name": "Pokročilé léčení paprskem Ensof", "description": "Tři 90minutová sezení osobně, zhruba s týdenním odstupem: hluboká proměna těla, mysli i duše, která zapečetí paprsek Ensof ve vašem energetickém poli zhruba na deset měsíců." },
       { "name": "Vlévání ohně duše", "description": "Znovu zapaluje vnitřní oheň duše a obnovuje vášeň, hnací sílu a životní energii tam, kde se cítíte vyčerpáni." },
       { "name": "Vlévání jádra vůle", "description": "Posiluje vaše jádro vůle — vnitřní sídlo osobní síly, odhodlání a směřování." },
       { "name": "Archanděl Michael — mezihvězdná trubice světla", "description": "Vzývá archanděla Michaela, aby vás obklopil sloupem ochranného světla, čistil a chránil vaše energetické pole." },
@@ -1173,7 +1173,7 @@
     "disclaimer": "Tato práce nenahrazuje žádnou léčbu předepsanou vaším lékařem. Nabízí se jako doplňková energetická a duchovní podpora vedle vaší lékařské péče."
   },
   "SoulRetrieval": {
-    "heroEyebrow": "Hluboké léčení · Praha",
+    "heroEyebrow": "Hluboké léčení",
     "heroTitle": "Hermetický návrat duše",
     "heroSubtitle": "Zavolejte zpět části sebe, které zůstaly pozadu",
     "heroTagline": "Jemná, a přesto hluboce silná seance, která obnovuje pocit celistvosti",
@@ -1217,14 +1217,55 @@
     "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Hermetickém návratu duše."
   },
+  "EnsoficReiki": {
+    "heroEyebrow": "Energetické léčení",
+    "heroTitle": "Ensofic Reiki",
+    "heroSubtitle": "Nejvyšší a nejjasnější paprsek stvoření",
+    "heroTagline": "Ensofic Reiki pro vaše tělo a nervový systém",
+    "introLead": "První paprsek stvoření: čistý, jasný a přímý",
+    "introBody1": "Paprsek Ensof je nejvyšší, nejjasnější a nejmocnější paprsek energie, první paprsek stvoření. Nese čistotu, jasnost a soustředěnou koncentraci, a proto jde přímo k jádru.",
+    "introBody2": "Ensofic Reiki je léčebné sezení, které pomáhá zmírnit bolest a urychlit hojení těla. Je vhodné, pokud se zotavujete ze zranění, nemoci nebo operace, pokud vás trápí bolest, která se stále vrací, nebo pokud je vaše tělo vyčerpané a pomalu se zotavuje. Mnoho lidí odchází ze sezení lehčích a klidnějších, s menší bolestí a lepším spánkem. Můžete přijít osobně v Praze nebo sezení přijmout na dálku, ať jste kdekoli na světě.",
+    "benefitsHeading": "Přínosy",
+    "benefits": [
+      "Pomáhá zmírnit bolest, akutní i tu, která se stále vrací",
+      "Pomáhá rychlejšímu hojení zranění, ran a těla po operaci",
+      "Uvolňuje napětí a ztuhlost ve svalech a kloubech",
+      "Zklidňuje nervový systém, aby si tělo mohlo odpočinout a regenerovat",
+      "Podporuje hlubší a klidnější spánek",
+      "Odcházíte lehčí, klidnější a s více energií"
+    ],
+    "who": [
+      "Trápí vás bolest a chcete úlevu",
+      "Zotavujete se ze zranění, pádu, sportovního přetížení nebo operace a chcete se uzdravit rychleji",
+      "Žijete s dlouhodobou bolestí, například zad, kloubů nebo hlavy",
+      "Vaše tělo je vyčerpané a pomalu se zotavuje"
+    ],
+    "faq": [
+      {
+        "q": "S čím může Ensofic Reiki pomoci?",
+        "a": "Ensofic Reiki pracuje s fyzickým tělem a nervovým systémem: s bolestí a fyzickými obtížemi, stresem a úzkostí, vyčerpáním, špatným spánkem a mnoha dalšími problémy. Je doplňkem lékařské péče, nikoli její náhradou."
+      },
+      {
+        "q": "Mohu Ensofic Reiki přijmout na dálku?",
+        "a": "Ano. Ensofic Reiki můžete přijmout osobně v Praze nebo jako léčení na dálku, ať jste kdekoli na světě. Radu a Diana se léčení na dálku učili a tvrdě na sobě pracovali, aby ho zvládli, a společně směřují léčivou sílu všude tam, kde je potřeba."
+      },
+      {
+        "q": "Co musím udělat pro přípravu?",
+        "a": "Stačí se uvolnit; nemusíte se nic učit ani v nic předem věřit."
+      }
+    ],
+    "duration": "90 minut",
+    "bookingNote": "Toto léčebné sezení může probíhat osobně v Praze nebo na dálku kdekoli na světě.",
+    "inquiry": "Ahoj, mám zájem o Ensofic Reiki."
+  },
   "AdvancedEnsoficRay": {
-    "heroEyebrow": "Energetické léčení · Praha a na dálku",
+    "heroEyebrow": "Energetické léčení",
     "heroTitle": "Pokročilé léčení paprskem Ensof",
     "heroSubtitle": "První emanace Světla ze Zdroje",
-    "heroTagline": "Série tří seancí, která prohlubuje a stabilizuje vaše sladění",
+    "heroTagline": "Série tří seancí, která hlouběji ukotví vaši božskost",
     "introLead": "Hluboký, precizní systém energetického vyrovnání",
-    "introBody1": "Paprsek Ensof je první emanací Světla ze Zdroje. Toto léčení s ním pracuje a podporuje sladění fyzického těla, emočního pole, mysli i energetické struktury.",
-    "introBody2": "Protokol o třech seancích je navržen tak, aby proces prohloubil a stabilizoval, přičemž každá seance navazuje na předchozí. Seance jsou dostupné v Praze nebo na dálku po celém světě.",
+    "introBody1": "Paprsek Ensof je první emanací Světla ze Zdroje. Toto léčení s ním pracuje a podporuje sladění fyzického těla, emočního pole, mysli, duše i duchovního těla.",
+    "introBody2": "Protokol o třech seancích je navržen tak, aby proces prohloubil a stabilizoval, přičemž každá seance navazuje na předchozí. Seance probíhají pouze osobně v Praze.",
     "protocolHeading": "Protokol o třech seancích",
     "protocol": [
       {
@@ -1253,47 +1294,21 @@
     ],
     "bookingTitle": "Přijměte paprsek",
     "duration": "3 × 90 minut",
-    "bookingNote": "K dispozici v Praze nebo na dálku po celém světě. Napište nám a domluvíme si čas.",
+    "bookingNote": "Tři seance probíhají pouze osobně v Praze. Napište nám a domluvíme si čas.",
     "inquiry": "Ahoj, mám zájem o pokročilé léčení paprskem Ensof."
   },
-  "EnsoficReiki": {
-    "heroEyebrow": "Energetické léčení · Praha a na dálku",
-    "heroTitle": "Ensofic Reiki",
-    "heroSubtitle": "První emanace Světla ze Zdroje",
-    "heroTagline": "Jedna seance, která uvolní blokády a vrátí vás k rovnováze a přítomnosti",
-    "introLead": "Nejčistší paprsek světla, přinesený k vám v jediné seanci",
-    "introBody1": "Paprsek Ensof je první emanací Světla ze Zdroje. Při seanci Ensofic Reiki se používá k vyčištění zkreslení a uvolnění blokád ve fyzickém těle, emočním poli, mysli i energetické struktuře.",
-    "introBody2": "Jedna seance může přinést znatelnou úlevu a návrat k rovnováze a přítomnosti. Pro hlubší, postupný proces objevte Pokročilé léčení paprskem Ensof. Seance lze absolvovat osobně v Praze nebo na dálku, kdekoli na světě jste.",
-    "benefitsHeading": "Přínosy",
-    "benefits": [
-      "Znovu vás propojuje s vaším autentickým já a vnitřním světlem",
-      "Čistí fyzické, emoční a energetické blokády",
-      "Sladí tělo, mysl a ducha",
-      "Zvyšuje vibrace a obnovuje jasnost a mír",
-      "Podporuje emoční léčení a obnovu"
-    ],
-    "faq": [
-      {
-        "q": "Jak může léčení fungovat na dálku?",
-        "a": "Radu a Diana se tomuto umění učili a tvrdě na sobě pracovali, aby ho zvládli. Zdokonalili své soustředění i svůj vztah s Hierarchií Světla. Společně směřují léčivou sílu všude tam, kde je ve světě potřeba."
-      }
-    ],
-    "duration": "90 minut",
-    "bookingNote": "K dispozici v Praze nebo na dálku po celém světě. Napište nám a domluvíme si čas.",
-    "inquiry": "Ahoj, mám zájem o Ensofic Reiki."
-  },
   "NegativeHabits": {
-    "heroEyebrow": "Energetické léčení · Praha a na dálku",
+    "heroEyebrow": "Energetické léčení",
     "heroTitle": "Léčení negativních návyků",
-    "heroSubtitle": "Pusťte vzorce, které stále opakujete",
-    "heroTagline": "Léčení paprskem Ensof k uvolnění negativních vzorců a návyků",
-    "introLead": "Některé vzorce se vracejí, protože sídlí hlouběji než síla vůle",
+    "heroSubtitle": "Prolomte kruh, který samotná vůle nezlomila",
+    "heroTagline": "Dosáhněte ke kořeni zvyku, aby se zdravější volby dělaly snadněji",
+    "introLead": "Některé vzorce se vracejí, protože sídlí hlouběji, než kam dosáhne vaše síla vůle",
     "introBody1": "Tato seance využívá paprsek Ensof, aby vám pomohla pustit negativní vzorce nebo návyky, které ve svém životě opakujete — smyčky myšlenek, emocí a chování, které se vracejí, ať se je snažíte změnit sebevíc.",
     "introBody2": "Díky práci na úrovni energetické struktury, v níž jsou tyto vzorce uloženy, seance podporuje jejich uvolnění, takže nové a zdravější volby jsou snazší a přirozenější. Seance lze absolvovat osobně v Praze nebo na dálku, kdekoli na světě jste.",
     "benefitsHeading": "Co podporuje",
     "benefits": [
-      "Uvolnění negativních vzorců a návyků, které se stále opakují",
-      "Větší svobodu od automatických reakcí a starých smyček",
+      "Uvolnění negativních vzorců a návyků, které stále opakujete",
+      "Větší svobodu od automatických reakcí a podvědomých rozhodnutí",
       "Emoční lehkost a jasnost",
       "Snazší nové, podpůrné volby",
       "Podporu vedle vaší vlastní práce, terapie nebo lékařské péče"
@@ -1301,7 +1316,7 @@
     "who": [
       "Opakujete stejné vzorce ve vztazích, práci nebo životě",
       "Navzdory nejlepšímu úmyslu se vám nedaří přestat s návykem",
-      "Uvízli jste ve známých smyčkách myšlenek nebo emocí",
+      "Uvízli jste v situacích, myšlenkových vzorcích a emocích",
       "Jste připraveni pustit to, co vám už neslouží"
     ],
     "faq": [
@@ -1323,7 +1338,7 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o léčení negativních návyků."
   },
   "CrystalHealing": {
-    "heroEyebrow": "Energetické léčení · Praha",
+    "heroEyebrow": "Energetické léčení",
     "heroTitle": "Krystaloterapie",
     "heroSubtitle": "Odpočívejte, zatímco říše minerálů tiše koná své dílo",
     "heroTagline": "Posvátný zvuk a kámen, umístěné tak, aby obnovily rovnováhu, jasnost a proudění",
@@ -1353,10 +1368,10 @@
     "inquiry": "Ahoj, mám zájem o krystaloterapii."
   },
   "SparkOfLife": {
-    "heroEyebrow": "Dálkové energetické léčení · Celý svět",
+    "heroEyebrow": "Energetické léčení",
     "heroTitle": "Jiskra života",
     "heroSubtitle": "Znovu se spojte se svou původní jiskrou životní síly",
-    "heroTagline": "Dálková léčebná seance, po celém světě, z Prahy",
+    "heroTagline": "Léčebná seance, která obnovuje vaši životní sílu a dodává novou energii",
     "introLead": "Životní síla směřovaná do jádra vaší bytosti",
     "introBody1": "Jiskra života působí za hranicí éterické matrice a systému čaker a směřuje energii životní síly do jádra bytosti. Její kořeny sahají do starověkých egyptských chrámů, kde byla vyvinuta pro kněze a kněžky, aby je omladila pro dlouhá léta služby, a je předávána přímým přenosem.",
     "introBody2": "Tiše odpočíváte, vleže nebo vsedě, tam, kde jste, zatímco Diana a Radu pracují na dálku. Stačí jen přijímat. Dobře se doplňuje s Life Activation, před ní i po ní.",
@@ -1519,7 +1534,7 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o meditaci a modlitbě."
   },
   "SanctuarySessionPage": {
-    "heroEyebrow": "Vedená meditace · Praha",
+    "heroEyebrow": "Vedená meditace",
     "heroTitle": "Sanctuary Meditation",
     "heroSubtitle": "Vraťte se do své svatyně a setkejte se se svým Vyšším já",
     "heroTagline": "Hodinová vedená meditace pro ty, kdo už cestu znají",
@@ -1547,7 +1562,7 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Sanctuary Meditation (1 hodina)."
   },
   "MaxMeditationPage": {
-    "heroEyebrow": "Vedená meditace · Praha",
+    "heroEyebrow": "Vedená meditace",
     "heroTitle": "Max Meditation",
     "heroSubtitle": "Najděte klid mysli",
     "heroTagline": "Vedená meditace, která vám vytvoří čas a prostor pro klid a rovnováhu ve vašem životě",

@@ -105,7 +105,7 @@ export function HeroSection() {
             </a>
             <a
               href="#first-steps"
-              className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-background/60 px-8 py-4 font-serif text-sm tracking-widest text-primary uppercase backdrop-blur-sm transition-all hover:bg-primary hover:text-primary-foreground"
+              className="inline-flex items-center justify-center gap-3 rounded border border-[#6e1426] bg-[#6e1426] text-[#fbf6ec] hover:bg-[#85192f] px-8 py-4 font-serif text-sm tracking-widest uppercase transition-all"
             >
               <Sparkles className="h-4 w-4" />
               {t("doorLearn")}

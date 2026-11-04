@@ -5,7 +5,10 @@ const config = {
   namespace: "EnsoficReiki",
   bg: "plains-of-heaven.jpg",
   position: "center 30%",
-  investment: "6.150 CZK",
+  heroImage: "ensofic-light.jpg",
+  heroPosition: "center 45%",
+  heroCaption: "The first ray of light · photo by Liana S, Unsplash",
+  investment: "4.900 CZK",
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

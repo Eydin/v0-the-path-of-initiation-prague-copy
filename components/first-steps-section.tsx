@@ -74,7 +74,7 @@ export async function FirstStepsSection() {
                   <div
                     className={`group relative mt-5 flex w-full flex-1 cursor-pointer flex-col rounded-lg border p-7 text-left transition-all duration-300 hover:-translate-y-1 ${
                       first
-                        ? "home-box border-primary/40 shadow-2xl hover:border-primary/70"
+                        ? "home-box home-box-espresso border-primary/40 shadow-2xl hover:border-primary/70"
                         : "border-primary/20 bg-card shadow-sm hover:border-primary/50 hover:shadow-lg"
                     }`}
                   >

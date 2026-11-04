@@ -22,7 +22,7 @@ export async function HealingsWidgetSection() {
     <section id="healing" className="relative scroll-mt-20 py-12">
       <div className="mx-auto max-w-5xl px-6">
         <ScrollReveal>
-          <div className="home-box home-box-heart relative rounded-lg border border-primary/30 px-5 py-10 shadow-2xl sm:px-8 md:px-12 md:py-12">
+          <div className="home-box home-box-espresso relative rounded-lg border border-primary/30 px-5 py-10 shadow-2xl sm:px-8 md:px-12 md:py-12">
             <SparkleTrail variant="orbs" />
             <div className="relative z-10">
               <div className="mx-auto flex max-w-2xl flex-col items-center text-center">

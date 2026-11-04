@@ -11,6 +11,7 @@ import {
   BenefitList,
   BookingBlock,
 } from "@/components/modality"
+import { MedicalDisclaimer } from "@/components/modality-faq"
 
 const STRIPE = "https://buy.stripe.com/8x29AM0ndbsic3j94ng360y"
 
@@ -81,6 +82,7 @@ export default async function AuraHealing({
         <BenefitList items={benefits} />
       </Panel>
 
+      <MedicalDisclaimer />
     </ModalityShell>
   )
 }

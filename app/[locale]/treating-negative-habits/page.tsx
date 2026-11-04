@@ -5,7 +5,7 @@ const config = {
   namespace: "NegativeHabits",
   bg: "ancient-of-days-blake.jpg",
   position: "center 30%",
-  investment: "6.150 CZK",
+  investment: "4.900 CZK",
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

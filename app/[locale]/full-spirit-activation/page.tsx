@@ -3,7 +3,7 @@ import { getTranslations } from "next-intl/server"
 import { BRAND } from "@/lib/brand-names"
 import {
   ModalityShell,
-  ModalityHero,
+  ImageHero,
   Panel,
   PanelHeading,
   Lead,
@@ -40,6 +40,7 @@ export default async function FullSpiritActivation({
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "FullSpiritActivation" })
   const inquiry = t("inquiry", { brand: BRAND.fullSpiritActivation })
+  const tModality = await getTranslations({ locale, namespace: "Modality" })
   const tFaq = await getTranslations({ locale, namespace: "FullSpiritFaq" })
   const faqItems = tFaq.raw("items") as FaqItem[]
   const aspects = [0, 1, 2].map((i) => ({ label: t(`aspects.${i}.label`), text: t(`aspects.${i}.text`) }))
@@ -47,21 +48,16 @@ export default async function FullSpiritActivation({
 
   return (
     <ModalityShell bg="plains-of-heaven.jpg" position="center 30%">
-      <ModalityHero
+      <ImageHero
+        image="vitruvian-man.jpg"
+        position="50% 22%"
+        caption="Vitruvian Man · Leonardo da Vinci, c. 1490"
+        accent="cream"
         eyebrow={t("heroEyebrow")}
         title={BRAND.fullSpiritActivation}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
-      />
-
-      <BookingBlock
-        kind="healing"
-        slug="full-spirit-activation"
-        title={t("bookingTitle")}
-        investment="8500 CZK"
-        duration={t("duration")}
-        inquiry={inquiry}
-        bookHref={STRIPE}
+        cta={{ href: STRIPE, label: tModality("bookNow"), external: true }}
       />
 
       <Panel>
@@ -107,6 +103,16 @@ export default async function FullSpiritActivation({
         <BenefitList items={procedures} />
         <Body>{t("proceduresClosing")}</Body>
       </Panel>
+
+      <BookingBlock
+        kind="healing"
+        slug="full-spirit-activation"
+        title={t("bookingTitle")}
+        investment="8500 CZK"
+        duration={t("duration")}
+        inquiry={inquiry}
+        bookHref={STRIPE}
+      />
 
       <ModalityFaq items={faqItems} />
 

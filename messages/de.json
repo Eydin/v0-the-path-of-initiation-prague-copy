@@ -4,7 +4,7 @@
     "titleLine1": "Der Pfad der Initiation:",
     "titleLine2": "Eine 3.000 Jahre alte Linie",
     "subtitle": "Heilung, Meditation und spirituelle Ausbildung in Prag, mit Radu & Diana Coman, zertifizierten Lehrern der Modern Mystery School.",
-    "intro": "Seit Jahrtausenden geben die Mysterienschulen praktische Werkzeuge weiter, um dich selbst zu erkennen, Körper und Seele zu heilen und ein sinnerfülltes Leben zu führen: den Weg, den Leonardo da Vinci, Nikola Tesla und Isaac Newton gegangen sind. Heute steht er jedem offen, der den Ruf spürt. Keine Erfahrung und kein bestimmter Glaube nötig.",
+    "intro": "Seit Jahrtausenden geben die Mysterienschulen praktische Werkzeuge weiter, um dich selbst zu erkennen, Körper und Seele zu heilen und ein sinnerfülltes Leben zu führen: den Weg, den Leonardo da Vinci, Nikola Tesla und Isaac Newton gegangen sind. Heute steht er jedem offen, der den Ruf spürt.",
     "doorHealing": "Ich suche Heilung",
     "doorLearn": "Ich möchte lernen & wachsen",
     "askLink": "Unsicher, wo du anfangen sollst? Frag uns auf WhatsApp",
@@ -270,34 +270,34 @@
     "footnote": "Kein Lärm. Jederzeit abbestellbar."
   },
   "LifeActivation": {
-    "heroEyebrow": "Die Mysterientradition · Linie von König Salomon",
+    "heroEyebrow": "Modern Mystery School · Linie von König Salomon",
     "heroSubtitle": "Aktiviere die angeborenen Gaben, die in deiner DNA ruhen",
     "heroTagline": "Löse 5–7 Generationen von Ahnentrauma und trete in dein höchstes Potenzial ein",
-    "introLead": "{brand} – Die Mysterientradition, Linie von König Salomon",
-    "introBody": "{brand} ist eine tiefgreifende Erfahrung, angeboten durch die Tradition der Modern Mystery School, konzipiert, um das göttliche Potenzial in jedem Menschen zu erwecken. Diese kraftvolle Sitzung aktiviert 22 der 24 DNA-Stränge (11 physische und 11 spirituelle) und öffnet die Tür zu einer tieferen Verbindung mit deinem Göttlichen Selbst. Dadurch verbessert sich deine Fähigkeit, mehr Licht zu empfangen, zirkulieren zu lassen und zu halten — was Heilung, Klarheit und spirituelles Wachstum im physischen Körper unterstützt.",
+    "introLead": "{brand} – Modern Mystery School, Linie von König Salomon",
+    "introBody": "{brand} ist ein Erwachen der Seele, angeboten durch die Tradition der Modern Mystery School, konzipiert, um das göttliche Potenzial in jedem Menschen zu entfachen. Diese kraftvolle Sitzung aktiviert 22 der 24 DNA-Stränge (11 physische und 11 spirituelle) und öffnet die Tür zu einer tieferen Verbindung mit deinem Göttlichen Selbst. Dadurch verbessert sich deine Fähigkeit, mehr Licht zu empfangen, zirkulieren zu lassen und zu halten — was Heilung, Klarheit und spirituelles Wachstum unterstützt.",
     "benefitsHeading": "Die Vorteile der {brand}",
     "benefits": [
       { "label": "Tiefe Verbindung mit dem Göttlichen Selbst:", "text": "Life Activation erleichtert eine tiefere Verbindung mit deinem Göttlichen Selbst und ermöglicht die Manifestation deiner inneren Ressourcen, Talente und Potenziale." },
       { "label": "Energie und Klarheit:", "text": "Die Erfahrung bringt eine Infusion von Energie und Klarheit in alle Lebensbereiche und unterstützt deine Fähigkeit, den Alltag mit Zuversicht zu meistern." },
-      { "label": "Manifestation von Talenten und Fähigkeiten:", "text": "Durch das Erwecken des inneren Potenzials werden die Teilnehmenden sich ihrer einzigartigen Talente und Fähigkeiten bewusster und fähiger, diese voller auszudrücken." },
-      { "label": "Körperliche Transformation und Karma-Freisetzung:", "text": "Life Activation initiiert einen Transformationsprozess im Körper und hilft, emotionale und mentale Muster freizusetzen, die in der DNA gespeichert sind und als „Karma“ bekannt sind." },
+      { "label": "Manifestation von Talenten und Fähigkeiten:", "text": "Durch das Erwecken des inneren Potenzials wirst du dir deiner einzigartigen Talente und Fähigkeiten bewusster und fähiger, sie voller auszudrücken." },
+      { "label": "Körperliche Transformation und Karma-Freisetzung:", "text": "Life Activation startet einen Transformationsprozess im Körper und hilft, emotionale und mentale Muster freizusetzen, die in der DNA gespeichert sind und als „Karma“ bekannt sind." },
       { "label": "Erweiterte Nutzung der Gehirnkapazität:", "text": "Durch diese Erfahrung wird die Fähigkeit verbessert, mehr vom Potenzial des Gehirns zu nutzen, wodurch zuvor übersehene oder ruhende Fähigkeiten ans Licht gebracht werden." }
     ],
     "proceduresHeading": "Zusätzliche Verfahren zum Ausgleich und zur Transformation",
     "proceduresLead": "Zusätzlich zur eigentlichen Aktivierung umfasst die Sitzung ergänzende Verfahren, die den Körper im Einklang mit den neu aktivierten Informationen aus der DNA ausgleichen und stimulieren sollen.",
     "procedures": [
-      { "label": "Entfernung emotionaler Blockaden:", "text": "Konzentriert auf die Beseitigung möglicher emotionaler Blockaden im Kronenchakra, schafft dieser Prozess einen freieren Energiefluss." },
+      { "label": "Entfernung emotionaler Blockaden:", "text": "Konzentriert auf die Beseitigung möglicher emotionaler Blockaden im Kronenchakra, schafft dieser Prozess einen besseren Energiefluss." },
       { "label": "Ausgleich des zentralen Kerns:", "text": "Dieser Prozess harmonisiert die durch den zentralen Kern fließenden Energien und unterstützt die Ausrichtung und das Gleichgewicht des gesamten Energiesystems." },
-      { "label": "Öffnung der 16 Lotusblütenblätter:", "text": "Diese Handlung verstärkt die Verbindung mit den elementaren Energien — Erde, Wasser, Luft und Feuer — und intensiviert deine Interaktion mit ihnen." },
-      { "label": "Ausgleich der elementaren und magnetischen Energielinien:", "text": "Dieser Prozess konzentriert sich auf den Ausgleich und die Harmonisierung der durch den Körper verlaufenden Energielinien und unterstützt einen reibungslosen, ausgerichteten Energiefluss." },
-      { "label": "Chakra-Ausgleich:", "text": "Dieser Prozess zielt darauf ab, Harmonie und Ausrichtung in das Chakrensystem — die Energiezentren des Körpers — zu bringen." },
+      { "label": "Öffnung der 16 Lotusblütenblätter:", "text": "Dies verstärkt die Verbindung mit den elementaren Energien — Erde, Wasser, Luft und Feuer — und gibt dir mehr von ihren Qualitäten und ihrer Kraft." },
+      { "label": "Ausgleich der elementaren und magnetischen Energielinien:", "text": "Dies gleicht die durch den Körper verlaufenden Energielinien aus und harmonisiert sie, für einen reibungslosen, ausgerichteten Energiefluss." },
+      { "label": "Chakra-Ausgleich:", "text": "Dies bringt Harmonie und Ausrichtung in die Energiezentren des Körpers." },
       { "label": "Entfernung verbrannter ätherischer Kristalle aus dem Körper:", "text": "Dieses Verfahren dient der Reinigung und Revitalisierung des energetischen Körpers." },
-      { "label": "Kurze Lesung aus deiner neu aktivierten DNA:", "text": "Eine kurze Erkundung der unterbewussten Ebenen, die dir ein tieferes Selbstverständnis vermittelt." },
+      { "label": "Kurze Lesung aus deiner neu aktivierten DNA:", "text": "Eine kurze Erkundung der unterbewussten Ebenen, die dir Einsichten und Führung schenkt." },
       { "label": "Homöopathisches Mittel:", "text": "Ein im Alchemielabor der Schule hergestelltes homöopathisches Mittel, das die mit dieser einzigartigen Erfahrung verbundenen körperlichen und energetischen Veränderungen entgiften, unterstützen und erleichtern soll." }
     ],
     "exploreHeading": "Erkunde die höheren Dimensionen",
     "exploreBody1": "DNA-Aktivierung ist eine Rückkehr zum Selbst — eine Sitzung, die nicht nur Licht in die Dunkelheit des Lebens bringt, sondern auch Türen zu grenzenlosem Potenzial öffnet.",
-    "exploreBody2": "In der Modern Mystery School dient diese Aktivierung als Tor zur spirituellen Evolution und zur Entdeckung des wahren Selbst auf tiefgreifende und transformative Weise. Es ist ein Schritt zur Selbsterkenntnis und eine Gelegenheit, das Leben mit mehr Energie, Klarheit und Bewusstsein zu leben.",
+    "exploreBody2": "In der Modern Mystery School dient diese Aktivierung als Tor zur spirituellen Evolution und zur Entdeckung des wahren Selbst auf zutiefst transformierende Weise. Es ist ein Schritt hin zu einem Leben mit mehr Energie, Klarheit und Bewusstsein.",
     "certTitle": "{brand} – DNA-Aktivierung",
     "certBody": "Dies ist eine bahnbrechende Methode für <i>innere Verwandlung und die Entfaltung deines persönlichen Potenzials</i>. Sie verbindet uraltes Wissen mit modernen Energien, um dir beim Wachsen und Weiterentwickeln zu helfen. Diese Technik wird von der Modern Mystery School durch zertifizierte Life-Activation-Praktizierende angeboten. Sie dient als <bold>Tor zu höherem Bewusstsein und spiritueller Erweiterung.</bold>",
     "bookingTitle": "Begegne deiner authentischen Kraft und deinem höheren Selbst!",
@@ -399,7 +399,7 @@
     "inquiry": "Hallo, ich möchte gerne mehr über die {brand}-Initiation erfahren."
   },
   "FullSpiritActivation": {
-    "heroEyebrow": "Die Mysterientradition · Linie von König Salomon",
+    "heroEyebrow": "Modern Mystery School · Linie von König Salomon",
     "heroSubtitle": "Erwecke und verankere Seele und Geist im Körper",
     "heroTagline": "Öffne deine Seele für Wunder",
     "introLead": "{brand} — nach der Life Activation empfangen",
@@ -534,7 +534,7 @@
           { "name": "Entfernung negativer Energie", "description": "Entfernt energetische Blockaden und negative Muster aus deinem Energiesystem." },
           { "name": "Durchtrennen emotionaler Bindungen", "description": "Trennt kräftezehrende emotionale Bindungen, damit du keine Energie mehr an andere Menschen verlierst." },
           { "name": "Schamanische Aurareinigung", "description": "Schamanische Techniken zur Beseitigung von Blockaden und schweren Energien aus dem Aurafeld." },
-          { "name": "Ensofic Reiki", "description": "Eine einzelne 90-minütige Sitzung mit dem Ensofischen Strahl — löst Blockaden und führt dich zu Balance und Präsenz zurück." },
+          { "name": "Ensofic Reiki", "description": "Eine einzelne Heilsitzung mit dem Ensofischen Strahl für deinen Körper und dein Nervensystem, in Prag oder aus der Ferne." },
           { "name": "Behandlung negativer Gewohnheiten", "description": "Nutzt den Ensofischen Strahl, um dir zu helfen, negative Muster oder Gewohnheiten loszulassen, die du in deinem Leben wiederholst." },
           { "name": "Kristallheilung", "description": "Uralte Techniken der Linie im Umgang mit Kristallen für Heilung, Intuition und Schutz." },
           { "name": "Seelenrückholung", "description": "Gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit." },
@@ -585,7 +585,7 @@
     "specialtyGroupTitle": "Spezialsitzungen",
     "specialtyGroupBlurb": "Tiefere, spezialisierte Arbeit der Tradition — jede eins zu eins angeboten.",
     "specialtySessions": [
-      { "name": "Fortgeschrittene Ensofische Strahlenheilung", "description": "Eine Serie von drei 90-minütigen Sitzungen mit dem Ensofischen Strahl — Körper, Seele & Geist, dann Integration — die deine Ausrichtung vertieft und stabilisiert." },
+      { "name": "Fortgeschrittene Ensofische Strahlenheilung", "description": "Drei 90-minütige Sitzungen persönlich, etwa im Abstand von einer Woche: eine tiefe Wandlung von Körper, Geist und Seele, die den Ensofischen Strahl für etwa zehn Monate in deinem Energiefeld versiegelt." },
       { "name": "Feuerseelen-Infusion", "description": "Entfacht das innere Feuer der Seele neu und stellt Leidenschaft, Antrieb und Lebenskraft wieder her, wo du dich erschöpft fühlst." },
       { "name": "Kernwillen-Infusion", "description": "Stärkt deinen Kernwillen — den inneren Sitz persönlicher Kraft, Entschlossenheit und Richtung." },
       { "name": "Erzengel Michael Interstellarer Lichtstrahl", "description": "Ruft Erzengel Michael an, dich in eine Säule schützenden Lichts zu hüllen und dein Energiefeld zu reinigen und abzuschirmen." },
@@ -1173,7 +1173,7 @@
     "disclaimer": "Diese Arbeit ersetzt keine ärztlich verordnete Behandlung. Sie wird als ergänzende energetische und spirituelle Unterstützung neben deiner medizinischen Versorgung angeboten."
   },
   "SoulRetrieval": {
-    "heroEyebrow": "Tiefe Heilung · Prag",
+    "heroEyebrow": "Tiefe Heilung",
     "heroTitle": "Hermetische Seelenrückholung",
     "heroSubtitle": "Rufe die Teile von dir zurück, die zurückgeblieben sind",
     "heroTagline": "Eine sanfte und zugleich zutiefst kraftvolle Sitzung, die ein Gefühl von Ganzheit wiederherstellt",
@@ -1217,14 +1217,55 @@
     "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
     "inquiry": "Hallo, ich möchte mehr über die Hermetische Seelenrückholung erfahren."
   },
+  "EnsoficReiki": {
+    "heroEyebrow": "Energieheilung",
+    "heroTitle": "Ensofic Reiki",
+    "heroSubtitle": "Der höchste, hellste Strahl der Schöpfung",
+    "heroTagline": "Ensofic Reiki für deinen Körper und dein Nervensystem",
+    "introLead": "Der erste Strahl der Schöpfung: rein, klar und direkt",
+    "introBody1": "Der Ensofische Strahl ist der höchste, hellste und kraftvollste Strahl der Energie, der erste Strahl der Schöpfung. Er trägt Reinheit, Klarheit und gebündelte Konzentration in sich und geht deshalb direkt zum Kern.",
+    "introBody2": "Ensofic Reiki ist eine Heilsitzung, die hilft, Schmerzen zu lindern, und deinen Körper dabei unterstützt, schneller zu heilen. Sie ist eine gute Wahl, wenn du dich von einer Verletzung, einer Krankheit oder einer Operation erholst, wenn du mit immer wiederkehrenden Schmerzen lebst oder wenn dein Körper erschöpft ist und sich nur langsam erholt. Viele gehen nach der Sitzung leichter und ruhiger nach Hause, mit weniger Schmerzen und besserem Schlaf. Du kannst vor Ort in Prag kommen oder die Sitzung aus der Ferne empfangen, wo immer du auf der Welt bist.",
+    "benefitsHeading": "Vorteile",
+    "benefits": [
+      "Hilft, Schmerzen zu lindern, akute ebenso wie immer wiederkehrende",
+      "Hilft Verletzungen, Wunden und dem Körper nach einer Operation, schneller zu heilen",
+      "Löst Verspannungen und Steifheit in Muskeln und Gelenken",
+      "Beruhigt das Nervensystem, damit sich der Körper ausruhen und regenerieren kann",
+      "Unterstützt einen tieferen, erholsameren Schlaf",
+      "Du fühlst dich danach leichter, ruhiger und hast mehr Energie"
+    ],
+    "who": [
+      "Du hast Schmerzen und möchtest Linderung",
+      "Du erholst dich von einer Verletzung, einem Sturz, einer Sportverletzung oder einer Operation und möchtest schneller heilen",
+      "Du lebst mit langanhaltenden Schmerzen, etwa Rücken-, Gelenk- oder Kopfschmerzen",
+      "Dein Körper ist erschöpft und erholt sich nur langsam"
+    ],
+    "faq": [
+      {
+        "q": "Wobei kann Ensofic Reiki helfen?",
+        "a": "Ensofic Reiki arbeitet mit dem physischen Körper und dem Nervensystem: bei Schmerzen und körperlichen Beschwerden, Stress und Angst, Erschöpfung, schlechtem Schlaf und vielen anderen Problemen. Es ergänzt deine medizinische Versorgung, ersetzt sie aber nicht."
+      },
+      {
+        "q": "Kann ich Ensofic Reiki aus der Ferne empfangen?",
+        "a": "Ja. Ensofic Reiki kannst du vor Ort in Prag oder als Fernheilung empfangen, wo immer du auf der Welt bist. Radu und Diana haben die Fernheilung mit viel Training und harter Arbeit gemeistert und leiten gemeinsam die Heilkraft dorthin, wo sie gebraucht wird."
+      },
+      {
+        "q": "Was muss ich zur Vorbereitung tun?",
+        "a": "Du musst dich nur entspannen; du musst vorher nichts lernen und an nichts glauben."
+      }
+    ],
+    "duration": "90 Minuten",
+    "bookingNote": "Diese Heilsitzung kann vor Ort in Prag oder aus der Ferne stattfinden, überall auf der Welt.",
+    "inquiry": "Hallo, ich interessiere mich für Ensofic Reiki."
+  },
   "AdvancedEnsoficRay": {
-    "heroEyebrow": "Energieheilung · Prag & aus der Ferne",
+    "heroEyebrow": "Energieheilung",
     "heroTitle": "Fortgeschrittene Ensofische Strahlenheilung",
     "heroSubtitle": "Die erste Ausstrahlung des Lichts aus der Quelle",
-    "heroTagline": "Eine Serie von drei Sitzungen, die deine Ausrichtung vertieft und stabilisiert",
+    "heroTagline": "Eine Serie von drei Sitzungen, die deine Göttlichkeit tiefer verankert",
     "introLead": "Ein tiefes, präzises System energetischer Ausrichtung",
-    "introBody1": "Der Ensofische Strahl ist die erste Ausstrahlung des Lichts aus der Quelle. Diese Heilung arbeitet mit ihm und unterstützt die Ausrichtung von physischem Körper, Emotionalfeld, Geist und energetischer Struktur.",
-    "introBody2": "Das Protokoll mit drei Sitzungen ist darauf ausgelegt, den Prozess zu vertiefen und zu stabilisieren, wobei jede Sitzung auf der vorherigen aufbaut. Die Sitzungen sind in Prag oder aus der Ferne weltweit möglich.",
+    "introBody1": "Der Ensofische Strahl ist die erste Ausstrahlung des Lichts aus der Quelle. Diese Heilung arbeitet mit ihm und unterstützt die Ausrichtung von physischem Körper, Emotionalfeld, Geist, Seele und spirituellem Körper.",
+    "introBody2": "Das Protokoll mit drei Sitzungen ist darauf ausgelegt, den Prozess zu vertiefen und zu stabilisieren, wobei jede Sitzung auf der vorherigen aufbaut. Die Sitzungen finden nur vor Ort in Prag statt.",
     "protocolHeading": "Das Drei-Sitzungen-Protokoll",
     "protocol": [
       {
@@ -1253,47 +1294,21 @@
     ],
     "bookingTitle": "Empfange den Strahl",
     "duration": "3 × 90 Minuten",
-    "bookingNote": "In Prag oder aus der Ferne weltweit möglich. Schreib uns, um deinen Termin zu vereinbaren.",
+    "bookingNote": "Die drei Sitzungen finden nur vor Ort in Prag statt. Schreib uns, um deinen Termin zu vereinbaren.",
     "inquiry": "Hallo, ich interessiere mich für die Fortgeschrittene Ensofische Strahlenheilung."
   },
-  "EnsoficReiki": {
-    "heroEyebrow": "Energieheilung · Prag & aus der Ferne",
-    "heroTitle": "Ensofic Reiki",
-    "heroSubtitle": "Die erste Ausstrahlung des Lichts aus der Quelle",
-    "heroTagline": "Eine einzelne Sitzung, um Blockaden zu lösen und zu Balance und Präsenz zurückzukehren",
-    "introLead": "Der reinste Lichtstrahl, in einer einzigen Sitzung zu dir gebracht",
-    "introBody1": "Der Ensofische Strahl ist die erste Ausstrahlung des Lichts aus der Quelle. In einer Ensofic-Reiki-Sitzung wird er genutzt, um Verzerrung aufzulösen und Blockaden in deinem physischen Körper, Emotionalfeld, Geist und deiner energetischen Struktur zu lösen.",
-    "introBody2": "Eine einzelne Sitzung kann spürbare Erleichterung und eine Rückkehr zu Balance und Präsenz bringen. Für einen tieferen, schrittweisen Prozess entdecke die Fortgeschrittene Ensofische Strahlenheilung. Die Sitzungen sind persönlich in Prag oder aus der Ferne möglich, wo auch immer du bist.",
-    "benefitsHeading": "Vorteile",
-    "benefits": [
-      "Verbindet dich wieder mit deinem authentischen Selbst und deinem inneren Licht",
-      "Löst körperliche, emotionale und energetische Blockaden",
-      "Richtet Körper, Geist und Seele aus",
-      "Erhöht die Schwingung und stellt Klarheit und Frieden wieder her",
-      "Unterstützt emotionale Heilung und Erneuerung"
-    ],
-    "faq": [
-      {
-        "q": "Wie kann Heilung aus der Ferne wirken?",
-        "a": "Radu und Diana haben diese Fähigkeit mit viel Training und harter Arbeit gemeistert. Sie haben ihre Konzentration ebenso verfeinert wie ihre Beziehung zur Hierarchie des Lichts. Gemeinsam leiten sie die Heilkraft dorthin, wo sie in der Welt gebraucht wird."
-      }
-    ],
-    "duration": "90 Minuten",
-    "bookingNote": "In Prag oder aus der Ferne weltweit möglich. Schreib uns, um deinen Termin zu vereinbaren.",
-    "inquiry": "Hallo, ich interessiere mich für Ensofic Reiki."
-  },
   "NegativeHabits": {
-    "heroEyebrow": "Energieheilung · Prag & aus der Ferne",
+    "heroEyebrow": "Energieheilung",
     "heroTitle": "Behandlung negativer Gewohnheiten",
-    "heroSubtitle": "Lass die Muster los, die du immer wieder wiederholst",
-    "heroTagline": "Ensofische Strahlenheilung, um negative Muster und Gewohnheiten zu lösen",
-    "introLead": "Manche Muster kehren zurück, weil sie tiefer sitzen als Willenskraft",
+    "heroSubtitle": "Durchbrich den Kreislauf, den Willenskraft allein nicht lösen konnte",
+    "heroTagline": "Erreiche die Wurzel der Gewohnheit, damit dir gesündere Entscheidungen leichter fallen",
+    "introLead": "Manche Muster kehren zurück, weil sie tiefer sitzen, als deine Willenskraft reicht",
     "introBody1": "Diese Sitzung nutzt den Ensofischen Strahl, um dir zu helfen, negative Muster oder Gewohnheiten loszulassen, die du in deinem Leben wiederholst — die Schleifen aus Gedanken, Emotionen und Verhalten, die immer wiederkehren, so sehr du dich auch bemühst, sie zu ändern.",
     "introBody2": "Indem die Sitzung auf der Ebene der energetischen Struktur arbeitet, in der diese Muster gehalten werden, unterstützt sie deren Loslösung, sodass neue und gesündere Entscheidungen leichter und natürlicher werden. Die Sitzungen sind persönlich in Prag oder aus der Ferne möglich, wo auch immer du bist.",
     "benefitsHeading": "Was sie unterstützt",
     "benefits": [
-      "Das Lösen negativer Muster und Gewohnheiten, die sich ständig wiederholen",
-      "Mehr Freiheit von automatischen Reaktionen und alten Schleifen",
+      "Das Lösen negativer Muster und Gewohnheiten, die du ständig wiederholst",
+      "Mehr Freiheit von automatischen Reaktionen und unbewussten Entscheidungen",
       "Emotionale Leichtigkeit und Klarheit",
       "Mehr Leichtigkeit bei neuen, unterstützenden Entscheidungen",
       "Unterstützung neben deiner eigenen Arbeit, Therapie oder medizinischen Versorgung"
@@ -1301,7 +1316,7 @@
     "who": [
       "Du wiederholst dieselben Muster in Beziehungen, Beruf oder Leben",
       "Du schaffst es trotz bester Absichten nicht, eine Gewohnheit abzulegen",
-      "Du steckst in vertrauten Gedanken- oder Gefühlsschleifen fest",
+      "Du steckst in Situationen, Denkmustern und Gefühlen fest",
       "Du bist bereit, loszulassen, was dir nicht mehr dient"
     ],
     "faq": [
@@ -1323,7 +1338,7 @@
     "inquiry": "Hallo, ich möchte mehr über die Behandlung negativer Gewohnheiten erfahren."
   },
   "CrystalHealing": {
-    "heroEyebrow": "Energieheilung · Prag",
+    "heroEyebrow": "Energieheilung",
     "heroTitle": "Kristallheilung",
     "heroSubtitle": "Ruhe dich aus, während das Reich der Mineralien still sein Werk tut",
     "heroTagline": "Heiliger Klang und Stein, so platziert, dass sie Balance, Klarheit und Fluss wiederherstellen",
@@ -1353,10 +1368,10 @@
     "inquiry": "Hallo, ich interessiere mich für die Kristallheilung."
   },
   "SparkOfLife": {
-    "heroEyebrow": "Energie-Fernheilung · Weltweit",
+    "heroEyebrow": "Energieheilung",
     "heroTitle": "Lebensfunke",
     "heroSubtitle": "Verbinde dich wieder mit deinem ursprünglichen Funken der Lebenskraft",
-    "heroTagline": "Eine Fernheilungssitzung, weltweit, aus Prag",
+    "heroTagline": "Eine Heilsitzung, die deine Lebenskraft wiederherstellt und deine Energie erneuert",
     "introLead": "Lebenskraft, in den Kern deines Wesens geleitet",
     "introBody1": "Der Lebensfunke wirkt jenseits der ätherischen Matrix und des Chakrensystems und leitet Lebenskraftenergie in den Kern des Wesens. Seine Wurzeln reichen zu den altägyptischen Tempeln zurück, wo er für Priester und Priesterinnen entwickelt wurde, um sie für lange Jahre des Dienstes zu verjüngen; er wird durch direkte Übertragung weitergegeben.",
     "introBody2": "Du ruhst still, liegend oder sitzend, wo auch immer du bist, während Diana und Radu aus der Ferne arbeiten. Du musst nur empfangen. Er lässt sich gut mit einer Life Activation verbinden, davor oder danach.",
@@ -1519,7 +1534,7 @@
     "inquiry": "Hallo, ich möchte mehr über Meditation und Gebet erfahren."
   },
   "SanctuarySessionPage": {
-    "heroEyebrow": "Geführte Meditation · Prag",
+    "heroEyebrow": "Geführte Meditation",
     "heroTitle": "Sanctuary Meditation",
     "heroSubtitle": "Kehre zu deinem Heiligtum zurück und begegne deinem Höheren Selbst",
     "heroTagline": "Eine einstündige geführte Meditation für alle, die den Weg schon kennen",
@@ -1547,7 +1562,7 @@
     "inquiry": "Hallo, ich möchte mehr über die Sanctuary Meditation (1 Stunde) erfahren."
   },
   "MaxMeditationPage": {
-    "heroEyebrow": "Geführte Meditation · Prag",
+    "heroEyebrow": "Geführte Meditation",
     "heroTitle": "Max Meditation",
     "heroSubtitle": "Finde inneren Frieden",
     "heroTagline": "Eine geführte Meditation, die Zeit und Raum für Frieden und Balance in deinem Leben schafft",

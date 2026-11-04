@@ -2,7 +2,7 @@
 // Regenerate after content changes: node scripts/build-knowledge.mjs
 export const SITE_KNOWLEDGE = `## PAGE: /advanced-ensofic-ray-healing
 center 30%
-16.900 CZK
+11.900 CZK
 
 ## PAGE: /astral-travel
 https://buy.stripe.com/3cI7sE1rh1RIc3jeoHg360k
@@ -158,6 +158,8 @@ Contact the Community
 
 ## PAGE: /crystal-healing
 center 30%
+center 50%
+Amethyst geode · photo by Calvin Chai, Unsplash
 3.669 CZK
 
 ## PAGE: /empower-thyself
@@ -236,11 +238,13 @@ Reading Session
 
 ## PAGE: /ensofic-reiki
 center 30%
-6.150 CZK
+center 45%
+The first ray of light · photo by Liana S, Unsplash
+4.900 CZK
 
 ## PAGE: /full-spirit-activation
 https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
-The Mystery Tradition · Lineage of King Salomon
+The Modern Mystery School · Lineage of King Salomon
 Awaken and anchor the soul and spirit into the body
 Open your soul to miracles
 Beneath the veil of our physical existence lies a vast and complex world of consciousness that, once awakened and activated, can radically transform the way we perceive and experience reality. Full Spirit Activation is a powerful process that brings light and clarity to our entire being, opening us to deeper levels of awareness and reconnecting us with our divine essence.
@@ -270,6 +274,15 @@ A magical Energy Spray (Spagyrics) created to support the process and gentle det
 After such an intense session, it is recommended to allow yourself time to fully integrate the transformations. To maximise the benefits, complete the Life Activation first — ideally between three weeks and three months beforehand.
 Discover Your Potential to Be a Divine Being
 2 Hours
+For prices and sign-up, please see the Modern Mystery School UK website.
+Prices & Sign-Up on MMS UK
+Email
+Price
+Duration
+Do you have any questions?
+After you reach out, we will contact you personally to finalize your appointment.
+Healing Session
+Reading Session
 What happens in a session?
 You stay comfortably seated throughout while Diana or Radu works with the higher centres — the pineal, pituitary and thalamus. There is nothing you need to do; you simply receive.
 Do I need a Life Activation first?
@@ -349,7 +362,7 @@ Disconnects draining emotional cords so you stop losing energy to other people.
 Shamanic Aura Clearing
 Shamanic techniques to clear blockages and heavy energies from the auric field.
 Ensofic Reiki
-A single 90-minute session with the Ensofic Ray — clears blockages and returns you to balance and presence.
+A single healing session with the Ensofic Ray for your body and nervous system, in Prague or remotely.
 Treating of Negative Habits
 Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life.
 Crystal Healing
@@ -433,7 +446,7 @@ Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
 
 ## PAGE: /life-activation
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
-The Mystery Tradition · Lineage of King Salomon
+The Modern Mystery School · Lineage of King Salomon
 Activate the innate gifts that reside in your DNA
 Clear 5–7 generations of ancestral trauma and step into your highest potential
 Deep Connection with the Divine Self:
@@ -441,32 +454,32 @@ Life Activation facilitates a deeper connection with your Divine Self, allowing 
 Energy and Clarity:
 The experience brings an infusion of energy and clarity into all areas of life, supporting your ability to navigate daily life with confidence.
 Manifestation of Talents and Abilities:
-By awakening the inner potential, participants become more aware and capable of expressing their unique talents and abilities more fully.
+By awakening the inner potential, you become more aware and capable of expressing your unique talents and abilities more fully.
 Body Transformation and Karma Release:
-Life Activation initiates a process of transformation in the body, helping to release emotional and mental patterns stored in the DNA, known as “karma.”
+Life Activation starts a process of transformation in the body, helping to release emotional and mental patterns stored in the DNA, known as “karma.”
 Expanded Use of Brain Capacity:
 Through this experience, the ability to tap into more of the brain's potential is enhanced, bringing to light previously overlooked or dormant capabilities.
 Additional Procedures for Balancing and Transformation
 In addition to the activation itself, the session includes supplementary procedures designed to balance and stimulate the body in alignment with the newly activated information from the DNA.
 Emotional Blockage Removal:
-Focused on clearing potential emotional blockages from the crown chakra, this process creates a freer flow of energy.
+Focused on clearing potential emotional blockages from the crown chakra, this process creates a better flow of energy.
 Central Core Balancing:
-This process works to harmonize the energies flowing through the central core, supporting the alignment and balance of the entire energetic system.
+This process harmonizes the energies flowing through the central core, supporting the alignment and balance of the entire energetic system.
 Opening of the 16 Lotus Petals:
-This action enhances the connection with the Elemental energies—Earth, Water, Air, and Fire—amplifying your interaction with them.
+This enhances the connection with the Elemental energies—Earth, Water, Air, and Fire—giving you more of their qualities and power.
 Balancing of Elemental and Magnetic Energy Lines:
-This process focuses on balancing and harmonizing the energy lines that run through the body, supporting a smooth and aligned energy flow.
+This balances and harmonizes the energy lines that run through the body, supporting a smooth and aligned energy flow.
 Chakra Balancing:
-This process aims to bring harmony and alignment to the chakra system—the body's energy centers.
+This brings harmony and alignment to the body's energy centers.
 Removal of Burnt Etheric Crystals from the Body:
 This procedure is intended to cleanse and revitalize the energetic body.
 Brief Reading from Your Newly Activated DNA:
-A short exploration of the subconscious layers, providing you with deeper self-understanding.
+A short exploration of the subconscious layers, providing you with insights and guidance.
 Energy Spray (Spagyrics):
 A spray created in the school's alchemy laboratory, designed to detoxify, support, and ease the physical and energetic changes associated with this unique experience.
 Explore the Higher Dimensions
 DNA Activation is a return to the self—a session that not only brings light into the darkness of life but also opens doors to unlimited potential.
-At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deep and transformative way. It is a step toward self-knowledge and an opportunity to live life with greater energy, clarity, and awareness.
+At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deeply transformative way. It is a step toward living life with greater energy, clarity, and awareness.
 This is a groundbreaking method for inner transformation and unlocking your personal potential . It combines ancient wisdom with modern energies to help you grow and evolve. This technique is offered by the Modern Mystery School through Certified Life Activation Practitioners. It serves as a gateway to higher consciousness and spiritual expansion.
 Meet Your Authentic Power and Higher Self!
 2 Hours
@@ -567,7 +580,7 @@ Being part of the Modern Mystery School lineage is being part of a family — a 
 Begin Your Journey
 
 ## PAGE: /max-meditation
-Guided Meditation · Prague
+Guided Meditation
 Max Meditation
 Find peace of mind
 A guided meditation session to create time and space for peace and balance in your life
@@ -660,7 +673,7 @@ Begin with a conversation
 Join the circle
 If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
 Contact the Community
-Guided Meditation · Prague
+Guided Meditation
 Sanctuary Meditation
 Return to your Sanctuary & meet your Higher Self
 A one-hour guided meditation for those who already know the way
@@ -724,7 +737,7 @@ Disconnects draining emotional cords so you stop losing energy to other people.
 Shamanic Aura Clearing
 Shamanic techniques to clear blockages and heavy energies from the auric field.
 Ensofic Reiki
-A single 90-minute session with the Ensofic Ray — clears blockages and returns you to balance and presence.
+A single healing session with the Ensofic Ray for your body and nervous system, in Prague or remotely.
 Treating of Negative Habits
 Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life.
 Crystal Healing
@@ -894,7 +907,7 @@ Read the Language of Creation
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
 
 ## PAGE: /sanctuary-meditation-session
-Guided Meditation · Prague
+Guided Meditation
 Sanctuary Meditation
 Return to your Sanctuary & meet your Higher Self
 A one-hour guided meditation for those who already know the way
@@ -996,7 +1009,7 @@ Focused King Salomon work within the auric field, clearing and rebuilding the re
 Specialty Sessions
 Deeper, specialised work of the tradition — each offered one-to-one.
 Advanced Ensofic Ray Healing
-A series of three 90-minute sessions with the Ensofic Ray — body, soul & spirit, then integration — to deepen and stabilise your alignment.
+Three 90-minute sessions in person, about a week apart: a deep transformation of body, mind and soul that seals the Ensofic Ray in your energy field for about ten months.
 Fire Soul Infusion
 Reignites the inner fire of the soul, restoring passion, drive and life-force where you feel depleted.
 Core Will Infusion
@@ -1114,7 +1127,7 @@ Begin Your Journey
 
 ## PAGE: /treating-negative-habits
 center 30%
-6.150 CZK
+4.900 CZK
 
 ## PAGE: /withdraw-from-contract
 Withdraw from the Contract | The Path of Initiation Prague
@@ -1344,7 +1357,7 @@ Prague, Czech Republic
 The Path of Initiation:
 A 3,000-Year-Old Lineage
 Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, certified teachers of the Modern Mystery School.
-For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call. No experience or belief needed.
+For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call.
 I'm looking for healing
 I want to learn & grow
 Not sure where to begin? Ask us on WhatsApp
@@ -1386,7 +1399,7 @@ Community
 The Path of Initiation:
 A 3,000-Year-Old Lineage
 Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, certified teachers of the Modern Mystery School.
-For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call. No experience or belief needed.
+For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call.
 I'm looking for healing
 I want to learn & grow
 Not sure where to begin? Ask us on WhatsApp
@@ -1510,7 +1523,7 @@ Prague, Czech Republic
 The Path of Initiation:
 A 3,000-Year-Old Lineage
 Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, certified teachers of the Modern Mystery School.
-For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call. No experience or belief needed.
+For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call.
 I'm looking for healing
 I want to learn & grow
 Not sure where to begin? Ask us on WhatsApp
@@ -1661,11 +1674,12 @@ https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
 /full-spirit-activation
 4.800 CZK
 /aura-healing
-6.150 CZK
+4.900 CZK
 /ensofic-reiki
 /treating-negative-habits
 3.669 CZK
 /crystal-healing
+6.150 CZK
 /soul-retrieval
 /spark-of-life
 /life-purpose-reading`;

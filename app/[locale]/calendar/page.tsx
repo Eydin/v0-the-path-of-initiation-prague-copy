@@ -54,8 +54,8 @@ export default async function CalendarPage({
           <section className="on-image relative py-20 lg:py-28">
             <div className="mx-auto max-w-7xl px-6">
               <ScrollReveal>
-                {/* dark glass panel: the Van Gogh painting is too busy for text straight on it */}
-                <div className="mx-auto max-w-3xl rounded-lg border border-white/10 bg-[#0c1226]/70 px-6 py-10 text-center backdrop-blur-md md:px-12">
+                {/* espresso panel (as on the class pages): the Van Gogh painting is too busy for text straight on it */}
+                <div className="home-box home-box-espresso mx-auto max-w-3xl rounded-lg border px-6 py-10 text-center md:px-12">
                   <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
                     {t("eyebrow")}
                   </p>
@@ -197,7 +197,7 @@ export default async function CalendarPage({
 
               {/* legend + closing CTA */}
               <ScrollReveal>
-                <div className="on-image mt-16 rounded-lg border border-white/10 bg-[#0c1226]/70 px-6 py-10 text-center backdrop-blur-md">
+                <div className="home-box home-box-espresso mt-16 rounded-lg border px-6 py-10 text-center">
                   <div className="mb-8 flex flex-wrap items-center justify-center gap-x-6 gap-y-3 text-xs uppercase tracking-[0.2em] text-muted-foreground">
                     <span className="inline-flex items-center gap-2">
                       <span className="h-[10px] w-[10px] rotate-45 bg-primary" />

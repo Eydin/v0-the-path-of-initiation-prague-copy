@@ -4,7 +4,7 @@
     "titleLine1": "The Path of Initiation:",
     "titleLine2": "A 3,000-Year-Old Lineage",
     "subtitle": "Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, certified teachers of the Modern Mystery School.",
-    "intro": "For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call. No experience or belief needed.",
+    "intro": "For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call.",
     "doorHealing": "I'm looking for healing",
     "doorLearn": "I want to learn & grow",
     "askLink": "Not sure where to begin? Ask us on WhatsApp",
@@ -270,11 +270,11 @@
     "footnote": "No noise. Unsubscribe anytime."
   },
   "LifeActivation": {
-    "heroEyebrow": "The Mystery Tradition · Lineage of King Salomon",
+    "heroEyebrow": "The Modern Mystery School · Lineage of King Salomon",
     "heroSubtitle": "Activate the innate gifts that reside in your DNA",
     "heroTagline": "Clear 5–7 generations of ancestral trauma and step into your highest potential",
-    "introLead": "{brand} – The Mystery Tradition, Lineage of King Salomon",
-    "introBody": "{brand} is a profound experience offered through the Modern Mystery School tradition, designed to awaken the divine potential within every human being. This powerful session activates 22 of the 24 DNA strands (11 physical and 11 spiritual), opening the doorway to a deeper connection with your Divine Self. By doing so, it enhances your ability to receive, circulate, and hold more Light—supporting healing, clarity, and spiritual growth in the physical body.",
+    "introLead": "{brand} – The Modern Mystery School, Lineage of King Salomon",
+    "introBody": "{brand} is an awakening of the soul offered through the Modern Mystery School tradition, designed to ignite the divine potential within every human being. This powerful session activates 22 of the 24 DNA strands (11 physical and 11 spiritual), opening the doorway to a deeper connection with your Divine Self. By doing so, it enhances your ability to receive, circulate, and hold more Light—supporting healing, clarity, and spiritual growth.",
     "benefitsHeading": "The Benefits of {brand}",
     "benefits": [
       {
@@ -287,11 +287,11 @@
       },
       {
         "label": "Manifestation of Talents and Abilities:",
-        "text": "By awakening the inner potential, participants become more aware and capable of expressing their unique talents and abilities more fully."
+        "text": "By awakening the inner potential, you become more aware and capable of expressing your unique talents and abilities more fully."
       },
       {
         "label": "Body Transformation and Karma Release:",
-        "text": "Life Activation initiates a process of transformation in the body, helping to release emotional and mental patterns stored in the DNA, known as “karma.”"
+        "text": "Life Activation starts a process of transformation in the body, helping to release emotional and mental patterns stored in the DNA, known as “karma.”"
       },
       {
         "label": "Expanded Use of Brain Capacity:",
@@ -303,23 +303,23 @@
     "procedures": [
       {
         "label": "Emotional Blockage Removal:",
-        "text": "Focused on clearing potential emotional blockages from the crown chakra, this process creates a freer flow of energy."
+        "text": "Focused on clearing potential emotional blockages from the crown chakra, this process creates a better flow of energy."
       },
       {
         "label": "Central Core Balancing:",
-        "text": "This process works to harmonize the energies flowing through the central core, supporting the alignment and balance of the entire energetic system."
+        "text": "This process harmonizes the energies flowing through the central core, supporting the alignment and balance of the entire energetic system."
       },
       {
         "label": "Opening of the 16 Lotus Petals:",
-        "text": "This action enhances the connection with the Elemental energies—Earth, Water, Air, and Fire—amplifying your interaction with them."
+        "text": "This enhances the connection with the Elemental energies—Earth, Water, Air, and Fire—giving you more of their qualities and power."
       },
       {
         "label": "Balancing of Elemental and Magnetic Energy Lines:",
-        "text": "This process focuses on balancing and harmonizing the energy lines that run through the body, supporting a smooth and aligned energy flow."
+        "text": "This balances and harmonizes the energy lines that run through the body, supporting a smooth and aligned energy flow."
       },
       {
         "label": "Chakra Balancing:",
-        "text": "This process aims to bring harmony and alignment to the chakra system—the body's energy centers."
+        "text": "This brings harmony and alignment to the body's energy centers."
       },
       {
         "label": "Removal of Burnt Etheric Crystals from the Body:",
@@ -327,7 +327,7 @@
       },
       {
         "label": "Brief Reading from Your Newly Activated DNA:",
-        "text": "A short exploration of the subconscious layers, providing you with deeper self-understanding."
+        "text": "A short exploration of the subconscious layers, providing you with insights and guidance."
       },
       {
         "label": "Energy Spray (Spagyrics):",
@@ -336,7 +336,7 @@
     ],
     "exploreHeading": "Explore the Higher Dimensions",
     "exploreBody1": "DNA Activation is a return to the self—a session that not only brings light into the darkness of life but also opens doors to unlimited potential.",
-    "exploreBody2": "At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deep and transformative way. It is a step toward self-knowledge and an opportunity to live life with greater energy, clarity, and awareness.",
+    "exploreBody2": "At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deeply transformative way. It is a step toward living life with greater energy, clarity, and awareness.",
     "certTitle": "{brand} – DNA Activation",
     "certBody": "This is a groundbreaking method for <i>inner transformation and unlocking your personal potential</i>. It combines ancient wisdom with modern energies to help you grow and evolve. This technique is offered by the Modern Mystery School through Certified Life Activation Practitioners. It serves as a <bold>gateway to higher consciousness and spiritual expansion.</bold>",
     "bookingTitle": "Meet Your Authentic Power and Higher Self!",
@@ -438,7 +438,7 @@
     "inquiry": "Hello, I would like to learn more about the {brand} Initiation."
   },
   "FullSpiritActivation": {
-    "heroEyebrow": "The Mystery Tradition · Lineage of King Salomon",
+    "heroEyebrow": "The Modern Mystery School · Lineage of King Salomon",
     "heroSubtitle": "Awaken and anchor the soul and spirit into the body",
     "heroTagline": "Open your soul to miracles",
     "introLead": "{brand} — received after the Life Activation",
@@ -573,7 +573,7 @@
           { "name": "Negative Energy Removal", "description": "Removes energetic blocks and negative patterns from your energy system." },
           { "name": "Emotional Cord Cutting", "description": "Disconnects draining emotional cords so you stop losing energy to other people." },
           { "name": "Shamanic Aura Clearing", "description": "Shamanic techniques to clear blockages and heavy energies from the auric field." },
-          { "name": "Ensofic Reiki", "description": "A single 90-minute session with the Ensofic Ray — clears blockages and returns you to balance and presence." },
+          { "name": "Ensofic Reiki", "description": "A single healing session with the Ensofic Ray for your body and nervous system, in Prague or remotely." },
           { "name": "Treating of Negative Habits", "description": "Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life." },
           { "name": "Crystal Healing", "description": "Ancient lineage techniques working with crystals for healing, intuition and protection." },
           { "name": "Soul Retrieval", "description": "Recovers and reintegrates lost fragments of the self into wholeness." },
@@ -624,7 +624,7 @@
     "specialtyGroupTitle": "Specialty Sessions",
     "specialtyGroupBlurb": "Deeper, specialised work of the tradition — each offered one-to-one.",
     "specialtySessions": [
-      { "name": "Advanced Ensofic Ray Healing", "description": "A series of three 90-minute sessions with the Ensofic Ray — body, soul & spirit, then integration — to deepen and stabilise your alignment." },
+      { "name": "Advanced Ensofic Ray Healing", "description": "Three 90-minute sessions in person, about a week apart: a deep transformation of body, mind and soul that seals the Ensofic Ray in your energy field for about ten months." },
       { "name": "Fire Soul Infusion", "description": "Reignites the inner fire of the soul, restoring passion, drive and life-force where you feel depleted." },
       { "name": "Core Will Infusion", "description": "Strengthens your core will — the inner seat of personal power, resolve and direction." },
       { "name": "Archangel Michael Interstellar Tube of Light", "description": "Calls on Archangel Michael to surround you in a column of protective light, clearing and shielding your energy field." },
@@ -1212,7 +1212,7 @@
     "disclaimer": "This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care."
   },
   "SoulRetrieval": {
-    "heroEyebrow": "Deep Healing · Prague",
+    "heroEyebrow": "Deep Healing",
     "heroTitle": "Hermetic Soul Retrieval",
     "heroSubtitle": "Call back the parts of yourself left behind",
     "heroTagline": "A gentle yet deeply powerful session to restore a sense of wholeness",
@@ -1256,14 +1256,55 @@
     "bookingNote": "One-to-one, in person in Prague (Vršovice). After you reach out, we will contact you personally to arrange your appointment.",
     "inquiry": "Hello, I would like to learn more about the Hermetic Soul Retrieval."
   },
+  "EnsoficReiki": {
+    "heroEyebrow": "Energy Healing",
+    "heroTitle": "Ensofic Reiki",
+    "heroSubtitle": "The highest, brightest ray of creation",
+    "heroTagline": "Ensofic Reiki for your body and nervous system",
+    "introLead": "The first ray of creation: pure, clear and direct",
+    "introBody1": "The Ensofic Ray is the highest, brightest and most powerful ray of energy, the first ray of creation. It carries purity, clarity and focused concentration, so it goes straight to the core.",
+    "introBody2": "Ensofic Reiki is a healing session that helps reduce pain and helps your body heal faster. It is a good choice if you are recovering from an injury, an illness or an operation, if you live with pain that keeps coming back, or if your body feels exhausted and slow to recover. Many people leave the session feeling lighter and calmer, with less pain and better sleep. You can come in person in Prague or receive the session remotely, wherever you are in the world.",
+    "benefitsHeading": "Benefits",
+    "benefits": [
+      "Helps reduce pain, both sudden pain and pain that keeps coming back",
+      "Helps injuries, wounds and the body after an operation heal faster",
+      "Eases tension and stiffness in muscles and joints",
+      "Calms the nervous system, so the body can rest and repair itself",
+      "Supports deeper, more restful sleep",
+      "Leaves you feeling lighter, calmer and with more energy"
+    ],
+    "who": [
+      "You are in pain and want relief",
+      "You are recovering from an injury, a fall, a sports strain or an operation and want to heal faster",
+      "You live with long-term pain, such as back pain, joint pain or headaches",
+      "Your body feels exhausted and is slow to recover"
+    ],
+    "faq": [
+      {
+        "q": "What can Ensofic Reiki help with?",
+        "a": "Ensofic Reiki works with the physical body and the nervous system: pain and physical conditions, stress and anxiety, exhaustion, poor sleep and many other problems. It is a complement to your medical care, not a replacement for it."
+      },
+      {
+        "q": "Can I receive Ensofic Reiki at a distance?",
+        "a": "Yes. Ensofic Reiki can be received in person in Prague or as a remote healing session, wherever you are in the world. Radu and Diana have trained and worked hard to master distance healing, and together they channel the healing force wherever it is needed."
+      },
+      {
+        "q": "What do I need to do to prepare?",
+        "a": "All you need to do is relax; there is nothing to learn or believe in advance."
+      }
+    ],
+    "duration": "90 Minutes",
+    "bookingNote": "This healing session can be done in person in Prague or remotely anywhere in the world.",
+    "inquiry": "Hello, I am interested in Ensofic Reiki."
+  },
   "AdvancedEnsoficRay": {
-    "heroEyebrow": "Energy Healing · Prague & Distance",
+    "heroEyebrow": "Energy Healing",
     "heroTitle": "Advanced Ensofic Ray Healing",
     "heroSubtitle": "The first emanation of Light from Source",
-    "heroTagline": "A series of three sessions to deepen and stabilise your alignment",
+    "heroTagline": "A series of three sessions to anchor your godliness more deeply",
     "introLead": "A deep, precise system of energetic alignment",
-    "introBody1": "The Ensofic Ray is the first emanation of Light from Source. This healing works with it to support alignment across the physical body, emotional field, mind and energetic structure.",
-    "introBody2": "The three-session protocol is designed to deepen and stabilise the process, with each session building on the last. Sessions are available in Prague or at a distance, worldwide.",
+    "introBody1": "The Ensofic Ray is the first emanation of Light from Source. This healing works with it to support alignment across the physical body, emotional field, mind, soul and spiritual body.",
+    "introBody2": "The three-session protocol is designed to deepen and stabilise the process, with each session building on the last. The sessions take place in person only, in Prague.",
     "protocolHeading": "The Three-Session Protocol",
     "protocol": [
       {
@@ -1292,47 +1333,21 @@
     ],
     "bookingTitle": "Receive the Ray",
     "duration": "3 × 90 Minutes",
-    "bookingNote": "Available in Prague or at a distance worldwide. Write to us to arrange your time.",
+    "bookingNote": "The three sessions take place in person only, in Prague. Write to us to arrange your time.",
     "inquiry": "Hello, I am interested in Advanced Ensofic Ray Healing."
   },
-  "EnsoficReiki": {
-    "heroEyebrow": "Energy Healing · Prague & Distance",
-    "heroTitle": "Ensofic Reiki",
-    "heroSubtitle": "The first emanation of Light from Source",
-    "heroTagline": "A single session to clear blockages and return to balance and presence",
-    "introLead": "The purest ray of light, brought to you in a single session",
-    "introBody1": "The Ensofic Ray is the first emanation of Light from Source. In an Ensofic Reiki session it is used to clear distortion and release blockages across your physical body, emotional field, mind and energetic structure.",
-    "introBody2": "A single session can bring noticeable relief and a return to balance and presence. For a deeper, step-by-step process, explore Advanced Ensofic Ray Healing. Sessions can be done in person in Prague or remotely, wherever you are in the world.",
-    "benefitsHeading": "Benefits",
-    "benefits": [
-      "Reconnects you to your authentic self and inner light",
-      "Clears physical, emotional and energetic blockages",
-      "Aligns body, mind and spirit",
-      "Raises vibration and restores clarity and peace",
-      "Supports emotional healing and renewal"
-    ],
-    "faq": [
-      {
-        "q": "How can healing work at a distance?",
-        "a": "Radu and Diana have trained and worked hard to master this skill. They honed their focus, as well as their relationship with the Hierarchy of Light. Together they channel the healing force wherever it is needed in the world."
-      }
-    ],
-    "duration": "90 Minutes",
-    "bookingNote": "Available in Prague or at a distance worldwide. Write to us to arrange your time.",
-    "inquiry": "Hello, I am interested in Ensofic Reiki."
-  },
   "NegativeHabits": {
-    "heroEyebrow": "Energy Healing · Prague & Distance",
+    "heroEyebrow": "Energy Healing",
     "heroTitle": "Treating of Negative Habits",
-    "heroSubtitle": "Let go of the patterns you keep repeating",
-    "heroTagline": "Ensofic Ray healing to release negative patterns and habits",
-    "introLead": "Some patterns keep returning because they live deeper than willpower",
+    "heroSubtitle": "Break the cycle that willpower alone could not",
+    "heroTagline": "Reach the root of the habit, so healthier choices become easier to make",
+    "introLead": "Some patterns keep returning because they live deeper than what your willpower can reach",
     "introBody1": "This session uses the Ensofic Ray to help you let go of negative patterns or habits that you repeat in your life — the loops of thought, emotion and behaviour that keep coming back no matter how hard you try to change them.",
     "introBody2": "By working at the level of the energetic structure where these patterns are held, the session supports their release, so that new and healthier choices become easier and more natural. Sessions can be done in person in Prague or remotely, wherever you are in the world.",
     "benefitsHeading": "What It Supports",
     "benefits": [
-      "Release of negative patterns and habits that keep repeating",
-      "More freedom from automatic reactions and old loops",
+      "Release of negative patterns and habits that you keep repeating",
+      "More freedom from automatic reactions and subconscious decisions",
       "Emotional lightness and clarity",
       "Greater ease in making new, supportive choices",
       "Support alongside your own work, therapy or medical care"
@@ -1340,7 +1355,7 @@
     "who": [
       "Repeating the same patterns in relationships, work or life",
       "Struggling to break a habit despite your best intentions",
-      "Feeling stuck in familiar loops of thought or emotion",
+      "Feeling stuck in situations, thought patterns and emotions",
       "Ready to let go of what no longer serves you"
     ],
     "faq": [
@@ -1362,7 +1377,7 @@
     "inquiry": "Hello, I would like to learn more about Treating of Negative Habits."
   },
   "CrystalHealing": {
-    "heroEyebrow": "Energy Healing · Prague",
+    "heroEyebrow": "Energy Healing",
     "heroTitle": "Crystal Healing",
     "heroSubtitle": "Rest while the mineral kingdom does its quiet work",
     "heroTagline": "Sacred sound and stone, placed to restore balance, clarity and flow",
@@ -1392,10 +1407,10 @@
     "inquiry": "Hello, I am interested in Crystal Healing."
   },
   "SparkOfLife": {
-    "heroEyebrow": "Distance Energy Healing · Worldwide",
+    "heroEyebrow": "Energy Healing",
     "heroTitle": "Spark of Life",
     "heroSubtitle": "Reconnect to your original spark of life force",
-    "heroTagline": "A distance healing session, worldwide, from Prague",
+    "heroTagline": "A healing session that restores your life force and renews your energy",
     "introLead": "Life force, channelled to the core of your being",
     "introBody1": "Spark of Life works beyond the etheric matrix and chakra system, channelling life-force energy to the core of the being. Its roots trace back to the ancient Egyptian temples, where it was developed for priests and priestesses to rejuvenate them for long years of service, and it has been carried on by direct transmission.",
     "introBody2": "You rest quietly, lying down or seated, wherever you are, while Diana and Radu work remotely. You only need to receive. It pairs well with a Life Activation, before or after.",
@@ -1558,7 +1573,7 @@
     "inquiry": "Hello, I would like to learn more about meditation and prayer."
   },
   "SanctuarySessionPage": {
-    "heroEyebrow": "Guided Meditation · Prague",
+    "heroEyebrow": "Guided Meditation",
     "heroTitle": "Sanctuary Meditation",
     "heroSubtitle": "Return to your Sanctuary & meet your Higher Self",
     "heroTagline": "A one-hour guided meditation for those who already know the way",
@@ -1586,7 +1601,7 @@
     "inquiry": "Hello, I would like to learn more about the Sanctuary Meditation (1 hour)."
   },
   "MaxMeditationPage": {
-    "heroEyebrow": "Guided Meditation · Prague",
+    "heroEyebrow": "Guided Meditation",
     "heroTitle": "Max Meditation",
     "heroSubtitle": "Find peace of mind",
     "heroTagline": "A guided meditation session to create time and space for peace and balance in your life",

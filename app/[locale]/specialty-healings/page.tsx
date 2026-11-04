@@ -48,7 +48,7 @@ export default async function SpecialtyHealings({
     name: t(`specialtySessions.${i}.name`),
     tag: t.has(`specialtySessions.${i}.tag`) ? t(`specialtySessions.${i}.tag`) : undefined,
     description: t(`specialtySessions.${i}.description`),
-    ...(i === 0 ? { price: "16.900 CZK", detailsHref: "/advanced-ensofic-ray-healing" } : {}),
+    ...(i === 0 ? { price: "11.900 CZK", detailsHref: "/advanced-ensofic-ray-healing" } : {}),
   }))
 
   return (

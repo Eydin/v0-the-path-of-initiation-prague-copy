@@ -43,13 +43,13 @@ export default async function CommunityPage({
   const ties = [0, 1, 2, 3, 4].map((i) => t(`ties.${i}`))
 
   return (
-    <div className="home-cream isolate overflow-x-hidden">
+    <div className="home-cream boxes-espresso isolate overflow-x-hidden">
       <Header />
       <main style={{ backgroundImage: "url('/images/empower-thyself-bg.jpg')", backgroundAttachment: 'fixed', backgroundPosition: 'center' }}>
         {/* Hero Section */}
-        {/* straight on the night sky, like the "Our Gatherings" heading further down */}
+        {/* straight on the night sky, like the "Our Gatherings" heading right below */}
         <section className="on-image relative flex min-h-[90vh] items-center justify-center overflow-hidden bg-cover">
-          <div className="relative z-10 mx-auto max-w-4xl px-6 py-32 text-center">
+          <div className="relative z-10 mx-auto max-w-4xl px-6 pt-32 pb-12 text-center">
             <ScrollReveal>
               <p className="mb-4 font-serif text-sm uppercase tracking-[0.4em] text-primary">
                 {t("eyebrow")}
@@ -64,69 +64,9 @@ export default async function CommunityPage({
           </div>
         </section>
 
-        {/* Core Values / Connection Section */}
-        <section className="relative py-24 lg:py-32">
-          <div className="relative z-10 mx-auto max-w-6xl px-6">
-            <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-stretch">
-              <ScrollReveal direction="left" className="h-full">
-                <div className="h-full rounded border border-primary/20 bg-background/60 p-8 shadow-2xl shadow-black/10 backdrop-blur-sm">
-                  <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                    {t("beyondClassroomEyebrow")}
-                  </p>
-                  <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
-                    {t("beyondClassroomHeading")}
-                  </h2>
-                  <div className="flex flex-col gap-5 text-lg leading-relaxed text-muted-foreground">
-                    <p>
-                      {t.rich("beyondClassroomBody1", { bold: (chunks) => <strong>{chunks}</strong> })}
-                    </p>
-                    <div className="flex items-start gap-3 border-t border-border/40 pt-4 font-medium text-foreground">
-                      <Smile className="mt-1 h-5 w-5 shrink-0 text-primary" />
-                      <p>{t("beyondClassroomBody2")}</p>
-                    </div>
-                  </div>
-                </div>
-              </ScrollReveal>
-
-              <ScrollReveal direction="right" className="h-full">
-                <div className="flex h-full flex-col justify-center rounded border border-border/60 bg-background/60 p-8 backdrop-blur-sm">
-                  <div className="mb-6 flex h-19.5 w-19.5 items-center justify-center rounded-full bg-primary/10 text-primary">
-                    <Users className="h-7 w-7" />
-                  </div>
-                  <h3 className="mb-4 font-serif text-2xl tracking-wide text-foreground">
-                    {t("tiesHeading")}
-                  </h3>
-                  <ul className="space-y-3 text-base leading-relaxed text-muted-foreground">
-                    {ties.map((item) => (
-                      <li key={item}>• {item}</li>
-                    ))}
-                  </ul>
-                </div>
-              </ScrollReveal>
-            </div>
-          </div>
-        </section>
-
-        {/* Dynamic Image Carousel Section */}
-        <CommunityCarousel />
-
         {/* The 4 Big Linkable Gathering Sections */}
-        <section className="relative py-24 lg:py-32">
+        <section className="relative pb-24 lg:pb-32">
           <div className="mx-auto max-w-4xl px-6">
-            <ScrollReveal>
-              <div className="on-image mb-20 text-center">
-                <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">
-                  {t("gatheringsEyebrow")}
-                </p>
-                <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-5xl text-balance">
-                  {t("gatheringsHeading1")}
-                </h2>
-                <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-5xl text-balance">
-                  {t("gatheringsHeading2")}
-                </h2>
-              </div>
-            </ScrollReveal>
-
             <div className="space-y-16">
               {/* 1. Prayer Evening */}
               <BookingBlock
@@ -203,8 +143,69 @@ export default async function CommunityPage({
                 </div>
               </BookingBlock>
             </div>
+
+            {/* "Our Gatherings" note, small, after the events */}
+            <ScrollReveal>
+              <div className="on-image mt-16 text-center">
+                <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">
+                  {t("gatheringsEyebrow")}
+                </p>
+                <h2 className="font-serif text-2xl tracking-wide text-foreground md:text-3xl text-balance">
+                  {t("gatheringsHeading1")}
+                </h2>
+                <p className="mt-2 font-serif text-lg tracking-wide text-foreground md:text-xl text-balance">
+                  {t("gatheringsHeading2")}
+                </p>
+              </div>
+            </ScrollReveal>
           </div>
         </section>
+
+        {/* Core Values / Connection Section */}
+        <section className="relative py-24 lg:py-32">
+          <div className="relative z-10 mx-auto max-w-6xl px-6">
+            <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-stretch">
+              <ScrollReveal direction="left" className="h-full">
+                <div className="h-full rounded border border-primary/20 bg-background/60 p-8 shadow-2xl shadow-black/10 backdrop-blur-sm">
+                  <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">
+                    {t("beyondClassroomEyebrow")}
+                  </p>
+                  <h2 className="mb-6 font-serif text-3xl tracking-wide text-foreground md:text-4xl text-balance">
+                    {t("beyondClassroomHeading")}
+                  </h2>
+                  <div className="flex flex-col gap-5 text-lg leading-relaxed text-muted-foreground">
+                    <p>
+                      {t.rich("beyondClassroomBody1", { bold: (chunks) => <strong>{chunks}</strong> })}
+                    </p>
+                    <div className="flex items-start gap-3 border-t border-border/40 pt-4 font-medium text-foreground">
+                      <Smile className="mt-1 h-5 w-5 shrink-0 text-primary" />
+                      <p>{t("beyondClassroomBody2")}</p>
+                    </div>
+                  </div>
+                </div>
+              </ScrollReveal>
+
+              <ScrollReveal direction="right" className="h-full">
+                <div className="flex h-full flex-col justify-center rounded border border-border/60 bg-background/60 p-8 backdrop-blur-sm">
+                  <div className="mb-6 flex h-19.5 w-19.5 items-center justify-center rounded-full bg-primary/10 text-primary">
+                    <Users className="h-7 w-7" />
+                  </div>
+                  <h3 className="mb-4 font-serif text-2xl tracking-wide text-foreground">
+                    {t("tiesHeading")}
+                  </h3>
+                  <ul className="space-y-3 text-base leading-relaxed text-muted-foreground">
+                    {ties.map((item) => (
+                      <li key={item}>• {item}</li>
+                    ))}
+                  </ul>
+                </div>
+              </ScrollReveal>
+            </div>
+          </div>
+        </section>
+
+        {/* Dynamic Image Carousel Section */}
+        <CommunityCarousel />
 
         {/* CTA / Contact Section */}
         <section className="on-image relative py-20 lg:py-24">

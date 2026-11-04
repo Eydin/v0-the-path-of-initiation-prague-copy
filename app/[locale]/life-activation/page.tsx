@@ -68,6 +68,7 @@ export default async function LifeActivation({
         cta={{ href: STRIPE, label: tModality("bookNow"), external: true }}
       />
 
+      {/* Booking card first, straight under the header */}
       <BookingBlock
         kind="healing"
         slug="life-activation"
@@ -83,16 +84,6 @@ export default async function LifeActivation({
       <Panel>
         <Lead>{t("introLead", { brand: BRAND.lifeActivation })}</Lead>
         <Body>{t("introBody", { brand: BRAND.lifeActivation })}</Body>
-        <div className="border-t border-primary/20 pt-6 text-center">
-          <a
-            href={STRIPE}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
-          >
-            {tModality("bookNow")} →
-          </a>
-        </div>
       </Panel>
 
       {/* Benefits */}

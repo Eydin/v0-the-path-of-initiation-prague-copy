@@ -10,13 +10,18 @@ import {
   BenefitList,
   BookingBlock,
 } from "@/components/modality"
-import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
+import { MedicalDisclaimer, ModalityFaq, type FaqItem } from "@/components/modality-faq"
 
 type SessionConfig = {
   /** Root namespace in messages/*.json */
   namespace: string
   bg: string
   position?: string
+  /** a different picture for the header than the page background (file in /public/images/art) */
+  heroImage?: string
+  heroPosition?: string
+  /** credit for the header picture, shown down its right edge */
+  heroCaption?: string
   investment: string
 }
 
@@ -54,6 +59,9 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         title={t("heroTitle")}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+        image={config.heroImage}
+        position={config.heroPosition}
+        caption={config.heroCaption}
       />
 
       <BookingBlock
@@ -92,7 +100,7 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         </Panel>
       )}
 
-      {faq.length > 0 && <ModalityFaq items={faq} />}
+      {faq.length > 0 ? <ModalityFaq items={faq} /> : <MedicalDisclaimer />}
     </ModalityShell>
   )
 }

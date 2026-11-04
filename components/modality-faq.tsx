@@ -41,3 +41,17 @@ export function ModalityFaq({ items }: { items: FaqItem[] }) {
     </section>
   )
 }
+
+// ── Medical disclaimer on its own, for healing pages without an FAQ ──────
+// (ModalityFaq already ends with it, so pages with an FAQ don't need this.)
+export function MedicalDisclaimer() {
+  const t = useTranslations("HealingSession")
+
+  return (
+    <section className="relative pb-12 pt-4 lg:pb-16">
+      <div className="mx-auto max-w-4xl px-6">
+        <p className="text-center text-sm leading-relaxed text-muted-foreground">{t("disclaimer")}</p>
+      </div>
+    </section>
+  )
+}

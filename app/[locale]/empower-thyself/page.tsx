@@ -56,13 +56,9 @@ export default async function EmpowerThyself({
         title={BRAND.empowerThyself}
         subtitle={t("heroSubtitle")}
         cta={{ href: STRIPE, label: tModality("bookNow"), external: true }}
-        secondary={{
-          href: `https://wa.me/420792908296?text=${encodeURIComponent(inquiry)}`,
-          label: tModality("askQuestion"),
-          external: true,
-        }}
       />
 
+      {/* Booking card first, straight under the header */}
       <BookingBlock
         slug="empower-thyself"
         title={t("bookingTitle")}
@@ -98,14 +94,6 @@ export default async function EmpowerThyself({
               {t("invitation.body6")}
             </p>
             <p className="pt-2 font-serif text-xl font-semibold text-primary">{t("invitation.callToAction")}</p>
-            <a
-              href={STRIPE}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-2 inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
-            >
-              {tModality("bookNow")} →
-            </a>
           </div>
           <div className="relative aspect-[3/4] w-full overflow-hidden rounded-lg border border-primary/20">
             <Image

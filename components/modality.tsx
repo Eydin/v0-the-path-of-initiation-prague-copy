@@ -1,6 +1,6 @@
 "use client"
 
-import type { ReactNode } from "react"
+import { createContext, useContext, useEffect, useState, type ReactNode } from "react"
 import Image from "next/image"
 import { useTranslations } from "next-intl"
 import { Header } from "@/components/header"
@@ -20,12 +20,15 @@ export function waLink(text: string) {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`
 }
 
+// The page's painting, shared with ModalityHero so its header shows the same artwork.
+const ShellArt = createContext<{ bg: string; position: string } | null>(null)
+
 // ── Page shell: fixed dark-veiled painting background + header/footer ─────
 // `cream` (the default, site-wide) gives the page the homepage look: the .home-cream
 // colours (see globals.css), a light veil over the painting, the starry header/footer,
-// and the hero and booking boxes in burgundy (.home-box only takes effect inside
-// .home-cream). `cream={false}` keeps the original dark look; `veil={false}` shows the
-// painting at full strength behind the cream page.
+// and the booking boxes in the gift voucher's espresso brown with a double gold frame
+// (.boxes-espresso). `cream={false}` keeps the original dark look; `veil={false}` shows
+// the painting at full strength behind the cream page.
 export function ModalityShell({
   bg,
   position = "center",
@@ -42,7 +45,7 @@ export function ModalityShell({
   if (cream) {
     return (
       // isolate: the fixed painting (-z-10) stays above this wrapper's cream background
-      <div className="home-cream isolate overflow-x-hidden">
+      <div className="home-cream boxes-espresso isolate overflow-x-hidden">
         <Header />
         <main className="relative min-h-screen pt-20">
           <div className="fixed inset-0 -z-10 overflow-hidden">
@@ -59,7 +62,9 @@ export function ModalityShell({
               <div className="absolute inset-0 bg-gradient-to-b from-background/[0.86] to-background/[0.94]" />
             )}
           </div>
-          <div className="relative z-10">{children}</div>
+          <div className="relative z-10">
+            <ShellArt.Provider value={{ bg, position }}>{children}</ShellArt.Provider>
+          </div>
         </main>
         <Footer />
       </div>
@@ -91,18 +96,53 @@ export function ModalityShell({
   )
 }
 
-// ── Hero card ─────────────────────────────────────────────────────────────
+// ── Hero ──────────────────────────────────────────────────────────────────
+// Inside a cream ModalityShell this is the painting header (ImageHero, as on Life Activation)
+// with the page's own painting; its Book Now button scrolls to the page's booking box, when
+// there is one. Elsewhere it falls back to the original title card.
 export function ModalityHero({
   eyebrow,
   title,
   subtitle,
   tagline,
+  image,
+  position,
+  caption,
 }: {
   eyebrow?: string
   title: string
   subtitle: string
   tagline?: string
+  /** a header picture other than the page's background painting (file in /public/images/art) */
+  image?: string
+  position?: string
+  caption?: string
 }) {
+  const art = useContext(ShellArt)
+  const t = useTranslations("Modality")
+  const [bookingId, setBookingId] = useState<string | null>(null)
+  useEffect(() => {
+    // booking boxes (BookingBlock) are the dark boxes inside a section with an id
+    const box = document.querySelector("main section[id] .home-box")
+    setBookingId(box?.closest("section")?.id ?? null)
+  }, [])
+
+  if (art) {
+    return (
+      <ImageHero
+        image={image ?? art.bg}
+        position={image ? (position ?? "center") : art.position}
+        caption={caption}
+        eyebrow={eyebrow}
+        title={title}
+        subtitle={subtitle}
+        tagline={tagline}
+        accent="gold"
+        cta={bookingId ? { href: `#${bookingId}`, label: t("bookNow") } : undefined}
+      />
+    )
+  }
+
   return (
     <section className="relative py-20 lg:py-28">
       <div className="mx-auto max-w-7xl px-6">
@@ -128,6 +168,10 @@ export function ModalityHero({
   )
 }
 
+// Tight dark halo for the small lines of the class/session headers (accent "gold"), whose
+// paintings are often busy (engravings, starry skies) — the title is large enough without it.
+const haloOnBusyArt = "[text-shadow:0_1px_3px_rgba(20,6,10,0.9),0_2px_14px_rgba(20,6,10,0.65)]"
+
 // ── Painting hero: full-width artwork under a burgundy wash that fades into the cream page,
 // with a left-aligned title block (gold label, tall condensed capitals, serif lines, button)
 // and the painting's credit running down the right edge. Same layout as Diana's Hestia site.
@@ -141,6 +185,7 @@ export function ImageHero({
   tagline,
   cta,
   secondary,
+  accent = "deep-gold",
 }: {
   /** file in /public/images/art */
   image: string
@@ -151,6 +196,10 @@ export function ImageHero({
   title: string
   subtitle?: string
   tagline?: string
+  /** colour of the small label above the title (and of the tagline, for "cream"):
+   *  "deep-gold" reads on pale artwork (Life Activation's ceiling), "gold" (Hestia's bright gold)
+   *  on darker paintings, "cream" on golden artwork (Vitruvian Man) where gold vanishes */
+  accent?: "deep-gold" | "gold" | "cream"
   cta?: { href: string; label: string; external?: boolean }
   /** quiet text link beside the button, e.g. "ask a question first" */
   secondary?: { href: string; label: string; external?: boolean }
@@ -183,21 +232,39 @@ export function ImageHero({
       )}
       <div className="relative z-10 mx-auto w-full max-w-7xl px-6 pt-24 pb-20 md:px-12 md:pb-24 [text-shadow:0_2px_18px_rgba(30,8,14,0.55)]">
         <ScrollReveal>
-          <div className="max-w-3xl">
+          <div className="max-w-4xl">
             {eyebrow && (
-              // the site's deeper gold (cream-page headings), so it stays gold yet reads on the pale ceiling
-              <p className="mb-4 font-[family-name:var(--font-display)] text-sm font-bold uppercase tracking-[0.3em] text-[#7a5c0f] [text-shadow:0_0_14px_rgba(255,250,240,0.7)]">
+              <p
+                className={`mb-4 font-[family-name:var(--font-display)] text-sm font-bold uppercase tracking-[0.3em] ${
+                  accent === "cream"
+                    ? "text-[#f4ecdb]"
+                    : accent === "gold"
+                      ? `text-[#e7c667] ${haloOnBusyArt}`
+                      : // the site's deeper gold (cream-page headings): stays gold yet reads on pale artwork
+                        "text-[#7a5c0f] [text-shadow:0_0_14px_rgba(255,250,240,0.7)]"
+                }`}
+              >
                 {eyebrow}
               </p>
             )}
-            <h1 className="font-[family-name:var(--font-display)] text-6xl leading-[0.95] font-bold uppercase tracking-wide text-[#f4ecdb] md:text-8xl">
+            <h1 className="font-[family-name:var(--font-display)] text-6xl leading-[0.95] font-bold uppercase tracking-wide text-[#f4ecdb] md:text-7xl lg:text-[5.25rem]">
               {title}
             </h1>
             {subtitle && (
-              <p className="mt-6 font-serif text-lg font-light text-[#efe7d7]/90 md:text-xl">{subtitle}</p>
+              <p
+                className={`mt-6 max-w-2xl font-serif text-lg font-light text-[#efe7d7]/90 md:text-xl ${
+                  accent === "gold" ? haloOnBusyArt : ""
+                }`}
+              >
+                {subtitle}
+              </p>
             )}
             {tagline && (
-              <p className="mt-3 max-w-xl font-serif text-base leading-relaxed text-[#e7c667] italic md:text-lg">
+              <p
+                className={`mt-3 max-w-xl font-serif text-base leading-relaxed italic md:text-lg ${
+                  accent === "cream" ? "text-[#f4ecdb]" : "text-[#e7c667]"
+                } ${accent === "gold" ? haloOnBusyArt : ""}`}
+              >
                 {tagline}
               </p>
             )}
@@ -402,6 +469,11 @@ export function BookingBlock({
                   </div>
                 )}
 
+                {children && <div className="text-left">{children}</div>}
+
+                <p className="text-lg font-semibold text-foreground">{note ?? t("defaultNote")}</p>
+
+                {/* price and duration sit right above the Book Now button, so the number and the action read together */}
                 {(investment || duration) && (
                   <div className="grid gap-12 py-2 md:grid-cols-2">
                     {investment && (
@@ -422,10 +494,6 @@ export function BookingBlock({
                     )}
                   </div>
                 )}
-
-                {children && <div className="text-left">{children}</div>}
-
-                <p className="text-lg font-semibold text-foreground">{note ?? t("defaultNote")}</p>
 
                 {bookHref && (
                   <a
