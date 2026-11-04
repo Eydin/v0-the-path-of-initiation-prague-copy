@@ -114,11 +114,13 @@ Begin Your Journey
 
 ## PAGE: /community
 lucide-react
-https://wa.me/420792908296?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20community%20and%20upcoming%20events.
+Hello, I would like to learn more about your community and upcoming events.
 https://buy.stripe.com/9B6cMYgmb8g6ffv80jg360x
-Community
-A circle of hearts and shared transformation
-The Path of Initiation Prague is far more than just a place to take classes. It is a living, breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.
+const nextHref = nextEvening ?
+returning
+Community in Prague
+Calm evenings with real people, right here in Prague
+Come for tea, a short practice and good conversation. No experience needed and no beliefs required: just come as you are.
 Beyond the Classroom
 Space for genuine growth & connection
 Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about embodying their divine essence , accelerating personal growth, and overcoming life's challenges together.
@@ -155,6 +157,65 @@ Begin with a conversation
 Join the circle
 If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
 Contact the Community
+In person · Vršovice, Prague 10
+Two of the three evenings are free
+See the next evening
+Your hosts, Diana and Radu Coman
+We prepare the space and make the tea. You just come.
+Next gathering
+Save my seat
+New dates are coming soon. Write to us and we'll let you know.
+What happens on an evening
+Arrive and have tea
+Meet the others and settle in. Nobody is put on the spot.
+A short introduction
+Diana and Radu explain in plain words what you'll do and why it helps.
+Practice together
+Prayer, meditation or conversation, guided step by step.
+Share and ask
+Ask anything you like, then stay for more tea if you want.
+Choose your evening
+You'll leave with
+Next date coming soon
+Once a month
+Every two weeks
+1.5 hours
+3 hours
+2 hours
+Ask on WhatsApp
+Pay and book
+An evening of prayer and quiet reflection in a small group.
+A quieter mind
+A simple prayer you can use at home
+The support of people who share your intention
+A guided meditation with breathing and visualisation.
+A calmer nervous system
+Breathing you can use anywhere
+A deeper meditation than when you practise alone
+A relaxed evening of tea, conversation and laughter.
+New friends on the same path
+Answers to your questions about the path
+A good laugh
+This is for you if
+You feel stressed and want an evening of calm
+You're curious about spirituality but don't know where to start
+You'd like to meet kind, open people in Prague
+Good to know
+In person, in Vršovice, Prague 10
+Wear something comfortable
+Sign up with one WhatsApp message
+Prayer and Meditation Evenings are open to everyone; Socialization Evenings are for guests we have already met
+Pack of 4 evenings
+1.200 CZK
+300 CZK per evening instead of 350
+Ask about the pack
+Hello, I would like to buy the pack of 4 Meditation Evenings.
+New here?
+You are welcome at any Prayer Evening or Meditation Evening. After your first visit, our Socialization Evenings are open to you too.
+See the evenings
+Open to you after your first visit
+Single evening
+Pay for one evening at a time
 
 ## PAGE: /crystal-healing
 center 30%
@@ -634,9 +695,9 @@ View Details
 Not Sure Which Class Is Right for You?
 Reach out and we will help you choose the class that fits where you are right now.
 Hello, I would like to learn more about your classes and workshops.
-Community
-A circle of hearts and shared transformation
-The Path of Initiation Prague is far more than just a place to take classes. It is a living, breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.
+Community in Prague
+Calm evenings with real people, right here in Prague
+Come for tea, a short practice and good conversation. No experience needed and no beliefs required: just come as you are.
 Beyond the Classroom
 Space for genuine growth & connection
 Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about embodying their divine essence , accelerating personal growth, and overcoming life's challenges together.
@@ -673,6 +734,65 @@ Begin with a conversation
 Join the circle
 If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
 Contact the Community
+In person · Vršovice, Prague 10
+Two of the three evenings are free
+See the next evening
+Your hosts, Diana and Radu Coman
+We prepare the space and make the tea. You just come.
+Next gathering
+Save my seat
+New dates are coming soon. Write to us and we'll let you know.
+What happens on an evening
+Arrive and have tea
+Meet the others and settle in. Nobody is put on the spot.
+A short introduction
+Diana and Radu explain in plain words what you'll do and why it helps.
+Practice together
+Prayer, meditation or conversation, guided step by step.
+Share and ask
+Ask anything you like, then stay for more tea if you want.
+Choose your evening
+You'll leave with
+Next date coming soon
+Once a month
+Every two weeks
+1.5 hours
+3 hours
+2 hours
+Ask on WhatsApp
+Pay and book
+An evening of prayer and quiet reflection in a small group.
+A quieter mind
+A simple prayer you can use at home
+The support of people who share your intention
+A guided meditation with breathing and visualisation.
+A calmer nervous system
+Breathing you can use anywhere
+A deeper meditation than when you practise alone
+A relaxed evening of tea, conversation and laughter.
+New friends on the same path
+Answers to your questions about the path
+A good laugh
+This is for you if
+You feel stressed and want an evening of calm
+You're curious about spirituality but don't know where to start
+You'd like to meet kind, open people in Prague
+Good to know
+In person, in Vršovice, Prague 10
+Wear something comfortable
+Sign up with one WhatsApp message
+Prayer and Meditation Evenings are open to everyone; Socialization Evenings are for guests we have already met
+Pack of 4 evenings
+1.200 CZK
+300 CZK per evening instead of 350
+Ask about the pack
+Hello, I would like to buy the pack of 4 Meditation Evenings.
+New here?
+You are welcome at any Prayer Evening or Meditation Evening. After your first visit, our Socialization Evenings are open to you too.
+See the evenings
+Open to you after your first visit
+Single evening
+Pay for one evening at a time
 Guided Meditation
 Sanctuary Meditation
 Return to your Sanctuary & meet your Higher Self
@@ -1241,9 +1361,9 @@ Advanced Study
 Learn More
 
 ## PAGE: (component) community-carousel.tsx
-Community
-A circle of hearts and shared transformation
-The Path of Initiation Prague is far more than just a place to take classes. It is a living, breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.
+Community in Prague
+Calm evenings with real people, right here in Prague
+Come for tea, a short practice and good conversation. No experience needed and no beliefs required: just come as you are.
 Beyond the Classroom
 Space for genuine growth & connection
 Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about embodying their divine essence , accelerating personal growth, and overcoming life's challenges together.
@@ -1280,6 +1400,65 @@ Begin with a conversation
 Join the circle
 If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
 Contact the Community
+In person · Vršovice, Prague 10
+Two of the three evenings are free
+See the next evening
+Your hosts, Diana and Radu Coman
+We prepare the space and make the tea. You just come.
+Next gathering
+Save my seat
+New dates are coming soon. Write to us and we'll let you know.
+What happens on an evening
+Arrive and have tea
+Meet the others and settle in. Nobody is put on the spot.
+A short introduction
+Diana and Radu explain in plain words what you'll do and why it helps.
+Practice together
+Prayer, meditation or conversation, guided step by step.
+Share and ask
+Ask anything you like, then stay for more tea if you want.
+Choose your evening
+You'll leave with
+Next date coming soon
+Once a month
+Every two weeks
+1.5 hours
+3 hours
+2 hours
+Ask on WhatsApp
+Pay and book
+An evening of prayer and quiet reflection in a small group.
+A quieter mind
+A simple prayer you can use at home
+The support of people who share your intention
+A guided meditation with breathing and visualisation.
+A calmer nervous system
+Breathing you can use anywhere
+A deeper meditation than when you practise alone
+A relaxed evening of tea, conversation and laughter.
+New friends on the same path
+Answers to your questions about the path
+A good laugh
+This is for you if
+You feel stressed and want an evening of calm
+You're curious about spirituality but don't know where to start
+You'd like to meet kind, open people in Prague
+Good to know
+In person, in Vršovice, Prague 10
+Wear something comfortable
+Sign up with one WhatsApp message
+Prayer and Meditation Evenings are open to everyone; Socialization Evenings are for guests we have already met
+Pack of 4 evenings
+1.200 CZK
+300 CZK per evening instead of 350
+Ask about the pack
+Hello, I would like to buy the pack of 4 Meditation Evenings.
+New here?
+You are welcome at any Prayer Evening or Meditation Evening. After your first visit, our Socialization Evenings are open to you too.
+See the evenings
+Open to you after your first visit
+Single evening
+Pay for one evening at a time
 
 ## PAGE: (component) cta-section.tsx
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j

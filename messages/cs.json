@@ -867,9 +867,9 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Záchraně před stresem."
   },
   "CommunityPage": {
-    "eyebrow": "Komunita",
-    "heroHeading": "Kruh <emphasis>srdcí</emphasis> a sdílené proměny",
-    "heroBody": "Cesta iniciace v Praze je mnohem více než jen místo, kde navštěvujete kurzy. Je to živá, dýchající komunita oddaná probouzení, léčení a společnému kráčení po cestě s upřímností, radostí a odvahou.",
+    "eyebrow": "Komunita v Praze",
+    "heroHeading": "Klidné večery se skutečnými lidmi, přímo tady v Praze",
+    "heroBody": "Přijďte na čaj, krátkou praxi a dobrý rozhovor. Nepotřebujete žádné zkušenosti ani žádnou víru: stačí přijít takoví, jací jste.",
     "beyondClassroomEyebrow": "Za hranicemi učebny",
     "beyondClassroomHeading": "Prostor pro opravdový růst a spojení",
     "beyondClassroomBody1": "Zde se hledači setkávají v nádobě důvěry, respektu a hluboké vnitřní práce. Nabízíme stálý přístav, kde se můžete spojit s podobně smýšlejícími lidmi, kterým skutečně záleží na <bold>ztělesnění jejich božské podstaty</bold>, urychlení osobního růstu a společném překonávání životních výzev.",
@@ -916,7 +916,87 @@
     "ctaEyebrow": "Začněte rozhovorem",
     "ctaHeading": "Připojte se ke kruhu",
     "ctaBody": "Pokud cítíte volání dozvědět se více o našich nadcházejících setkáních, zjistit přesné podrobnosti nebo prozkoumat, jak vám tato komunita může podpořit vaši osobní cestu, ozvěte se přímo Radu.",
-    "ctaButton": "Kontaktovat komunitu"
+    "ctaButton": "Kontaktovat komunitu",
+    "badgeInPerson": "Osobně · Vršovice, Praha 10",
+    "badgeFree": "Dva ze tří večerů jsou zdarma",
+    "heroCta": "Další večer",
+    "hostsCaption": "Vaši hostitelé, Diana a Radu Coman",
+    "hostsQuote": "Připravíme prostor a uvaříme čaj. Vy jen přijďte.",
+    "nextEyebrow": "Další setkání",
+    "nextCta": "Rezervovat místo",
+    "nextNone": "Nové termíny brzy zveřejníme. Napište nám a dáme vám vědět.",
+    "flowHeading": "Jak večer probíhá",
+    "flow": [
+      {
+        "title": "Příchod a čaj",
+        "text": "Seznámíte se s ostatními a v klidu se usadíte. Nikoho nestavíme do centra pozornosti."
+      },
+      {
+        "title": "Krátký úvod",
+        "text": "Diana a Radu jednoduše vysvětlí, co budeme dělat a proč to pomáhá."
+      },
+      {
+        "title": "Společná praxe",
+        "text": "Modlitba, meditace nebo rozhovor, krok za krokem s vedením."
+      },
+      {
+        "title": "Sdílení a otázky",
+        "text": "Zeptejte se na cokoli a pak můžete zůstat na další čaj."
+      }
+    ],
+    "chooseHeading": "Vyberte si svůj večer",
+    "leaveWith": "Odnesete si",
+    "nextDate": "Další: {date}",
+    "noDate": "Další termín brzy",
+    "monthly": "Jednou měsíčně",
+    "biweekly": "Každé dva týdny",
+    "oneAndHalfHours": "1,5 hodiny",
+    "threeHours": "3 hodiny",
+    "twoHoursShort": "2 hodiny",
+    "askButton": "Zeptat se na WhatsAppu",
+    "payButton": "Zaplatit a rezervovat",
+    "prayerShort": "Večer modlitby a tichého zamyšlení v malé skupině.",
+    "prayerGets": [
+      "Klidnější mysl",
+      "Jednoduchou modlitbu, kterou můžete používat doma",
+      "Podporu lidí, kteří sdílejí váš záměr"
+    ],
+    "meditationShort": "Vedená meditace s dechem a vizualizací.",
+    "meditationGets": [
+      "Klidnější nervový systém",
+      "Dechová cvičení, která můžete dělat kdekoli",
+      "Hlubší meditaci, než když cvičíte sami"
+    ],
+    "socialShort": "Uvolněný večer s čajem, rozhovory a smíchem.",
+    "socialGets": [
+      "Nové přátele na stejné cestě",
+      "Odpovědi na vaše otázky o cestě",
+      "Pořádnou dávku smíchu"
+    ],
+    "forYouHeading": "Je to pro vás, pokud",
+    "forYou": [
+      "Cítíte stres a chcete večer klidu",
+      "Zajímá vás spiritualita, ale nevíte, kde začít",
+      "Chcete poznat laskavé a otevřené lidi v Praze"
+    ],
+    "goodToKnowHeading": "Dobré vědět",
+    "goodToKnow": [
+      "Osobně, ve Vršovicích, Praha 10",
+      "Vezměte si pohodlné oblečení",
+      "Přihlásíte se jednou zprávou na WhatsApp",
+      "Modlitební a meditační večery jsou otevřené všem; společenské večery jsou pro hosty, které už známe"
+    ],
+    "packLabel": "Balíček 4 večerů",
+    "packPrice": "1.200 CZK",
+    "packNote": "300 CZK za večer místo 350",
+    "packButton": "Zeptat se na balíček",
+    "packInquiry": "Dobrý den, rád/a bych si koupil/a balíček 4 meditačních večerů.",
+    "newHereHeading": "Jste tu poprvé?",
+    "newHereBody": "Jste vítáni na kterémkoli modlitebním nebo meditačním večeru. Po první návštěvě jsou vám otevřené i naše společenské večery.",
+    "newHereCta": "Prohlédnout večery",
+    "returningOnly": "Otevřené po vaší první návštěvě",
+    "singleLabel": "Jeden večer",
+    "singleNote": "Platíte za každý večer zvlášť"
   },
   "TestimonialsPage": {
     "heading": "Cesta proměny",

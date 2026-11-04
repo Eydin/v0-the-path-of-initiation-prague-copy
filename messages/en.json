@@ -906,9 +906,9 @@
     "inquiry": "Hello, I would like to learn more about Stress Rescue / Stress Management."
   },
   "CommunityPage": {
-    "eyebrow": "Community",
-    "heroHeading": "A circle of <emphasis>hearts</emphasis> and shared transformation",
-    "heroBody": "The Path of Initiation Prague is far more than just a place to take classes. It is a living, breathing community devoted to awakening, healing, and walking the path together with sincerity, joy, and courage.",
+    "eyebrow": "Community in Prague",
+    "heroHeading": "Calm evenings with real people, right here in Prague",
+    "heroBody": "Come for tea, a short practice and good conversation. No experience needed and no beliefs required: just come as you are.",
     "beyondClassroomEyebrow": "Beyond the Classroom",
     "beyondClassroomHeading": "Space for genuine growth & connection",
     "beyondClassroomBody1": "Here, seekers gather in a container of trust, respect, and deep inner work. We offer a consistent harbor where you can connect with like-minded individuals who truly care about <bold>embodying their divine essence</bold>, accelerating personal growth, and overcoming life's challenges together.",
@@ -955,7 +955,87 @@
     "ctaEyebrow": "Begin with a conversation",
     "ctaHeading": "Join the circle",
     "ctaBody": "If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.",
-    "ctaButton": "Contact the Community"
+    "ctaButton": "Contact the Community",
+    "badgeInPerson": "In person · Vršovice, Prague 10",
+    "badgeFree": "Two of the three evenings are free",
+    "heroCta": "See the next evening",
+    "hostsCaption": "Your hosts, Diana and Radu Coman",
+    "hostsQuote": "We prepare the space and make the tea. You just come.",
+    "nextEyebrow": "Next gathering",
+    "nextCta": "Save my seat",
+    "nextNone": "New dates are coming soon. Write to us and we'll let you know.",
+    "flowHeading": "What happens on an evening",
+    "flow": [
+      {
+        "title": "Arrive and have tea",
+        "text": "Meet the others and settle in. Nobody is put on the spot."
+      },
+      {
+        "title": "A short introduction",
+        "text": "Diana and Radu explain in plain words what you'll do and why it helps."
+      },
+      {
+        "title": "Practice together",
+        "text": "Prayer, meditation or conversation, guided step by step."
+      },
+      {
+        "title": "Share and ask",
+        "text": "Ask anything you like, then stay for more tea if you want."
+      }
+    ],
+    "chooseHeading": "Choose your evening",
+    "leaveWith": "You'll leave with",
+    "nextDate": "Next: {date}",
+    "noDate": "Next date coming soon",
+    "monthly": "Once a month",
+    "biweekly": "Every two weeks",
+    "oneAndHalfHours": "1.5 hours",
+    "threeHours": "3 hours",
+    "twoHoursShort": "2 hours",
+    "askButton": "Ask on WhatsApp",
+    "payButton": "Pay and book",
+    "prayerShort": "An evening of prayer and quiet reflection in a small group.",
+    "prayerGets": [
+      "A quieter mind",
+      "A simple prayer you can use at home",
+      "The support of people who share your intention"
+    ],
+    "meditationShort": "A guided meditation with breathing and visualisation.",
+    "meditationGets": [
+      "A calmer nervous system",
+      "Breathing you can use anywhere",
+      "A deeper meditation than when you practise alone"
+    ],
+    "socialShort": "A relaxed evening of tea, conversation and laughter.",
+    "socialGets": [
+      "New friends on the same path",
+      "Answers to your questions about the path",
+      "A good laugh"
+    ],
+    "forYouHeading": "This is for you if",
+    "forYou": [
+      "You feel stressed and want an evening of calm",
+      "You're curious about spirituality but don't know where to start",
+      "You'd like to meet kind, open people in Prague"
+    ],
+    "goodToKnowHeading": "Good to know",
+    "goodToKnow": [
+      "In person, in Vršovice, Prague 10",
+      "Wear something comfortable",
+      "Sign up with one WhatsApp message",
+      "Prayer and Meditation Evenings are open to everyone; Socialization Evenings are for guests we have already met"
+    ],
+    "packLabel": "Pack of 4 evenings",
+    "packPrice": "1.200 CZK",
+    "packNote": "300 CZK per evening instead of 350",
+    "packButton": "Ask about the pack",
+    "packInquiry": "Hello, I would like to buy the pack of 4 Meditation Evenings.",
+    "newHereHeading": "New here?",
+    "newHereBody": "You are welcome at any Prayer Evening or Meditation Evening. After your first visit, our Socialization Evenings are open to you too.",
+    "newHereCta": "See the evenings",
+    "returningOnly": "Open to you after your first visit",
+    "singleLabel": "Single evening",
+    "singleNote": "Pay for one evening at a time"
   },
   "TestimonialsPage": {
     "heading": "The Journey of Transformation",

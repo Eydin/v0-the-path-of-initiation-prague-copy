@@ -867,9 +867,9 @@
     "inquiry": "Hallo, ich möchte gerne mehr über Stress-Rettung / Stressmanagement erfahren."
   },
   "CommunityPage": {
-    "eyebrow": "Gemeinschaft",
-    "heroHeading": "Ein Kreis von <emphasis>Herzen</emphasis> und gemeinsamer Verwandlung",
-    "heroBody": "Der Pfad der Initiation Prag ist weit mehr als nur ein Ort, um Kurse zu besuchen. Es ist eine lebendige, atmende Gemeinschaft, die sich dem Erwachen, der Heilung und dem gemeinsamen Beschreiten des Pfades mit Aufrichtigkeit, Freude und Mut widmet.",
+    "eyebrow": "Gemeinschaft in Prag",
+    "heroHeading": "Ruhige Abende mit echten Menschen, mitten in Prag",
+    "heroBody": "Komm auf einen Tee, eine kurze Übung und gute Gespräche. Du brauchst keine Erfahrung und keinen bestimmten Glauben: Komm einfach, wie du bist.",
     "beyondClassroomEyebrow": "Jenseits des Klassenzimmers",
     "beyondClassroomHeading": "Raum für echtes Wachstum & Verbindung",
     "beyondClassroomBody1": "Hier versammeln sich Suchende in einem Gefäß aus Vertrauen, Respekt und tiefer innerer Arbeit. Wir bieten einen beständigen Hafen, in dem du dich mit Gleichgesinnten verbinden kannst, denen es wirklich am Herzen liegt, <bold>ihr göttliches Wesen zu verkörpern</bold>, ihr persönliches Wachstum zu beschleunigen und gemeinsam die Herausforderungen des Lebens zu meistern.",
@@ -916,7 +916,87 @@
     "ctaEyebrow": "Beginne mit einem Gespräch",
     "ctaHeading": "Tritt dem Kreis bei",
     "ctaBody": "Wenn du dich berufen fühlst, mehr über unsere bevorstehenden Treffen zu erfahren, genaue Details zu bekommen oder zu erkunden, wie diese Gemeinschaft deine persönliche Reise unterstützen kann, wende dich direkt an Radu.",
-    "ctaButton": "Kontaktiere die Gemeinschaft"
+    "ctaButton": "Kontaktiere die Gemeinschaft",
+    "badgeInPerson": "Vor Ort · Vršovice, Prag 10",
+    "badgeFree": "Zwei der drei Abende sind kostenlos",
+    "heroCta": "Zum nächsten Abend",
+    "hostsCaption": "Deine Gastgeber, Diana und Radu Coman",
+    "hostsQuote": "Wir bereiten den Raum vor und kochen den Tee. Du kommst einfach.",
+    "nextEyebrow": "Nächstes Treffen",
+    "nextCta": "Platz reservieren",
+    "nextNone": "Neue Termine folgen bald. Schreib uns, und wir sagen dir Bescheid.",
+    "flowHeading": "So läuft ein Abend ab",
+    "flow": [
+      {
+        "title": "Ankommen und Tee",
+        "text": "Lerne die anderen kennen und komm in Ruhe an. Niemand wird in den Mittelpunkt gestellt."
+      },
+      {
+        "title": "Eine kurze Einführung",
+        "text": "Diana und Radu erklären in einfachen Worten, was ihr macht und warum es hilft."
+      },
+      {
+        "title": "Gemeinsam üben",
+        "text": "Gebet, Meditation oder Gespräch, Schritt für Schritt angeleitet."
+      },
+      {
+        "title": "Austauschen und fragen",
+        "text": "Frag, was du möchtest, und bleib danach gern noch auf einen Tee."
+      }
+    ],
+    "chooseHeading": "Wähle deinen Abend",
+    "leaveWith": "Du nimmst mit",
+    "nextDate": "Nächster Termin: {date}",
+    "noDate": "Nächster Termin folgt bald",
+    "monthly": "Einmal im Monat",
+    "biweekly": "Alle zwei Wochen",
+    "oneAndHalfHours": "1,5 Stunden",
+    "threeHours": "3 Stunden",
+    "twoHoursShort": "2 Stunden",
+    "askButton": "Per WhatsApp fragen",
+    "payButton": "Bezahlen und buchen",
+    "prayerShort": "Ein Abend des Gebets und der stillen Besinnung in einer kleinen Gruppe.",
+    "prayerGets": [
+      "Einen ruhigeren Geist",
+      "Ein einfaches Gebet für zu Hause",
+      "Die Unterstützung von Menschen mit derselben Absicht"
+    ],
+    "meditationShort": "Eine geführte Meditation mit Atmung und Visualisierung.",
+    "meditationGets": [
+      "Ein ruhigeres Nervensystem",
+      "Atemübungen, die du überall machen kannst",
+      "Eine tiefere Meditation als allein"
+    ],
+    "socialShort": "Ein entspannter Abend mit Tee, Gesprächen und Lachen.",
+    "socialGets": [
+      "Neue Freunde auf demselben Weg",
+      "Antworten auf deine Fragen zum Weg",
+      "Viel zu lachen"
+    ],
+    "forYouHeading": "Das ist für dich, wenn",
+    "forYou": [
+      "du gestresst bist und dir einen ruhigen Abend wünschst",
+      "dich Spiritualität interessiert, du aber nicht weißt, wo du anfangen sollst",
+      "du freundliche, offene Menschen in Prag kennenlernen möchtest"
+    ],
+    "goodToKnowHeading": "Gut zu wissen",
+    "goodToKnow": [
+      "Vor Ort, in Vršovice, Prag 10",
+      "Trag bequeme Kleidung",
+      "Anmelden mit einer WhatsApp-Nachricht",
+      "Gebets- und Meditationsabende sind für alle offen; Begegnungsabende sind für Gäste, die wir schon kennen"
+    ],
+    "packLabel": "Paket mit 4 Abenden",
+    "packPrice": "1.200 CZK",
+    "packNote": "300 CZK pro Abend statt 350",
+    "packButton": "Nach dem Paket fragen",
+    "packInquiry": "Hallo, ich möchte das Paket mit 4 Meditationsabenden kaufen.",
+    "newHereHeading": "Neu hier?",
+    "newHereBody": "Du bist bei jedem Gebets- oder Meditationsabend willkommen. Nach deinem ersten Besuch stehen dir auch unsere Begegnungsabende offen.",
+    "newHereCta": "Zu den Abenden",
+    "returningOnly": "Offen für dich nach deinem ersten Besuch",
+    "singleLabel": "Einzelner Abend",
+    "singleNote": "Du zahlst jeden Abend einzeln"
   },
   "TestimonialsPage": {
     "heading": "Die Reise der Verwandlung",

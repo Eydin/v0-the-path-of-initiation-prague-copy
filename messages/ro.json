@@ -867,9 +867,9 @@
     "inquiry": "Bună, aș dori să aflu mai multe despre Eliberarea de Stres."
   },
   "CommunityPage": {
-    "eyebrow": "Comunitate",
-    "heroHeading": "Un cerc de <emphasis>inimi</emphasis> și transformare comună",
-    "heroBody": "Calea Inițierii Praga este mult mai mult decât un loc unde participi la cursuri. Este o comunitate vie, care respiră, dedicată trezirii, vindecării și mersului împreună pe cale cu sinceritate, bucurie și curaj.",
+    "eyebrow": "Comunitate în Praga",
+    "heroHeading": "Seri liniștite cu oameni reali, chiar aici, în Praga",
+    "heroBody": "Vino la un ceai, o scurtă practică și o conversație bună. Nu ai nevoie de experiență și nici de o anumită credință: vino așa cum ești.",
     "beyondClassroomEyebrow": "Dincolo de sala de curs",
     "beyondClassroomHeading": "Spațiu pentru creștere și conexiune autentică",
     "beyondClassroomBody1": "Aici, căutătorii se adună într-un spațiu de încredere, respect și muncă interioară profundă. Oferim un liman constant unde te poți conecta cu persoane asemenea ție, cărora le pasă cu adevărat de <bold>întruparea esenței lor divine</bold>, de accelerarea creșterii personale și de depășirea împreună a provocărilor vieții.",
@@ -916,7 +916,87 @@
     "ctaEyebrow": "Începe cu o conversație",
     "ctaHeading": "Alătură-te cercului",
     "ctaBody": "Dacă simți chemarea de a afla mai multe despre întâlnirile noastre viitoare, de a obține detalii logistice precise sau de a explora modul în care această comunitate îți poate susține călătoria personală, contactează-l direct pe Radu.",
-    "ctaButton": "Contactează comunitatea"
+    "ctaButton": "Contactează comunitatea",
+    "badgeInPerson": "În persoană · Vršovice, Praga 10",
+    "badgeFree": "Două dintre cele trei seri sunt gratuite",
+    "heroCta": "Vezi seara următoare",
+    "hostsCaption": "Gazdele tale, Diana și Radu Coman",
+    "hostsQuote": "Noi pregătim spațiul și facem ceaiul. Tu doar vii.",
+    "nextEyebrow": "Următoarea întâlnire",
+    "nextCta": "Rezervă-mi locul",
+    "nextNone": "Noi date vor apărea în curând. Scrie-ne și te anunțăm.",
+    "flowHeading": "Ce se întâmplă într-o seară",
+    "flow": [
+      {
+        "title": "Sosire și ceai",
+        "text": "Îi cunoști pe ceilalți și te așezi în liniște. Nimeni nu este pus în centrul atenției."
+      },
+      {
+        "title": "O scurtă introducere",
+        "text": "Diana și Radu explică pe înțeles ce vom face și de ce ajută."
+      },
+      {
+        "title": "Practicăm împreună",
+        "text": "Rugăciune, meditație sau conversație, ghidate pas cu pas."
+      },
+      {
+        "title": "Împărtășim și întrebăm",
+        "text": "Întreabă orice vrei, apoi poți rămâne la încă un ceai."
+      }
+    ],
+    "chooseHeading": "Alege-ți seara",
+    "leaveWith": "Pleci cu",
+    "nextDate": "Următoarea: {date}",
+    "noDate": "Următoarea dată în curând",
+    "monthly": "O dată pe lună",
+    "biweekly": "La fiecare două săptămâni",
+    "oneAndHalfHours": "1,5 ore",
+    "threeHours": "3 ore",
+    "twoHoursShort": "2 ore",
+    "askButton": "Întreabă pe WhatsApp",
+    "payButton": "Plătește și rezervă",
+    "prayerShort": "O seară de rugăciune și reflecție liniștită, într-un grup mic.",
+    "prayerGets": [
+      "O minte mai liniștită",
+      "O rugăciune simplă pe care o poți folosi acasă",
+      "Sprijinul unor oameni cu aceeași intenție"
+    ],
+    "meditationShort": "O meditație ghidată, cu respirație și vizualizare.",
+    "meditationGets": [
+      "Un sistem nervos mai calm",
+      "Exerciții de respirație pe care le poți face oriunde",
+      "O meditație mai profundă decât singur(ă)"
+    ],
+    "socialShort": "O seară relaxată, cu ceai, conversații și râsete.",
+    "socialGets": [
+      "Prieteni noi pe aceeași cale",
+      "Răspunsuri la întrebările tale despre cale",
+      "Multe râsete"
+    ],
+    "forYouHeading": "Este pentru tine dacă",
+    "forYou": [
+      "Te simți stresat(ă) și îți dorești o seară de liniște",
+      "Te interesează spiritualitatea, dar nu știi de unde să începi",
+      "Ți-ar plăcea să cunoști oameni buni și deschiși în Praga"
+    ],
+    "goodToKnowHeading": "Bine de știut",
+    "goodToKnow": [
+      "În persoană, în Vršovice, Praga 10",
+      "Poartă haine comode",
+      "Te înscrii cu un singur mesaj pe WhatsApp",
+      "Serile de rugăciune și de meditație sunt deschise tuturor; serile de socializare sunt pentru oaspeții pe care îi cunoaștem deja"
+    ],
+    "packLabel": "Pachet de 4 seri",
+    "packPrice": "1.200 CZK",
+    "packNote": "300 CZK pe seară în loc de 350",
+    "packButton": "Întreabă despre pachet",
+    "packInquiry": "Bună, aș dori să cumpăr pachetul de 4 seri de meditație.",
+    "newHereHeading": "Ești nou aici?",
+    "newHereBody": "Ești binevenit(ă) la orice seară de rugăciune sau de meditație. După prima vizită, serile noastre de socializare îți sunt deschise și ție.",
+    "newHereCta": "Vezi serile",
+    "returningOnly": "Deschis pentru tine după prima vizită",
+    "singleLabel": "O singură seară",
+    "singleNote": "Plătești pentru fiecare seară în parte"
   },
   "TestimonialsPage": {
     "heading": "Călătoria transformării",
