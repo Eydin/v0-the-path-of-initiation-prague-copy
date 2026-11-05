@@ -28,6 +28,7 @@ const CORE_ROUTES = [
   "/treating-negative-habits",
   "/advanced-ensofic-ray-healing",
   "/crystal-healing",
+  "/sacred-rites-healing",
   "/spark-of-life",
   "/sacred-geometry",
   "/sacred-geometry-2",

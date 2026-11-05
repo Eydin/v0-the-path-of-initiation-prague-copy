@@ -576,6 +576,7 @@
           { "name": "Ensofic Reiki", "description": "A single healing session with the Ensofic Ray for your body and nervous system, in Prague or remotely." },
           { "name": "Treating of Negative Habits", "description": "Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "An ancient crystal healing that takes you into deep relaxation and renews body and mind." },
+          { "name": "Sacred Geometry Sacred Rites Healing", "description": "A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune." },
           { "name": "Soul Retrieval", "description": "Recovers and reintegrates lost fragments of the self into wholeness." },
           { "name": "Spark of Life — Distance Healing", "description": "A remote healing that carries restorative energy to you across any distance." }
         ]
@@ -1497,7 +1498,8 @@
       },
       {
         "q": "Can I combine it with another healing?",
-        "a": "Yes. The Crystal Healing Package gives you two healings, this Ancient Crystal Healing and the Sacred Geometry Sacred Rites Healing, for 4.444 CZK instead of booking each one separately. We'll arrange the details with you."
+        "a": "Yes. The Crystal Healing Package gives you two healings, this Ancient Crystal Healing and the <link>Sacred Geometry Sacred Rites Healing</link>, for 4.444 CZK instead of booking each one separately. We'll arrange the details with you.",
+        "href": "/sacred-rites-healing"
       }
     ],
     "bookingTitle": "Rest and Restore",
@@ -1523,9 +1525,77 @@
       {
         "name": "Crystal Healing Package",
         "meta": "2 hours · 4.444 CZK",
-        "includes": "Two healings at a reduced price: the Sacred Geometry Ancient Crystal Healing and the Sacred Geometry Sacred Rites Healing. We'll arrange the details with you."
+        "includes": "Two healings at a reduced price: the Sacred Geometry Ancient Crystal Healing and the <link>Sacred Geometry Sacred Rites Healing</link>. We'll arrange the details with you.",
+        "href": "/sacred-rites-healing",
+        "linkLabel": "About the Sacred Rites Healing"
       }
-    ]
+    ],
+    "relatedHeading": "Discover the Sacred Rites Healing",
+    "relatedBody": "A healing with crystals and sacred chants that reaches deep into the subconscious, to heal old and new wounds and open the way for good fortune.",
+    "relatedCta": "Explore the Sacred Rites Healing"
+  },
+  "SacredRitesHealing": {
+    "heroEyebrow": "Energy Healing",
+    "heroTitle": "Sacred Geometry Sacred Rites Healing",
+    "heroSubtitle": "Heal old and new wounds, and open the way for good fortune",
+    "heroTagline": "A healing with crystals and sacred chants that reaches deep into the subconscious",
+    "introLead": "What happens in a session",
+    "introBody1": "You sit comfortably in a chair, holding a crystal in your hand. The practitioner holds the crystal too and begins the sacred rites: sacred chants that reach deep into the subconscious, where old hurts and patterns are held.",
+    "introBody2": "You don't need to do or say anything: simply listen and let go. Clients often leave feeling lighter, calmer and more open to what life brings.",
+    "benefitsHeading": "What It Helps With",
+    "benefits": [
+      "Healing fresh emotional and mental wounds, such as a recent loss, a break-up or a shock",
+      "Releasing old wounds you have carried for years",
+      "Letting go of hurt held deep in the subconscious",
+      "Opening the way for good fortune and new beginnings"
+    ],
+    "who": [
+      "Something hurt you recently and you can't shake it off",
+      "Old pain keeps coming back, however well you understand it",
+      "You feel stuck or unlucky and want life to start flowing again",
+      "You want a deep, gentle healing where you simply receive"
+    ],
+    "faq": [
+      {
+        "q": "What will I hear and feel?",
+        "a": "You will hear the sacred chants of the rites while you sit with the crystal in your hand. Most people relax deeply; some feel emotions rise and soften. You leave calmer and lighter."
+      },
+      {
+        "q": "Do I need to prepare?",
+        "a": "No. Wear comfortable clothes and come as you are; all you need to do is sit, hold the crystal and listen."
+      },
+      {
+        "q": "Is it safe?",
+        "a": "Yes. It is a gentle, non-invasive practice: you simply hold a crystal while the sacred rites are performed."
+      },
+      {
+        "q": "Can I combine it with another healing?",
+        "a": "Yes. The Crystal Healing Package gives you two healings, this Sacred Rites Healing and the <link>Sacred Geometry Ancient Crystal Healing</link>, for 4.444 CZK instead of booking each one separately. We'll arrange the details with you.",
+        "href": "/crystal-healing"
+      }
+    ],
+    "optionsHeading": "Choose your session",
+    "options": [
+      {
+        "name": "Single session",
+        "meta": "1 hour · 3.669 CZK",
+        "includes": "The Sacred Geometry Sacred Rites Healing on its own."
+      },
+      {
+        "name": "Crystal Healing Package",
+        "meta": "2 hours · 4.444 CZK",
+        "includes": "Two healings at a reduced price: the Sacred Geometry Sacred Rites Healing and the <link>Sacred Geometry Ancient Crystal Healing</link>. We'll arrange the details with you.",
+        "href": "/crystal-healing",
+        "linkLabel": "About the Ancient Crystal Healing"
+      }
+    ],
+    "relatedHeading": "Pair it with crystals",
+    "relatedBody": "The Sacred Geometry Ancient Crystal Healing takes you into deep rest and renewal. Together, the two make the Crystal Healing Package.",
+    "relatedCta": "Explore the Ancient Crystal Healing",
+    "bookingTitle": "Heal and Renew",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). After you reach out, we will contact you personally to arrange your appointment.",
+    "inquiry": "Hello, I am interested in the Sacred Geometry Sacred Rites Healing."
   },
   "SparkOfLife": {
     "heroEyebrow": "Energy Healing",

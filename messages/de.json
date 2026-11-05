@@ -537,6 +537,7 @@
           { "name": "Ensofic Reiki", "description": "Eine einzelne Heilsitzung mit dem Ensofischen Strahl für deinen Körper und dein Nervensystem, in Prag oder aus der Ferne." },
           { "name": "Behandlung negativer Gewohnheiten", "description": "Nutzt den Ensofischen Strahl, um dir zu helfen, negative Muster oder Gewohnheiten loszulassen, die du in deinem Leben wiederholst." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "Eine uralte Kristallheilung, die dich in tiefe Entspannung führt und Körper und Geist erneuert." },
+          { "name": "Sacred Geometry Sacred Rites Healing", "description": "Eine Heilung mit Kristallen und heiligen Gesängen, die alte und neue Wunden heilt und den Weg für das Glück öffnet." },
           { "name": "Seelenrückholung", "description": "Gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit." },
           { "name": "Lebensfunke — Fernheilung", "description": "Eine Fernheilung, die dir wiederherstellende Energie über jede Entfernung hinweg bringt." }
         ]
@@ -1458,7 +1459,8 @@
       },
       {
         "q": "Kann ich sie mit einer anderen Heilung verbinden?",
-        "a": "Ja. Das Kristallheilungs-Paket gibt dir zwei Heilungen, diese Ancient Crystal Healing und die Sacred Geometry Sacred Rites Healing, für 4.444 CZK, statt jede einzeln zu buchen. Die Einzelheiten besprechen wir mit dir."
+        "a": "Ja. Das Kristallheilungs-Paket gibt dir zwei Heilungen, diese Ancient Crystal Healing und die <link>Sacred Geometry Sacred Rites Healing</link>, für 4.444 CZK, statt jede einzeln zu buchen. Die Einzelheiten besprechen wir mit dir.",
+        "href": "/sacred-rites-healing"
       }
     ],
     "bookingTitle": "Ruhen und Erneuern",
@@ -1484,9 +1486,77 @@
       {
         "name": "Kristallheilungs-Paket",
         "meta": "2 Stunden · 4.444 CZK",
-        "includes": "Zwei Heilungen zu einem reduzierten Preis: die Sacred Geometry Ancient Crystal Healing und die Sacred Geometry Sacred Rites Healing. Die Einzelheiten besprechen wir mit dir."
+        "includes": "Zwei Heilungen zu einem reduzierten Preis: die Sacred Geometry Ancient Crystal Healing und die <link>Sacred Geometry Sacred Rites Healing</link>. Die Einzelheiten besprechen wir mit dir.",
+        "href": "/sacred-rites-healing",
+        "linkLabel": "Über die Sacred Rites Healing"
       }
-    ]
+    ],
+    "relatedHeading": "Entdecke die Sacred Rites Healing",
+    "relatedBody": "Eine Heilung mit Kristallen und heiligen Gesängen, die tief ins Unterbewusstsein reicht, um alte und neue Wunden zu heilen und den Weg für das Glück zu öffnen.",
+    "relatedCta": "Die Sacred Rites Healing entdecken"
+  },
+  "SacredRitesHealing": {
+    "heroEyebrow": "Energieheilung",
+    "heroTitle": "Sacred Geometry Sacred Rites Healing",
+    "heroSubtitle": "Heile alte und neue Wunden und öffne den Weg für das Glück",
+    "heroTagline": "Eine Heilung mit Kristallen und heiligen Gesängen, die tief ins Unterbewusstsein reicht",
+    "introLead": "Was in einer Sitzung geschieht",
+    "introBody1": "Du sitzt bequem auf einem Stuhl und hältst einen Kristall in der Hand. Der Praktizierende hält den Kristall ebenfalls und beginnt die heiligen Riten: heilige Gesänge, die tief ins Unterbewusstsein reichen, wo alte Verletzungen und Muster gespeichert sind.",
+    "introBody2": "Du musst nichts tun oder sagen: Hör einfach zu und lass los. Klienten gehen oft leichter, ruhiger und offener für das, was das Leben bringt.",
+    "benefitsHeading": "Wobei sie hilft",
+    "benefits": [
+      "Heilung frischer emotionaler und mentaler Wunden, etwa nach einem Verlust, einer Trennung oder einem Schock",
+      "Lösen alter Wunden, die du seit Jahren trägst",
+      "Loslassen von Schmerz, der tief im Unterbewusstsein sitzt",
+      "Den Weg öffnen für Glück und neue Anfänge"
+    ],
+    "who": [
+      "Etwas hat dich vor Kurzem verletzt, und du wirst es nicht los",
+      "Alter Schmerz kehrt immer wieder, so gut du ihn auch verstehst",
+      "Du fühlst dich festgefahren oder vom Pech verfolgt und möchtest, dass das Leben wieder fließt",
+      "Du wünschst dir eine tiefe, sanfte Heilung, bei der du einfach empfängst"
+    ],
+    "faq": [
+      {
+        "q": "Was werde ich hören und spüren?",
+        "a": "Du hörst die heiligen Gesänge der Riten, während du mit dem Kristall in der Hand sitzt. Die meisten entspannen sich tief; manche spüren, wie Gefühle aufsteigen und weicher werden. Du gehst ruhiger und leichter."
+      },
+      {
+        "q": "Muss ich mich vorbereiten?",
+        "a": "Nein. Trag bequeme Kleidung und komm, wie du bist; du musst nur sitzen, den Kristall halten und zuhören."
+      },
+      {
+        "q": "Ist es sicher?",
+        "a": "Ja. Es ist eine sanfte, nicht invasive Praxis: Du hältst einfach einen Kristall, während die heiligen Riten vollzogen werden."
+      },
+      {
+        "q": "Kann ich sie mit einer anderen Heilung verbinden?",
+        "a": "Ja. Das Kristallheilungs-Paket gibt dir zwei Heilungen, diese Sacred Rites Healing und die <link>Sacred Geometry Ancient Crystal Healing</link>, für 4.444 CZK, statt jede einzeln zu buchen. Die Einzelheiten besprechen wir mit dir.",
+        "href": "/crystal-healing"
+      }
+    ],
+    "optionsHeading": "Wähle deine Sitzung",
+    "options": [
+      {
+        "name": "Einzelsitzung",
+        "meta": "1 Stunde · 3.669 CZK",
+        "includes": "Die Sacred Geometry Sacred Rites Healing für sich allein."
+      },
+      {
+        "name": "Kristallheilungs-Paket",
+        "meta": "2 Stunden · 4.444 CZK",
+        "includes": "Zwei Heilungen zu einem reduzierten Preis: die Sacred Geometry Sacred Rites Healing und die <link>Sacred Geometry Ancient Crystal Healing</link>. Die Einzelheiten besprechen wir mit dir.",
+        "href": "/crystal-healing",
+        "linkLabel": "Über die Ancient Crystal Healing"
+      }
+    ],
+    "relatedHeading": "Verbinde sie mit Kristallen",
+    "relatedBody": "Die Sacred Geometry Ancient Crystal Healing führt dich in tiefe Ruhe und Erneuerung. Zusammen bilden beide das Kristallheilungs-Paket.",
+    "relatedCta": "Die Ancient Crystal Healing entdecken",
+    "bookingTitle": "Heilen und Erneuern",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "inquiry": "Hallo, ich interessiere mich für die Sacred Geometry Sacred Rites Healing."
   },
   "SparkOfLife": {
     "heroEyebrow": "Energieheilung",

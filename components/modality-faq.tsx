@@ -9,7 +9,10 @@ import {
   AccordionTrigger,
 } from "./ui/accordion"
 
-export type FaqItem = { q: string; a: string }
+import { LinkedText } from "./linked-text"
+
+/** `href`: where the <link>…</link> part of the answer points, if it has one */
+export type FaqItem = { q: string; a: string; href?: string }
 
 // ── FAQ accordion for a modality page ────────────────────────────────────
 export function ModalityFaq({ items }: { items: FaqItem[] }) {
@@ -30,7 +33,7 @@ export function ModalityFaq({ items }: { items: FaqItem[] }) {
                   {item.q}
                 </AccordionTrigger>
                 <AccordionContent className="text-base leading-relaxed text-muted-foreground">
-                  {item.a}
+                  <LinkedText text={item.a} href={item.href} />
                 </AccordionContent>
               </AccordionItem>
             ))}

@@ -537,6 +537,7 @@
           { "name": "Ensofic Reiki", "description": "O ședință individuală de vindecare cu Raza Ensofică pentru corpul și sistemul tău nervos, la Praga sau la distanță." },
           { "name": "Tratarea obiceiurilor negative", "description": "Folosește raza Ensofică pentru a te ajuta să eliberezi tiparele sau obiceiurile negative pe care le repeți în viața ta." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "O vindecare străveche cu cristale care te duce într-o relaxare profundă și reînnoiește trupul și mintea." },
+          { "name": "Sacred Geometry Sacred Rites Healing", "description": "O vindecare cu cristale și cântări sacre care vindecă răni vechi și noi și deschide calea norocului." },
           { "name": "Recuperarea sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
           { "name": "Scânteia vieții — vindecare la distanță", "description": "O vindecare la distanță care îți aduce energie restauratoare de la orice distanță." }
         ]
@@ -1458,7 +1459,8 @@
       },
       {
         "q": "O pot combina cu o altă vindecare?",
-        "a": "Da. Pachetul de vindecare cu cristale îți oferă două vindecări, această Ancient Crystal Healing și Sacred Geometry Sacred Rites Healing, pentru 4.444 CZK, în loc să le rezervi separat. Detaliile le stabilim împreună cu tine."
+        "a": "Da. Pachetul de vindecare cu cristale îți oferă două vindecări, această Ancient Crystal Healing și <link>Sacred Geometry Sacred Rites Healing</link>, pentru 4.444 CZK, în loc să le rezervi separat. Detaliile le stabilim împreună cu tine.",
+        "href": "/sacred-rites-healing"
       }
     ],
     "bookingTitle": "Odihnă și refacere",
@@ -1484,9 +1486,77 @@
       {
         "name": "Pachetul de vindecare cu cristale",
         "meta": "2 ore · 4.444 CZK",
-        "includes": "Două vindecări la preț redus: Sacred Geometry Ancient Crystal Healing și Sacred Geometry Sacred Rites Healing. Detaliile le stabilim împreună cu tine."
+        "includes": "Două vindecări la preț redus: Sacred Geometry Ancient Crystal Healing și <link>Sacred Geometry Sacred Rites Healing</link>. Detaliile le stabilim împreună cu tine.",
+        "href": "/sacred-rites-healing",
+        "linkLabel": "Despre Sacred Rites Healing"
       }
-    ]
+    ],
+    "relatedHeading": "Descoperă Sacred Rites Healing",
+    "relatedBody": "O vindecare cu cristale și cântări sacre care ajunge adânc în subconștient, pentru a vindeca răni vechi și noi și a deschide calea norocului.",
+    "relatedCta": "Descoperă Sacred Rites Healing"
+  },
+  "SacredRitesHealing": {
+    "heroEyebrow": "Vindecare energetică",
+    "heroTitle": "Sacred Geometry Sacred Rites Healing",
+    "heroSubtitle": "Vindecă răni vechi și noi și deschide calea norocului",
+    "heroTagline": "O vindecare cu cristale și cântări sacre care ajunge adânc în subconștient",
+    "introLead": "Ce se întâmplă într-o ședință",
+    "introBody1": "Stai comod pe un scaun, ținând un cristal în mână. Practicianul ține și el cristalul și începe ritualurile sacre: cântări sacre care ajung adânc în subconștient, acolo unde sunt păstrate rănile și tiparele vechi.",
+    "introBody2": "Nu trebuie să faci sau să spui nimic: doar ascultă și lasă să plece. Clienții pleacă adesea mai ușori, mai calmi și mai deschiși la ce aduce viața.",
+    "benefitsHeading": "La ce ajută",
+    "benefits": [
+      "Vindecarea rănilor emoționale și mentale recente, de exemplu după o pierdere, o despărțire sau un șoc",
+      "Eliberarea rănilor vechi pe care le porți de ani de zile",
+      "Eliberarea durerii păstrate adânc în subconștient",
+      "Deschiderea căii pentru noroc și noi începuturi"
+    ],
+    "who": [
+      "Ceva te-a rănit recent și nu reușești să treci peste",
+      "O durere veche tot revine, oricât de bine o înțelegi",
+      "Te simți blocat(ă) sau fără noroc și vrei ca viața să curgă din nou",
+      "Îți dorești o vindecare profundă și blândă, în care doar primești"
+    ],
+    "faq": [
+      {
+        "q": "Ce voi auzi și simți?",
+        "a": "Vei auzi cântările sacre ale ritualurilor în timp ce stai cu cristalul în mână. Cei mai mulți se relaxează profund; unii simt cum emoțiile se ridică și se înmoaie. Pleci mai calm(ă) și mai ușor(ă)."
+      },
+      {
+        "q": "Trebuie să mă pregătesc?",
+        "a": "Nu. Poartă haine comode și vino așa cum ești; trebuie doar să stai, să ții cristalul și să asculți."
+      },
+      {
+        "q": "Este sigur?",
+        "a": "Da. Este o practică blândă, neinvazivă: doar ții un cristal în mână în timp ce se desfășoară ritualurile sacre."
+      },
+      {
+        "q": "O pot combina cu o altă vindecare?",
+        "a": "Da. Pachetul de vindecare cu cristale îți oferă două vindecări, această Sacred Rites Healing și <link>Sacred Geometry Ancient Crystal Healing</link>, pentru 4.444 CZK, în loc să le rezervi separat. Detaliile le stabilim împreună cu tine.",
+        "href": "/crystal-healing"
+      }
+    ],
+    "optionsHeading": "Alege-ți ședința",
+    "options": [
+      {
+        "name": "Ședință individuală",
+        "meta": "1 oră · 3.669 CZK",
+        "includes": "Doar Sacred Geometry Sacred Rites Healing."
+      },
+      {
+        "name": "Pachetul de vindecare cu cristale",
+        "meta": "2 ore · 4.444 CZK",
+        "includes": "Două vindecări la preț redus: Sacred Geometry Sacred Rites Healing și <link>Sacred Geometry Ancient Crystal Healing</link>. Detaliile le stabilim împreună cu tine.",
+        "href": "/crystal-healing",
+        "linkLabel": "Despre Ancient Crystal Healing"
+      }
+    ],
+    "relatedHeading": "Combin-o cu cristalele",
+    "relatedBody": "Sacred Geometry Ancient Crystal Healing te duce într-o odihnă și o reînnoire profundă. Împreună formează Pachetul de vindecare cu cristale.",
+    "relatedCta": "Descoperă Ancient Crystal Healing",
+    "bookingTitle": "Vindecare și reînnoire",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "inquiry": "Bună, sunt interesat(ă) de Sacred Geometry Sacred Rites Healing."
   },
   "SparkOfLife": {
     "heroEyebrow": "Vindecare energetică",

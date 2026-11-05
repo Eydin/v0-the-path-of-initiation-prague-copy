@@ -537,6 +537,7 @@
           { "name": "Ensofic Reiki", "description": "Jednotlivé léčebné sezení s paprskem Ensof pro vaše tělo a nervový systém, v Praze nebo na dálku." },
           { "name": "Léčení negativních návyků", "description": "Využívá paprsek Ensof, aby vám pomohl pustit negativní vzorce nebo návyky, které ve svém životě stále opakujete." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "Starobylé léčení krystaly, které vás uvede do hlubokého uvolnění a obnoví tělo i mysl." },
+          { "name": "Sacred Geometry Sacred Rites Healing", "description": "Léčení krystaly a posvátnými zpěvy, které uzdravuje staré i nové rány a otevírá cestu štěstí." },
           { "name": "Návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
           { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." }
         ]
@@ -1458,7 +1459,8 @@
       },
       {
         "q": "Mohu ho spojit s jiným léčením?",
-        "a": "Ano. Balíček krystalového léčení vám dá dvě léčení, toto Ancient Crystal Healing a Sacred Geometry Sacred Rites Healing, za 4.444 CZK, místo abyste si každé rezervovali zvlášť. Podrobnosti domluvíme s vámi."
+        "a": "Ano. Balíček krystalového léčení vám dá dvě léčení, toto Ancient Crystal Healing a <link>Sacred Geometry Sacred Rites Healing</link>, za 4.444 CZK, místo abyste si každé rezervovali zvlášť. Podrobnosti domluvíme s vámi.",
+        "href": "/sacred-rites-healing"
       }
     ],
     "bookingTitle": "Odpočinek a obnova",
@@ -1484,9 +1486,77 @@
       {
         "name": "Balíček krystalového léčení",
         "meta": "2 hodiny · 4.444 CZK",
-        "includes": "Dvě léčení za sníženou cenu: Sacred Geometry Ancient Crystal Healing a Sacred Geometry Sacred Rites Healing. Podrobnosti domluvíme s vámi."
+        "includes": "Dvě léčení za sníženou cenu: Sacred Geometry Ancient Crystal Healing a <link>Sacred Geometry Sacred Rites Healing</link>. Podrobnosti domluvíme s vámi.",
+        "href": "/sacred-rites-healing",
+        "linkLabel": "O Sacred Rites Healing"
       }
-    ]
+    ],
+    "relatedHeading": "Objevte Sacred Rites Healing",
+    "relatedBody": "Léčení krystaly a posvátnými zpěvy, které sahá hluboko do podvědomí, aby uzdravilo staré i nové rány a otevřelo cestu štěstí.",
+    "relatedCta": "Prozkoumat Sacred Rites Healing"
+  },
+  "SacredRitesHealing": {
+    "heroEyebrow": "Energetické léčení",
+    "heroTitle": "Sacred Geometry Sacred Rites Healing",
+    "heroSubtitle": "Uzdravte staré i nové rány a otevřete cestu štěstí",
+    "heroTagline": "Léčení krystaly a posvátnými zpěvy, které sahá hluboko do podvědomí",
+    "introLead": "Co se během sezení děje",
+    "introBody1": "Pohodlně sedíte na židli a v ruce držíte krystal. Praktik krystal drží také a začne posvátné obřady: posvátné zpěvy, které sahají hluboko do podvědomí, kde jsou uložena stará zranění a vzorce.",
+    "introBody2": "Nemusíte nic dělat ani říkat: stačí naslouchat a pustit. Klienti často odcházejí lehčí, klidnější a otevřenější tomu, co život přináší.",
+    "benefitsHeading": "S čím pomáhá",
+    "benefits": [
+      "Uzdravení čerstvých emočních a psychických ran, například po nedávné ztrátě, rozchodu nebo šoku",
+      "Uvolnění starých ran, které nesete roky",
+      "Pouštění bolesti uložené hluboko v podvědomí",
+      "Otevření cesty štěstí a novým začátkům"
+    ],
+    "who": [
+      "Něco vás nedávno zranilo a nemůžete se z toho dostat",
+      "Stará bolest se stále vrací, i když jí dobře rozumíte",
+      "Cítíte se zaseknutí nebo bez štěstí a chcete, aby se život znovu rozproudil",
+      "Chcete hluboké, jemné léčení, při kterém jen přijímáte"
+    ],
+    "faq": [
+      {
+        "q": "Co uslyším a budu cítit?",
+        "a": "Uslyšíte posvátné zpěvy obřadů, zatímco sedíte s krystalem v ruce. Většina lidí se hluboce uvolní; někteří cítí, jak emoce vystoupí a zjemní se. Odcházíte klidnější a lehčí."
+      },
+      {
+        "q": "Musím se nějak připravit?",
+        "a": "Ne. Vezměte si pohodlné oblečení a přijďte, jak jste; stačí sedět, držet krystal a naslouchat."
+      },
+      {
+        "q": "Je to bezpečné?",
+        "a": "Ano. Je to jemná, neinvazivní praxe: jen držíte krystal, zatímco probíhají posvátné obřady."
+      },
+      {
+        "q": "Mohu ho spojit s jiným léčením?",
+        "a": "Ano. Balíček krystalového léčení vám dá dvě léčení, toto Sacred Rites Healing a <link>Sacred Geometry Ancient Crystal Healing</link>, za 4.444 CZK, místo abyste si každé rezervovali zvlášť. Podrobnosti domluvíme s vámi.",
+        "href": "/crystal-healing"
+      }
+    ],
+    "optionsHeading": "Vyberte si sezení",
+    "options": [
+      {
+        "name": "Jednotlivé sezení",
+        "meta": "1 hodina · 3.669 CZK",
+        "includes": "Samotné léčení Sacred Geometry Sacred Rites Healing."
+      },
+      {
+        "name": "Balíček krystalového léčení",
+        "meta": "2 hodiny · 4.444 CZK",
+        "includes": "Dvě léčení za sníženou cenu: Sacred Geometry Sacred Rites Healing a <link>Sacred Geometry Ancient Crystal Healing</link>. Podrobnosti domluvíme s vámi.",
+        "href": "/crystal-healing",
+        "linkLabel": "O Ancient Crystal Healing"
+      }
+    ],
+    "relatedHeading": "Spojte ho s krystaly",
+    "relatedBody": "Sacred Geometry Ancient Crystal Healing vás uvede do hlubokého odpočinku a obnovy. Společně tvoří Balíček krystalového léčení.",
+    "relatedCta": "Prozkoumat Ancient Crystal Healing",
+    "bookingTitle": "Uzdravení a obnova",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Dobrý den, mám zájem o Sacred Geometry Sacred Rites Healing."
   },
   "SparkOfLife": {
     "heroEyebrow": "Energetické léčení",

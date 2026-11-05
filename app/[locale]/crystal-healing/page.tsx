@@ -9,6 +9,7 @@ const config = {
   heroPosition: "center 50%",
   heroCaption: "Amethyst geode · photo by Calvin Chai, Unsplash",
   investment: "3.669 CZK",
+  relatedHref: "/sacred-rites-healing",
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

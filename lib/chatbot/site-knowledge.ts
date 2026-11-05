@@ -224,6 +224,7 @@ center 30%
 center 50%
 Amethyst geode · photo by Calvin Chai, Unsplash
 3.669 CZK
+/sacred-rites-healing
 
 ## PAGE: /empower-thyself
 Radu Coman
@@ -431,6 +432,8 @@ Treating of Negative Habits
 Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life.
 Sacred Geometry Ancient Crystal Healing
 An ancient crystal healing that takes you into deep relaxation and renews body and mind.
+Sacred Geometry Sacred Rites Healing
+A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune.
 Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
@@ -867,6 +870,8 @@ Treating of Negative Habits
 Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life.
 Sacred Geometry Ancient Crystal Healing
 An ancient crystal healing that takes you into deep relaxation and renews body and mind.
+Sacred Geometry Sacred Rites Healing
+A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune.
 Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
@@ -1030,6 +1035,13 @@ See the order beneath everyday life and align yourself with it.
 Read the Language of Creation
 4.5 Hours
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
+
+## PAGE: /sacred-rites-healing
+center 30%
+center 50%
+Healing stones · photo by Dan Farrell, Unsplash
+3.669 CZK
+/crystal-healing
 
 ## PAGE: /sanctuary-meditation-session
 Guided Meditation
@@ -1865,6 +1877,7 @@ https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
 /treating-negative-habits
 3.669 CZK
 /crystal-healing
+/sacred-rites-healing
 6.150 CZK
 /soul-retrieval
 /spark-of-life

@@ -35,7 +35,7 @@ export async function getHealingGroups(locale?: string) {
     },
   ]
 
-  const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5, 6, 7, 8].map((i) => ({
+  const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map((i) => ({
     name: i === 0 ? t("groups.auraEnergy.items.0.name", { brand: BRAND.sacredGeometry }) : t(`groups.auraEnergy.items.${i}.name`),
     description: t(`groups.auraEnergy.items.${i}.description`),
     ...(i === 0
@@ -44,12 +44,14 @@ export async function getHealingGroups(locale?: string) {
     ...(i === 4 ? { price: "4.900 CZK", detailsHref: "/ensofic-reiki" } : {}),
     ...(i === 5 ? { price: "4.900 CZK", detailsHref: "/treating-negative-habits" } : {}),
     ...(i === 6 ? { price: "3.669 CZK", detailsHref: "/crystal-healing" } : {}),
-    ...(i === 7 ? { price: "6.150 CZK", detailsHref: "/soul-retrieval" } : {}),
-    ...(i === 8 ? { price: "6.150 CZK", detailsHref: "/spark-of-life" } : {}),
+    ...(i === 7 ? { price: "3.669 CZK", detailsHref: "/sacred-rites-healing" } : {}),
+    ...(i === 8 ? { price: "6.150 CZK", detailsHref: "/soul-retrieval" } : {}),
+    ...(i === 9 ? { price: "6.150 CZK", detailsHref: "/spark-of-life" } : {}),
   }))
 
   // The remote-capable sessions also appear in "Aura & Energy" above — same cards, so the two never drift apart.
-  const remote: Healing[] = [4, 5, 8].map((i) => auraEnergy[i])
+  // (Ensofic Reiki, Treating of Negative Habits, Spark of Life)
+  const remote: Healing[] = [4, 5, 9].map((i) => auraEnergy[i])
 
   const readings: Healing[] = [0, 1, 2].map((i) => ({
     name: t(`groups.readings.items.${i}.name`),

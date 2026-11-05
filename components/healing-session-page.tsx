@@ -12,6 +12,7 @@ import {
 } from "@/components/modality"
 import { MedicalDisclaimer, ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { Link } from "@/i18n/navigation"
+import { LinkedText } from "@/components/linked-text"
 
 type SessionConfig = {
   /** Root namespace in messages/*.json */
@@ -54,7 +55,9 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
   const who = has("who") ? (t.raw("who") as string[]).map((text) => ({ text })) : []
   const protocol = has("protocol") ? (t.raw("protocol") as { label: string; text: string }[]) : []
   const faq = has("faq") ? (t.raw("faq") as FaqItem[]) : []
-  const options = has("options") ? (t.raw("options") as { name: string; meta: string; includes: string }[]) : []
+  const options = has("options")
+    ? (t.raw("options") as { name: string; meta: string; includes: string; href?: string; linkLabel?: string }[])
+    : []
 
   return (
     <ModalityShell bg={config.bg} position={config.position ?? "center 30%"}>
@@ -88,7 +91,17 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
                 <div key={o.name} className="rounded-lg border border-primary/30 p-4">
                   <p className="font-serif text-lg text-foreground">{o.name}</p>
                   <p className="text-sm font-semibold text-primary">{o.meta}</p>
-                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{o.includes}</p>
+                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+                    <LinkedText text={o.includes} href={o.href} />
+                  </p>
+                  {o.href && o.linkLabel && (
+                    <Link
+                      href={o.href}
+                      className="mt-3 inline-flex items-center gap-1 text-sm text-primary underline underline-offset-4 hover:opacity-80"
+                    >
+                      {o.linkLabel} →
+                    </Link>
+                  )}
                 </div>
               ))}
             </div>
