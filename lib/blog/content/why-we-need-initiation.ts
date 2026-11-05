@@ -9,7 +9,7 @@ One of the best ways to honor our ancestors is the rite of initiation. This show
 
 There is no greater honor you can give someone than saying, "I want to be like you and continue your work." Many eons ago, we did this when we first met God. We said, "We want to be like you!" "We want to create the universe!" This is where this tradition started and we carry it to this day.
 
-The Mystery School teaches us that in that moment God said yes, and we embarked together on a journey of transformation. We humans have been granted the power and authority to do the work of God. Now it is up to us to claim that power and use it to create good on the planet. The rite of initiation starts this process. It purifies our soul and realigns our aura to allow the power of God, the wisdom of God and all the other qualities to flow through us uninterrupted.
+The [Mystery School](https://modernmysteryschoolint.com/) teaches us that in that moment God said yes, and we embarked together on a journey of transformation. We humans have been granted the power and authority to do the work of God. Now it is up to us to claim that power and use it to create good on the planet. The rite of initiation starts this process. It purifies our soul and realigns our aura to allow the power of God, the wisdom of God and all the other qualities to flow through us uninterrupted.
 
 ## A Plan Made Together with God
 
@@ -29,7 +29,7 @@ This rite has been handed down for generations, according to tradition. Like man
 
 ## The Doors Open Again
 
-Now that the times have changed, the ancient rite of initiation can be performed openly once more. No longer hidden behind closed doors. One courageous initiate from the old order opened the doors to the public to partake of this rite. His name is Gudni Gudnason and he is today recognized as the Founder of the Modern Mystery School.
+Now that the times have changed, the ancient rite of initiation can be performed openly once more. No longer hidden behind closed doors. One courageous initiate from the old order opened the doors to the public to partake of this rite. His name is [Gudni Gudnason](https://modernmysteryschoolint.com/founder-gudni/) and he is today recognized as the Founder of the [Modern Mystery School](https://modernmysteryschoolint.com/).
 
 Over the last 30 years he has trained a new generation of guides who are carrying his work forward. I am honored and humbled to be one of them. It is not glamorous and definitely not easy, but it is the most fulfilling work that I have ever done in my life.
 
@@ -42,6 +42,8 @@ This is how initiates from the great lineages have been doing their work for tho
 ## Honor Them, Then Follow the Call
 
 If you haven't stopped yet to say thank you to your ancestors, now is the time. Light a candle for them and say a prayer for them. Also, if you hear the call of your soul to follow in their footsteps and continue the great work to Know Thyself, seek to know more, to understand the deeper meaning of the experience we are living.
+
+If you would like to read more about the first level of initiation that we offer, visit the [Empower Thyself page](/empower-thyself) to see what it involves and when the next one takes place.
 
 *Namaste*
 `

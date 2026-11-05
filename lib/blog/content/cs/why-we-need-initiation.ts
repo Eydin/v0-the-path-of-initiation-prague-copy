@@ -13,7 +13,7 @@ Jedním z nejlepších způsobů, jak předky uctít, je rituál zasvěcení. Uk
 
 Neexistuje větší pocta, kterou můžeš někomu prokázat, než říct: „Chci být jako ty a pokračovat v tvém díle." Před mnoha eóny jsme to udělali, když jsme poprvé potkali Boha. Řekli jsme: „Chceme být jako ty!" „Chceme stvořit vesmír!" Tady tato tradice začala a my ji neseme dodnes.
 
-Mysterijní škola nás učí, že v tom okamžiku Bůh řekl ano a společně jsme se vydali na cestu proměny. My lidé jsme dostali moc a pravomoc konat dílo Boží. Nyní je na nás, abychom si tu moc nárokovali a použili ji k tvoření dobra na planetě. Rituál zasvěcení tento proces zahajuje. Očišťuje naši duši a znovu vyrovnává naši auru, aby moc Boží, moudrost Boží i všechny další vlastnosti mohly skrze nás proudit nerušeně.
+[Mysterijní škola](https://modernmysteryschoolint.com/) nás učí, že v tom okamžiku Bůh řekl ano a společně jsme se vydali na cestu proměny. My lidé jsme dostali moc a pravomoc konat dílo Boží. Nyní je na nás, abychom si tu moc nárokovali a použili ji k tvoření dobra na planetě. Rituál zasvěcení tento proces zahajuje. Očišťuje naši duši a znovu vyrovnává naši auru, aby moc Boží, moudrost Boží i všechny další vlastnosti mohly skrze nás proudit nerušeně.
 
 ## Plán vytvořený společně s Bohem
 
@@ -33,7 +33,7 @@ Tento rituál se podle tradice předává z generace na generaci. Jako mnoho jin
 
 ## Dveře se opět otevírají
 
-Doba se změnila a prastarý rituál zasvěcení lze opět vykonávat otevřeně. Už ne za zavřenými dveřmi. Jeden odvážný zasvěcenec ze starého řádu otevřel dveře veřejnosti, aby se mohla tohoto rituálu zúčastnit. Jmenuje se Gudni Gudnason a dnes je uznáván jako zakladatel Modern Mystery School.
+Doba se změnila a prastarý rituál zasvěcení lze opět vykonávat otevřeně. Už ne za zavřenými dveřmi. Jeden odvážný zasvěcenec ze starého řádu otevřel dveře veřejnosti, aby se mohla tohoto rituálu zúčastnit. Jmenuje se [Gudni Gudnason](https://modernmysteryschoolint.com/founder-gudni/) a dnes je uznáván jako zakladatel [Modern Mystery School](https://modernmysteryschoolint.com/).
 
 Za posledních 30 let vyškolil novou generaci průvodců, kteří jeho dílo nesou dál. Je pro mě ctí a pokorou být jedním z nich. Není to okázalé a rozhodně to není snadné, ale je to ta nejvíce naplňující práce, jakou jsem kdy v životě dělal.
 
@@ -46,6 +46,8 @@ Takto zasvěcenci z velkých linií konají své dílo už tisíce let. A zanech
 ## Uctěme je a následujme volání
 
 Pokud jsi se ještě nezastavil, abys svým předkům poděkoval, teď je ten pravý čas. Zapal pro ně svíčku a pomodli se za ně. A pokud slyšíš volání své duše, aby ses vydal v jejich stopách a pokračoval ve velkém díle Poznej sám sebe, hledej, abys věděl víc a pochopil hlubší smysl zkušenosti, kterou žijeme.
+
+Pokud si chceš přečíst více o první úrovni zasvěcení, kterou nabízíme, navštiv stránku [Empower Thyself](/empower-thyself), kde se dozvíš, co zahrnuje a kdy se koná to nejbližší.
 
 *Namaste*
 `,

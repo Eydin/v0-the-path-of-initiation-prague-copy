@@ -13,7 +13,7 @@ Unul dintre cele mai bune moduri de a ne cinsti strămoșii este ritualul iniți
 
 Nu există o onoare mai mare pe care să o poți aduce cuiva decât să spui: „Vreau să fiu ca tine și să-ți continui lucrarea." Cu multe eoni în urmă, am făcut asta când l-am întâlnit pentru prima dată pe Dumnezeu. Am spus: „Vrem să fim ca Tine!" „Vrem să creăm universul!" Aici a început această tradiție și o ducem mai departe până în ziua de azi.
 
-Școala de Mistere ne învață că în acel moment Dumnezeu a spus da și am pornit împreună într-o călătorie de transformare. Nouă, oamenilor, ni s-au dat puterea și autoritatea de a face lucrarea lui Dumnezeu. Acum depinde de noi să ne revendicăm această putere și să o folosim pentru a crea bine pe planetă. Ritualul inițierii începe acest proces. Ne purifică sufletul și ne realiniază aura, pentru ca puterea lui Dumnezeu, înțelepciunea lui Dumnezeu și toate celelalte calități să poată curge prin noi nestingherit.
+[Școala de Mistere](https://modernmysteryschoolint.com/) ne învață că în acel moment Dumnezeu a spus da și am pornit împreună într-o călătorie de transformare. Nouă, oamenilor, ni s-au dat puterea și autoritatea de a face lucrarea lui Dumnezeu. Acum depinde de noi să ne revendicăm această putere și să o folosim pentru a crea bine pe planetă. Ritualul inițierii începe acest proces. Ne purifică sufletul și ne realiniază aura, pentru ca puterea lui Dumnezeu, înțelepciunea lui Dumnezeu și toate celelalte calități să poată curge prin noi nestingherit.
 
 ## Un plan creat împreună cu Dumnezeu
 
@@ -33,7 +33,7 @@ Acest ritual se transmite din generație în generație, conform tradiției. Ca 
 
 ## Ușile se deschid din nou
 
-Acum, când vremurile s-au schimbat, străvechiul ritual al inițierii poate fi săvârșit din nou în mod deschis. Nu mai este ascuns în spatele ușilor închise. Un inițiat curajos din vechiul ordin a deschis ușile către public, pentru ca oamenii să poată lua parte la acest ritual. Numele lui este Gudni Gudnason și astăzi este recunoscut ca Fondatorul Modern Mystery School.
+Acum, când vremurile s-au schimbat, străvechiul ritual al inițierii poate fi săvârșit din nou în mod deschis. Nu mai este ascuns în spatele ușilor închise. Un inițiat curajos din vechiul ordin a deschis ușile către public, pentru ca oamenii să poată lua parte la acest ritual. Numele lui este [Gudni Gudnason](https://modernmysteryschoolint.com/founder-gudni/) și astăzi este recunoscut ca Fondatorul [Modern Mystery School](https://modernmysteryschoolint.com/).
 
 În ultimii 30 de ani a format o nouă generație de ghizi care îi duc lucrarea mai departe. Sunt onorat și smerit să fiu unul dintre ei. Nu este strălucitor și cu siguranță nu este ușor, dar este cea mai împlinitoare muncă pe care am făcut-o vreodată în viața mea.
 
@@ -46,6 +46,8 @@ Așa și-au făcut inițiații marilor linii lucrarea de mii de ani. Și ne-au l
 ## Cinstește-i, apoi urmează chemarea
 
 Dacă nu te-ai oprit încă să le mulțumești strămoșilor tăi, acum este momentul. Aprinde o lumânare pentru ei și spune o rugăciune pentru ei. Și, dacă auzi chemarea sufletului tău de a le urma pașii și de a continua marea lucrare de a te Cunoaște pe Tine Însuți, caută să afli mai mult, să înțelegi sensul mai profund al experienței pe care o trăim.
+
+Dacă vrei să afli mai multe despre primul nivel de inițiere pe care îl oferim, vizitează pagina [Empower Thyself](/empower-thyself) și vezi ce presupune și când are loc următoarea.
 
 *Namaste*
 `,

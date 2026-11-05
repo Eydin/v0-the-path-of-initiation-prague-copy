@@ -13,7 +13,7 @@ Eine der besten Arten, unsere Ahnen zu ehren, ist das Ritual der Einweihung. Es 
 
 Es gibt keine größere Ehre, die du jemandem erweisen kannst, als zu sagen: „Ich möchte so sein wie du und dein Werk fortführen." Vor vielen Äonen haben wir das getan, als wir Gott zum ersten Mal begegneten. Wir sagten: „Wir wollen sein wie du!" „Wir wollen das Universum erschaffen!" Hier begann diese Tradition, und wir tragen sie bis heute weiter.
 
-Die Mysterienschule lehrt uns, dass Gott in diesem Moment Ja sagte und wir uns gemeinsam auf eine Reise der Transformation begaben. Uns Menschen wurden die Kraft und die Autorität gegeben, das Werk Gottes zu tun. Nun liegt es an uns, diese Kraft zu beanspruchen und sie zu nutzen, um Gutes auf dem Planeten zu erschaffen. Das Ritual der Einweihung setzt diesen Prozess in Gang. Es reinigt unsere Seele und richtet unsere Aura neu aus, damit die Kraft Gottes, die Weisheit Gottes und alle anderen Eigenschaften ungehindert durch uns fließen können.
+Die [Mysterienschule](https://modernmysteryschoolint.com/) lehrt uns, dass Gott in diesem Moment Ja sagte und wir uns gemeinsam auf eine Reise der Transformation begaben. Uns Menschen wurden die Kraft und die Autorität gegeben, das Werk Gottes zu tun. Nun liegt es an uns, diese Kraft zu beanspruchen und sie zu nutzen, um Gutes auf dem Planeten zu erschaffen. Das Ritual der Einweihung setzt diesen Prozess in Gang. Es reinigt unsere Seele und richtet unsere Aura neu aus, damit die Kraft Gottes, die Weisheit Gottes und alle anderen Eigenschaften ungehindert durch uns fließen können.
 
 ## Ein Plan, gemeinsam mit Gott geschaffen
 
@@ -33,7 +33,7 @@ Dieses Ritual wird der Tradition gemäß seit Generationen weitergegeben. Wie vi
 
 ## Die Türen öffnen sich wieder
 
-Nun, da sich die Zeiten geändert haben, kann das uralte Ritual der Einweihung wieder offen durchgeführt werden. Nicht länger hinter verschlossenen Türen. Ein mutiger Eingeweihter des alten Ordens öffnete die Türen für die Öffentlichkeit, damit sie an diesem Ritual teilhaben kann. Sein Name ist Gudni Gudnason, und er ist heute als der Gründer der Modern Mystery School anerkannt.
+Nun, da sich die Zeiten geändert haben, kann das uralte Ritual der Einweihung wieder offen durchgeführt werden. Nicht länger hinter verschlossenen Türen. Ein mutiger Eingeweihter des alten Ordens öffnete die Türen für die Öffentlichkeit, damit sie an diesem Ritual teilhaben kann. Sein Name ist [Gudni Gudnason](https://modernmysteryschoolint.com/founder-gudni/), und er ist heute als der Gründer der [Modern Mystery School](https://modernmysteryschoolint.com/) anerkannt.
 
 In den letzten 30 Jahren hat er eine neue Generation von Führern ausgebildet, die sein Werk weitertragen. Ich bin geehrt und demütig, eine von ihnen zu sein. Es ist nicht glamourös und definitiv nicht leicht, aber es ist die erfüllendste Arbeit, die ich je in meinem Leben getan habe.
 
@@ -46,6 +46,8 @@ So haben Eingeweihte der großen Linien ihr Werk seit Tausenden von Jahren getan
 ## Ehre sie und folge dem Ruf
 
 Falls du noch nicht innegehalten hast, um deinen Ahnen zu danken, ist jetzt der Moment. Zünde eine Kerze für sie an und sprich ein Gebet für sie. Und wenn du den Ruf deiner Seele hörst, in ihre Fußstapfen zu treten und das große Werk des Erkenne dich selbst fortzusetzen, dann suche, mehr zu wissen und den tieferen Sinn der Erfahrung zu verstehen, die wir leben.
+
+Wenn du mehr über die erste Stufe der Einweihung lesen möchtest, die wir anbieten, besuche die Seite [Empower Thyself](/empower-thyself) und erfahre, was sie beinhaltet und wann die nächste stattfindet.
 
 *Namaste*
 `,
