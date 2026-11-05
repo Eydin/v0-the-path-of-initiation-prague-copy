@@ -957,7 +957,7 @@
     "ctaBody": "If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.",
     "ctaButton": "Contact the Community",
     "badgeInPerson": "In person · Vršovice, Prague 10",
-    "badgeFree": "Two of the three evenings are free",
+    "badgeFree": "Prayer Evenings are free",
     "heroCta": "See the next evening",
     "hostsCaption": "Your hosts, Diana and Radu Coman",
     "hostsQuote": "We prepare the space and make the tea. You just come.",
@@ -1006,11 +1006,11 @@
       "Breathing you can use anywhere",
       "A deeper meditation than when you practise alone"
     ],
-    "socialShort": "A relaxed evening of tea, conversation and laughter.",
+    "socialShort": "A relaxed evening of tea and conversation around a topic the group chooses together, from spiritual questions to everyday life on the path.",
     "socialGets": [
-      "New friends on the same path",
-      "Answers to your questions about the path",
-      "A good laugh"
+      "Real insight on the topics you bring",
+      "Answers to your questions from Diana and Radu",
+      "New friends on the same path, and a good laugh"
     ],
     "forYouHeading": "This is for you if",
     "forYou": [
@@ -1023,7 +1023,8 @@
       "In person, in Vršovice, Prague 10",
       "Wear something comfortable",
       "Sign up with one WhatsApp message",
-      "Prayer and Meditation Evenings are open to everyone; Socialization Evenings are for guests we have already met"
+      "Prayer and Meditation Evenings are open to everyone; Socialization Evenings are for guests we have already met",
+      "Looking for a free evening? Our Prayer Evenings are always free and open to everyone"
     ],
     "packLabel": "Pack of 4 evenings",
     "packPrice": "1.200 CZK",
@@ -1035,7 +1036,10 @@
     "newHereCta": "See the evenings",
     "returningOnly": "Open to you after your first visit",
     "singleLabel": "Single evening",
-    "singleNote": "Pay for one evening at a time"
+    "singleNote": "Pay for one evening at a time",
+    "priceAdvance": "{price} if you book ahead",
+    "priceDoor": "{price} at the door",
+    "teaIncluded": "Tea and snacks included"
   },
   "TestimonialsPage": {
     "heading": "The Journey of Transformation",
@@ -1375,7 +1379,10 @@
     ],
     "duration": "90 Minutes",
     "bookingNote": "This healing session can be done in person in Prague or remotely anywhere in the world.",
-    "inquiry": "Hello, I am interested in Ensofic Reiki."
+    "inquiry": "Hello, I am interested in Ensofic Reiki.",
+    "relatedHeading": "Ready to go deeper?",
+    "relatedBody": "Advanced Ensofic Ray Healing is a series of three sessions, in person in Prague, that works with body, soul and spirit together for a deeper and lasting change.",
+    "relatedCta": "Explore Advanced Ensofic Ray Healing"
   },
   "AdvancedEnsoficRay": {
     "heroEyebrow": "Energy Healing",

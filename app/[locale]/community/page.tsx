@@ -65,14 +65,20 @@ const EVENINGS = [
     gets: "socialGets",
     frequency: "monthly",
     duration: "threeHours",
-    free: true,
+    free: false,
+    // 222 CZK booked ahead (so people commit), 300 CZK at the door; tea and snacks included
+    price: "222 CZK",
+    doorPrice: "300 CZK",
+    tea: true,
     // Socialization Evenings are for guests we have already met (Prayer and Meditation are open to all)
     returning: true,
   },
 ] as const
 
+type Evening = (typeof EVENINGS)[number]
+
 const FLOW_ICONS: LucideIcon[] = [Coffee, MessagesSquare, Sparkles, Users]
-const GOOD_TO_KNOW_ICONS: LucideIcon[] = [MapPin, Shirt, MessageCircle, Users]
+const GOOD_TO_KNOW_ICONS: LucideIcon[] = [MapPin, Shirt, MessageCircle, Users, Gift]
 
 export async function generateMetadata({
   params,
@@ -97,6 +103,14 @@ export default async function CommunityPage({
 }) {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "CommunityPage" })
+
+  // "Free of Charge", "350 CZK", or "222 CZK if you book ahead · 300 CZK at the door"
+  const priceText = (ev: Evening) =>
+    ev.free
+      ? t("freeOfCharge")
+      : "doorPrice" in ev
+        ? `${t("priceAdvance", { price: ev.price })} · ${t("priceDoor", { price: ev.doorPrice })}`
+        : ev.price
 
   const formatDate = (date: string, long = true) =>
     parseLocalDate(date).toLocaleDateString(DATE_LOCALE[locale] ?? "en-GB", {
@@ -157,12 +171,12 @@ export default async function CommunityPage({
               <div className="mx-auto grid max-w-sm grid-cols-2 gap-4 md:max-w-none">
                 <div className="relative aspect-[3/4] overflow-hidden rounded-2xl border border-primary/20">
                   <Image
-                    src="/images/diana-coman.jpeg"
+                    src="/images/diana-smiling.jpg"
                     alt="Diana Coman"
                     fill
                     priority
                     sizes="(max-width: 768px) 45vw, 22rem"
-                    className="object-cover object-[50%_30%]"
+                    className="object-cover object-[50%_45%]"
                   />
                 </div>
                 <div className="relative mt-8 aspect-[3/4] overflow-hidden rounded-2xl border border-primary/20">
@@ -200,7 +214,7 @@ export default async function CommunityPage({
                           {formatDate(next.date)} · {next.time}
                         </p>
                         <p className="mt-1 text-sm text-muted-foreground">
-                          {nextEvening.free ? t("freeOfCharge") : nextEvening.price} · {t(nextEvening.duration)} ·{" "}
+                          {priceText(nextEvening)} · {t(nextEvening.duration)} ·{" "}
                           {t("badgeInPerson")}
                         </p>
                         {"returning" in nextEvening && (
@@ -294,7 +308,7 @@ export default async function CommunityPage({
                     >
                       <h3 className="font-serif text-2xl text-foreground">{t(`${ev.ns}.title`)}</h3>
                       <p className="mt-1 text-sm text-muted-foreground">
-                        {t(ev.frequency)} · {t(ev.duration)} · {ev.free ? t("freeOfCharge") : ev.price}
+                        {t(ev.frequency)} · {t(ev.duration)} · {priceText(ev)}
                       </p>
                       {"returning" in ev && (
                         <p className="mt-2 inline-flex w-fit rounded-full border border-primary/30 px-3 py-0.5 text-xs text-primary">
@@ -302,6 +316,7 @@ export default async function CommunityPage({
                         </p>
                       )}
                       <p className="mt-4 leading-relaxed text-foreground">{t(ev.short)}</p>
+                      {"tea" in ev && <p className="mt-2 text-sm italic text-primary">{t("teaIncluded")}</p>}
                       <p className="mt-5 text-xs uppercase tracking-[0.2em] text-primary">{t("leaveWith")}</p>
                       <ul className="mt-2 space-y-2">
                         {gets.map((g) => (

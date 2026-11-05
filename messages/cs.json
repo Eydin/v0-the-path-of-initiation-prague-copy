@@ -918,7 +918,7 @@
     "ctaBody": "Pokud cítíte volání dozvědět se více o našich nadcházejících setkáních, zjistit přesné podrobnosti nebo prozkoumat, jak vám tato komunita může podpořit vaši osobní cestu, ozvěte se přímo Radu.",
     "ctaButton": "Kontaktovat komunitu",
     "badgeInPerson": "Osobně · Vršovice, Praha 10",
-    "badgeFree": "Dva ze tří večerů jsou zdarma",
+    "badgeFree": "Modlitební večery jsou zdarma",
     "heroCta": "Další večer",
     "hostsCaption": "Vaši hostitelé, Diana a Radu Coman",
     "hostsQuote": "Připravíme prostor a uvaříme čaj. Vy jen přijďte.",
@@ -967,11 +967,11 @@
       "Dechová cvičení, která můžete dělat kdekoli",
       "Hlubší meditaci, než když cvičíte sami"
     ],
-    "socialShort": "Uvolněný večer s čajem, rozhovory a smíchem.",
+    "socialShort": "Uvolněný večer s čajem a rozhovorem na téma, které si skupina společně vybere: od duchovních otázek po každodenní život na cestě.",
     "socialGets": [
-      "Nové přátele na stejné cestě",
-      "Odpovědi na vaše otázky o cestě",
-      "Pořádnou dávku smíchu"
+      "Skutečný vhled do témat, která přinesete",
+      "Odpovědi Diany a Radu na vaše otázky",
+      "Nové přátele na stejné cestě a pořádnou dávku smíchu"
     ],
     "forYouHeading": "Je to pro vás, pokud",
     "forYou": [
@@ -984,7 +984,8 @@
       "Osobně, ve Vršovicích, Praha 10",
       "Vezměte si pohodlné oblečení",
       "Přihlásíte se jednou zprávou na WhatsApp",
-      "Modlitební a meditační večery jsou otevřené všem; společenské večery jsou pro hosty, které už známe"
+      "Modlitební a meditační večery jsou otevřené všem; společenské večery jsou pro hosty, které už známe",
+      "Hledáte večer zdarma? Naše modlitební večery jsou vždy zdarma a otevřené všem"
     ],
     "packLabel": "Balíček 4 večerů",
     "packPrice": "1.200 CZK",
@@ -996,7 +997,10 @@
     "newHereCta": "Prohlédnout večery",
     "returningOnly": "Otevřené po vaší první návštěvě",
     "singleLabel": "Jeden večer",
-    "singleNote": "Platíte za každý večer zvlášť"
+    "singleNote": "Platíte za každý večer zvlášť",
+    "priceAdvance": "{price} při rezervaci předem",
+    "priceDoor": "{price} na místě",
+    "teaIncluded": "Čaj a občerstvení v ceně"
   },
   "TestimonialsPage": {
     "heading": "Cesta proměny",
@@ -1336,7 +1340,10 @@
     ],
     "duration": "90 minut",
     "bookingNote": "Toto léčebné sezení může probíhat osobně v Praze nebo na dálku kdekoli na světě.",
-    "inquiry": "Ahoj, mám zájem o Ensofic Reiki."
+    "inquiry": "Ahoj, mám zájem o Ensofic Reiki.",
+    "relatedHeading": "Chcete jít hlouběji?",
+    "relatedBody": "Pokročilé léčení paprskem Ensof je série tří sezení osobně v Praze, která pracuje s tělem, duší i duchem zároveň pro hlubší a trvalou změnu.",
+    "relatedCta": "Prozkoumat Pokročilé léčení paprskem Ensof"
   },
   "AdvancedEnsoficRay": {
     "heroEyebrow": "Energetické léčení",

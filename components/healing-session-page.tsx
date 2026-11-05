@@ -11,6 +11,7 @@ import {
   BookingBlock,
 } from "@/components/modality"
 import { MedicalDisclaimer, ModalityFaq, type FaqItem } from "@/components/modality-faq"
+import { Link } from "@/i18n/navigation"
 
 type SessionConfig = {
   /** Root namespace in messages/*.json */
@@ -23,6 +24,8 @@ type SessionConfig = {
   /** credit for the header picture, shown down its right edge */
   heroCaption?: string
   investment: string
+  /** closing invitation to a related page (texts: relatedHeading / relatedBody / relatedCta) */
+  relatedHref?: string
 }
 
 export async function healingSessionMetadata(
@@ -101,6 +104,21 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
       )}
 
       {faq.length > 0 ? <ModalityFaq items={faq} /> : <MedicalDisclaimer />}
+
+      {config.relatedHref && has("relatedHeading") && (
+        <Panel>
+          <div className="text-center">
+            <PanelHeading>{t("relatedHeading")}</PanelHeading>
+            <Body>{t("relatedBody")}</Body>
+            <Link
+              href={config.relatedHref}
+              className="mt-6 inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-8 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
+            >
+              {t("relatedCta")} →
+            </Link>
+          </div>
+        </Panel>
+      )}
     </ModalityShell>
   )
 }

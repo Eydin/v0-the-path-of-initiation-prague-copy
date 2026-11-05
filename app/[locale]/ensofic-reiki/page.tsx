@@ -9,6 +9,7 @@ const config = {
   heroPosition: "center 45%",
   heroCaption: "The first ray of light · photo by Liana S, Unsplash",
   investment: "4.900 CZK",
+  relatedHref: "/advanced-ensofic-ray-healing",
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

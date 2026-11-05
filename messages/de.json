@@ -918,7 +918,7 @@
     "ctaBody": "Wenn du dich berufen fühlst, mehr über unsere bevorstehenden Treffen zu erfahren, genaue Details zu bekommen oder zu erkunden, wie diese Gemeinschaft deine persönliche Reise unterstützen kann, wende dich direkt an Radu.",
     "ctaButton": "Kontaktiere die Gemeinschaft",
     "badgeInPerson": "Vor Ort · Vršovice, Prag 10",
-    "badgeFree": "Zwei der drei Abende sind kostenlos",
+    "badgeFree": "Gebetsabende sind kostenlos",
     "heroCta": "Zum nächsten Abend",
     "hostsCaption": "Deine Gastgeber, Diana und Radu Coman",
     "hostsQuote": "Wir bereiten den Raum vor und kochen den Tee. Du kommst einfach.",
@@ -967,11 +967,11 @@
       "Atemübungen, die du überall machen kannst",
       "Eine tiefere Meditation als allein"
     ],
-    "socialShort": "Ein entspannter Abend mit Tee, Gesprächen und Lachen.",
+    "socialShort": "Ein entspannter Abend mit Tee und Gesprächen über ein Thema, das die Gruppe gemeinsam wählt: von spirituellen Fragen bis zum Alltag auf dem Weg.",
     "socialGets": [
-      "Neue Freunde auf demselben Weg",
-      "Antworten auf deine Fragen zum Weg",
-      "Viel zu lachen"
+      "Echte Einsichten zu den Themen, die du mitbringst",
+      "Antworten von Diana und Radu auf deine Fragen",
+      "Neue Freunde auf demselben Weg und viel zu lachen"
     ],
     "forYouHeading": "Das ist für dich, wenn",
     "forYou": [
@@ -984,7 +984,8 @@
       "Vor Ort, in Vršovice, Prag 10",
       "Trag bequeme Kleidung",
       "Anmelden mit einer WhatsApp-Nachricht",
-      "Gebets- und Meditationsabende sind für alle offen; Begegnungsabende sind für Gäste, die wir schon kennen"
+      "Gebets- und Meditationsabende sind für alle offen; Begegnungsabende sind für Gäste, die wir schon kennen",
+      "Suchst du einen kostenlosen Abend? Unsere Gebetsabende sind immer kostenlos und für alle offen"
     ],
     "packLabel": "Paket mit 4 Abenden",
     "packPrice": "1.200 CZK",
@@ -996,7 +997,10 @@
     "newHereCta": "Zu den Abenden",
     "returningOnly": "Offen für dich nach deinem ersten Besuch",
     "singleLabel": "Einzelner Abend",
-    "singleNote": "Du zahlst jeden Abend einzeln"
+    "singleNote": "Du zahlst jeden Abend einzeln",
+    "priceAdvance": "{price} bei Buchung im Voraus",
+    "priceDoor": "{price} an der Tür",
+    "teaIncluded": "Tee und Snacks inklusive"
   },
   "TestimonialsPage": {
     "heading": "Die Reise der Verwandlung",
@@ -1336,7 +1340,10 @@
     ],
     "duration": "90 Minuten",
     "bookingNote": "Diese Heilsitzung kann vor Ort in Prag oder aus der Ferne stattfinden, überall auf der Welt.",
-    "inquiry": "Hallo, ich interessiere mich für Ensofic Reiki."
+    "inquiry": "Hallo, ich interessiere mich für Ensofic Reiki.",
+    "relatedHeading": "Bereit, tiefer zu gehen?",
+    "relatedBody": "Die Fortgeschrittene Ensofische Strahlenheilung ist eine Serie von drei Sitzungen vor Ort in Prag, die mit Körper, Seele und Geist zugleich arbeitet, für eine tiefere und dauerhafte Veränderung.",
+    "relatedCta": "Fortgeschrittene Ensofische Strahlenheilung entdecken"
   },
   "AdvancedEnsoficRay": {
     "heroEyebrow": "Energieheilung",

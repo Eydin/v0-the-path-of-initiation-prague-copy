@@ -918,7 +918,7 @@
     "ctaBody": "Dacă simți chemarea de a afla mai multe despre întâlnirile noastre viitoare, de a obține detalii logistice precise sau de a explora modul în care această comunitate îți poate susține călătoria personală, contactează-l direct pe Radu.",
     "ctaButton": "Contactează comunitatea",
     "badgeInPerson": "În persoană · Vršovice, Praga 10",
-    "badgeFree": "Două dintre cele trei seri sunt gratuite",
+    "badgeFree": "Serile de rugăciune sunt gratuite",
     "heroCta": "Vezi seara următoare",
     "hostsCaption": "Gazdele tale, Diana și Radu Coman",
     "hostsQuote": "Noi pregătim spațiul și facem ceaiul. Tu doar vii.",
@@ -967,11 +967,11 @@
       "Exerciții de respirație pe care le poți face oriunde",
       "O meditație mai profundă decât singur(ă)"
     ],
-    "socialShort": "O seară relaxată, cu ceai, conversații și râsete.",
+    "socialShort": "O seară relaxată, cu ceai și conversație pe o temă aleasă împreună de grup: de la întrebări spirituale la viața de zi cu zi pe cale.",
     "socialGets": [
-      "Prieteni noi pe aceeași cale",
-      "Răspunsuri la întrebările tale despre cale",
-      "Multe râsete"
+      "Înțelegere reală asupra temelor pe care le aduci",
+      "Răspunsuri de la Diana și Radu la întrebările tale",
+      "Prieteni noi pe aceeași cale și multe râsete"
     ],
     "forYouHeading": "Este pentru tine dacă",
     "forYou": [
@@ -984,7 +984,8 @@
       "În persoană, în Vršovice, Praga 10",
       "Poartă haine comode",
       "Te înscrii cu un singur mesaj pe WhatsApp",
-      "Serile de rugăciune și de meditație sunt deschise tuturor; serile de socializare sunt pentru oaspeții pe care îi cunoaștem deja"
+      "Serile de rugăciune și de meditație sunt deschise tuturor; serile de socializare sunt pentru oaspeții pe care îi cunoaștem deja",
+      "Cauți o seară gratuită? Serile noastre de rugăciune sunt mereu gratuite și deschise tuturor"
     ],
     "packLabel": "Pachet de 4 seri",
     "packPrice": "1.200 CZK",
@@ -996,7 +997,10 @@
     "newHereCta": "Vezi serile",
     "returningOnly": "Deschis pentru tine după prima vizită",
     "singleLabel": "O singură seară",
-    "singleNote": "Plătești pentru fiecare seară în parte"
+    "singleNote": "Plătești pentru fiecare seară în parte",
+    "priceAdvance": "{price} dacă rezervi din timp",
+    "priceDoor": "{price} la intrare",
+    "teaIncluded": "Ceai și gustări incluse"
   },
   "TestimonialsPage": {
     "heading": "Călătoria transformării",
@@ -1336,7 +1340,10 @@
     ],
     "duration": "90 de minute",
     "bookingNote": "Această ședință de vindecare poate avea loc în persoană, la Praga, sau la distanță, oriunde în lume.",
-    "inquiry": "Bună, sunt interesat(ă) de Ensofic Reiki."
+    "inquiry": "Bună, sunt interesat(ă) de Ensofic Reiki.",
+    "relatedHeading": "Ești pregătit(ă) să mergi mai adânc?",
+    "relatedBody": "Vindecarea avansată cu raza Ensofică este o serie de trei ședințe, în persoană, la Praga, care lucrează împreună cu corpul, sufletul și spiritul, pentru o schimbare mai profundă și de durată.",
+    "relatedCta": "Descoperă Vindecarea avansată cu raza Ensofică"
   },
   "AdvancedEnsoficRay": {
     "heroEyebrow": "Vindecare energetică",

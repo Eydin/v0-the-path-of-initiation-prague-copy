@@ -158,7 +158,7 @@ Join the circle
 If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
 Contact the Community
 In person · Vršovice, Prague 10
-Two of the three evenings are free
+Prayer Evenings are free
 See the next evening
 Your hosts, Diana and Radu Coman
 We prepare the space and make the tea. You just come.
@@ -192,10 +192,10 @@ A guided meditation with breathing and visualisation.
 A calmer nervous system
 Breathing you can use anywhere
 A deeper meditation than when you practise alone
-A relaxed evening of tea, conversation and laughter.
-New friends on the same path
-Answers to your questions about the path
-A good laugh
+A relaxed evening of tea and conversation around a topic the group chooses together, from spiritual questions to everyday life on the path.
+Real insight on the topics you bring
+Answers to your questions from Diana and Radu
+New friends on the same path, and a good laugh
 This is for you if
 You feel stressed and want an evening of calm
 You're curious about spirituality but don't know where to start
@@ -205,6 +205,7 @@ In person, in Vršovice, Prague 10
 Wear something comfortable
 Sign up with one WhatsApp message
 Prayer and Meditation Evenings are open to everyone; Socialization Evenings are for guests we have already met
+Looking for a free evening? Our Prayer Evenings are always free and open to everyone
 Pack of 4 evenings
 1.200 CZK
 300 CZK per evening instead of 350
@@ -216,6 +217,7 @@ See the evenings
 Open to you after your first visit
 Single evening
 Pay for one evening at a time
+Tea and snacks included
 
 ## PAGE: /crystal-healing
 center 30%
@@ -302,6 +304,7 @@ center 30%
 center 45%
 The first ray of light · photo by Liana S, Unsplash
 4.900 CZK
+/advanced-ensofic-ray-healing
 
 ## PAGE: /full-spirit-activation
 https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
@@ -735,7 +738,7 @@ Join the circle
 If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
 Contact the Community
 In person · Vršovice, Prague 10
-Two of the three evenings are free
+Prayer Evenings are free
 See the next evening
 Your hosts, Diana and Radu Coman
 We prepare the space and make the tea. You just come.
@@ -769,10 +772,10 @@ A guided meditation with breathing and visualisation.
 A calmer nervous system
 Breathing you can use anywhere
 A deeper meditation than when you practise alone
-A relaxed evening of tea, conversation and laughter.
-New friends on the same path
-Answers to your questions about the path
-A good laugh
+A relaxed evening of tea and conversation around a topic the group chooses together, from spiritual questions to everyday life on the path.
+Real insight on the topics you bring
+Answers to your questions from Diana and Radu
+New friends on the same path, and a good laugh
 This is for you if
 You feel stressed and want an evening of calm
 You're curious about spirituality but don't know where to start
@@ -782,6 +785,7 @@ In person, in Vršovice, Prague 10
 Wear something comfortable
 Sign up with one WhatsApp message
 Prayer and Meditation Evenings are open to everyone; Socialization Evenings are for guests we have already met
+Looking for a free evening? Our Prayer Evenings are always free and open to everyone
 Pack of 4 evenings
 1.200 CZK
 300 CZK per evening instead of 350
@@ -793,6 +797,7 @@ See the evenings
 Open to you after your first visit
 Single evening
 Pay for one evening at a time
+Tea and snacks included
 Guided Meditation
 Sanctuary Meditation
 Return to your Sanctuary & meet your Higher Self
@@ -1401,7 +1406,7 @@ Join the circle
 If you feel called to learn more about our upcoming gatherings, get precise logistics, or explore how this community can support your personal journey, reach out directly to Radu.
 Contact the Community
 In person · Vršovice, Prague 10
-Two of the three evenings are free
+Prayer Evenings are free
 See the next evening
 Your hosts, Diana and Radu Coman
 We prepare the space and make the tea. You just come.
@@ -1435,10 +1440,10 @@ A guided meditation with breathing and visualisation.
 A calmer nervous system
 Breathing you can use anywhere
 A deeper meditation than when you practise alone
-A relaxed evening of tea, conversation and laughter.
-New friends on the same path
-Answers to your questions about the path
-A good laugh
+A relaxed evening of tea and conversation around a topic the group chooses together, from spiritual questions to everyday life on the path.
+Real insight on the topics you bring
+Answers to your questions from Diana and Radu
+New friends on the same path, and a good laugh
 This is for you if
 You feel stressed and want an evening of calm
 You're curious about spirituality but don't know where to start
@@ -1448,6 +1453,7 @@ In person, in Vršovice, Prague 10
 Wear something comfortable
 Sign up with one WhatsApp message
 Prayer and Meditation Evenings are open to everyone; Socialization Evenings are for guests we have already met
+Looking for a free evening? Our Prayer Evenings are always free and open to everyone
 Pack of 4 evenings
 1.200 CZK
 300 CZK per evening instead of 350
@@ -1459,6 +1465,7 @@ See the evenings
 Open to you after your first visit
 Single evening
 Pay for one evening at a time
+Tea and snacks included
 
 ## PAGE: (component) cta-section.tsx
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
