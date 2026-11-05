@@ -45,6 +45,8 @@ export default async function Healings({
   return (
     <ModalityShell bg="bethesda-bloch.jpg" position="center 25%">
       <ModalityHero
+        image="constellations-ceiling.jpg"
+        position="50% 45%"
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle")}
         subtitle={t("heroSubtitle")}
