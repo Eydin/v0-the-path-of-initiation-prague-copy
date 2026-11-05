@@ -536,7 +536,7 @@
           { "name": "Schamanische Aurareinigung", "description": "Schamanische Techniken zur Beseitigung von Blockaden und schweren Energien aus dem Aurafeld." },
           { "name": "Ensofic Reiki", "description": "Eine einzelne Heilsitzung mit dem Ensofischen Strahl für deinen Körper und dein Nervensystem, in Prag oder aus der Ferne." },
           { "name": "Behandlung negativer Gewohnheiten", "description": "Nutzt den Ensofischen Strahl, um dir zu helfen, negative Muster oder Gewohnheiten loszulassen, die du in deinem Leben wiederholst." },
-          { "name": "Kristallheilung", "description": "Uralte Techniken der Linie im Umgang mit Kristallen für Heilung, Intuition und Schutz." },
+          { "name": "Sacred Geometry Ancient Crystal Healing", "description": "Eine uralte Kristallheilung, die dich in tiefe Entspannung führt und Körper und Geist erneuert." },
           { "name": "Seelenrückholung", "description": "Gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit." },
           { "name": "Lebensfunke — Fernheilung", "description": "Eine Fernheilung, die dir wiederherstellende Energie über jede Entfernung hinweg bringt." }
         ]
@@ -1426,33 +1426,67 @@
   },
   "CrystalHealing": {
     "heroEyebrow": "Energieheilung",
-    "heroTitle": "Kristallheilung",
-    "heroSubtitle": "Ruhe dich aus, während das Reich der Mineralien still sein Werk tut",
-    "heroTagline": "Heiliger Klang und Stein, so platziert, dass sie Balance, Klarheit und Fluss wiederherstellen",
-    "introLead": "Sanft, erdend und zutiefst regenerierend",
-    "introBody1": "Kristalle und Edelsteine werden an bestimmten Punkten des Körpers platziert, und jeder Stein wird durch heiligen Klang und bewusste Platzierung aktiviert. Das unterstützt das Lösen von Anspannung, emotionalem Stress und Stagnation, damit sich deine Energie neu ordnen kann.",
-    "introBody2": "Du ruhst einfach, während die Arbeit geschieht. Besonders unterstützend ist sie bei Erschöpfung, emotionaler Überlastung oder wenn sich das Leben zerstreut anfühlt.",
-    "benefitsHeading": "Was sie bietet",
+    "heroTitle": "Sacred Geometry Ancient Crystal Healing",
+    "heroSubtitle": "Tiefe Ruhe, Erneuerung und ein klarer Geist",
+    "heroTagline": "Eine uralte Kristallheilung, die dich in tiefe Entspannung führt, damit sich Körper und Geist erneuern können",
+    "introLead": "Was in einer Sitzung geschieht",
+    "introBody1": "Du liegst bekleidet und ruhst dich einfach aus. Kristalle werden in präzisen Mustern der heiligen Geometrie auf und um deinen Körper gelegt, jeder ausgewählt für das, was er bringt.",
+    "introBody2": "Innerhalb weniger Minuten gleiten die meisten Menschen in einen tiefen, traumähnlichen Zustand namens Theta, den Zustand zwischen Wachen und Schlafen, in dem Körper und Geist loslassen und sich erholen können. Nach einer Stunde wachst du erfrischt und freudig auf, oft leichter, als du dich seit Langem gefühlt hast.",
+    "benefitsHeading": "Wobei sie hilft",
     "benefits": [
-      "Lösen von Anspannung und emotionalem Stress",
-      "Erleichterung von Stagnation, damit die Energie wieder fließt",
-      "Erdung und tiefe Ruhe",
-      "Wiederhergestellte Balance und Klarheit"
+      "Ein ruhigerer, klarerer Geist",
+      "Emotionale Befreiung und Ausgeglichenheit",
+      "Unterstützung des physischen Körpers, auch bei inneren körperlichen Beschwerden",
+      "Besseres Gleichgewicht zwischen links und rechts und deiner Raumwahrnehmung",
+      "Eine gesündere Beziehung zur Zeit: weniger Eile, mehr Gegenwart",
+      "Erneuerte Vitalität und Libido",
+      "Teile von dir zurückholen, die du unterwegs verloren hast (Seelenrückholung)",
+      "Ein reiner Geist und ein Gefühl der Selbstermächtigung"
     ],
     "faq": [
       {
-        "q": "Ist es sicher?",
-        "a": "Ja. Es ist eine sanfte, nicht-invasive Praxis ohne Nebenwirkungen."
+        "q": "Was werde ich spüren?",
+        "a": "Die meisten sinken in eine tiefe Entspannung zwischen Wachen und Schlafen, manche schlafen ein. Das ist völlig in Ordnung: Die Heilung wirkt so oder so. Du wachst erfrischt, ruhig und oft freudig auf."
       },
       {
         "q": "Muss ich mich vorbereiten?",
-        "a": "Nichts ist nötig. Komm, wie du bist."
+        "a": "Nein. Trag bequeme Kleidung und komm, wie du bist; du musst dich nur hinlegen und ausruhen."
+      },
+      {
+        "q": "Ist es sicher?",
+        "a": "Ja. Es ist eine sanfte, nicht invasive Praxis: Die Kristalle liegen einfach auf dir und um dich herum."
+      },
+      {
+        "q": "Kann ich sie mit einer anderen Heilung verbinden?",
+        "a": "Ja. Das Kristallheilungs-Paket gibt dir zwei Heilungen, diese Ancient Crystal Healing und die Sacred Geometry Sacred Rites Healing, für 4.444 CZK, statt jede einzeln zu buchen. Die Einzelheiten besprechen wir mit dir."
       }
     ],
-    "bookingTitle": "Ruhe dich aus und erneuere dich",
+    "bookingTitle": "Ruhen und Erneuern",
     "duration": "60 Minuten",
     "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
-    "inquiry": "Hallo, ich interessiere mich für die Kristallheilung."
+    "inquiry": "Hallo, ich interessiere mich für die Sacred Geometry Ancient Crystal Healing.",
+    "originEyebrow": "Der Ursprung",
+    "originHeading": "Eine Heilung aus dem alten Mu",
+    "originBody": "Diese Heilung gehört zur Tradition der heiligen Geometrie der Modern Mystery School. Nach dieser Tradition trägt sie das Kristallwissen von Mu, einer alten Zivilisation, an die Legenden erinnern und deren Priester und Heiler mit Kristallen und der Geometrie der Schöpfung arbeiteten. Ihr Wissen wurde bewahrt und in der Linie der Mystery School weitergegeben, vom Lehrer zum Schüler, bis zu den zertifizierten Praktizierenden, die sie heute geben.",
+    "who": [
+      "Du bist gestresst, zerstreut oder geistig überlastet",
+      "Du bist müde und brauchst eine tiefere Ruhe, als Schlaf allein dir gibt",
+      "Du fühlst dich von deinem Körper getrennt oder hast nie genug Zeit",
+      "Du möchtest deine Energie, Vitalität und Freude erneuern"
+    ],
+    "optionsHeading": "Wähle deine Sitzung",
+    "options": [
+      {
+        "name": "Einzelsitzung",
+        "meta": "1 Stunde · 3.669 CZK",
+        "includes": "Die Sacred Geometry Ancient Crystal Healing für sich allein."
+      },
+      {
+        "name": "Kristallheilungs-Paket",
+        "meta": "2 Stunden · 4.444 CZK",
+        "includes": "Zwei Heilungen zu einem reduzierten Preis: die Sacred Geometry Ancient Crystal Healing und die Sacred Geometry Sacred Rites Healing. Die Einzelheiten besprechen wir mit dir."
+      }
+    ]
   },
   "SparkOfLife": {
     "heroEyebrow": "Energieheilung",

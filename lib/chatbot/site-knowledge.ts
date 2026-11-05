@@ -429,8 +429,8 @@ Ensofic Reiki
 A single healing session with the Ensofic Ray for your body and nervous system, in Prague or remotely.
 Treating of Negative Habits
 Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life.
-Crystal Healing
-Ancient lineage techniques working with crystals for healing, intuition and protection.
+Sacred Geometry Ancient Crystal Healing
+An ancient crystal healing that takes you into deep relaxation and renews body and mind.
 Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
@@ -865,8 +865,8 @@ Ensofic Reiki
 A single healing session with the Ensofic Ray for your body and nervous system, in Prague or remotely.
 Treating of Negative Habits
 Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life.
-Crystal Healing
-Ancient lineage techniques working with crystals for healing, intuition and protection.
+Sacred Geometry Ancient Crystal Healing
+An ancient crystal healing that takes you into deep relaxation and renews body and mind.
 Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing

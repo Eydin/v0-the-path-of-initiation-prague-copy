@@ -536,7 +536,7 @@
           { "name": "Šamanské čištění aury", "description": "Šamanské techniky k odstranění blokád a těžkých energií z aurického pole." },
           { "name": "Ensofic Reiki", "description": "Jednotlivé léčebné sezení s paprskem Ensof pro vaše tělo a nervový systém, v Praze nebo na dálku." },
           { "name": "Léčení negativních návyků", "description": "Využívá paprsek Ensof, aby vám pomohl pustit negativní vzorce nebo návyky, které ve svém životě stále opakujete." },
-          { "name": "Krystaloterapie", "description": "Starobylé techniky linie pracující s krystaly pro léčení, intuici a ochranu." },
+          { "name": "Sacred Geometry Ancient Crystal Healing", "description": "Starobylé léčení krystaly, které vás uvede do hlubokého uvolnění a obnoví tělo i mysl." },
           { "name": "Návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
           { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." }
         ]
@@ -1426,33 +1426,67 @@
   },
   "CrystalHealing": {
     "heroEyebrow": "Energetické léčení",
-    "heroTitle": "Krystaloterapie",
-    "heroSubtitle": "Odpočívejte, zatímco říše minerálů tiše koná své dílo",
-    "heroTagline": "Posvátný zvuk a kámen, umístěné tak, aby obnovily rovnováhu, jasnost a proudění",
-    "introLead": "Jemné, uzemňující a hluboce obnovující",
-    "introBody1": "Krystaly a drahé kameny se pokládají na určitá místa těla a každý kámen je aktivován posvátným zvukem a záměrným umístěním. To podporuje uvolnění napětí, emočního stresu a stagnace, takže se vaše energie může znovu uspořádat.",
-    "introBody2": "Jednoduše odpočíváte, zatímco práce probíhá. Je obzvlášť podpůrná při vyčerpání, emočním přetížení nebo když se život zdá roztříštěný.",
-    "benefitsHeading": "Co nabízí",
+    "heroTitle": "Sacred Geometry Ancient Crystal Healing",
+    "heroSubtitle": "Hluboký odpočinek, obnova a jasná mysl",
+    "heroTagline": "Starobylé léčení krystaly, které vás uvede do hlubokého uvolnění, aby se tělo i mysl mohly obnovit",
+    "introLead": "Co se během sezení děje",
+    "introBody1": "Lehnete si oblečení a jednoduše odpočíváte. Krystaly se kladou na vaše tělo a kolem něj v přesných obrazcích posvátné geometrie a každý z nich je vybrán pro to, co přináší.",
+    "introBody2": "Během pár minut většina lidí sklouzne do hlubokého, snového stavu zvaného théta, stavu mezi bděním a spánkem, kdy se tělo i mysl mohou uvolnit a obnovit. Po hodině se probudíte svěží a radostní, často lehčí, než jste se cítili dlouhou dobu.",
+    "benefitsHeading": "S čím pomáhá",
     "benefits": [
-      "Uvolnění napětí a emočního stresu",
-      "Úlevu od stagnace, aby energie opět proudila",
-      "Uzemnění a hluboký odpočinek",
-      "Obnovenou rovnováhu a jasnost"
+      "Klidnější a jasnější mysl",
+      "Emoční uvolnění a rovnováha",
+      "Podpora fyzického těla, včetně vnitřních fyzických obtíží",
+      "Lepší rovnováha mezi levou a pravou stranou a vnímání prostoru",
+      "Zdravější vztah k času: méně spěchu, více přítomnosti",
+      "Obnovená vitalita a libido",
+      "Návrat částí sebe, které jste cestou ztratili (navrácení duše)",
+      "Čistá mysl a pocit vlastní síly"
     ],
     "faq": [
       {
-        "q": "Je to bezpečné?",
-        "a": "Ano. Je to jemná, neinvazivní praxe a nemá žádné nežádoucí účinky."
+        "q": "Co budu cítit?",
+        "a": "Většina lidí upadne do hlubokého uvolnění mezi bděním a spánkem a někteří usnou. To je naprosto v pořádku: léčení působí tak jako tak. Probudíte se svěží, klidní a často radostní."
       },
       {
-        "q": "Musím se připravit?",
-        "a": "Nic není potřeba. Přijďte, jak jste."
+        "q": "Musím se nějak připravit?",
+        "a": "Ne. Vezměte si pohodlné oblečení a přijďte, jak jste; stačí si lehnout a odpočívat."
+      },
+      {
+        "q": "Je to bezpečné?",
+        "a": "Ano. Je to jemná, neinvazivní praxe: krystaly jen leží na vás a kolem vás."
+      },
+      {
+        "q": "Mohu ho spojit s jiným léčením?",
+        "a": "Ano. Balíček krystalového léčení vám dá dvě léčení, toto Ancient Crystal Healing a Sacred Geometry Sacred Rites Healing, za 4.444 CZK, místo abyste si každé rezervovali zvlášť. Podrobnosti domluvíme s vámi."
       }
     ],
-    "bookingTitle": "Odpočiňte si a obnovte se",
+    "bookingTitle": "Odpočinek a obnova",
     "duration": "60 minut",
     "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
-    "inquiry": "Ahoj, mám zájem o krystaloterapii."
+    "inquiry": "Dobrý den, mám zájem o Sacred Geometry Ancient Crystal Healing.",
+    "originEyebrow": "Původ",
+    "originHeading": "Léčení z dávného Mu",
+    "originBody": "Toto léčení patří k tradici posvátné geometrie Modern Mystery School. Podle této tradice nese krystalové vědění Mu, dávné civilizace, na kterou vzpomínají legendy a jejíž kněží a léčitelé pracovali s krystaly a geometrií stvoření. Jejich vědění bylo uchováno a předáváno v linii Mystery School, od učitele k žákovi, až k certifikovaným praktikům, kteří ho poskytují dnes.",
+    "who": [
+      "Cítíte stres, roztříštěnost nebo psychické přetížení",
+      "Jste unavení a potřebujete hlubší odpočinek, než vám dá samotný spánek",
+      "Cítíte se odpojení od svého těla nebo vám neustále chybí čas",
+      "Chcete obnovit svou energii, vitalitu a radost"
+    ],
+    "optionsHeading": "Vyberte si sezení",
+    "options": [
+      {
+        "name": "Jednotlivé sezení",
+        "meta": "1 hodina · 3.669 CZK",
+        "includes": "Samotné léčení Sacred Geometry Ancient Crystal Healing."
+      },
+      {
+        "name": "Balíček krystalového léčení",
+        "meta": "2 hodiny · 4.444 CZK",
+        "includes": "Dvě léčení za sníženou cenu: Sacred Geometry Ancient Crystal Healing a Sacred Geometry Sacred Rites Healing. Podrobnosti domluvíme s vámi."
+      }
+    ]
   },
   "SparkOfLife": {
     "heroEyebrow": "Energetické léčení",

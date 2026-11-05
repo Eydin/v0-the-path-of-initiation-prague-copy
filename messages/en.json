@@ -575,7 +575,7 @@
           { "name": "Shamanic Aura Clearing", "description": "Shamanic techniques to clear blockages and heavy energies from the auric field." },
           { "name": "Ensofic Reiki", "description": "A single healing session with the Ensofic Ray for your body and nervous system, in Prague or remotely." },
           { "name": "Treating of Negative Habits", "description": "Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life." },
-          { "name": "Crystal Healing", "description": "Ancient lineage techniques working with crystals for healing, intuition and protection." },
+          { "name": "Sacred Geometry Ancient Crystal Healing", "description": "An ancient crystal healing that takes you into deep relaxation and renews body and mind." },
           { "name": "Soul Retrieval", "description": "Recovers and reintegrates lost fragments of the self into wholeness." },
           { "name": "Spark of Life — Distance Healing", "description": "A remote healing that carries restorative energy to you across any distance." }
         ]
@@ -1465,33 +1465,67 @@
   },
   "CrystalHealing": {
     "heroEyebrow": "Energy Healing",
-    "heroTitle": "Crystal Healing",
-    "heroSubtitle": "Rest while the mineral kingdom does its quiet work",
-    "heroTagline": "Sacred sound and stone, placed to restore balance, clarity and flow",
-    "introLead": "Gentle, grounding and deeply restorative",
-    "introBody1": "Crystals and gemstones are placed on specific points of the body, and each stone is activated with sacred sound and intentional placement. This supports the release of tension, emotional stress and stagnation, so your energy can reorganise itself.",
-    "introBody2": "You simply rest while the work unfolds. It is especially supportive during depletion, emotional overload, or when life feels scattered.",
-    "benefitsHeading": "What It Offers",
+    "heroTitle": "Sacred Geometry Ancient Crystal Healing",
+    "heroSubtitle": "Deep rest, renewal and a clear mind",
+    "heroTagline": "An ancient crystal healing that takes you into deep relaxation, so body and mind can renew themselves",
+    "introLead": "What happens in a session",
+    "introBody1": "You lie down fully clothed and simply rest. Crystals are placed on and around your body in precise sacred geometry patterns, each one chosen for what it brings.",
+    "introBody2": "Within minutes most people drift into a deep, dream-like state called Theta, the state between waking and sleep where body and mind can let go and restore themselves. After an hour you wake up refreshed and joyful, often lighter than you have felt in a long time.",
+    "benefitsHeading": "What It Helps With",
     "benefits": [
-      "Release of tension and emotional stress",
-      "Relief from stagnation, so energy flows again",
-      "Grounding and deep rest",
-      "Restored balance and clarity"
+      "A calmer, clearer mind",
+      "Emotional release and balance",
+      "Support for the physical body, including internal physical problems",
+      "Better balance between left and right and your sense of space",
+      "A healthier relationship with time: less rush, more presence",
+      "Renewed vitality and libido",
+      "Bringing back parts of yourself you have lost along the way (soul retrieval)",
+      "A pure mind and a feeling of empowerment"
     ],
     "faq": [
       {
-        "q": "Is it safe?",
-        "a": "Yes. It is a gentle, non-invasive practice, and there are no adverse effects."
+        "q": "What will I feel?",
+        "a": "Most people sink into deep relaxation, between waking and sleep, and some fall asleep. That is perfectly fine: the healing works either way. You wake up refreshed, calm and often joyful."
       },
       {
         "q": "Do I need to prepare?",
-        "a": "Nothing is needed. Come as you are."
+        "a": "No. Wear comfortable clothes and come as you are; all you need to do is lie down and rest."
+      },
+      {
+        "q": "Is it safe?",
+        "a": "Yes. It is a gentle, non-invasive practice: the crystals simply rest on and around you."
+      },
+      {
+        "q": "Can I combine it with another healing?",
+        "a": "Yes. The Crystal Healing Package gives you two healings, this Ancient Crystal Healing and the Sacred Geometry Sacred Rites Healing, for 4.444 CZK instead of booking each one separately. We'll arrange the details with you."
       }
     ],
     "bookingTitle": "Rest and Restore",
     "duration": "60 Minutes",
     "bookingNote": "One-to-one, in person in Prague (Vršovice). After you reach out, we will contact you personally to arrange your appointment.",
-    "inquiry": "Hello, I am interested in Crystal Healing."
+    "inquiry": "Hello, I am interested in the Sacred Geometry Ancient Crystal Healing.",
+    "originEyebrow": "The origin",
+    "originHeading": "A healing from Ancient Mu",
+    "originBody": "This healing belongs to the Sacred Geometry tradition of the Modern Mystery School. According to that tradition, it carries the crystal knowledge of Mu, an ancient civilisation remembered in legend, whose priests and healers worked with crystals and the geometry of creation. Their knowledge was preserved and handed down through the Mystery School lineage, from teacher to student, to the certified practitioners who give it today.",
+    "who": [
+      "You feel stressed, scattered or mentally overloaded",
+      "You are tired and need a deeper rest than sleep alone gives you",
+      "You feel disconnected from your body or always short of time",
+      "You want to renew your energy, vitality and joy"
+    ],
+    "optionsHeading": "Choose your session",
+    "options": [
+      {
+        "name": "Single session",
+        "meta": "1 hour · 3.669 CZK",
+        "includes": "The Sacred Geometry Ancient Crystal Healing on its own."
+      },
+      {
+        "name": "Crystal Healing Package",
+        "meta": "2 hours · 4.444 CZK",
+        "includes": "Two healings at a reduced price: the Sacred Geometry Ancient Crystal Healing and the Sacred Geometry Sacred Rites Healing. We'll arrange the details with you."
+      }
+    ]
   },
   "SparkOfLife": {
     "heroEyebrow": "Energy Healing",

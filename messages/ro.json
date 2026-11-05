@@ -536,7 +536,7 @@
           { "name": "Curățare șamanică a aurei", "description": "Tehnici șamanice pentru eliminarea blocajelor și a energiilor grele din câmpul auric." },
           { "name": "Ensofic Reiki", "description": "O ședință individuală de vindecare cu Raza Ensofică pentru corpul și sistemul tău nervos, la Praga sau la distanță." },
           { "name": "Tratarea obiceiurilor negative", "description": "Folosește raza Ensofică pentru a te ajuta să eliberezi tiparele sau obiceiurile negative pe care le repeți în viața ta." },
-          { "name": "Vindecare cu cristale", "description": "Tehnici străvechi ale liniei, care folosesc cristale pentru vindecare, intuiție și protecție." },
+          { "name": "Sacred Geometry Ancient Crystal Healing", "description": "O vindecare străveche cu cristale care te duce într-o relaxare profundă și reînnoiește trupul și mintea." },
           { "name": "Recuperarea sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
           { "name": "Scânteia vieții — vindecare la distanță", "description": "O vindecare la distanță care îți aduce energie restauratoare de la orice distanță." }
         ]
@@ -1426,33 +1426,67 @@
   },
   "CrystalHealing": {
     "heroEyebrow": "Vindecare energetică",
-    "heroTitle": "Vindecare cu cristale",
-    "heroSubtitle": "Odihnește-te, în timp ce regnul mineral își face lucrarea tăcută",
-    "heroTagline": "Sunet sacru și piatră, așezate pentru a restabili echilibrul, claritatea și curgerea",
-    "introLead": "Blândă, împământătoare și profund reparatoare",
-    "introBody1": "Cristalele și pietrele prețioase sunt așezate pe puncte specifice ale corpului, iar fiecare piatră este activată prin sunet sacru și plasare intenționată. Aceasta sprijină eliberarea tensiunii, a stresului emoțional și a stagnării, astfel încât energia ta să se poată reorganiza.",
-    "introBody2": "Pur și simplu te odihnești în timp ce lucrarea se desfășoară. Este deosebit de utilă în caz de epuizare, suprasolicitare emoțională sau când viața pare împrăștiată.",
-    "benefitsHeading": "Ce oferă",
+    "heroTitle": "Sacred Geometry Ancient Crystal Healing",
+    "heroSubtitle": "Odihnă profundă, reînnoire și o minte limpede",
+    "heroTagline": "O vindecare străveche cu cristale care te duce într-o relaxare profundă, ca trupul și mintea să se poată reînnoi",
+    "introLead": "Ce se întâmplă într-o ședință",
+    "introBody1": "Stai întins(ă), îmbrăcat(ă), și pur și simplu te odihnești. Cristalele sunt așezate pe corpul tău și în jurul lui în modele precise de geometrie sacră, fiecare ales pentru ceea ce aduce.",
+    "introBody2": "În câteva minute, cei mai mulți oameni alunecă într-o stare profundă, ca de vis, numită Theta, starea dintre veghe și somn în care trupul și mintea se pot elibera și reface. După o oră te trezești înviorat(ă) și plin(ă) de bucurie, adesea mai ușor(ă) decât te-ai simțit de mult timp.",
+    "benefitsHeading": "La ce ajută",
     "benefits": [
-      "Eliberarea tensiunii și a stresului emoțional",
-      "Ușurare față de stagnare, pentru ca energia să curgă din nou",
-      "Împământare și odihnă profundă",
-      "Echilibru și claritate restabilite"
+      "O minte mai calmă și mai limpede",
+      "Eliberare și echilibru emoțional",
+      "Sprijin pentru corpul fizic, inclusiv pentru problemele fizice interne",
+      "Un echilibru mai bun între stânga și dreapta și în percepția spațiului",
+      "O relație mai sănătoasă cu timpul: mai puțină grabă, mai multă prezență",
+      "Vitalitate și libido reînnoite",
+      "Readucerea părților din tine pe care le-ai pierdut pe drum (recuperarea sufletului)",
+      "O minte pură și un sentiment de putere interioară"
     ],
     "faq": [
       {
-        "q": "Este sigur?",
-        "a": "Da. Este o practică blândă, neinvazivă, fără efecte adverse."
+        "q": "Ce voi simți?",
+        "a": "Cei mai mulți oameni intră într-o relaxare profundă, între veghe și somn, iar unii adorm. Este perfect în regulă: vindecarea funcționează oricum. Te trezești înviorat(ă), calm(ă) și adesea plin(ă) de bucurie."
       },
       {
         "q": "Trebuie să mă pregătesc?",
-        "a": "Nu este nevoie de nimic. Vino așa cum ești."
+        "a": "Nu. Poartă haine comode și vino așa cum ești; trebuie doar să te întinzi și să te odihnești."
+      },
+      {
+        "q": "Este sigur?",
+        "a": "Da. Este o practică blândă, neinvazivă: cristalele doar stau pe tine și în jurul tău."
+      },
+      {
+        "q": "O pot combina cu o altă vindecare?",
+        "a": "Da. Pachetul de vindecare cu cristale îți oferă două vindecări, această Ancient Crystal Healing și Sacred Geometry Sacred Rites Healing, pentru 4.444 CZK, în loc să le rezervi separat. Detaliile le stabilim împreună cu tine."
       }
     ],
-    "bookingTitle": "Odihnește-te și reînnoiește-te",
+    "bookingTitle": "Odihnă și refacere",
     "duration": "60 de minute",
     "bookingNote": "Individual, în persoană la Praga (Vršovice). După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
-    "inquiry": "Bună, sunt interesat(ă) de Vindecarea cu cristale."
+    "inquiry": "Bună, sunt interesat(ă) de Sacred Geometry Ancient Crystal Healing.",
+    "originEyebrow": "Originea",
+    "originHeading": "O vindecare din străvechiul Mu",
+    "originBody": "Această vindecare aparține tradiției geometriei sacre a Modern Mystery School. Potrivit acestei tradiții, ea poartă cunoașterea cristalelor din Mu, o civilizație străveche amintită în legende, ai cărei preoți și vindecători lucrau cu cristalele și cu geometria creației. Cunoașterea lor a fost păstrată și transmisă în linia Mystery School, de la profesor la elev, până la practicienii certificați care o oferă astăzi.",
+    "who": [
+      "Te simți stresat(ă), împrăștiat(ă) sau suprasolicitat(ă) mental",
+      "Ești obosit(ă) și ai nevoie de o odihnă mai profundă decât îți oferă somnul",
+      "Te simți deconectat(ă) de corp sau mereu în criză de timp",
+      "Vrei să îți reînnoiești energia, vitalitatea și bucuria"
+    ],
+    "optionsHeading": "Alege-ți ședința",
+    "options": [
+      {
+        "name": "Ședință individuală",
+        "meta": "1 oră · 3.669 CZK",
+        "includes": "Doar Sacred Geometry Ancient Crystal Healing."
+      },
+      {
+        "name": "Pachetul de vindecare cu cristale",
+        "meta": "2 ore · 4.444 CZK",
+        "includes": "Două vindecări la preț redus: Sacred Geometry Ancient Crystal Healing și Sacred Geometry Sacred Rites Healing. Detaliile le stabilim împreună cu tine."
+      }
+    ]
   },
   "SparkOfLife": {
     "heroEyebrow": "Vindecare energetică",

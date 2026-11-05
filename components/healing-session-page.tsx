@@ -54,6 +54,7 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
   const who = has("who") ? (t.raw("who") as string[]).map((text) => ({ text })) : []
   const protocol = has("protocol") ? (t.raw("protocol") as { label: string; text: string }[]) : []
   const faq = has("faq") ? (t.raw("faq") as FaqItem[]) : []
+  const options = has("options") ? (t.raw("options") as { name: string; meta: string; includes: string }[]) : []
 
   return (
     <ModalityShell bg={config.bg} position={config.position ?? "center 30%"}>
@@ -76,6 +77,23 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         note={t("bookingNote")}
       >
         {has("priceNote") && <p className="text-center text-lg font-semibold text-primary">{t("priceNote")}</p>}
+        {/* optional session options (e.g. single session vs package): name, length and price, what it includes */}
+        {options.length > 0 && (
+          <div className="mx-auto max-w-2xl text-left">
+            {has("optionsHeading") && (
+              <p className="mb-3 text-center text-xs uppercase tracking-[0.25em] text-primary">{t("optionsHeading")}</p>
+            )}
+            <div className="grid gap-3 sm:grid-cols-2">
+              {options.map((o) => (
+                <div key={o.name} className="rounded-lg border border-primary/30 p-4">
+                  <p className="font-serif text-lg text-foreground">{o.name}</p>
+                  <p className="text-sm font-semibold text-primary">{o.meta}</p>
+                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{o.includes}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
       </BookingBlock>
 
       <Panel>
@@ -83,6 +101,19 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         <Body>{t("introBody1")}</Body>
         <Body>{t("introBody2")}</Body>
       </Panel>
+
+      {/* optional short origin story, in the espresso box so it reads as a story apart */}
+      {has("originHeading") && (
+        <Panel className="home-box">
+          <div className="text-center">
+            {has("originEyebrow") && (
+              <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">{t("originEyebrow")}</p>
+            )}
+            <PanelHeading>{t("originHeading")}</PanelHeading>
+          </div>
+          <Body>{t("originBody")}</Body>
+        </Panel>
+      )}
 
       {protocol.length > 0 && (
         <Panel>
