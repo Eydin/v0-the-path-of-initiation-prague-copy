@@ -393,14 +393,15 @@
     "heroTitle": "Programul {brand}",
     "heroSubtitle": "Inițiere în linia regelui Solomon",
     "invitation": {
-      "question": "Dacă ai putea fi ca Dumnezeu — plin de iubire, armonie și putere creatoare — ai face-o?",
-      "body1": "Această inițiere va extinde orizontul a ceea ce crezi că este posibil. Trezește noi potențiale și ne provoacă să renunțăm la dogme și paradigme vechi.",
-      "body2": "Pe parcursul acestor două zile, vei primi chei care deblochează potențialul din mintea ta pentru a-ți întrupa natura divină. Cu toții purtăm acest potențial — este deja în tine. Acum este momentul să-l aduci la suprafață și să-l faci centrul vieții tale.",
-      "body3": "Vei învăța cum să treci dincolo de ego-ul negativ care îți stă în cale și vei primi instrumente practice care te vor sprijini în acest proces. Inițierea îți va accelera transformarea, ajutându-te să experimentezi rezultate mai rapid și să te bucuri de călătoria devenirii adevăratului tău sine.",
-      "body4": "Vei fi susținut de o linie străveche care stă în spatele tău.",
-      "body5": "Cei care au pășit pe această cale înaintea ta sunt aici să te ghideze cu înțelepciunea și experiența lor.",
-      "body6": "Prin dedicarea lor, aceste învățături au fost păstrate în forma lor cea mai pură — ținute în siguranță pentru ca astăzi să putem beneficia de ele.",
-      "callToAction": "Vei răspunde la chemare?"
+      "question": "Ce-ar fi dacă ai avea instrumente simple ca să te simți calm(ă), protejat(ă) și stăpân(ă) pe viața ta, în fiecare zi?",
+      "god": "Dacă ai putea fi ca Dumnezeu — plin de iubire, armonie și putere creatoare — ai face-o?",
+      "body1": "{brand} este un curs de două zile într-un grup mic, chiar aici, la Praga. Înveți instrumente practice ca să-ți cureți și să-ți protejezi energia, să recunoști tiparele care se tot repetă în viața ta și să le schimbi.",
+      "body2": "Este și o inițiere, ceea ce înseamnă pur și simplu un nou început. În cele două zile primești chei dintr-o tradiție transmisă de la profesor la elev de peste 3.000 de ani și le iei acasă ca să le folosești zilnic.",
+      "body3": "Pleci cu o practică zilnică, o minte mai calmă și mai limpede, un sentiment al propriei puteri și o idee clară despre următorul tău pas.",
+      "body4": "Și nu vei fi singur(ă).",
+      "body5": "Diana și Radu te ghidează în ambele zile, iar comunitatea este alături de tine mult timp după aceea.",
+      "body6": "Aceste învățături au fost păstrate de toți cei care au parcurs calea înaintea ta, ca să le poți folosi astăzi.",
+      "callToAction": "Este acesta următorul tău pas?"
     },
     "letter": {
       "greeting": "Dragă căutătorule,",
@@ -414,63 +415,76 @@
       "signOffRole": "Ghidul tău în Linia Luminii"
     },
     "origins": {
-      "heading": "Ce este programul {brand} și de unde provine?",
-      "body1": "<bold>{brand}</bold> face parte dintr-o tradiție vie de înțelepciune, vindecare și evoluție interioară, fondată cu peste 3.000 de ani în urmă de regele Solomon.",
-      "body2": "Mânat de dorința de a-i ajuta pe oameni să-și descopere și să-și împlinească potențialul divin, Solomon a adunat cei mai înțelepți maeștri ai vremii sale — vindecători, doctori, înțelepți, mistici și căutători spirituali. Împreună, au testat și rafinat toate metodele cunoscute de transformare până când au creat un sistem clar, profund și practic, conceput să funcționeze pentru oricine, indiferent de cultură sau epocă.",
-      "body3": "<bold>Ceea ce face cu adevărat {brand} special</bold> este că nu este doar o altă colecție de tehnici sau teorii. Face parte dintr-un sistem complet și coerent, transmis continuu până în prezent — un cadru testat și validat, care susține trezirea conștiinței, echilibrul interior și reconectarea cu adevăratul tău sine.",
-      "tagline": "Acest sistem este și astăzi eficient și aduce rezultate în domenii pe care știința modernă încă nu le-a putut atinge."
+      "heading": "De unde vine {brand}?",
+      "body1": "<bold>{brand}</bold> vine de la Modern Mystery School și din linia regelui Solomon, o tradiție vie de înțelepciune și vindecare veche de peste 3.000 de ani.",
+      "body2": "Solomon i-a adunat pe cei mai înțelepți vindecători, medici și învățați ai vremii sale. Împreună au testat toate metodele de transformare pe care le cunoșteau și au păstrat doar ce funcționa cu adevărat, pentru oricine, în orice cultură și în orice epocă.",
+      "body3": "<bold>Asta face {brand} diferit</bold>: nu este un amestec de tehnici sau teorii, ci un sistem complet și verificat, transmis fără întrerupere până în zilele noastre.",
+      "tagline": "Înțelepciune străveche, practică pentru viața modernă."
     },
     "whatWillYouDo": {
-      "heading": "Ce vei face în programul {brand}?",
-      "body1": "Acest program este conceput pentru a te ajuta să realizezi că ai puterea de a crea viața pe care ți-o dorești cu adevărat. Te împuternicește să vezi unde poate te reții singur și unde te mulțumești cu mai puțin decât meriți. Dar nu se oprește aici — acest program îți oferă și instrumentele pentru a schimba acele părți ale vieții tale! După aceste două zile, vei putea recunoaște tiparele și programele care îți modelează comportamentul, vei înțelege de unde provin și vei avea puterea de a le elibera.",
-      "body2": "Vei deschide căi prin care poți accesa mai multă energie, cunoștințe noi și perspective proaspete, împuternicindu-te să creezi o viață nouă care îți aduce împlinire deplină.",
-      "body3": "Acesta este un program practic și interactiv, după care vei avea încrederea că înțelegi exact ce trebuie să faci în continuare pentru a-ți continua creșterea și transformarea.",
-      "subheading": "Vei dobândi claritate și structură în înțelegerea ta despre spirit și natura umană, precum și o perspectivă clară asupra experiențelor pe care poate le-ai întâlnit deja.",
+      "heading": "Ce se schimbă pentru tine",
+      "body1": "Începi să vezi unde te reții și te mulțumești cu mai puțin decât meriți și primești instrumentele ca să schimbi asta. După aceste două zile poți recunoaște tiparele care îți conduc reacțiile, înțelegi de unde vin și le poți lăsa să plece.",
+      "body2": "Vei simți mai multă energie și claritate și vei ști cum să le păstrezi.",
+      "body3": "Este practic: exersezi totul chiar în timpul cursului, așa că pleci acasă știind exact ce să faci în continuare.",
+      "subheading": "Lucruri care poate te-au nedumerit, cum ar fi intuiția, visele intense sau coincidențele cu sens, vor începe să capete înțeles.",
       "benefits": [
-        "Vei învăța să recunoști lumea nevăzută, să accesezi și să interacționezi cu ea.",
-        "Vei învăța cum să aduni puterea gândurilor tale și să o folosești pentru a crea bine în jurul tău.",
-        "Vei practica ritualuri sacre și vei participa la o ceremonie sacră de inițiere."
+        "Vei învăța să simți lumea nevăzută și să lucrezi în siguranță cu ea.",
+        "Vei învăța să-ți concentrezi gândurile și să le folosești ca să creezi lucruri bune în viața ta.",
+        "Vei practica ritualuri sacre și vei lua parte la o ceremonie de inițiere."
       ]
     },
     "special": {
-      "heading": "Ce face acest program special?",
-      "body": "Nu te învățăm doar teorie. Există mulți profesori care îți pot vorbi despre spiritualitate. Îți oferim instrumente autentice, puternice și te învățăm cum să le folosești în viața ta. Îți oferim cheia pentru a debloca aceste puteri din tine!"
+      "heading": "Ce face acest curs special?",
+      "body": "Mulți oameni pot vorbi despre spiritualitate. Aici primești instrumente reale, înveți să le folosești în propria viață, iar noi suntem alături de tine în tot acest timp."
     },
     "curriculum": {
-      "heading": "Ce vei învăța în acest program?",
+      "heading": "Ce vei învăța?",
       "items": [
-        "Cum să răspunzi la întrebarea „Cine sunt eu?”",
-        "Ce este o inițiere și de ce avem nevoie de ea astăzi?",
-        "Rolul regelui Solomon în acest proces",
-        "Potențialul uman de a fi Dumnezeu",
-        "Cele 12 dimensiuni ale Pământului și cele 7 dimensiuni spirituale",
-        "Structura Ierarhiei Luminii",
-        "Meditația și frecvențele undelor cerebrale",
-        "Influența ego-ului asupra adevăratului sine",
-        "Ciclul proceselor umane",
-        "Structura energetică a ființei umane",
+        "Cine sunt eu? Cum îți găsești propriul răspuns",
+        "Ce este o inițiere și de ce contează astăzi",
+        "De unde vin aceste învățături: regele Solomon și linia",
+        "Potențialul tău deplin și cum să crești în el",
+        "Cum să-ți creezi acasă un spațiu sacru și de ce te ajută",
+        "O scurtă practică zilnică și o rugăciune de protecție pe care o poți folosi oriunde",
+        "Dimensiunile fizice și spirituale și cum să lucrezi cu amândouă",
+        "Ființele de lumină pe care le poți chema în ajutor",
+        "Meditația și cum undele cerebrale îți schimbă starea de spirit",
+        "Ego-ul tău: când te ajută și când te ține pe loc",
+        "Tiparele și ciclurile prin care trecem cu toții și cum să ieși din ele",
+        "Corpul tău energetic și cum să-l cureți și să-l protejezi",
         "Kabbala universală și Arborele Vieții"
       ],
-      "closing": "Pe parcursul acestui program, vei primi învățături, exerciții practice și ritualuri sacre pe care le poți folosi pentru a-ți ridica viața la următorul nivel. Toate aceste chei provin din linia regelui Solomon, transmise într-o tradiție neîntreruptă de mii de ani."
+      "closing": "Fiecare parte vine cu exerciții practice și ritualuri pe care le poți folosi imediat, toate din linia regelui Solomon."
     },
     "nextSteps": {
       "heading": "Ce trebuie să faci?",
       "items": [
-        { "main": "Contactează-ne pentru a afla dacă acest program este potrivit pentru tine în acest moment al călătoriei tale.", "sub": "Suntem aici să te sprijinim cu claritate și îndrumare, la fiecare pas." },
-        { "main": "Primește o ședință Life Activation de la unul dintre practicienii noștri certificați." },
-        { "main": "Achită un avans sau suma integrală pentru a-ți rezerva locul." },
-        { "main": "Participă la cursul de două zile și la ceremonia de inițiere." },
-        { "main": "Începe să aplici ceea ce ai învățat și bucură-te de rezultate." }
+        {
+          "main": "Scrie-ne: într-o discuție prietenoasă vedem împreună dacă acesta este pasul potrivit pentru tine acum.",
+          "sub": "Suntem aici să te sprijinim cu claritate și îndrumare, la fiecare pas."
+        },
+        {
+          "main": "Primește o ședință Life Activation de la unul dintre practicienii noștri certificați."
+        },
+        {
+          "main": "Achită un avans sau suma integrală pentru a-ți rezerva locul."
+        },
+        {
+          "main": "Participă la cursul de două zile și la ceremonia de inițiere."
+        },
+        {
+          "main": "Începe să aplici ceea ce ai învățat și bucură-te de rezultate."
+        }
       ]
     },
     "recommendations": {
-      "heading": "Recomandări",
-      "body1": "<bold>{brand}</bold> nu este doar un curs. Este începutul unei călătorii profunde și al unei conexiuni durabile.",
-      "body2": "Această inițiere deschide o poartă către o nouă înțelegere a vieții, precum și un spațiu sigur în care te poți întoarce oricând ai nevoie de claritate, sprijin sau îndrumare.",
-      "body3": "Ne angajăm să te sprijinim nu doar pe parcursul programului, ci și în anii care urmează. Fie că ai întrebări despre aplicarea învățăturilor în viața de zi cu zi, treci printr-o perioadă de transformare sau pur și simplu te simți pregătit să faci următorul pas în călătoria ta personală, suntem aici pentru tine.",
-      "body4": "Această relație se construiește în timp — cu încredere, respect și intenția sinceră de a-ți sprijini creșterea, echilibrul și forța interioară."
+      "heading": "După curs",
+      "body1": "<bold>{brand}</bold> nu este sfârșitul a ceva. Este începutul unei călătorii și al unei legături de durată.",
+      "body2": "Vei avea un loc sigur la care să te întorci oricând ai nevoie de claritate, sprijin sau îndrumare.",
+      "body3": "Suntem alături de tine nu doar în cele două zile, ci și ani la rând după aceea: cu întrebări despre folosirea instrumentelor, în perioade de schimbare sau când te simți pregătit(ă) pentru următorul pas.",
+      "body4": "Este o relație care se construiește în timp, cu încredere, respect și dorința sinceră de a te vedea crescând."
     },
-    "bookingTitle": "Descoperă-ți potențialul de a fi o ființă divină!",
+    "bookingTitle": "Două zile care pot schimba felul în care trăiești",
     "duration": "2 zile",
     "bookingNote": "Se desfășoară în Praga, Republica Cehă. După avans, te vom contacta pentru a programa Life Activation și a confirma locul tău.",
     "bookingExtra": {

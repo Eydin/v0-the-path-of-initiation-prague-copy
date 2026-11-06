@@ -393,14 +393,15 @@
     "heroTitle": "Program {brand}",
     "heroSubtitle": "Iniciace do linie krále Šalomouna",
     "invitation": {
-      "question": "Kdybyste mohli být jako Bůh — naplněni láskou, harmonií a tvůrčí silou — udělali byste to?",
-      "body1": "Tato iniciace rozšíří hranice toho, co považujete za možné. Probouzí nové potenciály a vyzývá nás, abychom se zbavili starých dogmat a paradigmat.",
-      "body2": "Během těchto dvou dnů obdržíte klíče, které odemknou potenciál ve vaší mysli k ztělesnění vaší božské podstaty. Všichni v sobě neseme tento potenciál — už je ve vás. Nyní je čas dostat ho na povrch a učinit z něj těžiště svého života.",
-      "body3": "Naučíte se, jak překonat negativní ego, které vám stojí v cestě, a získáte praktické nástroje, které vás v tomto procesu podpoří. Iniciace urychlí vaši proměnu a pomůže vám dosáhnout výsledků rychleji a užít si cestu ke svému pravému já.",
-      "body4": "Bude vás podporovat starobylá linie, která stojí za vámi.",
-      "body5": "Ti, kdo touto cestou prošli před vámi, jsou zde, aby vás provedli svou moudrostí a zkušeností.",
-      "body6": "Díky jejich oddanosti bylo toto učení zachováno ve své nejčistší podobě — uchováno v bezpečí, abychom z něj dnes mohli těžit.",
-      "callToAction": "Odpovíte na volání?"
+      "question": "Co kdybyste měli jednoduché nástroje, jak se každý den cítit klidní, chránění a pány svého života?",
+      "god": "Kdybyste mohli být jako Bůh — naplněni láskou, harmonií a tvůrčí silou — udělali byste to?",
+      "body1": "{brand} je dvoudenní kurz v malé skupině, přímo tady v Praze. Naučíte se praktické nástroje, jak čistit a chránit svou energii, rozpoznat vzorce, které se ve vašem životě stále opakují, a změnit je.",
+      "body2": "Je to také iniciace, což jednoduše znamená nový začátek. Během dvou dnů dostanete klíče z tradice, která se předává od učitele k žákovi už přes 3 000 let, a odnesete si je domů pro každodenní použití.",
+      "body3": "Odejdete s každodenní praxí, klidnější a jasnější myslí, pocitem vlastní síly a jasnou představou o svém dalším kroku.",
+      "body4": "A nebudete na to sami.",
+      "body5": "Diana a Radu vás provedou oběma dny a komunita je tu pro vás i dlouho potom.",
+      "body6": "Tato učení uchovali všichni, kdo šli touto cestou před vámi, abyste je dnes mohli používat vy.",
+      "callToAction": "Je to váš další krok?"
     },
     "letter": {
       "greeting": "Milý hledači,",
@@ -414,63 +415,76 @@
       "signOffRole": "Váš průvodce v linii Světla"
     },
     "origins": {
-      "heading": "Co je program {brand} a odkud pochází?",
-      "body1": "<bold>{brand}</bold> je součástí živé tradice moudrosti, léčení a vnitřní evoluce, založené před více než 3000 lety králem Šalomounem.",
-      "body2": "Veden touhou pomoci lidem objevit a naplnit jejich božský potenciál, Šalomoun shromáždil nejmoudřejší mistry své doby — léčitele, lékaře, mudrce, mystiky a duchovní hledače. Společně testovali a zdokonalovali všechny známé metody proměny, dokud nevytvořili jasný, hluboký a praktický systém určený pro kohokoli, bez ohledu na kulturu nebo dobu.",
-      "body3": "<bold>Co skutečně dělá {brand} výjimečným</bold>, je to, že to není jen další sbírka technik nebo teorií. Je to součást uceleného a soudržného systému, nepřetržitě předávaného dodnes — ověřeného a důvěryhodného rámce, který podporuje probuzení vědomí, vnitřní rovnováhu a znovuspojení s vaším pravým já.",
-      "tagline": "Tento systém je účinný dodnes a přináší výsledky v oblastech, kam moderní věda dosud nedosáhla."
+      "heading": "Odkud {brand} pochází?",
+      "body1": "<bold>{brand}</bold> pochází z Modern Mystery School a linie krále Šalomouna, živé tradice moudrosti a léčení, která je stará přes 3 000 let.",
+      "body2": "Šalomoun shromáždil nejmoudřejší léčitele, lékaře a mudrce své doby. Společně vyzkoušeli všechny metody proměny, které znali, a ponechali jen to, co opravdu funguje, pro kohokoli, v jakékoli kultuře a době.",
+      "body3": "<bold>Právě tím je {brand} jiný</bold>: není to směs technik nebo teorií, ale jeden ucelený, prověřený systém, předávaný bez přerušení až do dnešních dnů.",
+      "tagline": "Dávná moudrost, prakticky pro moderní život."
     },
     "whatWillYouDo": {
-      "heading": "Co budete dělat v programu {brand}?",
-      "body1": "Tento program je navržen tak, aby vám pomohl uvědomit si, že máte moc vytvořit život, po kterém skutečně toužíte. Umožňuje vám vidět, kde se možná brzdíte a kde se spokojujete s méně, než si zasloužíte. Ale tím to nekončí — tento program vám také dává nástroje ke změně těchto částí vašeho života! Po těchto dvou dnech budete schopni rozpoznat vzorce a programy, které formují vaše chování, porozumět jejich původu a mít moc je uvolnit.",
-      "body2": "Otevřete si cesty, kterými získáte přístup k více energii, novým poznatkům a čerstvým vhledům, což vám umožní vytvořit nový život přinášející naprosté naplnění.",
-      "body3": "Toto je praktický a interaktivní program, po kterém budete mít jistotu, že přesně rozumíte tomu, co je dalším krokem k pokračování vašeho růstu a proměny.",
-      "subheading": "Získáte jasnost a strukturu ve svém chápání ducha a lidské přirozenosti, stejně jako jasný vhled do zkušeností, se kterými jste se již možná setkali.",
+      "heading": "Co se pro vás změní",
+      "body1": "Začnete vidět, kde se brzdíte a spokojujete se s méně, než si zasloužíte, a dostanete nástroje to změnit. Po těchto dvou dnech dokážete rozpoznat vzorce, které řídí vaše reakce, pochopit, odkud pocházejí, a pustit je.",
+      "body2": "Budete cítit víc energie a jasnosti a budete vědět, jak si je udržet.",
+      "body3": "Je to praktické: všechno si vyzkoušíte přímo na kurzu, takže odejdete domů s přesnou představou, co dělat dál.",
+      "subheading": "Věci, které vás možná mátly, jako je intuice, živé sny nebo významné náhody, začnou dávat smysl.",
       "benefits": [
-        "Naučíte se rozpoznat neviditelný svět, přistupovat k němu a interagovat s ním.",
-        "Naučíte se, jak shromáždit sílu svých myšlenek a použít ji k tvorbě dobra kolem sebe.",
-        "Budete praktikovat posvátné rituály a zúčastníte se posvátné iniciační ceremonie."
+        "Naučíte se vnímat neviditelný svět a bezpečně s ním pracovat.",
+        "Naučíte se soustředit své myšlenky a používat je k vytváření dobrých věcí ve svém životě.",
+        "Budete praktikovat posvátné rituály a zúčastníte se iniciačního obřadu."
       ]
     },
     "special": {
-      "heading": "Co dělá tento program výjimečným?",
-      "body": "Neučíme vás jen teorii. Existuje mnoho učitelů, kteří s vámi mohou mluvit o spiritualitě. My vám nabízíme autentické, silné nástroje a učíme vás, jak je používat ve svém životě. Dáváme vám klíč k odemknutí těchto sil ve vás samých!"
+      "heading": "Čím je tento kurz výjimečný?",
+      "body": "O spiritualitě dokáže mluvit mnoho lidí. Tady dostanete skutečné nástroje, naučíte se je používat ve vlastním životě a my při tom budeme po vašem boku."
     },
     "curriculum": {
-      "heading": "Co se v tomto programu naučíte?",
+      "heading": "Co se naučíte?",
       "items": [
-        "Jak odpovědět na otázku „Kdo jsem já?“",
-        "Co je iniciace a proč ji dnes potřebujeme?",
-        "Role krále Šalomouna v tomto procesu",
-        "Lidský potenciál být Bohem",
-        "12 dimenzí Země a 7 duchovních dimenzí",
-        "Struktura hierarchie Světla",
-        "Meditace a mozkové vlnové frekvence",
-        "Vliv ega na pravé já",
-        "Cyklus lidských procesů",
-        "Energetická struktura lidské bytosti",
-        "Univerzální Kabala a strom života"
+        "Kdo jsem? Jak najít vlastní odpověď",
+        "Co je iniciace a proč je dnes důležitá",
+        "Odkud tato učení pocházejí: král Šalomoun a linie",
+        "Váš plný potenciál a jak do něj dorůst",
+        "Jak si doma vytvořit posvátný prostor a proč vám pomáhá",
+        "Krátká každodenní praxe a ochranná modlitba, kterou můžete použít kdekoli",
+        "Fyzické a duchovní dimenze a jak pracovat s oběma",
+        "Bytosti světla, které můžete požádat o pomoc",
+        "Meditace a jak mozkové vlny mění váš stav mysli",
+        "Vaše ego: kdy vám pomáhá a kdy vás brzdí",
+        "Vzorce a cykly, kterými všichni procházíme, a jak z nich vystoupit",
+        "Vaše energetické tělo a jak ho čistit a chránit",
+        "Univerzální kabala a strom života"
       ],
-      "closing": "V průběhu tohoto programu obdržíte učení, praktická cvičení a posvátné rituály, které můžete použít k pozvednutí svého života na další úroveň. Všechny tyto klíče pocházejí z linie krále Šalomouna, předávané v nepřerušené tradici po tisíce let."
+      "closing": "Každá část přináší praktická cvičení a rituály, které můžete použít hned, vše z linie krále Šalomouna."
     },
     "nextSteps": {
       "heading": "Co musíte udělat?",
       "items": [
-        { "main": "Ozvěte se nám, abyste zjistili, zda je tento program pro vás v tomto okamžiku vaší cesty tou správnou volbou.", "sub": "Jsme zde, abychom vás podpořili jasností a vedením na každém kroku." },
-        { "main": "Absolvujte sezení Life Activation u jednoho z našich certifikovaných praktiků." },
-        { "main": "Uhraďte zálohu nebo celou částku, abyste si rezervovali místo." },
-        { "main": "Zúčastněte se dvoudenního kurzu a iniciační ceremonie." },
-        { "main": "Začněte uplatňovat, co jste se naučili, a užijte si výsledky." }
+        {
+          "main": "Napište nám: v přátelském rozhovoru společně zjistíme, jestli je to pro vás teď ten správný krok.",
+          "sub": "Jsme zde, abychom vás podpořili jasností a vedením na každém kroku."
+        },
+        {
+          "main": "Absolvujte sezení Life Activation u jednoho z našich certifikovaných praktiků."
+        },
+        {
+          "main": "Uhraďte zálohu nebo celou částku, abyste si rezervovali místo."
+        },
+        {
+          "main": "Zúčastněte se dvoudenního kurzu a iniciační ceremonie."
+        },
+        {
+          "main": "Začněte uplatňovat, co jste se naučili, a užijte si výsledky."
+        }
       ]
     },
     "recommendations": {
-      "heading": "Doporučení",
-      "body1": "<bold>{brand}</bold> není jen kurz. Je to začátek hluboké cesty a trvalého spojení.",
-      "body2": "Tato iniciace otevírá bránu k novému chápání života a také bezpečný prostor, kam se můžete kdykoli vrátit, když potřebujete jasnost, podporu nebo vedení.",
-      "body3": "Zavazujeme se podporovat vás nejen během programu, ale i v nadcházejících letech. Ať už máte otázky ohledně uplatňování učení v každodenním životě, procházíte obdobím proměny, nebo se prostě cítíte připraveni udělat další krok ve své osobní cestě, jsme tu pro vás.",
-      "body4": "Tento vztah se buduje postupem času — s důvěrou, respektem a upřímným záměrem podporovat váš růst, rovnováhu a vnitřní sílu."
+      "heading": "Po kurzu",
+      "body1": "<bold>{brand}</bold> není konec něčeho. Je to začátek cesty a trvalého spojení.",
+      "body2": "Budete mít bezpečné místo, kam se můžete vrátit, kdykoli potřebujete jasnost, podporu nebo vedení.",
+      "body3": "Jsme tu pro vás nejen během dvou dnů, ale i roky potom: s otázkami, jak nástroje používat, v obdobích změn nebo když se budete cítit připraveni na další krok.",
+      "body4": "Je to vztah, který roste časem, s důvěrou, respektem a upřímným přáním vidět vás růst."
     },
-    "bookingTitle": "Objevte svůj potenciál být božskou bytostí!",
+    "bookingTitle": "Dva dny, které mohou změnit, jak žijete",
     "duration": "2 dny",
     "bookingNote": "Koná se v Praze, Česká republika. Po vaší záloze vás budeme kontaktovat, abychom naplánovali vaši Life Activation a potvrdili vaše místo.",
     "bookingExtra": {

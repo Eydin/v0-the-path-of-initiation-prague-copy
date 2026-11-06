@@ -393,14 +393,15 @@
     "heroTitle": "Das {brand}-Programm",
     "heroSubtitle": "Initiation in die Linie von König Salomon",
     "invitation": {
-      "question": "Wenn du wie Gott sein könntest — erfüllt von Liebe, Harmonie und schöpferischer Kraft — würdest du es tun?",
-      "body1": "Diese Initiation wird den Horizont dessen erweitern, was du für möglich hältst. Sie erweckt neue Potenziale und fordert uns heraus, alte Dogmen und Paradigmen loszulassen.",
-      "body2": "Im Verlauf dieser zwei Tage erhältst du Schlüssel, die das Potenzial in deinem Geist freisetzen, um deine göttliche Natur zu verkörpern. Wir alle tragen dieses Potenzial in uns — es ist bereits in dir. Jetzt ist die Zeit, es an die Oberfläche zu bringen und zum Mittelpunkt deines Lebens zu machen.",
-      "body3": "Du wirst lernen, das negative Ego zu überwinden, das dir im Weg steht, und erhältst praktische Werkzeuge, die dich in diesem Prozess unterstützen. Die Initiation beschleunigt deine Verwandlung und hilft dir, schneller Ergebnisse zu erleben und die Reise zu deinem wahren Selbst zu genießen.",
-      "body4": "Du wirst von einer uralten Linie unterstützt, die hinter dir steht.",
-      "body5": "Diejenigen, die diesen Weg vor dir gegangen sind, sind hier, um dich mit ihrer Weisheit und Erfahrung zu führen.",
-      "body6": "Durch ihre Hingabe wurden diese Lehren in ihrer reinsten Form bewahrt — sicher aufbewahrt, damit wir heute von ihnen profitieren können.",
-      "callToAction": "Wirst du dem Ruf folgen?"
+      "question": "Was wäre, wenn du einfache Werkzeuge hättest, um dich jeden Tag ruhig, geschützt und als Gestalter deines Lebens zu fühlen?",
+      "god": "Wenn du wie Gott sein könntest — erfüllt von Liebe, Harmonie und schöpferischer Kraft — würdest du es tun?",
+      "body1": "{brand} ist ein zweitägiger Kurs in einer kleinen Gruppe, hier in Prag. Du lernst praktische Werkzeuge, um deine Energie zu reinigen und zu schützen, die Muster zu erkennen, die sich in deinem Leben wiederholen, und sie zu verändern.",
+      "body2": "Es ist auch eine Initiation, was einfach einen Neuanfang bedeutet. In den zwei Tagen erhältst du Schlüssel aus einer Tradition, die seit über 3.000 Jahren vom Lehrer an den Schüler weitergegeben wird, und nimmst sie für jeden Tag mit nach Hause.",
+      "body3": "Du gehst mit einer täglichen Praxis, einem ruhigeren und klareren Geist, einem Gefühl für deine eigene Stärke und einer klaren Vorstellung von deinem nächsten Schritt.",
+      "body4": "Und du bist dabei nicht allein.",
+      "body5": "Diana und Radu begleiten dich durch beide Tage, und die Gemeinschaft ist noch lange danach für dich da.",
+      "body6": "Diese Lehren wurden von allen bewahrt, die diesen Weg vor dir gegangen sind, damit du sie heute nutzen kannst.",
+      "callToAction": "Ist das dein nächster Schritt?"
     },
     "letter": {
       "greeting": "Liebe Suchende, lieber Suchender,",
@@ -414,63 +415,76 @@
       "signOffRole": "Dein Guide in der Linie des Lichts"
     },
     "origins": {
-      "heading": "Was ist das {brand}-Programm und woher kommt es?",
-      "body1": "<bold>{brand}</bold> ist Teil einer lebendigen Tradition von Weisheit, Heilung und innerer Entwicklung, die vor über 3.000 Jahren von König Salomon begründet wurde.",
-      "body2": "Angetrieben vom Wunsch, Menschen zu helfen, ihr göttliches Potenzial zu entdecken und zu erfüllen, versammelte Salomon die weisesten Meister seiner Zeit — Heiler, Ärzte, Weise, Mystiker und spirituell Suchende. Gemeinsam testeten und verfeinerten sie alle bekannten Transformationsmethoden, bis sie ein klares, tiefgreifendes und praktisches System schufen, das für jeden funktioniert, unabhängig von Kultur oder Epoche.",
-      "body3": "<bold>Was {brand} wirklich besonders macht</bold>, ist, dass es nicht nur eine weitere Sammlung von Techniken oder Theorien ist. Es ist Teil eines vollständigen und stimmigen Systems, das bis heute kontinuierlich weitergegeben wird — ein bewährter, vertrauenswürdiger Rahmen, der das Erwachen des Bewusstseins, das innere Gleichgewicht und die Wiederverbindung mit deinem wahren Selbst unterstützt.",
-      "tagline": "Dieses System ist auch heute noch wirksam und bringt Ergebnisse in Bereichen, die die moderne Wissenschaft noch nicht erreichen konnte."
+      "heading": "Woher kommt {brand}?",
+      "body1": "<bold>{brand}</bold> stammt aus der Modern Mystery School und der Linie von König Salomon, einer lebendigen Tradition der Weisheit und Heilung, die über 3.000 Jahre alt ist.",
+      "body2": "Salomon versammelte die weisesten Heiler, Ärzte und Weisen seiner Zeit. Gemeinsam prüften sie jede Methode der Transformation, die sie kannten, und behielten nur, was wirklich wirkt, für jeden, in jeder Kultur und jeder Zeit.",
+      "body3": "<bold>Das macht {brand} besonders</bold>: Es ist keine Mischung aus Techniken oder Theorien, sondern ein vollständiges, erprobtes System, das ohne Unterbrechung bis heute weitergegeben wurde.",
+      "tagline": "Uralte Weisheit, praktisch für das moderne Leben."
     },
     "whatWillYouDo": {
-      "heading": "Was wirst du im {brand}-Programm tun?",
-      "body1": "Dieses Programm soll dir helfen zu erkennen, dass du die Macht hast, das Leben zu erschaffen, das du wirklich willst. Es befähigt dich zu erkennen, wo du dich selbst zurückhältst und wo du dich mit weniger zufriedengibst, als du verdienst. Aber damit ist es nicht getan — dieses Programm gibt dir auch die Werkzeuge, um diese Teile deines Lebens zu verändern! Nach diesen zwei Tagen wirst du in der Lage sein, die Muster und Programme zu erkennen, die dein Verhalten prägen, zu verstehen, woher sie kommen, und die Macht haben, sie loszulassen.",
-      "body2": "Du öffnest Wege, über die du Zugang zu mehr Energie, neuem Wissen und frischen Einsichten erhältst, die dich befähigen, ein neues Leben zu erschaffen, das dir vollkommene Erfüllung bringt.",
-      "body3": "Dies ist ein praktisches, interaktives Programm, nach dem du sicher sein wirst, genau zu wissen, was als Nächstes zu tun ist, um dein Wachstum und deine Verwandlung fortzusetzen.",
-      "subheading": "Du gewinnst Klarheit und Struktur in deinem Verständnis von Geist und menschlicher Natur sowie klare Einsicht in Erfahrungen, die du vielleicht schon gemacht hast.",
+      "heading": "Was sich für dich verändert",
+      "body1": "Du beginnst zu sehen, wo du dich zurückhältst und dich mit weniger zufriedengibst, als du verdienst, und du bekommst die Werkzeuge, das zu ändern. Nach diesen zwei Tagen erkennst du die Muster, die deine Reaktionen steuern, verstehst, woher sie kommen, und kannst sie loslassen.",
+      "body2": "Du spürst mehr Energie und Klarheit und weißt, wie du sie behältst.",
+      "body3": "Es ist praktisch: Du übst alles direkt im Kurs und gehst nach Hause mit dem genauen Wissen, was du als Nächstes tun kannst.",
+      "subheading": "Dinge, die dich vielleicht verwirrt haben, wie deine Intuition, lebhafte Träume oder bedeutsame Zufälle, beginnen Sinn zu ergeben.",
       "benefits": [
-        "Du lernst, die unsichtbare Welt zu erkennen, auf sie zuzugreifen und mit ihr zu interagieren.",
-        "Du lernst, wie du die Kraft deiner Gedanken sammelst und nutzt, um Gutes um dich herum zu erschaffen.",
-        "Du praktizierst heilige Rituale und nimmst an einer heiligen Initiationszeremonie teil."
+        "Du lernst, die unsichtbare Welt wahrzunehmen und sicher mit ihr zu arbeiten.",
+        "Du lernst, deine Gedanken zu bündeln und sie zu nutzen, um Gutes in deinem Leben zu erschaffen.",
+        "Du übst heilige Rituale und nimmst an einer Initiationszeremonie teil."
       ]
     },
     "special": {
-      "heading": "Was macht dieses Programm besonders?",
-      "body": "Wir vermitteln dir nicht nur Theorie. Es gibt viele Lehrer, die mit dir über Spiritualität sprechen können. Wir bieten dir authentische, kraftvolle Werkzeuge und zeigen dir, wie du sie in deinem Leben einsetzt. Wir geben dir den Schlüssel, um diese Kräfte in dir selbst zu entfalten!"
+      "heading": "Was macht diesen Kurs besonders?",
+      "body": "Über Spiritualität können viele reden. Hier bekommst du echte Werkzeuge, lernst, sie in deinem eigenen Leben anzuwenden, und wir sind dabei an deiner Seite."
     },
     "curriculum": {
-      "heading": "Was wirst du in diesem Programm lernen?",
+      "heading": "Was wirst du lernen?",
       "items": [
-        "Wie du die Frage „Wer bin ich?“ beantwortest",
-        "Was ist eine Initiation, und warum brauchen wir sie heute?",
-        "Die Rolle von König Salomon in diesem Prozess",
-        "Das menschliche Potenzial, Gott zu sein",
-        "Die 12 Dimensionen der Erde und die 7 spirituellen Dimensionen",
-        "Die Struktur der Hierarchie des Lichts",
-        "Meditation und Gehirnwellenfrequenzen",
-        "Der Einfluss des Egos auf das wahre Selbst",
-        "Der Zyklus menschlicher Prozesse",
-        "Die energetische Struktur des Menschen",
+        "Wer bin ich? Deine eigene Antwort finden",
+        "Was eine Initiation ist und warum sie heute wichtig ist",
+        "Woher diese Lehren stammen: König Salomon und die Linie",
+        "Dein volles Potenzial und wie du hineinwächst",
+        "Wie du zu Hause einen heiligen Raum schaffst und warum er dir hilft",
+        "Eine kurze tägliche Praxis und ein Schutzgebet, das du überall anwenden kannst",
+        "Die physischen und spirituellen Dimensionen und wie du mit beiden arbeitest",
+        "Die Lichtwesen, die du um Hilfe bitten kannst",
+        "Meditation und wie deine Gehirnwellen deinen Geisteszustand verändern",
+        "Dein Ego: wann es dir hilft und wann es dich bremst",
+        "Die Muster und Zyklen, die wir alle durchlaufen, und wie du aus ihnen heraustrittst",
+        "Dein Energiekörper und wie du ihn reinigst und schützt",
         "Universelle Kabbala und der Baum des Lebens"
       ],
-      "closing": "Im Verlauf dieses Programms erhältst du Lehren, praktische Übungen und heilige Rituale, die du nutzen kannst, um dein Leben auf die nächste Stufe zu heben. All diese Schlüssel stammen aus der Linie von König Salomon, die seit Jahrtausenden in ununterbrochener Tradition weitergegeben wird."
+      "closing": "Jeder Teil bringt praktische Übungen und Rituale mit, die du sofort anwenden kannst, alle aus der Linie von König Salomon."
     },
     "nextSteps": {
       "heading": "Was musst du tun?",
       "items": [
-        { "main": "Melde dich bei uns, um herauszufinden, ob dieses Programm in diesem Moment deiner Reise das Richtige für dich ist.", "sub": "Wir sind hier, um dich mit Klarheit und Führung zu unterstützen, bei jedem Schritt." },
-        { "main": "Erhalte eine Life-Activation-Sitzung von einem unserer zertifizierten Praktizierenden." },
-        { "main": "Leiste eine Anzahlung oder zahle den vollen Betrag, um dir deinen Platz zu sichern." },
-        { "main": "Nimm am zweitägigen Kurs teil und beteilige dich an der Initiationszeremonie." },
-        { "main": "Beginne, das Gelernte anzuwenden, und genieße die Ergebnisse." }
+        {
+          "main": "Schreib uns: In einem freundlichen Gespräch finden wir gemeinsam heraus, ob das jetzt der richtige Schritt für dich ist.",
+          "sub": "Wir sind hier, um dich mit Klarheit und Führung zu unterstützen, bei jedem Schritt."
+        },
+        {
+          "main": "Erhalte eine Life-Activation-Sitzung von einem unserer zertifizierten Praktizierenden."
+        },
+        {
+          "main": "Leiste eine Anzahlung oder zahle den vollen Betrag, um dir deinen Platz zu sichern."
+        },
+        {
+          "main": "Nimm am zweitägigen Kurs teil und beteilige dich an der Initiationszeremonie."
+        },
+        {
+          "main": "Beginne, das Gelernte anzuwenden, und genieße die Ergebnisse."
+        }
       ]
     },
     "recommendations": {
-      "heading": "Empfehlungen",
-      "body1": "<bold>{brand}</bold> ist nicht nur ein Kurs. Es ist der Beginn einer tiefgreifenden Reise und einer dauerhaften Verbindung.",
-      "body2": "Diese Initiation öffnet ein Tor zu einem neuen Verständnis des Lebens sowie einen sicheren Raum, zu dem du zurückkehren kannst, wann immer du Klarheit, Unterstützung oder Führung brauchst.",
-      "body3": "Wir verpflichten uns, dich nicht nur während des Programms, sondern auch in den kommenden Jahren zu unterstützen. Ob du Fragen zur Anwendung der Lehren im Alltag hast, eine Phase der Verwandlung durchlebst oder einfach bereit bist, den nächsten Schritt auf deiner persönlichen Reise zu gehen — wir sind für dich da.",
-      "body4": "Diese Beziehung wird mit der Zeit aufgebaut — mit Vertrauen, Respekt und der ehrlichen Absicht, dein Wachstum, deine Balance und deine innere Stärke zu unterstützen."
+      "heading": "Nach dem Kurs",
+      "body1": "<bold>{brand}</bold> ist nicht das Ende von etwas. Es ist der Anfang einer Reise und einer dauerhaften Verbindung.",
+      "body2": "Du hast einen sicheren Ort, zu dem du zurückkehren kannst, wann immer du Klarheit, Unterstützung oder Führung brauchst.",
+      "body3": "Wir sind nicht nur während der zwei Tage für dich da, sondern auch noch Jahre danach: bei Fragen zur Anwendung der Werkzeuge, in Zeiten des Wandels oder wenn du bereit für deinen nächsten Schritt bist.",
+      "body4": "Es ist eine Beziehung, die mit der Zeit wächst, mit Vertrauen, Respekt und dem echten Wunsch, dich wachsen zu sehen."
     },
-    "bookingTitle": "Entdecke dein Potenzial, ein göttliches Wesen zu sein!",
+    "bookingTitle": "Zwei Tage, die verändern können, wie du lebst",
     "duration": "2 Tage",
     "bookingNote": "Findet in Prag, Tschechische Republik statt. Nach deiner Anzahlung kontaktieren wir dich, um deine Life Activation zu planen und deinen Platz zu bestätigen.",
     "bookingExtra": {

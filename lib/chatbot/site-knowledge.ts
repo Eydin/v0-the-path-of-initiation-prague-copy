@@ -234,14 +234,14 @@ Radu Coman
 https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
 A Two-Day Program
 Initiation into the Lineage of King Salomon
+What if you had simple tools to feel calm, protected and in charge of your life, every single day?
 If you could be like God — filled with love, harmony, and creative power — would you do it?
-This initiation will expand the horizon of what you believe is possible. It awakens new potentials and challenges us to release old dogmas and paradigms.
-Over the course of these two days, you will receive keys that unlock the potential within your mind to embody your divine nature. We all carry this potential—it is already within you. Now is the time to bring it to the surface and make it the focus of your life.
-You will learn how to move beyond the negative ego that stands in your way and receive practical tools to support you in this process. The initiation will accelerate your transformation, helping you experience results faster and enjoy the journey of becoming your true self.
-You will be supported by an ancient lineage that stands behind you.
-Those who have walked this path before you are here to guide you with their wisdom and experience.
-Through their dedication, these teachings have been preserved in their purest form—kept safe so that we may benefit from them today.
-Will you answer the call?
+It is also an initiation, which simply means a new beginning. Over the two days you receive keys from a tradition that has been passed from teacher to student for over 3,000 years, and you take them home to use every day.
+You'll leave with a daily practice, a calmer and clearer mind, a sense of your own strength, and a clear idea of your next step.
+And you won't be doing it alone.
+Diana and Radu guide you through both days, and the community is here for you long after.
+These teachings were kept safe by everyone who walked this path before you, so that you can use them today.
+Is this your next step?
 Dear Seeker,
 I speak to you now not only as a spiritual guide in an ancient Lineage of Light—but also as an engineer. I know, at first glance these two paths may seem like completely different worlds. But both have revealed to me the same profound truth: there is a deeper design in everything that exists .
 In engineering, we study structure, energy, and systems.
@@ -250,42 +250,45 @@ This path does not ask you to believe blindly. It invites you to experience. To 
 If you feel that life has a deeper architecture… If you've always known, somewhere inside, that you are here for something more—even if you haven't yet been able to name it… Then this step may be your next beginning.
 It would be an honor for me to guide you. From one seeker of truth to another, with clarity, structure, and soul.
 Your guide in the Lineage of Light
-Driven by the desire to help people discover and fulfill their divine potential, Salomon gathered the wisest masters of his time — healers, doctors, sages, mystics, and spiritual seekers. Together, they tested and refined all known methods of transformation until they created a clear, profound, and practical system designed to work for anyone, regardless of culture or era.
-This system is still effective today and brings results in areas where modern science has not yet been able to.
-This program is designed to help you realize that you have the power to create the life you truly desire. It empowers you to see where you might be holding yourself back and where you're settling for less than you deserve. But it doesn't stop there — this program also gives you the tools to change those parts of your life! After these two days, you'll be able to recognize the patterns and programs that shape your behavior, understand where they come from, and have the power to release them.
-You will open pathways through which you can access more energy, new knowledge and fresh insights, empowering you to create a new life that brings you complete fulfillment.
-This is a practical and interactive program, after which you will be confident that you understand exactly what you need to do next to continue your growth and transformation.
-You will gain clarity and structure in your understanding of spirit and human nature, as well as clear insight into experiences you may have already encountered.
-You will learn to recognize the unseen world, access it, and interact with it.
-You will learn how to gather the power of your thoughts and use it to create good around you.
-You will practice sacred rituals and participate in a sacred initiation ceremony.
-What makes this program special?
-We don't just teach you theory. There are many teachers who can talk to you about spirituality. We offer you authentic, powerful tools and teach you how to use them in your life. We give you the key to unlock these powers within yourself!
-What will you learn in this program?
-How to answer the question "Who am I?"
-What is an initiation, and why do we need it today?
-The role of King Salomon in this process
-The Human potential to be God
-The 12 Dimensions of the Earth and the 7 Spiritual Dimensions
-The Structure of the Hierarchy of Light
-Meditation and Brainwave Frequencies
-The Influence of the Ego on the True Self
-The Cycle of Human Processes
-The Energetic Structure of the Human Being
+Salomon gathered the wisest healers, doctors and sages of his time. Together they tested every method of transformation they knew and kept only what really worked, for anyone, in any culture and any era.
+Ancient wisdom, made practical for modern life.
+What changes for you
+You'll begin to see where you hold yourself back and settle for less than you deserve, and you'll get the tools to change it. After these two days you can recognise the patterns that run your reactions, understand where they come from, and let them go.
+You'll feel more energy and clarity, and you'll know how to keep them.
+It's practical and hands-on: you practise everything during the class, so you go home knowing exactly what to do next.
+Things that may have puzzled you, like your intuition, vivid dreams or meaningful coincidences, will start to make sense.
+You'll learn to sense the unseen world and work with it safely.
+You'll learn to focus your thoughts and use them to create good things in your life.
+You'll practise sacred rituals and take part in an initiation ceremony.
+What makes this class special?
+Many people can talk about spirituality. Here you get real tools, you learn how to use them in your own life, and you have us beside you while you do.
+What will you learn?
+Who am I? Finding your own answer
+What an initiation is, and why it matters today
+Where these teachings come from: King Salomon and the lineage
+Your full potential, and how to grow into it
+How to create a sacred space at home, and why it helps you
+A short daily practice and a protection prayer you can use anywhere
+The physical and spiritual dimensions, and how to work with both
+The beings of light you can call on for help
+Meditation, and how your brainwaves change your state of mind
+Your ego: when it helps you and when it holds you back
+The patterns and cycles we all go through, and how to step out of them
+Your energy body, and how to clear and protect it
 Universal Kabbalah and the Tree of Life
-Throughout this program, you will receive teachings, practical exercises, and sacred rituals that you can use to elevate your life to the next level. All of these keys come from the lineage of King Salomon, passed down in an unbroken tradition for thousands of years.
+Every part comes with practical exercises and rituals you can use straight away, all from the lineage of King Salomon.
 What do you need to do?
-Reach out to us to discover whether this program is the right fit for you at this moment in your journey.
+Write to us: we'll have a friendly chat to see whether this is the right step for you now.
 We're here to support you with clarity and guidance, every step of the way.
 Receive a Life Activation session from one of our certified practitioners.
 Make a deposit or pay the full amount to reserve your spot.
 Attend the two-day class and participate in the initiation ceremony.
 Start applying what you've learned and enjoy the results.
-Recommendations
-This initiation opens a gateway to a new understanding of life, as well as a safe space you can return to whenever you need clarity, support, or guidance.
-We commit to supporting you not only throughout the program but also in the years ahead. Whether you have questions about applying the teachings in daily life, are going through a period of transformation, or simply feel ready to take the next step in your personal journey, we are here for you.
-This relationship is built over time — with trust, respect, and a honest intention to support your growth, balance, and inner strength.
-Discover Your Potential to Be a Divine Being!
+After the class
+You'll have a safe place to come back to whenever you need clarity, support or guidance.
+We're there for you not only during the two days but for years after: with questions about using the tools, through times of change, or when you feel ready for your next step.
+It's a relationship built over time, with trust, respect and a genuine wish to see you grow.
+Two days that can change how you live
 2 Days
 Held in Prague, Czech Republic. After your deposit we will contact you to schedule your Life Activation and confirm your place.
 Includes the 2 day training and a complimentary Life Activation session (valued at 8.500 CZK) to prepare your energy system and connect you to your divine blueprint before the Initiation.
