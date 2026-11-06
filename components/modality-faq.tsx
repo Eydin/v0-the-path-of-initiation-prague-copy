@@ -15,7 +15,8 @@ import { LinkedText } from "./linked-text"
 export type FaqItem = { q: string; a: string; href?: string }
 
 // ── FAQ accordion for a modality page ────────────────────────────────────
-export function ModalityFaq({ items }: { items: FaqItem[] }) {
+/** `disclaimer`: the medical note under the FAQ — on by default (healing pages), off for classes. */
+export function ModalityFaq({ items, disclaimer = true }: { items: FaqItem[]; disclaimer?: boolean }) {
   const t = useTranslations("HealingSession")
 
   return (
@@ -38,7 +39,9 @@ export function ModalityFaq({ items }: { items: FaqItem[] }) {
               </AccordionItem>
             ))}
           </Accordion>
-          <p className="mt-6 text-center text-sm leading-relaxed text-muted-foreground">{t("disclaimer")}</p>
+          {disclaimer && (
+            <p className="mt-6 text-center text-sm leading-relaxed text-muted-foreground">{t("disclaimer")}</p>
+          )}
         </ScrollReveal>
       </div>
     </section>

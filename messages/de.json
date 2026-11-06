@@ -747,24 +747,116 @@
     "inquiry": "Hallo, ich möchte gerne mehr über die Lebenszweck- & 11. Codon-Lesung erfahren."
   },
   "SacredGeometryPage": {
-    "heroEyebrow": "Ein Workshop der Mysterienschule",
-    "heroSubtitle": "Die Sprache, in der die Schöpfung geschrieben ist",
-    "heroTagline": "Lerne, mit den Bausteinen des Universums zu arbeiten",
-    "introLead": "Die verborgene Architektur aller Dinge",
-    "introBody1": "Von der Spirale einer Muschel bis zur Umlaufbahn der Planeten wiederholen sich dieselben Muster auf jeder Ebene der Existenz. Heilige Geometrie ist das Studium dieser Muster — der Formen, durch die Geist in Materie Gestalt annimmt. Für die Initiierten der Antike war sie nichts Geringeres als die Sprache des Göttlichen.",
-    "introBody2": "In diesem Workshop lernst du, diese Formen zu erkennen, bewusst mit ihnen zu arbeiten und die primären Schlüssel der heiligen Geometrie zu nutzen, um einen klaren, geschützten und heiligen Raum zu schaffen — in deinem Zuhause, in deiner Praxis und in dir selbst.",
+    "heroEyebrow": "Ein Halbtagesworkshop in Prag",
+    "heroSubtitle": "Lerne die Sprache des Universums und wie du die Energie deines Zuhauses schützt",
+    "heroTagline": "Die drei Schlüssel zum Himmel: die Formen, aus denen alles aufgebaut ist, und wie du sie im Alltag nutzt",
+    "introLead": "Die Räume, in denen du lebst, beeinflussen, wie du dich fühlst",
+    "introBody1": "Du hast es wahrscheinlich schon gespürt: In manchen Räumen wirst du ruhig und klar, andere machen dich müde oder angespannt. Ein Raum trägt die Energie der Menschen und Momente in sich, die er erlebt hat, und diese Energie wirkt auf dich. Heilige Geometrie gibt dir einen einfachen Weg, sie zu verändern.",
+    "introBody2": "Dieser Workshop ist für alle, die die echte, praktische Anwendung der heiligen Geometrie suchen, nicht nur die Theorie. In 4,5 Stunden in einer kleinen Gruppe lernst du die drei Grundformen, wie du negative Energie aus dir und aus einem Raum klärst und wie du einen heiligen Raum schaffst: einen ruhigen, geschützten Ort zu Hause, bei der Arbeit oder wo immer du hingehst. Es ist dieselbe Geometrie, die Pythagoras, Leonardo da Vinci und Tesla inspiriert hat.",
     "reserveYourPlace": "Sichere dir deinen Platz",
-    "learnHeading": "Was du lernen wirst",
+    "learnHeading": "Was du entdecken wirst",
     "benefits": [
-      { "label": "Die primären Formen:", "text": "Die grundlegenden Formen der Schöpfung und die Qualitäten, die jede von ihnen trägt." },
-      { "label": "Heiligen Raum schaffen:", "text": "Nutze die Schlüssel der heiligen Geometrie, um einen Raum zu reinigen, zu schützen und zu weihen." },
-      { "label": "Geometrie als Werkzeug:", "text": "Wende diese Formen für Fokus, Meditation, Manifestation und Heilung an." },
-      { "label": "Das Muster leben:", "text": "Erkenne die Ordnung unter dem Alltag und richte dich danach aus." }
+      {
+        "label": "Die drei Schlüssel zum Himmel:",
+        "text": "Die drei Grundformen, aus denen alles in der Schöpfung aufgebaut ist, was jede bedeutet, und eine Einstimmung, die sie in deinem Körper und deiner Aura weckt."
+      },
+      {
+        "label": "Deinen Raum versiegeln und schützen:",
+        "text": "Wie du dein Zuhause, dein Büro oder jeden Raum klärst und versiegelst, damit sich keine negative Energie ansammelt."
+      },
+      {
+        "label": "Einen Tempelraum schaffen:",
+        "text": "Wie du die Energie eines Raumes für Meditation, Heilung, Lernen oder Arbeit anhebst."
+      },
+      {
+        "label": "Geometrie und die vier Elemente:",
+        "text": "Wie du die Formen mit Erde, Wasser, Luft und Feuer verbindest, um deine Absichten ins echte Leben zu bringen."
+      },
+      {
+        "label": "Sie überall sehen:",
+        "text": "Bemerken, wie heilige Geometrie schon jetzt deinen Körper, die Natur und den Alltag formt, und bewusst mit ihr arbeiten."
+      }
     ],
-    "bookingTitle": "Lies die Sprache der Schöpfung",
+    "bookingTitle": "Schaffe deinen heiligen Raum",
     "duration": "4,5 Stunden",
-    "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
-    "inquiry": "Hallo, ich möchte gerne mehr über den {brand}-Workshop erfahren."
+    "bookingNote": "Kleine Gruppen, vor Ort in Prag. Schreib uns für den nächsten Termin.",
+    "inquiry": "Hallo, ich möchte gerne mehr über den {brand}-Workshop erfahren.",
+    "whyHeading": "Warum einen heiligen Raum schaffen?",
+    "why": [
+      "Dein Zuhause wird ein Ort, an dem du wirklich ruhst und auftankst",
+      "Die Schwere nach Streit, Stress oder vollen Tagen bleibt nicht hängen",
+      "Meditation, Gebet und Konzentration fallen leichter",
+      "Du fühlst dich geschützt, auch an belebten oder schwierigen Orten",
+      "Es ist die Grundlage für jede weitere Praxis auf dem Weg"
+    ],
+    "expectHeading": "Was dich erwartet",
+    "expect": [
+      "4,5 Stunden in einer kleinen, herzlichen Gruppe, vor Ort in Prag",
+      "Klare Erklärungen und viel praktische Übung: Du probierst alles selbst aus",
+      "Eine Einstimmung auf die drei Grundformen während des Workshops",
+      "Werkzeuge, die du noch am selben Abend nutzen kannst",
+      "Der erste Schritt der Sacred-Geometry-Reihe, der die Tür zu Sacred Geometry II öffnet"
+    ],
+    "usesHeading": "Wie Menschen sie nutzen",
+    "uses": [
+      "Einem Kind zu ruhigerem Schlaf verhelfen, indem sie sein Zimmer vorbereiten",
+      "Ruhig und geschützt bleiben in einem fordernden Job oder einem vollen Büro",
+      "Einen Raum für Klienten vorbereiten, damit sie sich leichter entspannen und öffnen",
+      "Das Zuhause nach einem Streit, einer Krankheit oder einem anstrengenden Besuch klären",
+      "Eine stille Ecke für tägliche Meditation und Gebet schaffen"
+    ],
+    "faq": [
+      {
+        "q": "Ist dieser Workshop für Anfänger?",
+        "a": "Ja. Er ist als erster Schritt gedacht: Alles wird klar erklärt, und wir üben jedes Werkzeug gemeinsam, bis es sich natürlich anfühlt."
+      },
+      {
+        "q": "Was soll ich mitbringen?",
+        "a": "Bequeme Kleidung, ein Notizbuch und einen Stift. Und deine Neugier: Fragen sind immer willkommen."
+      },
+      {
+        "q": "Woher stammen diese Lehren?",
+        "a": "Aus der Modern Mystery School und der Linie von König Salomon, in der heilige Geometrie seit Tausenden von Jahren vom Lehrer an den Schüler weitergegeben wird."
+      },
+      {
+        "q": "Was kommt nach Sacred Geometry I?",
+        "a": "Wenn du bereit bist, baut <link>Sacred Geometry II: Kristallheilung und Raumschutz</link> auf dem auf, was du hier lernst, und die Reihe geht mit Sacred Geometry III und IV weiter.",
+        "href": "/sacred-geometry-2"
+      }
+    ],
+    "galleryHeading": "Einblicke in den Workshop",
+    "galleryIntro": "Echte Momente aus unseren Kursen in Prag: kleine Gruppen, Papier, Scheren und bunte Stifte, viele Fragen und gute Gesellschaft.",
+    "gallery": [
+      "Gemeinsam lernen in Prag",
+      "Die drei Grundformen von Hand ausschneiden",
+      "Das Dreieck: einer der drei Schlüssel zum Himmel",
+      "Radu begleitet jeden Schritt für Schritt",
+      "Gemeinsame Praxis am Altar"
+    ],
+    "mastersHeading": "Die Meister, die sie studierten",
+    "mastersIntro": "Seit Tausenden von Jahren sahen einige der größten Geister in der Geometrie die verborgene Ordnung des Lebens.",
+    "masters": [
+      {
+        "name": "Pythagoras",
+        "era": "6. Jh. v. Chr.",
+        "text": "Lehrte in seiner eigenen Mysterienschule, dass Zahl und Form die verborgene Ordnung des Universums sind."
+      },
+      {
+        "name": "Platon",
+        "era": "4. Jh. v. Chr.",
+        "text": "Der Überlieferung nach stand über dem Eingang seiner Akademie: Kein der Geometrie Unkundiger trete ein."
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "era": "15. Jahrhundert",
+        "text": "Zeichnete den Vitruvianischen Menschen, der die heiligen Proportionen des Körpers in Kreis und Quadrat zeigt."
+      },
+      {
+        "name": "Galileo Galilei",
+        "era": "17. Jahrhundert",
+        "text": "Schrieb, dass das Buch der Natur in der Sprache der Mathematik geschrieben ist, ihre Buchstaben Dreiecke, Kreise und andere Figuren."
+      }
+    ]
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Die Sacred-Geometry-Reihe · Stufe II",

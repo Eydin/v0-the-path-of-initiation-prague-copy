@@ -747,24 +747,116 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Čtení životního poslání a 11. kodonu."
   },
   "SacredGeometryPage": {
-    "heroEyebrow": "Workshop mysterijní školy",
-    "heroSubtitle": "Jazyk, jímž je psáno stvoření",
-    "heroTagline": "Naučte se pracovat se stavebními kameny vesmíru",
-    "introLead": "Skrytá architektura všech věcí",
-    "introBody1": "Od spirály lastury až po oběžné dráhy planet se stejné vzory opakují na každé úrovni existence. Posvátná geometrie je studiem těchto vzorů — forem, jejichž prostřednictvím duch nabývá tvaru v hmotě. Pro dávné zasvěcence to nebylo nic menšího než jazyk Božství.",
-    "introBody2": "V tomto workshopu se naučíte tyto formy rozpoznávat, vědomě s nimi pracovat a používat základní klíče posvátné geometrie k vytvoření čistého, chráněného a posvátného prostoru — ve svém domově, ve své praxi i v sobě samých.",
+    "heroEyebrow": "Půldenní workshop v Praze",
+    "heroSubtitle": "Naučte se jazyk vesmíru a jak chránit energii svého domova",
+    "heroTagline": "Tři klíče do nebe: tvary, ze kterých je vše postaveno, a jak je používat v každodenním životě",
+    "introLead": "Prostory, ve kterých žijete, ovlivňují, jak se cítíte",
+    "introBody1": "Nejspíš to znáte: v některých místnostech se cítíte klidní a jasní, v jiných unavení nebo napjatí. Prostor v sobě nese energii lidí a chvil, které zažil, a ta energie vás ovlivňuje. Posvátná geometrie vám dává jednoduchý způsob, jak ji změnit.",
+    "introBody2": "Tento workshop je pro každého, kdo chce skutečné, praktické využití posvátné geometrie, ne jen teorii. Za 4,5 hodiny v malé skupině se naučíte tři základní tvary, jak ze sebe i z místnosti vyčistit negativní energii a jak vytvořit posvátný prostor: klidné, chráněné místo doma, v práci nebo kdekoli, kam jdete. Je to stejná geometrie, která inspirovala Pythagora, Leonarda da Vinciho i Teslu.",
     "reserveYourPlace": "Rezervovat si místo",
-    "learnHeading": "Co se naučíte",
+    "learnHeading": "Co objevíte",
     "benefits": [
-      { "label": "Základní formy:", "text": "Základní tvary stvoření a kvality, které každý z nich nese." },
-      { "label": "Vytváření posvátného prostoru:", "text": "Použijte klíče posvátné geometrie k vyčištění, ochraně a posvěcení prostoru." },
-      { "label": "Geometrie jako nástroj:", "text": "Aplikujte tyto formy pro soustředění, meditaci, manifestaci a léčení." },
-      { "label": "Žít podle vzoru:", "text": "Uvidíte řád, který je základem každodenního života, a sladíte se s ním." }
+      {
+        "label": "Tři klíče do nebe:",
+        "text": "Tři základní tvary, ze kterých je postaveno vše ve stvoření, co každý z nich znamená, a naladění, které je probudí ve vašem těle a auře."
+      },
+      {
+        "label": "Zapečetění a ochrana prostoru:",
+        "text": "Jak vyčistit a zapečetit domov, kancelář nebo jakoukoli místnost, aby se v nich negativní energie nehromadila."
+      },
+      {
+        "label": "Vytvoření chrámového prostoru:",
+        "text": "Jak pozvednout energii místnosti pro meditaci, léčení, studium nebo práci."
+      },
+      {
+        "label": "Geometrie a čtyři živly:",
+        "text": "Jak spojit tvary se zemí, vodou, vzduchem a ohněm a přivést své záměry do skutečného života."
+      },
+      {
+        "label": "Vidět ji všude:",
+        "text": "Všímat si, jak posvátná geometrie už teď utváří vaše tělo, přírodu i každodenní život, a vědomě s ní pracovat."
+      }
     ],
-    "bookingTitle": "Čtěte jazyk stvoření",
+    "bookingTitle": "Vytvořte si svůj posvátný prostor",
     "duration": "4,5 hodiny",
-    "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
-    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu {brand}."
+    "bookingNote": "Malé skupiny, osobně v Praze. Ozvěte se nám a sdělíme vám další termín.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu {brand}.",
+    "whyHeading": "Proč vytvářet posvátný prostor?",
+    "why": [
+      "Váš domov se stane místem, kde opravdu odpočíváte a nabíráte síly",
+      "Tíha po hádkách, stresu nebo hektických dnech v něm nezůstává",
+      "Meditace, modlitba i soustředění přicházejí snadněji",
+      "Cítíte se chránění i na rušných nebo náročných místech",
+      "Je to základ každé další praxe na cestě"
+    ],
+    "expectHeading": "Co vás čeká",
+    "expect": [
+      "4,5 hodiny v malé, přátelské skupině, osobně v Praze",
+      "Jasná vysvětlení a spousta praxe: všechno si vyzkoušíte sami",
+      "Během workshopu naladění na tři základní tvary",
+      "Nástroje, které můžete začít používat hned ten večer",
+      "První krok série Sacred Geometry, který otevírá cestu k Sacred Geometry II"
+    ],
+    "usesHeading": "Jak ji lidé používají",
+    "uses": [
+      "Pomáhají dítěti klidněji spát tím, že připraví jeho pokoj",
+      "Zůstávají klidní a chránění v náročné práci nebo rušné kanceláři",
+      "Připravují místnost pro klienty, aby se snadněji uvolnili a otevřeli",
+      "Čistí domov po hádce, nemoci nebo stresující návštěvě",
+      "Vytvářejí si tichý koutek pro každodenní meditaci a modlitbu"
+    ],
+    "faq": [
+      {
+        "q": "Je tento workshop pro začátečníky?",
+        "a": "Ano. Je navržený jako první krok: vše jasně vysvětlíme a každý nástroj si společně procvičíme, dokud vám nepřijde přirozený."
+      },
+      {
+        "q": "Co si mám přinést?",
+        "a": "Pohodlné oblečení, zápisník a pero. A také zvědavost: otázky jsou vždy vítány."
+      },
+      {
+        "q": "Odkud tato učení pocházejí?",
+        "a": "Z Modern Mystery School a linie krále Šalomouna, kde se posvátná geometrie předává od učitele k žákovi po tisíce let."
+      },
+      {
+        "q": "Co následuje po Sacred Geometry I?",
+        "a": "Až budete připraveni, <link>Sacred Geometry II: krystalové léčení a ochrana prostoru</link> naváže na to, co se naučíte tady, a série pokračuje Sacred Geometry III a IV.",
+        "href": "/sacred-geometry-2"
+      }
+    ],
+    "galleryHeading": "Jak to vypadá na workshopu",
+    "galleryIntro": "Skutečné chvíle z našich kurzů v Praze: malé skupiny, papír, nůžky a barevné fixy, spousta otázek a dobrá společnost.",
+    "gallery": [
+      "Učíme se spolu v Praze",
+      "Ruční vystřihování tří základních tvarů",
+      "Trojúhelník: jeden ze tří klíčů do nebe",
+      "Radu provází každého krok za krokem",
+      "Společná praxe u oltáře"
+    ],
+    "mastersHeading": "Mistři, kteří ji studovali",
+    "mastersIntro": "Po tisíce let viděli někteří z největších duchů v geometrii skrytý řád života.",
+    "masters": [
+      {
+        "name": "Pythagoras",
+        "era": "6. století př. n. l.",
+        "text": "Ve své vlastní škole mystérií učil, že číslo a tvar jsou skrytým řádem vesmíru."
+      },
+      {
+        "name": "Platón",
+        "era": "4. století př. n. l.",
+        "text": "Podle tradice stálo nad vchodem do jeho Akademie: Nevstupuj, kdo neznáš geometrii."
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "era": "15. století",
+        "text": "Nakreslil Vitruviánského muže, který ukazuje posvátné proporce lidského těla v kruhu a čtverci."
+      },
+      {
+        "name": "Galileo Galilei",
+        "era": "17. století",
+        "text": "Napsal, že kniha přírody je psána jazykem matematiky a jejími písmeny jsou trojúhelníky, kruhy a další obrazce."
+      }
+    ]
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Řada Sacred Geometry · Úroveň II",

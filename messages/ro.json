@@ -747,24 +747,116 @@
     "inquiry": "Bună, aș dori să aflu mai multe despre Lectura Scopului Vieții și a celui de-al 11-lea Codon."
   },
   "SacredGeometryPage": {
-    "heroEyebrow": "Un atelier al Școlii Misterelor",
-    "heroSubtitle": "Limbajul în care este scrisă creația",
-    "heroTagline": "Învață să lucrezi cu elementele fundamentale ale universului",
-    "introLead": "Arhitectura ascunsă a tuturor lucrurilor",
-    "introBody1": "De la spirala unei scoici până la orbita planetelor, aceleași tipare se repetă la fiecare scară a existenței. Geometria sacră este studiul acestor tipare — formele prin care spiritul capătă formă în materie. Pentru inițiații de altădată, nu era nimic mai puțin decât limbajul Divinului.",
-    "introBody2": "În acest atelier vei învăța să recunoști aceste forme, să lucrezi conștient cu ele și să folosești cheile principale ale geometriei sacre pentru a crea un spațiu curat, protejat și sacru — în casa ta, în practica ta și în tine însuți.",
+    "heroEyebrow": "Un atelier de o jumătate de zi la Praga",
+    "heroSubtitle": "Învață limbajul universului și cum să protejezi energia casei tale",
+    "heroTagline": "Cele trei chei ale Cerului: formele din care este construit totul și cum să le folosești în viața de zi cu zi",
+    "introLead": "Spațiile în care trăiești influențează cum te simți",
+    "introBody1": "Probabil ai simțit asta: unele camere te fac calm(ă) și limpede, altele te lasă obosit(ă) sau tensionat(ă). Un spațiu păstrează energia oamenilor și a momentelor pe care le-a văzut, iar această energie te influențează. Geometria sacră îți oferă o cale simplă de a o schimba.",
+    "introBody2": "Acest atelier este pentru oricine vrea folosirea reală, practică a geometriei sacre, nu doar teoria. În 4,5 ore, într-un grup mic, înveți cele trei forme primare, cum să cureți energia negativă din tine și dintr-o cameră și cum să creezi un spațiu sacru: un loc calm și protejat acasă, la muncă sau oriunde mergi. Este aceeași geometrie care i-a inspirat pe Pitagora, Leonardo da Vinci și Tesla.",
     "reserveYourPlace": "Rezervă-ți locul",
-    "learnHeading": "Ce vei învăța",
+    "learnHeading": "Ce vei descoperi",
     "benefits": [
-      { "label": "Formele primare:", "text": "Formele fundamentale ale creației și calitățile pe care le poartă fiecare." },
-      { "label": "Crearea spațiului sacru:", "text": "Folosește cheile geometriei sacre pentru a curăța, proteja și consacra un spațiu." },
-      { "label": "Geometria ca instrument:", "text": "Aplică aceste forme pentru concentrare, meditație, manifestare și vindecare." },
-      { "label": "Trăind tiparul:", "text": "Vezi ordinea din spatele vieții de zi cu zi și aliniază-te cu ea." }
+      {
+        "label": "Cele trei chei ale Cerului:",
+        "text": "Cele trei forme primare din care este construit totul în creație, ce înseamnă fiecare și o acordare care le trezește în corpul și aura ta."
+      },
+      {
+        "label": "Sigilarea și protejarea spațiului:",
+        "text": "Cum să cureți și să sigilezi casa, biroul sau orice cameră, ca energia negativă să nu se adune."
+      },
+      {
+        "label": "Crearea unui spațiu-templu:",
+        "text": "Cum să ridici energia unei camere pentru meditație, vindecare, studiu sau muncă."
+      },
+      {
+        "label": "Geometria și cele patru elemente:",
+        "text": "Cum să combini formele cu pământul, apa, aerul și focul ca să-ți aduci intențiile în viața reală."
+      },
+      {
+        "label": "S-o vezi peste tot:",
+        "text": "Să observi cum geometria sacră îți modelează deja corpul, natura și viața de zi cu zi și să lucrezi conștient cu ea."
+      }
     ],
-    "bookingTitle": "Citește limbajul creației",
+    "bookingTitle": "Creează-ți spațiul sacru",
     "duration": "4,5 ore",
-    "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
-    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul {brand}."
+    "bookingNote": "Grupuri mici, în persoană la Praga. Scrie-ne pentru următoarea dată.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul {brand}.",
+    "whyHeading": "De ce să creezi un spațiu sacru?",
+    "why": [
+      "Casa ta devine un loc în care te odihnești și te reîncarci cu adevărat",
+      "Greutatea lăsată de certuri, stres sau zile aglomerate nu mai rămâne",
+      "Meditația, rugăciunea și concentrarea vin mai ușor",
+      "Te simți protejat(ă), chiar și în locuri aglomerate sau dificile",
+      "Este temelia oricărei alte practici de pe cale"
+    ],
+    "expectHeading": "La ce să te aștepți",
+    "expect": [
+      "4,5 ore într-un grup mic și prietenos, în persoană la Praga",
+      "Explicații clare și multă practică: încerci totul tu însuți (însăți)",
+      "O acordare la cele trei forme primare în timpul atelierului",
+      "Instrumente pe care le poți folosi chiar din aceeași seară",
+      "Primul pas din seria Sacred Geometry, care deschide calea spre Sacred Geometry II"
+    ],
+    "usesHeading": "Cum o folosesc oamenii",
+    "uses": [
+      "Ajută un copil să doarmă mai liniștit pregătindu-i camera",
+      "Rămân calmi și protejați într-un job solicitant sau într-un birou aglomerat",
+      "Pregătesc o cameră pentru clienți, ca aceștia să se relaxeze și să se deschidă mai ușor",
+      "Curăță casa după o ceartă, o boală sau o vizită stresantă",
+      "Își creează un colț liniștit pentru meditația și rugăciunea de zi cu zi"
+    ],
+    "faq": [
+      {
+        "q": "Este acest atelier pentru începători?",
+        "a": "Da. Este gândit ca un prim pas: totul este explicat clar și exersăm împreună fiecare instrument până devine firesc."
+      },
+      {
+        "q": "Ce să aduc?",
+        "a": "Haine comode, un caiet și un pix. Și curiozitatea: întrebările sunt mereu binevenite."
+      },
+      {
+        "q": "De unde vin aceste învățături?",
+        "a": "De la Modern Mystery School și din linia regelui Solomon, unde geometria sacră este transmisă de la profesor la elev de mii de ani."
+      },
+      {
+        "q": "Ce urmează după Sacred Geometry I?",
+        "a": "Când ești pregătit(ă), <link>Sacred Geometry II: vindecarea cu cristale și protecția spațiului</link> continuă ce înveți aici, iar seria merge mai departe cu Sacred Geometry III și IV.",
+        "href": "/sacred-geometry-2"
+      }
+    ],
+    "galleryHeading": "Din atelier",
+    "galleryIntro": "Momente reale din cursurile noastre de la Praga: grupuri mici, hârtie, foarfece și carioci colorate, multe întrebări și companie bună.",
+    "gallery": [
+      "Învățăm împreună la Praga",
+      "Decuparea de mână a celor trei forme primare",
+      "Triunghiul: una dintre cele trei chei ale Cerului",
+      "Radu ghidează pe fiecare pas cu pas",
+      "Practică împreună la altar"
+    ],
+    "mastersHeading": "Maeștrii care au studiat-o",
+    "mastersIntro": "De mii de ani, unele dintre cele mai mari minți au văzut în geometrie ordinea ascunsă a vieții.",
+    "masters": [
+      {
+        "name": "Pitagora",
+        "era": "secolul al VI-lea î.Hr.",
+        "text": "Îi învăța pe elevii din propria școală a misterelor că numărul și forma sunt ordinea ascunsă a universului."
+      },
+      {
+        "name": "Platon",
+        "era": "secolul al IV-lea î.Hr.",
+        "text": "Potrivit tradiției, la intrarea în Academia sa scria: Să nu intre cel care nu cunoaște geometria."
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "era": "secolul al XV-lea",
+        "text": "L-a desenat pe Omul Vitruvian, arătând proporțiile sacre ale corpului uman într-un cerc și un pătrat."
+      },
+      {
+        "name": "Galileo Galilei",
+        "era": "secolul al XVII-lea",
+        "text": "A scris că marea carte a naturii este scrisă în limbajul matematicii, cu litere care sunt triunghiuri, cercuri și alte figuri."
+      }
+    ]
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Seria Sacred Geometry · Nivelul II",

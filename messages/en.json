@@ -786,24 +786,116 @@
     "inquiry": "Hello, I would like to learn more about the Life Purpose & 11th Codon Reading."
   },
   "SacredGeometryPage": {
-    "heroEyebrow": "A Workshop of the Mystery School",
-    "heroSubtitle": "The language in which creation is written",
-    "heroTagline": "Learn to work with the building blocks of the universe",
-    "introLead": "The hidden architecture of all things",
-    "introBody1": "From the spiral of a shell to the orbit of the planets, the same patterns repeat at every scale of existence. Sacred geometry is the study of those patterns — the forms through which spirit takes shape in matter. For the initiates of old, it was nothing less than the language of the Divine.",
-    "introBody2": "In this workshop you learn to recognise these forms, to work with them consciously, and to use the primary keys of sacred geometry to create clear, protected and sacred space — in your home, your practice, and within yourself.",
+    "heroEyebrow": "A half-day workshop in Prague",
+    "heroSubtitle": "Learn the language of the universe, and how to protect the energy of your home",
+    "heroTagline": "The three keys to Heaven: the shapes everything is built from, and how to use them in daily life",
+    "introLead": "The spaces you live in affect how you feel",
+    "introBody1": "You have probably felt it: some rooms make you calm and clear, others leave you tired or tense. A space holds the energy of the people and moments it has seen, and that energy affects you. Sacred geometry gives you a simple way to change it.",
+    "introBody2": "This workshop is for anyone who wants the real, practical use of sacred geometry, not just the theory. In 4.5 hours, in a small group, you learn the three primary shapes, how to clear negative energy from yourself and from a room, and how to create a sacred space: a calm, protected place at home, at work or wherever you go. It's the same geometry that inspired Pythagoras, Leonardo da Vinci and Tesla.",
     "reserveYourPlace": "Reserve Your Place",
-    "learnHeading": "What You Will Learn",
+    "learnHeading": "What You'll Discover",
     "benefits": [
-      { "label": "The primary forms:", "text": "The foundational shapes of creation and the qualities each one carries." },
-      { "label": "Creating sacred space:", "text": "Use the keys of sacred geometry to clear, protect and consecrate a space." },
-      { "label": "Geometry as a tool:", "text": "Apply these forms for focus, meditation, manifestation and healing." },
-      { "label": "Living the pattern:", "text": "See the order beneath everyday life and align yourself with it." }
+      {
+        "label": "The three keys to Heaven:",
+        "text": "The three primary shapes everything in creation is built from, what each one means, and an attunement that awakens them in your body and aura."
+      },
+      {
+        "label": "Sealing and protecting your space:",
+        "text": "How to clear and seal your home, your office or any room, so negative energy doesn't build up."
+      },
+      {
+        "label": "Creating a temple space:",
+        "text": "How to raise the energy of a room for meditation, healing, study or work."
+      },
+      {
+        "label": "Geometry and the four elements:",
+        "text": "How to combine the shapes with earth, water, air and fire to bring your intentions into real life."
+      },
+      {
+        "label": "Seeing it everywhere:",
+        "text": "Noticing how sacred geometry already shapes your body, nature and daily life, and working with it consciously."
+      }
     ],
-    "bookingTitle": "Read the Language of Creation",
+    "bookingTitle": "Create Your Sacred Space",
     "duration": "4.5 Hours",
-    "bookingNote": "Workshops run in small groups. Reach out for the next scheduled date in Prague.",
-    "inquiry": "Hello, I would like to learn more about the {brand} workshop."
+    "bookingNote": "Small groups, in person in Prague. Reach out to us for the next date.",
+    "inquiry": "Hello, I would like to learn more about the {brand} workshop.",
+    "whyHeading": "Why Create a Sacred Space?",
+    "why": [
+      "Your home becomes a place where you truly rest and recharge",
+      "The heaviness left by arguments, stress or busy days doesn't linger",
+      "Meditation, prayer and focus come more easily",
+      "You feel protected, even in busy or difficult places",
+      "It's the foundation for every other practice on the path"
+    ],
+    "expectHeading": "What to Expect",
+    "expect": [
+      "4.5 hours in a small, friendly group, in person in Prague",
+      "Clear explanations and plenty of hands-on practice: you try everything yourself",
+      "An attunement to the three primary shapes during the workshop",
+      "Tools you can start using the same evening",
+      "The first step of the Sacred Geometry series, which opens the door to Sacred Geometry II"
+    ],
+    "usesHeading": "How People Use It",
+    "uses": [
+      "Helping a child sleep more peacefully by preparing their room",
+      "Staying calm and protected in a demanding job or a busy office",
+      "Preparing a room for clients, so they relax and open up more easily",
+      "Clearing the home after an argument, an illness or a stressful visit",
+      "Creating a quiet corner for daily meditation and prayer"
+    ],
+    "faq": [
+      {
+        "q": "Is this workshop for beginners?",
+        "a": "Yes. It's designed as a first step: everything is explained clearly, and we practise each tool together until it feels natural."
+      },
+      {
+        "q": "What should I bring?",
+        "a": "Comfortable clothes, a notebook and a pen. Bring your curiosity, too: questions are always welcome."
+      },
+      {
+        "q": "Where do these teachings come from?",
+        "a": "From the Modern Mystery School and the lineage of King Salomon, where sacred geometry has been taught from teacher to student for thousands of years."
+      },
+      {
+        "q": "What comes after Sacred Geometry I?",
+        "a": "When you're ready, <link>Sacred Geometry II: Crystal Healing & Space Protection</link> builds on what you learn here, and the series continues with Sacred Geometry III and IV.",
+        "href": "/sacred-geometry-2"
+      }
+    ],
+    "galleryHeading": "Inside the Workshop",
+    "galleryIntro": "Real moments from our classes in Prague: small groups, paper, scissors and coloured pens, lots of questions, and good company.",
+    "gallery": [
+      "Learning together in Prague",
+      "Cutting out the three primary shapes by hand",
+      "The triangle: one of the three keys to Heaven",
+      "Radu guiding each person step by step",
+      "Practising together at the altar"
+    ],
+    "mastersHeading": "The Masters Who Studied It",
+    "mastersIntro": "For thousands of years, some of the greatest minds saw geometry as the hidden order of life.",
+    "masters": [
+      {
+        "name": "Pythagoras",
+        "era": "6th century BC",
+        "text": "Taught his students in his own mystery school that number and shape are the hidden order of the universe."
+      },
+      {
+        "name": "Plato",
+        "era": "4th century BC",
+        "text": "According to tradition, the entrance to his Academy read: Let no one ignorant of geometry enter."
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "era": "15th century",
+        "text": "Drew the Vitruvian Man, showing the sacred proportions of the human body in a circle and a square."
+      },
+      {
+        "name": "Galileo Galilei",
+        "era": "17th century",
+        "text": "Wrote that the book of nature is written in the language of mathematics, its letters triangles, circles and other figures."
+      }
+    ]
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "The Sacred Geometry Series · Level II",
