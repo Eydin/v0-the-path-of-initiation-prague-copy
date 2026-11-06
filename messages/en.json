@@ -570,14 +570,14 @@
         "blurb": "Clearing, repairing and protecting your energetic field.",
         "items": [
           { "name": "{brand} Aura Healing", "description": "Clears, balances and seals the seven layers of the aura through the geometry of light." },
-          { "name": "Negative Energy Removal", "description": "Removes energetic blocks and negative patterns from your energy system." },
-          { "name": "Emotional Cord Cutting", "description": "Disconnects draining emotional cords so you stop losing energy to other people." },
+          { "name": "Negative Energy Removal", "description": "Clears negative thoughts, words and intentions others have sent your way, such as jealousy, envy and ill will." },
+          { "name": "Emotional Cord Cutting", "description": "Cuts draining emotional ties to other people, so your energy is your own again." },
           { "name": "Shamanic Aura Clearing", "description": "Shamanic techniques to clear blockages and heavy energies from the auric field." },
           { "name": "Ensofic Reiki", "description": "A single healing session with the Ensofic Ray for your body and nervous system, in Prague or remotely." },
           { "name": "Treating of Negative Habits", "description": "Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "An ancient crystal healing that takes you into deep relaxation and renews body and mind." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune." },
-          { "name": "Soul Retrieval", "description": "Recovers and reintegrates lost fragments of the self into wholeness." },
+          { "name": "Hermetic Soul Retrieval", "description": "Recovers and reintegrates lost fragments of the self into wholeness." },
           { "name": "Spark of Life — Distance Healing", "description": "A remote healing that carries restorative energy to you across any distance." }
         ]
       },
@@ -1299,47 +1299,246 @@
   "SoulRetrieval": {
     "heroEyebrow": "Deep Healing",
     "heroTitle": "Hermetic Soul Retrieval",
-    "heroSubtitle": "Call back the parts of yourself left behind",
-    "heroTagline": "A gentle yet deeply powerful session to restore a sense of wholeness",
-    "introLead": "In moments of overwhelm, parts of us step away to stay safe",
-    "introBody1": "Rooted in the Hermetic lineage of the Modern Mystery School tradition, this session works in your energetic field to locate and gently retrieve the soul parts left behind — parts tied to innocence, creativity, strength, love or vitality.",
-    "introBody2": "Experiences like rejection, abandonment, prolonged stress or limiting relationships can fragment us over time. Bringing these parts home restores presence, clarity and a sense of being fully yourself.",
-    "benefitsHeading": "What You May Experience",
+    "heroSubtitle": "When a part of you feels missing",
+    "heroTagline": "A gentle healing to bring back the joy, energy and spark you lost along the way",
+    "introLead": "Have you ever felt that a piece of you is missing?",
+    "introBody1": "Maybe it started after a loss, a break-up, an accident or a long, exhausting time. You kept going, as we all do, but something changed. Life feels a little flatter. The joy, the creativity or the spark you used to have seem far away.",
+    "introBody2": "In the Mystery School tradition we understand this as a part of the soul that stepped away to stay safe when things became too much. Hermetic Soul Retrieval gently finds these parts and brings them home, so you can feel whole again. You don't need to relive or talk through painful memories for it to work.",
+    "signsHeading": "Signs a Part of You May Be Missing",
+    "signs": [
+      "You feel numb or flat, as if you were watching life from a distance",
+      "Since a certain event, you haven't quite felt like yourself",
+      "Joy, creativity or passion seem out of reach",
+      "There is an emptiness you can't explain",
+      "You keep coming back to the same old pain"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "We talk about how you have been feeling and what you would like to come back into your life."
+      },
+      {
+        "label": "The retrieval:",
+        "text": "You simply relax while the practitioner works in your energy to find the parts of you that are ready to return, and gently guides them back."
+      },
+      {
+        "label": "Coming home:",
+        "text": "The returning parts are settled back in, so they can stay with you. We take our time: the whole session lasts about two and a half hours."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
     "benefits": [
-      "Deep peace and inner release",
-      "Remembrance of forgotten parts of yourself",
-      "Feeling more whole and integrated",
-      "Renewed clarity, presence and direction",
-      "A subtle return to your natural state"
+      "A deep sense of peace",
+      "Feeling more whole, more present, more you",
+      "Joy, creativity and energy coming back",
+      "Clarity about where you are going",
+      "Remembering parts of yourself you had forgotten"
     ],
     "who": [
-      "Feeling numb, disconnected or not fully present",
-      "Working through emotional pain, trauma, burnout, loss or addiction",
-      "Living through constant stress or a major life transition",
-      "Experiencing a creative block, emptiness or a sense of fragmentation",
-      "Walking a self-discovery or self-mastery path"
+      "You feel numb, disconnected or not quite here",
+      "You are carrying grief, trauma, burnout, a break-up or an addiction",
+      "You have been under stress for a long time, or your life has changed a lot",
+      "You feel creatively blocked or empty inside",
+      "You are on a path of self-discovery and want to feel whole"
+    ],
+    "afterHeading": "After the Session",
+    "after": [
+      "Keep the rest of the day quiet and gentle",
+      "Drink plenty of water and rest",
+      "Write down any feelings, memories or dreams that come up",
+      "As parts return, old feelings may surface for a few days. Let them come and go: it is part of coming home"
     ],
     "faq": [
       {
-        "q": "What is soul retrieval?",
-        "a": "A practice that gently locates and retrieves the fragmented parts of the self that were left behind in moments of overwhelm, and guides their reintegration."
-      },
-      {
-        "q": "How does the session work?",
-        "a": "Within the 2.5-hour session, we work in your energetic field, locate the parts of your soul that are ready to return and guide them back to you, helping them reintegrate."
-      },
-      {
         "q": "Is it safe?",
-        "a": "Yes. It is a gentle, supportive process — you do not need to relive or discuss painful events for it to work."
+        "a": "Yes. It is a gentle, supportive process: you do not need to relive or discuss painful events for it to work."
       },
       {
-        "q": "What are the benefits?",
-        "a": "Peace, emotional reconnection, a sense of wholeness and renewed clarity."
+        "q": "How long does it take and what does it cost?",
+        "a": "About two and a half hours, including the consultation and the integration, for 6.150 CZK."
+      },
+      {
+        "q": "Why is it called Hermetic?",
+        "a": "It comes from the Hermetic teachings preserved in the lineage of the Modern Mystery School."
       }
     ],
+    "bookingTitle": "Come Home to Yourself",
     "duration": "2.5 Hours",
     "bookingNote": "One-to-one, in person in Prague (Vršovice). After you reach out, we will contact you personally to arrange your appointment.",
     "inquiry": "Hello, I would like to learn more about the Hermetic Soul Retrieval."
+  },
+  "EmotionalCordCutting": {
+    "heroEyebrow": "Energy Clearing",
+    "heroTitle": "Emotional Cord Cutting",
+    "heroSubtitle": "When someone still lives in your thoughts, and it costs you energy",
+    "heroTagline": "A gentle ritual to let go of old ties, so you can feel like yourself again",
+    "introLead": "When life feels heavy, sometimes the first step is simply to let go",
+    "introBody1": "Every person we love, argue with or miss leaves a trace in us. We call these traces energetic cords. Most of them are harmless. But some keep pulling at you long after the relationship or the moment is over: you replay old conversations, you come home tired after seeing certain people, or a name alone is enough to unsettle you.",
+    "introBody2": "In this session we gently cut those draining ties and clear what they left behind. It doesn't erase love or end a relationship. It simply gives your energy back to you, so you can meet the people in your life from a lighter, freer place.",
+    "signsHeading": "Signs of an Unhealthy Cord",
+    "signs": [
+      "You keep thinking about someone, even when you'd rather not",
+      "You come home tired after seeing certain people",
+      "You feel stuck, as if you can't quite move on",
+      "Hearing a particular name still makes your stomach tighten",
+      "You've lost your spark and catch yourself reaching for comfort habits",
+      "You soak up other people's moods without meaning to"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "We take a few minutes to understand what is going on for you and what you are ready to let go of. You only share what feels comfortable."
+      },
+      {
+        "label": "The cutting:",
+        "text": "You stand comfortably, take a few deep breaths and let your body relax. The practitioner cuts the cords with a ritual tool of light; they are absorbed into burning incense and released."
+      },
+      {
+        "label": "Cleansing:",
+        "text": "Your energy is gently cleansed and brought back into balance with sage, holy water and sacred mantras."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can notice how you feel: often lighter, calmer and clearer."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "A real sense of relief, as if a weight has lifted",
+      "A quieter, clearer mind",
+      "Deeper, more restful sleep",
+      "Feeling able to say no, kindly and firmly",
+      "More energy for your own life",
+      "Hope, and the feeling of a fresh start"
+    ],
+    "who": [
+      "You are leaving, or have left, a relationship that hurt you",
+      "Saying no and keeping your boundaries is hard for you",
+      "Certain people leave you drained, or you absorb their feelings easily",
+      "The same pattern keeps repeating with one particular person",
+      "You have been through trauma or an abusive relationship and want to close that chapter"
+    ],
+    "afterHeading": "After the Session",
+    "after": [
+      "Take a warm salt bath that evening: it helps you cleanse and ground",
+      "Light a candle, take a few deep breaths and set an intention for what you'd like to welcome next",
+      "Be gentle with yourself: rest, write, meditate or spend time in nature",
+      "Over the next few days old feelings or memories may come up. That is normal: it is part of letting go"
+    ],
+    "faq": [
+      {
+        "q": "Will it end my relationship?",
+        "a": "No. It cuts the unhealthy, draining part of the connection, not the love. Many people find their relationships become lighter and healthier afterwards."
+      },
+      {
+        "q": "Do I need to talk about painful events?",
+        "a": "Only as much as you want. A short conversation about what you want to release is enough."
+      },
+      {
+        "q": "How long does it take and what does it cost?",
+        "a": "About one hour, 3.669 CZK, including the consultation, the cord cutting and the purification."
+      },
+      {
+        "q": "Can I combine it with Negative Energy Removal?",
+        "a": "Yes. The two work together and are often done in the same visit; each is priced on its own. <link>Read about Negative Energy Removal</link>.",
+        "href": "/negative-energy-removal"
+      }
+    ],
+    "relatedHeading": "Clear what others send your way",
+    "relatedBody": "Negative Energy Removal clears negative thoughts, words and intentions others have directed at you. It works beautifully together with cord cutting.",
+    "relatedCta": "Explore Negative Energy Removal",
+    "bookingTitle": "Cut the Cords",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). The price includes the consultation and all procedures. After you reach out, we will contact you personally to arrange your appointment.",
+    "inquiry": "Hello, I am interested in Emotional Cord Cutting."
+  },
+  "NegativeEnergyRemoval": {
+    "heroEyebrow": "Energy Clearing",
+    "heroTitle": "Negative Energy Removal",
+    "heroSubtitle": "When other people's negativity weighs on you",
+    "heroTagline": "A clearing that returns you to stillness when life feels heavy or unclear",
+    "introLead": "Have you ever felt heavy after being around someone, without knowing why?",
+    "introBody1": "Words and thoughts carry energy. When someone envies you, resents you or wishes you harm, even if they never say it out loud, you can feel it. It can sit on you like a grey cloud: your thoughts get foggy, things stop flowing, you sleep badly and you start doubting yourself.",
+    "introBody2": "In this session we clear these negative thoughts, words and intentions from your energy, whether they came from one person or built up quietly over the years. Most people leave feeling lighter, clearer and more like themselves again.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You feel drained around certain people or in busy places",
+      "Your thinking feels foggy, or there is a restlessness that won't pass",
+      "Your mood is low or heavy for no clear reason",
+      "You find it hard to sleep, or wake up tired",
+      "You know someone close to you is jealous of you, or harsh words still play on your mind",
+      "You feel tension in your chest or head that comes and goes with certain people or places"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us what you have been going through and what you would like to clear. You only share what feels comfortable."
+      },
+      {
+        "label": "The clearing:",
+        "text": "The practitioner performs the ritual that lifts the negative thoughts, words and intentions from your energy. All you need to do is relax and breathe."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Clarity: your thoughts settle and your head feels clear again",
+      "A lighter mood",
+      "Better sleep and focus",
+      "Feeling grounded and calm in your body",
+      "Other people's moods and opinions affect you less",
+      "Things start to move and flow again"
+    ],
+    "who": [
+      "You feel someone's jealousy or anger is aimed at you",
+      "You have been through a conflict, a break-up or a tough workplace",
+      "You work with many people and come home carrying their energy",
+      "You feel stuck and want a fresh start"
+    ],
+    "afterHeading": "After the Session",
+    "after": [
+      "Take a warm salt bath that evening: it helps clear what is left and ground your body",
+      "Rest, and take a few slow, deep breaths whenever you think of it",
+      "In the next days, waves of emotion or sudden clarity may come. Both are a good sign: let them pass through",
+      "Notice how much lighter people and situations feel around you"
+    ],
+    "faq": [
+      {
+        "q": "Is it the same as Emotional Cord Cutting?",
+        "a": "No. Cord cutting releases the ties between you and others; Negative Energy Removal clears what others have sent towards you. They work well together and are often done in the same visit. <link>Read about Emotional Cord Cutting</link>.",
+        "href": "/emotional-cord-cutting"
+      },
+      {
+        "q": "Do I need to know who sent the negativity?",
+        "a": "Not at all. Often we only feel the heaviness without knowing where it comes from. The clearing works either way."
+      },
+      {
+        "q": "How long does it take and what does it cost?",
+        "a": "About one hour, 3.669 CZK, including the consultation and all procedures."
+      }
+    ],
+    "relatedHeading": "Free yourself from old ties",
+    "relatedBody": "Emotional Cord Cutting releases draining emotional ties to other people. Together with Negative Energy Removal it gives your energy a full clean-up.",
+    "relatedCta": "Explore Emotional Cord Cutting",
+    "bookingTitle": "Clear and Renew",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). The price includes the consultation and all procedures. After you reach out, we will contact you personally to arrange your appointment.",
+    "inquiry": "Hello, I am interested in Negative Energy Removal.",
+    "toolsHeading": "Simple Tools for Everyday Clearing",
+    "tools": [
+      "A salt bath once a week, to wash off the week",
+      "A few minutes of quiet meditation or deep breathing each morning",
+      "Time in nature: a walk in the park, by the river or in the woods",
+      "Burning a little sage at home, and opening the windows to let fresh air in",
+      "Keeping a black tourmaline or clear quartz crystal near your desk",
+      "Noticing who and what drains you, and giving yourself permission to step back"
+    ]
   },
   "EnsoficReiki": {
     "heroEyebrow": "Energy Healing",

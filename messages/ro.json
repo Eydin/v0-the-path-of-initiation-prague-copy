@@ -531,14 +531,14 @@
         "blurb": "Curățarea, repararea și protejarea câmpului tău energetic.",
         "items": [
           { "name": "Vindecare Aurică {brand}", "description": "Curăță, echilibrează și sigilează cele șapte straturi ale aurei prin geometria luminii." },
-          { "name": "Eliminarea energiei negative", "description": "Elimină blocajele energetice și tiparele negative din sistemul tău energetic." },
-          { "name": "Tăierea cordoanelor emoționale", "description": "Deconectează cordoanele emoționale epuizante, ca să nu-ți mai pierzi energia către alte persoane." },
+          { "name": "Eliminarea energiei negative", "description": "Curăță gândurile, cuvintele și intențiile negative pe care alții ți le-au trimis, cum ar fi gelozia, invidia și reaua-voință." },
+          { "name": "Tăierea cordoanelor emoționale", "description": "Taie legăturile emoționale care te secătuiesc, ca energia ta să fie din nou a ta." },
           { "name": "Curățare șamanică a aurei", "description": "Tehnici șamanice pentru eliminarea blocajelor și a energiilor grele din câmpul auric." },
           { "name": "Ensofic Reiki", "description": "O ședință individuală de vindecare cu Raza Ensofică pentru corpul și sistemul tău nervos, la Praga sau la distanță." },
           { "name": "Tratarea obiceiurilor negative", "description": "Folosește raza Ensofică pentru a te ajuta să eliberezi tiparele sau obiceiurile negative pe care le repeți în viața ta." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "O vindecare străveche cu cristale care te duce într-o relaxare profundă și reînnoiește trupul și mintea." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "O vindecare cu cristale și cântări sacre care vindecă răni vechi și noi și deschide calea norocului." },
-          { "name": "Recuperarea sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
+          { "name": "Recuperarea hermetică a sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
           { "name": "Scânteia vieții — vindecare la distanță", "description": "O vindecare la distanță care îți aduce energie restauratoare de la orice distanță." }
         ]
       },
@@ -1260,47 +1260,246 @@
   "SoulRetrieval": {
     "heroEyebrow": "Vindecare profundă",
     "heroTitle": "Recuperarea hermetică a sufletului",
-    "heroSubtitle": "Cheamă înapoi părțile din tine care au rămas în urmă",
-    "heroTagline": "O sesiune blândă, dar profund puternică, care readuce sentimentul de întregime",
-    "introLead": "În clipele de copleșire, părți din noi se retrag pentru a rămâne în siguranță",
-    "introBody1": "Înrădăcinată în linia hermetică a tradiției Modern Mystery School, această sesiune lucrează în câmpul tău energetic pentru a găsi și a readuce cu blândețe părțile de suflet lăsate în urmă — părți legate de inocență, creativitate, forță, iubire sau vitalitate.",
-    "introBody2": "Experiențe precum respingerea, abandonul, stresul prelungit sau relațiile limitative ne pot fragmenta în timp. Aducerea acestor părți acasă restabilește prezența, claritatea și sentimentul de a fi pe deplin tu însuți.",
-    "benefitsHeading": "Ce poți simți",
+    "heroSubtitle": "Când simți că o parte din tine lipsește",
+    "heroTagline": "O vindecare blândă care îți aduce înapoi bucuria, energia și scânteia pe care le-ai pierdut pe drum",
+    "introLead": "Ai simțit vreodată că îți lipsește o bucată din tine?",
+    "introBody1": "Poate a început după o pierdere, o despărțire, un accident sau o perioadă lungă și epuizantă. Ai mers mai departe, cum facem toți, dar ceva s-a schimbat. Viața pare puțin mai ștearsă. Bucuria, creativitatea sau scânteia pe care o aveai par departe.",
+    "introBody2": "În tradiția Mystery School înțelegem asta ca pe o parte a sufletului care s-a retras ca să rămână în siguranță atunci când a fost prea mult. Recuperarea hermetică a sufletului găsește cu blândețe aceste părți și le aduce acasă, ca să te simți din nou întreg(întreagă). Ca să funcționeze, nu trebuie să retrăiești sau să vorbești despre amintirile dureroase.",
+    "signsHeading": "Semne că o parte din tine ar putea lipsi",
+    "signs": [
+      "Te simți amorțit(ă) sau gol(goală), ca și cum ai privi viața de la distanță",
+      "De la un anumit eveniment nu te mai simți cu adevărat tu",
+      "Bucuria, creativitatea sau pasiunea par de neatins",
+      "Există în tine un gol pe care nu-l poți explica",
+      "Te tot întorci la aceeași durere veche"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Vorbim despre cum te-ai simțit și ce ai vrea să se întoarcă în viața ta."
+      },
+      {
+        "label": "Recuperarea:",
+        "text": "Tu doar te relaxezi, în timp ce practicianul lucrează în energia ta, găsește părțile din tine pregătite să se întoarcă și le călăuzește înapoi cu blândețe."
+      },
+      {
+        "label": "Întoarcerea acasă:",
+        "text": "Părțile care se întorc sunt așezate din nou în tine, ca să poată rămâne. Nu ne grăbim: întreaga ședință durează cam două ore și jumătate."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
     "benefits": [
-      "Pace profundă și eliberare interioară",
-      "Reamintirea părților uitate din tine",
-      "Sentimentul de a fi mai întreg și mai integrat",
-      "Claritate, prezență și direcție reînnoite",
-      "O întoarcere subtilă la starea ta naturală"
+      "Un sentiment profund de pace",
+      "Te simți mai întreg(întreagă), mai prezent(ă), mai tu",
+      "Bucuria, creativitatea și energia revin",
+      "Claritate despre direcția în care mergi",
+      "Îți amintești părți din tine pe care le uitaseși"
     ],
     "who": [
-      "Te simți amorțit, deconectat sau nu pe deplin prezent",
-      "Treci prin durere emoțională, traumă, epuizare, pierdere sau dependență",
-      "Trăiești sub stres constant sau o mare tranziție în viață",
-      "Te confrunți cu un blocaj creativ, un gol sau un sentiment de fragmentare",
-      "Mergi pe un drum al descoperirii de sine sau al stăpânirii de sine"
+      "Te simți amorțit(ă), deconectat(ă) sau nu chiar aici",
+      "Porți în tine doliu, traumă, epuizare, o despărțire sau o dependență",
+      "Trăiești de mult timp sub stres sau viața ți s-a schimbat mult",
+      "Te simți blocat(ă) creativ sau gol(goală) pe dinăuntru",
+      "Ești pe un drum al autocunoașterii și vrei să te simți întreg(întreagă)"
+    ],
+    "afterHeading": "După ședință",
+    "after": [
+      "Păstrează restul zilei liniștit și blând",
+      "Bea multă apă și odihnește-te",
+      "Notează sentimentele, amintirile sau visele care apar",
+      "Pe măsură ce părțile se întorc, câteva zile pot ieși la suprafață sentimente vechi. Lasă-le să vină și să plece: face parte din întoarcerea acasă"
     ],
     "faq": [
       {
-        "q": "Ce este recuperarea sufletului?",
-        "a": "O practică ce găsește și readuce cu blândețe părțile fragmentate ale sinelui, rămase în urmă în clipe de copleșire, și îndrumă reintegrarea lor."
-      },
-      {
-        "q": "Cum decurge sesiunea?",
-        "a": "În cele 2,5 ore lucrăm în câmpul tău energetic, găsim părțile sufletului tău care sunt gata să se întoarcă și le călăuzim înapoi la tine, ajutându-le să se reintegreze."
-      },
-      {
         "q": "Este sigur?",
-        "a": "Da. Este un proces blând, de sprijin — nu trebuie să retrăiești sau să discuți evenimente dureroase pentru ca el să funcționeze."
+        "a": "Da. Este un proces blând și susținător: ca să funcționeze, nu trebuie să retrăiești sau să vorbești despre evenimentele dureroase."
       },
       {
-        "q": "Care sunt beneficiile?",
-        "a": "Pace, reconectare emoțională, sentimentul de întregime și claritate reînnoită."
+        "q": "Cât durează și cât costă?",
+        "a": "Aproximativ două ore și jumătate, inclusiv consultația și integrarea, pentru 6.150 CZK."
+      },
+      {
+        "q": "De ce se numește hermetică?",
+        "a": "Provine din învățăturile hermetice păstrate în linia Modern Mystery School."
       }
     ],
+    "bookingTitle": "Întoarce-te la tine",
     "duration": "2,5 ore",
     "bookingNote": "Individual, în persoană la Praga (Vršovice). După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Recuperarea hermetică a sufletului."
+  },
+  "EmotionalCordCutting": {
+    "heroEyebrow": "Curățare energetică",
+    "heroTitle": "Tăierea cordoanelor emoționale",
+    "heroSubtitle": "Când cineva încă îți trăiește în gânduri și asta te costă energie",
+    "heroTagline": "Un ritual blând prin care lași să plece legăturile vechi, ca să te simți din nou tu",
+    "introLead": "Când viața pare grea, uneori primul pas este pur și simplu să lași să plece",
+    "introBody1": "Fiecare om pe care îl iubim, cu care ne certăm sau care ne lipsește lasă o urmă în noi. Aceste urme le numim cordoane energetice. Cele mai multe sunt inofensive. Unele însă te trag înapoi mult după ce relația sau momentul s-au încheiat: îți tot derulezi conversații vechi, vii acasă obosit(ă) după ce vezi anumite persoane sau doar un nume e de ajuns ca să te tulbure.",
+    "introBody2": "În această ședință tăiem cu blândețe aceste legături care te secătuiesc și curățăm ce au lăsat în urmă. Nu șterge iubirea și nu încheie o relație. Doar îți dă înapoi energia, ca să te poți întâlni cu oamenii din viața ta dintr-un loc mai ușor și mai liber.",
+    "signsHeading": "Semnele unui cordon nesănătos",
+    "signs": [
+      "Te tot gândești la cineva, chiar dacă ai prefera să nu",
+      "Vii acasă obosit(ă) după ce te vezi cu anumite persoane",
+      "Te simți blocat(ă), ca și cum n-ai putea merge mai departe",
+      "Când auzi un anumit nume, încă ți se strânge stomacul",
+      "Ți-ai pierdut scânteia și te surprinzi apelând la obiceiuri de consolare",
+      "Preiei stările celorlalți fără să vrei"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne luăm câteva minute să înțelegem prin ce treci și ce ești pregătit(ă) să lași să plece. Împărtășești doar ce te face să te simți confortabil."
+      },
+      {
+        "label": "Tăierea:",
+        "text": "Stai în picioare, comod, respiri adânc de câteva ori și îți lași corpul să se relaxeze. Practicianul taie cordoanele cu un instrument ritual al luminii; ele sunt absorbite în tămâia care arde și eliberate."
+      },
+      {
+        "label": "Curățarea:",
+        "text": "Energia ta este curățată cu blândețe și readusă în echilibru cu salvie, apă sfințită și mantre sacre."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți observa cum te simți: adesea mai ușor(ă), mai calm(ă) și mai limpede."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "O ușurare adevărată, ca și cum ți s-ar fi luat o greutate de pe umeri",
+      "O minte mai liniștită și mai limpede",
+      "Un somn mai profund și mai odihnitor",
+      "Poți spune nu, cu blândețe și fermitate",
+      "Mai multă energie pentru propria viață",
+      "Speranță și sentimentul unui nou început"
+    ],
+    "who": [
+      "Ieși sau ai ieșit dintr-o relație care te-a rănit",
+      "Îți este greu să spui nu și să-ți păstrezi limitele",
+      "Anumite persoane te secătuiesc sau le preiei ușor sentimentele",
+      "Același tipar se tot repetă cu o anumită persoană",
+      "Ai trecut printr-o traumă sau o relație abuzivă și vrei să închizi acel capitol"
+    ],
+    "afterHeading": "După ședință",
+    "after": [
+      "Fă o baie caldă cu sare în seara aceea: te ajută să te curăți și să te ancorezi",
+      "Aprinde o lumânare, respiră adânc de câteva ori și stabilește o intenție pentru ce vrei să primești în continuare",
+      "Fii blând(ă) cu tine: odihnește-te, scrie, meditează sau petrece timp în natură",
+      "În zilele următoare pot ieși la suprafață sentimente sau amintiri vechi. Este normal: face parte din eliberare"
+    ],
+    "faq": [
+      {
+        "q": "Îmi va încheia relația?",
+        "a": "Nu. Taie partea nesănătoasă, care te secătuiește, a legăturii, nu iubirea. Mulți oameni descoperă că relațiile lor devin apoi mai ușoare și mai sănătoase."
+      },
+      {
+        "q": "Trebuie să vorbesc despre evenimente dureroase?",
+        "a": "Doar cât vrei tu. Este suficientă o scurtă discuție despre ce vrei să eliberezi."
+      },
+      {
+        "q": "Cât durează și cât costă?",
+        "a": "Aproximativ o oră, 3.669 CZK, inclusiv consultația, tăierea cordoanelor și purificarea."
+      },
+      {
+        "q": "O pot combina cu eliminarea energiei negative?",
+        "a": "Da. Cele două lucrează împreună și se fac adesea în aceeași vizită; fiecare are prețul ei. <link>Citește despre eliminarea energiei negative</link>.",
+        "href": "/negative-energy-removal"
+      }
+    ],
+    "relatedHeading": "Curăță ce îți trimit ceilalți",
+    "relatedBody": "Eliminarea energiei negative curăță gândurile, cuvintele și intențiile negative pe care alții le-au îndreptat spre tine. Se potrivește minunat cu tăierea cordoanelor.",
+    "relatedCta": "Descoperă eliminarea energiei negative",
+    "bookingTitle": "Taie cordoanele",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Prețul include consultația și toate procedurile. După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "inquiry": "Bună, sunt interesat(ă) de tăierea cordoanelor emoționale."
+  },
+  "NegativeEnergyRemoval": {
+    "heroEyebrow": "Curățare energetică",
+    "heroTitle": "Eliminarea energiei negative",
+    "heroSubtitle": "Când negativitatea celorlalți te apasă",
+    "heroTagline": "O curățare care te readuce la liniște atunci când viața pare grea sau neclară",
+    "introLead": "Te-ai simțit vreodată greu după ce ai stat cu cineva, fără să știi de ce?",
+    "introBody1": "Cuvintele și gândurile poartă energie. Când cineva te invidiază, îți poartă pică sau îți dorește răul, chiar dacă nu o spune niciodată cu voce tare, poți simți asta. Poate sta pe tine ca un nor cenușiu: gândurile ți se încețoșează, lucrurile nu mai curg, dormi prost și începi să te îndoiești de tine.",
+    "introBody2": "În această ședință curățăm aceste gânduri, cuvinte și intenții negative din energia ta, fie că au venit de la o singură persoană, fie că s-au adunat în tăcere de-a lungul anilor. Cei mai mulți oameni pleacă mai ușori, mai limpezi și din nou mai aproape de ei înșiși.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Te simți secătuit(ă) lângă anumite persoane sau în locuri aglomerate",
+      "Gândurile îți sunt încețoșate sau te ține o neliniște care nu trece",
+      "Ai o stare apăsătoare sau tristă fără un motiv clar",
+      "Adormi greu sau te trezești obosit(ă)",
+      "Știi că cineva apropiat este gelos pe tine sau cuvinte dure încă îți răsună în minte",
+      "Simți o tensiune în piept sau în cap care vine și pleacă odată cu anumite persoane sau locuri"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui prin ce ai trecut și ce ai vrea să cureți. Împărtășești doar ce te face să te simți confortabil."
+      },
+      {
+        "label": "Curățarea:",
+        "text": "Practicianul face ritualul care ridică gândurile, cuvintele și intențiile negative din energia ta. Tu doar te relaxezi și respiri."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Claritate: gândurile se așază și mintea îți este din nou limpede",
+      "O stare mai ușoară",
+      "Somn și concentrare mai bune",
+      "Te simți ancorat(ă) și liniștit(ă) în corp",
+      "Stările și părerile altora te afectează mai puțin",
+      "Lucrurile încep din nou să se miște și să curgă"
+    ],
+    "who": [
+      "Simți că gelozia sau furia cuiva este îndreptată spre tine",
+      "Ai trecut printr-un conflict, o despărțire sau un loc de muncă dificil",
+      "Lucrezi cu mulți oameni și vii acasă purtându-le energia",
+      "Te simți blocat(ă) și vrei un nou început"
+    ],
+    "afterHeading": "După ședință",
+    "after": [
+      "Fă o baie caldă cu sare în seara aceea: ajută la curățarea a ce a rămas și îți ancorează corpul",
+      "Odihnește-te și, ori de câte ori îți amintești, respiră lent și adânc de câteva ori",
+      "În zilele următoare pot veni valuri de emoții sau o claritate bruscă. Amândouă sunt un semn bun: lasă-le să treacă",
+      "Observă cât de ușor se simt oamenii și situațiile din jur"
+    ],
+    "faq": [
+      {
+        "q": "Este același lucru cu tăierea cordoanelor emoționale?",
+        "a": "Nu. Tăierea cordoanelor eliberează legăturile dintre tine și ceilalți; eliminarea energiei negative curăță ce ți-au trimis alții. Lucrează bine împreună și se fac adesea în aceeași vizită. <link>Citește despre tăierea cordoanelor emoționale</link>.",
+        "href": "/emotional-cord-cutting"
+      },
+      {
+        "q": "Trebuie să știu cine a trimis negativitatea?",
+        "a": "Deloc. Adesea simțim doar greutatea, fără să știm de unde vine. Curățarea funcționează oricum."
+      },
+      {
+        "q": "Cât durează și cât costă?",
+        "a": "Aproximativ o oră, 3.669 CZK, inclusiv consultația și toate procedurile."
+      }
+    ],
+    "relatedHeading": "Eliberează-te de legăturile vechi",
+    "relatedBody": "Tăierea cordoanelor emoționale eliberează legăturile emoționale care te secătuiesc. Împreună cu eliminarea energiei negative, oferă energiei tale o curățare completă.",
+    "relatedCta": "Descoperă tăierea cordoanelor emoționale",
+    "bookingTitle": "Curățare și reînnoire",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Prețul include consultația și toate procedurile. După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "inquiry": "Bună, sunt interesat(ă) de eliminarea energiei negative.",
+    "toolsHeading": "Instrumente simple pentru curățarea de zi cu zi",
+    "tools": [
+      "O baie cu sare o dată pe săptămână, ca să speli săptămâna de pe tine",
+      "Câteva minute de meditație liniștită sau respirație adâncă în fiecare dimineață",
+      "Timp în natură: o plimbare prin parc, pe malul râului sau prin pădure",
+      "Puțină salvie aprinsă acasă și ferestrele deschise, ca să intre aer proaspăt",
+      "Un turmalin negru sau un cristal de cuarț lângă birou",
+      "Să observi cine și ce te secătuiește și să-ți dai voie să faci un pas înapoi"
+    ]
   },
   "EnsoficReiki": {
     "heroEyebrow": "Vindecare energetică",

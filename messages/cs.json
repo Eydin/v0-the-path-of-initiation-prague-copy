@@ -531,14 +531,14 @@
         "blurb": "Čištění, oprava a ochrana vašeho energetického pole.",
         "items": [
           { "name": "{brand} — léčení aury", "description": "Čistí, vyvažuje a zapečeťuje sedm vrstev aury prostřednictvím geometrie světla." },
-          { "name": "Odstranění negativní energie", "description": "Odstraňuje energetické bloky a negativní vzorce z vašeho energetického systému." },
-          { "name": "Přeříznutí emočních pout", "description": "Odpojuje vysilující emoční pouta, abyste přestali ztrácet energii ve prospěch druhých." },
+          { "name": "Odstranění negativní energie", "description": "Čistí negativní myšlenky, slova a záměry, které vám poslali druzí, jako je žárlivost, závist a zlá vůle." },
+          { "name": "Přeříznutí emočních pout", "description": "Přetíná vyčerpávající emoční pouta k druhým lidem, aby vaše energie patřila znovu vám." },
           { "name": "Šamanské čištění aury", "description": "Šamanské techniky k odstranění blokád a těžkých energií z aurického pole." },
           { "name": "Ensofic Reiki", "description": "Jednotlivé léčebné sezení s paprskem Ensof pro vaše tělo a nervový systém, v Praze nebo na dálku." },
           { "name": "Léčení negativních návyků", "description": "Využívá paprsek Ensof, aby vám pomohl pustit negativní vzorce nebo návyky, které ve svém životě stále opakujete." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "Starobylé léčení krystaly, které vás uvede do hlubokého uvolnění a obnoví tělo i mysl." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "Léčení krystaly a posvátnými zpěvy, které uzdravuje staré i nové rány a otevírá cestu štěstí." },
-          { "name": "Návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
+          { "name": "Hermetický návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
           { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." }
         ]
       },
@@ -1260,47 +1260,246 @@
   "SoulRetrieval": {
     "heroEyebrow": "Hluboké léčení",
     "heroTitle": "Hermetický návrat duše",
-    "heroSubtitle": "Zavolejte zpět části sebe, které zůstaly pozadu",
-    "heroTagline": "Jemná, a přesto hluboce silná seance, která obnovuje pocit celistvosti",
-    "introLead": "V okamžicích přemožení se části nás stahují stranou, aby byly v bezpečí",
-    "introBody1": "Tato seance vychází z hermetické linie tradice Modern Mystery School a pracuje ve vašem energetickém poli. Nalézá a jemně přivádí zpět části duše, které zůstaly pozadu — části spojené s nevinností, tvořivostí, silou, láskou nebo vitalitou.",
-    "introBody2": "Zkušenosti jako odmítnutí, opuštění, dlouhodobý stres nebo svazující vztahy nás mohou postupem času roztříštit. Návrat těchto částí domů obnovuje přítomnost, jasnost a pocit, že jste plně sami sebou.",
-    "benefitsHeading": "Co můžete zažít",
+    "heroSubtitle": "Když máte pocit, že vám chybí část sebe",
+    "heroTagline": "Jemné léčení, které vám vrátí radost, energii a jiskru, jež jste cestou ztratili",
+    "introLead": "Měli jste někdy pocit, že vám chybí kousek sebe?",
+    "introBody1": "Možná to začalo po ztrátě, rozchodu, nehodě nebo dlouhém vyčerpávajícím období. Šli jste dál, jako my všichni, ale něco se změnilo. Život je o něco plošší. Radost, tvořivost nebo jiskra, kterou jste mívali, jsou najednou daleko.",
+    "introBody2": "V tradici Mystery School tomu rozumíme tak, že část duše odešla, aby zůstala v bezpečí, když toho bylo příliš. Hermetický návrat duše tyto části jemně najde a přivede je domů, abyste se znovu cítili celiství. Aby to fungovalo, nemusíte bolestné vzpomínky znovu prožívat ani o nich mluvit.",
+    "signsHeading": "Známky, že vám může chybět část sebe",
+    "signs": [
+      "Cítíte se otupělí nebo prázdní, jako byste se na život dívali z dálky",
+      "Od určité události se necítíte úplně sami sebou",
+      "Radost, tvořivost nebo vášeň se zdají nedosažitelné",
+      "Je ve vás prázdnota, kterou nedokážete vysvětlit",
+      "Pořád se vracíte ke stejné staré bolesti"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Mluvíme o tom, jak se cítíte a co by se vám mělo vrátit do života."
+      },
+      {
+        "label": "Návrat:",
+        "text": "Vy se jen uvolníte, zatímco praktik pracuje ve vaší energii, najde části vás, které jsou připravené se vrátit, a jemně je provede zpět."
+      },
+      {
+        "label": "Návrat domů:",
+        "text": "Vracející se části se ve vás usadí, aby s vámi mohly zůstat. Nespěcháme: celé sezení trvá asi dvě a půl hodiny."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
     "benefits": [
-      "Hluboký mír a vnitřní uvolnění",
-      "Rozpomenutí se na zapomenuté části sebe",
-      "Pocit větší celistvosti a integrace",
-      "Obnovenou jasnost, přítomnost a směr",
-      "Jemný návrat do vašeho přirozeného stavu"
+      "Hluboký pocit klidu",
+      "Pocit větší celistvosti a přítomnosti, víc sebe",
+      "Radost, tvořivost a energie se vracejí",
+      "Jasno v tom, kam směřujete",
+      "Vzpomínky na části sebe, na které jste zapomněli"
     ],
     "who": [
-      "Cítíte se otupělí, odpojení nebo ne zcela přítomní",
-      "Procházíte emoční bolestí, traumatem, vyhořením, ztrátou nebo závislostí",
-      "Žijete v neustálém stresu nebo ve velké životní změně",
-      "Zažíváte tvůrčí blok, prázdnotu nebo pocit roztříštěnosti",
-      "Jdete cestou sebepoznání nebo mistrovství sebe sama"
+      "Cítíte se otupělí, odpojení nebo ne úplně tady",
+      "Nesete v sobě zármutek, trauma, vyhoření, rozchod nebo závislost",
+      "Dlouho žijete ve stresu nebo se vám hodně změnil život",
+      "Cítíte tvůrčí blok nebo vnitřní prázdnotu",
+      "Jste na cestě sebepoznání a chcete se cítit celiství"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Zbytek dne si nechte klidný a jemný",
+      "Pijte hodně vody a odpočívejte",
+      "Zapisujte si pocity, vzpomínky nebo sny, které se objeví",
+      "Jak se části vracejí, mohou několik dní vystupovat staré pocity. Nechte je přijít a odejít: patří to k návratu domů"
     ],
     "faq": [
       {
-        "q": "Co je návrat duše?",
-        "a": "Praxe, která jemně nalézá a přivádí zpět roztříštěné části já, jež zůstaly pozadu v okamžicích přemožení, a provází jejich znovuzačlenění."
-      },
-      {
-        "q": "Jak seance probíhá?",
-        "a": "Během 2,5hodinové seance pracujeme ve vašem energetickém poli, nalézáme části vaší duše, které jsou připravené se vrátit, a provázíme je zpět k vám a pomáháme jim znovu se začlenit."
-      },
-      {
         "q": "Je to bezpečné?",
-        "a": "Ano. Je to jemný, podpůrný proces — nemusíte znovu prožívat ani rozebírat bolestné události, aby fungoval."
+        "a": "Ano. Je to jemný, podpůrný proces: aby fungoval, nemusíte bolestné události znovu prožívat ani o nich mluvit."
       },
       {
-        "q": "Jaké jsou přínosy?",
-        "a": "Mír, emoční znovupropojení, pocit celistvosti a obnovená jasnost."
+        "q": "Jak dlouho to trvá a kolik to stojí?",
+        "a": "Asi dvě a půl hodiny, včetně konzultace a integrace, za 6.150 CZK."
+      },
+      {
+        "q": "Proč se jmenuje hermetický?",
+        "a": "Vychází z hermetického učení uchovaného v linii Modern Mystery School."
       }
     ],
+    "bookingTitle": "Vraťte se k sobě",
     "duration": "2,5 hodiny",
     "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
-    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Hermetickém návratu duše."
+    "inquiry": "Dobrý den, rád/a bych se dozvěděl/a více o hermetickém návratu duše."
+  },
+  "EmotionalCordCutting": {
+    "heroEyebrow": "Energetické čištění",
+    "heroTitle": "Přeříznutí emočních pout",
+    "heroSubtitle": "Když na někoho pořád myslíte a stojí vás to energii",
+    "heroTagline": "Jemný rituál, jak pustit stará pouta a znovu se cítit sami sebou",
+    "introLead": "Když je život těžký, prvním krokem bývá prostě pustit",
+    "introBody1": "Každý, koho milujeme, s kým se hádáme nebo kdo nám chybí, v nás zanechá stopu. Těmto stopám říkáme energetická pouta. Většina z nich je neškodná. Některá vás ale táhnou zpátky dlouho poté, co vztah nebo chvíle skončily: přehráváte si staré rozhovory, po setkání s určitými lidmi přicházíte domů unavení, nebo vás rozhodí už jen něčí jméno.",
+    "introBody2": "V tomto sezení tato vyčerpávající pouta jemně přetneme a vyčistíme to, co po nich zůstalo. Nemaže to lásku ani neukončuje vztah. Jen vám to vrátí vaši energii, abyste se s lidmi ve svém životě mohli setkávat lehčí a svobodnější.",
+    "signsHeading": "Známky nezdravého pouta",
+    "signs": [
+      "Pořád myslíte na někoho, i když byste raději nemysleli",
+      "Po setkání s určitými lidmi přicházíte domů unavení",
+      "Cítíte se zaseknutí, jako byste nemohli jít dál",
+      "Při určitém jménu se vám pořád sevře žaludek",
+      "Ztratili jste jiskru a přistihujete se, že sáháte po utěšujících zvycích",
+      "Nasáváte nálady druhých, aniž byste chtěli"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Uděláme si pár minut, abychom pochopili, co prožíváte a co jste připraveni pustit. Sdílíte jen to, co je vám příjemné."
+      },
+      {
+        "label": "Přeříznutí:",
+        "text": "Pohodlně stojíte, párkrát se zhluboka nadechnete a necháte tělo uvolnit. Praktik přetne pouta rituálním nástrojem světla; pohltí je hořící kadidlo a uvolní se."
+      },
+      {
+        "label": "Očištění:",
+        "text": "Vaše energie se jemně očistí a vrátí do rovnováhy šalvějí, svěcenou vodou a posvátnými mantrami."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste si mohli všimnout, jak se cítíte: často lehčí, klidnější a jasnější."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Skutečná úleva, jako by z vás spadla tíha",
+      "Klidnější a jasnější mysl",
+      "Hlubší a osvěžující spánek",
+      "Dokážete říct ne, laskavě a pevně",
+      "Více energie pro vlastní život",
+      "Naděje a pocit nového začátku"
+    ],
+    "who": [
+      "Odcházíte nebo jste odešli ze vztahu, který vás zraňoval",
+      "Je pro vás těžké říct ne a udržet si hranice",
+      "Někteří lidé vás vyčerpávají nebo snadno přebíráte jejich pocity",
+      "S jedním konkrétním člověkem se pořád opakuje stejný vzorec",
+      "Prošli jste traumatem nebo násilným vztahem a chcete tu kapitolu uzavřít"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Večer si dopřejte teplou koupel se solí: pomůže vám očistit se a uzemnit",
+      "Zapalte svíčku, párkrát se zhluboka nadechněte a nastavte si záměr, co chcete přivítat",
+      "Buďte k sobě jemní: odpočívejte, pište, meditujte nebo jděte do přírody",
+      "V dalších dnech se mohou vynořit staré pocity nebo vzpomínky. Je to normální: patří to k pouštění"
+    ],
+    "faq": [
+      {
+        "q": "Ukončí to můj vztah?",
+        "a": "Ne. Přetne nezdravou, vyčerpávající část spojení, ne lásku. Mnoho lidí zjistí, že jejich vztahy jsou poté lehčí a zdravější."
+      },
+      {
+        "q": "Musím mluvit o bolestných událostech?",
+        "a": "Jen tolik, kolik sami chcete. Stačí krátký rozhovor o tom, co chcete pustit."
+      },
+      {
+        "q": "Jak dlouho to trvá a kolik to stojí?",
+        "a": "Asi hodinu, 3.669 CZK, včetně konzultace, přeříznutí pout a očištění."
+      },
+      {
+        "q": "Mohu ho spojit s odstraněním negativní energie?",
+        "a": "Ano. Obě sezení spolu dobře fungují a často se dělají během jedné návštěvy; každé má svou cenu. <link>Přečtěte si o odstranění negativní energie</link>.",
+        "href": "/negative-energy-removal"
+      }
+    ],
+    "relatedHeading": "Vyčistěte to, co vám posílají druzí",
+    "relatedBody": "Odstranění negativní energie čistí negativní myšlenky, slova a záměry, které na vás druzí směřovali. Krásně funguje spolu s přeříznutím pout.",
+    "relatedCta": "Prozkoumat odstranění negativní energie",
+    "bookingTitle": "Přetněte pouta",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Cena zahrnuje konzultaci a všechny procedury. Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Dobrý den, mám zájem o přeříznutí emočních pout."
+  },
+  "NegativeEnergyRemoval": {
+    "heroEyebrow": "Energetické čištění",
+    "heroTitle": "Odstranění negativní energie",
+    "heroSubtitle": "Když na vás doléhá negativita druhých",
+    "heroTagline": "Očista, která vás vrátí do klidu, když je život těžký nebo nejasný",
+    "introLead": "Cítili jste se někdy těžce po setkání s někým, aniž byste věděli proč?",
+    "introBody1": "Slova a myšlenky nesou energii. Když vám někdo závidí, zazlívá vám něco nebo vám přeje zlé, i když to nikdy neřekne nahlas, můžete to cítit. Může to na vás ležet jako šedý mrak: myšlenky se zamlží, věci přestanou plynout, špatně spíte a začnete o sobě pochybovat.",
+    "introBody2": "V tomto sezení tyto negativní myšlenky, slova a záměry z vaší energie vyčistíme, ať přišly od jednoho člověka, nebo se tiše nahromadily za léta. Většina lidí odchází lehčí, jasnější a znovu víc sama sebou.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "V blízkosti určitých lidí nebo na rušných místech se cítíte vyčerpaní",
+      "Myšlení máte zamlžené nebo vás drží neklid, který neodchází",
+      "Bez jasného důvodu máte smutnou nebo těžkou náladu",
+      "Těžko usínáte nebo se budíte unavení",
+      "Víte, že na vás někdo blízký žárlí, nebo vám v hlavě pořád znějí tvrdá slova",
+      "Cítíte napětí v hrudi nebo v hlavě, které přichází a odchází s určitými lidmi nebo místy"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, čím procházíte a co byste chtěli vyčistit. Sdílíte jen to, co je vám příjemné."
+      },
+      {
+        "label": "Vyčištění:",
+        "text": "Praktik provede rituál, který z vaší energie sejme negativní myšlenky, slova a záměry. Vy se jen uvolníte a dýcháte."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Jasnost: myšlenky se usadí a hlava je zase čistá",
+      "Lehčí nálada",
+      "Lepší spánek a soustředění",
+      "Pocit uzemnění a klidu v těle",
+      "Nálady a názory druhých vás ovlivňují méně",
+      "Věci se znovu pohnou a plynou"
+    ],
+    "who": [
+      "Máte pocit, že na vás míří něčí žárlivost nebo hněv",
+      "Prošli jste konfliktem, rozchodem nebo náročným pracovištěm",
+      "Pracujete s mnoha lidmi a domů si nosíte jejich energii",
+      "Cítíte se zaseknutí a chcete začít nanovo"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Večer si dopřejte teplou koupel se solí: pomůže vyčistit, co zbylo, a uzemnit tělo",
+      "Odpočívejte a kdykoli si vzpomenete, párkrát se pomalu a zhluboka nadechněte",
+      "V dalších dnech mohou přijít vlny emocí nebo náhlá jasnost. Obojí je dobré znamení: nechte je projít",
+      "Všímejte si, o kolik lehčí jsou lidé a situace kolem vás"
+    ],
+    "faq": [
+      {
+        "q": "Je to totéž jako přeříznutí emočních pout?",
+        "a": "Ne. Přeříznutí pout uvolňuje vazby mezi vámi a druhými; odstranění negativní energie čistí to, co druzí poslali směrem k vám. Spolu dobře fungují a často se dělají během jedné návštěvy. <link>Přečtěte si o přeříznutí emočních pout</link>.",
+        "href": "/emotional-cord-cutting"
+      },
+      {
+        "q": "Musím vědět, kdo negativitu poslal?",
+        "a": "Vůbec ne. Často cítíme jen tíhu a nevíme, odkud přichází. Očista funguje tak jako tak."
+      },
+      {
+        "q": "Jak dlouho to trvá a kolik to stojí?",
+        "a": "Asi hodinu, 3.669 CZK, včetně konzultace a všech procedur."
+      }
+    ],
+    "relatedHeading": "Osvoboďte se od starých pout",
+    "relatedBody": "Přeříznutí emočních pout uvolňuje vyčerpávající emoční vazby k druhým lidem. Spolu s odstraněním negativní energie dopřeje vaší energii úplné vyčištění.",
+    "relatedCta": "Prozkoumat přeříznutí emočních pout",
+    "bookingTitle": "Očista a obnova",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Cena zahrnuje konzultaci a všechny procedury. Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Dobrý den, mám zájem o odstranění negativní energie.",
+    "toolsHeading": "Jednoduché nástroje pro každodenní očistu",
+    "tools": [
+      "Jednou týdně koupel se solí, která smyje celý týden",
+      "Pár minut tiché meditace nebo hlubokého dýchání každé ráno",
+      "Čas v přírodě: procházka v parku, u řeky nebo v lese",
+      "Trocha zapálené šalvěje doma a otevřená okna, aby dovnitř proudil čerstvý vzduch",
+      "Černý turmalín nebo křišťál na pracovním stole",
+      "Všímat si, kdo a co vás vyčerpává, a dovolit si udělat krok zpět"
+    ]
   },
   "EnsoficReiki": {
     "heroEyebrow": "Energetické léčení",

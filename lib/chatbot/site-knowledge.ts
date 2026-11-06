@@ -226,6 +226,9 @@ Amethyst geode · photo by Calvin Chai, Unsplash
 3.669 CZK
 /sacred-rites-healing
 
+## PAGE: /emotional-cord-cutting
+center 40%
+
 ## PAGE: /empower-thyself
 Radu Coman
 https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
@@ -421,9 +424,9 @@ Aura & Energy Healings
 Clearing, repairing and protecting your energetic field.
 Clears, balances and seals the seven layers of the aura through the geometry of light.
 Negative Energy Removal
-Removes energetic blocks and negative patterns from your energy system.
+Clears negative thoughts, words and intentions others have sent your way, such as jealousy, envy and ill will.
 Emotional Cord Cutting
-Disconnects draining emotional cords so you stop losing energy to other people.
+Cuts draining emotional ties to other people, so your energy is your own again.
 Shamanic Aura Clearing
 Shamanic techniques to clear blockages and heavy energies from the auric field.
 Ensofic Reiki
@@ -434,7 +437,7 @@ Sacred Geometry Ancient Crystal Healing
 An ancient crystal healing that takes you into deep relaxation and renews body and mind.
 Sacred Geometry Sacred Rites Healing
 A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune.
-Soul Retrieval
+Hermetic Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
 A remote healing that carries restorative energy to you across any distance.
@@ -859,9 +862,9 @@ Aura & Energy Healings
 Clearing, repairing and protecting your energetic field.
 Clears, balances and seals the seven layers of the aura through the geometry of light.
 Negative Energy Removal
-Removes energetic blocks and negative patterns from your energy system.
+Clears negative thoughts, words and intentions others have sent your way, such as jealousy, envy and ill will.
 Emotional Cord Cutting
-Disconnects draining emotional cords so you stop losing energy to other people.
+Cuts draining emotional ties to other people, so your energy is your own again.
 Shamanic Aura Clearing
 Shamanic techniques to clear blockages and heavy energies from the auric field.
 Ensofic Reiki
@@ -872,7 +875,7 @@ Sacred Geometry Ancient Crystal Healing
 An ancient crystal healing that takes you into deep relaxation and renews body and mind.
 Sacred Geometry Sacred Rites Healing
 A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune.
-Soul Retrieval
+Hermetic Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
 A remote healing that carries restorative energy to you across any distance.
@@ -898,6 +901,9 @@ Tree of Life Awakening
 Awakens your connection to the Tree of Life and expands consciousness.
 Chakra Awakening
 Awakens and harmonises the body's seven energy centres.
+
+## PAGE: /negative-energy-removal
+center 40%
 
 ## PAGE: /
 Know thyself, and thou shalt know
@@ -1120,6 +1126,7 @@ Hello, I would like to learn more about the 7 Mystery Schools workshop.
 
 ## PAGE: /soul-retrieval
 center 30%
+Ascent of the Blessed · Hieronymus Bosch
 6.150 CZK
 
 ## PAGE: /spark-of-life
@@ -1872,10 +1879,12 @@ https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
 /full-spirit-activation
 4.800 CZK
 /aura-healing
+3.669 CZK
+/negative-energy-removal
+/emotional-cord-cutting
 4.900 CZK
 /ensofic-reiki
 /treating-negative-habits
-3.669 CZK
 /crystal-healing
 /sacred-rites-healing
 6.150 CZK

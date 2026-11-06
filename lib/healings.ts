@@ -41,6 +41,8 @@ export async function getHealingGroups(locale?: string) {
     ...(i === 0
       ? { price: "4.800 CZK", bookHref: AURA_HEALING_STRIPE, detailsHref: "/aura-healing" }
       : {}),
+    ...(i === 1 ? { price: "3.669 CZK", detailsHref: "/negative-energy-removal" } : {}),
+    ...(i === 2 ? { price: "3.669 CZK", detailsHref: "/emotional-cord-cutting" } : {}),
     ...(i === 4 ? { price: "4.900 CZK", detailsHref: "/ensofic-reiki" } : {}),
     ...(i === 5 ? { price: "4.900 CZK", detailsHref: "/treating-negative-habits" } : {}),
     ...(i === 6 ? { price: "3.669 CZK", detailsHref: "/crystal-healing" } : {}),

@@ -53,6 +53,9 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
 
   const benefits = (t.raw("benefits") as string[]).map((text) => ({ text }))
   const who = has("who") ? (t.raw("who") as string[]).map((text) => ({ text })) : []
+  const signs = has("signs") ? (t.raw("signs") as string[]).map((text) => ({ text })) : []
+  const after = has("after") ? (t.raw("after") as string[]).map((text) => ({ text })) : []
+  const tools = has("tools") ? (t.raw("tools") as string[]).map((text) => ({ text })) : []
   const protocol = has("protocol") ? (t.raw("protocol") as { label: string; text: string }[]) : []
   const faq = has("faq") ? (t.raw("faq") as FaqItem[]) : []
   const options = has("options")
@@ -128,6 +131,14 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         </Panel>
       )}
 
+      {/* optional "signs you may need it" list */}
+      {signs.length > 0 && (
+        <Panel>
+          <PanelHeading>{t("signsHeading")}</PanelHeading>
+          <BenefitList items={signs} />
+        </Panel>
+      )}
+
       {protocol.length > 0 && (
         <Panel>
           <PanelHeading>{t("protocolHeading")}</PanelHeading>
@@ -144,6 +155,22 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         <Panel>
           <PanelHeading>{tShared("whoHeading")}</PanelHeading>
           <BenefitList items={who} />
+        </Panel>
+      )}
+
+      {/* optional after-care */}
+      {after.length > 0 && (
+        <Panel>
+          <PanelHeading>{t("afterHeading")}</PanelHeading>
+          <BenefitList items={after} />
+        </Panel>
+      )}
+
+      {/* optional simple practices to keep up at home */}
+      {tools.length > 0 && (
+        <Panel>
+          <PanelHeading>{t("toolsHeading")}</PanelHeading>
+          <BenefitList items={tools} />
         </Panel>
       )}
 

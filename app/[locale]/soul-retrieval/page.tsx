@@ -5,6 +5,7 @@ const config = {
   namespace: "SoulRetrieval",
   bg: "ascent-blessed-bosch.jpg",
   position: "center 30%",
+  heroCaption: "Ascent of the Blessed · Hieronymus Bosch",
   investment: "6.150 CZK",
 }
 
