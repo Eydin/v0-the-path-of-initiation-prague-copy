@@ -67,17 +67,40 @@
     "seeFullCalendar": "Vezi calendarul complet"
   },
   "CalendarWidget": {
-    "heading": "Ai dori să participi la un curs sau la un atelier?",
-    "body": "Descoperă evenimentele noastre viitoare",
-    "button": "Vezi Calendarul"
+    "eyebrow": "În Praga",
+    "heading": "Săptămâna aceasta în Praga",
+    "headingNext": "În curând în Praga",
+    "body": "{count, plural, one {Săptămâna aceasta are loc un lucru frumos. Vino alături de noi!} few {Săptămâna aceasta au loc # lucruri frumoase. Alege unul și vino!} other {Săptămâna aceasta au loc # de lucruri frumoase. Alege unul și vino!}}",
+    "bodyNext": "E o săptămână liniștită la noi, așa că iată ce urmează. Notează-ți data!",
+    "weekLabel": "Următoarele șapte zile",
+    "today": "Azi",
+    "vibe": {
+      "Activation": "Trezește darurile cu care te-ai născut",
+      "Initiation": "Pășește printr-o ușă spre un nou capitol",
+      "Workshop": "Învață ceva minunat într-un grup mic și prietenos",
+      "Community": "Ceai, companie bună și o seară liniștită împreună"
+    },
+    "join": "Vino",
+    "empty": "Date noi sunt pe drum. Uită-te în calendar sau scrie-ne!",
+    "button": "Vezi tot calendarul",
+    "footnote": "Nu știi ce ți se potrivește? Întreabă-ne, ne plac întrebările."
   },
   "Facts": {
-    "intro": "Vrei să devii inițiat al misterelor? Atunci citește mai departe.",
+    "intro": "Ești curios(curioasă) unde te poate duce această cale? Iată ce au descoperit alții.",
     "heading": "Un legat care vorbește de la sine",
     "stats": [
-      { "number": "3.000+", "label": "Ani de linie neîntreruptă" },
-      { "number": "55", "label": "Țări din întreaga lume" },
-      { "number": "44.000+", "label": "Inițiați în întreaga lume" }
+      {
+        "number": "3.000+",
+        "label": "Ani de linie neîntreruptă"
+      },
+      {
+        "number": "55",
+        "label": "Țări din întreaga lume"
+      },
+      {
+        "number": "44.000+",
+        "label": "Inițiați în întreaga lume"
+      }
     ],
     "videosHeading": "Urmărește călătoria studenților și profesorilor noștri",
     "wallOfLove": "Zidul iubirii",
@@ -97,53 +120,53 @@
     ]
   },
   "Pillars": {
-    "eyebrow": "Fundația",
-    "heading": "Cei patru piloni ai transformării",
-    "intro": "Fiecare pilon se construiește pe cel anterior, creând un sistem complet de evoluție spirituală care a rezistat testului timpului.",
+    "eyebrow": "Cum funcționează calea",
+    "heading": "Patru pași care se construiesc unul pe altul",
+    "intro": "Nu trebuie să faci totul deodată. Fiecare pas este complet în sine și te pregătește pentru următorul.",
     "items": [
       {
         "title": "Activare",
-        "description": "Trezește-ți ADN-ul și restabilește-ți legătura cu Spiritul tău. Această lucrare începe cu Life Activation și continuă prin Full Spirit Activation."
+        "description": "Trezește darurile cu care te-ai născut. Totul începe cu Life Activation, o ședință individuală, și poate continua cu Full Spirit Activation."
       },
       {
         "title": "Inițiere",
-        "description": "Purifică și pregătește vasul pentru a primi Lumina pură a Spiritului și a o manifesta fără distorsiune în plan fizic — calea deschisă de Empower Thyself."
+        "description": "Învață să-ți cureți și să-ți protejezi energia și să-ți iei viața în mâini. Începe cu Empower Thyself, un curs de două zile."
       },
       {
-        "title": "Studiază și Învață",
-        "description": "Stăpânind artele și științele Sacred Geometry, Astral Travel, Kabbalah și multe altele, devii stăpânul propriei tale vieți fizice."
+        "title": "Studiu",
+        "description": "Descoperă geometria sacră, călătoria astrală, Kabbala și multe altele în cursuri mici și prietenoase și folosește zilnic ce înveți."
       },
       {
         "title": "Slujirea celorlalți",
-        "description": "Viața nu este completă și nu o poți înțelege pe deplin decât dacă te străduiești și să fii de folos celorlalți. Ghidând, vindecând, învățând și sprijinind în general pe alții în nevoile lor, devii versiunea deplină a ta însuți."
+        "description": "Împărtășește ce ai învățat: ajută, vindecă și sprijină oamenii din jurul tău. Aici calea devine cu adevărat a ta."
       }
     ]
   },
   "Teaser": {
-    "eyebrow": "Angajament față de măreție",
-    "heading": "Acesta nu este un atelier de weekend",
-    "body1": "Să fim clari: Calea Inițierii este un program de pregătire riguros. Implică luni de studiu dedicat, practică constantă și un angajament neclintit față de propria transformare. Nu este un seminar ocazional și nici un retreat de tip «feel-good».",
-    "body2": "Acesta este un <emphasis>angajament sacru</emphasis> de a deveni cea mai bună versiune a ta — de a debloca puteri despre a căror existență majoritatea oamenilor nu vor ști niciodată și de a păși într-o linie spirituală care a modelat cursul istoriei umane.",
-    "expectedHeading": "Ce se așteaptă de la tine",
+    "eyebrow": "O cale, nu o soluție rapidă",
+    "heading": "Schimbare reală, în ritmul tău",
+    "body1": "Calea inițierii se desfășoară de-a lungul lunilor, nu într-un weekend. Înveți instrumente practice, le folosești în viața de zi cu zi și crești pas cu pas, alături de noi și de o comunitate caldă.",
+    "body2": "Nu trebuie să fii special(ă) sau să ai totul lămurit. Dacă ești <emphasis>curios(curioasă) și dispus(ă) să exersezi</emphasis>, ești pregătit(ă) să începi.",
+    "expectedHeading": "Tot ce trebuie să aduci",
     "expectations": [
       {
-        "title": "O minte deschisă",
-        "description": "Dorința de a explora perspective noi și de a-ți pune la îndoială presupunerile actuale."
+        "title": "Curiozitate",
+        "description": "O minte deschisă și dorința de a vedea lucrurile într-un fel nou."
       },
       {
-        "title": "Practica zilnică",
-        "description": "Aplicarea constantă a instrumentelor și tehnicilor în viața de zi cu zi."
+        "title": "Puțină practică",
+        "description": "Câteva minute pe zi cu instrumentele pe care le înveți. Acolo se produce schimbarea."
       },
       {
-        "title": "Angajamentul față de auto-stăpânire",
-        "description": "O dorință autentică de a te înțelege pe tine însuți, de a-ți dezvolta potențialul și de a-ți asuma responsabilitatea pentru propria evoluție."
+        "title": "Dorința de a crește",
+        "description": "Dorința de a te înțelege mai bine și de a-ți lua viața în propriile mâini."
       },
       {
-        "title": "Spiritul de slujire",
-        "description": "Dorința de a-ți folosi creșterea și dezvoltarea pentru a te înălța pe tine și pentru a contribui pozitiv la viețile celorlalți."
+        "title": "O inimă bună",
+        "description": "Bucuria de a împărtăși cu oamenii din jur ceea ce devii."
       }
     ],
-    "expectedClosing": "Aceasta este călătoria ta, investiția ta și responsabilitatea ta. Faci această muncă pentru propria evoluție și pentru viața pe care alegi să o creezi. Nimeni nu o poate face în locul tău."
+    "expectedClosing": "Este călătoria ta și nu o vei face niciodată singur(ă): suntem aici să te ghidăm, iar comunitatea este aici să te susțină."
   },
   "CTA": {
     "eyebrow": "Invitația ta",
@@ -164,25 +187,76 @@
     "dianaQuote": "Există o diferență între a auzi că ceva este posibil și a-l trăi tu însuți. Cea de-a doua schimbă totul."
   },
   "Classes": {
-    "eyebrow": "Evenimente viitoare",
-    "heading": "Cursuri viitoare în Praga",
-    "intro": "Fiecare curs este o treaptă pe Calea Inițierii. Începe cu Life Activation și avansează prin curriculumul sacru.",
+    "eyebrow": "Învață cu noi",
+    "heading": "Cursuri în Praga",
+    "intro": "Grupuri mici și prietenoase în care înveți instrumente reale pentru viața de zi cu zi. Cei mai mulți încep cu Life Activation.",
     "items": [
       {
-        "description": "Trezește-ți planul divin și aprinde întregul potențial codificat în ADN-ul tău. Aceasta este sesiunea fundamentală a liniei școlii misterelor.",
-        "tag": "Fundație"
+        "description": "O ședință individuală care trezește darurile cu care te-ai născut. Mulți oameni se simt apoi mai ușori, mai limpezi și mai aproape de ei înșiși. Este primul pas pe cale.",
+        "tag": "Începe aici",
+        "meta": "Aproximativ 2 ore · individual · în persoană la Praga"
       },
       {
-        "description": "Un program de inițiere de 2 zile în care primești instrumentele și învățăturile sacre pentru a prelua controlul asupra vieții tale și a păși pe cale ca Inițiat.",
-        "tag": "Inițiere"
+        "description": "Două zile într-un grup mic în care înveți să-ți cureți și să-ți protejezi energia, să recunoști tiparele care îți conduc viața și să le schimbi și să-ți creezi acasă un spațiu sacru.",
+        "tag": "Inițiere",
+        "meta": "2 zile · grup mic · în persoană la Praga"
       },
       {
-        "title": "Vezi calendarul complet",
-        "description": "Studiază tiparele divine care stau la baza întregii creații, cum să călătorești astral, să comunici cu sinele tău superior și multe altele.",
-        "tag": "Studiu avansat"
+        "title": "Vezi tot calendarul",
+        "description": "Geometrie sacră, călătorie astrală, dialog cu sinele tău superior și multe altele. Cursuri practice la care te poți alătura pas cu pas, în ritmul tău.",
+        "tag": "Învață mai departe",
+        "meta": "Cursuri de o jumătate de zi și de weekend · grupuri mici"
       }
     ],
     "learnMore": "Află mai multe"
+  },
+  "LookingFor": {
+    "eyebrow": "Poate ai nevoie de asta",
+    "heading": "Ce cauți?",
+    "intro": "Atinge ce simți că e adevărat pentru tine acum și îți arătăm de unde e bine să începi.",
+    "tryLabel": "Încearcă",
+    "tiles": {
+      "stressed": {
+        "feel": "Sunt stresat(ă) și nu mă pot deconecta",
+        "try": "Max Meditation"
+      },
+      "drained": {
+        "feel": "Anumiți oameni îmi consumă energia",
+        "try": "Tăierea cordoanelor emoționale"
+      },
+      "stuck": {
+        "feel": "Repet mereu aceleași tipare vechi",
+        "try": "Tratarea obiceiurilor negative"
+      },
+      "body": {
+        "feel": "Corpul meu are nevoie de alinare și vindecare",
+        "try": "Ensofic Reiki"
+      },
+      "missing": {
+        "feel": "Simt că îmi lipsește ceva",
+        "try": "Recuperarea hermetică a sufletului"
+      },
+      "gifts": {
+        "feel": "Vreau să-mi descopăr darurile",
+        "try": "Life Activation"
+      },
+      "learn": {
+        "feel": "Mereu mi-am dorit să învăț asta",
+        "try": "Empower Thyself"
+      },
+      "people": {
+        "feel": "Mi-ar plăcea să cunosc oameni buni, cu aceleași valori",
+        "try": "Serile comunității"
+      }
+    },
+    "unsure": "Încă nu știi?",
+    "unsureLink": "Scrie-ne și te ajutăm să alegi.",
+    "unsureMessage": "Bună, nu știu de unde să încep. Mă puteți ajuta să aleg?"
+  },
+  "Welcome": {
+    "heading": "Bună, suntem Diana și Radu",
+    "body": "Te primim în persoană, la Praga, ne luăm timp să te ascultăm și te ghidăm prin fiecare pas. Fie că vii pentru o vindecare, un curs sau o seară liniștită cu comunitatea, nu vei fi singur(ă).",
+    "link": "Cunoaște-ne"
   },
   "FAQ": {
     "eyebrow": "Înainte să începi",
@@ -212,14 +286,23 @@
   },
   "Ending": {
     "eyebrow": "Unde se întâlnesc toate lumile",
-    "heading": "Punte între vechi, universal și modern",
+    "heading": "Înțelepciune străveche pentru viața modernă",
     "cards": [
-      { "title": "Înțelepciunea antică", "subtitle": "Temple, preoți și ritualuri sacre" },
-      { "title": "Știința universală", "subtitle": "Cunoaștere galactică și lumină" },
-      { "title": "Inițiatul modern", "subtitle": "Bărbați și femei împuterniciți" }
+      {
+        "title": "Înțelepciunea antică",
+        "subtitle": "Temple, preoți și ritualuri sacre"
+      },
+      {
+        "title": "Știința universală",
+        "subtitle": "Cunoaștere galactică și lumină"
+      },
+      {
+        "title": "Inițiatul modern",
+        "subtitle": "Bărbați și femei împuterniciți"
+      }
     ],
-    "body1": "Această cale unește <emphasis>înțelepciunea antică</emphasis> a școlilor misterelor cu <emphasis>știința galactică universală</emphasis> care a ghidat civilizațiile de-a lungul cosmosului.",
-    "body2": "Rezultatul este un sistem viu de cunoaștere, profund aplicabil <emphasis>bărbaților și femeilor din zilele noastre</emphasis> care sunt pregătiți să se trezească, să se transforme și să conducă."
+    "body1": "Ceea ce predăm vine din <emphasis>școlile antice ale misterelor</emphasis> și din <emphasis>știința universală</emphasis> pe care au păstrat-o și este surprinzător de practic pentru viața de azi.",
+    "body2": "Este pentru <emphasis>bărbații și femeile moderne</emphasis> care vor să se simtă mai bine, să se înțeleagă pe ei înșiși și să trăiască cu mai mult sens și bucurie."
   },
   "HallOfInitiates": {
     "eyebrow": "Sala Inițiaților",
@@ -502,7 +585,11 @@
     "inquire": "Întreabă",
     "inquiryTemplate": "Bună, aș dori să întreb despre vindecarea {name}.",
     "bookNow": "Rezervă acum",
-    "details": "Vezi detalii"
+    "details": "Vezi detalii",
+    "formatInPerson": "În persoană · Praga",
+    "formatBoth": "În persoană sau la distanță",
+    "formatRemote": "Vindecare la distanță",
+    "formatOnline": "În persoană sau online"
   },
   "Healings": {
     "heroEyebrow": "În linia regelui Solomon",
@@ -1255,7 +1342,10 @@
     "faqEyebrow": "Întrebări",
     "faqHeading": "Întrebări frecvente",
     "whoHeading": "Pentru cine este",
-    "disclaimer": "Această lucrare nu înlocuiește niciun tratament medical prescris de medicul tău. Este oferită ca sprijin energetic și spiritual complementar, alături de îngrijirea ta medicală."
+    "disclaimer": "Această lucrare nu înlocuiește niciun tratament medical prescris de medicul tău. Este oferită ca sprijin energetic și spiritual complementar, alături de îngrijirea ta medicală.",
+    "hostsEyebrow": "Vei fi în mâini bune",
+    "hostsHeading": "Diana și Radu Coman",
+    "hostsBody": "Suntem practicieni și profesori certificați ai Modern Mystery School. Oricare dintre noi te-ar întâmpina, ne luăm timp să te ascultăm, să-ți răspundem la întrebări și să te ghidăm cu blândețe prin fiecare pas."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Vindecare profundă",

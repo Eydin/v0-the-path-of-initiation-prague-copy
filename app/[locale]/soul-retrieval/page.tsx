@@ -5,7 +5,9 @@ const config = {
   namespace: "SoulRetrieval",
   bg: "ascent-blessed-bosch.jpg",
   position: "center 30%",
-  heroCaption: "Ascent of the Blessed · Hieronymus Bosch",
+  heroImage: "sunlight-misty-trees.jpg",
+  heroPosition: "40% 55%",
+  heroCaption: "Morning light · photo by Andrew Tom, Unsplash",
   investment: "6.150 CZK",
 }
 

@@ -5,6 +5,9 @@ const config = {
   namespace: "NegativeHabits",
   bg: "ancient-of-days-blake.jpg",
   position: "center 30%",
+  heroImage: "path-into-sunrise.jpg",
+  heroPosition: "50% 35%",
+  heroCaption: "A path into the sunrise · photo by Dave Hoefler, Unsplash",
   investment: "4.900 CZK",
 }
 

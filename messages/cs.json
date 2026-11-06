@@ -67,17 +67,40 @@
     "seeFullCalendar": "Zobrazit celý kalendář"
   },
   "CalendarWidget": {
-    "heading": "Chcete se zúčastnit kurzu nebo workshopu?",
-    "body": "Prozkoumejte naše nadcházející události",
-    "button": "Zobrazit kalendář"
+    "eyebrow": "V Praze",
+    "heading": "Tento týden v Praze",
+    "headingNext": "Brzy v Praze",
+    "body": "{count, plural, one {Tento týden se děje jedna krásná věc. Přijďte mezi nás!} few {Tento týden se dějí # krásné věci. Vyberte si a přijďte!} other {Tento týden se děje # krásných věcí. Vyberte si a přijďte!}}",
+    "bodyNext": "Tento týden je u nás klid, tak tady je, co přijde dál. Poznamenejte si datum!",
+    "weekLabel": "Příštích sedm dní",
+    "today": "Dnes",
+    "vibe": {
+      "Activation": "Probuďte dary, se kterými jste se narodili",
+      "Initiation": "Projděte dveřmi do nové kapitoly",
+      "Workshop": "Naučte se něco úžasného v malé, přátelské skupině",
+      "Community": "Čaj, dobrá společnost a klidný večer spolu"
+    },
+    "join": "Přijďte",
+    "empty": "Nové termíny jsou na cestě. Podívejte se do kalendáře nebo nám napište!",
+    "button": "Celý kalendář",
+    "footnote": "Nevíte, co je pro vás? Zeptejte se, otázky máme rádi."
   },
   "Facts": {
-    "intro": "Chcete se stát zasvěcencem mystérií? Čtěte dál.",
+    "intro": "Zajímá vás, kam vás tato cesta může zavést? Tady je, co našli druzí.",
     "heading": "Odkaz, který mluví sám za sebe",
     "stats": [
-      { "number": "3000+", "label": "Let nepřerušené linie" },
-      { "number": "55", "label": "Zemí po celém světě" },
-      { "number": "44 000+", "label": "Zasvěcenců po celém světě" }
+      {
+        "number": "3000+",
+        "label": "Let nepřerušené linie"
+      },
+      {
+        "number": "55",
+        "label": "Zemí po celém světě"
+      },
+      {
+        "number": "44 000+",
+        "label": "Zasvěcenců po celém světě"
+      }
     ],
     "videosHeading": "Sledujte cestu našich studentů a učitelů",
     "wallOfLove": "Zeď lásky",
@@ -97,53 +120,53 @@
     ]
   },
   "Pillars": {
-    "eyebrow": "Základ",
-    "heading": "Čtyři pilíře proměny",
-    "intro": "Každý pilíř staví na tom předchozím a vytváří ucelený systém duchovní evoluce, který obstál ve zkoušce času.",
+    "eyebrow": "Jak cesta funguje",
+    "heading": "Čtyři kroky, které na sebe navazují",
+    "intro": "Nemusíte dělat všechno najednou. Každý krok stojí sám o sobě a připraví vás na další.",
     "items": [
       {
         "title": "Aktivace",
-        "description": "Probuďte svou DNA a obnovte spojení se svým Duchem. Tato práce začíná Life Activation a pokračuje skrze Full Spirit Activation."
+        "description": "Probuďte dary, se kterými jste se narodili. Začíná to Life Activation, individuálním sezením, a může pokračovat Full Spirit Activation."
       },
       {
-        "title": "Zasvěcení",
-        "description": "Očistěte a připravte nádobu k přijetí čistého Světla Ducha a projevte je bez zkreslení do fyzična — cestu otevírá Empower Thyself."
+        "title": "Iniciace",
+        "description": "Naučte se čistit a chránit svou energii a vzít život do svých rukou. Začíná to Empower Thyself, dvoudenním kurzem."
       },
       {
-        "title": "Studujte a učte se",
-        "description": "Zvládnutím umění a věd Sacred Geometry, Astral Travel, Kabbalah a mnoha dalších se stanete pánem svého fyzického života."
+        "title": "Studium",
+        "description": "Objevujte posvátnou geometrii, astrální cestování, kabalu a další v malých, přátelských kurzech a používejte, co se naučíte, každý den."
       },
       {
         "title": "Služba druhým",
-        "description": "Život není úplný a nemůžete mu plně porozumět, pokud také neusilujete o službu druhým. Tím, že vedete, léčíte, učíte a obecně podporujete druhé v jejich potřebách, se stáváte plnou verzí sebe sama."
+        "description": "Sdílejte, co jste se naučili: pomáhejte, léčte a podporujte lidi kolem sebe. Tady se cesta stává opravdu vaší."
       }
     ]
   },
   "Teaser": {
-    "eyebrow": "Závazek k velikosti",
-    "heading": "Toto není víkendový workshop",
-    "body1": "Řekněme si to jasně: Cesta iniciace je náročný výcvikový program. Zahrnuje měsíce oddaného studia, neustálou praxi a neochvějný závazek k vlastní proměně. Není to ledabylý seminář ani příjemný pobyt pro dobrý pocit.",
-    "body2": "Toto je <emphasis>posvátný závazek</emphasis> stát se tou nejlepší verzí sebe sama — odemknout síly, o jejichž existenci většina lidí nikdy nebude vědět, a vstoupit do linie, která formovala běh lidských dějin.",
-    "expectedHeading": "Co se od vás očekává",
+    "eyebrow": "Cesta, ne rychlé řešení",
+    "heading": "Skutečná změna vlastním tempem",
+    "body1": "Cesta iniciace se odvíjí během měsíců, ne za jeden víkend. Učíte se praktické nástroje, používáte je v každodenním životě a rostete krok za krokem, s námi a s vřelou komunitou po boku.",
+    "body2": "Nemusíte být výjimeční ani mít všechno vyřešené. Pokud jste <emphasis>zvědaví a ochotní cvičit</emphasis>, jste připraveni začít.",
+    "expectedHeading": "Vše, co si s sebou vezměte",
     "expectations": [
       {
-        "title": "Otevřená mysl",
-        "description": "Ochota zkoumat nové pohledy a zpochybnit své současné domněnky."
+        "title": "Zvědavost",
+        "description": "Otevřenou mysl a chuť vidět věci nově."
       },
       {
-        "title": "Každodenní praxe",
-        "description": "Důsledné uplatňování nástrojů a technik ve vašem každodenním životě."
+        "title": "Trochu praxe",
+        "description": "Pár minut denně s nástroji, které se naučíte. Právě tam se děje změna."
       },
       {
-        "title": "Odhodlání k sebeovládání",
-        "description": "Upřímná touha poznat sebe sama, rozvinout svůj potenciál a převzít zodpovědnost za svůj vlastní vývoj."
+        "title": "Ochotu růst",
+        "description": "Přání lépe porozumět sobě a vzít život do svých rukou."
       },
       {
-        "title": "Duch služby",
-        "description": "Ochota využít svůj růst a rozvoj k povznesení sebe sama a k pozitivnímu přispění do životů druhých."
+        "title": "Laskavé srdce",
+        "description": "Radost ze sdílení toho, čím se stáváte, s lidmi kolem vás."
       }
     ],
-    "expectedClosing": "Toto je vaše cesta, vaše investice a vaše zodpovědnost. Tuto práci podstupujete pro svůj vlastní vývoj a pro život, který se rozhodnete vytvořit. Nikdo ji za vás udělat nemůže."
+    "expectedClosing": "Je to vaše cesta a nikdy po ní nepůjdete sami: jsme tu, abychom vás vedli, a komunita je tu, aby vám fandila."
   },
   "CTA": {
     "eyebrow": "Vaše pozvání",
@@ -164,25 +187,76 @@
     "dianaQuote": "Je rozdíl mezi tím, slyšet, že něco je možné, a zažít to na vlastní kůži. To druhé mění vše."
   },
   "Classes": {
-    "eyebrow": "Nadcházející události",
-    "heading": "Nadcházející kurzy v Praze",
-    "intro": "Každý kurz je krokem na cestě iniciace. Začněte s Life Activation a postupujte posvátným kurikulem dál.",
+    "eyebrow": "Učte se s námi",
+    "heading": "Kurzy v Praze",
+    "intro": "Malé, přátelské skupiny, kde se naučíte skutečné nástroje pro každodenní život. Většina lidí začíná s Life Activation.",
     "items": [
       {
-        "description": "Probuďte svůj božský plán a rozžehněte plný potenciál zakódovaný ve vaší DNA. Toto je základní sezení linie mysterijní školy.",
-        "tag": "Základ"
+        "description": "Individuální sezení, které probudí dary, se kterými jste se narodili. Mnoho lidí se potom cítí lehčí, jasnější a víc sami sebou. Je to první krok na cestě.",
+        "tag": "Začněte tady",
+        "meta": "Asi 2 hodiny · individuálně · osobně v Praze"
       },
       {
-        "description": "Dvoudenní iniciační program, ve kterém obdržíte posvátné nástroje a učení, abyste převzali velení nad svým životem a vykročili na cestu jako Zasvěcenec.",
-        "tag": "Iniciace"
+        "description": "Dva dny v malé skupině, kde se naučíte čistit a chránit svou energii, rozpoznat vzorce, které řídí váš život, a změnit je, a vytvořit si doma posvátný prostor.",
+        "tag": "Iniciace",
+        "meta": "2 dny · malá skupina · osobně v Praze"
       },
       {
-        "title": "Zobrazit celý kalendář",
-        "description": "Studujte božské vzory, které jsou základem veškerého stvoření, jak astrálně cestovat, komunikovat se svým vyšším já a mnohem více.",
-        "tag": "Pokročilé studium"
+        "title": "Celý kalendář",
+        "description": "Posvátná geometrie, astrální cestování, rozhovor s vaším vyšším já a další. Praktické kurzy, do kterých se můžete zapojit krok za krokem, vlastním tempem.",
+        "tag": "Učte se dál",
+        "meta": "Půldenní a víkendové kurzy · malé skupiny"
       }
     ],
     "learnMore": "Zjistit více"
+  },
+  "LookingFor": {
+    "eyebrow": "Možná potřebujete právě tohle",
+    "heading": "Co hledáte?",
+    "intro": "Klepněte na to, co pro vás teď platí, a ukážeme vám, kde je dobré začít.",
+    "tryLabel": "Zkuste",
+    "tiles": {
+      "stressed": {
+        "feel": "Jsem ve stresu a nedokážu vypnout",
+        "try": "Max Meditation"
+      },
+      "drained": {
+        "feel": "Někteří lidé mi berou energii",
+        "try": "Přeříznutí emočních pout"
+      },
+      "stuck": {
+        "feel": "Pořád opakuji stejné staré vzorce",
+        "try": "Léčení negativních návyků"
+      },
+      "body": {
+        "feel": "Moje tělo potřebuje úlevu a uzdravení",
+        "try": "Ensofic Reiki"
+      },
+      "missing": {
+        "feel": "Mám pocit, že mi něco chybí",
+        "try": "Hermetický návrat duše"
+      },
+      "gifts": {
+        "feel": "Chci objevit své dary",
+        "try": "Life Activation"
+      },
+      "learn": {
+        "feel": "Tohle jsem se vždycky chtěl/a naučit",
+        "try": "Empower Thyself"
+      },
+      "people": {
+        "feel": "Rád/a bych poznal/a laskavé, podobně smýšlející lidi",
+        "try": "Komunitní večery"
+      }
+    },
+    "unsure": "Pořád si nejste jistí?",
+    "unsureLink": "Napište nám a pomůžeme vám vybrat.",
+    "unsureMessage": "Dobrý den, nevím, kde začít. Můžete mi pomoci vybrat?"
+  },
+  "Welcome": {
+    "heading": "Ahoj, jsme Diana a Radu",
+    "body": "Přivítáme vás osobně v Praze, uděláme si čas vás vyslechnout a provedeme vás každým krokem. Ať přijdete na léčení, na kurz nebo na klidný večer s komunitou, nebudete na to sami.",
+    "link": "Poznejte nás"
   },
   "FAQ": {
     "eyebrow": "Než začnete",
@@ -212,14 +286,23 @@
   },
   "Ending": {
     "eyebrow": "Kde se setkávají všechny světy",
-    "heading": "Spojení starověku, vesmíru a moderní doby",
+    "heading": "Dávná moudrost pro moderní život",
     "cards": [
-      { "title": "Starobylá moudrost", "subtitle": "Chrámy, kněží a posvátné rituály" },
-      { "title": "Univerzální věda", "subtitle": "Galaktické poznání a světlo" },
-      { "title": "Moderní zasvěcenec", "subtitle": "Posílení muži a ženy" }
+      {
+        "title": "Starobylá moudrost",
+        "subtitle": "Chrámy, kněží a posvátné rituály"
+      },
+      {
+        "title": "Univerzální věda",
+        "subtitle": "Galaktické poznání a světlo"
+      },
+      {
+        "title": "Moderní zasvěcenec",
+        "subtitle": "Posílení muži a ženy"
+      }
     ],
-    "body1": "Tato cesta spojuje <emphasis>starobylou moudrost</emphasis> mysterijních škol s <emphasis>univerzální galaktickou vědou</emphasis>, která provázela civilizace napříč vesmírem.",
-    "body2": "Výsledkem je živý systém poznání, který je hluboce použitelný pro <emphasis>moderní muže a ženy</emphasis>, kteří jsou připraveni se probudit, proměnit a vést."
+    "body1": "To, co učíme, pochází z <emphasis>dávných škol mystérií</emphasis> a z <emphasis>univerzální vědy</emphasis>, kterou uchovaly, a je překvapivě praktické pro dnešní život.",
+    "body2": "Je pro <emphasis>moderní muže a ženy</emphasis>, kteří se chtějí cítit lépe, porozumět sami sobě a žít s větším smyslem a radostí."
   },
   "HallOfInitiates": {
     "eyebrow": "Síň zasvěcenců",
@@ -502,7 +585,11 @@
     "inquire": "Zeptat se",
     "inquiryTemplate": "Ahoj, rád(a) bych se zeptal(a) na léčení {name}.",
     "bookNow": "Rezervovat",
-    "details": "Zobrazit detaily"
+    "details": "Zobrazit detaily",
+    "formatInPerson": "Osobně · Praha",
+    "formatBoth": "Osobně nebo na dálku",
+    "formatRemote": "Léčení na dálku",
+    "formatOnline": "Osobně nebo online"
   },
   "Healings": {
     "heroEyebrow": "V linii krále Šalomouna",
@@ -1255,7 +1342,10 @@
     "faqEyebrow": "Otázky",
     "faqHeading": "Často kladené otázky",
     "whoHeading": "Pro koho je určeno",
-    "disclaimer": "Tato práce nenahrazuje žádnou léčbu předepsanou vaším lékařem. Nabízí se jako doplňková energetická a duchovní podpora vedle vaší lékařské péče."
+    "disclaimer": "Tato práce nenahrazuje žádnou léčbu předepsanou vaším lékařem. Nabízí se jako doplňková energetická a duchovní podpora vedle vaší lékařské péče.",
+    "hostsEyebrow": "Budete v dobrých rukou",
+    "hostsHeading": "Diana a Radu Coman",
+    "hostsBody": "Jsme certifikovaní praktici a učitelé Modern Mystery School. Ať se setkáte s kýmkoli z nás, uděláme si čas vás vyslechnout, odpovědět na vaše otázky a jemně vás provést každým krokem."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Hluboké léčení",

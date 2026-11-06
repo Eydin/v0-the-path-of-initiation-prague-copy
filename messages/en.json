@@ -67,17 +67,40 @@
     "seeFullCalendar": "See the full calendar"
   },
   "CalendarWidget": {
-    "heading": "Would you like to join a class or a workshop?",
-    "body": "Explore our upcoming events",
-    "button": "View Calendar"
+    "eyebrow": "In Prague",
+    "heading": "This week in Prague",
+    "headingNext": "Coming up in Prague",
+    "body": "{count, plural, one {One lovely thing is happening this week. Come and join us!} other {# lovely things are happening this week. Pick one and come along!}}",
+    "bodyNext": "It's a quiet week here, so here's what's coming next. Save the date!",
+    "weekLabel": "The next seven days",
+    "today": "Today",
+    "vibe": {
+      "Activation": "Wake up the gifts you were born with",
+      "Initiation": "Step through a doorway into a new chapter",
+      "Workshop": "Learn something wonderful in a small, friendly group",
+      "Community": "Tea, good company and a calm evening together"
+    },
+    "join": "Come along",
+    "empty": "New dates are on their way. Check the calendar or write to us!",
+    "button": "See the full calendar",
+    "footnote": "Not sure what's for you? Just ask, we love questions."
   },
   "Facts": {
-    "intro": "Do you want to become an initiate of the mysteries? Then read on.",
+    "intro": "Curious where this path can take you? Here is what others have found.",
     "heading": "A Legacy That Speaks for Itself",
     "stats": [
-      { "number": "3,000+", "label": "Years of Unbroken Lineage" },
-      { "number": "55", "label": "Countries Worldwide" },
-      { "number": "44,000+", "label": "Initiates Worldwide" }
+      {
+        "number": "3,000+",
+        "label": "Years of Unbroken Lineage"
+      },
+      {
+        "number": "55",
+        "label": "Countries Worldwide"
+      },
+      {
+        "number": "44,000+",
+        "label": "Initiates Worldwide"
+      }
     ],
     "videosHeading": "Follow the Journey of Our Students and Teachers",
     "wallOfLove": "Wall of Love",
@@ -97,53 +120,53 @@
     ]
   },
   "Pillars": {
-    "eyebrow": "The Foundation",
-    "heading": "The Four Pillars of Transformation",
-    "intro": "Each pillar builds upon the last, creating a complete system of spiritual evolution that has stood the test of time.",
+    "eyebrow": "How the path works",
+    "heading": "Four steps that build on each other",
+    "intro": "You don't have to do everything at once. Each step stands on its own and prepares you for the next.",
     "items": [
       {
         "title": "Activation",
-        "description": "Awaken your DNA and restore your connection to your Spirit. This work begins with the Life Activation and continues through the Full Spirit Activation."
+        "description": "Wake up the gifts you were born with. It starts with the Life Activation, a one-to-one session, and can continue with the Full Spirit Activation."
       },
       {
         "title": "Initiation",
-        "description": "Purify and prepare the vessel to receive the pure Light of Spirit and manifest it without distortion into the physical — the path opened by Empower Thyself."
+        "description": "Learn how to clear and protect your energy and take charge of your life. This begins with Empower Thyself, a two-day class."
       },
       {
         "title": "Study & Learn",
-        "description": "By mastering the arts and sciences of Sacred Geometry, Astral Travel, Kabbalah and many more, you become a master of your physical life."
+        "description": "Explore sacred geometry, astral travel, Kabbalah and more in small, friendly classes, and use what you learn every day."
       },
       {
         "title": "Serving Others",
-        "description": "Life is not complete, and you cannot fully understand it, unless you also strive to be of service to others. By guiding, healing, teaching and generally supporting others in their needs, you become the full version of yourself."
+        "description": "Share what you have learned: help, heal and support the people around you. This is where the path becomes truly yours."
       }
     ]
   },
   "Teaser": {
-    "eyebrow": "Commitment to Greatness",
-    "heading": "This is Not a Weekend Workshop",
-    "body1": "Let us be clear: The Path of Initiation is a rigorous training program. It involves months of dedicated study, constant practice, and an unwavering commitment to your own transformation. This is not a casual seminar or a feel-good retreat.",
-    "body2": "This is a <emphasis>sacred commitment</emphasis> to become the greatest version of yourself — to unlock powers that most people will never know exist, and to step into a lineage that has shaped the course of human history.",
-    "expectedHeading": "What is expected of you",
+    "eyebrow": "A path, not a quick fix",
+    "heading": "Real change, at your own pace",
+    "body1": "The path of initiation unfolds over months, not over a weekend. You learn practical tools, use them in daily life and grow step by step, with us and a warm community beside you.",
+    "body2": "You don't need to be special or have everything figured out. If you are <emphasis>curious and willing to practise</emphasis>, you are ready to begin.",
+    "expectedHeading": "All you need to bring",
     "expectations": [
       {
-        "title": "An open mind",
-        "description": "A willingness to explore new perspectives and challenge your current assumptions."
+        "title": "Curiosity",
+        "description": "An open mind and the wish to see things in a new way."
       },
       {
-        "title": "Daily practice",
-        "description": "Consistent application of the tools and techniques in your everyday life."
+        "title": "A little practice",
+        "description": "A few minutes a day with the tools you learn. That is where the change happens."
       },
       {
-        "title": "A commitment to self-mastery",
-        "description": "A genuine desire to understand yourself, develop your potential, and take responsibility for your own evolution."
+        "title": "Willingness to grow",
+        "description": "The wish to understand yourself better and take your life into your own hands."
       },
       {
-        "title": "A spirit of service",
-        "description": "A willingness to use your growth and development to uplift yourself and positively contribute to the lives of others."
+        "title": "A kind heart",
+        "description": "The joy of sharing what you grow into with the people around you."
       }
     ],
-    "expectedClosing": "This is your journey, your investment, and your responsibility. You undertake this work for your own evolution and for the life you choose to create. No one can do it for you."
+    "expectedClosing": "It is your journey, and you will never walk it alone: we are here to guide you, and the community is here to cheer you on."
   },
   "CTA": {
     "eyebrow": "Your Invitation",
@@ -164,25 +187,76 @@
     "dianaQuote": "There is a difference between hearing that something is possible and experiencing it yourself. The second changes everything."
   },
   "Classes": {
-    "eyebrow": "Upcoming Events",
-    "heading": "Upcoming Classes in Prague",
-    "intro": "Each class is a stepping stone on the path of initiation. Begin with the Life Activation and progress through the sacred curriculum.",
+    "eyebrow": "Learn with us",
+    "heading": "Classes in Prague",
+    "intro": "Small, friendly groups where you learn real tools you can use in daily life. Most people begin with the Life Activation.",
     "items": [
       {
-        "description": "Awaken your divine blueprint and ignite the full potential encoded within your DNA. This is the foundational session of the mystery school lineage.",
-        "tag": "Foundation"
+        "description": "A one-to-one session that wakes up the gifts you were born with. Many people feel lighter, clearer and more themselves afterwards. It's the first step on the path.",
+        "tag": "Start here",
+        "meta": "About 2 hours · one-to-one · in person in Prague"
       },
       {
-        "description": "A 2-day initiation program where you receive the sacred tools and teachings to take command of your life and step onto the path as an Initiate.",
-        "tag": "Initiation"
+        "description": "Two days with a small group where you learn how to clear and protect your energy, recognise the patterns that run your life and change them, and create a sacred space at home.",
+        "tag": "Initiation",
+        "meta": "2 days · small group · in person in Prague"
       },
       {
         "title": "View Full Calendar",
-        "description": "Study the divine patterns that underpin all of creation, how to astral travel, communicate with your higher self and more.",
-        "tag": "Advanced Study"
+        "description": "Sacred geometry, astral travel, talking with your higher self and more. Hands-on classes you can join step by step, at your own pace.",
+        "tag": "Keep learning",
+        "meta": "Half-day and weekend classes · small groups"
       }
     ],
     "learnMore": "Learn More"
+  },
+  "LookingFor": {
+    "eyebrow": "Maybe you need this",
+    "heading": "What are you looking for?",
+    "intro": "Tap what feels true for you right now, and we'll show you a good place to start.",
+    "tryLabel": "Try",
+    "tiles": {
+      "stressed": {
+        "feel": "I'm stressed and can't switch off",
+        "try": "Max Meditation"
+      },
+      "drained": {
+        "feel": "Certain people drain my energy",
+        "try": "Emotional Cord Cutting"
+      },
+      "stuck": {
+        "feel": "I keep repeating the same old patterns",
+        "try": "Treating of Negative Habits"
+      },
+      "body": {
+        "feel": "My body needs relief and healing",
+        "try": "Ensofic Reiki"
+      },
+      "missing": {
+        "feel": "Something in me feels missing",
+        "try": "Hermetic Soul Retrieval"
+      },
+      "gifts": {
+        "feel": "I want to discover my gifts",
+        "try": "Life Activation"
+      },
+      "learn": {
+        "feel": "I've always wanted to learn this",
+        "try": "Empower Thyself"
+      },
+      "people": {
+        "feel": "I'd love to meet kind, like-minded people",
+        "try": "Community evenings"
+      }
+    },
+    "unsure": "Still not sure?",
+    "unsureLink": "Write to us and we'll help you choose.",
+    "unsureMessage": "Hello, I'm not sure where to start. Could you help me choose?"
+  },
+  "Welcome": {
+    "heading": "Hi, we're Diana and Radu",
+    "body": "We'll welcome you in person in Prague, take the time to listen, and guide you through every step. Whether you come for a healing, a class or a calm evening with the community, you won't be on your own.",
+    "link": "Get to know us"
   },
   "FAQ": {
     "eyebrow": "Before You Begin",
@@ -211,15 +285,24 @@
     ]
   },
   "Ending": {
-    "eyebrow": "Where All Worlds Meet",
-    "heading": "Bridging the Ancient, the Universal, and the Modern",
+    "eyebrow": "Where all worlds meet",
+    "heading": "Ancient wisdom for modern life",
     "cards": [
-      { "title": "The Ancient Wisdom", "subtitle": "Temples, Priests & Sacred Rites" },
-      { "title": "The Universal Science", "subtitle": "Galactic Knowledge & Light" },
-      { "title": "The Modern Initiate", "subtitle": "Empowered Men & Women" }
+      {
+        "title": "The Ancient Wisdom",
+        "subtitle": "Temples, Priests & Sacred Rites"
+      },
+      {
+        "title": "The Universal Science",
+        "subtitle": "Galactic Knowledge & Light"
+      },
+      {
+        "title": "The Modern Initiate",
+        "subtitle": "Empowered Men & Women"
+      }
     ],
-    "body1": "This path bridges the <emphasis>ancient wisdom</emphasis> of the mystery schools with the <emphasis>universal galactic science</emphasis> that has guided civilisations across the cosmos.",
-    "body2": "The result is a living system of knowledge that is profoundly applicable to the <emphasis>modern-day men and women</emphasis> who are ready to awaken, transform, and lead."
+    "body1": "What we teach comes from the <emphasis>ancient mystery schools</emphasis> and the <emphasis>universal science</emphasis> they preserved, and it is surprisingly practical for life today.",
+    "body2": "It is for <emphasis>modern men and women</emphasis> who want to feel better, understand themselves and live with more purpose and joy."
   },
   "HallOfInitiates": {
     "eyebrow": "Hall of Initiates",
@@ -541,7 +624,11 @@
     "inquire": "Inquire",
     "inquiryTemplate": "Hello, I would like to inquire about the {name} healing.",
     "bookNow": "Book Now",
-    "details": "See Details"
+    "details": "See Details",
+    "formatInPerson": "In person · Prague",
+    "formatBoth": "In person or remote",
+    "formatRemote": "Distance healing",
+    "formatOnline": "In person or online"
   },
   "Healings": {
     "heroEyebrow": "In the Lineage of King Salomon",
@@ -1294,7 +1381,10 @@
     "faqEyebrow": "Questions",
     "faqHeading": "Frequently Asked Questions",
     "whoHeading": "Who It Is For",
-    "disclaimer": "This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care."
+    "disclaimer": "This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.",
+    "hostsEyebrow": "You'll be in good hands",
+    "hostsHeading": "Diana and Radu Coman",
+    "hostsBody": "We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Deep Healing",

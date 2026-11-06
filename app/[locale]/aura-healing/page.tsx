@@ -44,6 +44,9 @@ export default async function AuraHealing({
   return (
     <ModalityShell bg="ancient-of-days-blake.jpg" position="center 25%">
       <ModalityHero
+        image="sunlight-green-leaves.jpg"
+        position="50% 45%"
+        caption="Sunlight through leaves · photo by Kai Pilger, Unsplash"
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle", { brand: BRAND.sacredGeometry })}
         subtitle={t("heroSubtitle")}

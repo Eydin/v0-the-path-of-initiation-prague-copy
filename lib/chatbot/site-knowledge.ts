@@ -1126,8 +1126,6 @@ Hello, I would like to learn more about the 7 Mystery Schools workshop.
 
 ## PAGE: /soul-retrieval
 center 30%
-Ascent of the Blessed · Hieronymus Bosch
-6.150 CZK
 
 ## PAGE: /spark-of-life
 center 40%
@@ -1271,7 +1269,6 @@ Begin Your Journey
 
 ## PAGE: /treating-negative-habits
 center 30%
-4.900 CZK
 
 ## PAGE: /withdraw-from-contract
 Withdraw from the Contract | The Path of Initiation Prague
@@ -1357,9 +1354,21 @@ Calendar
 Community
 
 ## PAGE: (component) calendar-widget-section.tsx
-Would you like to join a class or a workshop?
-Explore our upcoming events
-View Calendar
+ev.date
+In Prague
+This week in Prague
+Coming up in Prague
+It's a quiet week here, so here's what's coming next. Save the date!
+The next seven days
+Today
+Wake up the gifts you were born with
+Step through a doorway into a new chapter
+Learn something wonderful in a small, friendly group
+Tea, good company and a calm evening together
+Come along
+New dates are on their way. Check the calendar or write to us!
+See the full calendar
+Not sure what's for you? Just ask, we love questions.
 The Path Ahead
 Calendar of Classes
 Every activation, initiation, workshop and community gathering held in Prague and other international locations over the coming season. Follow the path one step at a time.
@@ -1372,16 +1381,19 @@ Not sure where to begin? Reach out and Radu will guide you personally.
 Ask About a Class
 
 ## PAGE: (component) classes-section.tsx
-Upcoming Events
-Upcoming Classes in Prague
-Each class is a stepping stone on the path of initiation. Begin with the Life Activation and progress through the sacred curriculum.
-Awaken your divine blueprint and ignite the full potential encoded within your DNA. This is the foundational session of the mystery school lineage.
-Foundation
-A 2-day initiation program where you receive the sacred tools and teachings to take command of your life and step onto the path as an Initiate.
+Learn with us
+Classes in Prague
+Small, friendly groups where you learn real tools you can use in daily life. Most people begin with the Life Activation.
+A one-to-one session that wakes up the gifts you were born with. Many people feel lighter, clearer and more themselves afterwards. It's the first step on the path.
+Start here
+About 2 hours · one-to-one · in person in Prague
+Two days with a small group where you learn how to clear and protect your energy, recognise the patterns that run your life and change them, and create a sacred space at home.
 Initiation
+2 days · small group · in person in Prague
 View Full Calendar
-Study the divine patterns that underpin all of creation, how to astral travel, communicate with your higher self and more.
-Advanced Study
+Sacred geometry, astral travel, talking with your higher self and more. Hands-on classes you can join step by step, at your own pace.
+Keep learning
+Half-day and weekend classes · small groups
 Learn More
 
 ## PAGE: (component) community-carousel.tsx
@@ -1494,22 +1506,22 @@ The door is open, but only you can choose to step through it. If you feel the ca
 Book a Life Activation
 
 ## PAGE: (component) ending-section.tsx
-Where All Worlds Meet
-Bridging the Ancient, the Universal, and the Modern
+Where all worlds meet
+Ancient wisdom for modern life
 The Ancient Wisdom
 Temples, Priests & Sacred Rites
 The Universal Science
 Galactic Knowledge & Light
 The Modern Initiate
 Empowered Men & Women
-This path bridges the ancient wisdom of the mystery schools with the universal galactic science that has guided civilisations across the cosmos.
-The result is a living system of knowledge that is profoundly applicable to the modern-day men and women who are ready to awaken, transform, and lead.
+What we teach comes from the ancient mystery schools and the universal science they preserved, and it is surprisingly practical for life today.
+It is for modern men and women who want to feel better, understand themselves and live with more purpose and joy.
 
 ## PAGE: (component) facts-section.tsx
 /testimonials#maria-testimonial
 /testimonials#ana-testimonial
 /testimonials
-Do you want to become an initiate of the mysteries? Then read on.
+Curious where this path can take you? Here is what others have found.
 A Legacy That Speaks for Itself
 Years of Unbroken Lineage
 Countries Worldwide
@@ -1703,6 +1715,10 @@ Prices & Sign-Up on MMS UK
 Inquire
 Book Now
 See Details
+In person · Prague
+In person or remote
+Distance healing
+In person or online
 
 ## PAGE: (component) healing-session-page.tsx
 benefits
@@ -1711,6 +1727,9 @@ Questions
 Frequently Asked Questions
 Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
+You'll be in good hands
+Diana and Radu Coman
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: (component) healings-widget-section.tsx
 One-to-one healing in Prague
@@ -1735,7 +1754,7 @@ Not sure where to begin? Ask us on WhatsApp
 Hello, I would like to learn more about the Path of Initiation.
 
 ## PAGE: (component) initiate-invite.tsx
-Do you want to become an initiate of the mysteries? Then read on.
+Curious where this path can take you? Here is what others have found.
 A Legacy That Speaks for Itself
 Years of Unbroken Lineage
 Countries Worldwide
@@ -1749,6 +1768,33 @@ Ana from Czech Republic
 I came seeking answers and found a whole new dimension of life. The tools I received are beyond anything I imagined.
 Sophie from Canada
 
+## PAGE: (component) looking-for-section.tsx
+lucide-react
+stressed
+/max-meditation
+Maybe you need this
+What are you looking for?
+Tap what feels true for you right now, and we'll show you a good place to start.
+I'm stressed and can't switch off
+Max Meditation
+Certain people drain my energy
+Emotional Cord Cutting
+I keep repeating the same old patterns
+Treating of Negative Habits
+My body needs relief and healing
+Ensofic Reiki
+Something in me feels missing
+Hermetic Soul Retrieval
+I want to discover my gifts
+Life Activation
+I've always wanted to learn this
+Empower Thyself
+I'd love to meet kind, like-minded people
+Community evenings
+Still not sure?
+Write to us and we'll help you choose.
+Hello, I'm not sure where to start. Could you help me choose?
+
 ## PAGE: (component) modality-faq.tsx
 ./ui/accordion
 disclaimer
@@ -1756,6 +1802,9 @@ Questions
 Frequently Asked Questions
 Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
+You'll be in good hands
+Diana and Radu Coman
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: (component) modality.tsx
 radu@thepathofinitiationprague.com
@@ -1795,17 +1844,17 @@ No noise. Unsubscribe anytime.
 end start
 
 ## PAGE: (component) pillars-section.tsx
-The Foundation
-The Four Pillars of Transformation
-Each pillar builds upon the last, creating a complete system of spiritual evolution that has stood the test of time.
+How the path works
+Four steps that build on each other
+You don't have to do everything at once. Each step stands on its own and prepares you for the next.
 Activation
-Awaken your DNA and restore your connection to your Spirit. This work begins with the Life Activation and continues through the Full Spirit Activation.
+Wake up the gifts you were born with. It starts with the Life Activation, a one-to-one session, and can continue with the Full Spirit Activation.
 Initiation
-Purify and prepare the vessel to receive the pure Light of Spirit and manifest it without distortion into the physical — the path opened by Empower Thyself.
+Learn how to clear and protect your energy and take charge of your life. This begins with Empower Thyself, a two-day class.
 Study & Learn
-By mastering the arts and sciences of Sacred Geometry, Astral Travel, Kabbalah and many more, you become a master of your physical life.
+Explore sacred geometry, astral travel, Kabbalah and more in small, friendly classes, and use what you learn every day.
 Serving Others
-Life is not complete, and you cannot fully understand it, unless you also strive to be of service to others. By guiding, healing, teaching and generally supporting others in their needs, you become the full version of yourself.
+Share what you have learned: help, heal and support the people around you. This is where the path becomes truly yours.
 
 ## PAGE: (component) quote-breaker.tsx
 --primary
@@ -1828,20 +1877,25 @@ Egyptian Aura Healing — restoring the 7 layers of the aura.
 Sacred space and living temples.
 
 ## PAGE: (component) teaser-section.tsx
-Commitment to Greatness
-This is Not a Weekend Workshop
-Let us be clear: The Path of Initiation is a rigorous training program. It involves months of dedicated study, constant practice, and an unwavering commitment to your own transformation. This is not a casual seminar or a feel-good retreat.
-This is a sacred commitment to become the greatest version of yourself — to unlock powers that most people will never know exist, and to step into a lineage that has shaped the course of human history.
-What is expected of you
-An open mind
-A willingness to explore new perspectives and challenge your current assumptions.
-Daily practice
-Consistent application of the tools and techniques in your everyday life.
-A commitment to self-mastery
-A genuine desire to understand yourself, develop your potential, and take responsibility for your own evolution.
-A spirit of service
-A willingness to use your growth and development to uplift yourself and positively contribute to the lives of others.
-This is your journey, your investment, and your responsibility. You undertake this work for your own evolution and for the life you choose to create. No one can do it for you.
+A path, not a quick fix
+Real change, at your own pace
+The path of initiation unfolds over months, not over a weekend. You learn practical tools, use them in daily life and grow step by step, with us and a warm community beside you.
+You don't need to be special or have everything figured out. If you are curious and willing to practise , you are ready to begin.
+All you need to bring
+Curiosity
+An open mind and the wish to see things in a new way.
+A little practice
+A few minutes a day with the tools you learn. That is where the change happens.
+Willingness to grow
+The wish to understand yourself better and take your life into your own hands.
+A kind heart
+The joy of sharing what you grow into with the people around you.
+It is your journey, and you will never walk it alone: we are here to guide you, and the community is here to cheer you on.
+
+## PAGE: (component) welcome-strip.tsx
+Hi, we're Diana and Radu
+We'll welcome you in person in Prague, take the time to listen, and guide you through every step. Whether you come for a healing, a class or a calm evening with the community, you won't be on your own.
+Get to know us
 
 ## PAGE: (component) withdrawal-form.tsx
 w-full rounded-sm border border-border bg-background/60 px-4 py-3 text-base text-foreground placeholder:text-muted-foreground backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary
@@ -1876,18 +1930,4 @@ https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
 https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
 8.500 CZK
 /life-activation
-/full-spirit-activation
-4.800 CZK
-/aura-healing
-3.669 CZK
-/negative-energy-removal
-/emotional-cord-cutting
-4.900 CZK
-/ensofic-reiki
-/treating-negative-habits
-/crystal-healing
-/sacred-rites-healing
-6.150 CZK
-/soul-retrieval
-/spark-of-life
-/life-purpose-reading`;
+/full-spirit-activation`;

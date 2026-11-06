@@ -67,17 +67,40 @@
     "seeFullCalendar": "Zum vollständigen Kalender"
   },
   "CalendarWidget": {
-    "heading": "Möchtest du an einem Kurs oder Workshop teilnehmen?",
-    "body": "Entdecke unsere kommenden Veranstaltungen",
-    "button": "Kalender ansehen"
+    "eyebrow": "In Prag",
+    "heading": "Diese Woche in Prag",
+    "headingNext": "Demnächst in Prag",
+    "body": "{count, plural, one {Diese Woche passiert etwas Schönes. Komm dazu!} other {Diese Woche passieren # schöne Dinge. Such dir eins aus und komm vorbei!}}",
+    "bodyNext": "Diese Woche ist es bei uns ruhig, deshalb hier, was als Nächstes kommt. Merk dir den Termin!",
+    "weekLabel": "Die nächsten sieben Tage",
+    "today": "Heute",
+    "vibe": {
+      "Activation": "Wecke die Gaben, mit denen du geboren wurdest",
+      "Initiation": "Tritt durch eine Tür in ein neues Kapitel",
+      "Workshop": "Lerne etwas Wunderbares in einer kleinen, herzlichen Gruppe",
+      "Community": "Tee, gute Gesellschaft und ein ruhiger Abend zusammen"
+    },
+    "join": "Komm dazu",
+    "empty": "Neue Termine sind unterwegs. Schau in den Kalender oder schreib uns!",
+    "button": "Zum ganzen Kalender",
+    "footnote": "Nicht sicher, was zu dir passt? Frag einfach, wir lieben Fragen."
   },
   "Facts": {
-    "intro": "Möchtest du ein Initiierter der Mysterien werden? Dann lies weiter.",
+    "intro": "Neugierig, wohin dich dieser Weg führen kann? Das haben andere gefunden.",
     "heading": "Ein Vermächtnis, das für sich spricht",
     "stats": [
-      { "number": "3.000+", "label": "Jahre ununterbrochener Linie" },
-      { "number": "55", "label": "Länder weltweit" },
-      { "number": "44.000+", "label": "Initiierte weltweit" }
+      {
+        "number": "3.000+",
+        "label": "Jahre ununterbrochener Linie"
+      },
+      {
+        "number": "55",
+        "label": "Länder weltweit"
+      },
+      {
+        "number": "44.000+",
+        "label": "Initiierte weltweit"
+      }
     ],
     "videosHeading": "Verfolge die Reise unserer Studenten und Lehrer",
     "wallOfLove": "Wand der Liebe",
@@ -97,53 +120,53 @@
     ]
   },
   "Pillars": {
-    "eyebrow": "Das Fundament",
-    "heading": "Die vier Säulen der Verwandlung",
-    "intro": "Jede Säule baut auf der vorherigen auf und bildet ein vollständiges System spiritueller Evolution, das sich über die Zeit bewährt hat.",
+    "eyebrow": "Wie der Weg funktioniert",
+    "heading": "Vier Schritte, die aufeinander aufbauen",
+    "intro": "Du musst nicht alles auf einmal machen. Jeder Schritt steht für sich und bereitet dich auf den nächsten vor.",
     "items": [
       {
         "title": "Aktivierung",
-        "description": "Erwecke deine DNA und stelle deine Verbindung zu deinem Geist wieder her. Diese Arbeit beginnt mit der Life Activation und setzt sich fort durch die Full Spirit Activation."
+        "description": "Wecke die Gaben, mit denen du geboren wurdest. Es beginnt mit der Life Activation, einer Einzelsitzung, und kann mit der Full Spirit Activation weitergehen."
       },
       {
         "title": "Initiation",
-        "description": "Reinige und bereite das Gefäß vor, um das reine Licht des Geistes zu empfangen und es ohne Verzerrung ins Physische zu manifestieren — der Weg, den Empower Thyself eröffnet."
+        "description": "Lerne, deine Energie zu reinigen und zu schützen und dein Leben in die Hand zu nehmen. Das beginnt mit Empower Thyself, einem zweitägigen Kurs."
       },
       {
         "title": "Studieren & Lernen",
-        "description": "Indem du die Künste und Wissenschaften der Sacred Geometry, des Astral Travel, der Kabbalah und vieler weiterer meisterst, wirst du zum Meister deines physischen Lebens."
+        "description": "Entdecke heilige Geometrie, Astralreisen, Kabbala und mehr in kleinen, herzlichen Kursen und nutze das Gelernte jeden Tag."
       },
       {
         "title": "Anderen dienen",
-        "description": "Das Leben ist nicht vollständig, und du kannst es nicht ganz verstehen, wenn du nicht auch danach strebst, anderen zu dienen. Indem du andere führst, heilst, lehrst und in ihren Bedürfnissen unterstützt, wirst du zur vollen Version deiner selbst."
+        "description": "Teile, was du gelernt hast: hilf, heile und unterstütze die Menschen um dich herum. Hier wird der Weg wirklich zu deinem."
       }
     ]
   },
   "Teaser": {
-    "eyebrow": "Verpflichtung zur Größe",
-    "heading": "Dies ist kein Wochenend-Workshop",
-    "body1": "Lass uns klar sein: Der Pfad der Initiation ist ein anspruchsvolles Trainingsprogramm. Es umfasst Monate engagierten Studiums, ständige Praxis und ein unerschütterliches Engagement für die eigene Verwandlung. Dies ist kein beiläufiges Seminar und kein Wohlfühl-Retreat.",
-    "body2": "Dies ist eine <emphasis>heilige Verpflichtung</emphasis>, die beste Version deiner selbst zu werden — Kräfte zu erschließen, von deren Existenz die meisten Menschen nie erfahren werden, und in eine Linie einzutreten, die den Lauf der Menschheitsgeschichte geprägt hat.",
-    "expectedHeading": "Was von dir erwartet wird",
+    "eyebrow": "Ein Weg, keine schnelle Lösung",
+    "heading": "Echte Veränderung in deinem Tempo",
+    "body1": "Der Weg der Initiation entfaltet sich über Monate, nicht an einem Wochenende. Du lernst praktische Werkzeuge, nutzt sie im Alltag und wächst Schritt für Schritt, mit uns und einer herzlichen Gemeinschaft an deiner Seite.",
+    "body2": "Du musst nichts Besonderes sein und nicht alles schon wissen. Wenn du <emphasis>neugierig bist und üben möchtest</emphasis>, bist du bereit anzufangen.",
+    "expectedHeading": "Alles, was du mitbringen musst",
     "expectations": [
       {
-        "title": "Ein offener Geist",
-        "description": "Die Bereitschaft, neue Perspektiven zu erkunden und deine aktuellen Annahmen zu hinterfragen."
+        "title": "Neugier",
+        "description": "Einen offenen Geist und die Lust, Dinge neu zu sehen."
       },
       {
-        "title": "Tägliche Praxis",
-        "description": "Die konsequente Anwendung der Werkzeuge und Techniken in deinem Alltag."
+        "title": "Ein wenig Übung",
+        "description": "Ein paar Minuten täglich mit den Werkzeugen, die du lernst. Dort geschieht die Veränderung."
       },
       {
-        "title": "Hingabe an die Selbstbeherrschung",
-        "description": "Der echte Wunsch, dich selbst zu verstehen, dein Potenzial zu entfalten und Verantwortung für deine eigene Entwicklung zu übernehmen."
+        "title": "Bereitschaft zu wachsen",
+        "description": "Den Wunsch, dich besser zu verstehen und dein Leben selbst in die Hand zu nehmen."
       },
       {
-        "title": "Ein Geist des Dienens",
-        "description": "Die Bereitschaft, dein Wachstum und deine Entwicklung zu nutzen, um dich selbst zu erheben und positiv zum Leben anderer beizutragen."
+        "title": "Ein gütiges Herz",
+        "description": "Die Freude, das, wozu du wirst, mit den Menschen um dich herum zu teilen."
       }
     ],
-    "expectedClosing": "Dies ist deine Reise, deine Investition und deine Verantwortung. Du gehst diesen Weg für deine eigene Entwicklung und für das Leben, das du erschaffen willst. Niemand kann ihn für dich gehen."
+    "expectedClosing": "Es ist dein Weg, und du gehst ihn nie allein: Wir begleiten dich, und die Gemeinschaft feuert dich an."
   },
   "CTA": {
     "eyebrow": "Deine Einladung",
@@ -164,25 +187,76 @@
     "dianaQuote": "Es gibt einen Unterschied zwischen zu hören, dass etwas möglich ist, und es selbst zu erleben. Zweiteres verändert alles."
   },
   "Classes": {
-    "eyebrow": "Bevorstehende Veranstaltungen",
-    "heading": "Bevorstehende Kurse in Prag",
-    "intro": "Jeder Kurs ist ein Trittstein auf dem Pfad der Initiation. Beginne mit der Life Activation und arbeite dich durch das heilige Curriculum.",
+    "eyebrow": "Lerne mit uns",
+    "heading": "Kurse in Prag",
+    "intro": "Kleine, herzliche Gruppen, in denen du echte Werkzeuge für den Alltag lernst. Die meisten beginnen mit der Life Activation.",
     "items": [
       {
-        "description": "Erwecke deinen göttlichen Bauplan und entfache das volle Potenzial, das in deiner DNA verschlüsselt ist. Dies ist die grundlegende Sitzung der Mysterienschul-Linie.",
-        "tag": "Grundlage"
+        "description": "Eine Einzelsitzung, die die Gaben weckt, mit denen du geboren wurdest. Viele fühlen sich danach leichter, klarer und mehr wie sie selbst. Es ist der erste Schritt auf dem Weg.",
+        "tag": "Hier beginnen",
+        "meta": "Etwa 2 Stunden · Einzelsitzung · vor Ort in Prag"
       },
       {
-        "description": "Ein zweitägiges Initiationsprogramm, in dem du die heiligen Werkzeuge und Lehren erhältst, um die Führung über dein Leben zu übernehmen und den Pfad als Initiierter zu beschreiten.",
-        "tag": "Initiation"
+        "description": "Zwei Tage in einer kleinen Gruppe, in denen du lernst, deine Energie zu reinigen und zu schützen, die Muster zu erkennen, die dein Leben lenken, und sie zu verändern, und dir zu Hause einen heiligen Raum zu schaffen.",
+        "tag": "Initiation",
+        "meta": "2 Tage · kleine Gruppe · vor Ort in Prag"
       },
       {
-        "title": "Zum vollständigen Kalender",
-        "description": "Studiere die göttlichen Muster, die der gesamten Schöpfung zugrunde liegen, wie man astral reist, mit dem höheren Selbst kommuniziert und vieles mehr.",
-        "tag": "Fortgeschrittenes Studium"
+        "title": "Zum ganzen Kalender",
+        "description": "Heilige Geometrie, Astralreisen, Gespräche mit deinem höheren Selbst und mehr. Praxisnahe Kurse, die du Schritt für Schritt in deinem Tempo besuchen kannst.",
+        "tag": "Weiter lernen",
+        "meta": "Halbtages- und Wochenendkurse · kleine Gruppen"
       }
     ],
     "learnMore": "Mehr erfahren"
+  },
+  "LookingFor": {
+    "eyebrow": "Vielleicht brauchst du genau das",
+    "heading": "Was suchst du?",
+    "intro": "Tippe auf das, was sich gerade für dich stimmig anfühlt, und wir zeigen dir, wo du gut beginnen kannst.",
+    "tryLabel": "Probier",
+    "tiles": {
+      "stressed": {
+        "feel": "Ich bin gestresst und kann nicht abschalten",
+        "try": "Max Meditation"
+      },
+      "drained": {
+        "feel": "Manche Menschen rauben mir Energie",
+        "try": "Durchtrennen emotionaler Bindungen"
+      },
+      "stuck": {
+        "feel": "Ich wiederhole immer dieselben alten Muster",
+        "try": "Behandlung negativer Gewohnheiten"
+      },
+      "body": {
+        "feel": "Mein Körper braucht Erleichterung und Heilung",
+        "try": "Ensofic Reiki"
+      },
+      "missing": {
+        "feel": "Etwas in mir fühlt sich fehlend an",
+        "try": "Hermetische Seelenrückholung"
+      },
+      "gifts": {
+        "feel": "Ich möchte meine Gaben entdecken",
+        "try": "Life Activation"
+      },
+      "learn": {
+        "feel": "Das wollte ich schon immer lernen",
+        "try": "Empower Thyself"
+      },
+      "people": {
+        "feel": "Ich möchte herzliche, gleichgesinnte Menschen treffen",
+        "try": "Gemeinschaftsabende"
+      }
+    },
+    "unsure": "Noch unsicher?",
+    "unsureLink": "Schreib uns, wir helfen dir bei der Wahl.",
+    "unsureMessage": "Hallo, ich weiß nicht, wo ich anfangen soll. Könnt ihr mir bei der Wahl helfen?"
+  },
+  "Welcome": {
+    "heading": "Hallo, wir sind Diana und Radu",
+    "body": "Wir empfangen dich persönlich in Prag, nehmen uns Zeit, dir zuzuhören, und begleiten dich durch jeden Schritt. Ob du für eine Heilung, einen Kurs oder einen ruhigen Abend mit der Gemeinschaft kommst, du bist nicht allein.",
+    "link": "Lern uns kennen"
   },
   "FAQ": {
     "eyebrow": "Bevor du beginnst",
@@ -211,15 +285,24 @@
     ]
   },
   "Ending": {
-    "eyebrow": "Wo sich alle Welten begegnen",
-    "heading": "Die Brücke zwischen dem Alten, dem Universellen und dem Modernen",
+    "eyebrow": "Wo alle Welten sich begegnen",
+    "heading": "Uralte Weisheit für das moderne Leben",
     "cards": [
-      { "title": "Die alte Weisheit", "subtitle": "Tempel, Priester & heilige Riten" },
-      { "title": "Die universelle Wissenschaft", "subtitle": "Galaktisches Wissen & Licht" },
-      { "title": "Der moderne Initiierte", "subtitle": "Erstarkte Männer & Frauen" }
+      {
+        "title": "Die alte Weisheit",
+        "subtitle": "Tempel, Priester & heilige Riten"
+      },
+      {
+        "title": "Die universelle Wissenschaft",
+        "subtitle": "Galaktisches Wissen & Licht"
+      },
+      {
+        "title": "Der moderne Initiierte",
+        "subtitle": "Erstarkte Männer & Frauen"
+      }
     ],
-    "body1": "Dieser Pfad verbindet die <emphasis>alte Weisheit</emphasis> der Mysterienschulen mit der <emphasis>universellen galaktischen Wissenschaft</emphasis>, die Zivilisationen durch den Kosmos geleitet hat.",
-    "body2": "Das Ergebnis ist ein lebendiges Wissenssystem, das zutiefst anwendbar ist für <emphasis>die Männer und Frauen von heute</emphasis>, die bereit sind zu erwachen, sich zu verwandeln und zu führen."
+    "body1": "Was wir lehren, stammt aus den <emphasis>alten Mysterienschulen</emphasis> und der <emphasis>universellen Wissenschaft</emphasis>, die sie bewahrt haben, und ist erstaunlich praktisch für das heutige Leben.",
+    "body2": "Es ist für <emphasis>moderne Männer und Frauen</emphasis>, die sich besser fühlen, sich selbst verstehen und mit mehr Sinn und Freude leben möchten."
   },
   "HallOfInitiates": {
     "eyebrow": "Halle der Initiierten",
@@ -502,7 +585,11 @@
     "inquire": "Anfragen",
     "inquiryTemplate": "Hallo, ich möchte mich über die Heilung {name} informieren.",
     "bookNow": "Jetzt buchen",
-    "details": "Details ansehen"
+    "details": "Details ansehen",
+    "formatInPerson": "Vor Ort · Prag",
+    "formatBoth": "Vor Ort oder aus der Ferne",
+    "formatRemote": "Fernheilung",
+    "formatOnline": "Vor Ort oder online"
   },
   "Healings": {
     "heroEyebrow": "In der Linie von König Salomon",
@@ -1255,7 +1342,10 @@
     "faqEyebrow": "Fragen",
     "faqHeading": "Häufig gestellte Fragen",
     "whoHeading": "Für wen es gedacht ist",
-    "disclaimer": "Diese Arbeit ersetzt keine ärztlich verordnete Behandlung. Sie wird als ergänzende energetische und spirituelle Unterstützung neben deiner medizinischen Versorgung angeboten."
+    "disclaimer": "Diese Arbeit ersetzt keine ärztlich verordnete Behandlung. Sie wird als ergänzende energetische und spirituelle Unterstützung neben deiner medizinischen Versorgung angeboten.",
+    "hostsEyebrow": "Du bist in guten Händen",
+    "hostsHeading": "Diana und Radu Coman",
+    "hostsBody": "Wir sind zertifizierte Praktizierende und Lehrer der Modern Mystery School. Wen von uns du auch triffst, wir nehmen uns Zeit, dir zuzuhören, deine Fragen zu beantworten und dich sanft durch jeden Schritt zu begleiten."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Tiefe Heilung",
