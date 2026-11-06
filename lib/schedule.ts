@@ -26,6 +26,8 @@ export type ScheduledClass = {
   duration?: string
   /** Upcoming dates (YYYY-MM-DD, local). Keep sorted ascending. */
   dates: string[]
+  /** Start time for a specific date when it differs from `time` (YYYY-MM-DD -> "HH:mm"). */
+  timeOverrides?: Record<string, string>
 }
 
 export const SCHEDULE: ScheduledClass[] = [
@@ -57,7 +59,7 @@ export const SCHEDULE: ScheduledClass[] = [
       "2026-09-26",
       "2026-10-17",
       "2026-11-28",
-      "2026-12-21",
+      "2026-12-19",
       "2027-01-23",
       "2027-02-13",
       "2027-03-20",
@@ -166,18 +168,24 @@ export const SCHEDULE: ScheduledClass[] = [
     duration: "Workshop - 2.5 Hours",
     dates: [
       "2026-09-20",
-      "2026-11-15"
+      "2026-11-15",
+      "2027-01-16",
     ],
+    timeOverrides: { "2026-11-15": "10:00", "2027-01-16": "15:30" },
   },
   {
-    // No dates yet: shows "Dates to be announced" on /workshops and a note on its page.
     slug: "sanctuary-meditation",
     category: "Workshop",
     title: "Sanctuary Meditation Class",
     location: "Prague, CZ",
-    time: "19:00",
-    duration: "Meditation - 3 Hours",
-    dates: [],
+    time: "14:00",
+    duration: "Meditation - 2.5 Hours",
+    dates: [
+      "2026-11-15",
+      "2026-12-05",
+      "2027-01-02",
+    ],
+    timeOverrides: { "2026-12-05": "15:30", "2027-01-02": "10:00" },
   },
   {
     slug: "seven-mystery-schools",
@@ -188,7 +196,10 @@ export const SCHEDULE: ScheduledClass[] = [
     duration: "Workshop - 2.5 Hours",
     dates: [
       "2026-08-30",
+      "2026-12-12",
+      "2027-01-09",
     ],
+    timeOverrides: { "2026-12-12": "15:30", "2027-01-09": "15:30" },
   },
   {
     slug: "stress-management",
@@ -257,6 +268,11 @@ export const SCHEDULE: ScheduledClass[] = [
     ],
   },
 ]
+
+/** Start time of one occurrence: the per-date override if there is one, else the class default. */
+export function timeFor(cls: ScheduledClass, date: string): string {
+  return cls.timeOverrides?.[date] ?? cls.time
+}
 
 // ── A single dated occurrence of a class (flattened from SCHEDULE) ────────
 export type ClassEvent = {
@@ -336,7 +352,7 @@ export function getAllUpcomingEvents(): ClassEvent[] {
           title: cls.title,
           category: cls.category,
           location: cls.location,
-          time: cls.time,
+          time: timeFor(cls, date),
           duration: cls.duration,
           date,
         })

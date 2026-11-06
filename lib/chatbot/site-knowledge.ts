@@ -1086,8 +1086,8 @@ A lasting tool for discernment and growth
 Where It Leads
 This Sanctuary Meditation technique is the basis for the Journeys of the Spirit workshop, which teaches you how to receive even more insight and information through guidance.
 Reserve Your Place
-3 Hours
-Dates to be announced. Reach out and we will let you know when the next Sanctuary Meditation is scheduled in Prague.
+2.5 Hours
+Reach out to reserve your place in the next Sanctuary Meditation Class in Prague.
 Hello, I would like to learn more about the Sanctuary Meditation.
 
 ## PAGE: /seven-mystery-schools

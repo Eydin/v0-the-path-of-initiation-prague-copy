@@ -3,7 +3,7 @@
 import { useTranslations, useFormatter } from "next-intl"
 import { CalendarDays, Clock, MapPin, ArrowRight } from "lucide-react"
 import { Link } from "@/i18n/navigation"
-import { getUpcomingDates, parseLocalDate, SCHEDULE } from "@/lib/schedule"
+import { getUpcomingDates, parseLocalDate, SCHEDULE, timeFor } from "@/lib/schedule"
 import { ScrollReveal } from "./scroll-reveal"
 
 // ── Inner card: the next two future dates for a class ─────────────────────
@@ -43,7 +43,7 @@ export function UpcomingDates({
               <span className="flex items-center gap-4 text-sm text-muted-foreground">
                 <span className="inline-flex items-center gap-1.5">
                   <Clock className="h-3.5 w-3.5 text-primary" />
-                  {cls.time}
+                  {timeFor(cls, date)}
                 </span>
                 <span className="inline-flex items-center gap-1.5">
                   <MapPin className="h-3.5 w-3.5 text-primary" />
