@@ -234,13 +234,11 @@ Radu Coman
 https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
 A Two-Day Program
 Initiation into the Lineage of King Salomon
-What if you had simple tools to feel calm, protected and in charge of your life, every single day?
 If you could be like God — filled with love, harmony, and creative power — would you do it?
-It is also an initiation, which simply means a new beginning. Over the two days you receive keys from a tradition that has been passed from teacher to student for over 3,000 years, and you take them home to use every day.
-You'll leave with a daily practice, a calmer and clearer mind, a sense of your own strength, and a clear idea of your next step.
-And you won't be doing it alone.
-Diana and Radu guide you through both days, and the community is here for you long after.
-These teachings were kept safe by everyone who walked this path before you, so that you can use them today.
+It is the very same initiation that has been passed from teacher to student, without a break, for over 3,000 years, since the time of King Salomon. The keys you receive are the keys the initiates of old received, and they are yours for the rest of your life.
+You leave with a sacred daily practice, a mind that is clear and still, a deep sense of your own power, and the knowing of your next step.
+Diana and Radu will be by your side during the 2 days and long after that.
+These teachings were guarded like a precious jewel by everyone who walked this path before you, so that today they could reach you.
 Is this your next step?
 Dear Seeker,
 I speak to you now not only as a spiritual guide in an ancient Lineage of Light—but also as an engineer. I know, at first glance these two paths may seem like completely different worlds. But both have revealed to me the same profound truth: there is a deeper design in everything that exists .

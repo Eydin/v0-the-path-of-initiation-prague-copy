@@ -393,14 +393,12 @@
     "heroTitle": "Das {brand}-Programm",
     "heroSubtitle": "Initiation in die Linie von König Salomon",
     "invitation": {
-      "question": "Was wäre, wenn du einfache Werkzeuge hättest, um dich jeden Tag ruhig, geschützt und als Gestalter deines Lebens zu fühlen?",
       "god": "Wenn du wie Gott sein könntest — erfüllt von Liebe, Harmonie und schöpferischer Kraft — würdest du es tun?",
-      "body1": "{brand} ist ein zweitägiger Kurs in einer kleinen Gruppe, hier in Prag. Du lernst praktische Werkzeuge, um deine Energie zu reinigen und zu schützen, die Muster zu erkennen, die sich in deinem Leben wiederholen, und sie zu verändern.",
-      "body2": "Es ist auch eine Initiation, was einfach einen Neuanfang bedeutet. In den zwei Tagen erhältst du Schlüssel aus einer Tradition, die seit über 3.000 Jahren vom Lehrer an den Schüler weitergegeben wird, und nimmst sie für jeden Tag mit nach Hause.",
-      "body3": "Du gehst mit einer täglichen Praxis, einem ruhigeren und klareren Geist, einem Gefühl für deine eigene Stärke und einer klaren Vorstellung von deinem nächsten Schritt.",
-      "body4": "Und du bist dabei nicht allein.",
-      "body5": "Diana und Radu begleiten dich durch beide Tage, und die Gemeinschaft ist noch lange danach für dich da.",
-      "body6": "Diese Lehren wurden von allen bewahrt, die diesen Weg vor dir gegangen sind, damit du sie heute nutzen kannst.",
+      "body1": "{brand} ist eine zweitägige Initiation in einer kleinen, vertrauten Gruppe, hier in Prag. Sie ist ein seltenes Tor: Du empfängst kraftvolle Rituale und heilige Werkzeuge, um deine Energie zu reinigen und zu schützen, die Muster zu erkennen, die dein Leben geprägt haben, und über sie hinauszuwachsen.",
+      "body2": "Es ist genau dieselbe Initiation, die seit über 3.000 Jahren, seit der Zeit König Salomons, ohne Unterbrechung vom Lehrer an den Schüler weitergegeben wird. Die Schlüssel, die du erhältst, sind die Schlüssel, die schon die Eingeweihten alter Zeiten erhielten, und sie gehören dir für den Rest deines Lebens.",
+      "body3": "Du gehst mit einer heiligen täglichen Praxis, einem klaren und stillen Geist, einem tiefen Gefühl für deine eigene Kraft und dem Wissen um deinen nächsten Schritt.",
+      "body4": "Diana und Radu sind an beiden Tagen an deiner Seite und auch noch lange danach.",
+      "body6": "Diese Lehren wurden von allen, die diesen Weg vor dir gegangen sind, wie ein kostbares Juwel gehütet, damit sie heute dich erreichen.",
       "callToAction": "Ist das dein nächster Schritt?"
     },
     "letter": {

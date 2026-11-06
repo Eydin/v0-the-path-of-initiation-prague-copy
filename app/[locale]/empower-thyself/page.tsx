@@ -80,18 +80,15 @@ export default async function EmpowerThyself({
       <Panel wide>
         <div className="grid items-center gap-10 md:grid-cols-2">
           <div className="space-y-4">
-            <h3 className="font-serif text-2xl tracking-wide text-primary">
-              {t("invitation.question")}
-            </h3>
             {/* said openly up front: this class talks about God */}
-            <p className="font-serif text-xl italic leading-relaxed text-primary">{t("invitation.god")}</p>
+            <h3 className="pb-2 font-serif text-3xl italic leading-snug tracking-wide text-primary md:text-4xl">
+              {t("invitation.god")}
+            </h3>
             <p className="text-lg leading-relaxed text-foreground">{t("invitation.body1", { brand: BRAND.empowerThyself })}</p>
             <p className="text-lg leading-relaxed text-foreground">{t("invitation.body2")}</p>
             <p className="text-lg leading-relaxed text-foreground">{t("invitation.body3")}</p>
             <p className="text-lg leading-relaxed text-foreground">
               {t("invitation.body4")}
-              <br />
-              {t("invitation.body5")}
               <br />
               {t("invitation.body6")}
             </p>

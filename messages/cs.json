@@ -393,14 +393,12 @@
     "heroTitle": "Program {brand}",
     "heroSubtitle": "Iniciace do linie krále Šalomouna",
     "invitation": {
-      "question": "Co kdybyste měli jednoduché nástroje, jak se každý den cítit klidní, chránění a pány svého života?",
       "god": "Kdybyste mohli být jako Bůh — naplněni láskou, harmonií a tvůrčí silou — udělali byste to?",
-      "body1": "{brand} je dvoudenní kurz v malé skupině, přímo tady v Praze. Naučíte se praktické nástroje, jak čistit a chránit svou energii, rozpoznat vzorce, které se ve vašem životě stále opakují, a změnit je.",
-      "body2": "Je to také iniciace, což jednoduše znamená nový začátek. Během dvou dnů dostanete klíče z tradice, která se předává od učitele k žákovi už přes 3 000 let, a odnesete si je domů pro každodenní použití.",
-      "body3": "Odejdete s každodenní praxí, klidnější a jasnější myslí, pocitem vlastní síly a jasnou představou o svém dalším kroku.",
-      "body4": "A nebudete na to sami.",
-      "body5": "Diana a Radu vás provedou oběma dny a komunita je tu pro vás i dlouho potom.",
-      "body6": "Tato učení uchovali všichni, kdo šli touto cestou před vámi, abyste je dnes mohli používat vy.",
+      "body1": "{brand} je dvoudenní iniciace v malé, důvěrné skupině, přímo tady v Praze. Je to vzácná brána: dostanete mocné rituály a posvátné nástroje, jak očistit a chránit svou energii, uvidět vzorce, které formovaly váš život, a povznést se nad ně.",
+      "body2": "Je to přesně ta samá iniciace, která se bez přerušení předává od učitele k žákovi už přes 3 000 let, od dob krále Šalomouna. Klíče, které dostanete, jsou klíče, které dostávali zasvěcenci dávných dob, a zůstanou vám po celý život.",
+      "body3": "Odejdete s posvátnou každodenní praxí, myslí jasnou a klidnou, hlubokým vědomím vlastní síly a jistotou o svém dalším kroku.",
+      "body4": "Diana a Radu budou po vašem boku během obou dnů i dlouho potom.",
+      "body6": "Tato učení střežili jako vzácný klenot všichni, kdo šli touto cestou před vámi, aby se dnes mohla dostat k vám.",
       "callToAction": "Je to váš další krok?"
     },
     "letter": {

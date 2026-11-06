@@ -393,14 +393,12 @@
     "heroTitle": "Programul {brand}",
     "heroSubtitle": "Inițiere în linia regelui Solomon",
     "invitation": {
-      "question": "Ce-ar fi dacă ai avea instrumente simple ca să te simți calm(ă), protejat(ă) și stăpân(ă) pe viața ta, în fiecare zi?",
       "god": "Dacă ai putea fi ca Dumnezeu — plin de iubire, armonie și putere creatoare — ai face-o?",
-      "body1": "{brand} este un curs de două zile într-un grup mic, chiar aici, la Praga. Înveți instrumente practice ca să-ți cureți și să-ți protejezi energia, să recunoști tiparele care se tot repetă în viața ta și să le schimbi.",
-      "body2": "Este și o inițiere, ceea ce înseamnă pur și simplu un nou început. În cele două zile primești chei dintr-o tradiție transmisă de la profesor la elev de peste 3.000 de ani și le iei acasă ca să le folosești zilnic.",
-      "body3": "Pleci cu o practică zilnică, o minte mai calmă și mai limpede, un sentiment al propriei puteri și o idee clară despre următorul tău pas.",
-      "body4": "Și nu vei fi singur(ă).",
-      "body5": "Diana și Radu te ghidează în ambele zile, iar comunitatea este alături de tine mult timp după aceea.",
-      "body6": "Aceste învățături au fost păstrate de toți cei care au parcurs calea înaintea ta, ca să le poți folosi astăzi.",
+      "body1": "{brand} este o inițiere de două zile într-un grup mic și apropiat, chiar aici, la Praga. Este o poartă rară: primești ritualuri puternice și instrumente sacre ca să-ți cureți și să-ți protejezi energia, să vezi tiparele care ți-au modelat viața și să te înalți deasupra lor.",
+      "body2": "Este exact aceeași inițiere transmisă de la profesor la elev, fără întrerupere, de peste 3.000 de ani, din vremea Regelui Solomon. Cheile pe care le primești sunt cheile pe care le primeau inițiații din vechime, iar ele rămân ale tale pentru tot restul vieții.",
+      "body3": "Pleci cu o practică zilnică sacră, o minte limpede și liniștită, o conștiință profundă a propriei puteri și cunoașterea următorului tău pas.",
+      "body4": "Diana și Radu vor fi alături de tine în cele 2 zile și mult timp după aceea.",
+      "body6": "Aceste învățături au fost păzite ca o bijuterie prețioasă de toți cei care au parcurs această cale înaintea ta, ca astăzi să ajungă la tine.",
       "callToAction": "Este acesta următorul tău pas?"
     },
     "letter": {
