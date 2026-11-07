@@ -12,8 +12,19 @@ import {
   BookingBlock,
 } from "@/components/modality"
 import { SacredGeometrySeriesLinks } from "@/components/sacred-geometry-series-links"
+import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
+import { DiscoverCards, MastersStrip, WorkshopGallery } from "@/components/sacred-geometry-fun"
 
 const STRIPE = "https://buy.stripe.com/aFa00c4Dt0NE8R780jg360s"
+
+// Real photos from our Sacred Geometry workshops in Prague (captions in messages: SacredGeometryPage.gallery)
+const PHOTOS = [
+  { src: "/images/sacred-geometry/sg1-teaching.jpg" },
+  { src: "/images/sacred-geometry/sg1-cutting-shapes.jpg", portrait: true },
+  { src: "/images/sacred-geometry/sg1-triangles.jpg" },
+  { src: "/images/sacred-geometry/sg1-guidance.jpg", portrait: true },
+  { src: "/images/sacred-geometry/sg1-altar.jpg", portrait: true },
+]
 
 export async function generateMetadata({
   params,
@@ -39,7 +50,14 @@ export default async function SacredGeometry({
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "SacredGeometryPage" })
   const inquiry = t("inquiry", { brand: BRAND.sacredGeometryI })
-  const benefits = [0, 1, 2, 3].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
+  const benefits = t.raw("benefits") as { label: string; text: string }[]
+  const uses = (t.raw("uses") as string[]).map((text) => ({ text }))
+  const faq = t.raw("faq") as FaqItem[]
+  const why = (t.raw("why") as string[]).map((text) => ({ text }))
+  const expect = (t.raw("expect") as string[]).map((text) => ({ text }))
+  const masters = t.raw("masters") as { name: string; era: string; text: string }[]
+  const captions = t.raw("gallery") as string[]
+  const photos = PHOTOS.map((p, i) => ({ ...p, alt: captions[i] }))
 
   return (
     <ModalityShell bg="flammarion.jpg" position="center 30%">
@@ -76,10 +94,32 @@ export default async function SacredGeometry({
         </div>
       </Panel>
 
+      {/* real photos from our workshops: who you'll be with, what it looks like */}
+      <WorkshopGallery heading={t("galleryHeading")} intro={t("galleryIntro")} photos={photos} />
+
+      {/* why it matters in daily life: "create sacred space — why do I need this?" */}
       <Panel>
-        <PanelHeading>{t("learnHeading")}</PanelHeading>
-        <BenefitList items={benefits} />
+        <PanelHeading>{t("whyHeading")}</PanelHeading>
+        <BenefitList items={why} />
       </Panel>
+
+      <DiscoverCards heading={t("learnHeading")} items={benefits} />
+
+      {/* real life: how people use what they learn */}
+      <Panel>
+        <PanelHeading>{t("usesHeading")}</PanelHeading>
+        <BenefitList items={uses} />
+      </Panel>
+
+      <MastersStrip heading={t("mastersHeading")} intro={t("mastersIntro")} masters={masters} />
+
+      {/* the practical side: how long, with whom, what happens */}
+      <Panel>
+        <PanelHeading>{t("expectHeading")}</PanelHeading>
+        <BenefitList items={expect} />
+      </Panel>
+
+      <ModalityFaq items={faq} disclaimer={false} />
 
       <SacredGeometrySeriesLinks current="sacred-geometry" />
     </ModalityShell>

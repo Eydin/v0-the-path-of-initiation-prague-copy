@@ -226,19 +226,20 @@ Amethyst geode · photo by Calvin Chai, Unsplash
 3.669 CZK
 /sacred-rites-healing
 
+## PAGE: /emotional-cord-cutting
+center 40%
+
 ## PAGE: /empower-thyself
 Radu Coman
 https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
 A Two-Day Program
 Initiation into the Lineage of King Salomon
 If you could be like God — filled with love, harmony, and creative power — would you do it?
-This initiation will expand the horizon of what you believe is possible. It awakens new potentials and challenges us to release old dogmas and paradigms.
-Over the course of these two days, you will receive keys that unlock the potential within your mind to embody your divine nature. We all carry this potential—it is already within you. Now is the time to bring it to the surface and make it the focus of your life.
-You will learn how to move beyond the negative ego that stands in your way and receive practical tools to support you in this process. The initiation will accelerate your transformation, helping you experience results faster and enjoy the journey of becoming your true self.
-You will be supported by an ancient lineage that stands behind you.
-Those who have walked this path before you are here to guide you with their wisdom and experience.
-Through their dedication, these teachings have been preserved in their purest form—kept safe so that we may benefit from them today.
-Will you answer the call?
+It is the very same initiation that has been passed from teacher to student, without a break, for over 3,000 years, since the time of King Salomon. The keys you receive are the keys the initiates of old received, and they are yours for the rest of your life.
+You leave with a sacred daily practice, a mind that is clear and still, a deep sense of your own power, and the knowing of your next step.
+Diana and Radu will be by your side during the 2 days and long after that.
+These teachings were guarded like a precious jewel by everyone who walked this path before you, so that today they could reach you.
+Is this your next step?
 Dear Seeker,
 I speak to you now not only as a spiritual guide in an ancient Lineage of Light—but also as an engineer. I know, at first glance these two paths may seem like completely different worlds. But both have revealed to me the same profound truth: there is a deeper design in everything that exists .
 In engineering, we study structure, energy, and systems.
@@ -247,42 +248,45 @@ This path does not ask you to believe blindly. It invites you to experience. To 
 If you feel that life has a deeper architecture… If you've always known, somewhere inside, that you are here for something more—even if you haven't yet been able to name it… Then this step may be your next beginning.
 It would be an honor for me to guide you. From one seeker of truth to another, with clarity, structure, and soul.
 Your guide in the Lineage of Light
-Driven by the desire to help people discover and fulfill their divine potential, Salomon gathered the wisest masters of his time — healers, doctors, sages, mystics, and spiritual seekers. Together, they tested and refined all known methods of transformation until they created a clear, profound, and practical system designed to work for anyone, regardless of culture or era.
-This system is still effective today and brings results in areas where modern science has not yet been able to.
-This program is designed to help you realize that you have the power to create the life you truly desire. It empowers you to see where you might be holding yourself back and where you're settling for less than you deserve. But it doesn't stop there — this program also gives you the tools to change those parts of your life! After these two days, you'll be able to recognize the patterns and programs that shape your behavior, understand where they come from, and have the power to release them.
-You will open pathways through which you can access more energy, new knowledge and fresh insights, empowering you to create a new life that brings you complete fulfillment.
-This is a practical and interactive program, after which you will be confident that you understand exactly what you need to do next to continue your growth and transformation.
-You will gain clarity and structure in your understanding of spirit and human nature, as well as clear insight into experiences you may have already encountered.
-You will learn to recognize the unseen world, access it, and interact with it.
-You will learn how to gather the power of your thoughts and use it to create good around you.
-You will practice sacred rituals and participate in a sacred initiation ceremony.
-What makes this program special?
-We don't just teach you theory. There are many teachers who can talk to you about spirituality. We offer you authentic, powerful tools and teach you how to use them in your life. We give you the key to unlock these powers within yourself!
-What will you learn in this program?
-How to answer the question "Who am I?"
-What is an initiation, and why do we need it today?
-The role of King Salomon in this process
-The Human potential to be God
-The 12 Dimensions of the Earth and the 7 Spiritual Dimensions
-The Structure of the Hierarchy of Light
-Meditation and Brainwave Frequencies
-The Influence of the Ego on the True Self
-The Cycle of Human Processes
-The Energetic Structure of the Human Being
+Salomon gathered the wisest healers, doctors and sages of his time. Together they tested every method of transformation they knew and kept only what really worked, for anyone, in any culture and any era.
+Ancient wisdom, made practical for modern life.
+What changes for you
+You'll begin to see where you hold yourself back and settle for less than you deserve, and you'll get the tools to change it. After these two days you can recognise the patterns that run your reactions, understand where they come from, and let them go.
+You'll feel more energy and clarity, and you'll know how to keep them.
+It's practical and hands-on: you practise everything during the class, so you go home knowing exactly what to do next.
+Things that may have puzzled you, like your intuition, vivid dreams or meaningful coincidences, will start to make sense.
+You'll learn to sense the unseen world and work with it safely.
+You'll learn to focus your thoughts and use them to create good things in your life.
+You'll practise sacred rituals and take part in an initiation ceremony.
+What makes this class special?
+Many people can talk about spirituality. Here you get real tools, you learn how to use them in your own life, and you have us beside you while you do.
+What will you learn?
+Who am I? Finding your own answer
+What an initiation is, and why it matters today
+Where these teachings come from: King Salomon and the lineage
+Your full potential, and how to grow into it
+How to create a sacred space at home, and why it helps you
+A short daily practice and a protection prayer you can use anywhere
+The physical and spiritual dimensions, and how to work with both
+The beings of light you can call on for help
+Meditation, and how your brainwaves change your state of mind
+Your ego: when it helps you and when it holds you back
+The patterns and cycles we all go through, and how to step out of them
+Your energy body, and how to clear and protect it
 Universal Kabbalah and the Tree of Life
-Throughout this program, you will receive teachings, practical exercises, and sacred rituals that you can use to elevate your life to the next level. All of these keys come from the lineage of King Salomon, passed down in an unbroken tradition for thousands of years.
+Every part comes with practical exercises and rituals you can use straight away, all from the lineage of King Salomon.
 What do you need to do?
-Reach out to us to discover whether this program is the right fit for you at this moment in your journey.
+Write to us: we'll have a friendly chat to see whether this is the right step for you now.
 We're here to support you with clarity and guidance, every step of the way.
 Receive a Life Activation session from one of our certified practitioners.
 Make a deposit or pay the full amount to reserve your spot.
 Attend the two-day class and participate in the initiation ceremony.
 Start applying what you've learned and enjoy the results.
-Recommendations
-This initiation opens a gateway to a new understanding of life, as well as a safe space you can return to whenever you need clarity, support, or guidance.
-We commit to supporting you not only throughout the program but also in the years ahead. Whether you have questions about applying the teachings in daily life, are going through a period of transformation, or simply feel ready to take the next step in your personal journey, we are here for you.
-This relationship is built over time — with trust, respect, and a honest intention to support your growth, balance, and inner strength.
-Discover Your Potential to Be a Divine Being!
+After the class
+You'll have a safe place to come back to whenever you need clarity, support or guidance.
+We're there for you not only during the two days but for years after: with questions about using the tools, through times of change, or when you feel ready for your next step.
+It's a relationship built over time, with trust, respect and a genuine wish to see you grow.
+Two days that can change how you live
 2 Days
 Held in Prague, Czech Republic. After your deposit we will contact you to schedule your Life Activation and confirm your place.
 Includes the 2 day training and a complimentary Life Activation session (valued at 8.500 CZK) to prepare your energy system and connect you to your divine blueprint before the Initiation.
@@ -421,9 +425,9 @@ Aura & Energy Healings
 Clearing, repairing and protecting your energetic field.
 Clears, balances and seals the seven layers of the aura through the geometry of light.
 Negative Energy Removal
-Removes energetic blocks and negative patterns from your energy system.
+Clears negative thoughts, words and intentions others have sent your way, such as jealousy, envy and ill will.
 Emotional Cord Cutting
-Disconnects draining emotional cords so you stop losing energy to other people.
+Cuts draining emotional ties to other people, so your energy is your own again.
 Shamanic Aura Clearing
 Shamanic techniques to clear blockages and heavy energies from the auric field.
 Ensofic Reiki
@@ -434,7 +438,7 @@ Sacred Geometry Ancient Crystal Healing
 An ancient crystal healing that takes you into deep relaxation and renews body and mind.
 Sacred Geometry Sacred Rites Healing
 A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune.
-Soul Retrieval
+Hermetic Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
 A remote healing that carries restorative energy to you across any distance.
@@ -512,21 +516,13 @@ Radu has walked this lineage himself and is glad to share what this program is r
 Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
 
 ## PAGE: /life-activation
+lucide-react
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
+/images/life-activation
 The Modern Mystery School · Lineage of King Salomon
 Activate the innate gifts that reside in your DNA
 Clear 5–7 generations of ancestral trauma and step into your highest potential
-Deep Connection with the Divine Self:
-Life Activation facilitates a deeper connection with your Divine Self, allowing the manifestation of your inner resources, talents, and potential.
-Energy and Clarity:
-The experience brings an infusion of energy and clarity into all areas of life, supporting your ability to navigate daily life with confidence.
-Manifestation of Talents and Abilities:
-By awakening the inner potential, you become more aware and capable of expressing your unique talents and abilities more fully.
-Body Transformation and Karma Release:
-Life Activation starts a process of transformation in the body, helping to release emotional and mental patterns stored in the DNA, known as “karma.”
-Expanded Use of Brain Capacity:
-Through this experience, the ability to tap into more of the brain's potential is enhanced, bringing to light previously overlooked or dormant capabilities.
-Additional Procedures for Balancing and Transformation
+A Closer Look at Your Session
 In addition to the activation itself, the session includes supplementary procedures designed to balance and stimulate the body in alignment with the newly activated information from the DNA.
 Emotional Blockage Removal:
 Focused on clearing potential emotional blockages from the crown chakra, this process creates a better flow of energy.
@@ -546,11 +542,75 @@ Energy Spray (Spagyrics):
 A spray created in the school's alchemy laboratory, designed to detoxify, support, and ease the physical and energetic changes associated with this unique experience.
 Explore the Higher Dimensions
 DNA Activation is a return to the self—a session that not only brings light into the darkness of life but also opens doors to unlimited potential.
-At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deeply transformative way. It is a step toward living life with greater energy, clarity, and awareness.
+At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deeply transformative way. You can continue this journey by taking the classes and initiation offered by the Mystery School.
 This is a groundbreaking method for inner transformation and unlocking your personal potential . It combines ancient wisdom with modern energies to help you grow and evolve. This technique is offered by the Modern Mystery School through Certified Life Activation Practitioners. It serves as a gateway to higher consciousness and spiritual expansion.
 Meet Your Authentic Power and Higher Self!
 2 Hours
 After the payment is completed, we will contact you to finalize the appointment.
+Awaken More of Who You Truly Are
+A glowing strand of DNA, lit with points of golden light
+The gifts, the clarity and the strength you are looking for may already be inside you, waiting to wake up. Life Activation is the session that awakens them.
+It comes from the lineage of King Salomon, kept alive for thousands of years and passed on today by the Modern Mystery School. In the session, 22 of your 24 strands of DNA are activated: 11 physical and 11 spiritual. This lets you receive and hold more Light, the life force that supports your healing, your clarity and your growth.
+It also clears what you have carried from your family line, up to 5–7 generations back, so you can step into your highest potential.
+What It Can Bring You
+Every person is different, but these are the changes people tell us about most often.
+Clarity
+You see your life and your choices more clearly, and decisions feel lighter.
+More energy
+A fresh flow of energy into every part of your life, so each day feels easier to carry.
+A stronger intuition
+You hear your inner voice more clearly, and you learn to trust it.
+Your talents, awake
+Gifts that were sleeping come to the surface, and expressing them becomes easier.
+Freedom from old patterns
+Emotional and mental patterns stored in your DNA, known as karma, begin to release, including those passed down in your family.
+Your Divine Self
+A deeper connection with who you truly are, and with the inner resources and potential that come with it.
+You don't need any spiritual background. If one of these sounds like you, this may be your moment.
+Business owners
+For clear decisions and the energy to lead.
+Parents
+For patience, calm and more energy to spend with your children.
+Students
+For focus, and confidence in the path you choose.
+Artists and creatives
+For fresh inspiration and the courage to share it.
+Healers and therapists
+For a stronger, clearer channel for your work.
+Busy professionals
+For balance, and energy that lasts the whole week.
+Seekers of purpose
+For answers about why you are here and what comes next.
+Anyone who feels stuck
+For a fresh start when the same patterns keep coming back.
+Your Session, Step by Step
+About two hours, in person in Prague. There is nothing to prepare: you only need to receive.
+Sacred tools prepared for a session: a golden ankh, crystals and wrapped wands
+Settle in and relax
+You begin by relaxing and letting go of the worries of the day.
+The clearing
+You sit comfortably while the first part of the clearing begins.
+The balancing
+For about 20–30 minutes you stand while your chakras and etheric body are balanced.
+The activation
+You sit again to receive the activation of 22 strands of your DNA.
+A short reading
+A brief reading from your newly activated DNA, with insights and guidance just for you.
+The weeks after
+The activation keeps unfolding for one to three months, and we stay in touch with you during this time.
+In Certified Hands
+A practitioner holding a hand-wrapped crystal tool
+Only practitioners certified directly by Modern Mystery School International may give a Life Activation, and they renew their certification every year.
+Diana and Radu are both certified Life Activation Practitioners. They welcome you warmly, work with gentleness and grace, and stay by your side in the weeks that follow.
+See our certifications
+A circle of hand-wrapped crystal wands used in Life Activation sessions
+The two-day class and initiation into the lineage of King Salomon, where you learn powerful rituals to use every day.
+Discover more
+In their own words
+Hear It from Those Who Received It
+Life Activation · Part I
+Life Activation · Part II
+About the Life Activation · Dr. Theresa Bullard-Whyke
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Email
@@ -859,9 +919,9 @@ Aura & Energy Healings
 Clearing, repairing and protecting your energetic field.
 Clears, balances and seals the seven layers of the aura through the geometry of light.
 Negative Energy Removal
-Removes energetic blocks and negative patterns from your energy system.
+Clears negative thoughts, words and intentions others have sent your way, such as jealousy, envy and ill will.
 Emotional Cord Cutting
-Disconnects draining emotional cords so you stop losing energy to other people.
+Cuts draining emotional ties to other people, so your energy is your own again.
 Shamanic Aura Clearing
 Shamanic techniques to clear blockages and heavy energies from the auric field.
 Ensofic Reiki
@@ -872,7 +932,7 @@ Sacred Geometry Ancient Crystal Healing
 An ancient crystal healing that takes you into deep relaxation and renews body and mind.
 Sacred Geometry Sacred Rites Healing
 A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune.
-Soul Retrieval
+Hermetic Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
 A remote healing that carries restorative energy to you across any distance.
@@ -898,6 +958,9 @@ Tree of Life Awakening
 Awakens your connection to the Tree of Life and expands consciousness.
 Chakra Awakening
 Awakens and harmonises the body's seven energy centres.
+
+## PAGE: /negative-energy-removal
+center 40%
 
 ## PAGE: /
 Know thyself, and thou shalt know
@@ -1016,25 +1079,75 @@ Hello, I would like to learn more about Sacred Geometry IV.
 
 ## PAGE: /sacred-geometry
 https://buy.stripe.com/aFa00c4Dt0NE8R780jg360s
-A Workshop of the Mystery School
-The language in which creation is written
-Learn to work with the building blocks of the universe
-The hidden architecture of all things
-From the spiral of a shell to the orbit of the planets, the same patterns repeat at every scale of existence. Sacred geometry is the study of those patterns — the forms through which spirit takes shape in matter. For the initiates of old, it was nothing less than the language of the Divine.
-In this workshop you learn to recognise these forms, to work with them consciously, and to use the primary keys of sacred geometry to create clear, protected and sacred space — in your home, your practice, and within yourself.
+A half-day workshop in Prague
+Learn the language of the universe, and how to protect the energy of your home
+The three keys to Heaven: the shapes everything is built from, and how to use them in daily life
+The spaces you live in affect how you feel
+You have probably felt it: some rooms make you calm and clear, others leave you tired or tense. A space holds the energy of the people and moments it has seen, and that energy affects you. Sacred geometry gives you a simple way to change it.
+This workshop is for anyone who wants the real, practical use of sacred geometry, not just the theory. In 4.5 hours, in a small group, you learn the three primary shapes, how to clear negative energy from yourself and from a room, and how to create a sacred space: a calm, protected place at home, at work or wherever you go. It's the same geometry that inspired Pythagoras, Leonardo da Vinci and Tesla.
 Reserve Your Place
-What You Will Learn
-The primary forms:
-The foundational shapes of creation and the qualities each one carries.
-Creating sacred space:
-Use the keys of sacred geometry to clear, protect and consecrate a space.
-Geometry as a tool:
-Apply these forms for focus, meditation, manifestation and healing.
-Living the pattern:
-See the order beneath everyday life and align yourself with it.
-Read the Language of Creation
+What You'll Discover
+The three keys to Heaven:
+The three primary shapes everything in creation is built from, what each one means, and an attunement that awakens them in your body and aura.
+Sealing and protecting your space:
+How to clear and seal your home, your office or any room, so negative energy doesn't build up.
+Creating a temple space:
+How to raise the energy of a room for meditation, healing, study or work.
+Geometry and the four elements:
+How to combine the shapes with earth, water, air and fire to bring your intentions into real life.
+Seeing it everywhere:
+Noticing how sacred geometry already shapes your body, nature and daily life, and working with it consciously.
+Create Your Sacred Space
 4.5 Hours
-Workshops run in small groups. Reach out for the next scheduled date in Prague.
+Small groups, in person in Prague. Reach out to us for the next date.
+Why Create a Sacred Space?
+Your home becomes a place where you truly rest and recharge
+The heaviness left by arguments, stress or busy days doesn't linger
+Meditation, prayer and focus come more easily
+You feel protected, even in busy or difficult places
+It's the foundation for every other practice on the path
+What to Expect
+4.5 hours in a small, friendly group, in person in Prague
+Clear explanations and plenty of hands-on practice: you try everything yourself
+An attunement to the three primary shapes during the workshop
+Tools you can start using the same evening
+The first step of the Sacred Geometry series, which opens the door to Sacred Geometry II
+How People Use It
+Helping a child sleep more peacefully by preparing their room
+Staying calm and protected in a demanding job or a busy office
+Preparing a room for clients, so they relax and open up more easily
+Clearing the home after an argument, an illness or a stressful visit
+Creating a quiet corner for daily meditation and prayer
+Is this workshop for beginners?
+Yes. It's designed as a first step: everything is explained clearly, and we practise each tool together until it feels natural.
+What should I bring?
+Comfortable clothes, a notebook and a pen. Bring your curiosity, too: questions are always welcome.
+Where do these teachings come from?
+From the Modern Mystery School and the lineage of King Salomon, where sacred geometry has been taught from teacher to student for thousands of years.
+What comes after Sacred Geometry I?
+When you're ready, Sacred Geometry II: Crystal Healing & Space Protection builds on what you learn here, and the series continues with Sacred Geometry III and IV.
+/sacred-geometry-2
+Inside the Workshop
+Real moments from our classes in Prague: small groups, paper, scissors and coloured pens, lots of questions, and good company.
+Learning together in Prague
+Cutting out the three primary shapes by hand
+The triangle: one of the three keys to Heaven
+Radu guiding each person step by step
+Practising together at the altar
+The Masters Who Studied It
+For thousands of years, some of the greatest minds saw geometry as the hidden order of life.
+Pythagoras
+6th century BC
+Taught his students in his own mystery school that number and shape are the hidden order of the universe.
+Plato
+4th century BC
+According to tradition, the entrance to his Academy read: Let no one ignorant of geometry enter.
+Leonardo da Vinci
+15th century
+Drew the Vitruvian Man, showing the sacred proportions of the human body in a circle and a square.
+Galileo Galilei
+17th century
+Wrote that the book of nature is written in the language of mathematics, its letters triangles, circles and other figures.
 
 ## PAGE: /sacred-rites-healing
 center 30%
@@ -1120,7 +1233,6 @@ Hello, I would like to learn more about the 7 Mystery Schools workshop.
 
 ## PAGE: /soul-retrieval
 center 30%
-6.150 CZK
 
 ## PAGE: /spark-of-life
 center 40%
@@ -1264,7 +1376,6 @@ Begin Your Journey
 
 ## PAGE: /treating-negative-habits
 center 30%
-4.900 CZK
 
 ## PAGE: /withdraw-from-contract
 Withdraw from the Contract | The Path of Initiation Prague
@@ -1350,9 +1461,21 @@ Calendar
 Community
 
 ## PAGE: (component) calendar-widget-section.tsx
-Would you like to join a class or a workshop?
-Explore our upcoming events
-View Calendar
+ev.date
+In Prague
+This week in Prague
+Coming up in Prague
+It's a quiet week here, so here's what's coming next. Save the date!
+The next seven days
+Today
+Wake up the gifts you were born with
+Step through a doorway into a new chapter
+Learn something wonderful in a small, friendly group
+Tea, good company and a calm evening together
+Come along
+New dates are on their way. Check the calendar or write to us!
+See the full calendar
+Not sure what's for you? Just ask, we love questions.
 The Path Ahead
 Calendar of Classes
 Every activation, initiation, workshop and community gathering held in Prague and other international locations over the coming season. Follow the path one step at a time.
@@ -1365,16 +1488,19 @@ Not sure where to begin? Reach out and Radu will guide you personally.
 Ask About a Class
 
 ## PAGE: (component) classes-section.tsx
-Upcoming Events
-Upcoming Classes in Prague
-Each class is a stepping stone on the path of initiation. Begin with the Life Activation and progress through the sacred curriculum.
-Awaken your divine blueprint and ignite the full potential encoded within your DNA. This is the foundational session of the mystery school lineage.
-Foundation
-A 2-day initiation program where you receive the sacred tools and teachings to take command of your life and step onto the path as an Initiate.
+Learn with us
+Classes in Prague
+Small, friendly groups where you learn real tools you can use in daily life. Most people begin with the Life Activation.
+A one-to-one session that wakes up the gifts you were born with. Many people feel lighter, clearer and more themselves afterwards. It's the first step on the path.
+Start here
+About 2 hours · one-to-one · in person in Prague
+Two days with a small group where you learn how to clear and protect your energy, recognise the patterns that run your life and change them, and create a sacred space at home.
 Initiation
+2 days · small group · in person in Prague
 View Full Calendar
-Study the divine patterns that underpin all of creation, how to astral travel, communicate with your higher self and more.
-Advanced Study
+Sacred geometry, astral travel, talking with your higher self and more. Hands-on classes you can join step by step, at your own pace.
+Keep learning
+Half-day and weekend classes · small groups
 Learn More
 
 ## PAGE: (component) community-carousel.tsx
@@ -1487,22 +1613,22 @@ The door is open, but only you can choose to step through it. If you feel the ca
 Book a Life Activation
 
 ## PAGE: (component) ending-section.tsx
-Where All Worlds Meet
-Bridging the Ancient, the Universal, and the Modern
+Where all worlds meet
+Ancient wisdom for modern life
 The Ancient Wisdom
 Temples, Priests & Sacred Rites
 The Universal Science
 Galactic Knowledge & Light
 The Modern Initiate
 Empowered Men & Women
-This path bridges the ancient wisdom of the mystery schools with the universal galactic science that has guided civilisations across the cosmos.
-The result is a living system of knowledge that is profoundly applicable to the modern-day men and women who are ready to awaken, transform, and lead.
+What we teach comes from the ancient mystery schools and the universal science they preserved, and it is surprisingly practical for life today.
+It is for modern men and women who want to feel better, understand themselves and live with more purpose and joy.
 
 ## PAGE: (component) facts-section.tsx
 /testimonials#maria-testimonial
 /testimonials#ana-testimonial
 /testimonials
-Do you want to become an initiate of the mysteries? Then read on.
+Curious where this path can take you? Here is what others have found.
 A Legacy That Speaks for Itself
 Years of Unbroken Lineage
 Countries Worldwide
@@ -1696,6 +1822,10 @@ Prices & Sign-Up on MMS UK
 Inquire
 Book Now
 See Details
+In person · Prague
+In person or remote
+Distance healing
+In person or online
 
 ## PAGE: (component) healing-session-page.tsx
 benefits
@@ -1704,6 +1834,9 @@ Questions
 Frequently Asked Questions
 Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
+You'll be in good hands
+Diana and Radu Coman
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: (component) healings-widget-section.tsx
 One-to-one healing in Prague
@@ -1728,7 +1861,7 @@ Not sure where to begin? Ask us on WhatsApp
 Hello, I would like to learn more about the Path of Initiation.
 
 ## PAGE: (component) initiate-invite.tsx
-Do you want to become an initiate of the mysteries? Then read on.
+Curious where this path can take you? Here is what others have found.
 A Legacy That Speaks for Itself
 Years of Unbroken Lineage
 Countries Worldwide
@@ -1742,6 +1875,36 @@ Ana from Czech Republic
 I came seeking answers and found a whole new dimension of life. The tools I received are beyond anything I imagined.
 Sophie from Canada
 
+## PAGE: (component) looking-for-section.tsx
+lucide-react
+stressed
+/max-meditation
+Maybe you need this
+What are you looking for?
+Tap what feels true for you right now, and we'll show you a good place to start.
+I'm stressed and can't switch off
+Max Meditation
+Certain people drain my energy
+Emotional Cord Cutting
+I keep repeating the same old patterns
+Treating of Negative Habits
+My body needs relief and healing
+Ensofic Reiki
+Something in me feels missing
+Hermetic Soul Retrieval
+I want to discover my gifts
+Life Activation
+I've always wanted to learn this
+Empower Thyself
+I'd love to meet kind, like-minded people
+Community evenings
+Still not sure?
+Write to us and we'll help you choose.
+Hello, I'm not sure where to start. Could you help me choose?
+
+## PAGE: (component) mms-link.tsx
+text-primary underline underline-offset-4 hover:opacity-80
+
 ## PAGE: (component) modality-faq.tsx
 ./ui/accordion
 disclaimer
@@ -1749,6 +1912,9 @@ Questions
 Frequently Asked Questions
 Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
+You'll be in good hands
+Diana and Radu Coman
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: (component) modality.tsx
 radu@thepathofinitiationprague.com
@@ -1788,17 +1954,17 @@ No noise. Unsubscribe anytime.
 end start
 
 ## PAGE: (component) pillars-section.tsx
-The Foundation
-The Four Pillars of Transformation
-Each pillar builds upon the last, creating a complete system of spiritual evolution that has stood the test of time.
+How the path works
+Four steps that build on each other
+You don't have to do everything at once. Each step stands on its own and prepares you for the next.
 Activation
-Awaken your DNA and restore your connection to your Spirit. This work begins with the Life Activation and continues through the Full Spirit Activation.
+Wake up the gifts you were born with. It starts with the Life Activation, a one-to-one session, and can continue with the Full Spirit Activation.
 Initiation
-Purify and prepare the vessel to receive the pure Light of Spirit and manifest it without distortion into the physical — the path opened by Empower Thyself.
+Learn how to clear and protect your energy and take charge of your life. This begins with Empower Thyself, a two-day class.
 Study & Learn
-By mastering the arts and sciences of Sacred Geometry, Astral Travel, Kabbalah and many more, you become a master of your physical life.
+Explore sacred geometry, astral travel, Kabbalah and more in small, friendly classes, and use what you learn every day.
 Serving Others
-Life is not complete, and you cannot fully understand it, unless you also strive to be of service to others. By guiding, healing, teaching and generally supporting others in their needs, you become the full version of yourself.
+Share what you have learned: help, heal and support the people around you. This is where the path becomes truly yours.
 
 ## PAGE: (component) quote-breaker.tsx
 --primary
@@ -1821,20 +1987,25 @@ Egyptian Aura Healing — restoring the 7 layers of the aura.
 Sacred space and living temples.
 
 ## PAGE: (component) teaser-section.tsx
-Commitment to Greatness
-This is Not a Weekend Workshop
-Let us be clear: The Path of Initiation is a rigorous training program. It involves months of dedicated study, constant practice, and an unwavering commitment to your own transformation. This is not a casual seminar or a feel-good retreat.
-This is a sacred commitment to become the greatest version of yourself — to unlock powers that most people will never know exist, and to step into a lineage that has shaped the course of human history.
-What is expected of you
-An open mind
-A willingness to explore new perspectives and challenge your current assumptions.
-Daily practice
-Consistent application of the tools and techniques in your everyday life.
-A commitment to self-mastery
-A genuine desire to understand yourself, develop your potential, and take responsibility for your own evolution.
-A spirit of service
-A willingness to use your growth and development to uplift yourself and positively contribute to the lives of others.
-This is your journey, your investment, and your responsibility. You undertake this work for your own evolution and for the life you choose to create. No one can do it for you.
+A path, not a quick fix
+Real change, at your own pace
+The path of initiation unfolds over months, not over a weekend. You learn practical tools, use them in daily life and grow step by step, with us and a warm community beside you.
+You don't need to be special or have everything figured out. If you are curious and willing to practise , you are ready to begin.
+All you need to bring
+Curiosity
+An open mind and the wish to see things in a new way.
+A little practice
+A few minutes a day with the tools you learn. That is where the change happens.
+Willingness to grow
+The wish to understand yourself better and take your life into your own hands.
+A kind heart
+The joy of sharing what you grow into with the people around you.
+It is your journey, and you will never walk it alone: we are here to guide you, and the community is here to cheer you on.
+
+## PAGE: (component) welcome-strip.tsx
+Hi, we're Diana and Radu
+We'll welcome you in person in Prague, take the time to listen, and guide you through every step. Whether you come for a healing, a class or a calm evening with the community, you won't be on your own.
+Get to know us
 
 ## PAGE: (component) withdrawal-form.tsx
 w-full rounded-sm border border-border bg-background/60 px-4 py-3 text-base text-foreground placeholder:text-muted-foreground backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary
@@ -1869,16 +2040,4 @@ https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
 https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
 8.500 CZK
 /life-activation
-/full-spirit-activation
-4.800 CZK
-/aura-healing
-4.900 CZK
-/ensofic-reiki
-/treating-negative-habits
-3.669 CZK
-/crystal-healing
-/sacred-rites-healing
-6.150 CZK
-/soul-retrieval
-/spark-of-life
-/life-purpose-reading`;
+/full-spirit-activation`;

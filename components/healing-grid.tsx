@@ -1,6 +1,6 @@
 "use client"
 
-import { ArrowUpRight } from "lucide-react"
+import { ArrowUpRight, Globe, MapPin } from "lucide-react"
 import { useTranslations } from "next-intl"
 import { Link } from "@/i18n/navigation"
 import { ScrollReveal } from "./scroll-reveal"
@@ -18,6 +18,22 @@ export type Healing = {
   detailsHref?: string
   /** Sessions run elsewhere (e.g. MMS UK): shows a "prices & sign-up" note and a link out to this URL. */
   externalHref?: string
+  /** Where it takes place: shown as a small label on the card. Leave out when not known. */
+  format?: "inPerson" | "both" | "remote" | "online"
+}
+
+// Small "where" label: in person in Prague, in person or remote, distance only, or in person or online.
+function FormatBadge({ format }: { format?: Healing["format"] }) {
+  const t = useTranslations("HealingGrid")
+  if (!format) return null
+  const Icon = format === "inPerson" ? MapPin : Globe
+  const key = { inPerson: "formatInPerson", both: "formatBoth", remote: "formatRemote", online: "formatOnline" }[format]
+  return (
+    <span className="mt-2 inline-flex w-fit items-center gap-1.5 rounded-full border border-primary/25 px-2.5 py-0.5 text-xs text-foreground/80">
+      <Icon className="h-3 w-3 text-primary" />
+      {t(key)}
+    </span>
+  )
 }
 
 // ── A single healing card — either a priced/linked card (price and/or Book
@@ -44,6 +60,7 @@ function HealingCard({ healing }: { healing: Healing }) {
           </span>
         )}
         <h3 className="font-serif text-lg leading-tight tracking-wide text-primary">{healing.name}</h3>
+        <FormatBadge format={healing.format} />
         <p className="mt-2.5 flex-1 text-sm leading-relaxed text-muted-foreground">{healing.description}</p>
         {healing.price && (
           <p className="mt-4 font-serif text-base tracking-wide text-foreground">{healing.price}</p>
@@ -102,6 +119,7 @@ function HealingCard({ healing }: { healing: Healing }) {
         </span>
       )}
       <h3 className="font-serif text-lg leading-tight tracking-wide text-primary">{healing.name}</h3>
+        <FormatBadge format={healing.format} />
       <p className="mt-2.5 flex-1 text-sm leading-relaxed text-muted-foreground">{healing.description}</p>
       <span className="mt-4 inline-flex items-center gap-1.5 text-sm tracking-wide text-primary/80 transition-colors group-hover:text-gold-light">
         {t("inquire")}

@@ -67,17 +67,40 @@
     "seeFullCalendar": "Vezi calendarul complet"
   },
   "CalendarWidget": {
-    "heading": "Ai dori să participi la un curs sau la un atelier?",
-    "body": "Descoperă evenimentele noastre viitoare",
-    "button": "Vezi Calendarul"
+    "eyebrow": "În Praga",
+    "heading": "Săptămâna aceasta în Praga",
+    "headingNext": "În curând în Praga",
+    "body": "{count, plural, one {Săptămâna aceasta are loc un lucru frumos. Vino alături de noi!} few {Săptămâna aceasta au loc # lucruri frumoase. Alege unul și vino!} other {Săptămâna aceasta au loc # de lucruri frumoase. Alege unul și vino!}}",
+    "bodyNext": "E o săptămână liniștită la noi, așa că iată ce urmează. Notează-ți data!",
+    "weekLabel": "Următoarele șapte zile",
+    "today": "Azi",
+    "vibe": {
+      "Activation": "Trezește darurile cu care te-ai născut",
+      "Initiation": "Pășește printr-o ușă spre un nou capitol",
+      "Workshop": "Învață ceva minunat într-un grup mic și prietenos",
+      "Community": "Ceai, companie bună și o seară liniștită împreună"
+    },
+    "join": "Vino",
+    "empty": "Date noi sunt pe drum. Uită-te în calendar sau scrie-ne!",
+    "button": "Vezi tot calendarul",
+    "footnote": "Nu știi ce ți se potrivește? Întreabă-ne, ne plac întrebările."
   },
   "Facts": {
-    "intro": "Vrei să devii inițiat al misterelor? Atunci citește mai departe.",
+    "intro": "Ești curios(curioasă) unde te poate duce această cale? Iată ce au descoperit alții.",
     "heading": "Un legat care vorbește de la sine",
     "stats": [
-      { "number": "3.000+", "label": "Ani de linie neîntreruptă" },
-      { "number": "55", "label": "Țări din întreaga lume" },
-      { "number": "44.000+", "label": "Inițiați în întreaga lume" }
+      {
+        "number": "3.000+",
+        "label": "Ani de linie neîntreruptă"
+      },
+      {
+        "number": "55",
+        "label": "Țări din întreaga lume"
+      },
+      {
+        "number": "44.000+",
+        "label": "Inițiați în întreaga lume"
+      }
     ],
     "videosHeading": "Urmărește călătoria studenților și profesorilor noștri",
     "wallOfLove": "Zidul iubirii",
@@ -97,53 +120,53 @@
     ]
   },
   "Pillars": {
-    "eyebrow": "Fundația",
-    "heading": "Cei patru piloni ai transformării",
-    "intro": "Fiecare pilon se construiește pe cel anterior, creând un sistem complet de evoluție spirituală care a rezistat testului timpului.",
+    "eyebrow": "Cum funcționează calea",
+    "heading": "Patru pași care se construiesc unul pe altul",
+    "intro": "Nu trebuie să faci totul deodată. Fiecare pas este complet în sine și te pregătește pentru următorul.",
     "items": [
       {
         "title": "Activare",
-        "description": "Trezește-ți ADN-ul și restabilește-ți legătura cu Spiritul tău. Această lucrare începe cu Life Activation și continuă prin Full Spirit Activation."
+        "description": "Trezește darurile cu care te-ai născut. Totul începe cu Life Activation, o ședință individuală, și poate continua cu Full Spirit Activation."
       },
       {
         "title": "Inițiere",
-        "description": "Purifică și pregătește vasul pentru a primi Lumina pură a Spiritului și a o manifesta fără distorsiune în plan fizic — calea deschisă de Empower Thyself."
+        "description": "Învață să-ți cureți și să-ți protejezi energia și să-ți iei viața în mâini. Începe cu Empower Thyself, un curs de două zile."
       },
       {
-        "title": "Studiază și Învață",
-        "description": "Stăpânind artele și științele Sacred Geometry, Astral Travel, Kabbalah și multe altele, devii stăpânul propriei tale vieți fizice."
+        "title": "Studiu",
+        "description": "Descoperă geometria sacră, călătoria astrală, Kabbala și multe altele în cursuri mici și prietenoase și folosește zilnic ce înveți."
       },
       {
         "title": "Slujirea celorlalți",
-        "description": "Viața nu este completă și nu o poți înțelege pe deplin decât dacă te străduiești și să fii de folos celorlalți. Ghidând, vindecând, învățând și sprijinind în general pe alții în nevoile lor, devii versiunea deplină a ta însuți."
+        "description": "Împărtășește ce ai învățat: ajută, vindecă și sprijină oamenii din jurul tău. Aici calea devine cu adevărat a ta."
       }
     ]
   },
   "Teaser": {
-    "eyebrow": "Angajament față de măreție",
-    "heading": "Acesta nu este un atelier de weekend",
-    "body1": "Să fim clari: Calea Inițierii este un program de pregătire riguros. Implică luni de studiu dedicat, practică constantă și un angajament neclintit față de propria transformare. Nu este un seminar ocazional și nici un retreat de tip «feel-good».",
-    "body2": "Acesta este un <emphasis>angajament sacru</emphasis> de a deveni cea mai bună versiune a ta — de a debloca puteri despre a căror existență majoritatea oamenilor nu vor ști niciodată și de a păși într-o linie spirituală care a modelat cursul istoriei umane.",
-    "expectedHeading": "Ce se așteaptă de la tine",
+    "eyebrow": "O cale, nu o soluție rapidă",
+    "heading": "Schimbare reală, în ritmul tău",
+    "body1": "Calea inițierii se desfășoară de-a lungul lunilor, nu într-un weekend. Înveți instrumente practice, le folosești în viața de zi cu zi și crești pas cu pas, alături de noi și de o comunitate caldă.",
+    "body2": "Nu trebuie să fii special(ă) sau să ai totul lămurit. Dacă ești <emphasis>curios(curioasă) și dispus(ă) să exersezi</emphasis>, ești pregătit(ă) să începi.",
+    "expectedHeading": "Tot ce trebuie să aduci",
     "expectations": [
       {
-        "title": "O minte deschisă",
-        "description": "Dorința de a explora perspective noi și de a-ți pune la îndoială presupunerile actuale."
+        "title": "Curiozitate",
+        "description": "O minte deschisă și dorința de a vedea lucrurile într-un fel nou."
       },
       {
-        "title": "Practica zilnică",
-        "description": "Aplicarea constantă a instrumentelor și tehnicilor în viața de zi cu zi."
+        "title": "Puțină practică",
+        "description": "Câteva minute pe zi cu instrumentele pe care le înveți. Acolo se produce schimbarea."
       },
       {
-        "title": "Angajamentul față de auto-stăpânire",
-        "description": "O dorință autentică de a te înțelege pe tine însuți, de a-ți dezvolta potențialul și de a-ți asuma responsabilitatea pentru propria evoluție."
+        "title": "Dorința de a crește",
+        "description": "Dorința de a te înțelege mai bine și de a-ți lua viața în propriile mâini."
       },
       {
-        "title": "Spiritul de slujire",
-        "description": "Dorința de a-ți folosi creșterea și dezvoltarea pentru a te înălța pe tine și pentru a contribui pozitiv la viețile celorlalți."
+        "title": "O inimă bună",
+        "description": "Bucuria de a împărtăși cu oamenii din jur ceea ce devii."
       }
     ],
-    "expectedClosing": "Aceasta este călătoria ta, investiția ta și responsabilitatea ta. Faci această muncă pentru propria evoluție și pentru viața pe care alegi să o creezi. Nimeni nu o poate face în locul tău."
+    "expectedClosing": "Este călătoria ta și nu o vei face niciodată singur(ă): suntem aici să te ghidăm, iar comunitatea este aici să te susțină."
   },
   "CTA": {
     "eyebrow": "Invitația ta",
@@ -164,25 +187,76 @@
     "dianaQuote": "Există o diferență între a auzi că ceva este posibil și a-l trăi tu însuți. Cea de-a doua schimbă totul."
   },
   "Classes": {
-    "eyebrow": "Evenimente viitoare",
-    "heading": "Cursuri viitoare în Praga",
-    "intro": "Fiecare curs este o treaptă pe Calea Inițierii. Începe cu Life Activation și avansează prin curriculumul sacru.",
+    "eyebrow": "Învață cu noi",
+    "heading": "Cursuri în Praga",
+    "intro": "Grupuri mici și prietenoase în care înveți instrumente reale pentru viața de zi cu zi. Cei mai mulți încep cu Life Activation.",
     "items": [
       {
-        "description": "Trezește-ți planul divin și aprinde întregul potențial codificat în ADN-ul tău. Aceasta este sesiunea fundamentală a liniei școlii misterelor.",
-        "tag": "Fundație"
+        "description": "O ședință individuală care trezește darurile cu care te-ai născut. Mulți oameni se simt apoi mai ușori, mai limpezi și mai aproape de ei înșiși. Este primul pas pe cale.",
+        "tag": "Începe aici",
+        "meta": "Aproximativ 2 ore · individual · în persoană la Praga"
       },
       {
-        "description": "Un program de inițiere de 2 zile în care primești instrumentele și învățăturile sacre pentru a prelua controlul asupra vieții tale și a păși pe cale ca Inițiat.",
-        "tag": "Inițiere"
+        "description": "Două zile într-un grup mic în care înveți să-ți cureți și să-ți protejezi energia, să recunoști tiparele care îți conduc viața și să le schimbi și să-ți creezi acasă un spațiu sacru.",
+        "tag": "Inițiere",
+        "meta": "2 zile · grup mic · în persoană la Praga"
       },
       {
-        "title": "Vezi calendarul complet",
-        "description": "Studiază tiparele divine care stau la baza întregii creații, cum să călătorești astral, să comunici cu sinele tău superior și multe altele.",
-        "tag": "Studiu avansat"
+        "title": "Vezi tot calendarul",
+        "description": "Geometrie sacră, călătorie astrală, dialog cu sinele tău superior și multe altele. Cursuri practice la care te poți alătura pas cu pas, în ritmul tău.",
+        "tag": "Învață mai departe",
+        "meta": "Cursuri de o jumătate de zi și de weekend · grupuri mici"
       }
     ],
     "learnMore": "Află mai multe"
+  },
+  "LookingFor": {
+    "eyebrow": "Poate ai nevoie de asta",
+    "heading": "Ce cauți?",
+    "intro": "Atinge ce simți că e adevărat pentru tine acum și îți arătăm de unde e bine să începi.",
+    "tryLabel": "Încearcă",
+    "tiles": {
+      "stressed": {
+        "feel": "Sunt stresat(ă) și nu mă pot deconecta",
+        "try": "Max Meditation"
+      },
+      "drained": {
+        "feel": "Anumiți oameni îmi consumă energia",
+        "try": "Tăierea cordoanelor emoționale"
+      },
+      "stuck": {
+        "feel": "Repet mereu aceleași tipare vechi",
+        "try": "Tratarea obiceiurilor negative"
+      },
+      "body": {
+        "feel": "Corpul meu are nevoie de alinare și vindecare",
+        "try": "Ensofic Reiki"
+      },
+      "missing": {
+        "feel": "Simt că îmi lipsește ceva",
+        "try": "Recuperarea hermetică a sufletului"
+      },
+      "gifts": {
+        "feel": "Vreau să-mi descopăr darurile",
+        "try": "Life Activation"
+      },
+      "learn": {
+        "feel": "Mereu mi-am dorit să învăț asta",
+        "try": "Empower Thyself"
+      },
+      "people": {
+        "feel": "Mi-ar plăcea să cunosc oameni buni, cu aceleași valori",
+        "try": "Serile comunității"
+      }
+    },
+    "unsure": "Încă nu știi?",
+    "unsureLink": "Scrie-ne și te ajutăm să alegi.",
+    "unsureMessage": "Bună, nu știu de unde să încep. Mă puteți ajuta să aleg?"
+  },
+  "Welcome": {
+    "heading": "Bună, suntem Diana și Radu",
+    "body": "Te primim în persoană, la Praga, ne luăm timp să te ascultăm și te ghidăm prin fiecare pas. Fie că vii pentru o vindecare, un curs sau o seară liniștită cu comunitatea, nu vei fi singur(ă).",
+    "link": "Cunoaște-ne"
   },
   "FAQ": {
     "eyebrow": "Înainte să începi",
@@ -212,14 +286,23 @@
   },
   "Ending": {
     "eyebrow": "Unde se întâlnesc toate lumile",
-    "heading": "Punte între vechi, universal și modern",
+    "heading": "Înțelepciune străveche pentru viața modernă",
     "cards": [
-      { "title": "Înțelepciunea antică", "subtitle": "Temple, preoți și ritualuri sacre" },
-      { "title": "Știința universală", "subtitle": "Cunoaștere galactică și lumină" },
-      { "title": "Inițiatul modern", "subtitle": "Bărbați și femei împuterniciți" }
+      {
+        "title": "Înțelepciunea antică",
+        "subtitle": "Temple, preoți și ritualuri sacre"
+      },
+      {
+        "title": "Știința universală",
+        "subtitle": "Cunoaștere galactică și lumină"
+      },
+      {
+        "title": "Inițiatul modern",
+        "subtitle": "Bărbați și femei împuterniciți"
+      }
     ],
-    "body1": "Această cale unește <emphasis>înțelepciunea antică</emphasis> a școlilor misterelor cu <emphasis>știința galactică universală</emphasis> care a ghidat civilizațiile de-a lungul cosmosului.",
-    "body2": "Rezultatul este un sistem viu de cunoaștere, profund aplicabil <emphasis>bărbaților și femeilor din zilele noastre</emphasis> care sunt pregătiți să se trezească, să se transforme și să conducă."
+    "body1": "Ceea ce predăm vine din <emphasis>școlile antice ale misterelor</emphasis> și din <emphasis>știința universală</emphasis> pe care au păstrat-o și este surprinzător de practic pentru viața de azi.",
+    "body2": "Este pentru <emphasis>bărbații și femeile moderne</emphasis> care vor să se simtă mai bine, să se înțeleagă pe ei înșiși și să trăiască cu mai mult sens și bucurie."
   },
   "HallOfInitiates": {
     "eyebrow": "Sala Inițiaților",
@@ -273,51 +356,182 @@
     "heroEyebrow": "Modern Mystery School · Linia regelui Solomon",
     "heroSubtitle": "Activează darurile înnăscute care rezidă în ADN-ul tău",
     "heroTagline": "Eliberează 5–7 generații de traumă ancestrală și pășește spre potențialul tău cel mai înalt",
-    "introLead": "{brand} – Modern Mystery School, linia regelui Solomon",
-    "introBody": "{brand} este o trezire a sufletului oferită prin tradiția Modern Mystery School, concepută pentru a aprinde potențialul divin din fiecare ființă umană. Această ședință puternică activează 22 din cele 24 de fire de ADN (11 fizice și 11 spirituale), deschizând poarta către o conexiune mai profundă cu Sinele tău Divin. Astfel, îți sporește capacitatea de a primi, de a face să circule și de a reține mai multă Lumină — susținând vindecarea, claritatea și creșterea spirituală.",
-    "benefitsHeading": "Beneficiile {brand}",
-    "benefits": [
-      { "label": "Conexiune profundă cu Sinele Divin:", "text": "Life Activation facilitează o conexiune mai profundă cu Sinele tău Divin, permițând manifestarea resurselor, talentelor și potențialului tău interior." },
-      { "label": "Energie și claritate:", "text": "Experiența aduce un aflux de energie și claritate în toate domeniile vieții, susținându-ți capacitatea de a naviga viața de zi cu zi cu încredere." },
-      { "label": "Manifestarea talentelor și abilităților:", "text": "Prin trezirea potențialului interior, devii mai conștient(ă) și mai capabil(ă) să-ți exprimi pe deplin talentele și abilitățile unice." },
-      { "label": "Transformarea corpului și eliberarea karmei:", "text": "Life Activation pornește un proces de transformare în corp, ajutând la eliberarea tiparelor emoționale și mentale stocate în ADN, cunoscute sub numele de „karma”." },
-      { "label": "Utilizarea extinsă a capacității creierului:", "text": "Prin această experiență, capacitatea de a accesa mai mult din potențialul creierului este sporită, aducând la lumină abilități anterior trecute cu vederea sau latente." }
-    ],
-    "proceduresHeading": "Proceduri suplimentare pentru echilibrare și transformare",
+    "proceduresHeading": "Sesiunea ta, mai în detaliu",
     "proceduresLead": "Pe lângă activarea în sine, ședința include proceduri suplimentare concepute pentru a echilibra și stimula corpul în armonie cu informațiile nou activate din ADN.",
     "procedures": [
-      { "label": "Eliminarea blocajelor emoționale:", "text": "Concentrat pe eliminarea potențialelor blocaje emoționale din chakra coroanei, acest proces creează un flux mai bun de energie." },
-      { "label": "Echilibrarea nucleului central:", "text": "Acest proces armonizează energiile care circulă prin nucleul central, susținând alinierea și echilibrul întregului sistem energetic." },
-      { "label": "Deschiderea celor 16 petale de lotus:", "text": "Aceasta sporește conexiunea cu energiile Elementale — Pământ, Apă, Aer și Foc — oferindu-ți mai mult din calitățile și puterea lor." },
-      { "label": "Echilibrarea liniilor energetice elementale și magnetice:", "text": "Aceasta echilibrează și armonizează liniile energetice care traversează corpul, susținând un flux de energie fluid și aliniat." },
-      { "label": "Echilibrarea chakrelor:", "text": "Aceasta aduce armonie și aliniere centrelor energetice ale corpului." },
-      { "label": "Eliminarea cristalelor eterice arse din corp:", "text": "Această procedură are scopul de a curăța și revitaliza corpul energetic." },
-      { "label": "Scurtă lectură din ADN-ul tău nou activat:", "text": "O scurtă explorare a straturilor subconștientului, oferindu-ți perspective și îndrumare." },
-      { "label": "Remediu homeopat:", "text": "Un remediu homeopat creat în laboratorul de alchimie al școlii, conceput pentru a detoxifia, susține și ușura schimbările fizice și energetice asociate cu această experiență unică." }
+      {
+        "label": "Eliminarea blocajelor emoționale:",
+        "text": "Concentrat pe eliminarea potențialelor blocaje emoționale din chakra coroanei, acest proces creează un flux mai bun de energie."
+      },
+      {
+        "label": "Echilibrarea nucleului central:",
+        "text": "Acest proces armonizează energiile care circulă prin nucleul central, susținând alinierea și echilibrul întregului sistem energetic."
+      },
+      {
+        "label": "Deschiderea celor 16 petale de lotus:",
+        "text": "Aceasta sporește conexiunea cu energiile Elementale — Pământ, Apă, Aer și Foc — oferindu-ți mai mult din calitățile și puterea lor."
+      },
+      {
+        "label": "Echilibrarea liniilor energetice elementale și magnetice:",
+        "text": "Aceasta echilibrează și armonizează liniile energetice care traversează corpul, susținând un flux de energie fluid și aliniat."
+      },
+      {
+        "label": "Echilibrarea chakrelor:",
+        "text": "Aceasta aduce armonie și aliniere centrelor energetice ale corpului."
+      },
+      {
+        "label": "Eliminarea cristalelor eterice arse din corp:",
+        "text": "Această procedură are scopul de a curăța și revitaliza corpul energetic."
+      },
+      {
+        "label": "Scurtă lectură din ADN-ul tău nou activat:",
+        "text": "O scurtă explorare a straturilor subconștientului, oferindu-ți perspective și îndrumare."
+      },
+      {
+        "label": "Remediu homeopat:",
+        "text": "Un remediu homeopat creat în laboratorul de alchimie al școlii, conceput pentru a detoxifia, susține și ușura schimbările fizice și energetice asociate cu această experiență unică."
+      }
     ],
     "exploreHeading": "Explorează dimensiunile superioare",
     "exploreBody1": "Activarea ADN-ului este o întoarcere la sine — o ședință care nu doar aduce lumină în întunericul vieții, ci deschide și porți către un potențial nelimitat.",
-    "exploreBody2": "La Modern Mystery School, această activare servește drept poartă către evoluția spirituală și descoperirea adevăratului Sine într-un mod profund transformator. Este un pas către a trăi viața cu mai multă energie, claritate și conștiență.",
+    "exploreBody2": "La Modern Mystery School, această activare servește drept poartă către evoluția spirituală și descoperirea adevăratului Sine într-un mod profund transformator. Poți continua această călătorie prin cursurile și inițierea oferite de Mystery School.",
     "certTitle": "{brand} – Activarea ADN-ului",
-    "certBody": "Aceasta este o metodă revoluționară pentru <i>transformarea interioară și deblocarea potențialului tău personal</i>. Combină înțelepciunea străveche cu energii moderne pentru a te ajuta să crești și să evoluezi. Această tehnică este oferită de Modern Mystery School prin Practicieni Certificați de Life Activation. Servește drept <bold>poartă către o conștiință superioară și expansiune spirituală.</bold>",
+    "certBody": "Aceasta este o metodă revoluționară pentru <i>transformarea interioară și deblocarea potențialului tău personal</i>. Combină înțelepciunea străveche cu energii moderne pentru a te ajuta să crești și să evoluezi. Această tehnică este oferită de <mms>Modern Mystery School</mms> prin Practicieni Certificați de Life Activation. Servește drept <bold>poartă către o conștiință superioară și expansiune spirituală.</bold>",
     "bookingTitle": "Întâlnește-ți puterea autentică și sinele superior!",
     "duration": "2 ore",
     "bookingNote": "După finalizarea plății, te vom contacta pentru a stabili programarea.",
-    "inquiry": "Bună, aș dori să aflu mai multe despre {brand}."
+    "inquiry": "Bună, aș dori să aflu mai multe despre {brand}.",
+    "awakenHeading": "Trezește mai mult din cine ești cu adevărat",
+    "awakenAlt": "O spirală de ADN strălucitoare, luminată de puncte de lumină aurie",
+    "awaken": [
+      "Darurile, claritatea și puterea pe care le cauți s-ar putea să fie deja în tine, așteptând să se trezească. Life Activation este sesiunea care le trezește.",
+      "Vine din linia Regelui Solomon, păstrată vie de mii de ani și transmisă astăzi de Modern Mystery School. În sesiune, 22 dintre cele 24 de spirale ale ADN-ului tău sunt activate: 11 fizice și 11 spirituale. Astfel poți primi și păstra mai multă Lumină, forța vieții care îți susține vindecarea, claritatea și creșterea.",
+      "Curăță și ce ai purtat din linia familiei tale, până la 5–7 generații în urmă, ca să poți păși în cel mai înalt potențial al tău."
+    ],
+    "giftsHeading": "Ce îți poate aduce",
+    "giftsIntro": "Fiecare om este diferit, dar acestea sunt schimbările despre care ne povestesc oamenii cel mai des.",
+    "gifts": [
+      {
+        "label": "Claritate",
+        "text": "Îți vezi viața și alegerile mai limpede, iar deciziile devin mai ușoare."
+      },
+      {
+        "label": "Mai multă energie",
+        "text": "Un flux nou de energie în fiecare parte a vieții tale, ca fiecare zi să fie mai ușor de dus."
+      },
+      {
+        "label": "O intuiție mai puternică",
+        "text": "Îți auzi mai clar vocea interioară și înveți să ai încredere în ea."
+      },
+      {
+        "label": "Talentele tale, trezite",
+        "text": "Darurile care dormeau ies la suprafață și îți este mai ușor să le exprimi."
+      },
+      {
+        "label": "Libertate de tiparele vechi",
+        "text": "Tiparele emoționale și mentale stocate în ADN-ul tău, cunoscute drept karma, încep să se elibereze, inclusiv cele transmise în familia ta."
+      },
+      {
+        "label": "Sinele tău Divin",
+        "text": "O conexiune mai profundă cu cine ești cu adevărat și cu resursele interioare și potențialul care vin odată cu ea."
+      }
+    ],
+    "forWhomHeading": "Este {brand} pentru tine?",
+    "forWhomIntro": "Nu ai nevoie de niciun fundal spiritual. Dacă te regăsești în una dintre acestea, poate acum este momentul tău.",
+    "forWhom": [
+      {
+        "who": "Antreprenori",
+        "text": "Pentru decizii clare și energia de a conduce."
+      },
+      {
+        "who": "Părinți",
+        "text": "Pentru răbdare, calm și mai multă energie de petrecut cu copiii tăi."
+      },
+      {
+        "who": "Studenți",
+        "text": "Pentru concentrare și încredere în drumul pe care îl alegi."
+      },
+      {
+        "who": "Artiști și creatori",
+        "text": "Pentru inspirație nouă și curajul de a o împărtăși."
+      },
+      {
+        "who": "Vindecători și terapeuți",
+        "text": "Pentru un canal mai puternic și mai clar pentru munca ta."
+      },
+      {
+        "who": "Profesioniști ocupați",
+        "text": "Pentru echilibru și energie care ține toată săptămâna."
+      },
+      {
+        "who": "Căutători de sens",
+        "text": "Pentru răspunsuri despre de ce ești aici și ce urmează."
+      },
+      {
+        "who": "Oricine se simte blocat",
+        "text": "Pentru un nou început când aceleași tipare tot revin."
+      }
+    ],
+    "stepsHeading": "Sesiunea ta, pas cu pas",
+    "stepsIntro": "Aproximativ două ore, în persoană, la Praga. Nu trebuie să pregătești nimic: doar primești.",
+    "stepsAlt": "Instrumente sacre pregătite pentru o sesiune: un ankh auriu, cristale și baghete înfășurate",
+    "steps": [
+      {
+        "title": "Te așezi și te relaxezi",
+        "text": "Începi prin a te relaxa și a lăsa deoparte grijile zilei."
+      },
+      {
+        "title": "Curățarea",
+        "text": "Stai confortabil pe scaun în timp ce începe prima parte a curățării."
+      },
+      {
+        "title": "Echilibrarea",
+        "text": "Timp de aproximativ 20–30 de minute stai în picioare, în timp ce chakrele și corpul eteric îți sunt echilibrate."
+      },
+      {
+        "title": "Activarea",
+        "text": "Te așezi din nou pentru a primi activarea a 22 de spirale ale ADN-ului tău."
+      },
+      {
+        "title": "O scurtă citire",
+        "text": "O scurtă citire din ADN-ul tău nou activat, cu înțelegeri și îndrumare doar pentru tine."
+      },
+      {
+        "title": "Săptămânile de după",
+        "text": "Activarea continuă să se desfășoare timp de una până la trei luni, iar noi rămânem în legătură cu tine în această perioadă."
+      }
+    ],
+    "handsHeading": "În mâini certificate",
+    "handsAlt": "O practiciană ținând un instrument de cristal înfășurat manual",
+    "hands": [
+      "Doar practicienii certificați direct de Modern Mystery School International pot oferi un Life Activation, iar ei își reînnoiesc certificarea în fiecare an.",
+      "Diana și Radu sunt amândoi practicieni Life Activation certificați. Te primesc cu căldură, lucrează cu blândețe și grație și rămân alături de tine și în săptămânile care urmează."
+    ],
+    "handsLink": "Vezi certificările noastre",
+    "wandsAlt": "Un cerc de baghete de cristal înfășurate manual, folosite în sesiunile Life Activation",
+    "nextHeading": "După {brand}",
+    "nextIntro": "{brand} este un început. Când te simți pregătit(ă), aceștia sunt următorii pași pe cale.",
+    "nextFsa": "Primit după {brand}, îți trezește și îți ancorează sufletul și spiritul în corp.",
+    "nextEmpower": "Cursul de două zile și inițierea în linia Regelui Solomon, unde înveți ritualuri puternice pe care să le folosești în fiecare zi.",
+    "nextCta": "Descoperă mai mult",
+    "videosEyebrow": "În propriile lor cuvinte",
+    "videosHeading": "Ascultă-i pe cei care l-au primit",
+    "videoPart1": "Life Activation · Partea I",
+    "videoPart2": "Life Activation · Partea a II-a",
+    "videoAbout": "Despre Life Activation · Dr. Theresa Bullard-Whyke"
   },
   "EmpowerThyself": {
     "heroEyebrow": "Un program de două zile",
     "heroTitle": "Programul {brand}",
     "heroSubtitle": "Inițiere în linia regelui Solomon",
     "invitation": {
-      "question": "Dacă ai putea fi ca Dumnezeu — plin de iubire, armonie și putere creatoare — ai face-o?",
-      "body1": "Această inițiere va extinde orizontul a ceea ce crezi că este posibil. Trezește noi potențiale și ne provoacă să renunțăm la dogme și paradigme vechi.",
-      "body2": "Pe parcursul acestor două zile, vei primi chei care deblochează potențialul din mintea ta pentru a-ți întrupa natura divină. Cu toții purtăm acest potențial — este deja în tine. Acum este momentul să-l aduci la suprafață și să-l faci centrul vieții tale.",
-      "body3": "Vei învăța cum să treci dincolo de ego-ul negativ care îți stă în cale și vei primi instrumente practice care te vor sprijini în acest proces. Inițierea îți va accelera transformarea, ajutându-te să experimentezi rezultate mai rapid și să te bucuri de călătoria devenirii adevăratului tău sine.",
-      "body4": "Vei fi susținut de o linie străveche care stă în spatele tău.",
-      "body5": "Cei care au pășit pe această cale înaintea ta sunt aici să te ghideze cu înțelepciunea și experiența lor.",
-      "body6": "Prin dedicarea lor, aceste învățături au fost păstrate în forma lor cea mai pură — ținute în siguranță pentru ca astăzi să putem beneficia de ele.",
-      "callToAction": "Vei răspunde la chemare?"
+      "god": "Dacă ai putea fi ca Dumnezeu — plin de iubire, armonie și putere creatoare — ai face-o?",
+      "body1": "{brand} este o inițiere de două zile într-un grup mic și apropiat, chiar aici, la Praga. Este o poartă rară: primești ritualuri puternice și instrumente sacre ca să-ți cureți și să-ți protejezi energia, să vezi tiparele care ți-au modelat viața și să te înalți deasupra lor.",
+      "body2": "Este exact aceeași inițiere transmisă de la profesor la elev, fără întrerupere, de peste 3.000 de ani, din vremea Regelui Solomon. Cheile pe care le primești sunt cheile pe care le primeau inițiații din vechime, iar ele rămân ale tale pentru tot restul vieții.",
+      "body3": "Pleci cu o practică zilnică sacră, o minte limpede și liniștită, o conștiință profundă a propriei puteri și cunoașterea următorului tău pas.",
+      "body4": "Diana și Radu vor fi alături de tine în cele 2 zile și mult timp după aceea.",
+      "body6": "Aceste învățături au fost păzite ca o bijuterie prețioasă de toți cei care au parcurs această cale înaintea ta, ca astăzi să ajungă la tine.",
+      "callToAction": "Este acesta următorul tău pas?"
     },
     "letter": {
       "greeting": "Dragă căutătorule,",
@@ -331,63 +545,76 @@
       "signOffRole": "Ghidul tău în Linia Luminii"
     },
     "origins": {
-      "heading": "Ce este programul {brand} și de unde provine?",
-      "body1": "<bold>{brand}</bold> face parte dintr-o tradiție vie de înțelepciune, vindecare și evoluție interioară, fondată cu peste 3.000 de ani în urmă de regele Solomon.",
-      "body2": "Mânat de dorința de a-i ajuta pe oameni să-și descopere și să-și împlinească potențialul divin, Solomon a adunat cei mai înțelepți maeștri ai vremii sale — vindecători, doctori, înțelepți, mistici și căutători spirituali. Împreună, au testat și rafinat toate metodele cunoscute de transformare până când au creat un sistem clar, profund și practic, conceput să funcționeze pentru oricine, indiferent de cultură sau epocă.",
-      "body3": "<bold>Ceea ce face cu adevărat {brand} special</bold> este că nu este doar o altă colecție de tehnici sau teorii. Face parte dintr-un sistem complet și coerent, transmis continuu până în prezent — un cadru testat și validat, care susține trezirea conștiinței, echilibrul interior și reconectarea cu adevăratul tău sine.",
-      "tagline": "Acest sistem este și astăzi eficient și aduce rezultate în domenii pe care știința modernă încă nu le-a putut atinge."
+      "heading": "De unde vine {brand}?",
+      "body1": "<bold>{brand}</bold> vine de la Modern Mystery School și din linia regelui Solomon, o tradiție vie de înțelepciune și vindecare veche de peste 3.000 de ani.",
+      "body2": "Solomon i-a adunat pe cei mai înțelepți vindecători, medici și învățați ai vremii sale. Împreună au testat toate metodele de transformare pe care le cunoșteau și au păstrat doar ce funcționa cu adevărat, pentru oricine, în orice cultură și în orice epocă.",
+      "body3": "<bold>Asta face {brand} diferit</bold>: nu este un amestec de tehnici sau teorii, ci un sistem complet și verificat, transmis fără întrerupere până în zilele noastre.",
+      "tagline": "Înțelepciune străveche, practică pentru viața modernă."
     },
     "whatWillYouDo": {
-      "heading": "Ce vei face în programul {brand}?",
-      "body1": "Acest program este conceput pentru a te ajuta să realizezi că ai puterea de a crea viața pe care ți-o dorești cu adevărat. Te împuternicește să vezi unde poate te reții singur și unde te mulțumești cu mai puțin decât meriți. Dar nu se oprește aici — acest program îți oferă și instrumentele pentru a schimba acele părți ale vieții tale! După aceste două zile, vei putea recunoaște tiparele și programele care îți modelează comportamentul, vei înțelege de unde provin și vei avea puterea de a le elibera.",
-      "body2": "Vei deschide căi prin care poți accesa mai multă energie, cunoștințe noi și perspective proaspete, împuternicindu-te să creezi o viață nouă care îți aduce împlinire deplină.",
-      "body3": "Acesta este un program practic și interactiv, după care vei avea încrederea că înțelegi exact ce trebuie să faci în continuare pentru a-ți continua creșterea și transformarea.",
-      "subheading": "Vei dobândi claritate și structură în înțelegerea ta despre spirit și natura umană, precum și o perspectivă clară asupra experiențelor pe care poate le-ai întâlnit deja.",
+      "heading": "Ce se schimbă pentru tine",
+      "body1": "Începi să vezi unde te reții și te mulțumești cu mai puțin decât meriți și primești instrumentele ca să schimbi asta. După aceste două zile poți recunoaște tiparele care îți conduc reacțiile, înțelegi de unde vin și le poți lăsa să plece.",
+      "body2": "Vei simți mai multă energie și claritate și vei ști cum să le păstrezi.",
+      "body3": "Este practic: exersezi totul chiar în timpul cursului, așa că pleci acasă știind exact ce să faci în continuare.",
+      "subheading": "Lucruri care poate te-au nedumerit, cum ar fi intuiția, visele intense sau coincidențele cu sens, vor începe să capete înțeles.",
       "benefits": [
-        "Vei învăța să recunoști lumea nevăzută, să accesezi și să interacționezi cu ea.",
-        "Vei învăța cum să aduni puterea gândurilor tale și să o folosești pentru a crea bine în jurul tău.",
-        "Vei practica ritualuri sacre și vei participa la o ceremonie sacră de inițiere."
+        "Vei învăța să simți lumea nevăzută și să lucrezi în siguranță cu ea.",
+        "Vei învăța să-ți concentrezi gândurile și să le folosești ca să creezi lucruri bune în viața ta.",
+        "Vei practica ritualuri sacre și vei lua parte la o ceremonie de inițiere."
       ]
     },
     "special": {
-      "heading": "Ce face acest program special?",
-      "body": "Nu te învățăm doar teorie. Există mulți profesori care îți pot vorbi despre spiritualitate. Îți oferim instrumente autentice, puternice și te învățăm cum să le folosești în viața ta. Îți oferim cheia pentru a debloca aceste puteri din tine!"
+      "heading": "Ce face acest curs special?",
+      "body": "Mulți oameni pot vorbi despre spiritualitate. Aici primești instrumente reale, înveți să le folosești în propria viață, iar noi suntem alături de tine în tot acest timp."
     },
     "curriculum": {
-      "heading": "Ce vei învăța în acest program?",
+      "heading": "Ce vei învăța?",
       "items": [
-        "Cum să răspunzi la întrebarea „Cine sunt eu?”",
-        "Ce este o inițiere și de ce avem nevoie de ea astăzi?",
-        "Rolul regelui Solomon în acest proces",
-        "Potențialul uman de a fi Dumnezeu",
-        "Cele 12 dimensiuni ale Pământului și cele 7 dimensiuni spirituale",
-        "Structura Ierarhiei Luminii",
-        "Meditația și frecvențele undelor cerebrale",
-        "Influența ego-ului asupra adevăratului sine",
-        "Ciclul proceselor umane",
-        "Structura energetică a ființei umane",
+        "Cine sunt eu? Cum îți găsești propriul răspuns",
+        "Ce este o inițiere și de ce contează astăzi",
+        "De unde vin aceste învățături: regele Solomon și linia",
+        "Potențialul tău deplin și cum să crești în el",
+        "Cum să-ți creezi acasă un spațiu sacru și de ce te ajută",
+        "O scurtă practică zilnică și o rugăciune de protecție pe care o poți folosi oriunde",
+        "Dimensiunile fizice și spirituale și cum să lucrezi cu amândouă",
+        "Ființele de lumină pe care le poți chema în ajutor",
+        "Meditația și cum undele cerebrale îți schimbă starea de spirit",
+        "Ego-ul tău: când te ajută și când te ține pe loc",
+        "Tiparele și ciclurile prin care trecem cu toții și cum să ieși din ele",
+        "Corpul tău energetic și cum să-l cureți și să-l protejezi",
         "Kabbala universală și Arborele Vieții"
       ],
-      "closing": "Pe parcursul acestui program, vei primi învățături, exerciții practice și ritualuri sacre pe care le poți folosi pentru a-ți ridica viața la următorul nivel. Toate aceste chei provin din linia regelui Solomon, transmise într-o tradiție neîntreruptă de mii de ani."
+      "closing": "Fiecare parte vine cu exerciții practice și ritualuri pe care le poți folosi imediat, toate din linia regelui Solomon."
     },
     "nextSteps": {
       "heading": "Ce trebuie să faci?",
       "items": [
-        { "main": "Contactează-ne pentru a afla dacă acest program este potrivit pentru tine în acest moment al călătoriei tale.", "sub": "Suntem aici să te sprijinim cu claritate și îndrumare, la fiecare pas." },
-        { "main": "Primește o ședință Life Activation de la unul dintre practicienii noștri certificați." },
-        { "main": "Achită un avans sau suma integrală pentru a-ți rezerva locul." },
-        { "main": "Participă la cursul de două zile și la ceremonia de inițiere." },
-        { "main": "Începe să aplici ceea ce ai învățat și bucură-te de rezultate." }
+        {
+          "main": "Scrie-ne: într-o discuție prietenoasă vedem împreună dacă acesta este pasul potrivit pentru tine acum.",
+          "sub": "Suntem aici să te sprijinim cu claritate și îndrumare, la fiecare pas."
+        },
+        {
+          "main": "Primește o ședință Life Activation de la unul dintre practicienii noștri certificați."
+        },
+        {
+          "main": "Achită un avans sau suma integrală pentru a-ți rezerva locul."
+        },
+        {
+          "main": "Participă la cursul de două zile și la ceremonia de inițiere."
+        },
+        {
+          "main": "Începe să aplici ceea ce ai învățat și bucură-te de rezultate."
+        }
       ]
     },
     "recommendations": {
-      "heading": "Recomandări",
-      "body1": "<bold>{brand}</bold> nu este doar un curs. Este începutul unei călătorii profunde și al unei conexiuni durabile.",
-      "body2": "Această inițiere deschide o poartă către o nouă înțelegere a vieții, precum și un spațiu sigur în care te poți întoarce oricând ai nevoie de claritate, sprijin sau îndrumare.",
-      "body3": "Ne angajăm să te sprijinim nu doar pe parcursul programului, ci și în anii care urmează. Fie că ai întrebări despre aplicarea învățăturilor în viața de zi cu zi, treci printr-o perioadă de transformare sau pur și simplu te simți pregătit să faci următorul pas în călătoria ta personală, suntem aici pentru tine.",
-      "body4": "Această relație se construiește în timp — cu încredere, respect și intenția sinceră de a-ți sprijini creșterea, echilibrul și forța interioară."
+      "heading": "După curs",
+      "body1": "<bold>{brand}</bold> nu este sfârșitul a ceva. Este începutul unei călătorii și al unei legături de durată.",
+      "body2": "Vei avea un loc sigur la care să te întorci oricând ai nevoie de claritate, sprijin sau îndrumare.",
+      "body3": "Suntem alături de tine nu doar în cele două zile, ci și ani la rând după aceea: cu întrebări despre folosirea instrumentelor, în perioade de schimbare sau când te simți pregătit(ă) pentru următorul pas.",
+      "body4": "Este o relație care se construiește în timp, cu încredere, respect și dorința sinceră de a te vedea crescând."
     },
-    "bookingTitle": "Descoperă-ți potențialul de a fi o ființă divină!",
+    "bookingTitle": "Două zile care pot schimba felul în care trăiești",
     "duration": "2 zile",
     "bookingNote": "Se desfășoară în Praga, Republica Cehă. După avans, te vom contacta pentru a programa Life Activation și a confirma locul tău.",
     "bookingExtra": {
@@ -502,7 +729,11 @@
     "inquire": "Întreabă",
     "inquiryTemplate": "Bună, aș dori să întreb despre vindecarea {name}.",
     "bookNow": "Rezervă acum",
-    "details": "Vezi detalii"
+    "details": "Vezi detalii",
+    "formatInPerson": "În persoană · Praga",
+    "formatBoth": "În persoană sau la distanță",
+    "formatRemote": "Vindecare la distanță",
+    "formatOnline": "În persoană sau online"
   },
   "Healings": {
     "heroEyebrow": "În linia regelui Solomon",
@@ -531,14 +762,14 @@
         "blurb": "Curățarea, repararea și protejarea câmpului tău energetic.",
         "items": [
           { "name": "Vindecare Aurică {brand}", "description": "Curăță, echilibrează și sigilează cele șapte straturi ale aurei prin geometria luminii." },
-          { "name": "Eliminarea energiei negative", "description": "Elimină blocajele energetice și tiparele negative din sistemul tău energetic." },
-          { "name": "Tăierea cordoanelor emoționale", "description": "Deconectează cordoanele emoționale epuizante, ca să nu-ți mai pierzi energia către alte persoane." },
+          { "name": "Eliminarea energiei negative", "description": "Curăță gândurile, cuvintele și intențiile negative pe care alții ți le-au trimis, cum ar fi gelozia, invidia și reaua-voință." },
+          { "name": "Tăierea cordoanelor emoționale", "description": "Taie legăturile emoționale care te secătuiesc, ca energia ta să fie din nou a ta." },
           { "name": "Curățare șamanică a aurei", "description": "Tehnici șamanice pentru eliminarea blocajelor și a energiilor grele din câmpul auric." },
           { "name": "Ensofic Reiki", "description": "O ședință individuală de vindecare cu Raza Ensofică pentru corpul și sistemul tău nervos, la Praga sau la distanță." },
           { "name": "Tratarea obiceiurilor negative", "description": "Folosește raza Ensofică pentru a te ajuta să eliberezi tiparele sau obiceiurile negative pe care le repeți în viața ta." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "O vindecare străveche cu cristale care te duce într-o relaxare profundă și reînnoiește trupul și mintea." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "O vindecare cu cristale și cântări sacre care vindecă răni vechi și noi și deschide calea norocului." },
-          { "name": "Recuperarea sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
+          { "name": "Recuperarea hermetică a sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
           { "name": "Scânteia vieții — vindecare la distanță", "description": "O vindecare la distanță care îți aduce energie restauratoare de la orice distanță." }
         ]
       },
@@ -646,24 +877,116 @@
     "inquiry": "Bună, aș dori să aflu mai multe despre Lectura Scopului Vieții și a celui de-al 11-lea Codon."
   },
   "SacredGeometryPage": {
-    "heroEyebrow": "Un atelier al Școlii Misterelor",
-    "heroSubtitle": "Limbajul în care este scrisă creația",
-    "heroTagline": "Învață să lucrezi cu elementele fundamentale ale universului",
-    "introLead": "Arhitectura ascunsă a tuturor lucrurilor",
-    "introBody1": "De la spirala unei scoici până la orbita planetelor, aceleași tipare se repetă la fiecare scară a existenței. Geometria sacră este studiul acestor tipare — formele prin care spiritul capătă formă în materie. Pentru inițiații de altădată, nu era nimic mai puțin decât limbajul Divinului.",
-    "introBody2": "În acest atelier vei învăța să recunoști aceste forme, să lucrezi conștient cu ele și să folosești cheile principale ale geometriei sacre pentru a crea un spațiu curat, protejat și sacru — în casa ta, în practica ta și în tine însuți.",
+    "heroEyebrow": "Un atelier de o jumătate de zi la Praga",
+    "heroSubtitle": "Învață limbajul universului și cum să protejezi energia casei tale",
+    "heroTagline": "Cele trei chei ale Cerului: formele din care este construit totul și cum să le folosești în viața de zi cu zi",
+    "introLead": "Spațiile în care trăiești influențează cum te simți",
+    "introBody1": "Probabil ai simțit asta: unele camere te fac calm(ă) și limpede, altele te lasă obosit(ă) sau tensionat(ă). Un spațiu păstrează energia oamenilor și a momentelor pe care le-a văzut, iar această energie te influențează. Geometria sacră îți oferă o cale simplă de a o schimba.",
+    "introBody2": "Acest atelier este pentru oricine vrea folosirea reală, practică a geometriei sacre, nu doar teoria. În 4,5 ore, într-un grup mic, înveți cele trei forme primare, cum să cureți energia negativă din tine și dintr-o cameră și cum să creezi un spațiu sacru: un loc calm și protejat acasă, la muncă sau oriunde mergi. Este aceeași geometrie care i-a inspirat pe Pitagora, Leonardo da Vinci și Tesla.",
     "reserveYourPlace": "Rezervă-ți locul",
-    "learnHeading": "Ce vei învăța",
+    "learnHeading": "Ce vei descoperi",
     "benefits": [
-      { "label": "Formele primare:", "text": "Formele fundamentale ale creației și calitățile pe care le poartă fiecare." },
-      { "label": "Crearea spațiului sacru:", "text": "Folosește cheile geometriei sacre pentru a curăța, proteja și consacra un spațiu." },
-      { "label": "Geometria ca instrument:", "text": "Aplică aceste forme pentru concentrare, meditație, manifestare și vindecare." },
-      { "label": "Trăind tiparul:", "text": "Vezi ordinea din spatele vieții de zi cu zi și aliniază-te cu ea." }
+      {
+        "label": "Cele trei chei ale Cerului:",
+        "text": "Cele trei forme primare din care este construit totul în creație, ce înseamnă fiecare și o acordare care le trezește în corpul și aura ta."
+      },
+      {
+        "label": "Sigilarea și protejarea spațiului:",
+        "text": "Cum să cureți și să sigilezi casa, biroul sau orice cameră, ca energia negativă să nu se adune."
+      },
+      {
+        "label": "Crearea unui spațiu-templu:",
+        "text": "Cum să ridici energia unei camere pentru meditație, vindecare, studiu sau muncă."
+      },
+      {
+        "label": "Geometria și cele patru elemente:",
+        "text": "Cum să combini formele cu pământul, apa, aerul și focul ca să-ți aduci intențiile în viața reală."
+      },
+      {
+        "label": "S-o vezi peste tot:",
+        "text": "Să observi cum geometria sacră îți modelează deja corpul, natura și viața de zi cu zi și să lucrezi conștient cu ea."
+      }
     ],
-    "bookingTitle": "Citește limbajul creației",
+    "bookingTitle": "Creează-ți spațiul sacru",
     "duration": "4,5 ore",
-    "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
-    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul {brand}."
+    "bookingNote": "Grupuri mici, în persoană la Praga. Scrie-ne pentru următoarea dată.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul {brand}.",
+    "whyHeading": "De ce să creezi un spațiu sacru?",
+    "why": [
+      "Casa ta devine un loc în care te odihnești și te reîncarci cu adevărat",
+      "Greutatea lăsată de certuri, stres sau zile aglomerate nu mai rămâne",
+      "Meditația, rugăciunea și concentrarea vin mai ușor",
+      "Te simți protejat(ă), chiar și în locuri aglomerate sau dificile",
+      "Este temelia oricărei alte practici de pe cale"
+    ],
+    "expectHeading": "La ce să te aștepți",
+    "expect": [
+      "4,5 ore într-un grup mic și prietenos, în persoană la Praga",
+      "Explicații clare și multă practică: încerci totul tu însuți (însăți)",
+      "O acordare la cele trei forme primare în timpul atelierului",
+      "Instrumente pe care le poți folosi chiar din aceeași seară",
+      "Primul pas din seria Sacred Geometry, care deschide calea spre Sacred Geometry II"
+    ],
+    "usesHeading": "Cum o folosesc oamenii",
+    "uses": [
+      "Ajută un copil să doarmă mai liniștit pregătindu-i camera",
+      "Rămân calmi și protejați într-un job solicitant sau într-un birou aglomerat",
+      "Pregătesc o cameră pentru clienți, ca aceștia să se relaxeze și să se deschidă mai ușor",
+      "Curăță casa după o ceartă, o boală sau o vizită stresantă",
+      "Își creează un colț liniștit pentru meditația și rugăciunea de zi cu zi"
+    ],
+    "faq": [
+      {
+        "q": "Este acest atelier pentru începători?",
+        "a": "Da. Este gândit ca un prim pas: totul este explicat clar și exersăm împreună fiecare instrument până devine firesc."
+      },
+      {
+        "q": "Ce să aduc?",
+        "a": "Haine comode, un caiet și un pix. Și curiozitatea: întrebările sunt mereu binevenite."
+      },
+      {
+        "q": "De unde vin aceste învățături?",
+        "a": "De la Modern Mystery School și din linia regelui Solomon, unde geometria sacră este transmisă de la profesor la elev de mii de ani."
+      },
+      {
+        "q": "Ce urmează după Sacred Geometry I?",
+        "a": "Când ești pregătit(ă), <link>Sacred Geometry II: vindecarea cu cristale și protecția spațiului</link> continuă ce înveți aici, iar seria merge mai departe cu Sacred Geometry III și IV.",
+        "href": "/sacred-geometry-2"
+      }
+    ],
+    "galleryHeading": "Din atelier",
+    "galleryIntro": "Momente reale din cursurile noastre de la Praga: grupuri mici, hârtie, foarfece și carioci colorate, multe întrebări și companie bună.",
+    "gallery": [
+      "Învățăm împreună la Praga",
+      "Decuparea de mână a celor trei forme primare",
+      "Triunghiul: una dintre cele trei chei ale Cerului",
+      "Radu ghidează pe fiecare pas cu pas",
+      "Practică împreună la altar"
+    ],
+    "mastersHeading": "Maeștrii care au studiat-o",
+    "mastersIntro": "De mii de ani, unele dintre cele mai mari minți au văzut în geometrie ordinea ascunsă a vieții.",
+    "masters": [
+      {
+        "name": "Pitagora",
+        "era": "secolul al VI-lea î.Hr.",
+        "text": "Îi învăța pe elevii din propria școală a misterelor că numărul și forma sunt ordinea ascunsă a universului."
+      },
+      {
+        "name": "Platon",
+        "era": "secolul al IV-lea î.Hr.",
+        "text": "Potrivit tradiției, la intrarea în Academia sa scria: Să nu intre cel care nu cunoaște geometria."
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "era": "secolul al XV-lea",
+        "text": "L-a desenat pe Omul Vitruvian, arătând proporțiile sacre ale corpului uman într-un cerc și un pătrat."
+      },
+      {
+        "name": "Galileo Galilei",
+        "era": "secolul al XVII-lea",
+        "text": "A scris că marea carte a naturii este scrisă în limbajul matematicii, cu litere care sunt triunghiuri, cercuri și alte figuri."
+      }
+    ]
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Seria Sacred Geometry · Nivelul II",
@@ -1255,52 +1578,254 @@
     "faqEyebrow": "Întrebări",
     "faqHeading": "Întrebări frecvente",
     "whoHeading": "Pentru cine este",
-    "disclaimer": "Această lucrare nu înlocuiește niciun tratament medical prescris de medicul tău. Este oferită ca sprijin energetic și spiritual complementar, alături de îngrijirea ta medicală."
+    "disclaimer": "Această lucrare nu înlocuiește niciun tratament medical prescris de medicul tău. Este oferită ca sprijin energetic și spiritual complementar, alături de îngrijirea ta medicală.",
+    "hostsEyebrow": "Vei fi în mâini bune",
+    "hostsHeading": "Diana și Radu Coman",
+    "hostsBody": "Suntem practicieni și profesori certificați ai Modern Mystery School. Oricare dintre noi te-ar întâmpina, ne luăm timp să te ascultăm, să-ți răspundem la întrebări și să te ghidăm cu blândețe prin fiecare pas."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Vindecare profundă",
     "heroTitle": "Recuperarea hermetică a sufletului",
-    "heroSubtitle": "Cheamă înapoi părțile din tine care au rămas în urmă",
-    "heroTagline": "O sesiune blândă, dar profund puternică, care readuce sentimentul de întregime",
-    "introLead": "În clipele de copleșire, părți din noi se retrag pentru a rămâne în siguranță",
-    "introBody1": "Înrădăcinată în linia hermetică a tradiției Modern Mystery School, această sesiune lucrează în câmpul tău energetic pentru a găsi și a readuce cu blândețe părțile de suflet lăsate în urmă — părți legate de inocență, creativitate, forță, iubire sau vitalitate.",
-    "introBody2": "Experiențe precum respingerea, abandonul, stresul prelungit sau relațiile limitative ne pot fragmenta în timp. Aducerea acestor părți acasă restabilește prezența, claritatea și sentimentul de a fi pe deplin tu însuți.",
-    "benefitsHeading": "Ce poți simți",
+    "heroSubtitle": "Când simți că o parte din tine lipsește",
+    "heroTagline": "O vindecare blândă care îți aduce înapoi bucuria, energia și scânteia pe care le-ai pierdut pe drum",
+    "introLead": "Ai simțit vreodată că îți lipsește o bucată din tine?",
+    "introBody1": "Poate a început după o pierdere, o despărțire, un accident sau o perioadă lungă și epuizantă. Ai mers mai departe, cum facem toți, dar ceva s-a schimbat. Viața pare puțin mai ștearsă. Bucuria, creativitatea sau scânteia pe care o aveai par departe.",
+    "introBody2": "În tradiția Mystery School înțelegem asta ca pe o parte a sufletului care s-a retras ca să rămână în siguranță atunci când a fost prea mult. Recuperarea hermetică a sufletului găsește cu blândețe aceste părți și le aduce acasă, ca să te simți din nou întreg(întreagă). Ca să funcționeze, nu trebuie să retrăiești sau să vorbești despre amintirile dureroase.",
+    "signsHeading": "Semne că o parte din tine ar putea lipsi",
+    "signs": [
+      "Te simți amorțit(ă) sau gol(goală), ca și cum ai privi viața de la distanță",
+      "De la un anumit eveniment nu te mai simți cu adevărat tu",
+      "Bucuria, creativitatea sau pasiunea par de neatins",
+      "Există în tine un gol pe care nu-l poți explica",
+      "Te tot întorci la aceeași durere veche"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Vorbim despre cum te-ai simțit și ce ai vrea să se întoarcă în viața ta."
+      },
+      {
+        "label": "Recuperarea:",
+        "text": "Tu doar te relaxezi, în timp ce practicianul lucrează în energia ta, găsește părțile din tine pregătite să se întoarcă și le călăuzește înapoi cu blândețe."
+      },
+      {
+        "label": "Întoarcerea acasă:",
+        "text": "Părțile care se întorc sunt așezate din nou în tine, ca să poată rămâne. Nu ne grăbim: întreaga ședință durează cam două ore și jumătate."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
     "benefits": [
-      "Pace profundă și eliberare interioară",
-      "Reamintirea părților uitate din tine",
-      "Sentimentul de a fi mai întreg și mai integrat",
-      "Claritate, prezență și direcție reînnoite",
-      "O întoarcere subtilă la starea ta naturală"
+      "Un sentiment profund de pace",
+      "Te simți mai întreg(întreagă), mai prezent(ă), mai tu",
+      "Bucuria, creativitatea și energia revin",
+      "Claritate despre direcția în care mergi",
+      "Îți amintești părți din tine pe care le uitaseși"
     ],
     "who": [
-      "Te simți amorțit, deconectat sau nu pe deplin prezent",
-      "Treci prin durere emoțională, traumă, epuizare, pierdere sau dependență",
-      "Trăiești sub stres constant sau o mare tranziție în viață",
-      "Te confrunți cu un blocaj creativ, un gol sau un sentiment de fragmentare",
-      "Mergi pe un drum al descoperirii de sine sau al stăpânirii de sine"
+      "Te simți amorțit(ă), deconectat(ă) sau nu chiar aici",
+      "Porți în tine doliu, traumă, epuizare, o despărțire sau o dependență",
+      "Trăiești de mult timp sub stres sau viața ți s-a schimbat mult",
+      "Te simți blocat(ă) creativ sau gol(goală) pe dinăuntru",
+      "Ești pe un drum al autocunoașterii și vrei să te simți întreg(întreagă)"
+    ],
+    "afterHeading": "După ședință",
+    "after": [
+      "Păstrează restul zilei liniștit și blând",
+      "Bea multă apă și odihnește-te",
+      "Notează sentimentele, amintirile sau visele care apar",
+      "Pe măsură ce părțile se întorc, câteva zile pot ieși la suprafață sentimente vechi. Lasă-le să vină și să plece: face parte din întoarcerea acasă"
     ],
     "faq": [
       {
-        "q": "Ce este recuperarea sufletului?",
-        "a": "O practică ce găsește și readuce cu blândețe părțile fragmentate ale sinelui, rămase în urmă în clipe de copleșire, și îndrumă reintegrarea lor."
-      },
-      {
-        "q": "Cum decurge sesiunea?",
-        "a": "În cele 2,5 ore lucrăm în câmpul tău energetic, găsim părțile sufletului tău care sunt gata să se întoarcă și le călăuzim înapoi la tine, ajutându-le să se reintegreze."
-      },
-      {
         "q": "Este sigur?",
-        "a": "Da. Este un proces blând, de sprijin — nu trebuie să retrăiești sau să discuți evenimente dureroase pentru ca el să funcționeze."
+        "a": "Da. Este un proces blând și susținător: ca să funcționeze, nu trebuie să retrăiești sau să vorbești despre evenimentele dureroase."
       },
       {
-        "q": "Care sunt beneficiile?",
-        "a": "Pace, reconectare emoțională, sentimentul de întregime și claritate reînnoită."
+        "q": "Cât durează și cât costă?",
+        "a": "Aproximativ două ore și jumătate, inclusiv consultația și integrarea, pentru 6.150 CZK."
+      },
+      {
+        "q": "De ce se numește hermetică?",
+        "a": "Provine din învățăturile hermetice păstrate în linia Modern Mystery School."
       }
     ],
+    "bookingTitle": "Întoarce-te la tine",
     "duration": "2,5 ore",
     "bookingNote": "Individual, în persoană la Praga (Vršovice). După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Recuperarea hermetică a sufletului."
+  },
+  "EmotionalCordCutting": {
+    "heroEyebrow": "Curățare energetică",
+    "heroTitle": "Tăierea cordoanelor emoționale",
+    "heroSubtitle": "Când cineva încă îți trăiește în gânduri și asta te costă energie",
+    "heroTagline": "Un ritual blând prin care lași să plece legăturile vechi, ca să te simți din nou tu",
+    "introLead": "Când viața pare grea, uneori primul pas este pur și simplu să lași să plece",
+    "introBody1": "Fiecare om pe care îl iubim, cu care ne certăm sau care ne lipsește lasă o urmă în noi. Aceste urme le numim cordoane energetice. Cele mai multe sunt inofensive. Unele însă te trag înapoi mult după ce relația sau momentul s-au încheiat: îți tot derulezi conversații vechi, vii acasă obosit(ă) după ce vezi anumite persoane sau doar un nume e de ajuns ca să te tulbure.",
+    "introBody2": "În această ședință tăiem cu blândețe aceste legături care te secătuiesc și curățăm ce au lăsat în urmă. Nu șterge iubirea și nu încheie o relație. Doar îți dă înapoi energia, ca să te poți întâlni cu oamenii din viața ta dintr-un loc mai ușor și mai liber.",
+    "signsHeading": "Semnele unui cordon nesănătos",
+    "signs": [
+      "Te tot gândești la cineva, chiar dacă ai prefera să nu",
+      "Vii acasă obosit(ă) după ce te vezi cu anumite persoane",
+      "Te simți blocat(ă), ca și cum n-ai putea merge mai departe",
+      "Când auzi un anumit nume, încă ți se strânge stomacul",
+      "Ți-ai pierdut scânteia și te surprinzi apelând la obiceiuri de consolare",
+      "Preiei stările celorlalți fără să vrei"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne luăm câteva minute să înțelegem prin ce treci și ce ești pregătit(ă) să lași să plece. Împărtășești doar ce te face să te simți confortabil."
+      },
+      {
+        "label": "Tăierea:",
+        "text": "Stai în picioare, comod, respiri adânc de câteva ori și îți lași corpul să se relaxeze. Practicianul taie cordoanele cu un instrument ritual al luminii; ele sunt absorbite în tămâia care arde și eliberate."
+      },
+      {
+        "label": "Curățarea:",
+        "text": "Energia ta este curățată cu blândețe și readusă în echilibru cu salvie, apă sfințită și mantre sacre."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți observa cum te simți: adesea mai ușor(ă), mai calm(ă) și mai limpede."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "O ușurare adevărată, ca și cum ți s-ar fi luat o greutate de pe umeri",
+      "O minte mai liniștită și mai limpede",
+      "Un somn mai profund și mai odihnitor",
+      "Poți spune nu, cu blândețe și fermitate",
+      "Mai multă energie pentru propria viață",
+      "Speranță și sentimentul unui nou început"
+    ],
+    "who": [
+      "Ieși sau ai ieșit dintr-o relație care te-a rănit",
+      "Îți este greu să spui nu și să-ți păstrezi limitele",
+      "Anumite persoane te secătuiesc sau le preiei ușor sentimentele",
+      "Același tipar se tot repetă cu o anumită persoană",
+      "Ai trecut printr-o traumă sau o relație abuzivă și vrei să închizi acel capitol"
+    ],
+    "afterHeading": "După ședință",
+    "after": [
+      "Fă o baie caldă cu sare în seara aceea: te ajută să te curăți și să te ancorezi",
+      "Aprinde o lumânare, respiră adânc de câteva ori și stabilește o intenție pentru ce vrei să primești în continuare",
+      "Fii blând(ă) cu tine: odihnește-te, scrie, meditează sau petrece timp în natură",
+      "În zilele următoare pot ieși la suprafață sentimente sau amintiri vechi. Este normal: face parte din eliberare"
+    ],
+    "faq": [
+      {
+        "q": "Îmi va încheia relația?",
+        "a": "Nu. Taie partea nesănătoasă, care te secătuiește, a legăturii, nu iubirea. Mulți oameni descoperă că relațiile lor devin apoi mai ușoare și mai sănătoase."
+      },
+      {
+        "q": "Trebuie să vorbesc despre evenimente dureroase?",
+        "a": "Doar cât vrei tu. Este suficientă o scurtă discuție despre ce vrei să eliberezi."
+      },
+      {
+        "q": "Cât durează și cât costă?",
+        "a": "Aproximativ o oră, 3.669 CZK, inclusiv consultația, tăierea cordoanelor și purificarea."
+      },
+      {
+        "q": "O pot combina cu eliminarea energiei negative?",
+        "a": "Da. Cele două lucrează împreună și se fac adesea în aceeași vizită; fiecare are prețul ei. <link>Citește despre eliminarea energiei negative</link>.",
+        "href": "/negative-energy-removal"
+      }
+    ],
+    "relatedHeading": "Curăță ce îți trimit ceilalți",
+    "relatedBody": "Eliminarea energiei negative curăță gândurile, cuvintele și intențiile negative pe care alții le-au îndreptat spre tine. Se potrivește minunat cu tăierea cordoanelor.",
+    "relatedCta": "Descoperă eliminarea energiei negative",
+    "bookingTitle": "Taie cordoanele",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Prețul include consultația și toate procedurile. După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "inquiry": "Bună, sunt interesat(ă) de tăierea cordoanelor emoționale."
+  },
+  "NegativeEnergyRemoval": {
+    "heroEyebrow": "Curățare energetică",
+    "heroTitle": "Eliminarea energiei negative",
+    "heroSubtitle": "Când negativitatea celorlalți te apasă",
+    "heroTagline": "O curățare care te readuce la liniște atunci când viața pare grea sau neclară",
+    "introLead": "Te-ai simțit vreodată greu după ce ai stat cu cineva, fără să știi de ce?",
+    "introBody1": "Cuvintele și gândurile poartă energie. Când cineva te invidiază, îți poartă pică sau îți dorește răul, chiar dacă nu o spune niciodată cu voce tare, poți simți asta. Poate sta pe tine ca un nor cenușiu: gândurile ți se încețoșează, lucrurile nu mai curg, dormi prost și începi să te îndoiești de tine.",
+    "introBody2": "În această ședință curățăm aceste gânduri, cuvinte și intenții negative din energia ta, fie că au venit de la o singură persoană, fie că s-au adunat în tăcere de-a lungul anilor. Cei mai mulți oameni pleacă mai ușori, mai limpezi și din nou mai aproape de ei înșiși.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Te simți secătuit(ă) lângă anumite persoane sau în locuri aglomerate",
+      "Gândurile îți sunt încețoșate sau te ține o neliniște care nu trece",
+      "Ai o stare apăsătoare sau tristă fără un motiv clar",
+      "Adormi greu sau te trezești obosit(ă)",
+      "Știi că cineva apropiat este gelos pe tine sau cuvinte dure încă îți răsună în minte",
+      "Simți o tensiune în piept sau în cap care vine și pleacă odată cu anumite persoane sau locuri"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui prin ce ai trecut și ce ai vrea să cureți. Împărtășești doar ce te face să te simți confortabil."
+      },
+      {
+        "label": "Curățarea:",
+        "text": "Practicianul face ritualul care ridică gândurile, cuvintele și intențiile negative din energia ta. Tu doar te relaxezi și respiri."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Claritate: gândurile se așază și mintea îți este din nou limpede",
+      "O stare mai ușoară",
+      "Somn și concentrare mai bune",
+      "Te simți ancorat(ă) și liniștit(ă) în corp",
+      "Stările și părerile altora te afectează mai puțin",
+      "Lucrurile încep din nou să se miște și să curgă"
+    ],
+    "who": [
+      "Simți că gelozia sau furia cuiva este îndreptată spre tine",
+      "Ai trecut printr-un conflict, o despărțire sau un loc de muncă dificil",
+      "Lucrezi cu mulți oameni și vii acasă purtându-le energia",
+      "Te simți blocat(ă) și vrei un nou început"
+    ],
+    "afterHeading": "După ședință",
+    "after": [
+      "Fă o baie caldă cu sare în seara aceea: ajută la curățarea a ce a rămas și îți ancorează corpul",
+      "Odihnește-te și, ori de câte ori îți amintești, respiră lent și adânc de câteva ori",
+      "În zilele următoare pot veni valuri de emoții sau o claritate bruscă. Amândouă sunt un semn bun: lasă-le să treacă",
+      "Observă cât de ușor se simt oamenii și situațiile din jur"
+    ],
+    "faq": [
+      {
+        "q": "Este același lucru cu tăierea cordoanelor emoționale?",
+        "a": "Nu. Tăierea cordoanelor eliberează legăturile dintre tine și ceilalți; eliminarea energiei negative curăță ce ți-au trimis alții. Lucrează bine împreună și se fac adesea în aceeași vizită. <link>Citește despre tăierea cordoanelor emoționale</link>.",
+        "href": "/emotional-cord-cutting"
+      },
+      {
+        "q": "Trebuie să știu cine a trimis negativitatea?",
+        "a": "Deloc. Adesea simțim doar greutatea, fără să știm de unde vine. Curățarea funcționează oricum."
+      },
+      {
+        "q": "Cât durează și cât costă?",
+        "a": "Aproximativ o oră, 3.669 CZK, inclusiv consultația și toate procedurile."
+      }
+    ],
+    "relatedHeading": "Eliberează-te de legăturile vechi",
+    "relatedBody": "Tăierea cordoanelor emoționale eliberează legăturile emoționale care te secătuiesc. Împreună cu eliminarea energiei negative, oferă energiei tale o curățare completă.",
+    "relatedCta": "Descoperă tăierea cordoanelor emoționale",
+    "bookingTitle": "Curățare și reînnoire",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Prețul include consultația și toate procedurile. După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "inquiry": "Bună, sunt interesat(ă) de eliminarea energiei negative.",
+    "toolsHeading": "Instrumente simple pentru curățarea de zi cu zi",
+    "tools": [
+      "O baie cu sare o dată pe săptămână, ca să speli săptămâna de pe tine",
+      "Câteva minute de meditație liniștită sau respirație adâncă în fiecare dimineață",
+      "Timp în natură: o plimbare prin parc, pe malul râului sau prin pădure",
+      "Puțină salvie aprinsă acasă și ferestrele deschise, ca să intre aer proaspăt",
+      "Un turmalin negru sau un cristal de cuarț lângă birou",
+      "Să observi cine și ce te secătuiește și să-ți dai voie să faci un pas înapoi"
+    ]
   },
   "EnsoficReiki": {
     "heroEyebrow": "Vindecare energetică",
@@ -1630,7 +2155,8 @@
       },
       {
         "q": "Este practicianta certificată?",
-        "a": "Da. Doar practicienii certificați direct de Modern Mystery School International o pot efectua și se recertifică în fiecare an."
+        "a": "Da. Doar practicienii certificați direct de <link>Modern Mystery School International</link> o pot efectua și se recertifică în fiecare an.",
+        "href": "https://modernmysteryschoolint.com/"
       }
     ]
   },

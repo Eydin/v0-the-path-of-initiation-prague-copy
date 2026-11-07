@@ -41,6 +41,9 @@ export default async function MaxMeditation({
   return (
     <ModalityShell bg="moonrise-friedrich.jpg" position="center 40%">
       <ModalityHero
+        image="misty-lake-dawn.jpg"
+        position="50% 50%"
+        caption="A lake at dawn · photo by Sami Matias Breilin, Unsplash"
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle")}
         subtitle={t("heroSubtitle")}

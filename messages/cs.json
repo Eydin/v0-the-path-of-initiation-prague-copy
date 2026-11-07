@@ -67,17 +67,40 @@
     "seeFullCalendar": "Zobrazit celý kalendář"
   },
   "CalendarWidget": {
-    "heading": "Chcete se zúčastnit kurzu nebo workshopu?",
-    "body": "Prozkoumejte naše nadcházející události",
-    "button": "Zobrazit kalendář"
+    "eyebrow": "V Praze",
+    "heading": "Tento týden v Praze",
+    "headingNext": "Brzy v Praze",
+    "body": "{count, plural, one {Tento týden se děje jedna krásná věc. Přijďte mezi nás!} few {Tento týden se dějí # krásné věci. Vyberte si a přijďte!} other {Tento týden se děje # krásných věcí. Vyberte si a přijďte!}}",
+    "bodyNext": "Tento týden je u nás klid, tak tady je, co přijde dál. Poznamenejte si datum!",
+    "weekLabel": "Příštích sedm dní",
+    "today": "Dnes",
+    "vibe": {
+      "Activation": "Probuďte dary, se kterými jste se narodili",
+      "Initiation": "Projděte dveřmi do nové kapitoly",
+      "Workshop": "Naučte se něco úžasného v malé, přátelské skupině",
+      "Community": "Čaj, dobrá společnost a klidný večer spolu"
+    },
+    "join": "Přijďte",
+    "empty": "Nové termíny jsou na cestě. Podívejte se do kalendáře nebo nám napište!",
+    "button": "Celý kalendář",
+    "footnote": "Nevíte, co je pro vás? Zeptejte se, otázky máme rádi."
   },
   "Facts": {
-    "intro": "Chcete se stát zasvěcencem mystérií? Čtěte dál.",
+    "intro": "Zajímá vás, kam vás tato cesta může zavést? Tady je, co našli druzí.",
     "heading": "Odkaz, který mluví sám za sebe",
     "stats": [
-      { "number": "3000+", "label": "Let nepřerušené linie" },
-      { "number": "55", "label": "Zemí po celém světě" },
-      { "number": "44 000+", "label": "Zasvěcenců po celém světě" }
+      {
+        "number": "3000+",
+        "label": "Let nepřerušené linie"
+      },
+      {
+        "number": "55",
+        "label": "Zemí po celém světě"
+      },
+      {
+        "number": "44 000+",
+        "label": "Zasvěcenců po celém světě"
+      }
     ],
     "videosHeading": "Sledujte cestu našich studentů a učitelů",
     "wallOfLove": "Zeď lásky",
@@ -97,53 +120,53 @@
     ]
   },
   "Pillars": {
-    "eyebrow": "Základ",
-    "heading": "Čtyři pilíře proměny",
-    "intro": "Každý pilíř staví na tom předchozím a vytváří ucelený systém duchovní evoluce, který obstál ve zkoušce času.",
+    "eyebrow": "Jak cesta funguje",
+    "heading": "Čtyři kroky, které na sebe navazují",
+    "intro": "Nemusíte dělat všechno najednou. Každý krok stojí sám o sobě a připraví vás na další.",
     "items": [
       {
         "title": "Aktivace",
-        "description": "Probuďte svou DNA a obnovte spojení se svým Duchem. Tato práce začíná Life Activation a pokračuje skrze Full Spirit Activation."
+        "description": "Probuďte dary, se kterými jste se narodili. Začíná to Life Activation, individuálním sezením, a může pokračovat Full Spirit Activation."
       },
       {
-        "title": "Zasvěcení",
-        "description": "Očistěte a připravte nádobu k přijetí čistého Světla Ducha a projevte je bez zkreslení do fyzična — cestu otevírá Empower Thyself."
+        "title": "Iniciace",
+        "description": "Naučte se čistit a chránit svou energii a vzít život do svých rukou. Začíná to Empower Thyself, dvoudenním kurzem."
       },
       {
-        "title": "Studujte a učte se",
-        "description": "Zvládnutím umění a věd Sacred Geometry, Astral Travel, Kabbalah a mnoha dalších se stanete pánem svého fyzického života."
+        "title": "Studium",
+        "description": "Objevujte posvátnou geometrii, astrální cestování, kabalu a další v malých, přátelských kurzech a používejte, co se naučíte, každý den."
       },
       {
         "title": "Služba druhým",
-        "description": "Život není úplný a nemůžete mu plně porozumět, pokud také neusilujete o službu druhým. Tím, že vedete, léčíte, učíte a obecně podporujete druhé v jejich potřebách, se stáváte plnou verzí sebe sama."
+        "description": "Sdílejte, co jste se naučili: pomáhejte, léčte a podporujte lidi kolem sebe. Tady se cesta stává opravdu vaší."
       }
     ]
   },
   "Teaser": {
-    "eyebrow": "Závazek k velikosti",
-    "heading": "Toto není víkendový workshop",
-    "body1": "Řekněme si to jasně: Cesta iniciace je náročný výcvikový program. Zahrnuje měsíce oddaného studia, neustálou praxi a neochvějný závazek k vlastní proměně. Není to ledabylý seminář ani příjemný pobyt pro dobrý pocit.",
-    "body2": "Toto je <emphasis>posvátný závazek</emphasis> stát se tou nejlepší verzí sebe sama — odemknout síly, o jejichž existenci většina lidí nikdy nebude vědět, a vstoupit do linie, která formovala běh lidských dějin.",
-    "expectedHeading": "Co se od vás očekává",
+    "eyebrow": "Cesta, ne rychlé řešení",
+    "heading": "Skutečná změna vlastním tempem",
+    "body1": "Cesta iniciace se odvíjí během měsíců, ne za jeden víkend. Učíte se praktické nástroje, používáte je v každodenním životě a rostete krok za krokem, s námi a s vřelou komunitou po boku.",
+    "body2": "Nemusíte být výjimeční ani mít všechno vyřešené. Pokud jste <emphasis>zvědaví a ochotní cvičit</emphasis>, jste připraveni začít.",
+    "expectedHeading": "Vše, co si s sebou vezměte",
     "expectations": [
       {
-        "title": "Otevřená mysl",
-        "description": "Ochota zkoumat nové pohledy a zpochybnit své současné domněnky."
+        "title": "Zvědavost",
+        "description": "Otevřenou mysl a chuť vidět věci nově."
       },
       {
-        "title": "Každodenní praxe",
-        "description": "Důsledné uplatňování nástrojů a technik ve vašem každodenním životě."
+        "title": "Trochu praxe",
+        "description": "Pár minut denně s nástroji, které se naučíte. Právě tam se děje změna."
       },
       {
-        "title": "Odhodlání k sebeovládání",
-        "description": "Upřímná touha poznat sebe sama, rozvinout svůj potenciál a převzít zodpovědnost za svůj vlastní vývoj."
+        "title": "Ochotu růst",
+        "description": "Přání lépe porozumět sobě a vzít život do svých rukou."
       },
       {
-        "title": "Duch služby",
-        "description": "Ochota využít svůj růst a rozvoj k povznesení sebe sama a k pozitivnímu přispění do životů druhých."
+        "title": "Laskavé srdce",
+        "description": "Radost ze sdílení toho, čím se stáváte, s lidmi kolem vás."
       }
     ],
-    "expectedClosing": "Toto je vaše cesta, vaše investice a vaše zodpovědnost. Tuto práci podstupujete pro svůj vlastní vývoj a pro život, který se rozhodnete vytvořit. Nikdo ji za vás udělat nemůže."
+    "expectedClosing": "Je to vaše cesta a nikdy po ní nepůjdete sami: jsme tu, abychom vás vedli, a komunita je tu, aby vám fandila."
   },
   "CTA": {
     "eyebrow": "Vaše pozvání",
@@ -164,25 +187,76 @@
     "dianaQuote": "Je rozdíl mezi tím, slyšet, že něco je možné, a zažít to na vlastní kůži. To druhé mění vše."
   },
   "Classes": {
-    "eyebrow": "Nadcházející události",
-    "heading": "Nadcházející kurzy v Praze",
-    "intro": "Každý kurz je krokem na cestě iniciace. Začněte s Life Activation a postupujte posvátným kurikulem dál.",
+    "eyebrow": "Učte se s námi",
+    "heading": "Kurzy v Praze",
+    "intro": "Malé, přátelské skupiny, kde se naučíte skutečné nástroje pro každodenní život. Většina lidí začíná s Life Activation.",
     "items": [
       {
-        "description": "Probuďte svůj božský plán a rozžehněte plný potenciál zakódovaný ve vaší DNA. Toto je základní sezení linie mysterijní školy.",
-        "tag": "Základ"
+        "description": "Individuální sezení, které probudí dary, se kterými jste se narodili. Mnoho lidí se potom cítí lehčí, jasnější a víc sami sebou. Je to první krok na cestě.",
+        "tag": "Začněte tady",
+        "meta": "Asi 2 hodiny · individuálně · osobně v Praze"
       },
       {
-        "description": "Dvoudenní iniciační program, ve kterém obdržíte posvátné nástroje a učení, abyste převzali velení nad svým životem a vykročili na cestu jako Zasvěcenec.",
-        "tag": "Iniciace"
+        "description": "Dva dny v malé skupině, kde se naučíte čistit a chránit svou energii, rozpoznat vzorce, které řídí váš život, a změnit je, a vytvořit si doma posvátný prostor.",
+        "tag": "Iniciace",
+        "meta": "2 dny · malá skupina · osobně v Praze"
       },
       {
-        "title": "Zobrazit celý kalendář",
-        "description": "Studujte božské vzory, které jsou základem veškerého stvoření, jak astrálně cestovat, komunikovat se svým vyšším já a mnohem více.",
-        "tag": "Pokročilé studium"
+        "title": "Celý kalendář",
+        "description": "Posvátná geometrie, astrální cestování, rozhovor s vaším vyšším já a další. Praktické kurzy, do kterých se můžete zapojit krok za krokem, vlastním tempem.",
+        "tag": "Učte se dál",
+        "meta": "Půldenní a víkendové kurzy · malé skupiny"
       }
     ],
     "learnMore": "Zjistit více"
+  },
+  "LookingFor": {
+    "eyebrow": "Možná potřebujete právě tohle",
+    "heading": "Co hledáte?",
+    "intro": "Klepněte na to, co pro vás teď platí, a ukážeme vám, kde je dobré začít.",
+    "tryLabel": "Zkuste",
+    "tiles": {
+      "stressed": {
+        "feel": "Jsem ve stresu a nedokážu vypnout",
+        "try": "Max Meditation"
+      },
+      "drained": {
+        "feel": "Někteří lidé mi berou energii",
+        "try": "Přeříznutí emočních pout"
+      },
+      "stuck": {
+        "feel": "Pořád opakuji stejné staré vzorce",
+        "try": "Léčení negativních návyků"
+      },
+      "body": {
+        "feel": "Moje tělo potřebuje úlevu a uzdravení",
+        "try": "Ensofic Reiki"
+      },
+      "missing": {
+        "feel": "Mám pocit, že mi něco chybí",
+        "try": "Hermetický návrat duše"
+      },
+      "gifts": {
+        "feel": "Chci objevit své dary",
+        "try": "Life Activation"
+      },
+      "learn": {
+        "feel": "Tohle jsem se vždycky chtěl/a naučit",
+        "try": "Empower Thyself"
+      },
+      "people": {
+        "feel": "Rád/a bych poznal/a laskavé, podobně smýšlející lidi",
+        "try": "Komunitní večery"
+      }
+    },
+    "unsure": "Pořád si nejste jistí?",
+    "unsureLink": "Napište nám a pomůžeme vám vybrat.",
+    "unsureMessage": "Dobrý den, nevím, kde začít. Můžete mi pomoci vybrat?"
+  },
+  "Welcome": {
+    "heading": "Ahoj, jsme Diana a Radu",
+    "body": "Přivítáme vás osobně v Praze, uděláme si čas vás vyslechnout a provedeme vás každým krokem. Ať přijdete na léčení, na kurz nebo na klidný večer s komunitou, nebudete na to sami.",
+    "link": "Poznejte nás"
   },
   "FAQ": {
     "eyebrow": "Než začnete",
@@ -212,14 +286,23 @@
   },
   "Ending": {
     "eyebrow": "Kde se setkávají všechny světy",
-    "heading": "Spojení starověku, vesmíru a moderní doby",
+    "heading": "Dávná moudrost pro moderní život",
     "cards": [
-      { "title": "Starobylá moudrost", "subtitle": "Chrámy, kněží a posvátné rituály" },
-      { "title": "Univerzální věda", "subtitle": "Galaktické poznání a světlo" },
-      { "title": "Moderní zasvěcenec", "subtitle": "Posílení muži a ženy" }
+      {
+        "title": "Starobylá moudrost",
+        "subtitle": "Chrámy, kněží a posvátné rituály"
+      },
+      {
+        "title": "Univerzální věda",
+        "subtitle": "Galaktické poznání a světlo"
+      },
+      {
+        "title": "Moderní zasvěcenec",
+        "subtitle": "Posílení muži a ženy"
+      }
     ],
-    "body1": "Tato cesta spojuje <emphasis>starobylou moudrost</emphasis> mysterijních škol s <emphasis>univerzální galaktickou vědou</emphasis>, která provázela civilizace napříč vesmírem.",
-    "body2": "Výsledkem je živý systém poznání, který je hluboce použitelný pro <emphasis>moderní muže a ženy</emphasis>, kteří jsou připraveni se probudit, proměnit a vést."
+    "body1": "To, co učíme, pochází z <emphasis>dávných škol mystérií</emphasis> a z <emphasis>univerzální vědy</emphasis>, kterou uchovaly, a je překvapivě praktické pro dnešní život.",
+    "body2": "Je pro <emphasis>moderní muže a ženy</emphasis>, kteří se chtějí cítit lépe, porozumět sami sobě a žít s větším smyslem a radostí."
   },
   "HallOfInitiates": {
     "eyebrow": "Síň zasvěcenců",
@@ -273,51 +356,182 @@
     "heroEyebrow": "Modern Mystery School · Linie krále Šalomouna",
     "heroSubtitle": "Aktivujte vrozené dary, které přebývají ve vaší DNA",
     "heroTagline": "Vyčistěte 5–7 generací předků od traumat a vykročte ke svému nejvyššímu potenciálu",
-    "introLead": "{brand} – Modern Mystery School, linie krále Šalomouna",
-    "introBody": "{brand} je probuzení duše nabízené v tradici Modern Mystery School, navržené k zažehnutí božského potenciálu v každé lidské bytosti. Toto silné sezení aktivuje 22 z 24 vláken DNA (11 fyzických a 11 duchovních), čímž otevírá bránu k hlubšímu spojení s vaším Božským Já. Tím se zvyšuje vaše schopnost přijímat, obíhat a udržovat více Světla — což podporuje léčení, jasnost a duchovní růst.",
-    "benefitsHeading": "Přínosy {brand}",
-    "benefits": [
-      { "label": "Hluboké spojení s Božským Já:", "text": "Life Activation usnadňuje hlubší spojení s vaším Božským Já a umožňuje projev vašich vnitřních zdrojů, talentů a potenciálu." },
-      { "label": "Energie a jasnost:", "text": "Zážitek přináší vlivnou dávku energie a jasnosti do všech oblastí života a podporuje vaši schopnost sebejistě zvládat každodenní život." },
-      { "label": "Projev talentů a schopností:", "text": "Probuzením vnitřního potenciálu se stáváte vnímavějšími a schopnějšími plněji vyjadřovat své jedinečné talenty a schopnosti." },
-      { "label": "Proměna těla a uvolnění karmy:", "text": "Life Activation zahajuje proces proměny v těle a pomáhá uvolnit emocionální a mentální vzorce uložené v DNA, známé jako „karma“." },
-      { "label": "Rozšířené využití mozkové kapacity:", "text": "Díky tomuto zážitku se posiluje schopnost čerpat z většího potenciálu mozku a vynáší na světlo dříve přehlížené nebo dřímající schopnosti." }
-    ],
-    "proceduresHeading": "Doplňkové procedury pro vyvážení a proměnu",
+    "proceduresHeading": "Vaše sezení podrobněji",
     "proceduresLead": "Kromě samotné aktivace zahrnuje sezení doplňkové procedury navržené k vyvážení a stimulaci těla v souladu s nově aktivovanými informacemi z DNA.",
     "procedures": [
-      { "label": "Odstranění emocionálních bloků:", "text": "Zaměřeno na odstranění případných emocionálních bloků z korunní čakry, tento proces vytváří lepší proudění energie." },
-      { "label": "Vyvážení centrálního jádra:", "text": "Tento proces harmonizuje energie proudící centrálním jádrem a podporuje vyrovnání a rovnováhu celého energetického systému." },
-      { "label": "Otevření 16 lotosových okvětních lístků:", "text": "Toto posiluje spojení s Elementálními energiemi — Zemí, Vodou, Vzduchem a Ohněm — a dává vám více jejich vlastností a síly." },
-      { "label": "Vyvážení elementálních a magnetických energetických linií:", "text": "Toto vyvažuje a harmonizuje energetické linie procházející tělem a podporuje plynulé a sladěné proudění energie." },
-      { "label": "Vyvážení čaker:", "text": "Toto přináší harmonii a vyrovnání do energetických center těla." },
-      { "label": "Odstranění vypálených éterických krystalů z těla:", "text": "Tato procedura je určena k očistě a revitalizaci energetického těla." },
-      { "label": "Krátké čtení z vaší nově aktivované DNA:", "text": "Krátké prozkoumání vrstev podvědomí, které vám přinese vhled a vedení." },
-      { "label": "Homeopatický lék:", "text": "Homeopatický lék vytvořený v alchymistické laboratoři školy, navržený k detoxikaci, podpoře a zmírnění fyzických a energetických změn spojených s tímto jedinečným zážitkem." }
+      {
+        "label": "Odstranění emocionálních bloků:",
+        "text": "Zaměřeno na odstranění případných emocionálních bloků z korunní čakry, tento proces vytváří lepší proudění energie."
+      },
+      {
+        "label": "Vyvážení centrálního jádra:",
+        "text": "Tento proces harmonizuje energie proudící centrálním jádrem a podporuje vyrovnání a rovnováhu celého energetického systému."
+      },
+      {
+        "label": "Otevření 16 lotosových okvětních lístků:",
+        "text": "Toto posiluje spojení s Elementálními energiemi — Zemí, Vodou, Vzduchem a Ohněm — a dává vám více jejich vlastností a síly."
+      },
+      {
+        "label": "Vyvážení elementálních a magnetických energetických linií:",
+        "text": "Toto vyvažuje a harmonizuje energetické linie procházející tělem a podporuje plynulé a sladěné proudění energie."
+      },
+      {
+        "label": "Vyvážení čaker:",
+        "text": "Toto přináší harmonii a vyrovnání do energetických center těla."
+      },
+      {
+        "label": "Odstranění vypálených éterických krystalů z těla:",
+        "text": "Tato procedura je určena k očistě a revitalizaci energetického těla."
+      },
+      {
+        "label": "Krátké čtení z vaší nově aktivované DNA:",
+        "text": "Krátké prozkoumání vrstev podvědomí, které vám přinese vhled a vedení."
+      },
+      {
+        "label": "Homeopatický lék:",
+        "text": "Homeopatický lék vytvořený v alchymistické laboratoři školy, navržený k detoxikaci, podpoře a zmírnění fyzických a energetických změn spojených s tímto jedinečným zážitkem."
+      }
     ],
     "exploreHeading": "Objevte vyšší dimenze",
     "exploreBody1": "Aktivace DNA je návratem k sobě samému — sezení, které nejen přináší světlo do temnoty života, ale také otevírá dveře k neomezenému potenciálu.",
-    "exploreBody2": "V Modern Mystery School slouží tato aktivace jako brána k duchovní evoluci a objevení pravého Já hluboce transformačním způsobem. Je to krok k životu s větší energií, jasností a uvědoměním.",
+    "exploreBody2": "V Modern Mystery School slouží tato aktivace jako brána k duchovní evoluci a objevení pravého Já hluboce transformačním způsobem. V této cestě můžete pokračovat prostřednictvím kurzů a iniciace, které Mystery School nabízí.",
     "certTitle": "{brand} – Aktivace DNA",
-    "certBody": "Toto je průlomová metoda pro <i>vnitřní proměnu a odemknutí vašeho osobního potenciálu</i>. Kombinuje starobylou moudrost s moderními energiemi, aby vám pomohla růst a vyvíjet se. Tuto techniku nabízí Modern Mystery School prostřednictvím certifikovaných praktiků Life Activation. Slouží jako <bold>brána k vyššímu vědomí a duchovní expanzi.</bold>",
+    "certBody": "Toto je průlomová metoda pro <i>vnitřní proměnu a odemknutí vašeho osobního potenciálu</i>. Kombinuje starobylou moudrost s moderními energiemi, aby vám pomohla růst a vyvíjet se. Tuto techniku nabízí <mms>Modern Mystery School</mms> prostřednictvím certifikovaných praktiků Life Activation. Slouží jako <bold>brána k vyššímu vědomí a duchovní expanzi.</bold>",
     "bookingTitle": "Poznejte svou autentickou sílu a vyšší já!",
     "duration": "2 hodiny",
     "bookingNote": "Po dokončení platby vás budeme kontaktovat, abychom domluvili termín.",
-    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand}."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand}.",
+    "awakenHeading": "Probuďte více z toho, kým skutečně jste",
+    "awakenAlt": "Zářící vlákno DNA rozsvícené body zlatého světla",
+    "awaken": [
+      "Dary, jasnost a síla, které hledáte, už možná ve vás jsou a čekají, až se probudí. Life Activation je sezení, které je probouzí.",
+      "Pochází z linie krále Šalomouna, která se udržuje živá tisíce let a dnes ji předává Modern Mystery School. Během sezení se aktivuje 22 z vašich 24 vláken DNA: 11 fyzických a 11 duchovních. Díky tomu můžete přijmout a udržet více Světla, životní síly, která podporuje vaše uzdravení, jasnost a růst.",
+      "Zároveň čistí to, co si nesete ze své rodové linie, až 5–7 generací zpět, abyste mohli vstoupit do svého nejvyššího potenciálu."
+    ],
+    "giftsHeading": "Co vám může přinést",
+    "giftsIntro": "Každý člověk je jiný, ale o těchto změnách nám lidé vyprávějí nejčastěji.",
+    "gifts": [
+      {
+        "label": "Jasnost",
+        "text": "Vidíte svůj život a svá rozhodnutí jasněji a rozhodování je lehčí."
+      },
+      {
+        "label": "Více energie",
+        "text": "Nový proud energie do všech oblastí vašeho života, takže každý den se nese snáz."
+      },
+      {
+        "label": "Silnější intuice",
+        "text": "Svůj vnitřní hlas slyšíte zřetelněji a učíte se mu důvěřovat."
+      },
+      {
+        "label": "Probuzené talenty",
+        "text": "Dary, které spaly, vystupují na povrch a je snazší je projevit."
+      },
+      {
+        "label": "Svoboda od starých vzorců",
+        "text": "Emoční a myšlenkové vzorce uložené ve vaší DNA, známé jako karma, se začnou uvolňovat, včetně těch předávaných ve vaší rodině."
+      },
+      {
+        "label": "Vaše Božské Já",
+        "text": "Hlubší spojení s tím, kým skutečně jste, a s vnitřními zdroji a potenciálem, které k tomu patří."
+      }
+    ],
+    "forWhomHeading": "Je {brand} pro vás?",
+    "forWhomIntro": "Nepotřebujete žádné duchovní zázemí. Pokud se v něčem z toho poznáváte, možná je to vaše chvíle.",
+    "forWhom": [
+      {
+        "who": "Podnikatelé",
+        "text": "Pro jasná rozhodnutí a energii vést."
+      },
+      {
+        "who": "Rodiče",
+        "text": "Pro trpělivost, klid a více energie na čas s vašimi dětmi."
+      },
+      {
+        "who": "Studenti",
+        "text": "Pro soustředění a důvěru v cestu, kterou si zvolíte."
+      },
+      {
+        "who": "Umělci a tvůrci",
+        "text": "Pro novou inspiraci a odvahu ji sdílet."
+      },
+      {
+        "who": "Léčitelé a terapeuti",
+        "text": "Pro silnější a čistší kanál pro vaši práci."
+      },
+      {
+        "who": "Zaneprázdnění profesionálové",
+        "text": "Pro rovnováhu a energii, která vydrží celý týden."
+      },
+      {
+        "who": "Hledající smysl",
+        "text": "Pro odpovědi na to, proč jste tady a co přijde dál."
+      },
+      {
+        "who": "Každý, kdo se cítí zaseknutý",
+        "text": "Pro nový začátek, když se stále vracejí stejné vzorce."
+      }
+    ],
+    "stepsHeading": "Vaše sezení krok za krokem",
+    "stepsIntro": "Asi dvě hodiny, osobně v Praze. Není třeba nic připravovat: stačí jen přijímat.",
+    "stepsAlt": "Posvátné nástroje připravené na sezení: zlatý ankh, krystaly a obalené hůlky",
+    "steps": [
+      {
+        "title": "Usaďte se a uvolněte",
+        "text": "Začnete tím, že se uvolníte a necháte odejít starosti dne."
+      },
+      {
+        "title": "Čištění",
+        "text": "Pohodlně sedíte, zatímco začíná první část čištění."
+      },
+      {
+        "title": "Vyvažování",
+        "text": "Asi 20–30 minut stojíte, zatímco se vyvažují vaše čakry a éterické tělo."
+      },
+      {
+        "title": "Aktivace",
+        "text": "Znovu se posadíte a přijmete aktivaci 22 vláken své DNA."
+      },
+      {
+        "title": "Krátké čtení",
+        "text": "Krátké čtení z vaší nově aktivované DNA, s vhledy a vedením přímo pro vás."
+      },
+      {
+        "title": "Týdny potom",
+        "text": "Aktivace se dál rozvíjí jeden až tři měsíce a po celou tu dobu jsme s vámi v kontaktu."
+      }
+    ],
+    "handsHeading": "V certifikovaných rukou",
+    "handsAlt": "Praktik držící ručně obalený krystalový nástroj",
+    "hands": [
+      "Life Activation smějí dávat pouze praktici certifikovaní přímo Modern Mystery School International a svou certifikaci každý rok obnovují.",
+      "Diana a Radu jsou oba certifikovaní Life Activation praktici. Vřele vás přivítají, pracují s jemností a grácií a zůstanou po vašem boku i v týdnech, které následují."
+    ],
+    "handsLink": "Naše certifikace",
+    "wandsAlt": "Kruh ručně obalených krystalových hůlek používaných při Life Activation",
+    "nextHeading": "Po vaší {brand}",
+    "nextIntro": "{brand} je začátek. Až budete připraveni, toto jsou další kroky na cestě.",
+    "nextFsa": "Přijímá se po {brand} a probouzí a ukotvuje vaši duši a ducha ve vašem těle.",
+    "nextEmpower": "Dvoudenní kurz a iniciace do linie krále Šalomouna, kde se naučíte mocné rituály pro každý den.",
+    "nextCta": "Zjistit více",
+    "videosEyebrow": "Jejich vlastními slovy",
+    "videosHeading": "Poslechněte si ty, kdo ji přijali",
+    "videoPart1": "Life Activation · část I",
+    "videoPart2": "Life Activation · část II",
+    "videoAbout": "O Life Activation · Dr. Theresa Bullard-Whyke"
   },
   "EmpowerThyself": {
     "heroEyebrow": "Dvoudenní program",
     "heroTitle": "Program {brand}",
     "heroSubtitle": "Iniciace do linie krále Šalomouna",
     "invitation": {
-      "question": "Kdybyste mohli být jako Bůh — naplněni láskou, harmonií a tvůrčí silou — udělali byste to?",
-      "body1": "Tato iniciace rozšíří hranice toho, co považujete za možné. Probouzí nové potenciály a vyzývá nás, abychom se zbavili starých dogmat a paradigmat.",
-      "body2": "Během těchto dvou dnů obdržíte klíče, které odemknou potenciál ve vaší mysli k ztělesnění vaší božské podstaty. Všichni v sobě neseme tento potenciál — už je ve vás. Nyní je čas dostat ho na povrch a učinit z něj těžiště svého života.",
-      "body3": "Naučíte se, jak překonat negativní ego, které vám stojí v cestě, a získáte praktické nástroje, které vás v tomto procesu podpoří. Iniciace urychlí vaši proměnu a pomůže vám dosáhnout výsledků rychleji a užít si cestu ke svému pravému já.",
-      "body4": "Bude vás podporovat starobylá linie, která stojí za vámi.",
-      "body5": "Ti, kdo touto cestou prošli před vámi, jsou zde, aby vás provedli svou moudrostí a zkušeností.",
-      "body6": "Díky jejich oddanosti bylo toto učení zachováno ve své nejčistší podobě — uchováno v bezpečí, abychom z něj dnes mohli těžit.",
-      "callToAction": "Odpovíte na volání?"
+      "god": "Kdybyste mohli být jako Bůh — naplněni láskou, harmonií a tvůrčí silou — udělali byste to?",
+      "body1": "{brand} je dvoudenní iniciace v malé, důvěrné skupině, přímo tady v Praze. Je to vzácná brána: dostanete mocné rituály a posvátné nástroje, jak očistit a chránit svou energii, uvidět vzorce, které formovaly váš život, a povznést se nad ně.",
+      "body2": "Je to přesně ta samá iniciace, která se bez přerušení předává od učitele k žákovi už přes 3 000 let, od dob krále Šalomouna. Klíče, které dostanete, jsou klíče, které dostávali zasvěcenci dávných dob, a zůstanou vám po celý život.",
+      "body3": "Odejdete s posvátnou každodenní praxí, myslí jasnou a klidnou, hlubokým vědomím vlastní síly a jistotou o svém dalším kroku.",
+      "body4": "Diana a Radu budou po vašem boku během obou dnů i dlouho potom.",
+      "body6": "Tato učení střežili jako vzácný klenot všichni, kdo šli touto cestou před vámi, aby se dnes mohla dostat k vám.",
+      "callToAction": "Je to váš další krok?"
     },
     "letter": {
       "greeting": "Milý hledači,",
@@ -331,63 +545,76 @@
       "signOffRole": "Váš průvodce v linii Světla"
     },
     "origins": {
-      "heading": "Co je program {brand} a odkud pochází?",
-      "body1": "<bold>{brand}</bold> je součástí živé tradice moudrosti, léčení a vnitřní evoluce, založené před více než 3000 lety králem Šalomounem.",
-      "body2": "Veden touhou pomoci lidem objevit a naplnit jejich božský potenciál, Šalomoun shromáždil nejmoudřejší mistry své doby — léčitele, lékaře, mudrce, mystiky a duchovní hledače. Společně testovali a zdokonalovali všechny známé metody proměny, dokud nevytvořili jasný, hluboký a praktický systém určený pro kohokoli, bez ohledu na kulturu nebo dobu.",
-      "body3": "<bold>Co skutečně dělá {brand} výjimečným</bold>, je to, že to není jen další sbírka technik nebo teorií. Je to součást uceleného a soudržného systému, nepřetržitě předávaného dodnes — ověřeného a důvěryhodného rámce, který podporuje probuzení vědomí, vnitřní rovnováhu a znovuspojení s vaším pravým já.",
-      "tagline": "Tento systém je účinný dodnes a přináší výsledky v oblastech, kam moderní věda dosud nedosáhla."
+      "heading": "Odkud {brand} pochází?",
+      "body1": "<bold>{brand}</bold> pochází z Modern Mystery School a linie krále Šalomouna, živé tradice moudrosti a léčení, která je stará přes 3 000 let.",
+      "body2": "Šalomoun shromáždil nejmoudřejší léčitele, lékaře a mudrce své doby. Společně vyzkoušeli všechny metody proměny, které znali, a ponechali jen to, co opravdu funguje, pro kohokoli, v jakékoli kultuře a době.",
+      "body3": "<bold>Právě tím je {brand} jiný</bold>: není to směs technik nebo teorií, ale jeden ucelený, prověřený systém, předávaný bez přerušení až do dnešních dnů.",
+      "tagline": "Dávná moudrost, prakticky pro moderní život."
     },
     "whatWillYouDo": {
-      "heading": "Co budete dělat v programu {brand}?",
-      "body1": "Tento program je navržen tak, aby vám pomohl uvědomit si, že máte moc vytvořit život, po kterém skutečně toužíte. Umožňuje vám vidět, kde se možná brzdíte a kde se spokojujete s méně, než si zasloužíte. Ale tím to nekončí — tento program vám také dává nástroje ke změně těchto částí vašeho života! Po těchto dvou dnech budete schopni rozpoznat vzorce a programy, které formují vaše chování, porozumět jejich původu a mít moc je uvolnit.",
-      "body2": "Otevřete si cesty, kterými získáte přístup k více energii, novým poznatkům a čerstvým vhledům, což vám umožní vytvořit nový život přinášející naprosté naplnění.",
-      "body3": "Toto je praktický a interaktivní program, po kterém budete mít jistotu, že přesně rozumíte tomu, co je dalším krokem k pokračování vašeho růstu a proměny.",
-      "subheading": "Získáte jasnost a strukturu ve svém chápání ducha a lidské přirozenosti, stejně jako jasný vhled do zkušeností, se kterými jste se již možná setkali.",
+      "heading": "Co se pro vás změní",
+      "body1": "Začnete vidět, kde se brzdíte a spokojujete se s méně, než si zasloužíte, a dostanete nástroje to změnit. Po těchto dvou dnech dokážete rozpoznat vzorce, které řídí vaše reakce, pochopit, odkud pocházejí, a pustit je.",
+      "body2": "Budete cítit víc energie a jasnosti a budete vědět, jak si je udržet.",
+      "body3": "Je to praktické: všechno si vyzkoušíte přímo na kurzu, takže odejdete domů s přesnou představou, co dělat dál.",
+      "subheading": "Věci, které vás možná mátly, jako je intuice, živé sny nebo významné náhody, začnou dávat smysl.",
       "benefits": [
-        "Naučíte se rozpoznat neviditelný svět, přistupovat k němu a interagovat s ním.",
-        "Naučíte se, jak shromáždit sílu svých myšlenek a použít ji k tvorbě dobra kolem sebe.",
-        "Budete praktikovat posvátné rituály a zúčastníte se posvátné iniciační ceremonie."
+        "Naučíte se vnímat neviditelný svět a bezpečně s ním pracovat.",
+        "Naučíte se soustředit své myšlenky a používat je k vytváření dobrých věcí ve svém životě.",
+        "Budete praktikovat posvátné rituály a zúčastníte se iniciačního obřadu."
       ]
     },
     "special": {
-      "heading": "Co dělá tento program výjimečným?",
-      "body": "Neučíme vás jen teorii. Existuje mnoho učitelů, kteří s vámi mohou mluvit o spiritualitě. My vám nabízíme autentické, silné nástroje a učíme vás, jak je používat ve svém životě. Dáváme vám klíč k odemknutí těchto sil ve vás samých!"
+      "heading": "Čím je tento kurz výjimečný?",
+      "body": "O spiritualitě dokáže mluvit mnoho lidí. Tady dostanete skutečné nástroje, naučíte se je používat ve vlastním životě a my při tom budeme po vašem boku."
     },
     "curriculum": {
-      "heading": "Co se v tomto programu naučíte?",
+      "heading": "Co se naučíte?",
       "items": [
-        "Jak odpovědět na otázku „Kdo jsem já?“",
-        "Co je iniciace a proč ji dnes potřebujeme?",
-        "Role krále Šalomouna v tomto procesu",
-        "Lidský potenciál být Bohem",
-        "12 dimenzí Země a 7 duchovních dimenzí",
-        "Struktura hierarchie Světla",
-        "Meditace a mozkové vlnové frekvence",
-        "Vliv ega na pravé já",
-        "Cyklus lidských procesů",
-        "Energetická struktura lidské bytosti",
-        "Univerzální Kabala a strom života"
+        "Kdo jsem? Jak najít vlastní odpověď",
+        "Co je iniciace a proč je dnes důležitá",
+        "Odkud tato učení pocházejí: král Šalomoun a linie",
+        "Váš plný potenciál a jak do něj dorůst",
+        "Jak si doma vytvořit posvátný prostor a proč vám pomáhá",
+        "Krátká každodenní praxe a ochranná modlitba, kterou můžete použít kdekoli",
+        "Fyzické a duchovní dimenze a jak pracovat s oběma",
+        "Bytosti světla, které můžete požádat o pomoc",
+        "Meditace a jak mozkové vlny mění váš stav mysli",
+        "Vaše ego: kdy vám pomáhá a kdy vás brzdí",
+        "Vzorce a cykly, kterými všichni procházíme, a jak z nich vystoupit",
+        "Vaše energetické tělo a jak ho čistit a chránit",
+        "Univerzální kabala a strom života"
       ],
-      "closing": "V průběhu tohoto programu obdržíte učení, praktická cvičení a posvátné rituály, které můžete použít k pozvednutí svého života na další úroveň. Všechny tyto klíče pocházejí z linie krále Šalomouna, předávané v nepřerušené tradici po tisíce let."
+      "closing": "Každá část přináší praktická cvičení a rituály, které můžete použít hned, vše z linie krále Šalomouna."
     },
     "nextSteps": {
       "heading": "Co musíte udělat?",
       "items": [
-        { "main": "Ozvěte se nám, abyste zjistili, zda je tento program pro vás v tomto okamžiku vaší cesty tou správnou volbou.", "sub": "Jsme zde, abychom vás podpořili jasností a vedením na každém kroku." },
-        { "main": "Absolvujte sezení Life Activation u jednoho z našich certifikovaných praktiků." },
-        { "main": "Uhraďte zálohu nebo celou částku, abyste si rezervovali místo." },
-        { "main": "Zúčastněte se dvoudenního kurzu a iniciační ceremonie." },
-        { "main": "Začněte uplatňovat, co jste se naučili, a užijte si výsledky." }
+        {
+          "main": "Napište nám: v přátelském rozhovoru společně zjistíme, jestli je to pro vás teď ten správný krok.",
+          "sub": "Jsme zde, abychom vás podpořili jasností a vedením na každém kroku."
+        },
+        {
+          "main": "Absolvujte sezení Life Activation u jednoho z našich certifikovaných praktiků."
+        },
+        {
+          "main": "Uhraďte zálohu nebo celou částku, abyste si rezervovali místo."
+        },
+        {
+          "main": "Zúčastněte se dvoudenního kurzu a iniciační ceremonie."
+        },
+        {
+          "main": "Začněte uplatňovat, co jste se naučili, a užijte si výsledky."
+        }
       ]
     },
     "recommendations": {
-      "heading": "Doporučení",
-      "body1": "<bold>{brand}</bold> není jen kurz. Je to začátek hluboké cesty a trvalého spojení.",
-      "body2": "Tato iniciace otevírá bránu k novému chápání života a také bezpečný prostor, kam se můžete kdykoli vrátit, když potřebujete jasnost, podporu nebo vedení.",
-      "body3": "Zavazujeme se podporovat vás nejen během programu, ale i v nadcházejících letech. Ať už máte otázky ohledně uplatňování učení v každodenním životě, procházíte obdobím proměny, nebo se prostě cítíte připraveni udělat další krok ve své osobní cestě, jsme tu pro vás.",
-      "body4": "Tento vztah se buduje postupem času — s důvěrou, respektem a upřímným záměrem podporovat váš růst, rovnováhu a vnitřní sílu."
+      "heading": "Po kurzu",
+      "body1": "<bold>{brand}</bold> není konec něčeho. Je to začátek cesty a trvalého spojení.",
+      "body2": "Budete mít bezpečné místo, kam se můžete vrátit, kdykoli potřebujete jasnost, podporu nebo vedení.",
+      "body3": "Jsme tu pro vás nejen během dvou dnů, ale i roky potom: s otázkami, jak nástroje používat, v obdobích změn nebo když se budete cítit připraveni na další krok.",
+      "body4": "Je to vztah, který roste časem, s důvěrou, respektem a upřímným přáním vidět vás růst."
     },
-    "bookingTitle": "Objevte svůj potenciál být božskou bytostí!",
+    "bookingTitle": "Dva dny, které mohou změnit, jak žijete",
     "duration": "2 dny",
     "bookingNote": "Koná se v Praze, Česká republika. Po vaší záloze vás budeme kontaktovat, abychom naplánovali vaši Life Activation a potvrdili vaše místo.",
     "bookingExtra": {
@@ -502,7 +729,11 @@
     "inquire": "Zeptat se",
     "inquiryTemplate": "Ahoj, rád(a) bych se zeptal(a) na léčení {name}.",
     "bookNow": "Rezervovat",
-    "details": "Zobrazit detaily"
+    "details": "Zobrazit detaily",
+    "formatInPerson": "Osobně · Praha",
+    "formatBoth": "Osobně nebo na dálku",
+    "formatRemote": "Léčení na dálku",
+    "formatOnline": "Osobně nebo online"
   },
   "Healings": {
     "heroEyebrow": "V linii krále Šalomouna",
@@ -531,14 +762,14 @@
         "blurb": "Čištění, oprava a ochrana vašeho energetického pole.",
         "items": [
           { "name": "{brand} — léčení aury", "description": "Čistí, vyvažuje a zapečeťuje sedm vrstev aury prostřednictvím geometrie světla." },
-          { "name": "Odstranění negativní energie", "description": "Odstraňuje energetické bloky a negativní vzorce z vašeho energetického systému." },
-          { "name": "Přeříznutí emočních pout", "description": "Odpojuje vysilující emoční pouta, abyste přestali ztrácet energii ve prospěch druhých." },
+          { "name": "Odstranění negativní energie", "description": "Čistí negativní myšlenky, slova a záměry, které vám poslali druzí, jako je žárlivost, závist a zlá vůle." },
+          { "name": "Přeříznutí emočních pout", "description": "Přetíná vyčerpávající emoční pouta k druhým lidem, aby vaše energie patřila znovu vám." },
           { "name": "Šamanské čištění aury", "description": "Šamanské techniky k odstranění blokád a těžkých energií z aurického pole." },
           { "name": "Ensofic Reiki", "description": "Jednotlivé léčebné sezení s paprskem Ensof pro vaše tělo a nervový systém, v Praze nebo na dálku." },
           { "name": "Léčení negativních návyků", "description": "Využívá paprsek Ensof, aby vám pomohl pustit negativní vzorce nebo návyky, které ve svém životě stále opakujete." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "Starobylé léčení krystaly, které vás uvede do hlubokého uvolnění a obnoví tělo i mysl." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "Léčení krystaly a posvátnými zpěvy, které uzdravuje staré i nové rány a otevírá cestu štěstí." },
-          { "name": "Návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
+          { "name": "Hermetický návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
           { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." }
         ]
       },
@@ -646,24 +877,116 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Čtení životního poslání a 11. kodonu."
   },
   "SacredGeometryPage": {
-    "heroEyebrow": "Workshop mysterijní školy",
-    "heroSubtitle": "Jazyk, jímž je psáno stvoření",
-    "heroTagline": "Naučte se pracovat se stavebními kameny vesmíru",
-    "introLead": "Skrytá architektura všech věcí",
-    "introBody1": "Od spirály lastury až po oběžné dráhy planet se stejné vzory opakují na každé úrovni existence. Posvátná geometrie je studiem těchto vzorů — forem, jejichž prostřednictvím duch nabývá tvaru v hmotě. Pro dávné zasvěcence to nebylo nic menšího než jazyk Božství.",
-    "introBody2": "V tomto workshopu se naučíte tyto formy rozpoznávat, vědomě s nimi pracovat a používat základní klíče posvátné geometrie k vytvoření čistého, chráněného a posvátného prostoru — ve svém domově, ve své praxi i v sobě samých.",
+    "heroEyebrow": "Půldenní workshop v Praze",
+    "heroSubtitle": "Naučte se jazyk vesmíru a jak chránit energii svého domova",
+    "heroTagline": "Tři klíče do nebe: tvary, ze kterých je vše postaveno, a jak je používat v každodenním životě",
+    "introLead": "Prostory, ve kterých žijete, ovlivňují, jak se cítíte",
+    "introBody1": "Nejspíš to znáte: v některých místnostech se cítíte klidní a jasní, v jiných unavení nebo napjatí. Prostor v sobě nese energii lidí a chvil, které zažil, a ta energie vás ovlivňuje. Posvátná geometrie vám dává jednoduchý způsob, jak ji změnit.",
+    "introBody2": "Tento workshop je pro každého, kdo chce skutečné, praktické využití posvátné geometrie, ne jen teorii. Za 4,5 hodiny v malé skupině se naučíte tři základní tvary, jak ze sebe i z místnosti vyčistit negativní energii a jak vytvořit posvátný prostor: klidné, chráněné místo doma, v práci nebo kdekoli, kam jdete. Je to stejná geometrie, která inspirovala Pythagora, Leonarda da Vinciho i Teslu.",
     "reserveYourPlace": "Rezervovat si místo",
-    "learnHeading": "Co se naučíte",
+    "learnHeading": "Co objevíte",
     "benefits": [
-      { "label": "Základní formy:", "text": "Základní tvary stvoření a kvality, které každý z nich nese." },
-      { "label": "Vytváření posvátného prostoru:", "text": "Použijte klíče posvátné geometrie k vyčištění, ochraně a posvěcení prostoru." },
-      { "label": "Geometrie jako nástroj:", "text": "Aplikujte tyto formy pro soustředění, meditaci, manifestaci a léčení." },
-      { "label": "Žít podle vzoru:", "text": "Uvidíte řád, který je základem každodenního života, a sladíte se s ním." }
+      {
+        "label": "Tři klíče do nebe:",
+        "text": "Tři základní tvary, ze kterých je postaveno vše ve stvoření, co každý z nich znamená, a naladění, které je probudí ve vašem těle a auře."
+      },
+      {
+        "label": "Zapečetění a ochrana prostoru:",
+        "text": "Jak vyčistit a zapečetit domov, kancelář nebo jakoukoli místnost, aby se v nich negativní energie nehromadila."
+      },
+      {
+        "label": "Vytvoření chrámového prostoru:",
+        "text": "Jak pozvednout energii místnosti pro meditaci, léčení, studium nebo práci."
+      },
+      {
+        "label": "Geometrie a čtyři živly:",
+        "text": "Jak spojit tvary se zemí, vodou, vzduchem a ohněm a přivést své záměry do skutečného života."
+      },
+      {
+        "label": "Vidět ji všude:",
+        "text": "Všímat si, jak posvátná geometrie už teď utváří vaše tělo, přírodu i každodenní život, a vědomě s ní pracovat."
+      }
     ],
-    "bookingTitle": "Čtěte jazyk stvoření",
+    "bookingTitle": "Vytvořte si svůj posvátný prostor",
     "duration": "4,5 hodiny",
-    "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
-    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu {brand}."
+    "bookingNote": "Malé skupiny, osobně v Praze. Ozvěte se nám a sdělíme vám další termín.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu {brand}.",
+    "whyHeading": "Proč vytvářet posvátný prostor?",
+    "why": [
+      "Váš domov se stane místem, kde opravdu odpočíváte a nabíráte síly",
+      "Tíha po hádkách, stresu nebo hektických dnech v něm nezůstává",
+      "Meditace, modlitba i soustředění přicházejí snadněji",
+      "Cítíte se chránění i na rušných nebo náročných místech",
+      "Je to základ každé další praxe na cestě"
+    ],
+    "expectHeading": "Co vás čeká",
+    "expect": [
+      "4,5 hodiny v malé, přátelské skupině, osobně v Praze",
+      "Jasná vysvětlení a spousta praxe: všechno si vyzkoušíte sami",
+      "Během workshopu naladění na tři základní tvary",
+      "Nástroje, které můžete začít používat hned ten večer",
+      "První krok série Sacred Geometry, který otevírá cestu k Sacred Geometry II"
+    ],
+    "usesHeading": "Jak ji lidé používají",
+    "uses": [
+      "Pomáhají dítěti klidněji spát tím, že připraví jeho pokoj",
+      "Zůstávají klidní a chránění v náročné práci nebo rušné kanceláři",
+      "Připravují místnost pro klienty, aby se snadněji uvolnili a otevřeli",
+      "Čistí domov po hádce, nemoci nebo stresující návštěvě",
+      "Vytvářejí si tichý koutek pro každodenní meditaci a modlitbu"
+    ],
+    "faq": [
+      {
+        "q": "Je tento workshop pro začátečníky?",
+        "a": "Ano. Je navržený jako první krok: vše jasně vysvětlíme a každý nástroj si společně procvičíme, dokud vám nepřijde přirozený."
+      },
+      {
+        "q": "Co si mám přinést?",
+        "a": "Pohodlné oblečení, zápisník a pero. A také zvědavost: otázky jsou vždy vítány."
+      },
+      {
+        "q": "Odkud tato učení pocházejí?",
+        "a": "Z Modern Mystery School a linie krále Šalomouna, kde se posvátná geometrie předává od učitele k žákovi po tisíce let."
+      },
+      {
+        "q": "Co následuje po Sacred Geometry I?",
+        "a": "Až budete připraveni, <link>Sacred Geometry II: krystalové léčení a ochrana prostoru</link> naváže na to, co se naučíte tady, a série pokračuje Sacred Geometry III a IV.",
+        "href": "/sacred-geometry-2"
+      }
+    ],
+    "galleryHeading": "Jak to vypadá na workshopu",
+    "galleryIntro": "Skutečné chvíle z našich kurzů v Praze: malé skupiny, papír, nůžky a barevné fixy, spousta otázek a dobrá společnost.",
+    "gallery": [
+      "Učíme se spolu v Praze",
+      "Ruční vystřihování tří základních tvarů",
+      "Trojúhelník: jeden ze tří klíčů do nebe",
+      "Radu provází každého krok za krokem",
+      "Společná praxe u oltáře"
+    ],
+    "mastersHeading": "Mistři, kteří ji studovali",
+    "mastersIntro": "Po tisíce let viděli někteří z největších duchů v geometrii skrytý řád života.",
+    "masters": [
+      {
+        "name": "Pythagoras",
+        "era": "6. století př. n. l.",
+        "text": "Ve své vlastní škole mystérií učil, že číslo a tvar jsou skrytým řádem vesmíru."
+      },
+      {
+        "name": "Platón",
+        "era": "4. století př. n. l.",
+        "text": "Podle tradice stálo nad vchodem do jeho Akademie: Nevstupuj, kdo neznáš geometrii."
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "era": "15. století",
+        "text": "Nakreslil Vitruviánského muže, který ukazuje posvátné proporce lidského těla v kruhu a čtverci."
+      },
+      {
+        "name": "Galileo Galilei",
+        "era": "17. století",
+        "text": "Napsal, že kniha přírody je psána jazykem matematiky a jejími písmeny jsou trojúhelníky, kruhy a další obrazce."
+      }
+    ]
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Řada Sacred Geometry · Úroveň II",
@@ -1255,52 +1578,254 @@
     "faqEyebrow": "Otázky",
     "faqHeading": "Často kladené otázky",
     "whoHeading": "Pro koho je určeno",
-    "disclaimer": "Tato práce nenahrazuje žádnou léčbu předepsanou vaším lékařem. Nabízí se jako doplňková energetická a duchovní podpora vedle vaší lékařské péče."
+    "disclaimer": "Tato práce nenahrazuje žádnou léčbu předepsanou vaším lékařem. Nabízí se jako doplňková energetická a duchovní podpora vedle vaší lékařské péče.",
+    "hostsEyebrow": "Budete v dobrých rukou",
+    "hostsHeading": "Diana a Radu Coman",
+    "hostsBody": "Jsme certifikovaní praktici a učitelé Modern Mystery School. Ať se setkáte s kýmkoli z nás, uděláme si čas vás vyslechnout, odpovědět na vaše otázky a jemně vás provést každým krokem."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Hluboké léčení",
     "heroTitle": "Hermetický návrat duše",
-    "heroSubtitle": "Zavolejte zpět části sebe, které zůstaly pozadu",
-    "heroTagline": "Jemná, a přesto hluboce silná seance, která obnovuje pocit celistvosti",
-    "introLead": "V okamžicích přemožení se části nás stahují stranou, aby byly v bezpečí",
-    "introBody1": "Tato seance vychází z hermetické linie tradice Modern Mystery School a pracuje ve vašem energetickém poli. Nalézá a jemně přivádí zpět části duše, které zůstaly pozadu — části spojené s nevinností, tvořivostí, silou, láskou nebo vitalitou.",
-    "introBody2": "Zkušenosti jako odmítnutí, opuštění, dlouhodobý stres nebo svazující vztahy nás mohou postupem času roztříštit. Návrat těchto částí domů obnovuje přítomnost, jasnost a pocit, že jste plně sami sebou.",
-    "benefitsHeading": "Co můžete zažít",
+    "heroSubtitle": "Když máte pocit, že vám chybí část sebe",
+    "heroTagline": "Jemné léčení, které vám vrátí radost, energii a jiskru, jež jste cestou ztratili",
+    "introLead": "Měli jste někdy pocit, že vám chybí kousek sebe?",
+    "introBody1": "Možná to začalo po ztrátě, rozchodu, nehodě nebo dlouhém vyčerpávajícím období. Šli jste dál, jako my všichni, ale něco se změnilo. Život je o něco plošší. Radost, tvořivost nebo jiskra, kterou jste mívali, jsou najednou daleko.",
+    "introBody2": "V tradici Mystery School tomu rozumíme tak, že část duše odešla, aby zůstala v bezpečí, když toho bylo příliš. Hermetický návrat duše tyto části jemně najde a přivede je domů, abyste se znovu cítili celiství. Aby to fungovalo, nemusíte bolestné vzpomínky znovu prožívat ani o nich mluvit.",
+    "signsHeading": "Známky, že vám může chybět část sebe",
+    "signs": [
+      "Cítíte se otupělí nebo prázdní, jako byste se na život dívali z dálky",
+      "Od určité události se necítíte úplně sami sebou",
+      "Radost, tvořivost nebo vášeň se zdají nedosažitelné",
+      "Je ve vás prázdnota, kterou nedokážete vysvětlit",
+      "Pořád se vracíte ke stejné staré bolesti"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Mluvíme o tom, jak se cítíte a co by se vám mělo vrátit do života."
+      },
+      {
+        "label": "Návrat:",
+        "text": "Vy se jen uvolníte, zatímco praktik pracuje ve vaší energii, najde části vás, které jsou připravené se vrátit, a jemně je provede zpět."
+      },
+      {
+        "label": "Návrat domů:",
+        "text": "Vracející se části se ve vás usadí, aby s vámi mohly zůstat. Nespěcháme: celé sezení trvá asi dvě a půl hodiny."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
     "benefits": [
-      "Hluboký mír a vnitřní uvolnění",
-      "Rozpomenutí se na zapomenuté části sebe",
-      "Pocit větší celistvosti a integrace",
-      "Obnovenou jasnost, přítomnost a směr",
-      "Jemný návrat do vašeho přirozeného stavu"
+      "Hluboký pocit klidu",
+      "Pocit větší celistvosti a přítomnosti, víc sebe",
+      "Radost, tvořivost a energie se vracejí",
+      "Jasno v tom, kam směřujete",
+      "Vzpomínky na části sebe, na které jste zapomněli"
     ],
     "who": [
-      "Cítíte se otupělí, odpojení nebo ne zcela přítomní",
-      "Procházíte emoční bolestí, traumatem, vyhořením, ztrátou nebo závislostí",
-      "Žijete v neustálém stresu nebo ve velké životní změně",
-      "Zažíváte tvůrčí blok, prázdnotu nebo pocit roztříštěnosti",
-      "Jdete cestou sebepoznání nebo mistrovství sebe sama"
+      "Cítíte se otupělí, odpojení nebo ne úplně tady",
+      "Nesete v sobě zármutek, trauma, vyhoření, rozchod nebo závislost",
+      "Dlouho žijete ve stresu nebo se vám hodně změnil život",
+      "Cítíte tvůrčí blok nebo vnitřní prázdnotu",
+      "Jste na cestě sebepoznání a chcete se cítit celiství"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Zbytek dne si nechte klidný a jemný",
+      "Pijte hodně vody a odpočívejte",
+      "Zapisujte si pocity, vzpomínky nebo sny, které se objeví",
+      "Jak se části vracejí, mohou několik dní vystupovat staré pocity. Nechte je přijít a odejít: patří to k návratu domů"
     ],
     "faq": [
       {
-        "q": "Co je návrat duše?",
-        "a": "Praxe, která jemně nalézá a přivádí zpět roztříštěné části já, jež zůstaly pozadu v okamžicích přemožení, a provází jejich znovuzačlenění."
-      },
-      {
-        "q": "Jak seance probíhá?",
-        "a": "Během 2,5hodinové seance pracujeme ve vašem energetickém poli, nalézáme části vaší duše, které jsou připravené se vrátit, a provázíme je zpět k vám a pomáháme jim znovu se začlenit."
-      },
-      {
         "q": "Je to bezpečné?",
-        "a": "Ano. Je to jemný, podpůrný proces — nemusíte znovu prožívat ani rozebírat bolestné události, aby fungoval."
+        "a": "Ano. Je to jemný, podpůrný proces: aby fungoval, nemusíte bolestné události znovu prožívat ani o nich mluvit."
       },
       {
-        "q": "Jaké jsou přínosy?",
-        "a": "Mír, emoční znovupropojení, pocit celistvosti a obnovená jasnost."
+        "q": "Jak dlouho to trvá a kolik to stojí?",
+        "a": "Asi dvě a půl hodiny, včetně konzultace a integrace, za 6.150 CZK."
+      },
+      {
+        "q": "Proč se jmenuje hermetický?",
+        "a": "Vychází z hermetického učení uchovaného v linii Modern Mystery School."
       }
     ],
+    "bookingTitle": "Vraťte se k sobě",
     "duration": "2,5 hodiny",
     "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
-    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Hermetickém návratu duše."
+    "inquiry": "Dobrý den, rád/a bych se dozvěděl/a více o hermetickém návratu duše."
+  },
+  "EmotionalCordCutting": {
+    "heroEyebrow": "Energetické čištění",
+    "heroTitle": "Přeříznutí emočních pout",
+    "heroSubtitle": "Když na někoho pořád myslíte a stojí vás to energii",
+    "heroTagline": "Jemný rituál, jak pustit stará pouta a znovu se cítit sami sebou",
+    "introLead": "Když je život těžký, prvním krokem bývá prostě pustit",
+    "introBody1": "Každý, koho milujeme, s kým se hádáme nebo kdo nám chybí, v nás zanechá stopu. Těmto stopám říkáme energetická pouta. Většina z nich je neškodná. Některá vás ale táhnou zpátky dlouho poté, co vztah nebo chvíle skončily: přehráváte si staré rozhovory, po setkání s určitými lidmi přicházíte domů unavení, nebo vás rozhodí už jen něčí jméno.",
+    "introBody2": "V tomto sezení tato vyčerpávající pouta jemně přetneme a vyčistíme to, co po nich zůstalo. Nemaže to lásku ani neukončuje vztah. Jen vám to vrátí vaši energii, abyste se s lidmi ve svém životě mohli setkávat lehčí a svobodnější.",
+    "signsHeading": "Známky nezdravého pouta",
+    "signs": [
+      "Pořád myslíte na někoho, i když byste raději nemysleli",
+      "Po setkání s určitými lidmi přicházíte domů unavení",
+      "Cítíte se zaseknutí, jako byste nemohli jít dál",
+      "Při určitém jménu se vám pořád sevře žaludek",
+      "Ztratili jste jiskru a přistihujete se, že sáháte po utěšujících zvycích",
+      "Nasáváte nálady druhých, aniž byste chtěli"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Uděláme si pár minut, abychom pochopili, co prožíváte a co jste připraveni pustit. Sdílíte jen to, co je vám příjemné."
+      },
+      {
+        "label": "Přeříznutí:",
+        "text": "Pohodlně stojíte, párkrát se zhluboka nadechnete a necháte tělo uvolnit. Praktik přetne pouta rituálním nástrojem světla; pohltí je hořící kadidlo a uvolní se."
+      },
+      {
+        "label": "Očištění:",
+        "text": "Vaše energie se jemně očistí a vrátí do rovnováhy šalvějí, svěcenou vodou a posvátnými mantrami."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste si mohli všimnout, jak se cítíte: často lehčí, klidnější a jasnější."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Skutečná úleva, jako by z vás spadla tíha",
+      "Klidnější a jasnější mysl",
+      "Hlubší a osvěžující spánek",
+      "Dokážete říct ne, laskavě a pevně",
+      "Více energie pro vlastní život",
+      "Naděje a pocit nového začátku"
+    ],
+    "who": [
+      "Odcházíte nebo jste odešli ze vztahu, který vás zraňoval",
+      "Je pro vás těžké říct ne a udržet si hranice",
+      "Někteří lidé vás vyčerpávají nebo snadno přebíráte jejich pocity",
+      "S jedním konkrétním člověkem se pořád opakuje stejný vzorec",
+      "Prošli jste traumatem nebo násilným vztahem a chcete tu kapitolu uzavřít"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Večer si dopřejte teplou koupel se solí: pomůže vám očistit se a uzemnit",
+      "Zapalte svíčku, párkrát se zhluboka nadechněte a nastavte si záměr, co chcete přivítat",
+      "Buďte k sobě jemní: odpočívejte, pište, meditujte nebo jděte do přírody",
+      "V dalších dnech se mohou vynořit staré pocity nebo vzpomínky. Je to normální: patří to k pouštění"
+    ],
+    "faq": [
+      {
+        "q": "Ukončí to můj vztah?",
+        "a": "Ne. Přetne nezdravou, vyčerpávající část spojení, ne lásku. Mnoho lidí zjistí, že jejich vztahy jsou poté lehčí a zdravější."
+      },
+      {
+        "q": "Musím mluvit o bolestných událostech?",
+        "a": "Jen tolik, kolik sami chcete. Stačí krátký rozhovor o tom, co chcete pustit."
+      },
+      {
+        "q": "Jak dlouho to trvá a kolik to stojí?",
+        "a": "Asi hodinu, 3.669 CZK, včetně konzultace, přeříznutí pout a očištění."
+      },
+      {
+        "q": "Mohu ho spojit s odstraněním negativní energie?",
+        "a": "Ano. Obě sezení spolu dobře fungují a často se dělají během jedné návštěvy; každé má svou cenu. <link>Přečtěte si o odstranění negativní energie</link>.",
+        "href": "/negative-energy-removal"
+      }
+    ],
+    "relatedHeading": "Vyčistěte to, co vám posílají druzí",
+    "relatedBody": "Odstranění negativní energie čistí negativní myšlenky, slova a záměry, které na vás druzí směřovali. Krásně funguje spolu s přeříznutím pout.",
+    "relatedCta": "Prozkoumat odstranění negativní energie",
+    "bookingTitle": "Přetněte pouta",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Cena zahrnuje konzultaci a všechny procedury. Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Dobrý den, mám zájem o přeříznutí emočních pout."
+  },
+  "NegativeEnergyRemoval": {
+    "heroEyebrow": "Energetické čištění",
+    "heroTitle": "Odstranění negativní energie",
+    "heroSubtitle": "Když na vás doléhá negativita druhých",
+    "heroTagline": "Očista, která vás vrátí do klidu, když je život těžký nebo nejasný",
+    "introLead": "Cítili jste se někdy těžce po setkání s někým, aniž byste věděli proč?",
+    "introBody1": "Slova a myšlenky nesou energii. Když vám někdo závidí, zazlívá vám něco nebo vám přeje zlé, i když to nikdy neřekne nahlas, můžete to cítit. Může to na vás ležet jako šedý mrak: myšlenky se zamlží, věci přestanou plynout, špatně spíte a začnete o sobě pochybovat.",
+    "introBody2": "V tomto sezení tyto negativní myšlenky, slova a záměry z vaší energie vyčistíme, ať přišly od jednoho člověka, nebo se tiše nahromadily za léta. Většina lidí odchází lehčí, jasnější a znovu víc sama sebou.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "V blízkosti určitých lidí nebo na rušných místech se cítíte vyčerpaní",
+      "Myšlení máte zamlžené nebo vás drží neklid, který neodchází",
+      "Bez jasného důvodu máte smutnou nebo těžkou náladu",
+      "Těžko usínáte nebo se budíte unavení",
+      "Víte, že na vás někdo blízký žárlí, nebo vám v hlavě pořád znějí tvrdá slova",
+      "Cítíte napětí v hrudi nebo v hlavě, které přichází a odchází s určitými lidmi nebo místy"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, čím procházíte a co byste chtěli vyčistit. Sdílíte jen to, co je vám příjemné."
+      },
+      {
+        "label": "Vyčištění:",
+        "text": "Praktik provede rituál, který z vaší energie sejme negativní myšlenky, slova a záměry. Vy se jen uvolníte a dýcháte."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Jasnost: myšlenky se usadí a hlava je zase čistá",
+      "Lehčí nálada",
+      "Lepší spánek a soustředění",
+      "Pocit uzemnění a klidu v těle",
+      "Nálady a názory druhých vás ovlivňují méně",
+      "Věci se znovu pohnou a plynou"
+    ],
+    "who": [
+      "Máte pocit, že na vás míří něčí žárlivost nebo hněv",
+      "Prošli jste konfliktem, rozchodem nebo náročným pracovištěm",
+      "Pracujete s mnoha lidmi a domů si nosíte jejich energii",
+      "Cítíte se zaseknutí a chcete začít nanovo"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Večer si dopřejte teplou koupel se solí: pomůže vyčistit, co zbylo, a uzemnit tělo",
+      "Odpočívejte a kdykoli si vzpomenete, párkrát se pomalu a zhluboka nadechněte",
+      "V dalších dnech mohou přijít vlny emocí nebo náhlá jasnost. Obojí je dobré znamení: nechte je projít",
+      "Všímejte si, o kolik lehčí jsou lidé a situace kolem vás"
+    ],
+    "faq": [
+      {
+        "q": "Je to totéž jako přeříznutí emočních pout?",
+        "a": "Ne. Přeříznutí pout uvolňuje vazby mezi vámi a druhými; odstranění negativní energie čistí to, co druzí poslali směrem k vám. Spolu dobře fungují a často se dělají během jedné návštěvy. <link>Přečtěte si o přeříznutí emočních pout</link>.",
+        "href": "/emotional-cord-cutting"
+      },
+      {
+        "q": "Musím vědět, kdo negativitu poslal?",
+        "a": "Vůbec ne. Často cítíme jen tíhu a nevíme, odkud přichází. Očista funguje tak jako tak."
+      },
+      {
+        "q": "Jak dlouho to trvá a kolik to stojí?",
+        "a": "Asi hodinu, 3.669 CZK, včetně konzultace a všech procedur."
+      }
+    ],
+    "relatedHeading": "Osvoboďte se od starých pout",
+    "relatedBody": "Přeříznutí emočních pout uvolňuje vyčerpávající emoční vazby k druhým lidem. Spolu s odstraněním negativní energie dopřeje vaší energii úplné vyčištění.",
+    "relatedCta": "Prozkoumat přeříznutí emočních pout",
+    "bookingTitle": "Očista a obnova",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Cena zahrnuje konzultaci a všechny procedury. Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "inquiry": "Dobrý den, mám zájem o odstranění negativní energie.",
+    "toolsHeading": "Jednoduché nástroje pro každodenní očistu",
+    "tools": [
+      "Jednou týdně koupel se solí, která smyje celý týden",
+      "Pár minut tiché meditace nebo hlubokého dýchání každé ráno",
+      "Čas v přírodě: procházka v parku, u řeky nebo v lese",
+      "Trocha zapálené šalvěje doma a otevřená okna, aby dovnitř proudil čerstvý vzduch",
+      "Černý turmalín nebo křišťál na pracovním stole",
+      "Všímat si, kdo a co vás vyčerpává, a dovolit si udělat krok zpět"
+    ]
   },
   "EnsoficReiki": {
     "heroEyebrow": "Energetické léčení",
@@ -1630,7 +2155,8 @@
       },
       {
         "q": "Má praktik certifikaci?",
-        "a": "Ano. Provádět ji smějí pouze praktici certifikovaní přímo Modern Mystery School International a každý rok se znovu certifikují."
+        "a": "Ano. Provádět ji smějí pouze praktici certifikovaní přímo <link>Modern Mystery School International</link> a každý rok se znovu certifikují.",
+        "href": "https://modernmysteryschoolint.com/"
       }
     ]
   },

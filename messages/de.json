@@ -67,17 +67,40 @@
     "seeFullCalendar": "Zum vollständigen Kalender"
   },
   "CalendarWidget": {
-    "heading": "Möchtest du an einem Kurs oder Workshop teilnehmen?",
-    "body": "Entdecke unsere kommenden Veranstaltungen",
-    "button": "Kalender ansehen"
+    "eyebrow": "In Prag",
+    "heading": "Diese Woche in Prag",
+    "headingNext": "Demnächst in Prag",
+    "body": "{count, plural, one {Diese Woche passiert etwas Schönes. Komm dazu!} other {Diese Woche passieren # schöne Dinge. Such dir eins aus und komm vorbei!}}",
+    "bodyNext": "Diese Woche ist es bei uns ruhig, deshalb hier, was als Nächstes kommt. Merk dir den Termin!",
+    "weekLabel": "Die nächsten sieben Tage",
+    "today": "Heute",
+    "vibe": {
+      "Activation": "Wecke die Gaben, mit denen du geboren wurdest",
+      "Initiation": "Tritt durch eine Tür in ein neues Kapitel",
+      "Workshop": "Lerne etwas Wunderbares in einer kleinen, herzlichen Gruppe",
+      "Community": "Tee, gute Gesellschaft und ein ruhiger Abend zusammen"
+    },
+    "join": "Komm dazu",
+    "empty": "Neue Termine sind unterwegs. Schau in den Kalender oder schreib uns!",
+    "button": "Zum ganzen Kalender",
+    "footnote": "Nicht sicher, was zu dir passt? Frag einfach, wir lieben Fragen."
   },
   "Facts": {
-    "intro": "Möchtest du ein Initiierter der Mysterien werden? Dann lies weiter.",
+    "intro": "Neugierig, wohin dich dieser Weg führen kann? Das haben andere gefunden.",
     "heading": "Ein Vermächtnis, das für sich spricht",
     "stats": [
-      { "number": "3.000+", "label": "Jahre ununterbrochener Linie" },
-      { "number": "55", "label": "Länder weltweit" },
-      { "number": "44.000+", "label": "Initiierte weltweit" }
+      {
+        "number": "3.000+",
+        "label": "Jahre ununterbrochener Linie"
+      },
+      {
+        "number": "55",
+        "label": "Länder weltweit"
+      },
+      {
+        "number": "44.000+",
+        "label": "Initiierte weltweit"
+      }
     ],
     "videosHeading": "Verfolge die Reise unserer Studenten und Lehrer",
     "wallOfLove": "Wand der Liebe",
@@ -97,53 +120,53 @@
     ]
   },
   "Pillars": {
-    "eyebrow": "Das Fundament",
-    "heading": "Die vier Säulen der Verwandlung",
-    "intro": "Jede Säule baut auf der vorherigen auf und bildet ein vollständiges System spiritueller Evolution, das sich über die Zeit bewährt hat.",
+    "eyebrow": "Wie der Weg funktioniert",
+    "heading": "Vier Schritte, die aufeinander aufbauen",
+    "intro": "Du musst nicht alles auf einmal machen. Jeder Schritt steht für sich und bereitet dich auf den nächsten vor.",
     "items": [
       {
         "title": "Aktivierung",
-        "description": "Erwecke deine DNA und stelle deine Verbindung zu deinem Geist wieder her. Diese Arbeit beginnt mit der Life Activation und setzt sich fort durch die Full Spirit Activation."
+        "description": "Wecke die Gaben, mit denen du geboren wurdest. Es beginnt mit der Life Activation, einer Einzelsitzung, und kann mit der Full Spirit Activation weitergehen."
       },
       {
         "title": "Initiation",
-        "description": "Reinige und bereite das Gefäß vor, um das reine Licht des Geistes zu empfangen und es ohne Verzerrung ins Physische zu manifestieren — der Weg, den Empower Thyself eröffnet."
+        "description": "Lerne, deine Energie zu reinigen und zu schützen und dein Leben in die Hand zu nehmen. Das beginnt mit Empower Thyself, einem zweitägigen Kurs."
       },
       {
         "title": "Studieren & Lernen",
-        "description": "Indem du die Künste und Wissenschaften der Sacred Geometry, des Astral Travel, der Kabbalah und vieler weiterer meisterst, wirst du zum Meister deines physischen Lebens."
+        "description": "Entdecke heilige Geometrie, Astralreisen, Kabbala und mehr in kleinen, herzlichen Kursen und nutze das Gelernte jeden Tag."
       },
       {
         "title": "Anderen dienen",
-        "description": "Das Leben ist nicht vollständig, und du kannst es nicht ganz verstehen, wenn du nicht auch danach strebst, anderen zu dienen. Indem du andere führst, heilst, lehrst und in ihren Bedürfnissen unterstützt, wirst du zur vollen Version deiner selbst."
+        "description": "Teile, was du gelernt hast: hilf, heile und unterstütze die Menschen um dich herum. Hier wird der Weg wirklich zu deinem."
       }
     ]
   },
   "Teaser": {
-    "eyebrow": "Verpflichtung zur Größe",
-    "heading": "Dies ist kein Wochenend-Workshop",
-    "body1": "Lass uns klar sein: Der Pfad der Initiation ist ein anspruchsvolles Trainingsprogramm. Es umfasst Monate engagierten Studiums, ständige Praxis und ein unerschütterliches Engagement für die eigene Verwandlung. Dies ist kein beiläufiges Seminar und kein Wohlfühl-Retreat.",
-    "body2": "Dies ist eine <emphasis>heilige Verpflichtung</emphasis>, die beste Version deiner selbst zu werden — Kräfte zu erschließen, von deren Existenz die meisten Menschen nie erfahren werden, und in eine Linie einzutreten, die den Lauf der Menschheitsgeschichte geprägt hat.",
-    "expectedHeading": "Was von dir erwartet wird",
+    "eyebrow": "Ein Weg, keine schnelle Lösung",
+    "heading": "Echte Veränderung in deinem Tempo",
+    "body1": "Der Weg der Initiation entfaltet sich über Monate, nicht an einem Wochenende. Du lernst praktische Werkzeuge, nutzt sie im Alltag und wächst Schritt für Schritt, mit uns und einer herzlichen Gemeinschaft an deiner Seite.",
+    "body2": "Du musst nichts Besonderes sein und nicht alles schon wissen. Wenn du <emphasis>neugierig bist und üben möchtest</emphasis>, bist du bereit anzufangen.",
+    "expectedHeading": "Alles, was du mitbringen musst",
     "expectations": [
       {
-        "title": "Ein offener Geist",
-        "description": "Die Bereitschaft, neue Perspektiven zu erkunden und deine aktuellen Annahmen zu hinterfragen."
+        "title": "Neugier",
+        "description": "Einen offenen Geist und die Lust, Dinge neu zu sehen."
       },
       {
-        "title": "Tägliche Praxis",
-        "description": "Die konsequente Anwendung der Werkzeuge und Techniken in deinem Alltag."
+        "title": "Ein wenig Übung",
+        "description": "Ein paar Minuten täglich mit den Werkzeugen, die du lernst. Dort geschieht die Veränderung."
       },
       {
-        "title": "Hingabe an die Selbstbeherrschung",
-        "description": "Der echte Wunsch, dich selbst zu verstehen, dein Potenzial zu entfalten und Verantwortung für deine eigene Entwicklung zu übernehmen."
+        "title": "Bereitschaft zu wachsen",
+        "description": "Den Wunsch, dich besser zu verstehen und dein Leben selbst in die Hand zu nehmen."
       },
       {
-        "title": "Ein Geist des Dienens",
-        "description": "Die Bereitschaft, dein Wachstum und deine Entwicklung zu nutzen, um dich selbst zu erheben und positiv zum Leben anderer beizutragen."
+        "title": "Ein gütiges Herz",
+        "description": "Die Freude, das, wozu du wirst, mit den Menschen um dich herum zu teilen."
       }
     ],
-    "expectedClosing": "Dies ist deine Reise, deine Investition und deine Verantwortung. Du gehst diesen Weg für deine eigene Entwicklung und für das Leben, das du erschaffen willst. Niemand kann ihn für dich gehen."
+    "expectedClosing": "Es ist dein Weg, und du gehst ihn nie allein: Wir begleiten dich, und die Gemeinschaft feuert dich an."
   },
   "CTA": {
     "eyebrow": "Deine Einladung",
@@ -164,25 +187,76 @@
     "dianaQuote": "Es gibt einen Unterschied zwischen zu hören, dass etwas möglich ist, und es selbst zu erleben. Zweiteres verändert alles."
   },
   "Classes": {
-    "eyebrow": "Bevorstehende Veranstaltungen",
-    "heading": "Bevorstehende Kurse in Prag",
-    "intro": "Jeder Kurs ist ein Trittstein auf dem Pfad der Initiation. Beginne mit der Life Activation und arbeite dich durch das heilige Curriculum.",
+    "eyebrow": "Lerne mit uns",
+    "heading": "Kurse in Prag",
+    "intro": "Kleine, herzliche Gruppen, in denen du echte Werkzeuge für den Alltag lernst. Die meisten beginnen mit der Life Activation.",
     "items": [
       {
-        "description": "Erwecke deinen göttlichen Bauplan und entfache das volle Potenzial, das in deiner DNA verschlüsselt ist. Dies ist die grundlegende Sitzung der Mysterienschul-Linie.",
-        "tag": "Grundlage"
+        "description": "Eine Einzelsitzung, die die Gaben weckt, mit denen du geboren wurdest. Viele fühlen sich danach leichter, klarer und mehr wie sie selbst. Es ist der erste Schritt auf dem Weg.",
+        "tag": "Hier beginnen",
+        "meta": "Etwa 2 Stunden · Einzelsitzung · vor Ort in Prag"
       },
       {
-        "description": "Ein zweitägiges Initiationsprogramm, in dem du die heiligen Werkzeuge und Lehren erhältst, um die Führung über dein Leben zu übernehmen und den Pfad als Initiierter zu beschreiten.",
-        "tag": "Initiation"
+        "description": "Zwei Tage in einer kleinen Gruppe, in denen du lernst, deine Energie zu reinigen und zu schützen, die Muster zu erkennen, die dein Leben lenken, und sie zu verändern, und dir zu Hause einen heiligen Raum zu schaffen.",
+        "tag": "Initiation",
+        "meta": "2 Tage · kleine Gruppe · vor Ort in Prag"
       },
       {
-        "title": "Zum vollständigen Kalender",
-        "description": "Studiere die göttlichen Muster, die der gesamten Schöpfung zugrunde liegen, wie man astral reist, mit dem höheren Selbst kommuniziert und vieles mehr.",
-        "tag": "Fortgeschrittenes Studium"
+        "title": "Zum ganzen Kalender",
+        "description": "Heilige Geometrie, Astralreisen, Gespräche mit deinem höheren Selbst und mehr. Praxisnahe Kurse, die du Schritt für Schritt in deinem Tempo besuchen kannst.",
+        "tag": "Weiter lernen",
+        "meta": "Halbtages- und Wochenendkurse · kleine Gruppen"
       }
     ],
     "learnMore": "Mehr erfahren"
+  },
+  "LookingFor": {
+    "eyebrow": "Vielleicht brauchst du genau das",
+    "heading": "Was suchst du?",
+    "intro": "Tippe auf das, was sich gerade für dich stimmig anfühlt, und wir zeigen dir, wo du gut beginnen kannst.",
+    "tryLabel": "Probier",
+    "tiles": {
+      "stressed": {
+        "feel": "Ich bin gestresst und kann nicht abschalten",
+        "try": "Max Meditation"
+      },
+      "drained": {
+        "feel": "Manche Menschen rauben mir Energie",
+        "try": "Durchtrennen emotionaler Bindungen"
+      },
+      "stuck": {
+        "feel": "Ich wiederhole immer dieselben alten Muster",
+        "try": "Behandlung negativer Gewohnheiten"
+      },
+      "body": {
+        "feel": "Mein Körper braucht Erleichterung und Heilung",
+        "try": "Ensofic Reiki"
+      },
+      "missing": {
+        "feel": "Etwas in mir fühlt sich fehlend an",
+        "try": "Hermetische Seelenrückholung"
+      },
+      "gifts": {
+        "feel": "Ich möchte meine Gaben entdecken",
+        "try": "Life Activation"
+      },
+      "learn": {
+        "feel": "Das wollte ich schon immer lernen",
+        "try": "Empower Thyself"
+      },
+      "people": {
+        "feel": "Ich möchte herzliche, gleichgesinnte Menschen treffen",
+        "try": "Gemeinschaftsabende"
+      }
+    },
+    "unsure": "Noch unsicher?",
+    "unsureLink": "Schreib uns, wir helfen dir bei der Wahl.",
+    "unsureMessage": "Hallo, ich weiß nicht, wo ich anfangen soll. Könnt ihr mir bei der Wahl helfen?"
+  },
+  "Welcome": {
+    "heading": "Hallo, wir sind Diana und Radu",
+    "body": "Wir empfangen dich persönlich in Prag, nehmen uns Zeit, dir zuzuhören, und begleiten dich durch jeden Schritt. Ob du für eine Heilung, einen Kurs oder einen ruhigen Abend mit der Gemeinschaft kommst, du bist nicht allein.",
+    "link": "Lern uns kennen"
   },
   "FAQ": {
     "eyebrow": "Bevor du beginnst",
@@ -211,15 +285,24 @@
     ]
   },
   "Ending": {
-    "eyebrow": "Wo sich alle Welten begegnen",
-    "heading": "Die Brücke zwischen dem Alten, dem Universellen und dem Modernen",
+    "eyebrow": "Wo alle Welten sich begegnen",
+    "heading": "Uralte Weisheit für das moderne Leben",
     "cards": [
-      { "title": "Die alte Weisheit", "subtitle": "Tempel, Priester & heilige Riten" },
-      { "title": "Die universelle Wissenschaft", "subtitle": "Galaktisches Wissen & Licht" },
-      { "title": "Der moderne Initiierte", "subtitle": "Erstarkte Männer & Frauen" }
+      {
+        "title": "Die alte Weisheit",
+        "subtitle": "Tempel, Priester & heilige Riten"
+      },
+      {
+        "title": "Die universelle Wissenschaft",
+        "subtitle": "Galaktisches Wissen & Licht"
+      },
+      {
+        "title": "Der moderne Initiierte",
+        "subtitle": "Erstarkte Männer & Frauen"
+      }
     ],
-    "body1": "Dieser Pfad verbindet die <emphasis>alte Weisheit</emphasis> der Mysterienschulen mit der <emphasis>universellen galaktischen Wissenschaft</emphasis>, die Zivilisationen durch den Kosmos geleitet hat.",
-    "body2": "Das Ergebnis ist ein lebendiges Wissenssystem, das zutiefst anwendbar ist für <emphasis>die Männer und Frauen von heute</emphasis>, die bereit sind zu erwachen, sich zu verwandeln und zu führen."
+    "body1": "Was wir lehren, stammt aus den <emphasis>alten Mysterienschulen</emphasis> und der <emphasis>universellen Wissenschaft</emphasis>, die sie bewahrt haben, und ist erstaunlich praktisch für das heutige Leben.",
+    "body2": "Es ist für <emphasis>moderne Männer und Frauen</emphasis>, die sich besser fühlen, sich selbst verstehen und mit mehr Sinn und Freude leben möchten."
   },
   "HallOfInitiates": {
     "eyebrow": "Halle der Initiierten",
@@ -273,51 +356,182 @@
     "heroEyebrow": "Modern Mystery School · Linie von König Salomon",
     "heroSubtitle": "Aktiviere die angeborenen Gaben, die in deiner DNA ruhen",
     "heroTagline": "Löse 5–7 Generationen von Ahnentrauma und trete in dein höchstes Potenzial ein",
-    "introLead": "{brand} – Modern Mystery School, Linie von König Salomon",
-    "introBody": "{brand} ist ein Erwachen der Seele, angeboten durch die Tradition der Modern Mystery School, konzipiert, um das göttliche Potenzial in jedem Menschen zu entfachen. Diese kraftvolle Sitzung aktiviert 22 der 24 DNA-Stränge (11 physische und 11 spirituelle) und öffnet die Tür zu einer tieferen Verbindung mit deinem Göttlichen Selbst. Dadurch verbessert sich deine Fähigkeit, mehr Licht zu empfangen, zirkulieren zu lassen und zu halten — was Heilung, Klarheit und spirituelles Wachstum unterstützt.",
-    "benefitsHeading": "Die Vorteile der {brand}",
-    "benefits": [
-      { "label": "Tiefe Verbindung mit dem Göttlichen Selbst:", "text": "Life Activation erleichtert eine tiefere Verbindung mit deinem Göttlichen Selbst und ermöglicht die Manifestation deiner inneren Ressourcen, Talente und Potenziale." },
-      { "label": "Energie und Klarheit:", "text": "Die Erfahrung bringt eine Infusion von Energie und Klarheit in alle Lebensbereiche und unterstützt deine Fähigkeit, den Alltag mit Zuversicht zu meistern." },
-      { "label": "Manifestation von Talenten und Fähigkeiten:", "text": "Durch das Erwecken des inneren Potenzials wirst du dir deiner einzigartigen Talente und Fähigkeiten bewusster und fähiger, sie voller auszudrücken." },
-      { "label": "Körperliche Transformation und Karma-Freisetzung:", "text": "Life Activation startet einen Transformationsprozess im Körper und hilft, emotionale und mentale Muster freizusetzen, die in der DNA gespeichert sind und als „Karma“ bekannt sind." },
-      { "label": "Erweiterte Nutzung der Gehirnkapazität:", "text": "Durch diese Erfahrung wird die Fähigkeit verbessert, mehr vom Potenzial des Gehirns zu nutzen, wodurch zuvor übersehene oder ruhende Fähigkeiten ans Licht gebracht werden." }
-    ],
-    "proceduresHeading": "Zusätzliche Verfahren zum Ausgleich und zur Transformation",
+    "proceduresHeading": "Deine Sitzung im Detail",
     "proceduresLead": "Zusätzlich zur eigentlichen Aktivierung umfasst die Sitzung ergänzende Verfahren, die den Körper im Einklang mit den neu aktivierten Informationen aus der DNA ausgleichen und stimulieren sollen.",
     "procedures": [
-      { "label": "Entfernung emotionaler Blockaden:", "text": "Konzentriert auf die Beseitigung möglicher emotionaler Blockaden im Kronenchakra, schafft dieser Prozess einen besseren Energiefluss." },
-      { "label": "Ausgleich des zentralen Kerns:", "text": "Dieser Prozess harmonisiert die durch den zentralen Kern fließenden Energien und unterstützt die Ausrichtung und das Gleichgewicht des gesamten Energiesystems." },
-      { "label": "Öffnung der 16 Lotusblütenblätter:", "text": "Dies verstärkt die Verbindung mit den elementaren Energien — Erde, Wasser, Luft und Feuer — und gibt dir mehr von ihren Qualitäten und ihrer Kraft." },
-      { "label": "Ausgleich der elementaren und magnetischen Energielinien:", "text": "Dies gleicht die durch den Körper verlaufenden Energielinien aus und harmonisiert sie, für einen reibungslosen, ausgerichteten Energiefluss." },
-      { "label": "Chakra-Ausgleich:", "text": "Dies bringt Harmonie und Ausrichtung in die Energiezentren des Körpers." },
-      { "label": "Entfernung verbrannter ätherischer Kristalle aus dem Körper:", "text": "Dieses Verfahren dient der Reinigung und Revitalisierung des energetischen Körpers." },
-      { "label": "Kurze Lesung aus deiner neu aktivierten DNA:", "text": "Eine kurze Erkundung der unterbewussten Ebenen, die dir Einsichten und Führung schenkt." },
-      { "label": "Homöopathisches Mittel:", "text": "Ein im Alchemielabor der Schule hergestelltes homöopathisches Mittel, das die mit dieser einzigartigen Erfahrung verbundenen körperlichen und energetischen Veränderungen entgiften, unterstützen und erleichtern soll." }
+      {
+        "label": "Entfernung emotionaler Blockaden:",
+        "text": "Konzentriert auf die Beseitigung möglicher emotionaler Blockaden im Kronenchakra, schafft dieser Prozess einen besseren Energiefluss."
+      },
+      {
+        "label": "Ausgleich des zentralen Kerns:",
+        "text": "Dieser Prozess harmonisiert die durch den zentralen Kern fließenden Energien und unterstützt die Ausrichtung und das Gleichgewicht des gesamten Energiesystems."
+      },
+      {
+        "label": "Öffnung der 16 Lotusblütenblätter:",
+        "text": "Dies verstärkt die Verbindung mit den elementaren Energien — Erde, Wasser, Luft und Feuer — und gibt dir mehr von ihren Qualitäten und ihrer Kraft."
+      },
+      {
+        "label": "Ausgleich der elementaren und magnetischen Energielinien:",
+        "text": "Dies gleicht die durch den Körper verlaufenden Energielinien aus und harmonisiert sie, für einen reibungslosen, ausgerichteten Energiefluss."
+      },
+      {
+        "label": "Chakra-Ausgleich:",
+        "text": "Dies bringt Harmonie und Ausrichtung in die Energiezentren des Körpers."
+      },
+      {
+        "label": "Entfernung verbrannter ätherischer Kristalle aus dem Körper:",
+        "text": "Dieses Verfahren dient der Reinigung und Revitalisierung des energetischen Körpers."
+      },
+      {
+        "label": "Kurze Lesung aus deiner neu aktivierten DNA:",
+        "text": "Eine kurze Erkundung der unterbewussten Ebenen, die dir Einsichten und Führung schenkt."
+      },
+      {
+        "label": "Homöopathisches Mittel:",
+        "text": "Ein im Alchemielabor der Schule hergestelltes homöopathisches Mittel, das die mit dieser einzigartigen Erfahrung verbundenen körperlichen und energetischen Veränderungen entgiften, unterstützen und erleichtern soll."
+      }
     ],
     "exploreHeading": "Erkunde die höheren Dimensionen",
     "exploreBody1": "DNA-Aktivierung ist eine Rückkehr zum Selbst — eine Sitzung, die nicht nur Licht in die Dunkelheit des Lebens bringt, sondern auch Türen zu grenzenlosem Potenzial öffnet.",
-    "exploreBody2": "In der Modern Mystery School dient diese Aktivierung als Tor zur spirituellen Evolution und zur Entdeckung des wahren Selbst auf zutiefst transformierende Weise. Es ist ein Schritt hin zu einem Leben mit mehr Energie, Klarheit und Bewusstsein.",
+    "exploreBody2": "In der Modern Mystery School dient diese Aktivierung als Tor zur spirituellen Evolution und zur Entdeckung des wahren Selbst auf zutiefst transformierende Weise. Du kannst diese Reise mit den Kursen und der Initiation fortsetzen, die die Mystery School anbietet.",
     "certTitle": "{brand} – DNA-Aktivierung",
-    "certBody": "Dies ist eine bahnbrechende Methode für <i>innere Verwandlung und die Entfaltung deines persönlichen Potenzials</i>. Sie verbindet uraltes Wissen mit modernen Energien, um dir beim Wachsen und Weiterentwickeln zu helfen. Diese Technik wird von der Modern Mystery School durch zertifizierte Life-Activation-Praktizierende angeboten. Sie dient als <bold>Tor zu höherem Bewusstsein und spiritueller Erweiterung.</bold>",
+    "certBody": "Dies ist eine bahnbrechende Methode für <i>innere Verwandlung und die Entfaltung deines persönlichen Potenzials</i>. Sie verbindet uraltes Wissen mit modernen Energien, um dir beim Wachsen und Weiterentwickeln zu helfen. Diese Technik wird von der <mms>Modern Mystery School</mms> durch zertifizierte Life-Activation-Praktizierende angeboten. Sie dient als <bold>Tor zu höherem Bewusstsein und spiritueller Erweiterung.</bold>",
     "bookingTitle": "Begegne deiner authentischen Kraft und deinem höheren Selbst!",
     "duration": "2 Stunden",
     "bookingNote": "Sobald die Zahlung abgeschlossen ist, kontaktieren wir dich, um den Termin zu finalisieren.",
-    "inquiry": "Hallo, ich möchte gerne mehr über die {brand} erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über die {brand} erfahren.",
+    "awakenHeading": "Erwecke mehr von dem, wer du wirklich bist",
+    "awakenAlt": "Ein leuchtender DNA-Strang mit Punkten aus goldenem Licht",
+    "awaken": [
+      "Die Gaben, die Klarheit und die Kraft, nach denen du suchst, sind vielleicht schon in dir und warten darauf, zu erwachen. Life Activation ist die Sitzung, die sie erweckt.",
+      "Sie stammt aus der Linie von König Salomon, die seit Tausenden von Jahren lebendig gehalten und heute von der Modern Mystery School weitergegeben wird. In der Sitzung werden 22 deiner 24 DNA-Stränge aktiviert: 11 physische und 11 spirituelle. So kannst du mehr Licht empfangen und halten, die Lebenskraft, die deine Heilung, deine Klarheit und dein Wachstum unterstützt.",
+      "Sie klärt auch, was du aus deiner Familienlinie mitträgst, bis zu 5–7 Generationen zurück, damit du in dein höchstes Potenzial treten kannst."
+    ],
+    "giftsHeading": "Was sie dir bringen kann",
+    "giftsIntro": "Jeder Mensch ist anders, aber von diesen Veränderungen erzählen uns die Menschen am häufigsten.",
+    "gifts": [
+      {
+        "label": "Klarheit",
+        "text": "Du siehst dein Leben und deine Entscheidungen klarer, und Entscheidungen fallen leichter."
+      },
+      {
+        "label": "Mehr Energie",
+        "text": "Ein frischer Energiefluss in jeden Bereich deines Lebens, sodass sich jeder Tag leichter tragen lässt."
+      },
+      {
+        "label": "Eine stärkere Intuition",
+        "text": "Du hörst deine innere Stimme deutlicher und lernst, ihr zu vertrauen."
+      },
+      {
+        "label": "Deine Talente, erwacht",
+        "text": "Gaben, die geschlafen haben, kommen an die Oberfläche, und es wird leichter, sie auszudrücken."
+      },
+      {
+        "label": "Freiheit von alten Mustern",
+        "text": "Emotionale und mentale Muster, die in deiner DNA gespeichert sind, bekannt als Karma, beginnen sich zu lösen, auch die, die in deiner Familie weitergegeben wurden."
+      },
+      {
+        "label": "Dein Göttliches Selbst",
+        "text": "Eine tiefere Verbindung mit dem, wer du wirklich bist, und mit den inneren Ressourcen und dem Potenzial, die dazugehören."
+      }
+    ],
+    "forWhomHeading": "Ist {brand} etwas für dich?",
+    "forWhomIntro": "Du brauchst keinen spirituellen Hintergrund. Wenn du dich in etwas davon wiedererkennst, ist vielleicht jetzt dein Moment.",
+    "forWhom": [
+      {
+        "who": "Unternehmer",
+        "text": "Für klare Entscheidungen und die Energie zu führen."
+      },
+      {
+        "who": "Eltern",
+        "text": "Für Geduld, Ruhe und mehr Energie für die Zeit mit deinen Kindern."
+      },
+      {
+        "who": "Studierende",
+        "text": "Für Fokus und Vertrauen in den Weg, den du wählst."
+      },
+      {
+        "who": "Künstler und Kreative",
+        "text": "Für frische Inspiration und den Mut, sie zu teilen."
+      },
+      {
+        "who": "Heiler und Therapeuten",
+        "text": "Für einen stärkeren, klareren Kanal für deine Arbeit."
+      },
+      {
+        "who": "Vielbeschäftigte Berufstätige",
+        "text": "Für Balance und Energie, die die ganze Woche hält."
+      },
+      {
+        "who": "Sinnsuchende",
+        "text": "Für Antworten darauf, warum du hier bist und was als Nächstes kommt."
+      },
+      {
+        "who": "Alle, die sich festgefahren fühlen",
+        "text": "Für einen Neuanfang, wenn dieselben Muster immer wiederkehren."
+      }
+    ],
+    "stepsHeading": "Deine Sitzung, Schritt für Schritt",
+    "stepsIntro": "Etwa zwei Stunden, persönlich in Prag. Du musst nichts vorbereiten: Du darfst einfach empfangen.",
+    "stepsAlt": "Heilige Werkzeuge für eine Sitzung: ein goldenes Ankh, Kristalle und umwickelte Stäbe",
+    "steps": [
+      {
+        "title": "Ankommen und entspannen",
+        "text": "Du beginnst damit, dich zu entspannen und die Sorgen des Tages loszulassen."
+      },
+      {
+        "title": "Die Klärung",
+        "text": "Du sitzt bequem, während der erste Teil der Klärung beginnt."
+      },
+      {
+        "title": "Das Ausgleichen",
+        "text": "Etwa 20–30 Minuten stehst du, während deine Chakren und dein Ätherkörper ausgeglichen werden."
+      },
+      {
+        "title": "Die Aktivierung",
+        "text": "Du setzt dich wieder und empfängst die Aktivierung von 22 Strängen deiner DNA."
+      },
+      {
+        "title": "Ein kurzes Reading",
+        "text": "Ein kurzes Reading aus deiner neu aktivierten DNA, mit Einsichten und Führung nur für dich."
+      },
+      {
+        "title": "Die Wochen danach",
+        "text": "Die Aktivierung entfaltet sich ein bis drei Monate weiter, und wir bleiben in dieser Zeit mit dir in Kontakt."
+      }
+    ],
+    "handsHeading": "In zertifizierten Händen",
+    "handsAlt": "Eine Praktizierende hält ein handumwickeltes Kristallwerkzeug",
+    "hands": [
+      "Nur Praktizierende, die direkt von Modern Mystery School International zertifiziert sind, dürfen eine Life Activation geben, und sie erneuern ihre Zertifizierung jedes Jahr.",
+      "Diana und Radu sind beide zertifizierte Life Activation Praktizierende. Sie empfangen dich herzlich, arbeiten mit Sanftheit und Anmut und bleiben auch in den folgenden Wochen an deiner Seite."
+    ],
+    "handsLink": "Unsere Zertifizierungen",
+    "wandsAlt": "Ein Kreis aus handumwickelten Kristallstäben, die in Life Activation Sitzungen verwendet werden",
+    "nextHeading": "Nach deiner {brand}",
+    "nextIntro": "{brand} ist ein Anfang. Wenn du bereit bist, sind das die nächsten Schritte auf dem Weg.",
+    "nextFsa": "Empfangen nach der {brand}, erweckt und verankert sie deine Seele und deinen Geist in deinem Körper.",
+    "nextEmpower": "Der zweitägige Kurs und die Initiation in die Linie von König Salomon, in dem du kraftvolle Rituale für jeden Tag lernst.",
+    "nextCta": "Mehr entdecken",
+    "videosEyebrow": "In ihren eigenen Worten",
+    "videosHeading": "Hör es von denen, die sie empfangen haben",
+    "videoPart1": "Life Activation · Teil I",
+    "videoPart2": "Life Activation · Teil II",
+    "videoAbout": "Über die Life Activation · Dr. Theresa Bullard-Whyke"
   },
   "EmpowerThyself": {
     "heroEyebrow": "Ein zweitägiges Programm",
     "heroTitle": "Das {brand}-Programm",
     "heroSubtitle": "Initiation in die Linie von König Salomon",
     "invitation": {
-      "question": "Wenn du wie Gott sein könntest — erfüllt von Liebe, Harmonie und schöpferischer Kraft — würdest du es tun?",
-      "body1": "Diese Initiation wird den Horizont dessen erweitern, was du für möglich hältst. Sie erweckt neue Potenziale und fordert uns heraus, alte Dogmen und Paradigmen loszulassen.",
-      "body2": "Im Verlauf dieser zwei Tage erhältst du Schlüssel, die das Potenzial in deinem Geist freisetzen, um deine göttliche Natur zu verkörpern. Wir alle tragen dieses Potenzial in uns — es ist bereits in dir. Jetzt ist die Zeit, es an die Oberfläche zu bringen und zum Mittelpunkt deines Lebens zu machen.",
-      "body3": "Du wirst lernen, das negative Ego zu überwinden, das dir im Weg steht, und erhältst praktische Werkzeuge, die dich in diesem Prozess unterstützen. Die Initiation beschleunigt deine Verwandlung und hilft dir, schneller Ergebnisse zu erleben und die Reise zu deinem wahren Selbst zu genießen.",
-      "body4": "Du wirst von einer uralten Linie unterstützt, die hinter dir steht.",
-      "body5": "Diejenigen, die diesen Weg vor dir gegangen sind, sind hier, um dich mit ihrer Weisheit und Erfahrung zu führen.",
-      "body6": "Durch ihre Hingabe wurden diese Lehren in ihrer reinsten Form bewahrt — sicher aufbewahrt, damit wir heute von ihnen profitieren können.",
-      "callToAction": "Wirst du dem Ruf folgen?"
+      "god": "Wenn du wie Gott sein könntest — erfüllt von Liebe, Harmonie und schöpferischer Kraft — würdest du es tun?",
+      "body1": "{brand} ist eine zweitägige Initiation in einer kleinen, vertrauten Gruppe, hier in Prag. Sie ist ein seltenes Tor: Du empfängst kraftvolle Rituale und heilige Werkzeuge, um deine Energie zu reinigen und zu schützen, die Muster zu erkennen, die dein Leben geprägt haben, und über sie hinauszuwachsen.",
+      "body2": "Es ist genau dieselbe Initiation, die seit über 3.000 Jahren, seit der Zeit König Salomons, ohne Unterbrechung vom Lehrer an den Schüler weitergegeben wird. Die Schlüssel, die du erhältst, sind die Schlüssel, die schon die Eingeweihten alter Zeiten erhielten, und sie gehören dir für den Rest deines Lebens.",
+      "body3": "Du gehst mit einer heiligen täglichen Praxis, einem klaren und stillen Geist, einem tiefen Gefühl für deine eigene Kraft und dem Wissen um deinen nächsten Schritt.",
+      "body4": "Diana und Radu sind an beiden Tagen an deiner Seite und auch noch lange danach.",
+      "body6": "Diese Lehren wurden von allen, die diesen Weg vor dir gegangen sind, wie ein kostbares Juwel gehütet, damit sie heute dich erreichen.",
+      "callToAction": "Ist das dein nächster Schritt?"
     },
     "letter": {
       "greeting": "Liebe Suchende, lieber Suchender,",
@@ -331,63 +545,76 @@
       "signOffRole": "Dein Guide in der Linie des Lichts"
     },
     "origins": {
-      "heading": "Was ist das {brand}-Programm und woher kommt es?",
-      "body1": "<bold>{brand}</bold> ist Teil einer lebendigen Tradition von Weisheit, Heilung und innerer Entwicklung, die vor über 3.000 Jahren von König Salomon begründet wurde.",
-      "body2": "Angetrieben vom Wunsch, Menschen zu helfen, ihr göttliches Potenzial zu entdecken und zu erfüllen, versammelte Salomon die weisesten Meister seiner Zeit — Heiler, Ärzte, Weise, Mystiker und spirituell Suchende. Gemeinsam testeten und verfeinerten sie alle bekannten Transformationsmethoden, bis sie ein klares, tiefgreifendes und praktisches System schufen, das für jeden funktioniert, unabhängig von Kultur oder Epoche.",
-      "body3": "<bold>Was {brand} wirklich besonders macht</bold>, ist, dass es nicht nur eine weitere Sammlung von Techniken oder Theorien ist. Es ist Teil eines vollständigen und stimmigen Systems, das bis heute kontinuierlich weitergegeben wird — ein bewährter, vertrauenswürdiger Rahmen, der das Erwachen des Bewusstseins, das innere Gleichgewicht und die Wiederverbindung mit deinem wahren Selbst unterstützt.",
-      "tagline": "Dieses System ist auch heute noch wirksam und bringt Ergebnisse in Bereichen, die die moderne Wissenschaft noch nicht erreichen konnte."
+      "heading": "Woher kommt {brand}?",
+      "body1": "<bold>{brand}</bold> stammt aus der Modern Mystery School und der Linie von König Salomon, einer lebendigen Tradition der Weisheit und Heilung, die über 3.000 Jahre alt ist.",
+      "body2": "Salomon versammelte die weisesten Heiler, Ärzte und Weisen seiner Zeit. Gemeinsam prüften sie jede Methode der Transformation, die sie kannten, und behielten nur, was wirklich wirkt, für jeden, in jeder Kultur und jeder Zeit.",
+      "body3": "<bold>Das macht {brand} besonders</bold>: Es ist keine Mischung aus Techniken oder Theorien, sondern ein vollständiges, erprobtes System, das ohne Unterbrechung bis heute weitergegeben wurde.",
+      "tagline": "Uralte Weisheit, praktisch für das moderne Leben."
     },
     "whatWillYouDo": {
-      "heading": "Was wirst du im {brand}-Programm tun?",
-      "body1": "Dieses Programm soll dir helfen zu erkennen, dass du die Macht hast, das Leben zu erschaffen, das du wirklich willst. Es befähigt dich zu erkennen, wo du dich selbst zurückhältst und wo du dich mit weniger zufriedengibst, als du verdienst. Aber damit ist es nicht getan — dieses Programm gibt dir auch die Werkzeuge, um diese Teile deines Lebens zu verändern! Nach diesen zwei Tagen wirst du in der Lage sein, die Muster und Programme zu erkennen, die dein Verhalten prägen, zu verstehen, woher sie kommen, und die Macht haben, sie loszulassen.",
-      "body2": "Du öffnest Wege, über die du Zugang zu mehr Energie, neuem Wissen und frischen Einsichten erhältst, die dich befähigen, ein neues Leben zu erschaffen, das dir vollkommene Erfüllung bringt.",
-      "body3": "Dies ist ein praktisches, interaktives Programm, nach dem du sicher sein wirst, genau zu wissen, was als Nächstes zu tun ist, um dein Wachstum und deine Verwandlung fortzusetzen.",
-      "subheading": "Du gewinnst Klarheit und Struktur in deinem Verständnis von Geist und menschlicher Natur sowie klare Einsicht in Erfahrungen, die du vielleicht schon gemacht hast.",
+      "heading": "Was sich für dich verändert",
+      "body1": "Du beginnst zu sehen, wo du dich zurückhältst und dich mit weniger zufriedengibst, als du verdienst, und du bekommst die Werkzeuge, das zu ändern. Nach diesen zwei Tagen erkennst du die Muster, die deine Reaktionen steuern, verstehst, woher sie kommen, und kannst sie loslassen.",
+      "body2": "Du spürst mehr Energie und Klarheit und weißt, wie du sie behältst.",
+      "body3": "Es ist praktisch: Du übst alles direkt im Kurs und gehst nach Hause mit dem genauen Wissen, was du als Nächstes tun kannst.",
+      "subheading": "Dinge, die dich vielleicht verwirrt haben, wie deine Intuition, lebhafte Träume oder bedeutsame Zufälle, beginnen Sinn zu ergeben.",
       "benefits": [
-        "Du lernst, die unsichtbare Welt zu erkennen, auf sie zuzugreifen und mit ihr zu interagieren.",
-        "Du lernst, wie du die Kraft deiner Gedanken sammelst und nutzt, um Gutes um dich herum zu erschaffen.",
-        "Du praktizierst heilige Rituale und nimmst an einer heiligen Initiationszeremonie teil."
+        "Du lernst, die unsichtbare Welt wahrzunehmen und sicher mit ihr zu arbeiten.",
+        "Du lernst, deine Gedanken zu bündeln und sie zu nutzen, um Gutes in deinem Leben zu erschaffen.",
+        "Du übst heilige Rituale und nimmst an einer Initiationszeremonie teil."
       ]
     },
     "special": {
-      "heading": "Was macht dieses Programm besonders?",
-      "body": "Wir vermitteln dir nicht nur Theorie. Es gibt viele Lehrer, die mit dir über Spiritualität sprechen können. Wir bieten dir authentische, kraftvolle Werkzeuge und zeigen dir, wie du sie in deinem Leben einsetzt. Wir geben dir den Schlüssel, um diese Kräfte in dir selbst zu entfalten!"
+      "heading": "Was macht diesen Kurs besonders?",
+      "body": "Über Spiritualität können viele reden. Hier bekommst du echte Werkzeuge, lernst, sie in deinem eigenen Leben anzuwenden, und wir sind dabei an deiner Seite."
     },
     "curriculum": {
-      "heading": "Was wirst du in diesem Programm lernen?",
+      "heading": "Was wirst du lernen?",
       "items": [
-        "Wie du die Frage „Wer bin ich?“ beantwortest",
-        "Was ist eine Initiation, und warum brauchen wir sie heute?",
-        "Die Rolle von König Salomon in diesem Prozess",
-        "Das menschliche Potenzial, Gott zu sein",
-        "Die 12 Dimensionen der Erde und die 7 spirituellen Dimensionen",
-        "Die Struktur der Hierarchie des Lichts",
-        "Meditation und Gehirnwellenfrequenzen",
-        "Der Einfluss des Egos auf das wahre Selbst",
-        "Der Zyklus menschlicher Prozesse",
-        "Die energetische Struktur des Menschen",
+        "Wer bin ich? Deine eigene Antwort finden",
+        "Was eine Initiation ist und warum sie heute wichtig ist",
+        "Woher diese Lehren stammen: König Salomon und die Linie",
+        "Dein volles Potenzial und wie du hineinwächst",
+        "Wie du zu Hause einen heiligen Raum schaffst und warum er dir hilft",
+        "Eine kurze tägliche Praxis und ein Schutzgebet, das du überall anwenden kannst",
+        "Die physischen und spirituellen Dimensionen und wie du mit beiden arbeitest",
+        "Die Lichtwesen, die du um Hilfe bitten kannst",
+        "Meditation und wie deine Gehirnwellen deinen Geisteszustand verändern",
+        "Dein Ego: wann es dir hilft und wann es dich bremst",
+        "Die Muster und Zyklen, die wir alle durchlaufen, und wie du aus ihnen heraustrittst",
+        "Dein Energiekörper und wie du ihn reinigst und schützt",
         "Universelle Kabbala und der Baum des Lebens"
       ],
-      "closing": "Im Verlauf dieses Programms erhältst du Lehren, praktische Übungen und heilige Rituale, die du nutzen kannst, um dein Leben auf die nächste Stufe zu heben. All diese Schlüssel stammen aus der Linie von König Salomon, die seit Jahrtausenden in ununterbrochener Tradition weitergegeben wird."
+      "closing": "Jeder Teil bringt praktische Übungen und Rituale mit, die du sofort anwenden kannst, alle aus der Linie von König Salomon."
     },
     "nextSteps": {
       "heading": "Was musst du tun?",
       "items": [
-        { "main": "Melde dich bei uns, um herauszufinden, ob dieses Programm in diesem Moment deiner Reise das Richtige für dich ist.", "sub": "Wir sind hier, um dich mit Klarheit und Führung zu unterstützen, bei jedem Schritt." },
-        { "main": "Erhalte eine Life-Activation-Sitzung von einem unserer zertifizierten Praktizierenden." },
-        { "main": "Leiste eine Anzahlung oder zahle den vollen Betrag, um dir deinen Platz zu sichern." },
-        { "main": "Nimm am zweitägigen Kurs teil und beteilige dich an der Initiationszeremonie." },
-        { "main": "Beginne, das Gelernte anzuwenden, und genieße die Ergebnisse." }
+        {
+          "main": "Schreib uns: In einem freundlichen Gespräch finden wir gemeinsam heraus, ob das jetzt der richtige Schritt für dich ist.",
+          "sub": "Wir sind hier, um dich mit Klarheit und Führung zu unterstützen, bei jedem Schritt."
+        },
+        {
+          "main": "Erhalte eine Life-Activation-Sitzung von einem unserer zertifizierten Praktizierenden."
+        },
+        {
+          "main": "Leiste eine Anzahlung oder zahle den vollen Betrag, um dir deinen Platz zu sichern."
+        },
+        {
+          "main": "Nimm am zweitägigen Kurs teil und beteilige dich an der Initiationszeremonie."
+        },
+        {
+          "main": "Beginne, das Gelernte anzuwenden, und genieße die Ergebnisse."
+        }
       ]
     },
     "recommendations": {
-      "heading": "Empfehlungen",
-      "body1": "<bold>{brand}</bold> ist nicht nur ein Kurs. Es ist der Beginn einer tiefgreifenden Reise und einer dauerhaften Verbindung.",
-      "body2": "Diese Initiation öffnet ein Tor zu einem neuen Verständnis des Lebens sowie einen sicheren Raum, zu dem du zurückkehren kannst, wann immer du Klarheit, Unterstützung oder Führung brauchst.",
-      "body3": "Wir verpflichten uns, dich nicht nur während des Programms, sondern auch in den kommenden Jahren zu unterstützen. Ob du Fragen zur Anwendung der Lehren im Alltag hast, eine Phase der Verwandlung durchlebst oder einfach bereit bist, den nächsten Schritt auf deiner persönlichen Reise zu gehen — wir sind für dich da.",
-      "body4": "Diese Beziehung wird mit der Zeit aufgebaut — mit Vertrauen, Respekt und der ehrlichen Absicht, dein Wachstum, deine Balance und deine innere Stärke zu unterstützen."
+      "heading": "Nach dem Kurs",
+      "body1": "<bold>{brand}</bold> ist nicht das Ende von etwas. Es ist der Anfang einer Reise und einer dauerhaften Verbindung.",
+      "body2": "Du hast einen sicheren Ort, zu dem du zurückkehren kannst, wann immer du Klarheit, Unterstützung oder Führung brauchst.",
+      "body3": "Wir sind nicht nur während der zwei Tage für dich da, sondern auch noch Jahre danach: bei Fragen zur Anwendung der Werkzeuge, in Zeiten des Wandels oder wenn du bereit für deinen nächsten Schritt bist.",
+      "body4": "Es ist eine Beziehung, die mit der Zeit wächst, mit Vertrauen, Respekt und dem echten Wunsch, dich wachsen zu sehen."
     },
-    "bookingTitle": "Entdecke dein Potenzial, ein göttliches Wesen zu sein!",
+    "bookingTitle": "Zwei Tage, die verändern können, wie du lebst",
     "duration": "2 Tage",
     "bookingNote": "Findet in Prag, Tschechische Republik statt. Nach deiner Anzahlung kontaktieren wir dich, um deine Life Activation zu planen und deinen Platz zu bestätigen.",
     "bookingExtra": {
@@ -502,7 +729,11 @@
     "inquire": "Anfragen",
     "inquiryTemplate": "Hallo, ich möchte mich über die Heilung {name} informieren.",
     "bookNow": "Jetzt buchen",
-    "details": "Details ansehen"
+    "details": "Details ansehen",
+    "formatInPerson": "Vor Ort · Prag",
+    "formatBoth": "Vor Ort oder aus der Ferne",
+    "formatRemote": "Fernheilung",
+    "formatOnline": "Vor Ort oder online"
   },
   "Healings": {
     "heroEyebrow": "In der Linie von König Salomon",
@@ -531,14 +762,14 @@
         "blurb": "Reinigung, Reparatur und Schutz deines energetischen Feldes.",
         "items": [
           { "name": "{brand} Aura-Heilung", "description": "Reinigt, balanciert und versiegelt die sieben Schichten der Aura durch die Geometrie des Lichts." },
-          { "name": "Entfernung negativer Energie", "description": "Entfernt energetische Blockaden und negative Muster aus deinem Energiesystem." },
-          { "name": "Durchtrennen emotionaler Bindungen", "description": "Trennt kräftezehrende emotionale Bindungen, damit du keine Energie mehr an andere Menschen verlierst." },
+          { "name": "Entfernung negativer Energie", "description": "Reinigt negative Gedanken, Worte und Absichten, die andere dir geschickt haben, wie Eifersucht, Neid und böse Absichten." },
+          { "name": "Durchtrennen emotionaler Bindungen", "description": "Durchtrennt auslaugende emotionale Bindungen zu anderen Menschen, damit deine Energie wieder dir gehört." },
           { "name": "Schamanische Aurareinigung", "description": "Schamanische Techniken zur Beseitigung von Blockaden und schweren Energien aus dem Aurafeld." },
           { "name": "Ensofic Reiki", "description": "Eine einzelne Heilsitzung mit dem Ensofischen Strahl für deinen Körper und dein Nervensystem, in Prag oder aus der Ferne." },
           { "name": "Behandlung negativer Gewohnheiten", "description": "Nutzt den Ensofischen Strahl, um dir zu helfen, negative Muster oder Gewohnheiten loszulassen, die du in deinem Leben wiederholst." },
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "Eine uralte Kristallheilung, die dich in tiefe Entspannung führt und Körper und Geist erneuert." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "Eine Heilung mit Kristallen und heiligen Gesängen, die alte und neue Wunden heilt und den Weg für das Glück öffnet." },
-          { "name": "Seelenrückholung", "description": "Gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit." },
+          { "name": "Hermetische Seelenrückholung", "description": "Gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit." },
           { "name": "Lebensfunke — Fernheilung", "description": "Eine Fernheilung, die dir wiederherstellende Energie über jede Entfernung hinweg bringt." }
         ]
       },
@@ -646,24 +877,116 @@
     "inquiry": "Hallo, ich möchte gerne mehr über die Lebenszweck- & 11. Codon-Lesung erfahren."
   },
   "SacredGeometryPage": {
-    "heroEyebrow": "Ein Workshop der Mysterienschule",
-    "heroSubtitle": "Die Sprache, in der die Schöpfung geschrieben ist",
-    "heroTagline": "Lerne, mit den Bausteinen des Universums zu arbeiten",
-    "introLead": "Die verborgene Architektur aller Dinge",
-    "introBody1": "Von der Spirale einer Muschel bis zur Umlaufbahn der Planeten wiederholen sich dieselben Muster auf jeder Ebene der Existenz. Heilige Geometrie ist das Studium dieser Muster — der Formen, durch die Geist in Materie Gestalt annimmt. Für die Initiierten der Antike war sie nichts Geringeres als die Sprache des Göttlichen.",
-    "introBody2": "In diesem Workshop lernst du, diese Formen zu erkennen, bewusst mit ihnen zu arbeiten und die primären Schlüssel der heiligen Geometrie zu nutzen, um einen klaren, geschützten und heiligen Raum zu schaffen — in deinem Zuhause, in deiner Praxis und in dir selbst.",
+    "heroEyebrow": "Ein Halbtagesworkshop in Prag",
+    "heroSubtitle": "Lerne die Sprache des Universums und wie du die Energie deines Zuhauses schützt",
+    "heroTagline": "Die drei Schlüssel zum Himmel: die Formen, aus denen alles aufgebaut ist, und wie du sie im Alltag nutzt",
+    "introLead": "Die Räume, in denen du lebst, beeinflussen, wie du dich fühlst",
+    "introBody1": "Du hast es wahrscheinlich schon gespürt: In manchen Räumen wirst du ruhig und klar, andere machen dich müde oder angespannt. Ein Raum trägt die Energie der Menschen und Momente in sich, die er erlebt hat, und diese Energie wirkt auf dich. Heilige Geometrie gibt dir einen einfachen Weg, sie zu verändern.",
+    "introBody2": "Dieser Workshop ist für alle, die die echte, praktische Anwendung der heiligen Geometrie suchen, nicht nur die Theorie. In 4,5 Stunden in einer kleinen Gruppe lernst du die drei Grundformen, wie du negative Energie aus dir und aus einem Raum klärst und wie du einen heiligen Raum schaffst: einen ruhigen, geschützten Ort zu Hause, bei der Arbeit oder wo immer du hingehst. Es ist dieselbe Geometrie, die Pythagoras, Leonardo da Vinci und Tesla inspiriert hat.",
     "reserveYourPlace": "Sichere dir deinen Platz",
-    "learnHeading": "Was du lernen wirst",
+    "learnHeading": "Was du entdecken wirst",
     "benefits": [
-      { "label": "Die primären Formen:", "text": "Die grundlegenden Formen der Schöpfung und die Qualitäten, die jede von ihnen trägt." },
-      { "label": "Heiligen Raum schaffen:", "text": "Nutze die Schlüssel der heiligen Geometrie, um einen Raum zu reinigen, zu schützen und zu weihen." },
-      { "label": "Geometrie als Werkzeug:", "text": "Wende diese Formen für Fokus, Meditation, Manifestation und Heilung an." },
-      { "label": "Das Muster leben:", "text": "Erkenne die Ordnung unter dem Alltag und richte dich danach aus." }
+      {
+        "label": "Die drei Schlüssel zum Himmel:",
+        "text": "Die drei Grundformen, aus denen alles in der Schöpfung aufgebaut ist, was jede bedeutet, und eine Einstimmung, die sie in deinem Körper und deiner Aura weckt."
+      },
+      {
+        "label": "Deinen Raum versiegeln und schützen:",
+        "text": "Wie du dein Zuhause, dein Büro oder jeden Raum klärst und versiegelst, damit sich keine negative Energie ansammelt."
+      },
+      {
+        "label": "Einen Tempelraum schaffen:",
+        "text": "Wie du die Energie eines Raumes für Meditation, Heilung, Lernen oder Arbeit anhebst."
+      },
+      {
+        "label": "Geometrie und die vier Elemente:",
+        "text": "Wie du die Formen mit Erde, Wasser, Luft und Feuer verbindest, um deine Absichten ins echte Leben zu bringen."
+      },
+      {
+        "label": "Sie überall sehen:",
+        "text": "Bemerken, wie heilige Geometrie schon jetzt deinen Körper, die Natur und den Alltag formt, und bewusst mit ihr arbeiten."
+      }
     ],
-    "bookingTitle": "Lies die Sprache der Schöpfung",
+    "bookingTitle": "Schaffe deinen heiligen Raum",
     "duration": "4,5 Stunden",
-    "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
-    "inquiry": "Hallo, ich möchte gerne mehr über den {brand}-Workshop erfahren."
+    "bookingNote": "Kleine Gruppen, vor Ort in Prag. Schreib uns für den nächsten Termin.",
+    "inquiry": "Hallo, ich möchte gerne mehr über den {brand}-Workshop erfahren.",
+    "whyHeading": "Warum einen heiligen Raum schaffen?",
+    "why": [
+      "Dein Zuhause wird ein Ort, an dem du wirklich ruhst und auftankst",
+      "Die Schwere nach Streit, Stress oder vollen Tagen bleibt nicht hängen",
+      "Meditation, Gebet und Konzentration fallen leichter",
+      "Du fühlst dich geschützt, auch an belebten oder schwierigen Orten",
+      "Es ist die Grundlage für jede weitere Praxis auf dem Weg"
+    ],
+    "expectHeading": "Was dich erwartet",
+    "expect": [
+      "4,5 Stunden in einer kleinen, herzlichen Gruppe, vor Ort in Prag",
+      "Klare Erklärungen und viel praktische Übung: Du probierst alles selbst aus",
+      "Eine Einstimmung auf die drei Grundformen während des Workshops",
+      "Werkzeuge, die du noch am selben Abend nutzen kannst",
+      "Der erste Schritt der Sacred-Geometry-Reihe, der die Tür zu Sacred Geometry II öffnet"
+    ],
+    "usesHeading": "Wie Menschen sie nutzen",
+    "uses": [
+      "Einem Kind zu ruhigerem Schlaf verhelfen, indem sie sein Zimmer vorbereiten",
+      "Ruhig und geschützt bleiben in einem fordernden Job oder einem vollen Büro",
+      "Einen Raum für Klienten vorbereiten, damit sie sich leichter entspannen und öffnen",
+      "Das Zuhause nach einem Streit, einer Krankheit oder einem anstrengenden Besuch klären",
+      "Eine stille Ecke für tägliche Meditation und Gebet schaffen"
+    ],
+    "faq": [
+      {
+        "q": "Ist dieser Workshop für Anfänger?",
+        "a": "Ja. Er ist als erster Schritt gedacht: Alles wird klar erklärt, und wir üben jedes Werkzeug gemeinsam, bis es sich natürlich anfühlt."
+      },
+      {
+        "q": "Was soll ich mitbringen?",
+        "a": "Bequeme Kleidung, ein Notizbuch und einen Stift. Und deine Neugier: Fragen sind immer willkommen."
+      },
+      {
+        "q": "Woher stammen diese Lehren?",
+        "a": "Aus der Modern Mystery School und der Linie von König Salomon, in der heilige Geometrie seit Tausenden von Jahren vom Lehrer an den Schüler weitergegeben wird."
+      },
+      {
+        "q": "Was kommt nach Sacred Geometry I?",
+        "a": "Wenn du bereit bist, baut <link>Sacred Geometry II: Kristallheilung und Raumschutz</link> auf dem auf, was du hier lernst, und die Reihe geht mit Sacred Geometry III und IV weiter.",
+        "href": "/sacred-geometry-2"
+      }
+    ],
+    "galleryHeading": "Einblicke in den Workshop",
+    "galleryIntro": "Echte Momente aus unseren Kursen in Prag: kleine Gruppen, Papier, Scheren und bunte Stifte, viele Fragen und gute Gesellschaft.",
+    "gallery": [
+      "Gemeinsam lernen in Prag",
+      "Die drei Grundformen von Hand ausschneiden",
+      "Das Dreieck: einer der drei Schlüssel zum Himmel",
+      "Radu begleitet jeden Schritt für Schritt",
+      "Gemeinsame Praxis am Altar"
+    ],
+    "mastersHeading": "Die Meister, die sie studierten",
+    "mastersIntro": "Seit Tausenden von Jahren sahen einige der größten Geister in der Geometrie die verborgene Ordnung des Lebens.",
+    "masters": [
+      {
+        "name": "Pythagoras",
+        "era": "6. Jh. v. Chr.",
+        "text": "Lehrte in seiner eigenen Mysterienschule, dass Zahl und Form die verborgene Ordnung des Universums sind."
+      },
+      {
+        "name": "Platon",
+        "era": "4. Jh. v. Chr.",
+        "text": "Der Überlieferung nach stand über dem Eingang seiner Akademie: Kein der Geometrie Unkundiger trete ein."
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "era": "15. Jahrhundert",
+        "text": "Zeichnete den Vitruvianischen Menschen, der die heiligen Proportionen des Körpers in Kreis und Quadrat zeigt."
+      },
+      {
+        "name": "Galileo Galilei",
+        "era": "17. Jahrhundert",
+        "text": "Schrieb, dass das Buch der Natur in der Sprache der Mathematik geschrieben ist, ihre Buchstaben Dreiecke, Kreise und andere Figuren."
+      }
+    ]
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Die Sacred-Geometry-Reihe · Stufe II",
@@ -1255,52 +1578,254 @@
     "faqEyebrow": "Fragen",
     "faqHeading": "Häufig gestellte Fragen",
     "whoHeading": "Für wen es gedacht ist",
-    "disclaimer": "Diese Arbeit ersetzt keine ärztlich verordnete Behandlung. Sie wird als ergänzende energetische und spirituelle Unterstützung neben deiner medizinischen Versorgung angeboten."
+    "disclaimer": "Diese Arbeit ersetzt keine ärztlich verordnete Behandlung. Sie wird als ergänzende energetische und spirituelle Unterstützung neben deiner medizinischen Versorgung angeboten.",
+    "hostsEyebrow": "Du bist in guten Händen",
+    "hostsHeading": "Diana und Radu Coman",
+    "hostsBody": "Wir sind zertifizierte Praktizierende und Lehrer der Modern Mystery School. Wen von uns du auch triffst, wir nehmen uns Zeit, dir zuzuhören, deine Fragen zu beantworten und dich sanft durch jeden Schritt zu begleiten."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Tiefe Heilung",
     "heroTitle": "Hermetische Seelenrückholung",
-    "heroSubtitle": "Rufe die Teile von dir zurück, die zurückgeblieben sind",
-    "heroTagline": "Eine sanfte und zugleich zutiefst kraftvolle Sitzung, die ein Gefühl von Ganzheit wiederherstellt",
-    "introLead": "In Momenten der Überwältigung ziehen sich Teile von uns zurück, um sich zu schützen",
-    "introBody1": "Diese Sitzung wurzelt in der hermetischen Linie der Tradition der Modern Mystery School und arbeitet in deinem Energiefeld. Sie findet die zurückgelassenen Seelenanteile und holt sie behutsam zurück — Anteile, die mit Unschuld, Kreativität, Stärke, Liebe oder Vitalität verbunden sind.",
-    "introBody2": "Erfahrungen wie Zurückweisung, Verlassenwerden, anhaltender Stress oder einengende Beziehungen können uns mit der Zeit zersplittern. Diese Anteile heimzubringen stellt Präsenz, Klarheit und das Gefühl wieder her, ganz du selbst zu sein.",
-    "benefitsHeading": "Was du erleben kannst",
+    "heroSubtitle": "Wenn sich ein Teil von dir fehlend anfühlt",
+    "heroTagline": "Eine sanfte Heilung, die dir Freude, Energie und den Funken zurückbringt, die du unterwegs verloren hast",
+    "introLead": "Hattest du je das Gefühl, dass ein Stück von dir fehlt?",
+    "introBody1": "Vielleicht begann es nach einem Verlust, einer Trennung, einem Unfall oder einer langen, erschöpfenden Zeit. Du hast weitergemacht, wie wir alle, aber etwas hat sich verändert. Das Leben fühlt sich etwas flacher an. Die Freude, die Kreativität oder der Funke, den du früher hattest, scheinen weit weg.",
+    "introBody2": "In der Tradition der Mystery School verstehen wir das als einen Teil der Seele, der sich zurückgezogen hat, um sicher zu bleiben, als alles zu viel wurde. Die Hermetische Seelenrückholung findet diese Teile behutsam und bringt sie nach Hause, damit du dich wieder ganz fühlst. Damit sie wirkt, musst du schmerzhafte Erinnerungen weder noch einmal durchleben noch darüber sprechen.",
+    "signsHeading": "Anzeichen, dass ein Teil von dir fehlen könnte",
+    "signs": [
+      "Du fühlst dich taub oder leer, als würdest du das Leben aus der Ferne betrachten",
+      "Seit einem bestimmten Ereignis fühlst du dich nicht mehr ganz wie du selbst",
+      "Freude, Kreativität oder Leidenschaft scheinen unerreichbar",
+      "In dir ist eine Leere, die du nicht erklären kannst",
+      "Du kehrst immer wieder zum selben alten Schmerz zurück"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Wir sprechen darüber, wie es dir ging und was wieder in dein Leben zurückkehren soll."
+      },
+      {
+        "label": "Die Rückholung:",
+        "text": "Du entspannst dich einfach, während der Praktizierende in deiner Energie arbeitet, die Teile von dir findet, die bereit sind zurückzukehren, und sie behutsam zurückführt."
+      },
+      {
+        "label": "Heimkommen:",
+        "text": "Die zurückkehrenden Teile werden wieder in dir verankert, damit sie bei dir bleiben können. Wir nehmen uns Zeit: Die ganze Sitzung dauert etwa zweieinhalb Stunden."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
     "benefits": [
-      "Tiefen Frieden und inneres Loslassen",
-      "Erinnerung an vergessene Anteile von dir",
-      "Das Gefühl, ganzer und integrierter zu sein",
-      "Erneuerte Klarheit, Präsenz und Richtung",
-      "Eine sanfte Rückkehr in deinen natürlichen Zustand"
+      "Ein tiefes Gefühl von Frieden",
+      "Sich ganzer, präsenter, mehr wie man selbst fühlen",
+      "Freude, Kreativität und Energie kehren zurück",
+      "Klarheit darüber, wohin du gehst",
+      "Sich an Teile von sich erinnern, die man vergessen hatte"
     ],
     "who": [
-      "Du fühlst dich taub, abgetrennt oder nicht ganz präsent",
-      "Du verarbeitest emotionalen Schmerz, Trauma, Burnout, Verlust oder Sucht",
-      "Du lebst in ständigem Stress oder in einem großen Lebensübergang",
-      "Du erlebst eine kreative Blockade, Leere oder ein Gefühl der Zersplitterung",
-      "Du gehst einen Weg der Selbsterkenntnis oder Selbstmeisterung"
+      "Du fühlst dich taub, getrennt oder nicht ganz da",
+      "Du trägst Trauer, ein Trauma, Burnout, eine Trennung oder eine Sucht in dir",
+      "Du stehst seit Langem unter Stress, oder dein Leben hat sich stark verändert",
+      "Du fühlst dich kreativ blockiert oder innerlich leer",
+      "Du bist auf einem Weg der Selbsterkenntnis und möchtest dich ganz fühlen"
+    ],
+    "afterHeading": "Nach der Sitzung",
+    "after": [
+      "Halte den Rest des Tages ruhig und sanft",
+      "Trink viel Wasser und ruh dich aus",
+      "Schreib Gefühle, Erinnerungen oder Träume auf, die auftauchen",
+      "Wenn Teile zurückkehren, können ein paar Tage lang alte Gefühle hochkommen. Lass sie kommen und gehen: Es gehört zum Heimkommen"
     ],
     "faq": [
       {
-        "q": "Was ist Seelenrückholung?",
-        "a": "Eine Praxis, die die zersplitterten Anteile des Selbst, die in Momenten der Überwältigung zurückgeblieben sind, behutsam aufspürt und zurückholt und ihre Reintegration begleitet."
-      },
-      {
-        "q": "Wie läuft die Sitzung ab?",
-        "a": "In den 2,5 Stunden arbeiten wir in deinem Energiefeld, finden die Seelenanteile, die bereit sind zurückzukehren, und führen sie zu dir zurück — und helfen ihnen, sich wieder zu integrieren."
-      },
-      {
         "q": "Ist es sicher?",
-        "a": "Ja. Es ist ein sanfter, unterstützender Prozess — du musst schmerzhafte Ereignisse weder noch einmal durchleben noch besprechen, damit er wirkt."
+        "a": "Ja. Es ist ein sanfter, unterstützender Prozess: Damit er wirkt, musst du schmerzhafte Ereignisse weder noch einmal durchleben noch darüber sprechen."
       },
       {
-        "q": "Welche Vorteile hat es?",
-        "a": "Frieden, emotionale Wiederverbindung, ein Gefühl von Ganzheit und erneuerte Klarheit."
+        "q": "Wie lange dauert es und was kostet es?",
+        "a": "Etwa zweieinhalb Stunden, inklusive Gespräch und Integration, für 6.150 CZK."
+      },
+      {
+        "q": "Warum heißt sie hermetisch?",
+        "a": "Sie stammt aus den hermetischen Lehren, die in der Linie der Modern Mystery School bewahrt werden."
       }
     ],
+    "bookingTitle": "Komm zu dir zurück",
     "duration": "2,5 Stunden",
     "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
     "inquiry": "Hallo, ich möchte mehr über die Hermetische Seelenrückholung erfahren."
+  },
+  "EmotionalCordCutting": {
+    "heroEyebrow": "Energetische Reinigung",
+    "heroTitle": "Durchtrennen emotionaler Bindungen",
+    "heroSubtitle": "Wenn jemand noch in deinen Gedanken lebt und es dich Energie kostet",
+    "heroTagline": "Ein sanftes Ritual, um alte Bindungen loszulassen und dich wieder wie du selbst zu fühlen",
+    "introLead": "Wenn das Leben schwer ist, ist der erste Schritt manchmal einfach loszulassen",
+    "introBody1": "Jeder Mensch, den wir lieben, mit dem wir streiten oder den wir vermissen, hinterlässt eine Spur in uns. Diese Spuren nennen wir energetische Bindungen. Die meisten sind harmlos. Manche ziehen aber noch lange an dir, nachdem die Beziehung oder der Moment vorbei ist: Du spielst alte Gespräche immer wieder durch, kommst nach dem Treffen mit bestimmten Menschen müde nach Hause, oder schon ein Name bringt dich aus dem Gleichgewicht.",
+    "introBody2": "In dieser Sitzung durchtrennen wir diese auslaugenden Bindungen behutsam und reinigen, was sie hinterlassen haben. Das löscht keine Liebe und beendet keine Beziehung. Es gibt dir einfach deine Energie zurück, damit du den Menschen in deinem Leben leichter und freier begegnen kannst.",
+    "signsHeading": "Anzeichen einer ungesunden Bindung",
+    "signs": [
+      "Du denkst ständig an jemanden, obwohl du es lieber nicht würdest",
+      "Nach dem Treffen mit bestimmten Menschen kommst du müde nach Hause",
+      "Du fühlst dich festgefahren, als könntest du nicht ganz weitergehen",
+      "Bei einem bestimmten Namen zieht sich dein Magen immer noch zusammen",
+      "Du hast deinen Funken verloren und greifst zu Trostgewohnheiten",
+      "Du saugst die Stimmungen anderer auf, ohne es zu wollen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Wir nehmen uns ein paar Minuten, um zu verstehen, was dich bewegt und was du loslassen möchtest. Du erzählst nur, was sich für dich gut anfühlt."
+      },
+      {
+        "label": "Das Durchtrennen:",
+        "text": "Du stehst bequem, atmest ein paarmal tief durch und lässt deinen Körper entspannen. Der Praktizierende durchtrennt die Bindungen mit einem rituellen Werkzeug des Lichts; sie werden vom brennenden Räucherwerk aufgenommen und gelöst."
+      },
+      {
+        "label": "Reinigung:",
+        "text": "Deine Energie wird mit Salbei, geweihtem Wasser und heiligen Mantras sanft gereinigt und ins Gleichgewicht gebracht."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du spüren kannst, wie es dir geht: oft leichter, ruhiger und klarer."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Echte Erleichterung, als wäre eine Last von dir gefallen",
+      "Ein ruhigerer, klarerer Geist",
+      "Tieferer, erholsamerer Schlaf",
+      "Du kannst Nein sagen, freundlich und bestimmt",
+      "Mehr Energie für dein eigenes Leben",
+      "Hoffnung und das Gefühl eines Neuanfangs"
+    ],
+    "who": [
+      "Du verlässt eine Beziehung, die dich verletzt hat, oder hast sie verlassen",
+      "Nein zu sagen und deine Grenzen zu wahren fällt dir schwer",
+      "Manche Menschen laugen dich aus, oder du nimmst ihre Gefühle leicht auf",
+      "Mit einer bestimmten Person wiederholt sich immer dasselbe Muster",
+      "Du hast ein Trauma oder eine missbräuchliche Beziehung erlebt und willst dieses Kapitel schließen"
+    ],
+    "afterHeading": "Nach der Sitzung",
+    "after": [
+      "Nimm am Abend ein warmes Salzbad: Es hilft dir, dich zu reinigen und zu erden",
+      "Zünde eine Kerze an, atme ein paarmal tief durch und setze eine Absicht für das, was du willkommen heißen möchtest",
+      "Sei sanft mit dir: Ruh dich aus, schreib, meditiere oder geh in die Natur",
+      "In den nächsten Tagen können alte Gefühle oder Erinnerungen hochkommen. Das ist normal: Es gehört zum Loslassen"
+    ],
+    "faq": [
+      {
+        "q": "Beendet es meine Beziehung?",
+        "a": "Nein. Es durchtrennt den ungesunden, auslaugenden Teil der Verbindung, nicht die Liebe. Viele erleben ihre Beziehungen danach leichter und gesünder."
+      },
+      {
+        "q": "Muss ich über schmerzhafte Ereignisse sprechen?",
+        "a": "Nur so viel, wie du möchtest. Ein kurzes Gespräch darüber, was du loslassen willst, genügt."
+      },
+      {
+        "q": "Wie lange dauert es und was kostet es?",
+        "a": "Etwa eine Stunde, 3.669 CZK, inklusive Gespräch, Durchtrennen der Bindungen und Reinigung."
+      },
+      {
+        "q": "Kann ich es mit der Entfernung negativer Energie verbinden?",
+        "a": "Ja. Beide Sitzungen ergänzen sich und werden oft beim selben Besuch gemacht; jede hat ihren eigenen Preis. <link>Mehr über die Entfernung negativer Energie</link>.",
+        "href": "/negative-energy-removal"
+      }
+    ],
+    "relatedHeading": "Reinige, was andere dir schicken",
+    "relatedBody": "Die Entfernung negativer Energie reinigt negative Gedanken, Worte und Absichten, die andere auf dich gerichtet haben. Sie ergänzt das Durchtrennen der Bindungen wunderbar.",
+    "relatedCta": "Entfernung negativer Energie entdecken",
+    "bookingTitle": "Bindungen lösen",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Der Preis umfasst das Gespräch und alle Abläufe. Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "inquiry": "Hallo, ich interessiere mich für das Durchtrennen emotionaler Bindungen."
+  },
+  "NegativeEnergyRemoval": {
+    "heroEyebrow": "Energetische Reinigung",
+    "heroTitle": "Entfernung negativer Energie",
+    "heroSubtitle": "Wenn die Negativität anderer auf dir lastet",
+    "heroTagline": "Eine Reinigung, die dich zur Ruhe zurückbringt, wenn das Leben schwer oder unklar ist",
+    "introLead": "Hast du dich je schwer gefühlt, nachdem du mit jemandem zusammen warst, ohne zu wissen warum?",
+    "introBody1": "Worte und Gedanken tragen Energie. Wenn dich jemand beneidet, dir etwas nachträgt oder dir Schlechtes wünscht, auch wenn er es nie laut sagt, kannst du es spüren. Es kann wie eine graue Wolke auf dir liegen: Deine Gedanken werden neblig, die Dinge fließen nicht mehr, du schläfst schlecht und beginnst, an dir zu zweifeln.",
+    "introBody2": "In dieser Sitzung reinigen wir diese negativen Gedanken, Worte und Absichten aus deiner Energie, ob sie von einer Person kamen oder sich über die Jahre still angesammelt haben. Die meisten gehen leichter, klarer und wieder mehr sie selbst nach Hause.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "In der Nähe bestimmter Menschen oder an belebten Orten fühlst du dich ausgelaugt",
+      "Dein Denken ist neblig, oder eine Unruhe will nicht vergehen",
+      "Deine Stimmung ist ohne klaren Grund gedrückt oder schwer",
+      "Du schläfst schlecht ein oder wachst müde auf",
+      "Du weißt, dass jemand, der dir nahesteht, eifersüchtig auf dich ist, oder harte Worte gehen dir nicht aus dem Kopf",
+      "Du spürst Anspannung in Brust oder Kopf, die mit bestimmten Menschen oder Orten kommt und geht"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, was du erlebt hast und was du reinigen möchtest. Du teilst nur, was sich für dich gut anfühlt."
+      },
+      {
+        "label": "Die Reinigung:",
+        "text": "Der Praktizierende führt das Ritual durch, das die negativen Gedanken, Worte und Absichten aus deiner Energie löst. Du musst nur entspannen und atmen."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Klarheit: Deine Gedanken kommen zur Ruhe und dein Kopf wird wieder klar",
+      "Eine leichtere Stimmung",
+      "Besserer Schlaf und mehr Konzentration",
+      "Ein Gefühl von Erdung und Ruhe im Körper",
+      "Stimmungen und Meinungen anderer berühren dich weniger",
+      "Die Dinge kommen wieder in Bewegung und fließen"
+    ],
+    "who": [
+      "Du hast das Gefühl, dass jemandes Eifersucht oder Wut auf dich zielt",
+      "Du hast einen Konflikt, eine Trennung oder ein schwieriges Arbeitsumfeld erlebt",
+      "Du arbeitest mit vielen Menschen und trägst ihre Energie mit nach Hause",
+      "Du fühlst dich festgefahren und möchtest neu anfangen"
+    ],
+    "afterHeading": "Nach der Sitzung",
+    "after": [
+      "Nimm am Abend ein warmes Salzbad: Es hilft, Reste zu lösen und deinen Körper zu erden",
+      "Ruh dich aus und atme immer wieder ein paarmal langsam und tief durch",
+      "In den nächsten Tagen können Wellen von Gefühlen oder plötzliche Klarheit kommen. Beides ist ein gutes Zeichen: Lass sie durchziehen",
+      "Achte darauf, wie viel leichter sich Menschen und Situationen um dich herum anfühlen"
+    ],
+    "faq": [
+      {
+        "q": "Ist es dasselbe wie das Durchtrennen emotionaler Bindungen?",
+        "a": "Nein. Das Durchtrennen löst die Verbindungen zwischen dir und anderen; die Entfernung negativer Energie reinigt, was andere dir geschickt haben. Beide ergänzen sich und werden oft beim selben Besuch gemacht. <link>Mehr über das Durchtrennen emotionaler Bindungen</link>.",
+        "href": "/emotional-cord-cutting"
+      },
+      {
+        "q": "Muss ich wissen, wer die Negativität geschickt hat?",
+        "a": "Überhaupt nicht. Oft spüren wir nur die Schwere, ohne zu wissen, woher sie kommt. Die Reinigung wirkt so oder so."
+      },
+      {
+        "q": "Wie lange dauert es und was kostet es?",
+        "a": "Etwa eine Stunde, 3.669 CZK, inklusive Gespräch und aller Abläufe."
+      }
+    ],
+    "relatedHeading": "Befreie dich von alten Bindungen",
+    "relatedBody": "Das Durchtrennen emotionaler Bindungen löst auslaugende emotionale Verbindungen zu anderen Menschen. Zusammen mit der Entfernung negativer Energie schenkt es deiner Energie eine gründliche Reinigung.",
+    "relatedCta": "Durchtrennen emotionaler Bindungen entdecken",
+    "bookingTitle": "Reinigen und Erneuern",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Der Preis umfasst das Gespräch und alle Abläufe. Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "inquiry": "Hallo, ich interessiere mich für die Entfernung negativer Energie.",
+    "toolsHeading": "Einfache Werkzeuge für die tägliche Reinigung",
+    "tools": [
+      "Einmal pro Woche ein Salzbad, um die Woche abzuwaschen",
+      "Jeden Morgen ein paar Minuten stille Meditation oder tiefes Atmen",
+      "Zeit in der Natur: ein Spaziergang im Park, am Fluss oder im Wald",
+      "Zu Hause etwas Salbei räuchern und die Fenster öffnen, damit frische Luft hereinkommt",
+      "Einen schwarzen Turmalin oder einen Bergkristall in der Nähe deines Schreibtischs",
+      "Bemerken, wer und was dich auslaugt, und dir erlauben, einen Schritt zurückzutreten"
+    ]
   },
   "EnsoficReiki": {
     "heroEyebrow": "Energieheilung",
@@ -1630,7 +2155,8 @@
       },
       {
         "q": "Ist die Praktizierende zertifiziert?",
-        "a": "Ja. Nur direkt von Modern Mystery School International zertifizierte Praktizierende dürfen sie durchführen, und sie lassen sich jedes Jahr neu zertifizieren."
+        "a": "Ja. Nur direkt von <link>Modern Mystery School International</link> zertifizierte Praktizierende dürfen sie durchführen, und sie lassen sich jedes Jahr neu zertifizieren.",
+        "href": "https://modernmysteryschoolint.com/"
       }
     ]
   },

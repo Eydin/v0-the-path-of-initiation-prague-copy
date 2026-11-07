@@ -2,6 +2,8 @@ import { useTranslations } from "next-intl"
 import { Header } from "@/components/header"
 import { HeroSection } from "@/components/hero-section"
 import { CalendarWidgetSection } from "@/components/calendar-widget-section"
+import { LookingForSection } from "@/components/looking-for-section"
+import { WelcomeStrip } from "@/components/welcome-strip"
 import { HealingsWidgetSection } from "@/components/healings-widget-section"
 import { FactsSection } from "@/components/facts-section"
 import { PillarsSection } from "@/components/pillars-section"
@@ -31,6 +33,10 @@ export default function Home() {
         <div aria-hidden className="pointer-events-none absolute inset-0 -z-10 magnum-opus-gradient" />
         <HeroSection />
         <CalendarWidgetSection />
+        {/* "maybe I need this": tap how you feel, see where to start */}
+        <LookingForSection />
+        {/* smiling faces early: who will welcome you */}
+        <WelcomeStrip />
         <HealingsWidgetSection />
         <FirstStepsSection />
         <InitiateInvite />

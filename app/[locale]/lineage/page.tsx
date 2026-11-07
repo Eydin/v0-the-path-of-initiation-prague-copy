@@ -292,7 +292,7 @@ export default async function LineagePage() {
           <div className="mx-auto max-w-6xl px-6">
             <div className="overflow-hidden rounded-2xl border border-border/40 bg-card/60">
               <img
-                src="/images/community/Radu%20DSC03340.jpg"
+                src="/images/community/radu-community.jpg"
                 alt="Radu with community members at The Path of Initiation Prague"
                 className="w-full h-72 object-cover sm:h-160"
               />

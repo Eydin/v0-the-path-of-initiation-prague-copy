@@ -1,4 +1,5 @@
 import type { Metadata } from "next"
+import Image from "next/image"
 import { getTranslations } from "next-intl/server"
 import {
   ModalityShell,
@@ -53,6 +54,9 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
 
   const benefits = (t.raw("benefits") as string[]).map((text) => ({ text }))
   const who = has("who") ? (t.raw("who") as string[]).map((text) => ({ text })) : []
+  const signs = has("signs") ? (t.raw("signs") as string[]).map((text) => ({ text })) : []
+  const after = has("after") ? (t.raw("after") as string[]).map((text) => ({ text })) : []
+  const tools = has("tools") ? (t.raw("tools") as string[]).map((text) => ({ text })) : []
   const protocol = has("protocol") ? (t.raw("protocol") as { label: string; text: string }[]) : []
   const faq = has("faq") ? (t.raw("faq") as FaqItem[]) : []
   const options = has("options")
@@ -109,6 +113,33 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         )}
       </BookingBlock>
 
+      {/* who will be with you: Diana and Radu, smiling — answers "who is leading me?" */}
+      <Panel>
+        <div className="flex flex-col items-center gap-6 text-center sm:flex-row sm:text-left">
+          <div className="flex shrink-0 -space-x-4">
+            <Image
+              src="/images/diana-smiling-avatar.jpg"
+              alt="Diana Coman"
+              width={112}
+              height={112}
+              className="h-24 w-24 rounded-full border-2 border-primary/50 object-cover sm:h-28 sm:w-28"
+            />
+            <Image
+              src="/images/Radu2.jpg"
+              alt="Radu Coman"
+              width={112}
+              height={112}
+              className="h-24 w-24 rounded-full border-2 border-primary/50 object-cover object-[50%_35%] sm:h-28 sm:w-28"
+            />
+          </div>
+          <div>
+            <p className="mb-1 font-serif text-xs uppercase tracking-[0.25em] text-primary">{tShared("hostsEyebrow")}</p>
+            <h2 className="font-serif text-2xl tracking-wide text-foreground">{tShared("hostsHeading")}</h2>
+            <p className="mt-2 leading-relaxed text-muted-foreground">{tShared("hostsBody")}</p>
+          </div>
+        </div>
+      </Panel>
+
       <Panel>
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1")}</Body>
@@ -128,6 +159,14 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         </Panel>
       )}
 
+      {/* optional "signs you may need it" list */}
+      {signs.length > 0 && (
+        <Panel>
+          <PanelHeading>{t("signsHeading")}</PanelHeading>
+          <BenefitList items={signs} />
+        </Panel>
+      )}
+
       {protocol.length > 0 && (
         <Panel>
           <PanelHeading>{t("protocolHeading")}</PanelHeading>
@@ -144,6 +183,22 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         <Panel>
           <PanelHeading>{tShared("whoHeading")}</PanelHeading>
           <BenefitList items={who} />
+        </Panel>
+      )}
+
+      {/* optional after-care */}
+      {after.length > 0 && (
+        <Panel>
+          <PanelHeading>{t("afterHeading")}</PanelHeading>
+          <BenefitList items={after} />
+        </Panel>
+      )}
+
+      {/* optional simple practices to keep up at home */}
+      {tools.length > 0 && (
+        <Panel>
+          <PanelHeading>{t("toolsHeading")}</PanelHeading>
+          <BenefitList items={tools} />
         </Panel>
       )}
 

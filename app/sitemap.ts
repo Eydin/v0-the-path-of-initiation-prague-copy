@@ -24,6 +24,8 @@ const CORE_ROUTES = [
   "/aura-healing",
   "/life-purpose-reading",
   "/soul-retrieval",
+  "/emotional-cord-cutting",
+  "/negative-energy-removal",
   "/ensofic-reiki",
   "/treating-negative-habits",
   "/advanced-ensofic-ray-healing",

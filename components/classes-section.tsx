@@ -14,6 +14,7 @@ export function ClassesSection() {
       title: BRAND.lifeActivation,
       description: t("items.0.description"),
       tag: t("items.0.tag"),
+      meta: t("items.0.meta"),
       link: "/life-activation",
       image: "/images/life-activation-bg.jpg",
     },
@@ -21,6 +22,7 @@ export function ClassesSection() {
       title: BRAND.empowerThyself,
       description: t("items.1.description"),
       tag: t("items.1.tag"),
+      meta: t("items.1.meta"),
       link: "/empower-thyself",
       image: "/images/empower-thyself-bg.jpg",
     },
@@ -28,6 +30,7 @@ export function ClassesSection() {
       title: t("items.2.title"),
       description: t("items.2.description"),
       tag: t("items.2.tag"),
+      meta: t("items.2.meta"),
       link: "/calendar",
       linkLabel: t("items.2.title"),
       image: "/images/art/starry-rhone-gogh.jpg",
@@ -79,6 +82,8 @@ export function ClassesSection() {
                   <h3 className="mb-3 font-serif text-xl tracking-wide text-foreground">
                     {cls.title}
                   </h3>
+                  {/* how long, with whom, where: the practical answer to "what will I get" */}
+                  <p className="mb-3 text-xs font-medium tracking-wide text-primary">{cls.meta}</p>
                   <p className="mb-6 flex-1 text-sm leading-relaxed text-foreground/80">
                     {cls.description}
                   </p>

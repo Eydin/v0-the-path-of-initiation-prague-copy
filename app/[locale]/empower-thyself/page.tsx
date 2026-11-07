@@ -51,7 +51,7 @@ export default async function EmpowerThyself({
   const tModality = await getTranslations({ locale, namespace: "Modality" })
   const inquiry = t("inquiry", { brand: BRAND.empowerThyself })
   const whatBenefits = [0, 1, 2].map((i) => ({ text: t(`whatWillYouDo.benefits.${i}`) }))
-  const curriculum = Array.from({ length: 11 }, (_, i) => t(`curriculum.items.${i}`))
+  const curriculum = t.raw("curriculum.items") as string[]
   const nextSteps = Array.from({ length: 5 }, (_, i) => i)
 
   return (
@@ -90,16 +90,15 @@ export default async function EmpowerThyself({
       <Panel wide>
         <div className="grid items-center gap-10 md:grid-cols-2">
           <div className="space-y-4">
-            <h3 className="font-serif text-2xl tracking-wide text-primary">
-              {t("invitation.question")}
+            {/* said openly up front: this class talks about God */}
+            <h3 className="pb-2 font-serif text-3xl italic leading-snug tracking-wide text-primary md:text-4xl">
+              {t("invitation.god")}
             </h3>
-            <p className="text-lg leading-relaxed text-foreground">{t("invitation.body1")}</p>
+            <p className="text-lg leading-relaxed text-foreground">{t("invitation.body1", { brand: BRAND.empowerThyself })}</p>
             <p className="text-lg leading-relaxed text-foreground">{t("invitation.body2")}</p>
             <p className="text-lg leading-relaxed text-foreground">{t("invitation.body3")}</p>
             <p className="text-lg leading-relaxed text-foreground">
               {t("invitation.body4")}
-              <br />
-              {t("invitation.body5")}
               <br />
               {t("invitation.body6")}
             </p>
