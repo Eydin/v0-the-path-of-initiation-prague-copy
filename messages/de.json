@@ -356,7 +356,7 @@
     "heroEyebrow": "Modern Mystery School · Linie von König Salomon",
     "heroSubtitle": "Aktiviere die angeborenen Gaben, die in deiner DNA ruhen",
     "heroTagline": "Löse 5–7 Generationen von Ahnentrauma und trete in dein höchstes Potenzial ein",
-    "proceduresHeading": "Zusätzliche Verfahren zum Ausgleich und zur Transformation",
+    "proceduresHeading": "Deine Sitzung im Detail",
     "proceduresLead": "Zusätzlich zur eigentlichen Aktivierung umfasst die Sitzung ergänzende Verfahren, die den Körper im Einklang mit den neu aktivierten Informationen aus der DNA ausgleichen und stimulieren sollen.",
     "procedures": [
       {
@@ -394,9 +394,9 @@
     ],
     "exploreHeading": "Erkunde die höheren Dimensionen",
     "exploreBody1": "DNA-Aktivierung ist eine Rückkehr zum Selbst — eine Sitzung, die nicht nur Licht in die Dunkelheit des Lebens bringt, sondern auch Türen zu grenzenlosem Potenzial öffnet.",
-    "exploreBody2": "In der Modern Mystery School dient diese Aktivierung als Tor zur spirituellen Evolution und zur Entdeckung des wahren Selbst auf zutiefst transformierende Weise. Es ist ein Schritt hin zu einem Leben mit mehr Energie, Klarheit und Bewusstsein.",
+    "exploreBody2": "In der Modern Mystery School dient diese Aktivierung als Tor zur spirituellen Evolution und zur Entdeckung des wahren Selbst auf zutiefst transformierende Weise. Du kannst diese Reise mit den Kursen und der Initiation fortsetzen, die die Mystery School anbietet.",
     "certTitle": "{brand} – DNA-Aktivierung",
-    "certBody": "Dies ist eine bahnbrechende Methode für <i>innere Verwandlung und die Entfaltung deines persönlichen Potenzials</i>. Sie verbindet uraltes Wissen mit modernen Energien, um dir beim Wachsen und Weiterentwickeln zu helfen. Diese Technik wird von der Modern Mystery School durch zertifizierte Life-Activation-Praktizierende angeboten. Sie dient als <bold>Tor zu höherem Bewusstsein und spiritueller Erweiterung.</bold>",
+    "certBody": "Dies ist eine bahnbrechende Methode für <i>innere Verwandlung und die Entfaltung deines persönlichen Potenzials</i>. Sie verbindet uraltes Wissen mit modernen Energien, um dir beim Wachsen und Weiterentwickeln zu helfen. Diese Technik wird von der <mms>Modern Mystery School</mms> durch zertifizierte Life-Activation-Praktizierende angeboten. Sie dient als <bold>Tor zu höherem Bewusstsein und spiritueller Erweiterung.</bold>",
     "bookingTitle": "Begegne deiner authentischen Kraft und deinem höheren Selbst!",
     "duration": "2 Stunden",
     "bookingNote": "Sobald die Zahlung abgeschlossen ist, kontaktieren wir dich, um den Termin zu finalisieren.",
@@ -445,7 +445,7 @@
       },
       {
         "who": "Eltern",
-        "text": "Für Geduld, Ruhe und mehr von dir, das du geben kannst."
+        "text": "Für Geduld, Ruhe und mehr Energie für die Zeit mit deinen Kindern."
       },
       {
         "who": "Studierende",
@@ -477,19 +477,19 @@
     "stepsAlt": "Heilige Werkzeuge für eine Sitzung: ein goldenes Ankh, Kristalle und umwickelte Stäbe",
     "steps": [
       {
-        "title": "Zuerst reden wir",
-        "text": "Wir nehmen uns Zeit, dich kennenzulernen und all deine Fragen zu beantworten."
+        "title": "Ankommen und entspannen",
+        "text": "Du beginnst damit, dich zu entspannen und die Sorgen des Tages loszulassen."
       },
       {
-        "title": "Die Klärung, im Sitzen",
+        "title": "Die Klärung",
         "text": "Du sitzt bequem, während der erste Teil der Klärung beginnt."
       },
       {
-        "title": "Das Ausgleichen, im Stehen",
+        "title": "Das Ausgleichen",
         "text": "Etwa 20–30 Minuten stehst du, während deine Chakren und dein Ätherkörper ausgeglichen werden."
       },
       {
-        "title": "Die Aktivierung, im Sitzen",
+        "title": "Die Aktivierung",
         "text": "Du setzt dich wieder und empfängst die Aktivierung von 22 Strängen deiner DNA."
       },
       {
@@ -505,7 +505,7 @@
     "handsAlt": "Eine Praktizierende hält ein handumwickeltes Kristallwerkzeug",
     "hands": [
       "Nur Praktizierende, die direkt von Modern Mystery School International zertifiziert sind, dürfen eine Life Activation geben, und sie erneuern ihre Zertifizierung jedes Jahr.",
-      "Diana und Radu sind beide zertifizierte Life Activation Praktizierende. Sie empfangen dich herzlich, erklären jeden Schritt und bleiben auch in den folgenden Wochen an deiner Seite."
+      "Diana und Radu sind beide zertifizierte Life Activation Praktizierende. Sie empfangen dich herzlich, arbeiten mit Sanftheit und Anmut und bleiben auch in den folgenden Wochen an deiner Seite."
     ],
     "handsLink": "Unsere Zertifizierungen",
     "wandsAlt": "Ein Kreis aus handumwickelten Kristallstäben, die in Life Activation Sitzungen verwendet werden",
@@ -2155,7 +2155,8 @@
       },
       {
         "q": "Ist die Praktizierende zertifiziert?",
-        "a": "Ja. Nur direkt von Modern Mystery School International zertifizierte Praktizierende dürfen sie durchführen, und sie lassen sich jedes Jahr neu zertifizieren."
+        "a": "Ja. Nur direkt von <link>Modern Mystery School International</link> zertifizierte Praktizierende dürfen sie durchführen, und sie lassen sich jedes Jahr neu zertifizieren.",
+        "href": "https://modernmysteryschoolint.com/"
       }
     ]
   },

@@ -192,7 +192,8 @@ export function ImageHero({
   position?: string
   /** artwork credit, e.g. "The Creation of Adam · Michelangelo, 1512" */
   caption?: string
-  eyebrow?: string
+  /** may contain a link, e.g. to the Modern Mystery School */
+  eyebrow?: ReactNode
   title: string
   subtitle?: string
   tagline?: string

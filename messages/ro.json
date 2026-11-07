@@ -356,7 +356,7 @@
     "heroEyebrow": "Modern Mystery School · Linia regelui Solomon",
     "heroSubtitle": "Activează darurile înnăscute care rezidă în ADN-ul tău",
     "heroTagline": "Eliberează 5–7 generații de traumă ancestrală și pășește spre potențialul tău cel mai înalt",
-    "proceduresHeading": "Proceduri suplimentare pentru echilibrare și transformare",
+    "proceduresHeading": "Sesiunea ta, mai în detaliu",
     "proceduresLead": "Pe lângă activarea în sine, ședința include proceduri suplimentare concepute pentru a echilibra și stimula corpul în armonie cu informațiile nou activate din ADN.",
     "procedures": [
       {
@@ -394,9 +394,9 @@
     ],
     "exploreHeading": "Explorează dimensiunile superioare",
     "exploreBody1": "Activarea ADN-ului este o întoarcere la sine — o ședință care nu doar aduce lumină în întunericul vieții, ci deschide și porți către un potențial nelimitat.",
-    "exploreBody2": "La Modern Mystery School, această activare servește drept poartă către evoluția spirituală și descoperirea adevăratului Sine într-un mod profund transformator. Este un pas către a trăi viața cu mai multă energie, claritate și conștiență.",
+    "exploreBody2": "La Modern Mystery School, această activare servește drept poartă către evoluția spirituală și descoperirea adevăratului Sine într-un mod profund transformator. Poți continua această călătorie prin cursurile și inițierea oferite de Mystery School.",
     "certTitle": "{brand} – Activarea ADN-ului",
-    "certBody": "Aceasta este o metodă revoluționară pentru <i>transformarea interioară și deblocarea potențialului tău personal</i>. Combină înțelepciunea străveche cu energii moderne pentru a te ajuta să crești și să evoluezi. Această tehnică este oferită de Modern Mystery School prin Practicieni Certificați de Life Activation. Servește drept <bold>poartă către o conștiință superioară și expansiune spirituală.</bold>",
+    "certBody": "Aceasta este o metodă revoluționară pentru <i>transformarea interioară și deblocarea potențialului tău personal</i>. Combină înțelepciunea străveche cu energii moderne pentru a te ajuta să crești și să evoluezi. Această tehnică este oferită de <mms>Modern Mystery School</mms> prin Practicieni Certificați de Life Activation. Servește drept <bold>poartă către o conștiință superioară și expansiune spirituală.</bold>",
     "bookingTitle": "Întâlnește-ți puterea autentică și sinele superior!",
     "duration": "2 ore",
     "bookingNote": "După finalizarea plății, te vom contacta pentru a stabili programarea.",
@@ -445,7 +445,7 @@
       },
       {
         "who": "Părinți",
-        "text": "Pentru răbdare, calm și mai mult din tine de oferit."
+        "text": "Pentru răbdare, calm și mai multă energie de petrecut cu copiii tăi."
       },
       {
         "who": "Studenți",
@@ -477,19 +477,19 @@
     "stepsAlt": "Instrumente sacre pregătite pentru o sesiune: un ankh auriu, cristale și baghete înfășurate",
     "steps": [
       {
-        "title": "Mai întâi vorbim",
-        "text": "Ne luăm timp să te cunoaștem și să îți răspundem la toate întrebările."
+        "title": "Te așezi și te relaxezi",
+        "text": "Începi prin a te relaxa și a lăsa deoparte grijile zilei."
       },
       {
-        "title": "Curățarea, așezat",
+        "title": "Curățarea",
         "text": "Stai confortabil pe scaun în timp ce începe prima parte a curățării."
       },
       {
-        "title": "Echilibrarea, în picioare",
+        "title": "Echilibrarea",
         "text": "Timp de aproximativ 20–30 de minute stai în picioare, în timp ce chakrele și corpul eteric îți sunt echilibrate."
       },
       {
-        "title": "Activarea, așezat",
+        "title": "Activarea",
         "text": "Te așezi din nou pentru a primi activarea a 22 de spirale ale ADN-ului tău."
       },
       {
@@ -505,7 +505,7 @@
     "handsAlt": "O practiciană ținând un instrument de cristal înfășurat manual",
     "hands": [
       "Doar practicienii certificați direct de Modern Mystery School International pot oferi un Life Activation, iar ei își reînnoiesc certificarea în fiecare an.",
-      "Diana și Radu sunt amândoi practicieni Life Activation certificați. Te primesc cu căldură, îți explică fiecare pas și rămân alături de tine și în săptămânile care urmează."
+      "Diana și Radu sunt amândoi practicieni Life Activation certificați. Te primesc cu căldură, lucrează cu blândețe și grație și rămân alături de tine și în săptămânile care urmează."
     ],
     "handsLink": "Vezi certificările noastre",
     "wandsAlt": "Un cerc de baghete de cristal înfășurate manual, folosite în sesiunile Life Activation",
@@ -2155,7 +2155,8 @@
       },
       {
         "q": "Este practicianta certificată?",
-        "a": "Da. Doar practicienii certificați direct de Modern Mystery School International o pot efectua și se recertifică în fiecare an."
+        "a": "Da. Doar practicienii certificați direct de <link>Modern Mystery School International</link> o pot efectua și se recertifică în fiecare an.",
+        "href": "https://modernmysteryschoolint.com/"
       }
     ]
   },

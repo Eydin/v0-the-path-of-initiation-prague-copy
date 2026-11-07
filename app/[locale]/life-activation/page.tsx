@@ -31,6 +31,7 @@ import {
 import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { DiscoverCards } from "@/components/sacred-geometry-fun"
 import { ForWhomTiles, NextStepCards, PhotoStory, SessionSteps } from "@/components/life-activation-fun"
+import { MmsLink, withMmsLinks } from "@/components/mms-link"
 
 const STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
 const IMG = "/images/life-activation"
@@ -73,7 +74,7 @@ export default async function LifeActivation({
         image="creation-of-adam.jpg"
         position="50% 45%"
         caption="The Creation of Adam · Michelangelo, 1512"
-        eyebrow={t("heroEyebrow")}
+        eyebrow={withMmsLinks(t("heroEyebrow"))}
         title={BRAND.lifeActivation}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
@@ -97,7 +98,7 @@ export default async function LifeActivation({
         image={`${IMG}/dna-light.jpg`}
         alt={t("awakenAlt")}
         heading={t("awakenHeading")}
-        paragraphs={t.raw("awaken") as string[]}
+        paragraphs={(t.raw("awaken") as string[]).map(withMmsLinks)}
         portrait
       />
 
@@ -135,7 +136,7 @@ export default async function LifeActivation({
         image={`${IMG}/crystal-tool-hands.jpg`}
         alt={t("handsAlt")}
         heading={t("handsHeading")}
-        paragraphs={t.raw("hands") as string[]}
+        paragraphs={(t.raw("hands") as string[]).map(withMmsLinks)}
         reverse
       >
         <Link
@@ -151,7 +152,7 @@ export default async function LifeActivation({
         image={`${IMG}/crystal-wands.jpg`}
         alt={t("wandsAlt")}
         heading={t("exploreHeading")}
-        paragraphs={[t("exploreBody1"), t("exploreBody2")]}
+        paragraphs={[t("exploreBody1"), withMmsLinks(t("exploreBody2"))]}
       />
 
       {/* in their own words: two people sharing their Life Activation, then Dr. Theresa Bullard-Whyke */}
@@ -218,6 +219,7 @@ export default async function LifeActivation({
               <span>
                 {t.rich("certBody", {
                   i: (chunks) => <i>{chunks}</i>,
+                  mms: (chunks) => <MmsLink>{chunks}</MmsLink>,
                   bold: (chunks) => <span className="font-semibold text-foreground">{chunks}</span>,
                 })}
               </span>

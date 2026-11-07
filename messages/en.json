@@ -356,7 +356,7 @@
     "heroEyebrow": "The Modern Mystery School · Lineage of King Salomon",
     "heroSubtitle": "Activate the innate gifts that reside in your DNA",
     "heroTagline": "Clear 5–7 generations of ancestral trauma and step into your highest potential",
-    "proceduresHeading": "Additional Procedures for Balancing and Transformation",
+    "proceduresHeading": "A Closer Look at Your Session",
     "proceduresLead": "In addition to the activation itself, the session includes supplementary procedures designed to balance and stimulate the body in alignment with the newly activated information from the DNA.",
     "procedures": [
       {
@@ -394,9 +394,9 @@
     ],
     "exploreHeading": "Explore the Higher Dimensions",
     "exploreBody1": "DNA Activation is a return to the self—a session that not only brings light into the darkness of life but also opens doors to unlimited potential.",
-    "exploreBody2": "At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deeply transformative way. It is a step toward living life with greater energy, clarity, and awareness.",
+    "exploreBody2": "At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deeply transformative way. You can continue this journey by taking the classes and initiation offered by the Mystery School.",
     "certTitle": "{brand} – DNA Activation",
-    "certBody": "This is a groundbreaking method for <i>inner transformation and unlocking your personal potential</i>. It combines ancient wisdom with modern energies to help you grow and evolve. This technique is offered by the Modern Mystery School through Certified Life Activation Practitioners. It serves as a <bold>gateway to higher consciousness and spiritual expansion.</bold>",
+    "certBody": "This is a groundbreaking method for <i>inner transformation and unlocking your personal potential</i>. It combines ancient wisdom with modern energies to help you grow and evolve. This technique is offered by the <mms>Modern Mystery School</mms> through Certified Life Activation Practitioners. It serves as a <bold>gateway to higher consciousness and spiritual expansion.</bold>",
     "bookingTitle": "Meet Your Authentic Power and Higher Self!",
     "duration": "2 Hours",
     "bookingNote": "After the payment is completed, we will contact you to finalize the appointment.",
@@ -445,7 +445,7 @@
       },
       {
         "who": "Parents",
-        "text": "For patience, calm and more of yourself to give."
+        "text": "For patience, calm and more energy to spend with your children."
       },
       {
         "who": "Students",
@@ -477,19 +477,19 @@
     "stepsAlt": "Sacred tools prepared for a session: a golden ankh, crystals and wrapped wands",
     "steps": [
       {
-        "title": "We talk first",
-        "text": "We take time to get to know you and answer all your questions."
+        "title": "Settle in and relax",
+        "text": "You begin by relaxing and letting go of the worries of the day."
       },
       {
-        "title": "The clearing, seated",
+        "title": "The clearing",
         "text": "You sit comfortably while the first part of the clearing begins."
       },
       {
-        "title": "The balancing, standing",
+        "title": "The balancing",
         "text": "For about 20–30 minutes you stand while your chakras and etheric body are balanced."
       },
       {
-        "title": "The activation, seated",
+        "title": "The activation",
         "text": "You sit again to receive the activation of 22 strands of your DNA."
       },
       {
@@ -505,7 +505,7 @@
     "handsAlt": "A practitioner holding a hand-wrapped crystal tool",
     "hands": [
       "Only practitioners certified directly by Modern Mystery School International may give a Life Activation, and they renew their certification every year.",
-      "Diana and Radu are both certified Life Activation Practitioners. They welcome you warmly, explain every step, and stay by your side in the weeks that follow."
+      "Diana and Radu are both certified Life Activation Practitioners. They welcome you warmly, work with gentleness and grace, and stay by your side in the weeks that follow."
     ],
     "handsLink": "See our certifications",
     "wandsAlt": "A circle of hand-wrapped crystal wands used in Life Activation sessions",
@@ -2155,7 +2155,8 @@
       },
       {
         "q": "Is the practitioner certified?",
-        "a": "Yes. Only practitioners certified directly by Modern Mystery School International may perform it, and they re-certify every year."
+        "a": "Yes. Only practitioners certified directly by <link>Modern Mystery School International</link> may perform it, and they re-certify every year.",
+        "href": "https://modernmysteryschoolint.com/"
       }
     ]
   },

@@ -356,7 +356,7 @@
     "heroEyebrow": "Modern Mystery School · Linie krále Šalomouna",
     "heroSubtitle": "Aktivujte vrozené dary, které přebývají ve vaší DNA",
     "heroTagline": "Vyčistěte 5–7 generací předků od traumat a vykročte ke svému nejvyššímu potenciálu",
-    "proceduresHeading": "Doplňkové procedury pro vyvážení a proměnu",
+    "proceduresHeading": "Vaše sezení podrobněji",
     "proceduresLead": "Kromě samotné aktivace zahrnuje sezení doplňkové procedury navržené k vyvážení a stimulaci těla v souladu s nově aktivovanými informacemi z DNA.",
     "procedures": [
       {
@@ -394,9 +394,9 @@
     ],
     "exploreHeading": "Objevte vyšší dimenze",
     "exploreBody1": "Aktivace DNA je návratem k sobě samému — sezení, které nejen přináší světlo do temnoty života, ale také otevírá dveře k neomezenému potenciálu.",
-    "exploreBody2": "V Modern Mystery School slouží tato aktivace jako brána k duchovní evoluci a objevení pravého Já hluboce transformačním způsobem. Je to krok k životu s větší energií, jasností a uvědoměním.",
+    "exploreBody2": "V Modern Mystery School slouží tato aktivace jako brána k duchovní evoluci a objevení pravého Já hluboce transformačním způsobem. V této cestě můžete pokračovat prostřednictvím kurzů a iniciace, které Mystery School nabízí.",
     "certTitle": "{brand} – Aktivace DNA",
-    "certBody": "Toto je průlomová metoda pro <i>vnitřní proměnu a odemknutí vašeho osobního potenciálu</i>. Kombinuje starobylou moudrost s moderními energiemi, aby vám pomohla růst a vyvíjet se. Tuto techniku nabízí Modern Mystery School prostřednictvím certifikovaných praktiků Life Activation. Slouží jako <bold>brána k vyššímu vědomí a duchovní expanzi.</bold>",
+    "certBody": "Toto je průlomová metoda pro <i>vnitřní proměnu a odemknutí vašeho osobního potenciálu</i>. Kombinuje starobylou moudrost s moderními energiemi, aby vám pomohla růst a vyvíjet se. Tuto techniku nabízí <mms>Modern Mystery School</mms> prostřednictvím certifikovaných praktiků Life Activation. Slouží jako <bold>brána k vyššímu vědomí a duchovní expanzi.</bold>",
     "bookingTitle": "Poznejte svou autentickou sílu a vyšší já!",
     "duration": "2 hodiny",
     "bookingNote": "Po dokončení platby vás budeme kontaktovat, abychom domluvili termín.",
@@ -445,7 +445,7 @@
       },
       {
         "who": "Rodiče",
-        "text": "Pro trpělivost, klid a více sebe, co můžete dát."
+        "text": "Pro trpělivost, klid a více energie na čas s vašimi dětmi."
       },
       {
         "who": "Studenti",
@@ -477,19 +477,19 @@
     "stepsAlt": "Posvátné nástroje připravené na sezení: zlatý ankh, krystaly a obalené hůlky",
     "steps": [
       {
-        "title": "Nejdřív si promluvíme",
-        "text": "Uděláme si čas, abychom vás poznali a odpověděli na všechny vaše otázky."
+        "title": "Usaďte se a uvolněte",
+        "text": "Začnete tím, že se uvolníte a necháte odejít starosti dne."
       },
       {
-        "title": "Čištění vsedě",
+        "title": "Čištění",
         "text": "Pohodlně sedíte, zatímco začíná první část čištění."
       },
       {
-        "title": "Vyvažování vestoje",
+        "title": "Vyvažování",
         "text": "Asi 20–30 minut stojíte, zatímco se vyvažují vaše čakry a éterické tělo."
       },
       {
-        "title": "Aktivace vsedě",
+        "title": "Aktivace",
         "text": "Znovu se posadíte a přijmete aktivaci 22 vláken své DNA."
       },
       {
@@ -505,7 +505,7 @@
     "handsAlt": "Praktik držící ručně obalený krystalový nástroj",
     "hands": [
       "Life Activation smějí dávat pouze praktici certifikovaní přímo Modern Mystery School International a svou certifikaci každý rok obnovují.",
-      "Diana a Radu jsou oba certifikovaní Life Activation praktici. Vřele vás přivítají, vysvětlí každý krok a zůstanou po vašem boku i v týdnech, které následují."
+      "Diana a Radu jsou oba certifikovaní Life Activation praktici. Vřele vás přivítají, pracují s jemností a grácií a zůstanou po vašem boku i v týdnech, které následují."
     ],
     "handsLink": "Naše certifikace",
     "wandsAlt": "Kruh ručně obalených krystalových hůlek používaných při Life Activation",
@@ -2155,7 +2155,8 @@
       },
       {
         "q": "Má praktik certifikaci?",
-        "a": "Ano. Provádět ji smějí pouze praktici certifikovaní přímo Modern Mystery School International a každý rok se znovu certifikují."
+        "a": "Ano. Provádět ji smějí pouze praktici certifikovaní přímo <link>Modern Mystery School International</link> a každý rok se znovu certifikují.",
+        "href": "https://modernmysteryschoolint.com/"
       }
     ]
   },

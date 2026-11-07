@@ -519,12 +519,10 @@ Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
 lucide-react
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 /images/life-activation
-l-hmjKzpNeo
-/full-spirit-activation
 The Modern Mystery School · Lineage of King Salomon
 Activate the innate gifts that reside in your DNA
 Clear 5–7 generations of ancestral trauma and step into your highest potential
-Additional Procedures for Balancing and Transformation
+A Closer Look at Your Session
 In addition to the activation itself, the session includes supplementary procedures designed to balance and stimulate the body in alignment with the newly activated information from the DNA.
 Emotional Blockage Removal:
 Focused on clearing potential emotional blockages from the crown chakra, this process creates a better flow of energy.
@@ -544,7 +542,7 @@ Energy Spray (Spagyrics):
 A spray created in the school's alchemy laboratory, designed to detoxify, support, and ease the physical and energetic changes associated with this unique experience.
 Explore the Higher Dimensions
 DNA Activation is a return to the self—a session that not only brings light into the darkness of life but also opens doors to unlimited potential.
-At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deeply transformative way. It is a step toward living life with greater energy, clarity, and awareness.
+At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deeply transformative way. You can continue this journey by taking the classes and initiation offered by the Mystery School.
 This is a groundbreaking method for inner transformation and unlocking your personal potential . It combines ancient wisdom with modern energies to help you grow and evolve. This technique is offered by the Modern Mystery School through Certified Life Activation Practitioners. It serves as a gateway to higher consciousness and spiritual expansion.
 Meet Your Authentic Power and Higher Self!
 2 Hours
@@ -572,7 +570,7 @@ You don't need any spiritual background. If one of these sounds like you, this m
 Business owners
 For clear decisions and the energy to lead.
 Parents
-For patience, calm and more of yourself to give.
+For patience, calm and more energy to spend with your children.
 Students
 For focus, and confidence in the path you choose.
 Artists and creatives
@@ -588,13 +586,13 @@ For a fresh start when the same patterns keep coming back.
 Your Session, Step by Step
 About two hours, in person in Prague. There is nothing to prepare: you only need to receive.
 Sacred tools prepared for a session: a golden ankh, crystals and wrapped wands
-We talk first
-We take time to get to know you and answer all your questions.
-The clearing, seated
+Settle in and relax
+You begin by relaxing and letting go of the worries of the day.
+The clearing
 You sit comfortably while the first part of the clearing begins.
-The balancing, standing
+The balancing
 For about 20–30 minutes you stand while your chakras and etheric body are balanced.
-The activation, seated
+The activation
 You sit again to receive the activation of 22 strands of your DNA.
 A short reading
 A brief reading from your newly activated DNA, with insights and guidance just for you.
@@ -603,7 +601,7 @@ The activation keeps unfolding for one to three months, and we stay in touch wit
 In Certified Hands
 A practitioner holding a hand-wrapped crystal tool
 Only practitioners certified directly by Modern Mystery School International may give a Life Activation, and they renew their certification every year.
-Diana and Radu are both certified Life Activation Practitioners. They welcome you warmly, explain every step, and stay by your side in the weeks that follow.
+Diana and Radu are both certified Life Activation Practitioners. They welcome you warmly, work with gentleness and grace, and stay by your side in the weeks that follow.
 See our certifications
 A circle of hand-wrapped crystal wands used in Life Activation sessions
 The two-day class and initiation into the lineage of King Salomon, where you learn powerful rituals to use every day.
@@ -1903,6 +1901,9 @@ Community evenings
 Still not sure?
 Write to us and we'll help you choose.
 Hello, I'm not sure where to start. Could you help me choose?
+
+## PAGE: (component) mms-link.tsx
+text-primary underline underline-offset-4 hover:opacity-80
 
 ## PAGE: (component) modality-faq.tsx
 ./ui/accordion

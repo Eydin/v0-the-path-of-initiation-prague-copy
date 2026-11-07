@@ -19,7 +19,7 @@ export function PhotoStory({
   image: string
   alt: string
   heading: string
-  paragraphs: string[]
+  paragraphs: React.ReactNode[]
   reverse?: boolean
   portrait?: boolean
   children?: React.ReactNode
