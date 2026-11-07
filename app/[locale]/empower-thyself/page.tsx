@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import Image from "next/image"
 import { getTranslations } from "next-intl/server"
 import { BRAND } from "@/lib/brand-names"
-import { CalcomEmbed } from "@/components/calcom-embed"
+import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
 import {
   ModalityShell,
   ImageHero,
@@ -12,7 +12,16 @@ import {
   BenefitList,
   BookingBlock,
   VideoEmbed,
+  type CalEmbed,
 } from "@/components/modality"
+
+const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/empower-thyself"
+const CAL_NAMESPACE = "empower-thyself"
+const CAL_EMBED: CalEmbed = {
+  link: "all/empower-thyself",
+  namespace: CAL_NAMESPACE,
+  config: { layout: "month_view", useSlotsViewOnSmallScreen: "true" },
+}
 
 const bold = (chunks: React.ReactNode) => <span className="font-semibold text-primary">{chunks}</span>
 
@@ -47,6 +56,7 @@ export default async function EmpowerThyself({
 
   return (
     <ModalityShell bg="accolade-leighton.jpg" position="center 20%" veil={false}>
+      <CalcomPopupLoader namespace={CAL_NAMESPACE} />
       <ImageHero
         image="empower-thyself-altar.jpg"
         position="62% 40%"
@@ -54,7 +64,7 @@ export default async function EmpowerThyself({
         eyebrow={t("heroEyebrow")}
         title={BRAND.empowerThyself}
         subtitle={t("heroSubtitle")}
-        cta={{ href: "#inscriere-eveniment", label: tModality("bookNow") }}
+        cta={{ href: BOOKING_URL, label: tModality("bookNow"), external: true, calEmbed: CAL_EMBED }}
       />
 
       {/* Booking card first, straight under the header */}
@@ -64,6 +74,8 @@ export default async function EmpowerThyself({
         investment="36.500 CZK"
         duration={t("duration")}
         inquiry={inquiry}
+        bookHref={BOOKING_URL}
+        bookCalEmbed={CAL_EMBED}
         note={t("bookingNote")}
       >
         <div className="mx-auto max-w-2xl space-y-3 text-foreground">
@@ -73,12 +85,6 @@ export default async function EmpowerThyself({
           <p className="leading-relaxed">{t("bookingExtra.remainder")}</p>
         </div>
       </BookingBlock>
-
-      {/* Live booking calendar, embedded directly on the page */}
-      <Panel>
-        <PanelHeading>{t("calendarHeading")}</PanelHeading>
-        <CalcomEmbed calLink="all/empower-thyself" namespace="empower-thyself" />
-      </Panel>
 
       {/* Invitation + key image */}
       <Panel wide>

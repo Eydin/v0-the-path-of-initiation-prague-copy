@@ -16,6 +16,33 @@ export const MMS_UK_CALENDAR_URL = "https://modernmysteryschooluk.com/calendar/"
 export const WHATSAPP_NUMBER = "420792908296"
 export const CONTACT_EMAIL = "radu@thepathofinitiationprague.com"
 
+// ── Cal.com booking popup ───────────────────────────────────────────────
+export const CAL_ORIGIN = "https://booking.thepathofinitiationprague.com"
+
+/** Wires a button/link up to Cal.com's "pop up via element click" embed
+ *  (see CalcomPopupLoader) instead of navigating - pass to a `cta`/`bookCalEmbed`
+ *  prop alongside the normal href, which stays as a right-click/no-JS fallback. */
+export type CalEmbed = {
+  /** e.g. "all/empower-thyself" */
+  link: string
+  namespace: string
+  config?: Record<string, string>
+}
+
+function calEmbedAttrs(calEmbed?: CalEmbed) {
+  if (!calEmbed) return {}
+  return {
+    // Cal's own click listener (bound on document) opens the modal but never
+    // calls preventDefault, so a plain click would also navigate/open a new
+    // tab via href unless we stop that ourselves.
+    onClick: (e: React.MouseEvent) => e.preventDefault(),
+    "data-cal-link": calEmbed.link,
+    "data-cal-namespace": calEmbed.namespace,
+    "data-cal-origin": CAL_ORIGIN,
+    "data-cal-config": JSON.stringify(calEmbed.config ?? { layout: "month_view" }),
+  }
+}
+
 export function waLink(text: string) {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`
 }
@@ -200,7 +227,7 @@ export function ImageHero({
    *  "deep-gold" reads on pale artwork (Life Activation's ceiling), "gold" (Hestia's bright gold)
    *  on darker paintings, "cream" on golden artwork (Vitruvian Man) where gold vanishes */
   accent?: "deep-gold" | "gold" | "cream"
-  cta?: { href: string; label: string; external?: boolean }
+  cta?: { href: string; label: string; external?: boolean; calEmbed?: CalEmbed }
   /** quiet text link beside the button, e.g. "ask a question first" */
   secondary?: { href: string; label: string; external?: boolean }
 }) {
@@ -274,6 +301,7 @@ export function ImageHero({
                   <a
                     href={cta.href}
                     {...(cta.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+                    {...calEmbedAttrs(cta.calEmbed)}
                     className="inline-flex items-center gap-2 rounded-sm bg-[#6e1426] px-7 py-3.5 font-[family-name:var(--font-display)] text-sm uppercase tracking-[0.16em] text-[#fbf6ec] transition-colors [text-shadow:none] hover:bg-[#85192f]"
                   >
                     {cta.label}
@@ -419,6 +447,7 @@ export function BookingBlock({
   id,
   bookHref,
   bookLabel,
+  bookCalEmbed,
   children,
   note,
   kind,
@@ -434,6 +463,8 @@ export function BookingBlock({
   /** Optional direct checkout (Stripe) link — renders a prominent Book Now button. */
   bookHref?: string
   bookLabel?: string
+  /** Wires the Book Now button to open the Cal.com booking popup instead of navigating. bookHref stays as the plain-navigation fallback. */
+  bookCalEmbed?: CalEmbed
   /** Optional extra detail (e.g. deposit breakdown) shown above the buttons. */
   children?: ReactNode
   note?: string
@@ -500,6 +531,7 @@ export function BookingBlock({
                     href={bookHref}
                     target="_blank"
                     rel="noopener noreferrer"
+                    {...calEmbedAttrs(bookCalEmbed)}
                     className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-12 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
                   >
                     {bookLabel ?? t("bookNow")}
