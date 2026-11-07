@@ -12,7 +12,9 @@
   },
   "Header": {
     "activationsGroup": "Aktivace a iniciace",
-    "healingGroup": "Léčení a workshopy",
+    "healingGroup": "Léčení",
+    "healingWorkshopsGroup": "Léčení a workshopy",
+    "workshopsGroup": "Workshopy",
     "aboutGroup": "O nás",
     "beginJourney": "Začněte svou cestu",
     "nav": {

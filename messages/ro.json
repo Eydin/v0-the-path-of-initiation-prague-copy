@@ -12,7 +12,9 @@
   },
   "Header": {
     "activationsGroup": "Activări și inițieri",
-    "healingGroup": "Vindecare și ateliere",
+    "healingGroup": "Vindecări",
+    "healingWorkshopsGroup": "Vindecare și ateliere",
+    "workshopsGroup": "Ateliere",
     "aboutGroup": "Despre noi",
     "beginJourney": "Începe-ți călătoria",
     "nav": {

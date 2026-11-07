@@ -231,7 +231,9 @@ center 40%
 
 ## PAGE: /empower-thyself
 Radu Coman
-https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
+empower-thyself
+all/empower-thyself
+month_view
 A Two-Day Program
 Initiation into the Lineage of King Salomon
 If you could be like God — filled with love, harmony, and creative power — would you do it?
@@ -1441,6 +1443,7 @@ Not Sure Which Class Is Right for You?
 Reach out and we will help you choose the class that fits where you are right now.
 Hello, I would like to learn more about your classes and workshops.
 Activations & Initiations
+Healings
 Healing & Workshops
 About
 Begin Your Journey
@@ -1701,7 +1704,9 @@ Privacy Policy
 Terms and Conditions
 Withdraw from a Contract
 Activations & Initiations
+Healings
 Healing & Workshops
+Workshops
 About
 Begin Your Journey
 Meditation and Prayer
@@ -1794,7 +1799,9 @@ Portraits: historical artworks & photographs, Wikimedia Commons.
 ## PAGE: (component) header.tsx
 PATH OF
 Activations & Initiations
+Healings
 Healing & Workshops
+Workshops
 About
 Begin Your Journey
 Meditation and Prayer
@@ -1918,6 +1925,11 @@ We are certified Modern Mystery School practitioners and teachers. Whichever of 
 
 ## PAGE: (component) modality.tsx
 radu@thepathofinitiationprague.com
+data-cal-link
+data-cal-namespace
+data-cal-origin
+data-cal-config
+month_view
 noopener noreferrer
 inscriere-eveniment
 investment

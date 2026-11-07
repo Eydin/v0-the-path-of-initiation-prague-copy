@@ -51,6 +51,9 @@ export function Header() {
   const healing = [
     { href: "/healings", label: t("nav.healings") },
     { href: "/specialty-healings", label: t("nav.specialtyHealings") },
+  ]
+
+  const workshops = [
     { href: "/workshops", label: t("nav.workshops") },
     { href: "/meditation-and-prayer", label: t("nav.meditationPrayer") },
   ]
@@ -86,6 +89,7 @@ export function Header() {
         <nav className="hidden items-center gap-7 lg:flex">
           <DropdownLink label={t("activationsGroup")} items={activations} />
           <DropdownLink label={t("healingGroup")} items={healing} />
+          <DropdownLink label={t("workshopsGroup")} items={workshops} />
           <DropdownLink label={t("aboutGroup")} items={aboutLinks} />
           {simpleLinks.map((link) => (
             <Link
@@ -138,6 +142,21 @@ export function Header() {
               <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">{t("healingGroup")}</p>
               <div className="flex flex-col gap-2.5 pl-1">
                 {healing.map((link) => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary"
+                    onClick={() => setMobileMenuOpen(false)}
+                  >
+                    {link.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+            <div>
+              <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary">{t("workshopsGroup")}</p>
+              <div className="flex flex-col gap-2.5 pl-1">
+                {workshops.map((link) => (
                   <Link
                     key={link.href}
                     href={link.href}

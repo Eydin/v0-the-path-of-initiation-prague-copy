@@ -12,7 +12,9 @@
   },
   "Header": {
     "activationsGroup": "Activations & Initiations",
-    "healingGroup": "Healing & Workshops",
+    "healingGroup": "Healings",
+    "healingWorkshopsGroup": "Healing & Workshops",
+    "workshopsGroup": "Workshops",
     "aboutGroup": "About",
     "beginJourney": "Begin Your Journey",
     "nav": {

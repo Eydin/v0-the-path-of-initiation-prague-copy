@@ -1,6 +1,6 @@
 ---
 name: poip-website
-description: Reference for working on this repo — "The Path of Initiation Prague" (Radu Coman's Modern Mystery School site). Covers the Next.js/next-intl architecture, the file map for pages/blog/schedule/chatbot-knowledge, i18n & translation conventions, editorial conventions, and known gotchas on this Windows dev machine (Nodist, OneDrive-locked builds, stray dev servers). Load this before making any change to the site so you don't have to re-derive the architecture from scratch.
+description: Reference for working on this repo — "The Path of Initiation Prague" (Radu Coman's Modern Mystery School site). Covers the Next.js/next-intl architecture, the file map for pages/blog/schedule/chatbot-knowledge, i18n & translation conventions, editorial conventions, how the Cal.com booking popup ("Book Now") is wired up and maintained per event/session page, and known gotchas on this Windows dev machine (Nodist, OneDrive-locked builds, stray dev servers). Load this before making any change to the site so you don't have to re-derive the architecture from scratch.
 ---
 
 # The Path of Initiation Prague — working reference
@@ -82,6 +82,97 @@ scratch every time — read it fully before starting non-trivial work here.
   pages here) + per-locale expansion; blog posts get one entry per locale
   only if `hasTranslation()` is true for that locale.
 
+## Cal.com booking popup (per event/session page)
+
+Pages with a **real, locally-run** class or session (as opposed to a
+referral page — see Editorial conventions below) should let the booker pick
+a date and book **without leaving the page**: clicking "Book Now" opens the
+live Cal.com booking calendar as a popup overlay on top of the current page.
+This is implemented once, generically, and reused per page — don't rebuild
+the embed mechanics from scratch.
+
+**The booking backend is a separate, sibling repo and deployment**:
+self-hosted Cal.com at `booking.thepathofinitiationprague.com`, source in
+`poip-booking-calcom` (a different Vercel project, different git repo from
+this site). This repo only needs to know each event type's **calLink**
+(`<organizer-username>/<event-slug>`) — everything else (price, dates,
+payment, confirmation) is configured and lives over there.
+
+### Wiring up a new page
+
+1. Find the event type's calLink. The organizer username on this instance
+   is **`all`**. Known slugs so far (confirm before reusing — Cal.com slugs
+   don't always match the marketing-site route):
+   - Empower Thyself → `all/empower-thyself`
+   - Sacred Geometry 1 Class → `all/sacred-geometry-1-class`
+   - Life Activation → `all/secret` (⚠️ slug is literally "secret", not
+     "life-activation" — don't guess it from the page route)
+
+   If you need a slug that isn't listed here: if this session has the
+   `calcom-event-types` MCP server connected (a local, per-machine config in
+   `poip-booking-calcom`'s `mcp-server/index.mjs`, registered in
+   `~/.claude.json` — not guaranteed available in every environment), use
+   its `list_event_types`/`get_event_type` tools. Otherwise, log into the
+   Cal.com dashboard → Event types → "..." menu on the event → **Embed** →
+   **"Pop up via element click"** → **React (iframe)** tab, which prints the
+   exact `data-cal-*` attributes for that event (don't retype them from
+   memory — copy what it shows).
+
+2. In the page file, add:
+   ```tsx
+   import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
+   import { ..., type CalEmbed } from "@/components/modality"
+
+   const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/<slug>"
+   const CAL_NAMESPACE = "<slug>"
+   const CAL_EMBED: CalEmbed = {
+     link: "all/<slug>",
+     namespace: CAL_NAMESPACE,
+     config: { layout: "month_view", useSlotsViewOnSmallScreen: "true" },
+   }
+   ```
+   Mount `<CalcomPopupLoader namespace={CAL_NAMESPACE} />` once, anywhere
+   inside `<ModalityShell>` (it renders nothing, just loads Cal's embed
+   script for that namespace). Then pass `calEmbed={CAL_EMBED}` alongside
+   the existing `href`/`bookHref` on `ImageHero`'s `cta` and on
+   `BookingBlock` (as `bookCalEmbed`) — see `app/[locale]/empower-thyself/page.tsx`
+   for the complete, working reference. The real `href` stays as a working
+   link (right-click → open in new tab, or if JS fails); the popup is what
+   actually fires on a normal click.
+
+3. `tsc --noEmit` and a dev-server click-through (see Verification habits)
+   — don't skip the live click test; see the gotcha below.
+
+### The gotcha already solved for you
+
+Cal.com's embed script (`embed-core`) attaches a single `document`-level
+click listener for any element carrying `data-cal-link` that opens the
+popup — but it **never calls `event.preventDefault()`**. Left alone, a
+normal `<a href>` with these attributes both opens the popup *and* follows
+the link (same tab, or a stray new tab if `target="_blank"` is set). The
+`calEmbedAttrs()` helper in `components/modality.tsx` already attaches its
+own `onClick={(e) => e.preventDefault()}` to cancel that. If you ever wire
+up a **new, bespoke** trigger element instead of going through
+`ImageHero`/`BookingBlock`, you must replicate this yourself or clicking
+will misbehave exactly this way (confirmed by reading Cal's actual bundled
+source, not assumed from docs — the official docs don't mention it).
+
+### Maintaining an existing booking
+
+- Price, available dates, payment method, deposit/full-payment options,
+  confirmation flow: all live in Cal.com itself (the event type's settings
+  on `booking.thepathofinitiationprague.com`, or via the
+  `calcom-event-types` MCP server when connected). Changing them does **not**
+  require a change in this repo.
+- This repo only needs a change if: the Cal.com event slug changes (update
+  `BOOKING_URL`/`CAL_EMBED.link` on that page), or the page's own displayed
+  copy (investment/duration text, booking note) needs to match something
+  that changed over there.
+- Currently wired up this way: **Empower Thyself** only. Life Activation and
+  Sacred Geometry 1 Class are real local bookings too but still use the
+  plain pre-popup pattern — converting them is just following "Wiring up a
+  new page" above with their known slugs.
+
 ## Key file map
 
 | What | Where |
@@ -97,7 +188,8 @@ scratch every time — read it fully before starting non-trivial work here.
 | Chatbot knowledge generator | `scripts/build-knowledge.mjs` |
 | Chatbot knowledge (generated, don't hand-edit) | `lib/chatbot/site-knowledge.ts` |
 | Chatbot knowledge (hand-written facts + combiner) | `lib/chatbot/knowledge.ts` |
-| Shared page-shell components | `components/modality.tsx` |
+| Shared page-shell components; `CalEmbed` type + `calEmbedAttrs` helper | `components/modality.tsx` |
+| Loads Cal.com's embed script for the booking popup (mount once per page) | `components/calcom-popup-loader.tsx` |
 | Site nav (desktop + mobile, **both** live here) | `components/header.tsx` |
 | Footer nav | `components/footer.tsx` |
 | Sacred Geometry I–IV cross-links | `components/sacred-geometry-series-links.tsx` |

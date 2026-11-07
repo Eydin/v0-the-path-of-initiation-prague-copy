@@ -62,7 +62,7 @@ export function Footer() {
 
           {/* Healing */}
           <div>
-            <p className="mb-4 font-serif text-xs uppercase tracking-[0.3em] text-primary">{tNav("healingGroup")}</p>
+            <p className="mb-4 font-serif text-xs uppercase tracking-[0.3em] text-primary">{tNav("healingWorkshopsGroup")}</p>
             <div className="flex flex-col gap-2.5">
               {healing.map((l) => (
                 <Link
