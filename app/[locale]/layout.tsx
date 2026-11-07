@@ -359,7 +359,7 @@ export default async function LocaleLayout({
   };
 
   return (
-    <html lang={locale} className={`${inter.variable} ${playfair.variable} ${saira.variable}`}>
+    <html lang={locale} data-scroll-behavior="smooth" className={`${inter.variable} ${playfair.variable} ${saira.variable}`}>
       <head>
         <script
           type="application/ld+json"
