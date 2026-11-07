@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import Image from "next/image"
 import { getTranslations } from "next-intl/server"
 import { BRAND } from "@/lib/brand-names"
+import { CalcomEmbed } from "@/components/calcom-embed"
 import {
   ModalityShell,
   ImageHero,
@@ -12,8 +13,6 @@ import {
   BookingBlock,
   VideoEmbed,
 } from "@/components/modality"
-
-const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/empower-thyself"
 
 const bold = (chunks: React.ReactNode) => <span className="font-semibold text-primary">{chunks}</span>
 
@@ -55,7 +54,7 @@ export default async function EmpowerThyself({
         eyebrow={t("heroEyebrow")}
         title={BRAND.empowerThyself}
         subtitle={t("heroSubtitle")}
-        cta={{ href: BOOKING_URL, label: tModality("bookNow"), external: true }}
+        cta={{ href: "#inscriere-eveniment", label: tModality("bookNow") }}
       />
 
       {/* Booking card first, straight under the header */}
@@ -65,7 +64,6 @@ export default async function EmpowerThyself({
         investment="36.500 CZK"
         duration={t("duration")}
         inquiry={inquiry}
-        bookHref={BOOKING_URL}
         note={t("bookingNote")}
       >
         <div className="mx-auto max-w-2xl space-y-3 text-foreground">
@@ -75,6 +73,12 @@ export default async function EmpowerThyself({
           <p className="leading-relaxed">{t("bookingExtra.remainder")}</p>
         </div>
       </BookingBlock>
+
+      {/* Live booking calendar, embedded directly on the page */}
+      <Panel>
+        <PanelHeading>{t("calendarHeading")}</PanelHeading>
+        <CalcomEmbed calLink="all/empower-thyself" namespace="empower-thyself" />
+      </Panel>
 
       {/* Invitation + key image */}
       <Panel wide>
