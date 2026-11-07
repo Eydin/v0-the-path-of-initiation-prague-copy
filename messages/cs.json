@@ -356,27 +356,41 @@
     "heroEyebrow": "Modern Mystery School · Linie krále Šalomouna",
     "heroSubtitle": "Aktivujte vrozené dary, které přebývají ve vaší DNA",
     "heroTagline": "Vyčistěte 5–7 generací předků od traumat a vykročte ke svému nejvyššímu potenciálu",
-    "introLead": "{brand} – Modern Mystery School, linie krále Šalomouna",
-    "introBody": "{brand} je probuzení duše nabízené v tradici Modern Mystery School, navržené k zažehnutí božského potenciálu v každé lidské bytosti. Toto silné sezení aktivuje 22 z 24 vláken DNA (11 fyzických a 11 duchovních), čímž otevírá bránu k hlubšímu spojení s vaším Božským Já. Tím se zvyšuje vaše schopnost přijímat, obíhat a udržovat více Světla — což podporuje léčení, jasnost a duchovní růst.",
-    "benefitsHeading": "Přínosy {brand}",
-    "benefits": [
-      { "label": "Hluboké spojení s Božským Já:", "text": "Life Activation usnadňuje hlubší spojení s vaším Božským Já a umožňuje projev vašich vnitřních zdrojů, talentů a potenciálu." },
-      { "label": "Energie a jasnost:", "text": "Zážitek přináší vlivnou dávku energie a jasnosti do všech oblastí života a podporuje vaši schopnost sebejistě zvládat každodenní život." },
-      { "label": "Projev talentů a schopností:", "text": "Probuzením vnitřního potenciálu se stáváte vnímavějšími a schopnějšími plněji vyjadřovat své jedinečné talenty a schopnosti." },
-      { "label": "Proměna těla a uvolnění karmy:", "text": "Life Activation zahajuje proces proměny v těle a pomáhá uvolnit emocionální a mentální vzorce uložené v DNA, známé jako „karma“." },
-      { "label": "Rozšířené využití mozkové kapacity:", "text": "Díky tomuto zážitku se posiluje schopnost čerpat z většího potenciálu mozku a vynáší na světlo dříve přehlížené nebo dřímající schopnosti." }
-    ],
     "proceduresHeading": "Doplňkové procedury pro vyvážení a proměnu",
     "proceduresLead": "Kromě samotné aktivace zahrnuje sezení doplňkové procedury navržené k vyvážení a stimulaci těla v souladu s nově aktivovanými informacemi z DNA.",
     "procedures": [
-      { "label": "Odstranění emocionálních bloků:", "text": "Zaměřeno na odstranění případných emocionálních bloků z korunní čakry, tento proces vytváří lepší proudění energie." },
-      { "label": "Vyvážení centrálního jádra:", "text": "Tento proces harmonizuje energie proudící centrálním jádrem a podporuje vyrovnání a rovnováhu celého energetického systému." },
-      { "label": "Otevření 16 lotosových okvětních lístků:", "text": "Toto posiluje spojení s Elementálními energiemi — Zemí, Vodou, Vzduchem a Ohněm — a dává vám více jejich vlastností a síly." },
-      { "label": "Vyvážení elementálních a magnetických energetických linií:", "text": "Toto vyvažuje a harmonizuje energetické linie procházející tělem a podporuje plynulé a sladěné proudění energie." },
-      { "label": "Vyvážení čaker:", "text": "Toto přináší harmonii a vyrovnání do energetických center těla." },
-      { "label": "Odstranění vypálených éterických krystalů z těla:", "text": "Tato procedura je určena k očistě a revitalizaci energetického těla." },
-      { "label": "Krátké čtení z vaší nově aktivované DNA:", "text": "Krátké prozkoumání vrstev podvědomí, které vám přinese vhled a vedení." },
-      { "label": "Homeopatický lék:", "text": "Homeopatický lék vytvořený v alchymistické laboratoři školy, navržený k detoxikaci, podpoře a zmírnění fyzických a energetických změn spojených s tímto jedinečným zážitkem." }
+      {
+        "label": "Odstranění emocionálních bloků:",
+        "text": "Zaměřeno na odstranění případných emocionálních bloků z korunní čakry, tento proces vytváří lepší proudění energie."
+      },
+      {
+        "label": "Vyvážení centrálního jádra:",
+        "text": "Tento proces harmonizuje energie proudící centrálním jádrem a podporuje vyrovnání a rovnováhu celého energetického systému."
+      },
+      {
+        "label": "Otevření 16 lotosových okvětních lístků:",
+        "text": "Toto posiluje spojení s Elementálními energiemi — Zemí, Vodou, Vzduchem a Ohněm — a dává vám více jejich vlastností a síly."
+      },
+      {
+        "label": "Vyvážení elementálních a magnetických energetických linií:",
+        "text": "Toto vyvažuje a harmonizuje energetické linie procházející tělem a podporuje plynulé a sladěné proudění energie."
+      },
+      {
+        "label": "Vyvážení čaker:",
+        "text": "Toto přináší harmonii a vyrovnání do energetických center těla."
+      },
+      {
+        "label": "Odstranění vypálených éterických krystalů z těla:",
+        "text": "Tato procedura je určena k očistě a revitalizaci energetického těla."
+      },
+      {
+        "label": "Krátké čtení z vaší nově aktivované DNA:",
+        "text": "Krátké prozkoumání vrstev podvědomí, které vám přinese vhled a vedení."
+      },
+      {
+        "label": "Homeopatický lék:",
+        "text": "Homeopatický lék vytvořený v alchymistické laboratoři školy, navržený k detoxikaci, podpoře a zmírnění fyzických a energetických změn spojených s tímto jedinečným zážitkem."
+      }
     ],
     "exploreHeading": "Objevte vyšší dimenze",
     "exploreBody1": "Aktivace DNA je návratem k sobě samému — sezení, které nejen přináší světlo do temnoty života, ale také otevírá dveře k neomezenému potenciálu.",
@@ -386,7 +400,125 @@
     "bookingTitle": "Poznejte svou autentickou sílu a vyšší já!",
     "duration": "2 hodiny",
     "bookingNote": "Po dokončení platby vás budeme kontaktovat, abychom domluvili termín.",
-    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand}."
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand}.",
+    "awakenHeading": "Probuďte více z toho, kým skutečně jste",
+    "awakenAlt": "Zářící vlákno DNA rozsvícené body zlatého světla",
+    "awaken": [
+      "Dary, jasnost a síla, které hledáte, už možná ve vás jsou a čekají, až se probudí. Life Activation je sezení, které je probouzí.",
+      "Pochází z linie krále Šalomouna, která se udržuje živá tisíce let a dnes ji předává Modern Mystery School. Během sezení se aktivuje 22 z vašich 24 vláken DNA: 11 fyzických a 11 duchovních. Díky tomu můžete přijmout a udržet více Světla, životní síly, která podporuje vaše uzdravení, jasnost a růst.",
+      "Zároveň čistí to, co si nesete ze své rodové linie, až 5–7 generací zpět, abyste mohli vstoupit do svého nejvyššího potenciálu."
+    ],
+    "giftsHeading": "Co vám může přinést",
+    "giftsIntro": "Každý člověk je jiný, ale o těchto změnách nám lidé vyprávějí nejčastěji.",
+    "gifts": [
+      {
+        "label": "Jasnost",
+        "text": "Vidíte svůj život a svá rozhodnutí jasněji a rozhodování je lehčí."
+      },
+      {
+        "label": "Více energie",
+        "text": "Nový proud energie do všech oblastí vašeho života, takže každý den se nese snáz."
+      },
+      {
+        "label": "Silnější intuice",
+        "text": "Svůj vnitřní hlas slyšíte zřetelněji a učíte se mu důvěřovat."
+      },
+      {
+        "label": "Probuzené talenty",
+        "text": "Dary, které spaly, vystupují na povrch a je snazší je projevit."
+      },
+      {
+        "label": "Svoboda od starých vzorců",
+        "text": "Emoční a myšlenkové vzorce uložené ve vaší DNA, známé jako karma, se začnou uvolňovat, včetně těch předávaných ve vaší rodině."
+      },
+      {
+        "label": "Vaše Božské Já",
+        "text": "Hlubší spojení s tím, kým skutečně jste, a s vnitřními zdroji a potenciálem, které k tomu patří."
+      }
+    ],
+    "forWhomHeading": "Je {brand} pro vás?",
+    "forWhomIntro": "Nepotřebujete žádné duchovní zázemí. Pokud se v něčem z toho poznáváte, možná je to vaše chvíle.",
+    "forWhom": [
+      {
+        "who": "Podnikatelé",
+        "text": "Pro jasná rozhodnutí a energii vést."
+      },
+      {
+        "who": "Rodiče",
+        "text": "Pro trpělivost, klid a více sebe, co můžete dát."
+      },
+      {
+        "who": "Studenti",
+        "text": "Pro soustředění a důvěru v cestu, kterou si zvolíte."
+      },
+      {
+        "who": "Umělci a tvůrci",
+        "text": "Pro novou inspiraci a odvahu ji sdílet."
+      },
+      {
+        "who": "Léčitelé a terapeuti",
+        "text": "Pro silnější a čistší kanál pro vaši práci."
+      },
+      {
+        "who": "Zaneprázdnění profesionálové",
+        "text": "Pro rovnováhu a energii, která vydrží celý týden."
+      },
+      {
+        "who": "Hledající smysl",
+        "text": "Pro odpovědi na to, proč jste tady a co přijde dál."
+      },
+      {
+        "who": "Každý, kdo se cítí zaseknutý",
+        "text": "Pro nový začátek, když se stále vracejí stejné vzorce."
+      }
+    ],
+    "stepsHeading": "Vaše sezení krok za krokem",
+    "stepsIntro": "Asi dvě hodiny, osobně v Praze. Není třeba nic připravovat: stačí jen přijímat.",
+    "stepsAlt": "Posvátné nástroje připravené na sezení: zlatý ankh, krystaly a obalené hůlky",
+    "steps": [
+      {
+        "title": "Nejdřív si promluvíme",
+        "text": "Uděláme si čas, abychom vás poznali a odpověděli na všechny vaše otázky."
+      },
+      {
+        "title": "Čištění vsedě",
+        "text": "Pohodlně sedíte, zatímco začíná první část čištění."
+      },
+      {
+        "title": "Vyvažování vestoje",
+        "text": "Asi 20–30 minut stojíte, zatímco se vyvažují vaše čakry a éterické tělo."
+      },
+      {
+        "title": "Aktivace vsedě",
+        "text": "Znovu se posadíte a přijmete aktivaci 22 vláken své DNA."
+      },
+      {
+        "title": "Krátké čtení",
+        "text": "Krátké čtení z vaší nově aktivované DNA, s vhledy a vedením přímo pro vás."
+      },
+      {
+        "title": "Týdny potom",
+        "text": "Aktivace se dál rozvíjí jeden až tři měsíce a po celou tu dobu jsme s vámi v kontaktu."
+      }
+    ],
+    "handsHeading": "V certifikovaných rukou",
+    "handsAlt": "Praktik držící ručně obalený krystalový nástroj",
+    "hands": [
+      "Life Activation smějí dávat pouze praktici certifikovaní přímo Modern Mystery School International a svou certifikaci každý rok obnovují.",
+      "Diana a Radu jsou oba certifikovaní Life Activation praktici. Vřele vás přivítají, vysvětlí každý krok a zůstanou po vašem boku i v týdnech, které následují."
+    ],
+    "handsLink": "Naše certifikace",
+    "wandsAlt": "Kruh ručně obalených krystalových hůlek používaných při Life Activation",
+    "nextHeading": "Po vaší {brand}",
+    "nextIntro": "{brand} je začátek. Až budete připraveni, toto jsou další kroky na cestě.",
+    "nextFsa": "Přijímá se po {brand} a probouzí a ukotvuje vaši duši a ducha ve vašem těle.",
+    "nextEmpower": "Dvoudenní kurz a iniciace do linie krále Šalomouna, kde se naučíte mocné rituály pro každý den.",
+    "nextCta": "Zjistit více",
+    "videosEyebrow": "Jejich vlastními slovy",
+    "videosHeading": "Poslechněte si ty, kdo ji přijali",
+    "videoPart1": "Life Activation · část I",
+    "videoPart2": "Life Activation · část II",
+    "videoAbout": "O Life Activation · Dr. Theresa Bullard-Whyke"
   },
   "EmpowerThyself": {
     "heroEyebrow": "Dvoudenní program",

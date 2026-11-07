@@ -356,27 +356,41 @@
     "heroEyebrow": "Modern Mystery School · Linia regelui Solomon",
     "heroSubtitle": "Activează darurile înnăscute care rezidă în ADN-ul tău",
     "heroTagline": "Eliberează 5–7 generații de traumă ancestrală și pășește spre potențialul tău cel mai înalt",
-    "introLead": "{brand} – Modern Mystery School, linia regelui Solomon",
-    "introBody": "{brand} este o trezire a sufletului oferită prin tradiția Modern Mystery School, concepută pentru a aprinde potențialul divin din fiecare ființă umană. Această ședință puternică activează 22 din cele 24 de fire de ADN (11 fizice și 11 spirituale), deschizând poarta către o conexiune mai profundă cu Sinele tău Divin. Astfel, îți sporește capacitatea de a primi, de a face să circule și de a reține mai multă Lumină — susținând vindecarea, claritatea și creșterea spirituală.",
-    "benefitsHeading": "Beneficiile {brand}",
-    "benefits": [
-      { "label": "Conexiune profundă cu Sinele Divin:", "text": "Life Activation facilitează o conexiune mai profundă cu Sinele tău Divin, permițând manifestarea resurselor, talentelor și potențialului tău interior." },
-      { "label": "Energie și claritate:", "text": "Experiența aduce un aflux de energie și claritate în toate domeniile vieții, susținându-ți capacitatea de a naviga viața de zi cu zi cu încredere." },
-      { "label": "Manifestarea talentelor și abilităților:", "text": "Prin trezirea potențialului interior, devii mai conștient(ă) și mai capabil(ă) să-ți exprimi pe deplin talentele și abilitățile unice." },
-      { "label": "Transformarea corpului și eliberarea karmei:", "text": "Life Activation pornește un proces de transformare în corp, ajutând la eliberarea tiparelor emoționale și mentale stocate în ADN, cunoscute sub numele de „karma”." },
-      { "label": "Utilizarea extinsă a capacității creierului:", "text": "Prin această experiență, capacitatea de a accesa mai mult din potențialul creierului este sporită, aducând la lumină abilități anterior trecute cu vederea sau latente." }
-    ],
     "proceduresHeading": "Proceduri suplimentare pentru echilibrare și transformare",
     "proceduresLead": "Pe lângă activarea în sine, ședința include proceduri suplimentare concepute pentru a echilibra și stimula corpul în armonie cu informațiile nou activate din ADN.",
     "procedures": [
-      { "label": "Eliminarea blocajelor emoționale:", "text": "Concentrat pe eliminarea potențialelor blocaje emoționale din chakra coroanei, acest proces creează un flux mai bun de energie." },
-      { "label": "Echilibrarea nucleului central:", "text": "Acest proces armonizează energiile care circulă prin nucleul central, susținând alinierea și echilibrul întregului sistem energetic." },
-      { "label": "Deschiderea celor 16 petale de lotus:", "text": "Aceasta sporește conexiunea cu energiile Elementale — Pământ, Apă, Aer și Foc — oferindu-ți mai mult din calitățile și puterea lor." },
-      { "label": "Echilibrarea liniilor energetice elementale și magnetice:", "text": "Aceasta echilibrează și armonizează liniile energetice care traversează corpul, susținând un flux de energie fluid și aliniat." },
-      { "label": "Echilibrarea chakrelor:", "text": "Aceasta aduce armonie și aliniere centrelor energetice ale corpului." },
-      { "label": "Eliminarea cristalelor eterice arse din corp:", "text": "Această procedură are scopul de a curăța și revitaliza corpul energetic." },
-      { "label": "Scurtă lectură din ADN-ul tău nou activat:", "text": "O scurtă explorare a straturilor subconștientului, oferindu-ți perspective și îndrumare." },
-      { "label": "Remediu homeopat:", "text": "Un remediu homeopat creat în laboratorul de alchimie al școlii, conceput pentru a detoxifia, susține și ușura schimbările fizice și energetice asociate cu această experiență unică." }
+      {
+        "label": "Eliminarea blocajelor emoționale:",
+        "text": "Concentrat pe eliminarea potențialelor blocaje emoționale din chakra coroanei, acest proces creează un flux mai bun de energie."
+      },
+      {
+        "label": "Echilibrarea nucleului central:",
+        "text": "Acest proces armonizează energiile care circulă prin nucleul central, susținând alinierea și echilibrul întregului sistem energetic."
+      },
+      {
+        "label": "Deschiderea celor 16 petale de lotus:",
+        "text": "Aceasta sporește conexiunea cu energiile Elementale — Pământ, Apă, Aer și Foc — oferindu-ți mai mult din calitățile și puterea lor."
+      },
+      {
+        "label": "Echilibrarea liniilor energetice elementale și magnetice:",
+        "text": "Aceasta echilibrează și armonizează liniile energetice care traversează corpul, susținând un flux de energie fluid și aliniat."
+      },
+      {
+        "label": "Echilibrarea chakrelor:",
+        "text": "Aceasta aduce armonie și aliniere centrelor energetice ale corpului."
+      },
+      {
+        "label": "Eliminarea cristalelor eterice arse din corp:",
+        "text": "Această procedură are scopul de a curăța și revitaliza corpul energetic."
+      },
+      {
+        "label": "Scurtă lectură din ADN-ul tău nou activat:",
+        "text": "O scurtă explorare a straturilor subconștientului, oferindu-ți perspective și îndrumare."
+      },
+      {
+        "label": "Remediu homeopat:",
+        "text": "Un remediu homeopat creat în laboratorul de alchimie al școlii, conceput pentru a detoxifia, susține și ușura schimbările fizice și energetice asociate cu această experiență unică."
+      }
     ],
     "exploreHeading": "Explorează dimensiunile superioare",
     "exploreBody1": "Activarea ADN-ului este o întoarcere la sine — o ședință care nu doar aduce lumină în întunericul vieții, ci deschide și porți către un potențial nelimitat.",
@@ -386,7 +400,125 @@
     "bookingTitle": "Întâlnește-ți puterea autentică și sinele superior!",
     "duration": "2 ore",
     "bookingNote": "După finalizarea plății, te vom contacta pentru a stabili programarea.",
-    "inquiry": "Bună, aș dori să aflu mai multe despre {brand}."
+    "inquiry": "Bună, aș dori să aflu mai multe despre {brand}.",
+    "awakenHeading": "Trezește mai mult din cine ești cu adevărat",
+    "awakenAlt": "O spirală de ADN strălucitoare, luminată de puncte de lumină aurie",
+    "awaken": [
+      "Darurile, claritatea și puterea pe care le cauți s-ar putea să fie deja în tine, așteptând să se trezească. Life Activation este sesiunea care le trezește.",
+      "Vine din linia Regelui Solomon, păstrată vie de mii de ani și transmisă astăzi de Modern Mystery School. În sesiune, 22 dintre cele 24 de spirale ale ADN-ului tău sunt activate: 11 fizice și 11 spirituale. Astfel poți primi și păstra mai multă Lumină, forța vieții care îți susține vindecarea, claritatea și creșterea.",
+      "Curăță și ce ai purtat din linia familiei tale, până la 5–7 generații în urmă, ca să poți păși în cel mai înalt potențial al tău."
+    ],
+    "giftsHeading": "Ce îți poate aduce",
+    "giftsIntro": "Fiecare om este diferit, dar acestea sunt schimbările despre care ne povestesc oamenii cel mai des.",
+    "gifts": [
+      {
+        "label": "Claritate",
+        "text": "Îți vezi viața și alegerile mai limpede, iar deciziile devin mai ușoare."
+      },
+      {
+        "label": "Mai multă energie",
+        "text": "Un flux nou de energie în fiecare parte a vieții tale, ca fiecare zi să fie mai ușor de dus."
+      },
+      {
+        "label": "O intuiție mai puternică",
+        "text": "Îți auzi mai clar vocea interioară și înveți să ai încredere în ea."
+      },
+      {
+        "label": "Talentele tale, trezite",
+        "text": "Darurile care dormeau ies la suprafață și îți este mai ușor să le exprimi."
+      },
+      {
+        "label": "Libertate de tiparele vechi",
+        "text": "Tiparele emoționale și mentale stocate în ADN-ul tău, cunoscute drept karma, încep să se elibereze, inclusiv cele transmise în familia ta."
+      },
+      {
+        "label": "Sinele tău Divin",
+        "text": "O conexiune mai profundă cu cine ești cu adevărat și cu resursele interioare și potențialul care vin odată cu ea."
+      }
+    ],
+    "forWhomHeading": "Este {brand} pentru tine?",
+    "forWhomIntro": "Nu ai nevoie de niciun fundal spiritual. Dacă te regăsești în una dintre acestea, poate acum este momentul tău.",
+    "forWhom": [
+      {
+        "who": "Antreprenori",
+        "text": "Pentru decizii clare și energia de a conduce."
+      },
+      {
+        "who": "Părinți",
+        "text": "Pentru răbdare, calm și mai mult din tine de oferit."
+      },
+      {
+        "who": "Studenți",
+        "text": "Pentru concentrare și încredere în drumul pe care îl alegi."
+      },
+      {
+        "who": "Artiști și creatori",
+        "text": "Pentru inspirație nouă și curajul de a o împărtăși."
+      },
+      {
+        "who": "Vindecători și terapeuți",
+        "text": "Pentru un canal mai puternic și mai clar pentru munca ta."
+      },
+      {
+        "who": "Profesioniști ocupați",
+        "text": "Pentru echilibru și energie care ține toată săptămâna."
+      },
+      {
+        "who": "Căutători de sens",
+        "text": "Pentru răspunsuri despre de ce ești aici și ce urmează."
+      },
+      {
+        "who": "Oricine se simte blocat",
+        "text": "Pentru un nou început când aceleași tipare tot revin."
+      }
+    ],
+    "stepsHeading": "Sesiunea ta, pas cu pas",
+    "stepsIntro": "Aproximativ două ore, în persoană, la Praga. Nu trebuie să pregătești nimic: doar primești.",
+    "stepsAlt": "Instrumente sacre pregătite pentru o sesiune: un ankh auriu, cristale și baghete înfășurate",
+    "steps": [
+      {
+        "title": "Mai întâi vorbim",
+        "text": "Ne luăm timp să te cunoaștem și să îți răspundem la toate întrebările."
+      },
+      {
+        "title": "Curățarea, așezat",
+        "text": "Stai confortabil pe scaun în timp ce începe prima parte a curățării."
+      },
+      {
+        "title": "Echilibrarea, în picioare",
+        "text": "Timp de aproximativ 20–30 de minute stai în picioare, în timp ce chakrele și corpul eteric îți sunt echilibrate."
+      },
+      {
+        "title": "Activarea, așezat",
+        "text": "Te așezi din nou pentru a primi activarea a 22 de spirale ale ADN-ului tău."
+      },
+      {
+        "title": "O scurtă citire",
+        "text": "O scurtă citire din ADN-ul tău nou activat, cu înțelegeri și îndrumare doar pentru tine."
+      },
+      {
+        "title": "Săptămânile de după",
+        "text": "Activarea continuă să se desfășoare timp de una până la trei luni, iar noi rămânem în legătură cu tine în această perioadă."
+      }
+    ],
+    "handsHeading": "În mâini certificate",
+    "handsAlt": "O practiciană ținând un instrument de cristal înfășurat manual",
+    "hands": [
+      "Doar practicienii certificați direct de Modern Mystery School International pot oferi un Life Activation, iar ei își reînnoiesc certificarea în fiecare an.",
+      "Diana și Radu sunt amândoi practicieni Life Activation certificați. Te primesc cu căldură, îți explică fiecare pas și rămân alături de tine și în săptămânile care urmează."
+    ],
+    "handsLink": "Vezi certificările noastre",
+    "wandsAlt": "Un cerc de baghete de cristal înfășurate manual, folosite în sesiunile Life Activation",
+    "nextHeading": "După {brand}",
+    "nextIntro": "{brand} este un început. Când te simți pregătit(ă), aceștia sunt următorii pași pe cale.",
+    "nextFsa": "Primit după {brand}, îți trezește și îți ancorează sufletul și spiritul în corp.",
+    "nextEmpower": "Cursul de două zile și inițierea în linia Regelui Solomon, unde înveți ritualuri puternice pe care să le folosești în fiecare zi.",
+    "nextCta": "Descoperă mai mult",
+    "videosEyebrow": "În propriile lor cuvinte",
+    "videosHeading": "Ascultă-i pe cei care l-au primit",
+    "videoPart1": "Life Activation · Partea I",
+    "videoPart2": "Life Activation · Partea a II-a",
+    "videoAbout": "Despre Life Activation · Dr. Theresa Bullard-Whyke"
   },
   "EmpowerThyself": {
     "heroEyebrow": "Un program de două zile",

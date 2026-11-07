@@ -49,16 +49,30 @@ export function WorkshopGallery({
 const DISCOVER_ICONS: LucideIcon[] = [Triangle, Square, Circle, Flame, Eye]
 
 /** "What you'll discover": big numbered cards that lift and wobble a little on hover. */
-export function DiscoverCards({ heading, items }: { heading: string; items: { label: string; text: string }[] }) {
+export function DiscoverCards({
+  heading,
+  intro,
+  items,
+  icons = DISCOVER_ICONS,
+}: {
+  heading: string
+  intro?: string
+  items: { label: string; text: string }[]
+  /** one icon per card (repeats if fewer); defaults to the sacred-geometry shapes */
+  icons?: LucideIcon[]
+}) {
   return (
     <section className="relative py-12 lg:py-16">
       <div className="mx-auto max-w-6xl px-6">
         <ScrollReveal>
-          <h2 className="mb-8 text-center font-serif text-3xl tracking-wide text-primary md:text-4xl">{heading}</h2>
+          <div className="mb-8 text-center">
+            <h2 className="font-serif text-3xl tracking-wide text-primary md:text-4xl">{heading}</h2>
+            {intro && <p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{intro}</p>}
+          </div>
         </ScrollReveal>
         <ol className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {items.map((it, i) => {
-            const Icon = DISCOVER_ICONS[i % DISCOVER_ICONS.length]
+            const Icon = icons[i % icons.length]
             return (
               <li key={it.label} className={i === items.length - 1 && items.length % 3 === 2 ? "lg:col-span-1" : ""}>
                 <ScrollReveal delay={i * 0.06} className="h-full">

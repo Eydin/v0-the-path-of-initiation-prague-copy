@@ -356,27 +356,41 @@
     "heroEyebrow": "Modern Mystery School · Linie von König Salomon",
     "heroSubtitle": "Aktiviere die angeborenen Gaben, die in deiner DNA ruhen",
     "heroTagline": "Löse 5–7 Generationen von Ahnentrauma und trete in dein höchstes Potenzial ein",
-    "introLead": "{brand} – Modern Mystery School, Linie von König Salomon",
-    "introBody": "{brand} ist ein Erwachen der Seele, angeboten durch die Tradition der Modern Mystery School, konzipiert, um das göttliche Potenzial in jedem Menschen zu entfachen. Diese kraftvolle Sitzung aktiviert 22 der 24 DNA-Stränge (11 physische und 11 spirituelle) und öffnet die Tür zu einer tieferen Verbindung mit deinem Göttlichen Selbst. Dadurch verbessert sich deine Fähigkeit, mehr Licht zu empfangen, zirkulieren zu lassen und zu halten — was Heilung, Klarheit und spirituelles Wachstum unterstützt.",
-    "benefitsHeading": "Die Vorteile der {brand}",
-    "benefits": [
-      { "label": "Tiefe Verbindung mit dem Göttlichen Selbst:", "text": "Life Activation erleichtert eine tiefere Verbindung mit deinem Göttlichen Selbst und ermöglicht die Manifestation deiner inneren Ressourcen, Talente und Potenziale." },
-      { "label": "Energie und Klarheit:", "text": "Die Erfahrung bringt eine Infusion von Energie und Klarheit in alle Lebensbereiche und unterstützt deine Fähigkeit, den Alltag mit Zuversicht zu meistern." },
-      { "label": "Manifestation von Talenten und Fähigkeiten:", "text": "Durch das Erwecken des inneren Potenzials wirst du dir deiner einzigartigen Talente und Fähigkeiten bewusster und fähiger, sie voller auszudrücken." },
-      { "label": "Körperliche Transformation und Karma-Freisetzung:", "text": "Life Activation startet einen Transformationsprozess im Körper und hilft, emotionale und mentale Muster freizusetzen, die in der DNA gespeichert sind und als „Karma“ bekannt sind." },
-      { "label": "Erweiterte Nutzung der Gehirnkapazität:", "text": "Durch diese Erfahrung wird die Fähigkeit verbessert, mehr vom Potenzial des Gehirns zu nutzen, wodurch zuvor übersehene oder ruhende Fähigkeiten ans Licht gebracht werden." }
-    ],
     "proceduresHeading": "Zusätzliche Verfahren zum Ausgleich und zur Transformation",
     "proceduresLead": "Zusätzlich zur eigentlichen Aktivierung umfasst die Sitzung ergänzende Verfahren, die den Körper im Einklang mit den neu aktivierten Informationen aus der DNA ausgleichen und stimulieren sollen.",
     "procedures": [
-      { "label": "Entfernung emotionaler Blockaden:", "text": "Konzentriert auf die Beseitigung möglicher emotionaler Blockaden im Kronenchakra, schafft dieser Prozess einen besseren Energiefluss." },
-      { "label": "Ausgleich des zentralen Kerns:", "text": "Dieser Prozess harmonisiert die durch den zentralen Kern fließenden Energien und unterstützt die Ausrichtung und das Gleichgewicht des gesamten Energiesystems." },
-      { "label": "Öffnung der 16 Lotusblütenblätter:", "text": "Dies verstärkt die Verbindung mit den elementaren Energien — Erde, Wasser, Luft und Feuer — und gibt dir mehr von ihren Qualitäten und ihrer Kraft." },
-      { "label": "Ausgleich der elementaren und magnetischen Energielinien:", "text": "Dies gleicht die durch den Körper verlaufenden Energielinien aus und harmonisiert sie, für einen reibungslosen, ausgerichteten Energiefluss." },
-      { "label": "Chakra-Ausgleich:", "text": "Dies bringt Harmonie und Ausrichtung in die Energiezentren des Körpers." },
-      { "label": "Entfernung verbrannter ätherischer Kristalle aus dem Körper:", "text": "Dieses Verfahren dient der Reinigung und Revitalisierung des energetischen Körpers." },
-      { "label": "Kurze Lesung aus deiner neu aktivierten DNA:", "text": "Eine kurze Erkundung der unterbewussten Ebenen, die dir Einsichten und Führung schenkt." },
-      { "label": "Homöopathisches Mittel:", "text": "Ein im Alchemielabor der Schule hergestelltes homöopathisches Mittel, das die mit dieser einzigartigen Erfahrung verbundenen körperlichen und energetischen Veränderungen entgiften, unterstützen und erleichtern soll." }
+      {
+        "label": "Entfernung emotionaler Blockaden:",
+        "text": "Konzentriert auf die Beseitigung möglicher emotionaler Blockaden im Kronenchakra, schafft dieser Prozess einen besseren Energiefluss."
+      },
+      {
+        "label": "Ausgleich des zentralen Kerns:",
+        "text": "Dieser Prozess harmonisiert die durch den zentralen Kern fließenden Energien und unterstützt die Ausrichtung und das Gleichgewicht des gesamten Energiesystems."
+      },
+      {
+        "label": "Öffnung der 16 Lotusblütenblätter:",
+        "text": "Dies verstärkt die Verbindung mit den elementaren Energien — Erde, Wasser, Luft und Feuer — und gibt dir mehr von ihren Qualitäten und ihrer Kraft."
+      },
+      {
+        "label": "Ausgleich der elementaren und magnetischen Energielinien:",
+        "text": "Dies gleicht die durch den Körper verlaufenden Energielinien aus und harmonisiert sie, für einen reibungslosen, ausgerichteten Energiefluss."
+      },
+      {
+        "label": "Chakra-Ausgleich:",
+        "text": "Dies bringt Harmonie und Ausrichtung in die Energiezentren des Körpers."
+      },
+      {
+        "label": "Entfernung verbrannter ätherischer Kristalle aus dem Körper:",
+        "text": "Dieses Verfahren dient der Reinigung und Revitalisierung des energetischen Körpers."
+      },
+      {
+        "label": "Kurze Lesung aus deiner neu aktivierten DNA:",
+        "text": "Eine kurze Erkundung der unterbewussten Ebenen, die dir Einsichten und Führung schenkt."
+      },
+      {
+        "label": "Homöopathisches Mittel:",
+        "text": "Ein im Alchemielabor der Schule hergestelltes homöopathisches Mittel, das die mit dieser einzigartigen Erfahrung verbundenen körperlichen und energetischen Veränderungen entgiften, unterstützen und erleichtern soll."
+      }
     ],
     "exploreHeading": "Erkunde die höheren Dimensionen",
     "exploreBody1": "DNA-Aktivierung ist eine Rückkehr zum Selbst — eine Sitzung, die nicht nur Licht in die Dunkelheit des Lebens bringt, sondern auch Türen zu grenzenlosem Potenzial öffnet.",
@@ -386,7 +400,125 @@
     "bookingTitle": "Begegne deiner authentischen Kraft und deinem höheren Selbst!",
     "duration": "2 Stunden",
     "bookingNote": "Sobald die Zahlung abgeschlossen ist, kontaktieren wir dich, um den Termin zu finalisieren.",
-    "inquiry": "Hallo, ich möchte gerne mehr über die {brand} erfahren."
+    "inquiry": "Hallo, ich möchte gerne mehr über die {brand} erfahren.",
+    "awakenHeading": "Erwecke mehr von dem, wer du wirklich bist",
+    "awakenAlt": "Ein leuchtender DNA-Strang mit Punkten aus goldenem Licht",
+    "awaken": [
+      "Die Gaben, die Klarheit und die Kraft, nach denen du suchst, sind vielleicht schon in dir und warten darauf, zu erwachen. Life Activation ist die Sitzung, die sie erweckt.",
+      "Sie stammt aus der Linie von König Salomon, die seit Tausenden von Jahren lebendig gehalten und heute von der Modern Mystery School weitergegeben wird. In der Sitzung werden 22 deiner 24 DNA-Stränge aktiviert: 11 physische und 11 spirituelle. So kannst du mehr Licht empfangen und halten, die Lebenskraft, die deine Heilung, deine Klarheit und dein Wachstum unterstützt.",
+      "Sie klärt auch, was du aus deiner Familienlinie mitträgst, bis zu 5–7 Generationen zurück, damit du in dein höchstes Potenzial treten kannst."
+    ],
+    "giftsHeading": "Was sie dir bringen kann",
+    "giftsIntro": "Jeder Mensch ist anders, aber von diesen Veränderungen erzählen uns die Menschen am häufigsten.",
+    "gifts": [
+      {
+        "label": "Klarheit",
+        "text": "Du siehst dein Leben und deine Entscheidungen klarer, und Entscheidungen fallen leichter."
+      },
+      {
+        "label": "Mehr Energie",
+        "text": "Ein frischer Energiefluss in jeden Bereich deines Lebens, sodass sich jeder Tag leichter tragen lässt."
+      },
+      {
+        "label": "Eine stärkere Intuition",
+        "text": "Du hörst deine innere Stimme deutlicher und lernst, ihr zu vertrauen."
+      },
+      {
+        "label": "Deine Talente, erwacht",
+        "text": "Gaben, die geschlafen haben, kommen an die Oberfläche, und es wird leichter, sie auszudrücken."
+      },
+      {
+        "label": "Freiheit von alten Mustern",
+        "text": "Emotionale und mentale Muster, die in deiner DNA gespeichert sind, bekannt als Karma, beginnen sich zu lösen, auch die, die in deiner Familie weitergegeben wurden."
+      },
+      {
+        "label": "Dein Göttliches Selbst",
+        "text": "Eine tiefere Verbindung mit dem, wer du wirklich bist, und mit den inneren Ressourcen und dem Potenzial, die dazugehören."
+      }
+    ],
+    "forWhomHeading": "Ist {brand} etwas für dich?",
+    "forWhomIntro": "Du brauchst keinen spirituellen Hintergrund. Wenn du dich in etwas davon wiedererkennst, ist vielleicht jetzt dein Moment.",
+    "forWhom": [
+      {
+        "who": "Unternehmer",
+        "text": "Für klare Entscheidungen und die Energie zu führen."
+      },
+      {
+        "who": "Eltern",
+        "text": "Für Geduld, Ruhe und mehr von dir, das du geben kannst."
+      },
+      {
+        "who": "Studierende",
+        "text": "Für Fokus und Vertrauen in den Weg, den du wählst."
+      },
+      {
+        "who": "Künstler und Kreative",
+        "text": "Für frische Inspiration und den Mut, sie zu teilen."
+      },
+      {
+        "who": "Heiler und Therapeuten",
+        "text": "Für einen stärkeren, klareren Kanal für deine Arbeit."
+      },
+      {
+        "who": "Vielbeschäftigte Berufstätige",
+        "text": "Für Balance und Energie, die die ganze Woche hält."
+      },
+      {
+        "who": "Sinnsuchende",
+        "text": "Für Antworten darauf, warum du hier bist und was als Nächstes kommt."
+      },
+      {
+        "who": "Alle, die sich festgefahren fühlen",
+        "text": "Für einen Neuanfang, wenn dieselben Muster immer wiederkehren."
+      }
+    ],
+    "stepsHeading": "Deine Sitzung, Schritt für Schritt",
+    "stepsIntro": "Etwa zwei Stunden, persönlich in Prag. Du musst nichts vorbereiten: Du darfst einfach empfangen.",
+    "stepsAlt": "Heilige Werkzeuge für eine Sitzung: ein goldenes Ankh, Kristalle und umwickelte Stäbe",
+    "steps": [
+      {
+        "title": "Zuerst reden wir",
+        "text": "Wir nehmen uns Zeit, dich kennenzulernen und all deine Fragen zu beantworten."
+      },
+      {
+        "title": "Die Klärung, im Sitzen",
+        "text": "Du sitzt bequem, während der erste Teil der Klärung beginnt."
+      },
+      {
+        "title": "Das Ausgleichen, im Stehen",
+        "text": "Etwa 20–30 Minuten stehst du, während deine Chakren und dein Ätherkörper ausgeglichen werden."
+      },
+      {
+        "title": "Die Aktivierung, im Sitzen",
+        "text": "Du setzt dich wieder und empfängst die Aktivierung von 22 Strängen deiner DNA."
+      },
+      {
+        "title": "Ein kurzes Reading",
+        "text": "Ein kurzes Reading aus deiner neu aktivierten DNA, mit Einsichten und Führung nur für dich."
+      },
+      {
+        "title": "Die Wochen danach",
+        "text": "Die Aktivierung entfaltet sich ein bis drei Monate weiter, und wir bleiben in dieser Zeit mit dir in Kontakt."
+      }
+    ],
+    "handsHeading": "In zertifizierten Händen",
+    "handsAlt": "Eine Praktizierende hält ein handumwickeltes Kristallwerkzeug",
+    "hands": [
+      "Nur Praktizierende, die direkt von Modern Mystery School International zertifiziert sind, dürfen eine Life Activation geben, und sie erneuern ihre Zertifizierung jedes Jahr.",
+      "Diana und Radu sind beide zertifizierte Life Activation Praktizierende. Sie empfangen dich herzlich, erklären jeden Schritt und bleiben auch in den folgenden Wochen an deiner Seite."
+    ],
+    "handsLink": "Unsere Zertifizierungen",
+    "wandsAlt": "Ein Kreis aus handumwickelten Kristallstäben, die in Life Activation Sitzungen verwendet werden",
+    "nextHeading": "Nach deiner {brand}",
+    "nextIntro": "{brand} ist ein Anfang. Wenn du bereit bist, sind das die nächsten Schritte auf dem Weg.",
+    "nextFsa": "Empfangen nach der {brand}, erweckt und verankert sie deine Seele und deinen Geist in deinem Körper.",
+    "nextEmpower": "Der zweitägige Kurs und die Initiation in die Linie von König Salomon, in dem du kraftvolle Rituale für jeden Tag lernst.",
+    "nextCta": "Mehr entdecken",
+    "videosEyebrow": "In ihren eigenen Worten",
+    "videosHeading": "Hör es von denen, die sie empfangen haben",
+    "videoPart1": "Life Activation · Teil I",
+    "videoPart2": "Life Activation · Teil II",
+    "videoAbout": "Über die Life Activation · Dr. Theresa Bullard-Whyke"
   },
   "EmpowerThyself": {
     "heroEyebrow": "Ein zweitägiges Programm",

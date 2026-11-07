@@ -356,31 +356,6 @@
     "heroEyebrow": "The Modern Mystery School · Lineage of King Salomon",
     "heroSubtitle": "Activate the innate gifts that reside in your DNA",
     "heroTagline": "Clear 5–7 generations of ancestral trauma and step into your highest potential",
-    "introLead": "{brand} – The Modern Mystery School, Lineage of King Salomon",
-    "introBody": "{brand} is an awakening of the soul offered through the Modern Mystery School tradition, designed to ignite the divine potential within every human being. This powerful session activates 22 of the 24 DNA strands (11 physical and 11 spiritual), opening the doorway to a deeper connection with your Divine Self. By doing so, it enhances your ability to receive, circulate, and hold more Light—supporting healing, clarity, and spiritual growth.",
-    "benefitsHeading": "The Benefits of {brand}",
-    "benefits": [
-      {
-        "label": "Deep Connection with the Divine Self:",
-        "text": "Life Activation facilitates a deeper connection with your Divine Self, allowing the manifestation of your inner resources, talents, and potential."
-      },
-      {
-        "label": "Energy and Clarity:",
-        "text": "The experience brings an infusion of energy and clarity into all areas of life, supporting your ability to navigate daily life with confidence."
-      },
-      {
-        "label": "Manifestation of Talents and Abilities:",
-        "text": "By awakening the inner potential, you become more aware and capable of expressing your unique talents and abilities more fully."
-      },
-      {
-        "label": "Body Transformation and Karma Release:",
-        "text": "Life Activation starts a process of transformation in the body, helping to release emotional and mental patterns stored in the DNA, known as “karma.”"
-      },
-      {
-        "label": "Expanded Use of Brain Capacity:",
-        "text": "Through this experience, the ability to tap into more of the brain's potential is enhanced, bringing to light previously overlooked or dormant capabilities."
-      }
-    ],
     "proceduresHeading": "Additional Procedures for Balancing and Transformation",
     "proceduresLead": "In addition to the activation itself, the session includes supplementary procedures designed to balance and stimulate the body in alignment with the newly activated information from the DNA.",
     "procedures": [
@@ -425,7 +400,125 @@
     "bookingTitle": "Meet Your Authentic Power and Higher Self!",
     "duration": "2 Hours",
     "bookingNote": "After the payment is completed, we will contact you to finalize the appointment.",
-    "inquiry": "Hello, I would like to learn more about the {brand}."
+    "inquiry": "Hello, I would like to learn more about the {brand}.",
+    "awakenHeading": "Awaken More of Who You Truly Are",
+    "awakenAlt": "A glowing strand of DNA, lit with points of golden light",
+    "awaken": [
+      "The gifts, the clarity and the strength you are looking for may already be inside you, waiting to wake up. Life Activation is the session that awakens them.",
+      "It comes from the lineage of King Salomon, kept alive for thousands of years and passed on today by the Modern Mystery School. In the session, 22 of your 24 strands of DNA are activated: 11 physical and 11 spiritual. This lets you receive and hold more Light, the life force that supports your healing, your clarity and your growth.",
+      "It also clears what you have carried from your family line, up to 5–7 generations back, so you can step into your highest potential."
+    ],
+    "giftsHeading": "What It Can Bring You",
+    "giftsIntro": "Every person is different, but these are the changes people tell us about most often.",
+    "gifts": [
+      {
+        "label": "Clarity",
+        "text": "You see your life and your choices more clearly, and decisions feel lighter."
+      },
+      {
+        "label": "More energy",
+        "text": "A fresh flow of energy into every part of your life, so each day feels easier to carry."
+      },
+      {
+        "label": "A stronger intuition",
+        "text": "You hear your inner voice more clearly, and you learn to trust it."
+      },
+      {
+        "label": "Your talents, awake",
+        "text": "Gifts that were sleeping come to the surface, and expressing them becomes easier."
+      },
+      {
+        "label": "Freedom from old patterns",
+        "text": "Emotional and mental patterns stored in your DNA, known as karma, begin to release, including those passed down in your family."
+      },
+      {
+        "label": "Your Divine Self",
+        "text": "A deeper connection with who you truly are, and with the inner resources and potential that come with it."
+      }
+    ],
+    "forWhomHeading": "Is {brand} for You?",
+    "forWhomIntro": "You don't need any spiritual background. If one of these sounds like you, this may be your moment.",
+    "forWhom": [
+      {
+        "who": "Business owners",
+        "text": "For clear decisions and the energy to lead."
+      },
+      {
+        "who": "Parents",
+        "text": "For patience, calm and more of yourself to give."
+      },
+      {
+        "who": "Students",
+        "text": "For focus, and confidence in the path you choose."
+      },
+      {
+        "who": "Artists and creatives",
+        "text": "For fresh inspiration and the courage to share it."
+      },
+      {
+        "who": "Healers and therapists",
+        "text": "For a stronger, clearer channel for your work."
+      },
+      {
+        "who": "Busy professionals",
+        "text": "For balance, and energy that lasts the whole week."
+      },
+      {
+        "who": "Seekers of purpose",
+        "text": "For answers about why you are here and what comes next."
+      },
+      {
+        "who": "Anyone who feels stuck",
+        "text": "For a fresh start when the same patterns keep coming back."
+      }
+    ],
+    "stepsHeading": "Your Session, Step by Step",
+    "stepsIntro": "About two hours, in person in Prague. There is nothing to prepare: you only need to receive.",
+    "stepsAlt": "Sacred tools prepared for a session: a golden ankh, crystals and wrapped wands",
+    "steps": [
+      {
+        "title": "We talk first",
+        "text": "We take time to get to know you and answer all your questions."
+      },
+      {
+        "title": "The clearing, seated",
+        "text": "You sit comfortably while the first part of the clearing begins."
+      },
+      {
+        "title": "The balancing, standing",
+        "text": "For about 20–30 minutes you stand while your chakras and etheric body are balanced."
+      },
+      {
+        "title": "The activation, seated",
+        "text": "You sit again to receive the activation of 22 strands of your DNA."
+      },
+      {
+        "title": "A short reading",
+        "text": "A brief reading from your newly activated DNA, with insights and guidance just for you."
+      },
+      {
+        "title": "The weeks after",
+        "text": "The activation keeps unfolding for one to three months, and we stay in touch with you during this time."
+      }
+    ],
+    "handsHeading": "In Certified Hands",
+    "handsAlt": "A practitioner holding a hand-wrapped crystal tool",
+    "hands": [
+      "Only practitioners certified directly by Modern Mystery School International may give a Life Activation, and they renew their certification every year.",
+      "Diana and Radu are both certified Life Activation Practitioners. They welcome you warmly, explain every step, and stay by your side in the weeks that follow."
+    ],
+    "handsLink": "See our certifications",
+    "wandsAlt": "A circle of hand-wrapped crystal wands used in Life Activation sessions",
+    "nextHeading": "After Your {brand}",
+    "nextIntro": "{brand} is a beginning. When you feel ready, these are the next steps on the path.",
+    "nextFsa": "Received after the {brand}, it awakens and anchors your soul and spirit into your body.",
+    "nextEmpower": "The two-day class and initiation into the lineage of King Salomon, where you learn powerful rituals to use every day.",
+    "nextCta": "Discover more",
+    "videosEyebrow": "In their own words",
+    "videosHeading": "Hear It from Those Who Received It",
+    "videoPart1": "Life Activation · Part I",
+    "videoPart2": "Life Activation · Part II",
+    "videoAbout": "About the Life Activation · Dr. Theresa Bullard-Whyke"
   },
   "EmpowerThyself": {
     "heroEyebrow": "A Two-Day Program",

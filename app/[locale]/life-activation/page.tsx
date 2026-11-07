@@ -1,5 +1,20 @@
 import type { Metadata } from "next"
 import { getTranslations } from "next-intl/server"
+import {
+  Baby,
+  Brain,
+  Briefcase,
+  Compass,
+  Feather,
+  GraduationCap,
+  HandHeart,
+  KeyRound,
+  Laptop,
+  Lightbulb,
+  Palette,
+  Sparkles,
+  Sun,
+} from "lucide-react"
 import { Link } from "@/i18n/navigation"
 import { BRAND } from "@/lib/brand-names"
 import {
@@ -7,7 +22,6 @@ import {
   ImageHero,
   Panel,
   PanelHeading,
-  Lead,
   Body,
   BenefitList,
   BookingBlock,
@@ -15,8 +29,11 @@ import {
   VideoEmbed,
 } from "@/components/modality"
 import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
+import { DiscoverCards } from "@/components/sacred-geometry-fun"
+import { ForWhomTiles, NextStepCards, PhotoStory, SessionSteps } from "@/components/life-activation-fun"
 
 const STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
+const IMG = "/images/life-activation"
 
 export async function generateMetadata({
   params,
@@ -44,15 +61,10 @@ export default async function LifeActivation({
   const tModality = await getTranslations({ locale, namespace: "Modality" })
   const tFaq = await getTranslations({ locale, namespace: "LifeActivationFaq" })
   const inquiry = t("inquiry", { brand: BRAND.lifeActivation })
-  const benefits = [0, 1, 2, 3, 4].map((i) => ({
-    label: t(`benefits.${i}.label`),
-    text: t(`benefits.${i}.text`),
-  }))
-  const procedures = [0, 1, 2, 3, 4, 5, 6, 7].map((i) => ({
-    label: t(`procedures.${i}.label`),
-    text: t(`procedures.${i}.text`),
-  }))
-
+  const procedures = t.raw("procedures") as { label: string; text: string }[]
+  const gifts = t.raw("gifts") as { label: string; text: string }[]
+  const forWhom = t.raw("forWhom") as { who: string; text: string }[]
+  const steps = t.raw("steps") as { title: string; text: string }[]
   const faqItems = tFaq.raw("items") as FaqItem[]
 
   return (
@@ -80,37 +92,114 @@ export default async function LifeActivation({
         note={t("bookingNote")}
       />
 
-      {/* Introduction */}
-      <Panel>
-        <Lead>{t("introLead", { brand: BRAND.lifeActivation })}</Lead>
-        <Body>{t("introBody", { brand: BRAND.lifeActivation })}</Body>
-      </Panel>
+      {/* what it is, in plain words, beside the DNA picture */}
+      <PhotoStory
+        image={`${IMG}/dna-light.jpg`}
+        alt={t("awakenAlt")}
+        heading={t("awakenHeading")}
+        paragraphs={t.raw("awaken") as string[]}
+        portrait
+      />
 
-      {/* Benefits */}
-      <Panel>
-        <PanelHeading>{t("benefitsHeading", { brand: BRAND.lifeActivation })}</PanelHeading>
-        <BenefitList items={benefits} />
-      </Panel>
+      <DiscoverCards
+        heading={t("giftsHeading")}
+        intro={t("giftsIntro")}
+        items={gifts}
+        icons={[Lightbulb, Sun, Compass, Sparkles, Feather, Brain]}
+      />
 
-      {/* Additional procedures */}
+      <ForWhomTiles
+        heading={t("forWhomHeading", { brand: BRAND.lifeActivation })}
+        intro={t("forWhomIntro")}
+        items={forWhom}
+        icons={[Briefcase, Baby, GraduationCap, Palette, HandHeart, Laptop, Compass, KeyRound]}
+      />
+
+      <SessionSteps
+        heading={t("stepsHeading")}
+        intro={t("stepsIntro")}
+        steps={steps}
+        image={`${IMG}/sacred-tools.jpg`}
+        alt={t("stepsAlt")}
+      />
+
+      {/* everything the session includes, for those who want the detail */}
       <Panel>
         <PanelHeading>{t("proceduresHeading")}</PanelHeading>
-        <Lead>{t("proceduresLead")}</Lead>
+        <p className="text-center text-lg leading-relaxed text-foreground">{t("proceduresLead")}</p>
         <BenefitList items={procedures} />
       </Panel>
 
-      {/* Explore the higher dimensions + video */}
-      <Panel>
-        <VideoEmbed src="https://www.youtube-nocookie.com/embed/SYauL1N3ppI" title="About the Life Activation" />
-        <PanelHeading>{t("exploreHeading")}</PanelHeading>
-        <Body>{t("exploreBody1")}</Body>
-        <Body>{t("exploreBody2")}</Body>
-        <div className="flex justify-center border-t border-primary/20 pt-6">
+      {/* who gives it: certified hands */}
+      <PhotoStory
+        image={`${IMG}/crystal-tool-hands.jpg`}
+        alt={t("handsAlt")}
+        heading={t("handsHeading")}
+        paragraphs={t.raw("hands") as string[]}
+        reverse
+      >
+        <Link
+          href="/certifications"
+          className="inline-block font-serif text-sm uppercase tracking-widest text-primary underline decoration-primary/40 underline-offset-4 hover:decoration-primary"
+        >
+          {t("handsLink")} →
+        </Link>
+      </PhotoStory>
+
+      {/* the bigger picture, beside the circle of crystal wands */}
+      <PhotoStory
+        image={`${IMG}/crystal-wands.jpg`}
+        alt={t("wandsAlt")}
+        heading={t("exploreHeading")}
+        paragraphs={[t("exploreBody1"), t("exploreBody2")]}
+      />
+
+      {/* in their own words: two people sharing their Life Activation, then Dr. Theresa Bullard-Whyke */}
+      <Panel wide>
+        <div className="text-center">
+          <p className="mb-3 font-serif text-sm uppercase tracking-[0.3em] text-primary">{t("videosEyebrow")}</p>
+          <PanelHeading>{t("videosHeading")}</PanelHeading>
+        </div>
+        <div className="grid gap-6 md:grid-cols-2">
+          {[
+            { id: "R5RZj6AJi9M", label: t("videoPart1") },
+            { id: "l-hmjKzpNeo", label: t("videoPart2") },
+          ].map((v) => (
+            <figure key={v.id} className="space-y-3">
+              <VideoEmbed src={`https://www.youtube-nocookie.com/embed/${v.id}`} title={v.label} />
+              <figcaption className="text-center font-serif text-lg text-foreground">{v.label}</figcaption>
+            </figure>
+          ))}
+        </div>
+        <figure className="mx-auto max-w-3xl space-y-3 pt-4">
+          <VideoEmbed src="https://www.youtube-nocookie.com/embed/SYauL1N3ppI" title={t("videoAbout")} />
+          <figcaption className="text-center font-serif text-lg text-foreground">{t("videoAbout")}</figcaption>
+        </figure>
+        <div className="flex justify-center">
           <WhatsAppButton text={inquiry} label={tModality("askQuestion")} />
         </div>
       </Panel>
 
       <ModalityFaq items={faqItems} />
+
+      <NextStepCards
+        heading={t("nextHeading", { brand: BRAND.lifeActivation })}
+        intro={t("nextIntro", { brand: BRAND.lifeActivation })}
+        cards={[
+          {
+            href: "/full-spirit-activation",
+            title: BRAND.fullSpiritActivation,
+            text: t("nextFsa", { brand: BRAND.lifeActivation }),
+            cta: t("nextCta"),
+          },
+          {
+            href: "/empower-thyself",
+            title: BRAND.empowerThyself,
+            text: t("nextEmpower", { brand: BRAND.lifeActivation }),
+            cta: t("nextCta"),
+          },
+        ]}
+      />
 
       {/* Certifications */}
       <Panel wide>

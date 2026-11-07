@@ -516,20 +516,14 @@ Radu has walked this lineage himself and is glad to share what this program is r
 Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
 
 ## PAGE: /life-activation
+lucide-react
 https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
+/images/life-activation
+l-hmjKzpNeo
+/full-spirit-activation
 The Modern Mystery School · Lineage of King Salomon
 Activate the innate gifts that reside in your DNA
 Clear 5–7 generations of ancestral trauma and step into your highest potential
-Deep Connection with the Divine Self:
-Life Activation facilitates a deeper connection with your Divine Self, allowing the manifestation of your inner resources, talents, and potential.
-Energy and Clarity:
-The experience brings an infusion of energy and clarity into all areas of life, supporting your ability to navigate daily life with confidence.
-Manifestation of Talents and Abilities:
-By awakening the inner potential, you become more aware and capable of expressing your unique talents and abilities more fully.
-Body Transformation and Karma Release:
-Life Activation starts a process of transformation in the body, helping to release emotional and mental patterns stored in the DNA, known as “karma.”
-Expanded Use of Brain Capacity:
-Through this experience, the ability to tap into more of the brain's potential is enhanced, bringing to light previously overlooked or dormant capabilities.
 Additional Procedures for Balancing and Transformation
 In addition to the activation itself, the session includes supplementary procedures designed to balance and stimulate the body in alignment with the newly activated information from the DNA.
 Emotional Blockage Removal:
@@ -555,6 +549,70 @@ This is a groundbreaking method for inner transformation and unlocking your pers
 Meet Your Authentic Power and Higher Self!
 2 Hours
 After the payment is completed, we will contact you to finalize the appointment.
+Awaken More of Who You Truly Are
+A glowing strand of DNA, lit with points of golden light
+The gifts, the clarity and the strength you are looking for may already be inside you, waiting to wake up. Life Activation is the session that awakens them.
+It comes from the lineage of King Salomon, kept alive for thousands of years and passed on today by the Modern Mystery School. In the session, 22 of your 24 strands of DNA are activated: 11 physical and 11 spiritual. This lets you receive and hold more Light, the life force that supports your healing, your clarity and your growth.
+It also clears what you have carried from your family line, up to 5–7 generations back, so you can step into your highest potential.
+What It Can Bring You
+Every person is different, but these are the changes people tell us about most often.
+Clarity
+You see your life and your choices more clearly, and decisions feel lighter.
+More energy
+A fresh flow of energy into every part of your life, so each day feels easier to carry.
+A stronger intuition
+You hear your inner voice more clearly, and you learn to trust it.
+Your talents, awake
+Gifts that were sleeping come to the surface, and expressing them becomes easier.
+Freedom from old patterns
+Emotional and mental patterns stored in your DNA, known as karma, begin to release, including those passed down in your family.
+Your Divine Self
+A deeper connection with who you truly are, and with the inner resources and potential that come with it.
+You don't need any spiritual background. If one of these sounds like you, this may be your moment.
+Business owners
+For clear decisions and the energy to lead.
+Parents
+For patience, calm and more of yourself to give.
+Students
+For focus, and confidence in the path you choose.
+Artists and creatives
+For fresh inspiration and the courage to share it.
+Healers and therapists
+For a stronger, clearer channel for your work.
+Busy professionals
+For balance, and energy that lasts the whole week.
+Seekers of purpose
+For answers about why you are here and what comes next.
+Anyone who feels stuck
+For a fresh start when the same patterns keep coming back.
+Your Session, Step by Step
+About two hours, in person in Prague. There is nothing to prepare: you only need to receive.
+Sacred tools prepared for a session: a golden ankh, crystals and wrapped wands
+We talk first
+We take time to get to know you and answer all your questions.
+The clearing, seated
+You sit comfortably while the first part of the clearing begins.
+The balancing, standing
+For about 20–30 minutes you stand while your chakras and etheric body are balanced.
+The activation, seated
+You sit again to receive the activation of 22 strands of your DNA.
+A short reading
+A brief reading from your newly activated DNA, with insights and guidance just for you.
+The weeks after
+The activation keeps unfolding for one to three months, and we stay in touch with you during this time.
+In Certified Hands
+A practitioner holding a hand-wrapped crystal tool
+Only practitioners certified directly by Modern Mystery School International may give a Life Activation, and they renew their certification every year.
+Diana and Radu are both certified Life Activation Practitioners. They welcome you warmly, explain every step, and stay by your side in the weeks that follow.
+See our certifications
+A circle of hand-wrapped crystal wands used in Life Activation sessions
+The two-day class and initiation into the lineage of King Salomon, where you learn powerful rituals to use every day.
+Discover more
+In their own words
+Hear It from Those Who Received It
+Life Activation · Part I
+Life Activation · Part II
+About the Life Activation · Dr. Theresa Bullard-Whyke
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Email
