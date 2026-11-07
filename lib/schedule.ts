@@ -32,20 +32,14 @@ export type ScheduledClass = {
 
 export const SCHEDULE: ScheduledClass[] = [
   {
+    // One-on-one sessions booked individually, so no fixed dates.
     slug: "life-activation",
     category: "Activation",
     title: "Life Activation",
     location: "Prague, CZ",
     time: "10:00",
     duration: "2 Hours",
-    dates: [
-      "2026-09-04",
-      "2026-09-25",
-      "2026-10-16",
-      "2026-11-06",
-      "2026-11-27",
-      "2026-12-18",
-    ],
+    dates: [],
   },
   {
     slug: "empower-thyself",
@@ -66,15 +60,14 @@ export const SCHEDULE: ScheduledClass[] = [
     ],
   },
   {
+    // One-on-one sessions booked individually, so no fixed dates.
     slug: "full-spirit-activation",
     category: "Activation",
     title: "Full Spirit Activation",
     location: "Prague, CZ",
     time: "10:00",
     duration: "2 Hours",
-    dates: [
-      "2026-09-27",
-    ],
+    dates: [],
   },
   {
     slug: "healers-academy",

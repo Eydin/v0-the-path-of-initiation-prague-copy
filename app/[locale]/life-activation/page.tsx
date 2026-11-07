@@ -84,7 +84,6 @@ export default async function LifeActivation({
       {/* Booking card first, straight under the header */}
       <BookingBlock
         kind="healing"
-        slug="life-activation"
         title={t("bookingTitle")}
         investment="8.500 CZK"
         duration={t("duration")}
