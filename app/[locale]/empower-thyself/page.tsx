@@ -13,7 +13,7 @@ import {
   VideoEmbed,
 } from "@/components/modality"
 
-const STRIPE = "https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i"
+const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/empower-thyself"
 
 const bold = (chunks: React.ReactNode) => <span className="font-semibold text-primary">{chunks}</span>
 
@@ -55,7 +55,7 @@ export default async function EmpowerThyself({
         eyebrow={t("heroEyebrow")}
         title={BRAND.empowerThyself}
         subtitle={t("heroSubtitle")}
-        cta={{ href: STRIPE, label: tModality("bookNow"), external: true }}
+        cta={{ href: BOOKING_URL, label: tModality("bookNow"), external: true }}
       />
 
       {/* Booking card first, straight under the header */}
@@ -65,7 +65,7 @@ export default async function EmpowerThyself({
         investment="36.500 CZK"
         duration={t("duration")}
         inquiry={inquiry}
-        bookHref={STRIPE}
+        bookHref={BOOKING_URL}
         note={t("bookingNote")}
       >
         <div className="mx-auto max-w-2xl space-y-3 text-foreground">
