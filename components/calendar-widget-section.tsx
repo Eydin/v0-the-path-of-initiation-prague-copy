@@ -2,6 +2,7 @@ import { getFormatter, getTranslations } from "next-intl/server"
 import { ArrowRight, Clock, MapPin, Sparkles } from "lucide-react"
 import { Link } from "@/i18n/navigation"
 import { getAllUpcomingEvents, parseLocalDate, type ClassEvent } from "@/lib/schedule"
+import { CalendarCarousel } from "./calendar-carousel"
 import { ScrollReveal } from "./scroll-reveal"
 import { SparkleTrail } from "./sparkle-trail"
 
@@ -19,10 +20,10 @@ function hrefFor(ev: ClassEvent): string {
   return `/${ev.slug}`
 }
 
-// Homepage "This week in Prague": a 7-day strip (today first, a dot on every day with something on)
-// and a card for each event in the next seven days, each with a playful one-liner per kind of event.
-// When the week is empty it shows the next three events instead. Everything comes from lib/schedule.ts
-// and is recomputed on every (re)render, so it moves on by itself (the homepage sets `revalidate`).
+// Homepage "Coming up in Prague": a 7-day strip (today first, a dot on every day with something on)
+// and a scrollable carousel with a card for every upcoming event, each with a playful one-liner per
+// kind of event. Everything comes from lib/schedule.ts and is recomputed on every (re)render, so it
+// moves on by itself (the homepage sets `revalidate`).
 export async function CalendarWidgetSection() {
   const t = await getTranslations("CalendarWidget")
   const tCategories = await getTranslations("CalendarPage")
@@ -30,10 +31,7 @@ export async function CalendarWidgetSection() {
 
   const days = Array.from({ length: 7 }, (_, i) => dayKey(i))
   const upcoming = getAllUpcomingEvents()
-  const thisWeek = upcoming.filter((ev) => ev.date <= days[6])
-  const hasThisWeek = thisWeek.length > 0
-  const shown = hasThisWeek ? thisWeek.slice(0, 6) : upcoming.slice(0, 3)
-  const busyDays = new Set(thisWeek.map((ev) => ev.date))
+  const busyDays = new Set(upcoming.filter((ev) => ev.date <= days[6]).map((ev) => ev.date))
 
   return (
     <section className="relative py-12">
@@ -49,12 +47,8 @@ export async function CalendarWidgetSection() {
 
             <div className="relative z-10 text-center">
               <p className="mb-2 font-serif text-xs uppercase tracking-[0.3em] text-primary sm:text-sm">{t("eyebrow")}</p>
-              <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-4xl">
-                {hasThisWeek ? t("heading") : t("headingNext")}
-              </h2>
-              <p className="mx-auto mt-3 max-w-xl text-muted-foreground">
-                {hasThisWeek ? t("body", { count: thisWeek.length }) : t("bodyNext")}
-              </p>
+              <h2 className="font-serif text-3xl tracking-wide text-foreground md:text-4xl">{t("headingNext")}</h2>
+              <p className="mx-auto mt-3 max-w-xl text-muted-foreground">{t("bodyAll")}</p>
             </div>
 
             {/* the week at a glance: today first, a glowing dot where something is on */}
@@ -66,13 +60,13 @@ export async function CalendarWidgetSection() {
                   <li
                     key={d}
                     className={`flex flex-col items-center rounded-md border py-2 ${
-                      i === 0 ? "border-primary bg-primary/15" : "border-primary/20 bg-background/30"
+                      i === 0 ? "border-[#e3c36e]/70 bg-[#6e1426] shadow-[0_0_14px_rgba(133,25,47,0.7)]" : "border-primary/20 bg-background/30"
                     }`}
                   >
-                    <span className="text-[0.6rem] uppercase tracking-[0.15em] text-muted-foreground sm:text-[0.65rem]">
+                    <span className={`text-[0.6rem] uppercase tracking-[0.15em] sm:text-[0.65rem] ${i === 0 ? "text-[#f2dc9a]" : "text-muted-foreground"}`}>
                       {i === 0 ? t("today") : format.dateTime(date, { weekday: "short", timeZone: "UTC" })}
                     </span>
-                    <span className="font-serif text-lg leading-tight text-foreground sm:text-xl">
+                    <span className={`font-serif text-lg leading-tight sm:text-xl ${i === 0 ? "text-[#f2dc9a]" : "text-foreground"}`}>
                       {format.dateTime(date, { day: "numeric", timeZone: "UTC" })}
                     </span>
                     <span
@@ -84,13 +78,14 @@ export async function CalendarWidgetSection() {
               })}
             </ol>
 
-            {shown.length > 0 ? (
-              <ul className="relative z-10 mt-7 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                {shown.map((ev) => {
+            {upcoming.length > 0 ? (
+              <div className="relative z-10">
+              <CalendarCarousel prevLabel={t("prev")} nextLabel={t("next")}>
+                {upcoming.map((ev) => {
                   const date = parseLocalDate(ev.date)
                   const isToday = ev.date === days[0]
                   return (
-                    <li key={`${ev.slug}-${ev.date}`}>
+                    <li key={`${ev.slug}-${ev.date}`} className="w-[17rem] shrink-0 snap-start sm:w-72">
                       <Link
                         href={hrefFor(ev)}
                         className="home-mini-card group flex h-full flex-col gap-2 rounded-lg border border-primary/20 p-5 transition-all hover:-translate-y-0.5 hover:border-primary/60"
@@ -129,7 +124,8 @@ export async function CalendarWidgetSection() {
                     </li>
                   )
                 })}
-              </ul>
+              </CalendarCarousel>
+              </div>
             ) : (
               <p className="relative z-10 mt-7 text-center text-muted-foreground">{t("empty")}</p>
             )}

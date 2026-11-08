@@ -76,6 +76,9 @@
     "headingNext": "Demnächst in Prag",
     "body": "{count, plural, one {Diese Woche passiert etwas Schönes. Komm dazu!} other {Diese Woche passieren # schöne Dinge. Such dir eins aus und komm vorbei!}}",
     "bodyNext": "Diese Woche ist es bei uns ruhig, deshalb hier, was als Nächstes kommt. Merk dir den Termin!",
+    "bodyAll": "Hier ist alles, was ansteht. Stöbere, such dir etwas aus und komm vorbei!",
+    "prev": "Vorherige Termine",
+    "next": "Nächste Termine",
     "weekLabel": "Die nächsten sieben Tage",
     "today": "Heute",
     "vibe": {

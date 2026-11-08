@@ -76,6 +76,9 @@
     "headingNext": "Brzy v Praze",
     "body": "{count, plural, one {Tento týden se děje jedna krásná věc. Přijďte mezi nás!} few {Tento týden se dějí # krásné věci. Vyberte si a přijďte!} other {Tento týden se děje # krásných věcí. Vyberte si a přijďte!}}",
     "bodyNext": "Tento týden je u nás klid, tak tady je, co přijde dál. Poznamenejte si datum!",
+    "bodyAll": "Tady je vše, co se chystá. Projděte si to, vyberte si a přijďte!",
+    "prev": "Předchozí akce",
+    "next": "Další akce",
     "weekLabel": "Příštích sedm dní",
     "today": "Dnes",
     "vibe": {

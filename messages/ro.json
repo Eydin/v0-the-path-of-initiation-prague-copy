@@ -76,6 +76,9 @@
     "headingNext": "În curând în Praga",
     "body": "{count, plural, one {Săptămâna aceasta are loc un lucru frumos. Vino alături de noi!} few {Săptămâna aceasta au loc # lucruri frumoase. Alege unul și vino!} other {Săptămâna aceasta au loc # de lucruri frumoase. Alege unul și vino!}}",
     "bodyNext": "E o săptămână liniștită la noi, așa că iată ce urmează. Notează-ți data!",
+    "bodyAll": "Iată tot ce urmează. Răsfoiește, alege și vino!",
+    "prev": "Evenimentele anterioare",
+    "next": "Evenimentele următoare",
     "weekLabel": "Următoarele șapte zile",
     "today": "Azi",
     "vibe": {

@@ -76,6 +76,9 @@
     "headingNext": "Coming up in Prague",
     "body": "{count, plural, one {One lovely thing is happening this week. Come and join us!} other {# lovely things are happening this week. Pick one and come along!}}",
     "bodyNext": "It's a quiet week here, so here's what's coming next. Save the date!",
+    "bodyAll": "Here is everything coming up. Scroll through, pick one and come along!",
+    "prev": "Previous events",
+    "next": "Next events",
     "weekLabel": "The next seven days",
     "today": "Today",
     "vibe": {
