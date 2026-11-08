@@ -3,10 +3,6 @@ import { BRAND } from "@/lib/brand-names"
 import { MMS_UK_CALENDAR_URL } from "@/components/modality"
 import type { Healing } from "@/components/healing-grid"
 
-export const LIFE_ACTIVATION_STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
-const FULL_SPIRIT_ACTIVATION_STRIPE = "https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t"
-const AURA_HEALING_STRIPE = "https://buy.stripe.com/8x29AM0ndbsic3j94ng360y"
-
 // Every healing on the /healings page, grouped as the page shows them, with prices and
 // links. The homepage healing teaser picks from the same list, so the two never drift apart.
 export async function getHealingGroups(locale?: string) {
@@ -18,7 +14,7 @@ export async function getHealingGroups(locale?: string) {
       tag: t("groups.activations.items.0.tag"),
       description: t("groups.activations.items.0.description"),
       price: "8.500 CZK",
-      bookHref: LIFE_ACTIVATION_STRIPE,
+      bookSlug: "life-activation",
       detailsHref: "/life-activation",
       format: "inPerson",
     },
@@ -26,7 +22,7 @@ export async function getHealingGroups(locale?: string) {
       name: BRAND.fullSpiritActivation,
       description: t("groups.activations.items.1.description"),
       price: "8.500 CZK",
-      bookHref: FULL_SPIRIT_ACTIVATION_STRIPE,
+      bookSlug: "full-spirit-activation",
       detailsHref: "/full-spirit-activation",
       format: "inPerson",
     },
@@ -45,7 +41,7 @@ export async function getHealingGroups(locale?: string) {
     description: t(`groups.auraEnergy.items.${i}.description`),
     format: auraFormat[i],
     ...(i === 0
-      ? { price: "4.800 CZK", bookHref: AURA_HEALING_STRIPE, detailsHref: "/aura-healing" }
+      ? { price: "4.800 CZK", bookSlug: "aura-healing", detailsHref: "/aura-healing" }
       : {}),
     ...(i === 1 ? { price: "3.669 CZK", detailsHref: "/negative-energy-removal" } : {}),
     ...(i === 2 ? { price: "3.669 CZK", detailsHref: "/emotional-cord-cutting" } : {}),

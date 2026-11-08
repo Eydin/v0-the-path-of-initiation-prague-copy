@@ -9,9 +9,14 @@ import {
   Body,
   BenefitList,
   BookingBlock,
+  calEmbedAttrs,
+  type CalEmbed,
 } from "@/components/modality"
+import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
 
-const STRIPE = "https://buy.stripe.com/7sY28k8TJ7c24AR3K3g360v"
+const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/stress-management"
+const CAL_NAMESPACE = "stress-management"
+const CAL_EMBED: CalEmbed = { link: "all/stress-management", namespace: CAL_NAMESPACE }
 
 export async function generateMetadata({
   params,
@@ -41,6 +46,7 @@ export default async function StressManagement({
 
   return (
     <ModalityShell bg="moonrise-friedrich.jpg" position="center 35%">
+      <CalcomPopupLoader namespace={CAL_NAMESPACE} />
       <ModalityHero
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle")}
@@ -55,7 +61,8 @@ export default async function StressManagement({
         duration={t("duration")}
         inquiry={inquiry}
         note={t("bookingNote")}
-        bookHref={STRIPE}
+        bookHref={BOOKING_URL}
+        bookCalEmbed={CAL_EMBED}
       />
 
       <Panel>
@@ -64,9 +71,10 @@ export default async function StressManagement({
         <Body>{t("introBody2")}</Body>
         <div className="border-t border-primary/20 pt-6 text-center">
           <a
-            href={STRIPE}
+            href={BOOKING_URL}
             target="_blank"
             rel="noopener noreferrer"
+            {...calEmbedAttrs(CAL_EMBED)}
             className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
           >
             {t("enquireNow")} →

@@ -27,13 +27,17 @@ import {
   BookingBlock,
   WhatsAppButton,
   VideoEmbed,
+  type CalEmbed,
 } from "@/components/modality"
 import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { DiscoverCards } from "@/components/sacred-geometry-fun"
 import { ForWhomTiles, NextStepCards, PhotoStory, SessionSteps } from "@/components/life-activation-fun"
 import { MmsLink, withMmsLinks } from "@/components/mms-link"
+import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
 
-const STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
+const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/life-activation"
+const CAL_NAMESPACE = "life-activation"
+const CAL_EMBED: CalEmbed = { link: "all/life-activation", namespace: CAL_NAMESPACE }
 const IMG = "/images/life-activation"
 
 export async function generateMetadata({
@@ -70,6 +74,7 @@ export default async function LifeActivation({
 
   return (
     <ModalityShell bg="bethesda-bloch.jpg" position="center 18%">
+      <CalcomPopupLoader namespace={CAL_NAMESPACE} />
       <ImageHero
         image="creation-of-adam.jpg"
         position="50% 45%"
@@ -78,7 +83,7 @@ export default async function LifeActivation({
         title={BRAND.lifeActivation}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
-        cta={{ href: STRIPE, label: tModality("bookNow"), external: true }}
+        cta={{ href: BOOKING_URL, label: tModality("bookNow"), external: true, calEmbed: CAL_EMBED }}
       />
 
       {/* Booking card first, straight under the header */}
@@ -88,7 +93,8 @@ export default async function LifeActivation({
         investment="8.500 CZK"
         duration={t("duration")}
         inquiry={inquiry}
-        bookHref={STRIPE}
+        bookHref={BOOKING_URL}
+        bookCalEmbed={CAL_EMBED}
         note={t("bookingNote")}
       />
 

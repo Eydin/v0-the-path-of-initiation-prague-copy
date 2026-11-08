@@ -29,7 +29,7 @@ export type CalEmbed = {
   config?: Record<string, string>
 }
 
-function calEmbedAttrs(calEmbed?: CalEmbed) {
+export function calEmbedAttrs(calEmbed?: CalEmbed) {
   if (!calEmbed) return {}
   return {
     // Cal's own click listener (bound on document) opens the modal but never

@@ -5,6 +5,7 @@ import { useTranslations } from "next-intl"
 import { Link } from "@/i18n/navigation"
 import { ScrollReveal } from "./scroll-reveal"
 import { waLink } from "./modality"
+import { BookLink } from "./book-link"
 
 export type Healing = {
   name: string
@@ -14,7 +15,8 @@ export type Healing = {
   /** When any of these are set, the card shows a price and/or Book Now /
    *  See Details buttons instead of the default single "inquire" link. */
   price?: string
-  bookHref?: string
+  /** Cal.com event type slug — renders a Book Now button that opens its booking popup. */
+  bookSlug?: string
   detailsHref?: string
   /** Sessions run elsewhere (e.g. MMS UK): shows a "prices & sign-up" note and a link out to this URL. */
   externalHref?: string
@@ -42,10 +44,10 @@ function FormatBadge({ format }: { format?: Healing["format"] }) {
 function HealingCard({ healing }: { healing: Healing }) {
   const t = useTranslations("HealingGrid")
 
-  if (healing.price || healing.bookHref || healing.detailsHref || healing.externalHref) {
+  if (healing.price || healing.bookSlug || healing.detailsHref || healing.externalHref) {
     // The whole card is clickable: its main link (See Details, else the MMS UK link, else
     // Book Now) stretches over the card (after:inset-0); the other buttons sit above it (z-10).
-    const main = healing.detailsHref ? "details" : healing.externalHref ? "external" : healing.bookHref ? "book" : null
+    const main = healing.detailsHref ? "details" : healing.externalHref ? "external" : healing.bookSlug ? "book" : null
     const stretch = "after:absolute after:inset-0 after:rounded-lg after:content-['']"
     const raised = "relative z-10"
     return (
@@ -68,17 +70,15 @@ function HealingCard({ healing }: { healing: Healing }) {
         {healing.externalHref && (
           <p className="mt-4 text-sm font-semibold leading-relaxed text-primary">{t("mmsUkNote")}</p>
         )}
-        {(healing.bookHref || healing.detailsHref || healing.externalHref) && (
+        {(healing.bookSlug || healing.detailsHref || healing.externalHref) && (
           <div className="mt-4 flex flex-wrap gap-2.5">
-            {healing.bookHref && (
-              <a
-                href={healing.bookHref}
-                target="_blank"
-                rel="noopener noreferrer"
+            {healing.bookSlug && (
+              <BookLink
+                slug={healing.bookSlug}
                 className={`${main === "book" ? stretch : raised} inline-flex items-center justify-center rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90`}
               >
                 {t("bookNow")}
-              </a>
+              </BookLink>
             )}
             {healing.externalHref && (
               <a

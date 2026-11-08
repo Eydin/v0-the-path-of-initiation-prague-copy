@@ -6,6 +6,8 @@ import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { CommunityCarousel } from "@/components/community-carousel"
 import { getAllUpcomingEvents, getUpcomingDates, parseLocalDate } from "@/lib/schedule"
+import { calEmbedAttrs, type CalEmbed } from "@/components/modality"
+import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
 import {
   ArrowRight,
   CalendarDays,
@@ -27,7 +29,8 @@ export const revalidate = 3600
 const PHONE = "420792908296"
 const wa = (text: string) => `https://wa.me/${PHONE}?text=${encodeURIComponent(text)}`
 const WHATSAPP_GENERAL = wa("Hello, I would like to learn more about your community and upcoming events.")
-const STRIPE_MEDITATION_EVENING = "https://buy.stripe.com/9B6cMYgmb8g6ffv80jg360x"
+const MEDITATION_EVENING_BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/meditation-evening"
+const MEDITATION_EVENING_CAL_EMBED: CalEmbed = { link: "all/meditation-evening", namespace: "meditation-evening" }
 
 const DATE_LOCALE: Record<string, string> = { en: "en-GB", cs: "cs-CZ", de: "de-DE", ro: "ro-RO" }
 
@@ -53,7 +56,8 @@ const EVENINGS = [
     duration: "oneAndHalfHours",
     free: false,
     price: "350 CZK",
-    bookHref: STRIPE_MEDITATION_EVENING,
+    bookHref: MEDITATION_EVENING_BOOKING_URL,
+    calEmbed: MEDITATION_EVENING_CAL_EMBED,
     // pack of 4 evenings (1.200 CZK); no Stripe link yet, so it's arranged over WhatsApp
     pack: true,
   },
@@ -129,6 +133,7 @@ export default async function CommunityPage({
       ? nextEvening.bookHref
       : wa(t(`${nextEvening.ns}.inquiry`))
     : WHATSAPP_GENERAL
+  const nextCalEmbed = nextEvening && "calEmbed" in nextEvening ? nextEvening.calEmbed : undefined
 
   const flow = t.raw("flow") as { title: string; text: string }[]
   const forYou = t.raw("forYou") as string[]
@@ -137,6 +142,7 @@ export default async function CommunityPage({
   return (
     <div className="home-cream isolate overflow-x-hidden">
       <Header />
+      <CalcomPopupLoader namespace="meditation-evening" />
       <main className="pt-20">
         {/* ── Hero: daylight, the hosts smiling, what this is in one sentence ── */}
         <section className="relative py-14 lg:py-20">
@@ -230,6 +236,7 @@ export default async function CommunityPage({
                   href={nextHref}
                   target="_blank"
                   rel="noopener noreferrer"
+                  {...calEmbedAttrs(nextCalEmbed)}
                   className="inline-flex shrink-0 items-center justify-center gap-2 rounded border border-primary bg-primary px-7 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
                 >
                   {next ? t("nextCta") : t("askButton")}
@@ -362,6 +369,7 @@ export default async function CommunityPage({
                               href={ev.bookHref}
                               target="_blank"
                               rel="noopener noreferrer"
+                              {...("calEmbed" in ev ? calEmbedAttrs(ev.calEmbed) : {})}
                               className="inline-flex items-center gap-2 rounded border border-primary bg-primary px-4 py-2.5 text-sm text-primary-foreground transition-all hover:bg-primary/90"
                             >
                               {t("payButton")}

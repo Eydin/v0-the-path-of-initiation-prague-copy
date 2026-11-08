@@ -10,11 +10,15 @@ import {
   Body,
   BenefitList,
   BookingBlock,
+  type CalEmbed,
 } from "@/components/modality"
 import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { QuoteBreaker } from "@/components/quote-breaker"
+import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
 
-const STRIPE = "https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t"
+const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/full-spirit-activation"
+const CAL_NAMESPACE = "full-spirit-activation"
+const CAL_EMBED: CalEmbed = { link: "all/full-spirit-activation", namespace: CAL_NAMESPACE }
 
 export async function generateMetadata({
   params,
@@ -48,6 +52,7 @@ export default async function FullSpiritActivation({
 
   return (
     <ModalityShell bg="plains-of-heaven.jpg" position="center 30%">
+      <CalcomPopupLoader namespace={CAL_NAMESPACE} />
       <ImageHero
         image="vitruvian-man.jpg"
         position="50% 22%"
@@ -57,7 +62,7 @@ export default async function FullSpiritActivation({
         title={BRAND.fullSpiritActivation}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
-        cta={{ href: STRIPE, label: tModality("bookNow"), external: true }}
+        cta={{ href: BOOKING_URL, label: tModality("bookNow"), external: true, calEmbed: CAL_EMBED }}
       />
 
       <Panel>
@@ -66,9 +71,11 @@ export default async function FullSpiritActivation({
         <Body>{t("introBody2")}</Body>
         <div className="border-t border-primary/20 pt-6 text-center">
           <a
-            href={STRIPE}
+            href={BOOKING_URL}
             target="_blank"
             rel="noopener noreferrer"
+            data-cal-link={CAL_EMBED.link}
+            data-cal-namespace={CAL_EMBED.namespace}
             className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
           >
             {t("bookNow")} →
@@ -110,7 +117,8 @@ export default async function FullSpiritActivation({
         investment="8500 CZK"
         duration={t("duration")}
         inquiry={inquiry}
-        bookHref={STRIPE}
+        bookHref={BOOKING_URL}
+        bookCalEmbed={CAL_EMBED}
       />
 
       <ModalityFaq items={faqItems} />

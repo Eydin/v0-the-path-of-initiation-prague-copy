@@ -5,8 +5,7 @@ import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import Image from "next/image"
 import { ArrowRight } from "lucide-react"
-
-const LIFE_ACTIVATION_STRIPE = "https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j"
+import { BookLink } from "@/components/book-link"
 
 export async function generateMetadata({
   params,
@@ -298,15 +297,13 @@ export default async function Certifications({
                   <p className="mx-auto mb-10 max-w-xl text-lg leading-relaxed text-muted-foreground">
                     {t("ctaBody")}
                   </p>
-                  <a
-                    href={LIFE_ACTIVATION_STRIPE}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                  <BookLink
+                    slug="life-activation"
                     className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
                   >
                     {t("ctaButton")}
                     <ArrowRight className="h-4 w-4" />
-                  </a>
+                  </BookLink>
                 </div>
               </ScrollReveal>
             </div>

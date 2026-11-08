@@ -2,8 +2,8 @@ import { getTranslations } from "next-intl/server"
 import { ArrowRight, MessageCircle, Sparkles } from "lucide-react"
 import { Link } from "@/i18n/navigation"
 import { BRAND } from "@/lib/brand-names"
-import { LIFE_ACTIVATION_STRIPE } from "@/lib/healings"
 import { ScrollReveal } from "./scroll-reveal"
+import { BookLink } from "./book-link"
 
 // "Your first step": the path in three plain steps for newcomers — what the Life Activation
 // actually is (how it works, how it feels), then Empower Thyself, then everything
@@ -91,15 +91,13 @@ export async function FirstStepsSection() {
                     )}
                     <div className="mt-auto flex flex-wrap items-center gap-x-6 gap-y-3 pt-6">
                       {first && (
-                        <a
-                          href={LIFE_ACTIVATION_STRIPE}
-                          target="_blank"
-                          rel="noopener noreferrer"
+                        <BookLink
+                          slug="life-activation"
                           className="relative z-10 inline-flex items-center gap-2 rounded border border-primary bg-primary px-5 py-3 font-serif text-sm tracking-widest text-primary-foreground uppercase transition-all hover:bg-primary/90"
                         >
                           <Sparkles className="h-4 w-4" />
                           {tCta("bookLifeActivation")}
-                        </a>
+                        </BookLink>
                       )}
                       {/* the link stretches over the whole card (after:inset-0), so the card is clickable;
                           the booking button sits above it (z-10) and keeps its own destination */}

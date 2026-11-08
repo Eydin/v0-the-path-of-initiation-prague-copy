@@ -5,7 +5,8 @@ center 30%
 11.900 CZK
 
 ## PAGE: /astral-travel
-https://buy.stripe.com/3cI7sE1rh1RIc3jeoHg360k
+astral-travel
+all/astral-travel
 A Workshop of the Mystery School
 Astral Travel
 The art and science of travelling beyond the physical body
@@ -29,7 +30,8 @@ Workshops are scheduled in small groups. Reach out for the next available date i
 Hello, I would like to learn more about the Astral Travel workshop.
 
 ## PAGE: /aura-healing
-https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
+aura-healing
+all/aura-healing
 A Healing of the Mystery School
 Restore and protect your energetic field
 Clear, balance and seal the seven layers of the aura
@@ -92,7 +94,6 @@ Not sure where to begin? Reach out and Radu will guide you personally.
 Ask About a Class
 
 ## PAGE: /certifications
-https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 Certifications
 Radu and Diana are here to support you in creating a life worth waking up for
 Every morning
@@ -115,7 +116,8 @@ Begin Your Journey
 ## PAGE: /community
 lucide-react
 Hello, I would like to learn more about your community and upcoming events.
-https://buy.stripe.com/9B6cMYgmb8g6ffv80jg360x
+all/meditation-evening
+meditation-evening
 const nextHref = nextEvening ?
 returning
 Community in Prague
@@ -320,7 +322,8 @@ all/ensofic-reiki-remote
 ensofic-reiki-remote
 
 ## PAGE: /full-spirit-activation
-https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
+full-spirit-activation
+all/full-spirit-activation
 The Modern Mystery School · Lineage of King Salomon
 Awaken and anchor the soul and spirit into the body
 Open your soul to miracles
@@ -529,7 +532,8 @@ Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
 
 ## PAGE: /life-activation
 lucide-react
-https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
+life-activation
+all/life-activation
 /images/life-activation
 The Modern Mystery School · Lineage of King Salomon
 Activate the innate gifts that reside in your DNA
@@ -673,7 +677,6 @@ One-to-one, in person in Prague (Vršovice). Choose a time and pay securely onli
 Hello, I would like to learn more about the Life Purpose & 11th Codon Reading.
 
 ## PAGE: /lineage
-https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 Gudni GED Gudnason
 Hideto REI Nakagome
 Dave THOR Lanyon
@@ -1094,7 +1097,8 @@ Coming soon to Prague — Sacred Geometry IV isn't scheduled here yet, but it's 
 Hello, I would like to learn more about Sacred Geometry IV.
 
 ## PAGE: /sacred-geometry
-https://buy.stripe.com/aFa00c4Dt0NE8R780jg360s
+sacred-geometry-1-class
+all/sacred-geometry-1-class
 A half-day workshop in Prague
 Learn the language of the universe, and how to protect the energy of your home
 The three keys to Heaven: the shapes everything is built from, and how to use them in daily life
@@ -1220,7 +1224,8 @@ Reach out to reserve your place in the next Sanctuary Meditation Class in Prague
 Hello, I would like to learn more about the Sanctuary Meditation.
 
 ## PAGE: /seven-mystery-schools
-https://buy.stripe.com/5kQ7sE2vl1RIffv2FZg360w
+seven-mystery-schools
+all/seven-mystery-schools
 A Workshop of the Mystery School
 The 7 Mystery Schools
 The seven great streams of ancient wisdom
@@ -1302,7 +1307,8 @@ Reach out and Radu will listen, then guide you to the healing that truly serves 
 Hello, I would like to learn more about the specialty healings.
 
 ## PAGE: /spiritual-intuition
-https://buy.stripe.com/00waEQ7PFfIy6IZ80jg360u
+spiritual-intuition
+all/spiritual-intuition
 A Workshop of the Mystery School
 Spiritual Intuition
 Beyond the five senses
@@ -1326,7 +1332,8 @@ Workshops run in small groups. Reach out for the next scheduled date in Prague.
 Hello, I would like to learn more about the Spiritual Intuition workshop.
 
 ## PAGE: /stress-management
-https://buy.stripe.com/7sY28k8TJ7c24AR3K3g360v
+stress-management
+all/stress-management
 For Individuals, Teams & Organisations
 Stress Rescue
 Practical tools to meet pressure with calm
@@ -1356,7 +1363,6 @@ Back to home
 Need to withdraw from a contract? Use our online withdrawal form →
 
 ## PAGE: /testimonials
-https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
 The Journey of Transformation
 Maria - Mother, CEO and Healer
 Life Activation Practitioner, Prague, Czech Republic
@@ -1626,7 +1632,8 @@ Pay for one evening at a time
 Tea and snacks included
 
 ## PAGE: (component) cta-section.tsx
-https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
+life-activation
+all/life-activation
 Your Invitation
 Are You Ready to Walk the Path?
 The door is open, but only you can choose to step through it. If you feel the call, let's start with the beginning: the Life Activation.
@@ -1840,7 +1847,7 @@ Community
 
 ## PAGE: (component) healing-grid.tsx
 : healing.externalHref ?
-: healing.bookHref ?
+: healing.bookSlug ?
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Inquire
@@ -2067,9 +2074,8 @@ Something went wrong. Please try again, or e-mail us directly at radu@thepathofi
 All fields are required unless marked optional.
 
 ## PAGE: (data) healings.ts
-https://buy.stripe.com/14AdR2gmbeEuaZf2FZg360j
-https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
-https://buy.stripe.com/8x29AM0ndbsic3j94ng360y
 8.500 CZK
+life-activation
 /life-activation
+full-spirit-activation
 /full-spirit-activation`;
