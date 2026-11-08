@@ -15,6 +15,7 @@ import {
 import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { QuoteBreaker } from "@/components/quote-breaker"
 import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
+import { BookLink } from "@/components/book-link"
 
 const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/full-spirit-activation"
 const CAL_NAMESPACE = "full-spirit-activation"
@@ -70,16 +71,12 @@ export default async function FullSpiritActivation({
         <Body>{t("introBody1")}</Body>
         <Body>{t("introBody2")}</Body>
         <div className="border-t border-primary/20 pt-6 text-center">
-          <a
-            href={BOOKING_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            data-cal-link={CAL_EMBED.link}
-            data-cal-namespace={CAL_EMBED.namespace}
+          <BookLink
+            slug="full-spirit-activation"
             className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
           >
             {t("bookNow")} →
-          </a>
+          </BookLink>
         </div>
       </Panel>
 

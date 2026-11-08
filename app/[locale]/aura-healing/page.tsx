@@ -10,11 +10,11 @@ import {
   Body,
   BenefitList,
   BookingBlock,
-  calEmbedAttrs,
   type CalEmbed,
 } from "@/components/modality"
 import { MedicalDisclaimer } from "@/components/modality-faq"
 import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
+import { BookLink } from "@/components/book-link"
 
 const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/aura-healing"
 const CAL_NAMESPACE = "aura-healing"
@@ -76,15 +76,12 @@ export default async function AuraHealing({
         <Body>{t("introBody1", { brand: BRAND.sacredGeometry })}</Body>
         <Body>{t("introBody2")}</Body>
         <div className="border-t border-primary/20 pt-6 text-center">
-          <a
-            href={BOOKING_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            {...calEmbedAttrs(CAL_EMBED)}
+          <BookLink
+            slug="aura-healing"
             className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
           >
             {t("bookSession")} →
-          </a>
+          </BookLink>
         </div>
       </Panel>
 

@@ -6,8 +6,8 @@ import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { CommunityCarousel } from "@/components/community-carousel"
 import { getAllUpcomingEvents, getUpcomingDates, parseLocalDate } from "@/lib/schedule"
-import { calEmbedAttrs, type CalEmbed } from "@/components/modality"
-import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
+import { type CalEmbed } from "@/components/modality"
+import { BookOrLink } from "@/components/book-or-link"
 import {
   ArrowRight,
   CalendarDays,
@@ -142,7 +142,6 @@ export default async function CommunityPage({
   return (
     <div className="home-cream isolate overflow-x-hidden">
       <Header />
-      <CalcomPopupLoader namespace="meditation-evening" />
       <main className="pt-20">
         {/* ── Hero: daylight, the hosts smiling, what this is in one sentence ── */}
         <section className="relative py-14 lg:py-20">
@@ -232,16 +231,14 @@ export default async function CommunityPage({
                     )}
                   </div>
                 </div>
-                <a
+                <BookOrLink
                   href={nextHref}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  {...calEmbedAttrs(nextCalEmbed)}
+                  calEmbed={nextCalEmbed}
                   className="inline-flex shrink-0 items-center justify-center gap-2 rounded border border-primary bg-primary px-7 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
                 >
                   {next ? t("nextCta") : t("askButton")}
                   <ArrowRight className="h-4 w-4" />
-                </a>
+                </BookOrLink>
               </div>
             </ScrollReveal>
 
@@ -365,15 +362,13 @@ export default async function CommunityPage({
                         <div className="flex flex-wrap gap-2">
                           {/* paying only makes sense once a date is scheduled */}
                           {"bookHref" in ev && date && (
-                            <a
+                            <BookOrLink
                               href={ev.bookHref}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              {...("calEmbed" in ev ? calEmbedAttrs(ev.calEmbed) : {})}
+                              calEmbed={"calEmbed" in ev ? ev.calEmbed : undefined}
                               className="inline-flex items-center gap-2 rounded border border-primary bg-primary px-4 py-2.5 text-sm text-primary-foreground transition-all hover:bg-primary/90"
                             >
                               {t("payButton")}
-                            </a>
+                            </BookOrLink>
                           )}
                           <a
                             href={inquiryHref}

@@ -10,13 +10,13 @@ import {
   Body,
   BenefitList,
   BookingBlock,
-  calEmbedAttrs,
   type CalEmbed,
 } from "@/components/modality"
 import { SacredGeometrySeriesLinks } from "@/components/sacred-geometry-series-links"
 import { ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { DiscoverCards, MastersStrip, WorkshopGallery } from "@/components/sacred-geometry-fun"
 import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
+import { BookLink } from "@/components/book-link"
 
 const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/sacred-geometry-1-class"
 const CAL_NAMESPACE = "sacred-geometry-1-class"
@@ -90,15 +90,12 @@ export default async function SacredGeometry({
         <Body>{t("introBody1")}</Body>
         <Body>{t("introBody2")}</Body>
         <div className="border-t border-primary/20 pt-6 text-center">
-          <a
-            href={BOOKING_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            {...calEmbedAttrs(CAL_EMBED)}
+          <BookLink
+            slug="sacred-geometry-1-class"
             className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-3.5 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
           >
             {t("reserveYourPlace")} →
-          </a>
+          </BookLink>
         </div>
       </Panel>
 
