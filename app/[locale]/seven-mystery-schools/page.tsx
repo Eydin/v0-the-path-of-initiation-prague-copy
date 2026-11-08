@@ -53,6 +53,7 @@ export default async function SevenMysterySchools({
         title={t("heroTitle")}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+        calEmbed={CAL_EMBED}
       />
 
       <BookingBlock

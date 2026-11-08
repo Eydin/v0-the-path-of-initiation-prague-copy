@@ -10,7 +10,13 @@ import {
   BenefitList,
   WhatsAppButton,
   BookingBlock,
+  type CalEmbed,
 } from "@/components/modality"
+import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
+
+const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/sanctuary-meditation"
+const CAL_NAMESPACE = "sanctuary-meditation"
+const CAL_EMBED: CalEmbed = { link: "all/sanctuary-meditation", namespace: CAL_NAMESPACE }
 
 export async function generateMetadata({
   params,
@@ -40,11 +46,13 @@ export default async function SanctuaryMeditation({
 
   return (
     <ModalityShell bg="moonrise-friedrich.jpg" position="center 40%">
+      <CalcomPopupLoader namespace={CAL_NAMESPACE} />
       <ModalityHero
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle")}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+        calEmbed={CAL_EMBED}
       />
 
       <BookingBlock
@@ -54,6 +62,8 @@ export default async function SanctuaryMeditation({
         duration={t("duration")}
         inquiry={inquiry}
         note={t("bookingNote")}
+        bookHref={BOOKING_URL}
+        bookCalEmbed={CAL_EMBED}
       />
 
       <Panel>

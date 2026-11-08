@@ -9,6 +9,7 @@ const config = {
   heroPosition: "60% 50%",
   investment: "3.669 CZK",
   relatedHref: "/negative-energy-removal",
+  calEmbed: { link: "all/emotional-cord-cutting", namespace: "emotional-cord-cutting" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

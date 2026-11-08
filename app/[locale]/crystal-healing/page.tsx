@@ -10,6 +10,7 @@ const config = {
   heroCaption: "Amethyst geode · photo by Calvin Chai, Unsplash",
   investment: "3.669 CZK",
   relatedHref: "/sacred-rites-healing",
+  calEmbed: { link: "all/crystal-healing", namespace: "crystal-healing" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

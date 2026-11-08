@@ -9,7 +9,13 @@ import {
   Body,
   BenefitList,
   BookingBlock,
+  type CalEmbed,
 } from "@/components/modality"
+import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
+
+const BOOKING_URL = "https://booking.thepathofinitiationprague.com/all/life-purpose-reading"
+const CAL_NAMESPACE = "life-purpose-reading"
+const CAL_EMBED: CalEmbed = { link: "all/life-purpose-reading", namespace: CAL_NAMESPACE }
 
 export async function generateMetadata({
   params,
@@ -39,11 +45,13 @@ export default async function LifePurposeReading({
 
   return (
     <ModalityShell bg="angelico-visione-di-ezechiele-san-marco.jpg" position="center 30%">
+      <CalcomPopupLoader namespace={CAL_NAMESPACE} />
       <ModalityHero
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle")}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+        calEmbed={CAL_EMBED}
       />
 
       <BookingBlock
@@ -54,6 +62,8 @@ export default async function LifePurposeReading({
         duration={t("duration")}
         inquiry={inquiry}
         note={t("bookingNote")}
+        bookHref={BOOKING_URL}
+        bookCalEmbed={CAL_EMBED}
       />
 
       <Panel>

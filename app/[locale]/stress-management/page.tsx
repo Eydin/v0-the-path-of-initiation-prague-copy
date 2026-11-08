@@ -52,6 +52,7 @@ export default async function StressManagement({
         title={t("heroTitle")}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+        calEmbed={CAL_EMBED}
       />
 
       <BookingBlock

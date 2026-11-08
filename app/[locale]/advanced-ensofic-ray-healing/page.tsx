@@ -6,6 +6,7 @@ const config = {
   bg: "plains-of-heaven.jpg",
   position: "center 30%",
   investment: "11.900 CZK",
+  calEmbed: { link: "all/advanced-ensofic-ray-healing", namespace: "advanced-ensofic-ray-healing" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

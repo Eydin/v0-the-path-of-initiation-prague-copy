@@ -57,6 +57,7 @@ export default async function AuraHealing({
         title={t("heroTitle", { brand: BRAND.sacredGeometry })}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+        calEmbed={CAL_EMBED}
       />
 
       <BookingBlock

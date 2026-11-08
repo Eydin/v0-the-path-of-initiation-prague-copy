@@ -72,6 +72,7 @@ export default async function SacredGeometry({
         title={BRAND.sacredGeometryI}
         subtitle={t("heroSubtitle")}
         tagline={t("heroTagline")}
+        calEmbed={CAL_EMBED}
       />
 
       <BookingBlock

@@ -10,6 +10,7 @@ const config = {
   heroCaption: "Healing stones · photo by Dan Farrell, Unsplash",
   investment: "3.669 CZK",
   relatedHref: "/crystal-healing",
+  calEmbed: { link: "all/sacred-rites-healing", namespace: "sacred-rites-healing" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

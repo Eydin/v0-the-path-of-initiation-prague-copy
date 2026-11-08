@@ -6,6 +6,7 @@ const config = {
   bg: "temple-pylon-karnak.jpg",
   position: "center 40%",
   investment: "6.150 CZK",
+  calEmbed: { link: "all/spark-of-life", namespace: "spark-of-life" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

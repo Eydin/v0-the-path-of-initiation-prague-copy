@@ -10,6 +10,8 @@ import {
   Body,
   BenefitList,
   BookingBlock,
+  CAL_ORIGIN,
+  type CalEmbed,
 } from "@/components/modality"
 import { MedicalDisclaimer, ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { Link } from "@/i18n/navigation"
@@ -30,7 +32,9 @@ type SessionConfig = {
   /** closing invitation to a related page (texts: relatedHeading / relatedBody / relatedCta) */
   relatedHref?: string
   /** Two booking buttons side by side (e.g. "Book In Person" / "Book Remote") instead of one. */
-  bookOptions?: { labelKey: "bookInPerson" | "bookRemote"; href: string; calEmbed?: import("@/components/modality").CalEmbed }[]
+  bookOptions?: { labelKey: "bookInPerson" | "bookRemote"; href: string; calEmbed?: CalEmbed }[]
+  /** Single Cal.com booking option — opens the popup directly from both the hero and the booking box. Omit for pages using `bookOptions` instead. */
+  calEmbed?: CalEmbed
 }
 
 export async function healingSessionMetadata(
@@ -71,6 +75,7 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
       {config.bookOptions?.map((opt) =>
         opt.calEmbed ? <CalcomPopupLoader key={opt.calEmbed.namespace} namespace={opt.calEmbed.namespace} /> : null,
       )}
+      {config.calEmbed && <CalcomPopupLoader namespace={config.calEmbed.namespace} />}
       <ModalityHero
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle")}
@@ -79,6 +84,7 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         image={config.heroImage}
         position={config.heroPosition}
         caption={config.heroCaption}
+        calEmbed={config.calEmbed}
       />
 
       <BookingBlock
@@ -89,6 +95,8 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         inquiry={t("inquiry")}
         note={t("bookingNote")}
         bookOptions={config.bookOptions}
+        bookHref={config.calEmbed ? `${CAL_ORIGIN}/${config.calEmbed.link}` : undefined}
+        bookCalEmbed={config.calEmbed}
       >
         {has("priceNote") && <p className="text-center text-lg font-semibold text-primary">{t("priceNote")}</p>}
         {/* optional session options (e.g. single session vs package): name, length and price, what it includes */}

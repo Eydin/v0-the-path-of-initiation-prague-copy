@@ -9,6 +9,7 @@ const config = {
   heroPosition: "40% 55%",
   heroCaption: "Morning light · photo by Andrew Tom, Unsplash",
   investment: "6.150 CZK",
+  calEmbed: { link: "all/soul-retrieval", namespace: "soul-retrieval" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

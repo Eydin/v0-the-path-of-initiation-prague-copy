@@ -135,6 +135,7 @@ export function ModalityHero({
   image,
   position,
   caption,
+  calEmbed,
 }: {
   eyebrow?: string
   title: string
@@ -144,15 +145,18 @@ export function ModalityHero({
   image?: string
   position?: string
   caption?: string
+  /** When set, "Book Now" opens the Cal.com popup directly instead of scrolling to the page's BookingBlock. */
+  calEmbed?: CalEmbed
 }) {
   const art = useContext(ShellArt)
   const t = useTranslations("Modality")
   const [bookingId, setBookingId] = useState<string | null>(null)
   useEffect(() => {
+    if (calEmbed) return
     // booking boxes (BookingBlock) are the dark boxes inside a section with an id
     const box = document.querySelector("main section[id] .home-box")
     setBookingId(box?.closest("section")?.id ?? null)
-  }, [])
+  }, [calEmbed])
 
   if (art) {
     return (
@@ -165,7 +169,13 @@ export function ModalityHero({
         subtitle={subtitle}
         tagline={tagline}
         accent="gold"
-        cta={bookingId ? { href: `#${bookingId}`, label: t("bookNow") } : undefined}
+        cta={
+          calEmbed
+            ? { href: `${CAL_ORIGIN}/${calEmbed.link}`, label: t("bookNow"), external: true, calEmbed }
+            : bookingId
+              ? { href: `#${bookingId}`, label: t("bookNow") }
+              : undefined
+        }
       />
     )
   }
