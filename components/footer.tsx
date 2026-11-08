@@ -129,7 +129,7 @@ export function Footer() {
           </a>
         </div>
 
-        <div className="mt-14 flex flex-col items-center gap-3 border-t border-border/60 pt-6 sm:flex-row sm:justify-between">
+        <div className="mt-14 flex flex-col items-center gap-3 border-t border-border/60 pt-6 sm:flex-row sm:justify-between sm:pr-20 lg:pr-32">
           <p className="text-xs text-muted-foreground">
             {t("copyright", { year: new Date().getFullYear() })}
           </p>
