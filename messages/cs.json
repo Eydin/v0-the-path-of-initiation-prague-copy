@@ -59,8 +59,10 @@
     "investment": "Cena",
     "duration": "Doba trvání",
     "bookNow": "Rezervovat",
+    "bookInPerson": "Rezervovat osobně",
+    "bookRemote": "Rezervovat na dálku",
     "askQuestion": "Máte nějaké otázky?",
-    "defaultNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "defaultNote": "Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "healingSession": "Léčebná seance",
     "readingSession": "Čtecí seance"
   },
@@ -401,7 +403,7 @@
     "certBody": "Toto je průlomová metoda pro <i>vnitřní proměnu a odemknutí vašeho osobního potenciálu</i>. Kombinuje starobylou moudrost s moderními energiemi, aby vám pomohla růst a vyvíjet se. Tuto techniku nabízí <mms>Modern Mystery School</mms> prostřednictvím certifikovaných praktiků Life Activation. Slouží jako <bold>brána k vyššímu vědomí a duchovní expanzi.</bold>",
     "bookingTitle": "Poznejte svou autentickou sílu a vyšší já!",
     "duration": "2 hodiny",
-    "bookingNote": "Po dokončení platby vás budeme kontaktovat, abychom domluvili termín.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand}.",
     "awakenHeading": "Probuďte více z toho, kým skutečně jste",
     "awakenAlt": "Zářící vlákno DNA rozsvícené body zlatého světla",
@@ -855,7 +857,7 @@
     ],
     "bookingTitle": "Obnovte své světlo",
     "duration": "2 hodiny",
-    "bookingNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o {brand} — léčení aury."
   },
   "LifePurposeReading": {
@@ -875,7 +877,7 @@
     ],
     "bookingTitle": "Přečtěte si své poslání",
     "duration": "60–90 minut",
-    "bookingNote": "Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Čtení životního poslání a 11. kodonu."
   },
   "SacredGeometryPage": {
@@ -1140,7 +1142,7 @@
       { "label": "Uplatnění v životě:", "text": "Používejte svou intuici pro jasnější rozhodnutí, vztahy a směřování." }
     ],
     "bookingTitle": "Důvěřujte tomu, co už víte",
-    "duration": "3 hodiny",
+    "duration": "2,5 hodiny",
     "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu Duchovní intuice."
   },
@@ -1654,7 +1656,7 @@
     ],
     "bookingTitle": "Vraťte se k sobě",
     "duration": "2,5 hodiny",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, rád/a bych se dozvěděl/a více o hermetickém návratu duše."
   },
   "EmotionalCordCutting": {
@@ -1740,7 +1742,7 @@
     "relatedCta": "Prozkoumat odstranění negativní energie",
     "bookingTitle": "Přetněte pouta",
     "duration": "60 minut",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Cena zahrnuje konzultaci a všechny procedury. Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Cena zahrnuje konzultaci a všechny procedury. Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o přeříznutí emočních pout."
   },
   "NegativeEnergyRemoval": {
@@ -1817,7 +1819,7 @@
     "relatedCta": "Prozkoumat přeříznutí emočních pout",
     "bookingTitle": "Očista a obnova",
     "duration": "60 minut",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Cena zahrnuje konzultaci a všechny procedury. Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Cena zahrnuje konzultaci a všechny procedury. Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o odstranění negativní energie.",
     "toolsHeading": "Jednoduché nástroje pro každodenní očistu",
     "tools": [
@@ -1867,7 +1869,7 @@
       }
     ],
     "duration": "90 minut",
-    "bookingNote": "Toto léčebné sezení může probíhat osobně v Praze nebo na dálku kdekoli na světě.",
+    "bookingNote": "Vyberte si osobně v Praze (Vršovice) nebo na dálku níže, zvolte termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Ahoj, mám zájem o Ensofic Reiki.",
     "relatedHeading": "Chcete jít hlouběji?",
     "relatedBody": "Pokročilé léčení paprskem Ensof je série tří sezení osobně v Praze, která pracuje s tělem, duší i duchem zároveň pro hlubší a trvalou změnu.",
@@ -1909,7 +1911,7 @@
     ],
     "bookingTitle": "Přijměte paprsek",
     "duration": "3 × 90 minut",
-    "bookingNote": "Tři seance probíhají pouze osobně v Praze. Napište nám a domluvíme si čas.",
+    "bookingNote": "Tímto rezervujete první 90minutové sezení, osobně v Praze (Vršovice), za plnou cenu programu. Další dvě sezení naplánujeme společně s vámi při setkání.",
     "inquiry": "Ahoj, mám zájem o pokročilé léčení paprskem Ensof."
   },
   "NegativeHabits": {
@@ -1949,7 +1951,7 @@
       }
     ],
     "duration": "90 minut",
-    "bookingNote": "K dispozici v Praze nebo na dálku po celém světě. Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "bookingNote": "Vyberte si osobně v Praze (Vršovice) nebo na dálku níže, zvolte termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o léčení negativních návyků."
   },
   "CrystalHealing": {
@@ -1992,7 +1994,7 @@
     ],
     "bookingTitle": "Odpočinek a obnova",
     "duration": "60 minut",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o Sacred Geometry Ancient Crystal Healing.",
     "originEyebrow": "Původ",
     "originHeading": "Léčení z dávného Mu",
@@ -2082,7 +2084,7 @@
     "relatedCta": "Prozkoumat Ancient Crystal Healing",
     "bookingTitle": "Uzdravení a obnova",
     "duration": "60 minut",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Jakmile se ozvete, budeme vás osobně kontaktovat a domluvíme si termín.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o Sacred Geometry Sacred Rites Healing."
   },
   "SparkOfLife": {
@@ -2126,7 +2128,7 @@
     ],
     "bookingTitle": "Oživte svou jiskru",
     "duration": "75 minut",
-    "bookingNote": "Dálková seance, po celém světě. Napište nám a domluvíme si čas.",
+    "bookingNote": "Dálková seance, po celém světě. Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o dálkovém léčení Jiskra života."
   },
   "LifeActivationFaq": {

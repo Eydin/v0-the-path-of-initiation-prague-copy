@@ -449,6 +449,7 @@ export function BookingBlock({
   bookHref,
   bookLabel,
   bookCalEmbed,
+  bookOptions,
   children,
   note,
   kind,
@@ -466,6 +467,8 @@ export function BookingBlock({
   bookLabel?: string
   /** Wires the Book Now button to open the Cal.com booking popup instead of navigating. bookHref stays as the plain-navigation fallback. */
   bookCalEmbed?: CalEmbed
+  /** Two (or more) booking buttons side by side instead of one — e.g. "Book In Person" / "Book Remote", each its own Cal.com event type. Takes precedence over bookHref/bookCalEmbed. labelKey resolves against the Modality namespace (e.g. "bookInPerson"). */
+  bookOptions?: { labelKey: "bookInPerson" | "bookRemote"; href: string; calEmbed?: CalEmbed }[]
   /** Optional extra detail (e.g. deposit breakdown) shown above the buttons. */
   children?: ReactNode
   note?: string
@@ -527,17 +530,35 @@ export function BookingBlock({
                   </div>
                 )}
 
-                {bookHref && (
-                  <a
-                    href={bookHref}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    {...calEmbedAttrs(bookCalEmbed)}
-                    className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-12 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
-                  >
-                    {bookLabel ?? t("bookNow")}
-                    <ArrowRight className="h-4 w-4" />
-                  </a>
+                {bookOptions && bookOptions.length > 0 ? (
+                  <div className="flex flex-col flex-wrap items-center justify-center gap-4 sm:flex-row">
+                    {bookOptions.map((opt) => (
+                      <a
+                        key={opt.labelKey}
+                        href={opt.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        {...calEmbedAttrs(opt.calEmbed)}
+                        className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-10 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
+                      >
+                        {t(opt.labelKey)}
+                        <ArrowRight className="h-4 w-4" />
+                      </a>
+                    ))}
+                  </div>
+                ) : (
+                  bookHref && (
+                    <a
+                      href={bookHref}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      {...calEmbedAttrs(bookCalEmbed)}
+                      className="inline-flex items-center justify-center gap-3 rounded border border-primary bg-primary px-12 py-4 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
+                    >
+                      {bookLabel ?? t("bookNow")}
+                      <ArrowRight className="h-4 w-4" />
+                    </a>
+                  )
                 )}
 
                 <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
