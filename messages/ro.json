@@ -1129,25 +1129,123 @@
     "inquiry": "Bună, aș dori să aflu mai multe despre atelierul de Călătorie Astrală."
   },
   "SpiritualIntuitionPage": {
-    "heroEyebrow": "Un atelier al Școlii Misterelor",
+    "heroEyebrow": "Un workshop de 2,5 ore la Praga",
     "heroTitle": "Intuiție spirituală",
     "heroSubtitle": "Dincolo de cele cinci simțuri",
-    "heroTagline": "Trezește percepția pe care ai avut-o mereu menită să o ai",
-    "introLead": "Intuiția ta nu este un dar pentru puțini — este un simț pentru toată lumea",
-    "introBody1": "Suntem învățați să avem încredere doar în ceea ce putem vedea, auzi și atinge. Și totuși, fiecare dintre noi poartă un set mai discret de simțuri — capacitatea de a percepe energia, de a ști fără să ni se spună, de a simți adevărul unei persoane sau al unei situații. Aceste abilități sunt naturale și, ca orice simț, se întăresc prin practică.",
-    "introBody2": "Prin exerciții simple, practice, acest atelier te ajută să-ți recunoști și să-ți dezvolți propria percepție intuitivă și extrasenzorială — și, la fel de important, să faci diferența între intuiție și zgomotul minții gânditoare.",
+    "heroTagline": "Decizii mai clare, o mai bună simțire a oamenilor și mai multă încredere în tine",
+    "introLead": "Intuiția nu este un dar pentru puțini. Este un simț pe care îl are fiecare.",
+    "introBody1": "Ai știut vreodată ceva înainte să-ți spună cineva? Ai intrat într-o cameră și ai simțit imediat atmosfera? Poate nu poți explica de unde ai știut. Părea să nu vină din nimic din ce ai văzut sau auzit. Cei mai mulți oameni numesc asta intuiție.",
+    "introBody2": "În acest workshop afli care sunt simțurile tale spirituale, cum să le activezi și să le întărești și cum să-ți construiești percepția și sensibilitatea în siguranță și confortabil. Lucrul cu aceste simțuri te invită să folosești mai mult din capacitatea creierului tău. Cu cât poți percepe mai mult, cu atât poți realiza mai mult în viață.",
     "reserveYourPlace": "Rezervă-ți locul",
-    "learnHeading": "Ce vei învăța",
+    "learnHeading": "Ce înveți și cum crește",
     "benefits": [
-      { "label": "Simțirea energiei:", "text": "Exerciții practice pentru a simți și a citi energia subtilă din jurul tău." },
-      { "label": "Încrederea în semnal:", "text": "Deosebește intuiția autentică de frică, proiecție și zgomotul mental." },
-      { "label": "Întărirea percepției:", "text": "Dezvoltă-ți vederea, auzul și cunoașterea interioară prin practică zilnică." },
-      { "label": "Aplicarea în viață:", "text": "Folosește-ți intuiția pentru decizii, relații și direcție mai clare." }
+      {
+        "label": "La curs: simțurile tale spirituale",
+        "text": "Afli care sunt și înveți exercițiile care le activează."
+      },
+      {
+        "label": "La curs: simțul tău cel mai puternic",
+        "text": "Încerci exercițiile și descoperi care dintre cele trei îți vine cel mai natural."
+      },
+      {
+        "label": "Acasă: practica zilnică",
+        "text": "Continui exercițiile în fiecare zi. Asta îți întărește simțurile în timp."
+      },
+      {
+        "label": "Acasă: în ce să ai încredere",
+        "text": "Prin practică, deosebești tot mai bine intuiția reală de teamă, proiecții și zgomotul minții."
+      }
     ],
-    "bookingTitle": "Ai încredere în ceea ce știi deja",
+    "bookingTitle": "Intuiția mea mi-a spus",
     "duration": "2,5 ore",
-    "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
-    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul de Intuiție Spirituală."
+    "bookingNote": "În persoană, într-un grup mic, în Vršovice, Praga.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre atelierul de Intuiție Spirituală.",
+    "whyHeading": "De ce ai avea nevoie de asta?",
+    "whyIntro": "Intuiția ta îți vorbește deja. Acestea sunt momentele în care contează cu adevărat să o auzi.",
+    "why": [
+      {
+        "who": "Decizii mari",
+        "text": "Când ai notat toate argumentele pro și contra și tot nu știi ce să faci."
+      },
+      {
+        "who": "Oameni noi",
+        "text": "Când vrei să știi în cine poți avea încredere, la muncă, în iubire și în prietenie."
+      },
+      {
+        "who": "Zile aglomerate, zgomotoase",
+        "text": "Când nu poți deosebi ce sentimente sunt ale tale și ce ai preluat de la alții."
+      },
+      {
+        "who": "Griji care nu se opresc",
+        "text": "Când vrei să știi dacă ceva este un avertisment real sau doar teamă."
+      }
+    ],
+    "expectHeading": "La ce să te aștepți",
+    "expect": [
+      "2,5 ore, în persoană, în Vršovice, Praga",
+      "Un grup mic, deci loc pentru toate întrebările tale",
+      "Deschis tuturor, fără condiții prealabile",
+      "Nu doar înveți despre aceste simțuri: le practici",
+      "Instrumente și tehnici pe care le poți folosi în fiecare zi"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie de experiență?",
+        "a": "Nu. Cursul este deschis tuturor și nu există condiții prealabile."
+      },
+      {
+        "q": "Dacă nu simt niciodată nimic?",
+        "a": "Este foarte des întâlnit. Pe cei mai mulți dintre noi ne-au învățat să avem încredere doar în ce putem vedea, auzi și atinge. Ca orice simț, intuiția crește prin practică."
+      },
+      {
+        "q": "Workshopul are loc în persoană?",
+        "a": "Da. Are loc în persoană, într-un grup mic, în Vršovice, Praga."
+      },
+      {
+        "q": "Cum mă pot înscrie?",
+        "a": "Folosește butonul de rezervare din partea de sus a acestei pagini ca să-ți alegi data. Dacă vrei să ne întrebi ceva înainte, scrie-ne pe WhatsApp sau pe e-mail și te ajutăm cu drag."
+      }
+    ],
+    "ctaHeading": "Intuiția ta îți vorbește deja",
+    "ctaBody": "Vino să înveți să o auzi, în companie bună.",
+    "sensesHeading": "Cele trei simțuri spirituale ale tale",
+    "sensesIntro": "Explorăm trei forme de intuiție spirituală, iar tu descoperi cu care dintre ele rezonezi cel mai profund.",
+    "senses": [
+      {
+        "label": "Clarviziune",
+        "text": "Vederea spirituală: perceperea cu vederea interioară."
+      },
+      {
+        "label": "Claraudiență",
+        "text": "Auzul spiritual: perceperea cu urechea interioară."
+      },
+      {
+        "label": "Clarsentiență",
+        "text": "Intuiție și simțire: perceperea prin ceea ce simți."
+      }
+    ],
+    "didYouKnowHeading": "Știai că?",
+    "didYouKnowIntro": "Simțurile tale fizice captează doar o mică parte din ceea ce există cu adevărat.",
+    "didYouKnow": [
+      {
+        "title": "Vezi doar o fărâmă din lumină",
+        "text": "Lumina vizibilă este o felie minusculă din spectrul electromagnetic. Albinele văd pe flori modele ultraviolete care pentru noi sunt invizibile."
+      },
+      {
+        "title": "Cea mai mare parte a universului nu se vede",
+        "text": "Tot ce putem vedea și atinge reprezintă doar aproximativ 5% din univers. Restul, oamenii de știință îl numesc materie întunecată și energie întunecată."
+      },
+      {
+        "title": "Trilioane de particule trec prin tine",
+        "text": "În fiecare secundă, trilioane de particule minuscule numite neutrini îți străbat corpul, iar tu nu simți nimic."
+      },
+      {
+        "title": "Creierul tău umple golurile",
+        "text": "Fiecare ochi are un punct orb. Nu îl observi niciodată, pentru că creierul completează partea care lipsește din imagine."
+      }
+    ],
+    "didYouKnowNote": "Știind acestea, ce altceva îți devine accesibil ție, ființă divină care trăiește o viață fizică, odată ce ai instrumentele pentru a-ți trezi simțurile spirituale?",
+    "learnIntro": "La curs înveți exercițiile și le încerci singur(ă). Simțurile tale se dezvoltă apoi pe măsură ce practici acasă, câte puțin în fiecare zi."
   },
   "SevenMysterySchoolsPage": {
     "heroEyebrow": "Un atelier al Școlii Misterelor",

@@ -1129,25 +1129,123 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu Astrální cestování."
   },
   "SpiritualIntuitionPage": {
-    "heroEyebrow": "Workshop mysterijní školy",
+    "heroEyebrow": "Dvaapůlhodinový workshop v Praze",
     "heroTitle": "Duchovní intuice",
     "heroSubtitle": "Za hranicemi pěti smyslů",
-    "heroTagline": "Probuďte vnímání, které jste vždy měli mít",
-    "introLead": "Vaše intuice není dar pro vyvolené — je to smysl pro každého",
-    "introBody1": "Jsme učeni důvěřovat jen tomu, co vidíme, slyšíme a čeho se dotýkáme. Přesto každý z nás nese v sobě tišší soubor smyslů — schopnost vnímat energii, vědět, aniž by nám to bylo řečeno, cítit pravdu o osobě nebo situaci. Tyto schopnosti jsou přirozené a stejně jako každý jiný smysl se s praxí posilují.",
-    "introBody2": "Prostřednictvím jednoduchých, praktických cvičení vám tento workshop pomáhá rozpoznat a rozvíjet vaše vlastní intuitivní a mimosmyslové vnímání — a stejně tak důležité je rozlišit intuici od hluku přemýšlející mysli.",
+    "heroTagline": "Jasnější rozhodnutí, lepší cit pro lidi a větší důvěra v sebe",
+    "introLead": "Intuice není dar pro vyvolené. Je to smysl, který má každý.",
+    "introBody1": "Stalo se vám, že jste něco věděli dřív, než vám to kdokoli řekl? Vešli jste do místnosti a hned vycítili náladu? Možná neumíte vysvětlit, jak jste to poznali. Jako by to nepřišlo z ničeho, co jste viděli nebo slyšeli. Většina lidí tomu říká intuice.",
+    "introBody2": "Na tomto workshopu se dozvíte, co jsou vaše duchovní smysly, jak je aktivovat a posilovat a jak bezpečně a pohodlně budovat svou vnímavost a citlivost. Práce s těmito smysly vás vede k tomu, abyste využívali více z kapacity svého mozku. Čím více dokážete vnímat, tím více můžete v životě dokázat.",
     "reserveYourPlace": "Rezervovat si místo",
-    "learnHeading": "Co se naučíte",
+    "learnHeading": "Co se naučíte a jak to poroste",
     "benefits": [
-      { "label": "Vnímání energie:", "text": "Praktická cvičení, jak cítit a číst jemnou energii kolem sebe." },
-      { "label": "Důvěra v signál:", "text": "Rozlišujte skutečnou intuici od strachu, projekce a mentálního šumu." },
-      { "label": "Posílení vnímání:", "text": "Rozvíjejte svůj vnitřní zrak, sluch a vědomí prostřednictvím každodenní praxe." },
-      { "label": "Uplatnění v životě:", "text": "Používejte svou intuici pro jasnější rozhodnutí, vztahy a směřování." }
+      {
+        "label": "Na kurzu: vaše duchovní smysly",
+        "text": "Dozvíte se, co jsou, a naučíte se cvičení, která je aktivují."
+      },
+      {
+        "label": "Na kurzu: váš nejsilnější smysl",
+        "text": "Vyzkoušíte si cvičení a zjistíte, který ze tří je vám nejpřirozenější."
+      },
+      {
+        "label": "Doma: každodenní praxe",
+        "text": "V cvičeních pokračujete každý den. Právě díky tomu vaše smysly časem sílí."
+      },
+      {
+        "label": "Doma: čemu věřit",
+        "text": "S praxí lépe rozlišíte skutečnou intuici od strachu, projekce a myšlenkového šumu."
+      }
     ],
-    "bookingTitle": "Důvěřujte tomu, co už víte",
+    "bookingTitle": "Moje intuice mi řekla",
     "duration": "2,5 hodiny",
-    "bookingNote": "Workshopy probíhají v malých skupinách. Ozvěte se nám ohledně dalšího naplánovaného termínu v Praze.",
-    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu Duchovní intuice."
+    "bookingNote": "Osobně, v malé skupině, ve Vršovicích v Praze.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o workshopu Duchovní intuice.",
+    "whyHeading": "Proč byste to potřebovali?",
+    "whyIntro": "Vaše intuice už k vám mluví. V těchto chvílích má opravdový význam ji slyšet.",
+    "why": [
+      {
+        "who": "Velká rozhodnutí",
+        "text": "Když jste sepsali všechna pro a proti a pořád nevíte, co dělat."
+      },
+      {
+        "who": "Noví lidé",
+        "text": "Když chcete vědět, komu můžete věřit, v práci, v lásce i v přátelství."
+      },
+      {
+        "who": "Rušné, hlučné dny",
+        "text": "Když nedokážete rozlišit, které pocity jsou vaše a které jste převzali od druhých."
+      },
+      {
+        "who": "Obavy, které nepřestávají",
+        "text": "Když chcete vědět, jestli jde o skutečné varování, nebo jen o strach."
+      }
+    ],
+    "expectHeading": "Co vás čeká",
+    "expect": [
+      "2,5 hodiny, osobně, ve Vršovicích v Praze",
+      "Malá skupina, takže je prostor pro všechny vaše otázky",
+      "Otevřeno všem, bez předchozích podmínek",
+      "O těchto smyslech se jen neučíte: procvičujete je",
+      "Nástroje a techniky, které můžete používat každý den"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji nějaké zkušenosti?",
+        "a": "Ne. Kurz je otevřený všem a nejsou žádné předchozí podmínky."
+      },
+      {
+        "q": "Co když nikdy nic necítím ani nevnímám?",
+        "a": "To je velmi časté. Většinu z nás naučili věřit jen tomu, co můžeme vidět, slyšet a uchopit. Jako každý smysl i intuice s praxí roste."
+      },
+      {
+        "q": "Probíhá workshop osobně?",
+        "a": "Ano. Probíhá osobně, v malé skupině, ve Vršovicích v Praze."
+      },
+      {
+        "q": "Jak se mohu přihlásit?",
+        "a": "Tlačítkem pro rezervaci nahoře na této stránce si vyberte termín. Pokud se chcete nejdřív na něco zeptat, napište nám na WhatsApp nebo e-mailem a rádi vám pomůžeme."
+      }
+    ],
+    "ctaHeading": "Vaše intuice už k vám mluví",
+    "ctaBody": "Přijďte se ji naučit slyšet, v dobré společnosti.",
+    "sensesHeading": "Vaše tři duchovní smysly",
+    "sensesIntro": "Prozkoumáme tři formy duchovní intuice a vy zjistíte, která z nich ve vás rezonuje nejhlouběji.",
+    "senses": [
+      {
+        "label": "Jasnovidnost",
+        "text": "Duchovní zrak: vnímání vnitřním zrakem."
+      },
+      {
+        "label": "Jasnoslyšení",
+        "text": "Duchovní sluch: vnímání vnitřním sluchem."
+      },
+      {
+        "label": "Jasnocítění",
+        "text": "Intuice a cítění: vnímání skrze to, co cítíte."
+      }
+    ],
+    "didYouKnowHeading": "Věděli jste?",
+    "didYouKnowIntro": "Vaše fyzické smysly zachytí jen malou část toho, co tu skutečně je.",
+    "didYouKnow": [
+      {
+        "title": "Vidíte jen zlomek světla",
+        "text": "Viditelné světlo je nepatrný výsek elektromagnetického spektra. Včely vidí na květech ultrafialové vzory, které jsou pro nás neviditelné."
+      },
+      {
+        "title": "Většinu vesmíru nevidíme",
+        "text": "Všechno, co můžeme vidět a uchopit, tvoří jen asi 5 % vesmíru. Zbytek vědci nazývají temná hmota a temná energie."
+      },
+      {
+        "title": "Procházejí vámi biliony částic",
+        "text": "Každou sekundu projdou vaším tělem biliony drobných částic zvaných neutrina a vy necítíte nic."
+      },
+      {
+        "title": "Váš mozek doplňuje mezery",
+        "text": "Každé oko má slepou skvrnu. Nikdy si jí nevšimnete, protože mozek chybějící část obrazu doplní."
+      }
+    ],
+    "didYouKnowNote": "Co dalšího se vám s tímto vědomím otevírá, božské bytosti žijící fyzický život, jakmile máte nástroje k probuzení svých duchovních smyslů?",
+    "learnIntro": "Na kurzu se naučíte cvičení a sami si je vyzkoušíte. Vaše smysly se pak rozvíjejí, když doma cvičíte, každý den trochu."
   },
   "SevenMysterySchoolsPage": {
     "heroEyebrow": "Workshop mysterijní školy",

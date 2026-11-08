@@ -1309,27 +1309,80 @@ Hello, I would like to learn more about the specialty healings.
 ## PAGE: /spiritual-intuition
 spiritual-intuition
 all/spiritual-intuition
-A Workshop of the Mystery School
+A 2.5-Hour Workshop in Prague
 Spiritual Intuition
 Beyond the five senses
-Awaken the perception you were always meant to have
-Your intuition is not a gift for the few — it is a sense for everyone
-We are taught to trust only what we can see, hear and touch. Yet every one of us carries a quieter set of senses — the ability to perceive energy, to know without being told, to feel the truth of a person or a situation. These abilities are natural, and like any sense, they grow stronger with practice.
-Through simple, practical exercises, this workshop helps you recognise and develop your own intuitive and extrasensory perception — and, just as importantly, to tell the difference between intuition and the noise of the thinking mind.
+Clearer decisions, a better sense of people, and more trust in yourself
+Your intuition is not a gift for the few. It is a sense everyone has.
+Have you ever known something before anyone told you? Walked into a room and felt the mood straight away? You may not be able to explain how you knew. It didn't seem to come from anything you saw or heard. Most people call that intuition.
+In this workshop you learn what your spiritual senses are, how to activate and strengthen them, and how to build your awareness and sensitivity safely and comfortably. Working with these senses invites you to use more of your brain's capacity. The more you can perceive, the more you can achieve in life.
 Reserve Your Place
-What You Will Learn
-Sense energy:
-Practical exercises to feel and read the subtle energy around you.
-Trust the signal:
-Distinguish genuine intuition from fear, projection and mental chatter.
-Strengthen perception:
-Develop your inner sight, hearing and knowing through daily practice.
-Apply it in life:
-Use your intuition for clearer decisions, relationships and direction.
-Trust What You Already Know
+What You Learn, and How It Grows
+In class: your spiritual senses
+You learn what they are and the exercises that activate them.
+In class: your strongest sense
+You try the exercises and discover which of the three comes most naturally to you.
+At home: daily practice
+You keep doing the exercises every day. This is what makes your senses stronger over time.
+At home: knowing what to trust
+With practice, you get better at telling real intuition from fear, projection and mental chatter.
+My Intuition Told Me
 2.5 Hours
-Workshops run in small groups. Reach out for the next scheduled date in Prague.
+In person, in a small group, in Vršovice, Prague.
 Hello, I would like to learn more about the Spiritual Intuition workshop.
+Why Would You Need This?
+Your intuition is already speaking. These are the moments when hearing it makes a real difference.
+Big decisions
+When you have listed every pro and con and still don't know what to do.
+New people
+When you want to know who you can trust, at work, in love and in friendship.
+Crowded, noisy days
+When you can't tell which feelings are yours and which you picked up from others.
+Worry that won't stop
+When you want to know if something is a real warning or only fear.
+What to Expect
+2.5 hours, in person, in Vršovice, Prague
+A small group, so there is room for all your questions
+Open to everyone, with no prerequisites
+You don't only learn about these senses: you practise them
+Tools and techniques you can keep using every day
+Do I need any experience?
+No. The class is open to everyone and there are no prerequisites.
+What if I never feel or sense anything?
+That is very common. Most of us were taught to trust only what we can see, hear and touch. Like any sense, intuition grows with practice.
+Is the workshop in person?
+Yes. It takes place in person, in a small group, in Vršovice, Prague.
+How do I join?
+Use the booking button at the top of this page to choose your date. If you would like to ask something first, write to us on WhatsApp or by email and we will gladly help.
+Your Intuition Is Already Speaking
+Come and learn to hear it, in good company.
+Your Three Spiritual Senses
+We explore three forms of spiritual intuition, and you discover which one you resonate with most deeply.
+Clairvoyance
+Spiritual vision: perceiving with your inner sight.
+Clairaudience
+Spiritual hearing: perceiving with your inner ear.
+Clairsentience
+Intuition and feeling: perceiving through what you sense.
+Did You Know?
+Your physical senses pick up only a small part of what is really there.
+You see only a sliver of light
+Visible light is a tiny slice of the electromagnetic spectrum. Bees see ultraviolet patterns on flowers that are invisible to us.
+Most of the universe is unseen
+Everything we can see and touch makes up only about 5% of the universe. Scientists call the rest dark matter and dark energy.
+Trillions of particles pass through you
+Every second, trillions of tiny particles called neutrinos pass straight through your body, and you feel nothing.
+Your brain fills in the gaps
+Each eye has a blind spot. You never notice it, because your brain fills in the missing part of the picture.
+Knowing this, what else becomes available to you, a divine being living a physical life, once you have the tools to awaken your spiritual senses?
+In class you learn the exercises and try them yourself. Your senses then develop as you practise at home, a little every day.
+Questions
+Frequently Asked Questions
+Who It Is For
+This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
+You'll be in good hands
+Diana and Radu Coman
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: /stress-management
 stress-management

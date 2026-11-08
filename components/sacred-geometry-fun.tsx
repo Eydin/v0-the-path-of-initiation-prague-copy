@@ -54,12 +54,15 @@ export function DiscoverCards({
   intro,
   items,
   icons = DISCOVER_ICONS,
+  fourUp = false,
 }: {
   heading: string
   intro?: string
   items: { label: string; text: string }[]
   /** one icon per card (repeats if fewer); defaults to the sacred-geometry shapes */
   icons?: LucideIcon[]
+  /** four cards in one row on desktop, for a set of exactly four */
+  fourUp?: boolean
 }) {
   return (
     <section className="relative py-12 lg:py-16">
@@ -70,7 +73,7 @@ export function DiscoverCards({
             {intro && <p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{intro}</p>}
           </div>
         </ScrollReveal>
-        <ol className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <ol className={`grid gap-4 sm:grid-cols-2 ${fourUp ? "lg:grid-cols-4" : "lg:grid-cols-3"}`}>
           {items.map((it, i) => {
             const Icon = icons[i % icons.length]
             return (

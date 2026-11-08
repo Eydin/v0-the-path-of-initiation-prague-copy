@@ -1129,25 +1129,123 @@
     "inquiry": "Hello, I would like to learn more about the Astral Travel workshop."
   },
   "SpiritualIntuitionPage": {
-    "heroEyebrow": "A Workshop of the Mystery School",
+    "heroEyebrow": "A 2.5-Hour Workshop in Prague",
     "heroTitle": "Spiritual Intuition",
     "heroSubtitle": "Beyond the five senses",
-    "heroTagline": "Awaken the perception you were always meant to have",
-    "introLead": "Your intuition is not a gift for the few — it is a sense for everyone",
-    "introBody1": "We are taught to trust only what we can see, hear and touch. Yet every one of us carries a quieter set of senses — the ability to perceive energy, to know without being told, to feel the truth of a person or a situation. These abilities are natural, and like any sense, they grow stronger with practice.",
-    "introBody2": "Through simple, practical exercises, this workshop helps you recognise and develop your own intuitive and extrasensory perception — and, just as importantly, to tell the difference between intuition and the noise of the thinking mind.",
+    "heroTagline": "Clearer decisions, a better sense of people, and more trust in yourself",
+    "introLead": "Your intuition is not a gift for the few. It is a sense everyone has.",
+    "introBody1": "Have you ever known something before anyone told you? Walked into a room and felt the mood straight away? You may not be able to explain how you knew. It didn't seem to come from anything you saw or heard. Most people call that intuition.",
+    "introBody2": "In this workshop you learn what your spiritual senses are, how to activate and strengthen them, and how to build your awareness and sensitivity safely and comfortably. Working with these senses invites you to use more of your brain's capacity. The more you can perceive, the more you can achieve in life.",
     "reserveYourPlace": "Reserve Your Place",
-    "learnHeading": "What You Will Learn",
+    "learnHeading": "What You Learn, and How It Grows",
     "benefits": [
-      { "label": "Sense energy:", "text": "Practical exercises to feel and read the subtle energy around you." },
-      { "label": "Trust the signal:", "text": "Distinguish genuine intuition from fear, projection and mental chatter." },
-      { "label": "Strengthen perception:", "text": "Develop your inner sight, hearing and knowing through daily practice." },
-      { "label": "Apply it in life:", "text": "Use your intuition for clearer decisions, relationships and direction." }
+      {
+        "label": "In class: your spiritual senses",
+        "text": "You learn what they are and the exercises that activate them."
+      },
+      {
+        "label": "In class: your strongest sense",
+        "text": "You try the exercises and discover which of the three comes most naturally to you."
+      },
+      {
+        "label": "At home: daily practice",
+        "text": "You keep doing the exercises every day. This is what makes your senses stronger over time."
+      },
+      {
+        "label": "At home: knowing what to trust",
+        "text": "With practice, you get better at telling real intuition from fear, projection and mental chatter."
+      }
     ],
-    "bookingTitle": "Trust What You Already Know",
+    "bookingTitle": "My Intuition Told Me",
     "duration": "2.5 Hours",
-    "bookingNote": "Workshops run in small groups. Reach out for the next scheduled date in Prague.",
-    "inquiry": "Hello, I would like to learn more about the Spiritual Intuition workshop."
+    "bookingNote": "In person, in a small group, in Vršovice, Prague.",
+    "inquiry": "Hello, I would like to learn more about the Spiritual Intuition workshop.",
+    "whyHeading": "Why Would You Need This?",
+    "whyIntro": "Your intuition is already speaking. These are the moments when hearing it makes a real difference.",
+    "why": [
+      {
+        "who": "Big decisions",
+        "text": "When you have listed every pro and con and still don't know what to do."
+      },
+      {
+        "who": "New people",
+        "text": "When you want to know who you can trust, at work, in love and in friendship."
+      },
+      {
+        "who": "Crowded, noisy days",
+        "text": "When you can't tell which feelings are yours and which you picked up from others."
+      },
+      {
+        "who": "Worry that won't stop",
+        "text": "When you want to know if something is a real warning or only fear."
+      }
+    ],
+    "expectHeading": "What to Expect",
+    "expect": [
+      "2.5 hours, in person, in Vršovice, Prague",
+      "A small group, so there is room for all your questions",
+      "Open to everyone, with no prerequisites",
+      "You don't only learn about these senses: you practise them",
+      "Tools and techniques you can keep using every day"
+    ],
+    "faq": [
+      {
+        "q": "Do I need any experience?",
+        "a": "No. The class is open to everyone and there are no prerequisites."
+      },
+      {
+        "q": "What if I never feel or sense anything?",
+        "a": "That is very common. Most of us were taught to trust only what we can see, hear and touch. Like any sense, intuition grows with practice."
+      },
+      {
+        "q": "Is the workshop in person?",
+        "a": "Yes. It takes place in person, in a small group, in Vršovice, Prague."
+      },
+      {
+        "q": "How do I join?",
+        "a": "Use the booking button at the top of this page to choose your date. If you would like to ask something first, write to us on WhatsApp or by email and we will gladly help."
+      }
+    ],
+    "ctaHeading": "Your Intuition Is Already Speaking",
+    "ctaBody": "Come and learn to hear it, in good company.",
+    "sensesHeading": "Your Three Spiritual Senses",
+    "sensesIntro": "We explore three forms of spiritual intuition, and you discover which one you resonate with most deeply.",
+    "senses": [
+      {
+        "label": "Clairvoyance",
+        "text": "Spiritual vision: perceiving with your inner sight."
+      },
+      {
+        "label": "Clairaudience",
+        "text": "Spiritual hearing: perceiving with your inner ear."
+      },
+      {
+        "label": "Clairsentience",
+        "text": "Intuition and feeling: perceiving through what you sense."
+      }
+    ],
+    "didYouKnowHeading": "Did You Know?",
+    "didYouKnowIntro": "Your physical senses pick up only a small part of what is really there.",
+    "didYouKnow": [
+      {
+        "title": "You see only a sliver of light",
+        "text": "Visible light is a tiny slice of the electromagnetic spectrum. Bees see ultraviolet patterns on flowers that are invisible to us."
+      },
+      {
+        "title": "Most of the universe is unseen",
+        "text": "Everything we can see and touch makes up only about 5% of the universe. Scientists call the rest dark matter and dark energy."
+      },
+      {
+        "title": "Trillions of particles pass through you",
+        "text": "Every second, trillions of tiny particles called neutrinos pass straight through your body, and you feel nothing."
+      },
+      {
+        "title": "Your brain fills in the gaps",
+        "text": "Each eye has a blind spot. You never notice it, because your brain fills in the missing part of the picture."
+      }
+    ],
+    "didYouKnowNote": "Knowing this, what else becomes available to you, a divine being living a physical life, once you have the tools to awaken your spiritual senses?",
+    "learnIntro": "In class you learn the exercises and try them yourself. Your senses then develop as you practise at home, a little every day."
   },
   "SevenMysterySchoolsPage": {
     "heroEyebrow": "A Workshop of the Mystery School",

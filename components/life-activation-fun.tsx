@@ -54,6 +54,41 @@ export function PhotoStory({
   )
 }
 
+/** Diana and Radu, smiling: who is leading you. */
+export function HostsBox({ eyebrow, heading, body }: { eyebrow: string; heading: string; body: string }) {
+  return (
+    <section className="relative py-8">
+      <div className="mx-auto max-w-4xl px-6">
+        <ScrollReveal>
+          <div className="flex flex-col items-center gap-6 rounded-2xl border border-primary/20 bg-card p-6 text-center sm:flex-row sm:text-left">
+            <div className="flex shrink-0 -space-x-3">
+              <Image
+                src="/images/diana-smiling-avatar.jpg"
+                alt="Diana Coman"
+                width={112}
+                height={112}
+                className="h-24 w-24 rounded-full border-2 border-primary/50 object-cover sm:h-28 sm:w-28"
+              />
+              <Image
+                src="/images/Radu2.jpg"
+                alt="Radu Coman"
+                width={112}
+                height={112}
+                className="h-24 w-24 rounded-full border-2 border-primary/50 object-cover object-[50%_35%] sm:h-28 sm:w-28"
+              />
+            </div>
+            <div>
+              <p className="mb-1 font-serif text-xs uppercase tracking-[0.25em] text-primary">{eyebrow}</p>
+              <h2 className="font-serif text-2xl tracking-wide text-foreground">{heading}</h2>
+              <p className="mt-2 leading-relaxed text-muted-foreground">{body}</p>
+            </div>
+          </div>
+        </ScrollReveal>
+      </div>
+    </section>
+  )
+}
+
 /** "Is it for you?": a grid of small tiles, one per kind of person, each with an icon. */
 export function ForWhomTiles({
   heading,

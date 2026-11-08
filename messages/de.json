@@ -1129,25 +1129,123 @@
     "inquiry": "Hallo, ich möchte gerne mehr über den Astralreisen-Workshop erfahren."
   },
   "SpiritualIntuitionPage": {
-    "heroEyebrow": "Ein Workshop der Mysterienschule",
+    "heroEyebrow": "Ein 2,5-stündiger Workshop in Prag",
     "heroTitle": "Spirituelle Intuition",
     "heroSubtitle": "Jenseits der fünf Sinne",
-    "heroTagline": "Erwecke die Wahrnehmung, die dir immer bestimmt war",
-    "introLead": "Deine Intuition ist keine Gabe für Wenige — sie ist ein Sinn für jeden",
-    "introBody1": "Uns wird beigebracht, nur dem zu vertrauen, was wir sehen, hören und berühren können. Doch jeder von uns trägt eine leisere Gruppe von Sinnen in sich — die Fähigkeit, Energie wahrzunehmen, zu wissen, ohne dass es einem gesagt wird, die Wahrheit einer Person oder Situation zu fühlen. Diese Fähigkeiten sind natürlich und werden, wie jeder andere Sinn, durch Übung stärker.",
-    "introBody2": "Durch einfache, praktische Übungen hilft dir dieser Workshop, deine eigene intuitive und außersinnliche Wahrnehmung zu erkennen und zu entwickeln — und, ebenso wichtig, den Unterschied zwischen Intuition und dem Rauschen des denkenden Geistes zu erkennen.",
+    "heroTagline": "Klarere Entscheidungen, ein besseres Gespür für Menschen und mehr Vertrauen in dich selbst",
+    "introLead": "Deine Intuition ist keine Gabe für wenige. Sie ist ein Sinn, den jeder hat.",
+    "introBody1": "Wusstest du schon einmal etwas, bevor es dir jemand gesagt hat? Bist du in einen Raum gekommen und hast sofort die Stimmung gespürt? Vielleicht kannst du nicht erklären, woher du es wusstest. Es schien von nichts zu kommen, was du gesehen oder gehört hast. Die meisten Menschen nennen das Intuition.",
+    "introBody2": "In diesem Workshop lernst du, was deine spirituellen Sinne sind, wie du sie aktivierst und stärkst und wie du deine Wahrnehmung und Sensibilität sicher und angenehm aufbaust. Die Arbeit mit diesen Sinnen lädt dich ein, mehr von der Kapazität deines Gehirns zu nutzen. Je mehr du wahrnehmen kannst, desto mehr kannst du im Leben erreichen.",
     "reserveYourPlace": "Sichere dir deinen Platz",
-    "learnHeading": "Was du lernen wirst",
+    "learnHeading": "Was du lernst und wie es wächst",
     "benefits": [
-      { "label": "Energie spüren:", "text": "Praktische Übungen, um die feine Energie um dich herum zu fühlen und zu lesen." },
-      { "label": "Dem Signal vertrauen:", "text": "Unterscheide echte Intuition von Angst, Projektion und mentalem Rauschen." },
-      { "label": "Wahrnehmung stärken:", "text": "Entwickle dein inneres Sehen, Hören und Wissen durch tägliche Praxis." },
-      { "label": "Im Leben anwenden:", "text": "Nutze deine Intuition für klarere Entscheidungen, Beziehungen und Richtung." }
+      {
+        "label": "Im Kurs: deine spirituellen Sinne",
+        "text": "Du lernst, was sie sind, und die Übungen, die sie aktivieren."
+      },
+      {
+        "label": "Im Kurs: dein stärkster Sinn",
+        "text": "Du probierst die Übungen aus und entdeckst, welcher der drei dir am natürlichsten liegt."
+      },
+      {
+        "label": "Zu Hause: tägliche Praxis",
+        "text": "Du machst die Übungen jeden Tag weiter. Genau das stärkt deine Sinne mit der Zeit."
+      },
+      {
+        "label": "Zu Hause: wissen, wem du trauen kannst",
+        "text": "Mit der Übung kannst du echte Intuition immer besser von Angst, Projektion und Gedankenlärm unterscheiden."
+      }
     ],
-    "bookingTitle": "Vertraue dem, was du bereits weißt",
+    "bookingTitle": "Meine Intuition hat es mir gesagt",
     "duration": "2,5 Stunden",
-    "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
-    "inquiry": "Hallo, ich möchte gerne mehr über den Workshop Spirituelle Intuition erfahren."
+    "bookingNote": "Persönlich, in einer kleinen Gruppe, in Vršovice, Prag.",
+    "inquiry": "Hallo, ich möchte gerne mehr über den Workshop Spirituelle Intuition erfahren.",
+    "whyHeading": "Wozu brauchst du das?",
+    "whyIntro": "Deine Intuition spricht bereits. In diesen Momenten macht es einen echten Unterschied, sie zu hören.",
+    "why": [
+      {
+        "who": "Große Entscheidungen",
+        "text": "Wenn du jedes Für und Wider aufgeschrieben hast und immer noch nicht weißt, was du tun sollst."
+      },
+      {
+        "who": "Neue Menschen",
+        "text": "Wenn du wissen möchtest, wem du vertrauen kannst, im Beruf, in der Liebe und in Freundschaften."
+      },
+      {
+        "who": "Volle, laute Tage",
+        "text": "Wenn du nicht unterscheiden kannst, welche Gefühle deine sind und welche du von anderen übernommen hast."
+      },
+      {
+        "who": "Sorgen, die nicht aufhören",
+        "text": "Wenn du wissen möchtest, ob etwas eine echte Warnung ist oder nur Angst."
+      }
+    ],
+    "expectHeading": "Was dich erwartet",
+    "expect": [
+      "2,5 Stunden, persönlich, in Vršovice, Prag",
+      "Eine kleine Gruppe, also Raum für all deine Fragen",
+      "Offen für alle, ohne Voraussetzungen",
+      "Du lernst nicht nur über diese Sinne: Du übst sie",
+      "Werkzeuge und Techniken, die du jeden Tag weiter nutzen kannst"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich Vorkenntnisse?",
+        "a": "Nein. Der Kurs ist offen für alle, und es gibt keine Voraussetzungen."
+      },
+      {
+        "q": "Was ist, wenn ich nie etwas spüre?",
+        "a": "Das ist sehr häufig. Die meisten von uns haben gelernt, nur dem zu vertrauen, was wir sehen, hören und anfassen können. Wie jeder Sinn wächst die Intuition mit der Übung."
+      },
+      {
+        "q": "Findet der Workshop persönlich statt?",
+        "a": "Ja. Er findet persönlich statt, in einer kleinen Gruppe, in Vršovice, Prag."
+      },
+      {
+        "q": "Wie kann ich teilnehmen?",
+        "a": "Wähle über die Buchungsschaltfläche oben auf dieser Seite deinen Termin. Wenn du vorher etwas fragen möchtest, schreib uns per WhatsApp oder E-Mail, wir helfen dir gern."
+      }
+    ],
+    "ctaHeading": "Deine Intuition spricht bereits",
+    "ctaBody": "Komm und lerne, sie zu hören, in guter Gesellschaft.",
+    "sensesHeading": "Deine drei spirituellen Sinne",
+    "sensesIntro": "Wir erkunden drei Formen spiritueller Intuition, und du entdeckst, welche am tiefsten in dir anklingt.",
+    "senses": [
+      {
+        "label": "Hellsehen",
+        "text": "Spirituelles Sehen: Wahrnehmen mit deiner inneren Sicht."
+      },
+      {
+        "label": "Hellhören",
+        "text": "Spirituelles Hören: Wahrnehmen mit deinem inneren Ohr."
+      },
+      {
+        "label": "Hellfühlen",
+        "text": "Intuition und Gefühl: Wahrnehmen durch das, was du spürst."
+      }
+    ],
+    "didYouKnowHeading": "Wusstest du?",
+    "didYouKnowIntro": "Deine körperlichen Sinne erfassen nur einen kleinen Teil dessen, was wirklich da ist.",
+    "didYouKnow": [
+      {
+        "title": "Du siehst nur einen Bruchteil des Lichts",
+        "text": "Sichtbares Licht ist ein winziger Ausschnitt des elektromagnetischen Spektrums. Bienen sehen auf Blüten ultraviolette Muster, die für uns unsichtbar sind."
+      },
+      {
+        "title": "Der Großteil des Universums bleibt unsichtbar",
+        "text": "Alles, was wir sehen und anfassen können, macht nur etwa 5 % des Universums aus. Den Rest nennen Forschende Dunkle Materie und Dunkle Energie."
+      },
+      {
+        "title": "Billionen Teilchen fliegen durch dich hindurch",
+        "text": "Jede Sekunde durchqueren Billionen winziger Teilchen, Neutrinos genannt, deinen Körper, und du spürst nichts."
+      },
+      {
+        "title": "Dein Gehirn füllt die Lücken",
+        "text": "Jedes Auge hat einen blinden Fleck. Du bemerkst ihn nie, weil dein Gehirn den fehlenden Teil des Bildes ergänzt."
+      }
+    ],
+    "didYouKnowNote": "Was steht dir mit diesem Wissen noch offen, einem göttlichen Wesen, das ein physisches Leben lebt, sobald du die Werkzeuge hast, deine spirituellen Sinne zu erwecken?",
+    "learnIntro": "Im Kurs lernst du die Übungen und probierst sie selbst aus. Deine Sinne entwickeln sich dann, wenn du zu Hause übst, jeden Tag ein wenig."
   },
   "SevenMysterySchoolsPage": {
     "heroEyebrow": "Ein Workshop der Mysterienschule",
