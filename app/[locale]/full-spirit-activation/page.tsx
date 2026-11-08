@@ -106,7 +106,6 @@ export default async function FullSpiritActivation({
 
       <BookingBlock
         kind="healing"
-        slug="full-spirit-activation"
         title={t("bookingTitle")}
         investment="8500 CZK"
         duration={t("duration")}

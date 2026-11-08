@@ -47,7 +47,7 @@ Protection & vitality:
 Re-establish a strong, whole field that supports your wellbeing day to day.
 Restore Your Light
 2 Hours
-After you reach out, we will contact you personally to finalise your appointment.
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 
 ## PAGE: /blog/[slug]
 The Path of Initiation Prague
@@ -231,7 +231,9 @@ center 40%
 
 ## PAGE: /empower-thyself
 Radu Coman
-https://buy.stripe.com/cNi14gd9ZdAq5EVdkDg360i
+empower-thyself
+all/empower-thyself
+month_view
 A Two-Day Program
 Initiation into the Lineage of King Salomon
 If you could be like God — filled with love, harmony, and creative power — would you do it?
@@ -299,8 +301,10 @@ Email
 Price
 Duration
 Book Now
+Book In Person
+Book Remote
 Do you have any questions?
-After you reach out, we will contact you personally to finalize your appointment.
+Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Healing Session
 Reading Session
 
@@ -310,6 +314,10 @@ center 45%
 The first ray of light · photo by Liana S, Unsplash
 4.900 CZK
 /advanced-ensofic-ray-healing
+all/ensofic-reiki-in-person
+ensofic-reiki-in-person
+all/ensofic-reiki-remote
+ensofic-reiki-remote
 
 ## PAGE: /full-spirit-activation
 https://buy.stripe.com/cNi5kwb1RdAq3wN94ng360t
@@ -348,8 +356,10 @@ Prices & Sign-Up on MMS UK
 Email
 Price
 Duration
+Book In Person
+Book Remote
 Do you have any questions?
-After you reach out, we will contact you personally to finalize your appointment.
+Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Healing Session
 Reading Session
 What happens in a session?
@@ -397,8 +407,10 @@ Email
 Price
 Duration
 Book Now
+Book In Person
+Book Remote
 Do you have any questions?
-After you reach out, we will contact you personally to finalize your appointment.
+Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Healing Session
 Reading Session
 
@@ -546,7 +558,7 @@ At the Modern Mystery School, this activation serves as a gateway to spiritual e
 This is a groundbreaking method for inner transformation and unlocking your personal potential . It combines ancient wisdom with modern energies to help you grow and evolve. This technique is offered by the Modern Mystery School through Certified Life Activation Practitioners. It serves as a gateway to higher consciousness and spiritual expansion.
 Meet Your Authentic Power and Higher Self!
 2 Hours
-After the payment is completed, we will contact you to finalize the appointment.
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Awaken More of Who You Truly Are
 A glowing strand of DNA, lit with points of golden light
 The gifts, the clarity and the strength you are looking for may already be inside you, waiting to wake up. Life Activation is the session that awakens them.
@@ -617,8 +629,10 @@ Email
 Price
 Duration
 Book Now
+Book In Person
+Book Remote
 Do you have any questions?
-After you reach out, we will contact you personally to finalize your appointment.
+Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Healing Session
 Reading Session
 What happens in a session?
@@ -655,7 +669,7 @@ A clearer next step:
 Leave with a concrete sense of direction, not just inspiration.
 Read Your Purpose
 60–90 Minutes
-After you reach out, we will contact you personally to finalise your appointment.
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I would like to learn more about the Life Purpose & 11th Codon Reading.
 
 ## PAGE: /lineage
@@ -1008,8 +1022,10 @@ Email
 Price
 Duration
 Book Now
+Book In Person
+Book Remote
 Do you have any questions?
-After you reach out, we will contact you personally to finalize your appointment.
+Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Healing Session
 Reading Session
 
@@ -1305,7 +1321,7 @@ Develop your inner sight, hearing and knowing through daily practice.
 Apply it in life:
 Use your intuition for clearer decisions, relationships and direction.
 Trust What You Already Know
-3 Hours
+2.5 Hours
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
 Hello, I would like to learn more about the Spiritual Intuition workshop.
 
@@ -1441,6 +1457,7 @@ Not Sure Which Class Is Right for You?
 Reach out and we will help you choose the class that fits where you are right now.
 Hello, I would like to learn more about your classes and workshops.
 Activations & Initiations
+Healings
 Healing & Workshops
 About
 Begin Your Journey
@@ -1466,6 +1483,9 @@ In Prague
 This week in Prague
 Coming up in Prague
 It's a quiet week here, so here's what's coming next. Save the date!
+Here is everything coming up. Scroll through, pick one and come along!
+Previous events
+Next events
 The next seven days
 Today
 Wake up the gifts you were born with
@@ -1701,7 +1721,9 @@ Privacy Policy
 Terms and Conditions
 Withdraw from a Contract
 Activations & Initiations
+Healings
 Healing & Workshops
+Workshops
 About
 Begin Your Journey
 Meditation and Prayer
@@ -1794,7 +1816,9 @@ Portraits: historical artworks & photographs, Wikimedia Commons.
 ## PAGE: (component) header.tsx
 PATH OF
 Activations & Initiations
+Healings
 Healing & Workshops
+Workshops
 About
 Begin Your Journey
 Meditation and Prayer
@@ -1828,6 +1852,7 @@ Distance healing
 In person or online
 
 ## PAGE: (component) healing-session-page.tsx
+opt.calEmbed ?
 benefits
 duration
 Questions
@@ -1918,6 +1943,11 @@ We are certified Modern Mystery School practitioners and teachers. Whichever of 
 
 ## PAGE: (component) modality.tsx
 radu@thepathofinitiationprague.com
+data-cal-link
+data-cal-namespace
+data-cal-origin
+data-cal-config
+month_view
 noopener noreferrer
 inscriere-eveniment
 investment
@@ -1928,8 +1958,10 @@ Email
 Price
 Duration
 Book Now
+Book In Person
+Book Remote
 Do you have any questions?
-After you reach out, we will contact you personally to finalize your appointment.
+Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Healing Session
 Reading Session
 

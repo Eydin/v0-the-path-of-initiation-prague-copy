@@ -12,7 +12,9 @@
   },
   "Header": {
     "activationsGroup": "Aktivierungen & Initiationen",
-    "healingGroup": "Heilung & Workshops",
+    "healingGroup": "Heilungen",
+    "healingWorkshopsGroup": "Heilung & Workshops",
+    "workshopsGroup": "Workshops",
     "aboutGroup": "Über uns",
     "beginJourney": "Beginne deine Reise",
     "nav": {
@@ -57,8 +59,10 @@
     "investment": "Preis",
     "duration": "Dauer",
     "bookNow": "Jetzt buchen",
+    "bookInPerson": "Vor Ort buchen",
+    "bookRemote": "Aus der Ferne buchen",
     "askQuestion": "Hast du Fragen?",
-    "defaultNote": "Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "defaultNote": "Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "healingSession": "Heilsitzung",
     "readingSession": "Lesungssitzung"
   },
@@ -72,6 +76,9 @@
     "headingNext": "Demnächst in Prag",
     "body": "{count, plural, one {Diese Woche passiert etwas Schönes. Komm dazu!} other {Diese Woche passieren # schöne Dinge. Such dir eins aus und komm vorbei!}}",
     "bodyNext": "Diese Woche ist es bei uns ruhig, deshalb hier, was als Nächstes kommt. Merk dir den Termin!",
+    "bodyAll": "Hier ist alles, was ansteht. Stöbere, such dir etwas aus und komm vorbei!",
+    "prev": "Vorherige Termine",
+    "next": "Nächste Termine",
     "weekLabel": "Die nächsten sieben Tage",
     "today": "Heute",
     "vibe": {
@@ -399,7 +406,7 @@
     "certBody": "Dies ist eine bahnbrechende Methode für <i>innere Verwandlung und die Entfaltung deines persönlichen Potenzials</i>. Sie verbindet uraltes Wissen mit modernen Energien, um dir beim Wachsen und Weiterentwickeln zu helfen. Diese Technik wird von der <mms>Modern Mystery School</mms> durch zertifizierte Life-Activation-Praktizierende angeboten. Sie dient als <bold>Tor zu höherem Bewusstsein und spiritueller Erweiterung.</bold>",
     "bookingTitle": "Begegne deiner authentischen Kraft und deinem höheren Selbst!",
     "duration": "2 Stunden",
-    "bookingNote": "Sobald die Zahlung abgeschlossen ist, kontaktieren wir dich, um den Termin zu finalisieren.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich möchte gerne mehr über die {brand} erfahren.",
     "awakenHeading": "Erwecke mehr von dem, wer du wirklich bist",
     "awakenAlt": "Ein leuchtender DNA-Strang mit Punkten aus goldenem Licht",
@@ -853,7 +860,7 @@
     ],
     "bookingTitle": "Stelle dein Licht wieder her",
     "duration": "2 Stunden",
-    "bookingNote": "Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu finalisieren.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich möchte gerne mehr über die {brand} Aura-Heilung erfahren."
   },
   "LifePurposeReading": {
@@ -873,7 +880,7 @@
     ],
     "bookingTitle": "Lies deine Bestimmung",
     "duration": "60–90 Minuten",
-    "bookingNote": "Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu finalisieren.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich möchte gerne mehr über die Lebenszweck- & 11. Codon-Lesung erfahren."
   },
   "SacredGeometryPage": {
@@ -1138,7 +1145,7 @@
       { "label": "Im Leben anwenden:", "text": "Nutze deine Intuition für klarere Entscheidungen, Beziehungen und Richtung." }
     ],
     "bookingTitle": "Vertraue dem, was du bereits weißt",
-    "duration": "3 Stunden",
+    "duration": "2,5 Stunden",
     "bookingNote": "Workshops finden in kleinen Gruppen statt. Melde dich für den nächsten geplanten Termin in Prag.",
     "inquiry": "Hallo, ich möchte gerne mehr über den Workshop Spirituelle Intuition erfahren."
   },
@@ -1652,7 +1659,7 @@
     ],
     "bookingTitle": "Komm zu dir zurück",
     "duration": "2,5 Stunden",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich möchte mehr über die Hermetische Seelenrückholung erfahren."
   },
   "EmotionalCordCutting": {
@@ -1738,7 +1745,7 @@
     "relatedCta": "Entfernung negativer Energie entdecken",
     "bookingTitle": "Bindungen lösen",
     "duration": "60 Minuten",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Der Preis umfasst das Gespräch und alle Abläufe. Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Der Preis umfasst das Gespräch und alle Abläufe. Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für das Durchtrennen emotionaler Bindungen."
   },
   "NegativeEnergyRemoval": {
@@ -1815,7 +1822,7 @@
     "relatedCta": "Durchtrennen emotionaler Bindungen entdecken",
     "bookingTitle": "Reinigen und Erneuern",
     "duration": "60 Minuten",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Der Preis umfasst das Gespräch und alle Abläufe. Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Der Preis umfasst das Gespräch und alle Abläufe. Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Entfernung negativer Energie.",
     "toolsHeading": "Einfache Werkzeuge für die tägliche Reinigung",
     "tools": [
@@ -1865,7 +1872,7 @@
       }
     ],
     "duration": "90 Minuten",
-    "bookingNote": "Diese Heilsitzung kann vor Ort in Prag oder aus der Ferne stattfinden, überall auf der Welt.",
+    "bookingNote": "Wähle unten vor Ort in Prag (Vršovice) oder aus der Ferne, such dir einen Termin aus und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für Ensofic Reiki.",
     "relatedHeading": "Bereit, tiefer zu gehen?",
     "relatedBody": "Die Fortgeschrittene Ensofische Strahlenheilung ist eine Serie von drei Sitzungen vor Ort in Prag, die mit Körper, Seele und Geist zugleich arbeitet, für eine tiefere und dauerhafte Veränderung.",
@@ -1907,7 +1914,7 @@
     ],
     "bookingTitle": "Empfange den Strahl",
     "duration": "3 × 90 Minuten",
-    "bookingNote": "Die drei Sitzungen finden nur vor Ort in Prag statt. Schreib uns, um deinen Termin zu vereinbaren.",
+    "bookingNote": "Dies bucht die erste 90-minütige Sitzung, persönlich in Prag (Vršovice), zum vollen Programmpreis. Die nächsten zwei Sitzungen planen wir gemeinsam mit dir, wenn wir uns treffen.",
     "inquiry": "Hallo, ich interessiere mich für die Fortgeschrittene Ensofische Strahlenheilung."
   },
   "NegativeHabits": {
@@ -1947,7 +1954,7 @@
       }
     ],
     "duration": "90 Minuten",
-    "bookingNote": "In Prag oder aus der Ferne weltweit möglich. Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "bookingNote": "Wähle unten vor Ort in Prag (Vršovice) oder aus der Ferne, such dir einen Termin aus und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich möchte mehr über die Behandlung negativer Gewohnheiten erfahren."
   },
   "CrystalHealing": {
@@ -1990,7 +1997,7 @@
     ],
     "bookingTitle": "Ruhen und Erneuern",
     "duration": "60 Minuten",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Sacred Geometry Ancient Crystal Healing.",
     "originEyebrow": "Der Ursprung",
     "originHeading": "Eine Heilung aus dem alten Mu",
@@ -2080,7 +2087,7 @@
     "relatedCta": "Die Ancient Crystal Healing entdecken",
     "bookingTitle": "Heilen und Erneuern",
     "duration": "60 Minuten",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Sobald du dich meldest, kontaktieren wir dich persönlich, um deinen Termin zu vereinbaren.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Sacred Geometry Sacred Rites Healing."
   },
   "SparkOfLife": {
@@ -2124,7 +2131,7 @@
     ],
     "bookingTitle": "Belebe deinen Funken neu",
     "duration": "75 Minuten",
-    "bookingNote": "Fernsitzung, weltweit. Schreib uns, um einen Termin zu vereinbaren.",
+    "bookingNote": "Fernsitzung, weltweit. Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich möchte mehr über die Fernheilung Lebensfunke erfahren."
   },
   "LifeActivationFaq": {

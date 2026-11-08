@@ -32,26 +32,20 @@ export type ScheduledClass = {
 
 export const SCHEDULE: ScheduledClass[] = [
   {
+    // One-on-one sessions booked individually, so no fixed dates.
     slug: "life-activation",
     category: "Activation",
     title: "Life Activation",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "10:00",
     duration: "2 Hours",
-    dates: [
-      "2026-09-04",
-      "2026-09-25",
-      "2026-10-16",
-      "2026-11-06",
-      "2026-11-27",
-      "2026-12-18",
-    ],
+    dates: [],
   },
   {
     slug: "empower-thyself",
     category: "Initiation",
     title: "Empower Thyself",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "9:30",
     duration: "2-Day Initiation",
     dates: [
@@ -66,15 +60,14 @@ export const SCHEDULE: ScheduledClass[] = [
     ],
   },
   {
+    // One-on-one sessions booked individually, so no fixed dates.
     slug: "full-spirit-activation",
     category: "Activation",
     title: "Full Spirit Activation",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "10:00",
     duration: "2 Hours",
-    dates: [
-      "2026-09-27",
-    ],
+    dates: [],
   },
   {
     slug: "healers-academy",
@@ -101,7 +94,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "sacred-geometry",
     category: "Workshop",
     title: "Sacred Geometry I",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "10:00",
     duration: "Workshop - 4.5 Hours",
     dates: [
@@ -120,7 +113,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "sacred-geometry-2",
     category: "Workshop",
     title: "Sacred Geometry II",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "10:00",
     duration: "Full-Day Workshop",
     dates: [],
@@ -129,7 +122,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "sacred-geometry-3",
     category: "Workshop",
     title: "Sacred Geometry III",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "10:00",
     duration: "Workshop",
     dates: [],
@@ -138,7 +131,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "sacred-geometry-4",
     category: "Workshop",
     title: "Sacred Geometry IV",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "10:00",
     duration: "Workshop",
     dates: [],
@@ -147,7 +140,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "astral-travel",
     category: "Workshop",
     title: "Astral Travel",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "10:00",
     duration: "Workshop - 4.5 Hours",
     dates: [
@@ -163,7 +156,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "spiritual-intuition",
     category: "Workshop",
     title: "Spiritual Intuition",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "11:00",
     duration: "Workshop - 2.5 Hours",
     dates: [
@@ -177,7 +170,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "sanctuary-meditation",
     category: "Workshop",
     title: "Sanctuary Meditation Class",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "14:00",
     duration: "Meditation - 2.5 Hours",
     dates: [
@@ -191,7 +184,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "seven-mystery-schools",
     category: "Workshop",
     title: "The 7 Mystery Schools",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "10:00",
     duration: "Workshop - 2.5 Hours",
     dates: [
@@ -205,7 +198,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "stress-management",
     category: "Workshop",
     title: "Stress Rescue",
-    location: "Prague, CZ",
+    location: "Vršovice, Prague",
     time: "18:00",
     duration: "Workshop - 2.5 Hours",
     dates: [
@@ -217,7 +210,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "sanctuary-meditation-session",
     category: "Community",
     title: "Sanctuary Meditation",
-    location: "Vrsovice, Prague 10, CZ",
+    location: "Vršovice, Prague",
     time: "19:00",
     duration: "1 Hour",
     dates: [],
@@ -226,7 +219,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "community#prayer-evening",
     category: "Community",
     title: "Prayer Evenings",
-    location: "Vrsovice, Prague 10, CZ",
+    location: "Vršovice, Prague",
     time: "19:00",
     duration: "2 Hours",
     dates: [
@@ -241,7 +234,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "community#meditation-evening",
     category: "Community",
     title: "Meditation Evenings",
-    location: "Vrsovice, Prague 10, CZ",
+    location: "Vršovice, Prague",
     time: "19:30",
     duration: "1.5 Hours",
     dates: [
@@ -257,7 +250,7 @@ export const SCHEDULE: ScheduledClass[] = [
     slug: "community#socialization-evening",
     category: "Community",
     title: "Socialization Evenings",
-    location: "Vrsovice, Prague 10, CZ",
+    location: "Vršovice, Prague",
     time: "18:30",
     duration: "3 Hours",
     dates: [

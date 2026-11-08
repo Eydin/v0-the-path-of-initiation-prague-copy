@@ -12,7 +12,9 @@
   },
   "Header": {
     "activationsGroup": "Activări și inițieri",
-    "healingGroup": "Vindecare și ateliere",
+    "healingGroup": "Vindecări",
+    "healingWorkshopsGroup": "Vindecare și ateliere",
+    "workshopsGroup": "Ateliere",
     "aboutGroup": "Despre noi",
     "beginJourney": "Începe-ți călătoria",
     "nav": {
@@ -57,8 +59,10 @@
     "investment": "Preț",
     "duration": "Durată",
     "bookNow": "Rezervă acum",
+    "bookInPerson": "Rezervă în persoană",
+    "bookRemote": "Rezervă la distanță",
     "askQuestion": "Ai întrebări?",
-    "defaultNote": "După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "defaultNote": "Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "healingSession": "Ședință de vindecare",
     "readingSession": "Ședință de lectură"
   },
@@ -72,6 +76,9 @@
     "headingNext": "În curând în Praga",
     "body": "{count, plural, one {Săptămâna aceasta are loc un lucru frumos. Vino alături de noi!} few {Săptămâna aceasta au loc # lucruri frumoase. Alege unul și vino!} other {Săptămâna aceasta au loc # de lucruri frumoase. Alege unul și vino!}}",
     "bodyNext": "E o săptămână liniștită la noi, așa că iată ce urmează. Notează-ți data!",
+    "bodyAll": "Iată tot ce urmează. Răsfoiește, alege și vino!",
+    "prev": "Evenimentele anterioare",
+    "next": "Evenimentele următoare",
     "weekLabel": "Următoarele șapte zile",
     "today": "Azi",
     "vibe": {
@@ -399,7 +406,7 @@
     "certBody": "Aceasta este o metodă revoluționară pentru <i>transformarea interioară și deblocarea potențialului tău personal</i>. Combină înțelepciunea străveche cu energii moderne pentru a te ajuta să crești și să evoluezi. Această tehnică este oferită de <mms>Modern Mystery School</mms> prin Practicieni Certificați de Life Activation. Servește drept <bold>poartă către o conștiință superioară și expansiune spirituală.</bold>",
     "bookingTitle": "Întâlnește-ți puterea autentică și sinele superior!",
     "duration": "2 ore",
-    "bookingNote": "După finalizarea plății, te vom contacta pentru a stabili programarea.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, aș dori să aflu mai multe despre {brand}.",
     "awakenHeading": "Trezește mai mult din cine ești cu adevărat",
     "awakenAlt": "O spirală de ADN strălucitoare, luminată de puncte de lumină aurie",
@@ -853,7 +860,7 @@
     ],
     "bookingTitle": "Restabilește-ți lumina",
     "duration": "2 ore",
-    "bookingNote": "După ce ne contactezi, te vom contacta personal pentru a finaliza programarea.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Vindecarea Aurică {brand}."
   },
   "LifePurposeReading": {
@@ -873,7 +880,7 @@
     ],
     "bookingTitle": "Citește-ți scopul",
     "duration": "60–90 de minute",
-    "bookingNote": "După ce ne contactezi, te vom contacta personal pentru a finaliza programarea.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Lectura Scopului Vieții și a celui de-al 11-lea Codon."
   },
   "SacredGeometryPage": {
@@ -1138,7 +1145,7 @@
       { "label": "Aplicarea în viață:", "text": "Folosește-ți intuiția pentru decizii, relații și direcție mai clare." }
     ],
     "bookingTitle": "Ai încredere în ceea ce știi deja",
-    "duration": "3 ore",
+    "duration": "2,5 ore",
     "bookingNote": "Atelierele se desfășoară în grupuri mici. Contactează-ne pentru următoarea dată programată în Praga.",
     "inquiry": "Bună, aș dori să aflu mai multe despre atelierul de Intuiție Spirituală."
   },
@@ -1652,7 +1659,7 @@
     ],
     "bookingTitle": "Întoarce-te la tine",
     "duration": "2,5 ore",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Recuperarea hermetică a sufletului."
   },
   "EmotionalCordCutting": {
@@ -1738,7 +1745,7 @@
     "relatedCta": "Descoperă eliminarea energiei negative",
     "bookingTitle": "Taie cordoanele",
     "duration": "60 de minute",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Prețul include consultația și toate procedurile. După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Prețul include consultația și toate procedurile. Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de tăierea cordoanelor emoționale."
   },
   "NegativeEnergyRemoval": {
@@ -1815,7 +1822,7 @@
     "relatedCta": "Descoperă tăierea cordoanelor emoționale",
     "bookingTitle": "Curățare și reînnoire",
     "duration": "60 de minute",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Prețul include consultația și toate procedurile. După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Prețul include consultația și toate procedurile. Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de eliminarea energiei negative.",
     "toolsHeading": "Instrumente simple pentru curățarea de zi cu zi",
     "tools": [
@@ -1865,7 +1872,7 @@
       }
     ],
     "duration": "90 de minute",
-    "bookingNote": "Această ședință de vindecare poate avea loc în persoană, la Praga, sau la distanță, oriunde în lume.",
+    "bookingNote": "Alege mai jos în persoană la Praga (Vršovice) sau la distanță, alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Ensofic Reiki.",
     "relatedHeading": "Ești pregătit(ă) să mergi mai adânc?",
     "relatedBody": "Vindecarea avansată cu raza Ensofică este o serie de trei ședințe, în persoană, la Praga, care lucrează împreună cu corpul, sufletul și spiritul, pentru o schimbare mai profundă și de durată.",
@@ -1907,7 +1914,7 @@
     ],
     "bookingTitle": "Primește raza",
     "duration": "3 × 90 de minute",
-    "bookingNote": "Cele trei sesiuni au loc doar în persoană, la Praga. Scrie-ne pentru a stabili ora.",
+    "bookingNote": "Aceasta rezervă prima sesiune de 90 de minute, în persoană la Praga (Vršovice), la prețul integral al programului. Următoarele două sesiuni le vom programa împreună cu tine când ne întâlnim.",
     "inquiry": "Bună, sunt interesat(ă) de Vindecarea avansată cu raza Ensofică."
   },
   "NegativeHabits": {
@@ -1947,7 +1954,7 @@
       }
     ],
     "duration": "90 de minute",
-    "bookingNote": "Disponibil la Praga sau la distanță, în toată lumea. După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "bookingNote": "Alege mai jos în persoană la Praga (Vršovice) sau la distanță, alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Tratarea obiceiurilor negative."
   },
   "CrystalHealing": {
@@ -1990,7 +1997,7 @@
     ],
     "bookingTitle": "Odihnă și refacere",
     "duration": "60 de minute",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Sacred Geometry Ancient Crystal Healing.",
     "originEyebrow": "Originea",
     "originHeading": "O vindecare din străvechiul Mu",
@@ -2080,7 +2087,7 @@
     "relatedCta": "Descoperă Ancient Crystal Healing",
     "bookingTitle": "Vindecare și reînnoire",
     "duration": "60 de minute",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). După ce ne contactezi, te vom contacta personal pentru a stabili programarea.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Sacred Geometry Sacred Rites Healing."
   },
   "SparkOfLife": {
@@ -2124,7 +2131,7 @@
     ],
     "bookingTitle": "Reaprinde-ți scânteia",
     "duration": "75 de minute",
-    "bookingNote": "Sesiune la distanță, în toată lumea. Scrie-ne pentru a stabili o oră.",
+    "bookingNote": "Sesiune la distanță, în toată lumea. Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, aș dori să aflu mai multe despre vindecarea la distanță Scânteia vieții."
   },
   "LifeActivationFaq": {

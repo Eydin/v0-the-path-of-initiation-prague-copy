@@ -14,6 +14,7 @@ import {
 import { MedicalDisclaimer, ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { Link } from "@/i18n/navigation"
 import { LinkedText } from "@/components/linked-text"
+import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
 
 type SessionConfig = {
   /** Root namespace in messages/*.json */
@@ -28,6 +29,8 @@ type SessionConfig = {
   investment: string
   /** closing invitation to a related page (texts: relatedHeading / relatedBody / relatedCta) */
   relatedHref?: string
+  /** Two booking buttons side by side (e.g. "Book In Person" / "Book Remote") instead of one. */
+  bookOptions?: { labelKey: "bookInPerson" | "bookRemote"; href: string; calEmbed?: import("@/components/modality").CalEmbed }[]
 }
 
 export async function healingSessionMetadata(
@@ -65,6 +68,9 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
 
   return (
     <ModalityShell bg={config.bg} position={config.position ?? "center 30%"}>
+      {config.bookOptions?.map((opt) =>
+        opt.calEmbed ? <CalcomPopupLoader key={opt.calEmbed.namespace} namespace={opt.calEmbed.namespace} /> : null,
+      )}
       <ModalityHero
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle")}
@@ -82,6 +88,7 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         duration={t("duration")}
         inquiry={t("inquiry")}
         note={t("bookingNote")}
+        bookOptions={config.bookOptions}
       >
         {has("priceNote") && <p className="text-center text-lg font-semibold text-primary">{t("priceNote")}</p>}
         {/* optional session options (e.g. single session vs package): name, length and price, what it includes */}
