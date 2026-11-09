@@ -3,6 +3,8 @@
 export const SITE_KNOWLEDGE = `## PAGE: /advanced-ensofic-ray-healing
 center 30%
 11.900 CZK
+all/advanced-ensofic-ray-healing
+advanced-ensofic-ray-healing
 
 ## PAGE: /astral-travel
 astral-travel
@@ -227,6 +229,8 @@ center 50%
 Amethyst geode · photo by Calvin Chai, Unsplash
 3.669 CZK
 /sacred-rites-healing
+all/crystal-healing
+crystal-healing
 
 ## PAGE: /emotional-cord-cutting
 center 40%
@@ -655,6 +659,8 @@ Is the practitioner certified?
 Yes. Only practitioners certified directly by Modern Mystery School International may perform it, and they re-certify every year.
 
 ## PAGE: /life-purpose-reading
+life-purpose-reading
+all/life-purpose-reading
 A Reading of the Mystery School
 Life Purpose & 11th Codon Reading
 Discover your purpose, and activate the codons that carry it
@@ -1175,6 +1181,8 @@ center 50%
 Healing stones · photo by Dan Farrell, Unsplash
 3.669 CZK
 /crystal-healing
+all/sacred-rites-healing
+sacred-rites-healing
 
 ## PAGE: /sanctuary-meditation-session
 Guided Meditation
@@ -1201,27 +1209,65 @@ Dates to be announced. Reach out and we will let you know when the next meditati
 Hello, I would like to learn more about the Sanctuary Meditation (1 hour).
 
 ## PAGE: /sanctuary-meditation
-Guided Meditation
+sanctuary-meditation
+all/sanctuary-meditation
+A 2.5-Hour Guided Meditation in Prague
 Sanctuary Meditation Class
 Journey to your Sanctuary & Meet your Higher Self
-A technique that takes you to a sacred and safe place, where you receive guidance and answers
-Are you intuitive? Do you trust your gut instincts? Would you like more clarity on intuitive messages?
-The Sanctuary Meditation is a technique that will take you to a sacred and safe place where you can meet your Higher Self and receive guidance and answers.
-It is one of the ideal ways to know that the messages you receive are true, real and in your highest and best good.
+A guided journey inward, to the quiet place where your own wisdom is waiting
+Have you ever tried to think your way to clarity?
+We are taught to gather information, weigh every option and look for reassurance whenever we feel unsure. Yet in all that searching, it is easy to lose touch with the quiet, steady voice of your own intuition.
+Sanctuary Meditation is a guided journey inward, to a sacred and safe place where the noise of the everyday mind falls away and you can meet your Higher Self and receive guidance and answers.
 Your Higher Self
-Getting to know your Higher Self is a huge advantage to any intuitive person. Your relationship with your Higher Self becomes an amazing tool for discernment and growth, as it is your most trusted advisor and the one who knows you best.
-What You Gain
-A sacred, safe place of your own to journey to
-A meeting with your Higher Self
+Your Higher Self is your most trusted advisor and the one who knows you best. Getting to know it is a huge advantage for anyone intuitive, and your relationship with it becomes an amazing tool for discernment and growth.
+What You'll Experience
+Your sanctuary
+A sacred, safe place of your own to journey to.
+A meeting with the one who knows you best.
 Guidance and answers
-Confidence that the messages you receive are true, real and for your highest good
-A lasting tool for discernment and growth
-Where It Leads
-This Sanctuary Meditation technique is the basis for the Journeys of the Spirit workshop, which teaches you how to receive even more insight and information through guidance.
-Reserve Your Place
+Clarity that comes from within you.
+Trust in what you receive
+A way to know that the messages you receive are true, real and for your highest good.
+Give Yourself This Time
 2.5 Hours
-Reach out to reserve your place in the next Sanctuary Meditation Class in Prague.
+In person, in Vršovice, Prague.
 Hello, I would like to learn more about the Sanctuary Meditation.
+Why Would You Need This?
+The most profound guidance doesn't always come from thinking harder. It can come from the stillness within.
+When you're unsure of your next step
+And you have already asked everyone for advice.
+When your mind won't stop
+And thinking it through only brings more thoughts.
+When you receive intuitive messages
+And you want to know they are true, real and for your highest good.
+When you long for inner guidance
+And you want to stop looking outside yourself for the way forward.
+What to Expect
+2.5 hours, in person, in Vršovice, Prague
+A guided meditation: we lead you through the whole journey
+A supportive space to listen within
+A technique you can keep returning to
+Do I need to bring a question or a problem?
+No. There is no need to arrive with a specific problem or a clear intention. Come with whatever thoughts or feelings you are carrying today.
+Is the class in person?
+Yes. It takes place in person, in Vršovice, Prague.
+How is this different from the one-hour Sanctuary Meditation?
+This class teaches you the whole technique. The one-hour Sanctuary Meditation is for those who have already taken this class or attended Empower Thyself.
+/sanctuary-meditation-session
+What comes after?
+This technique is the basis for the Journeys of the Spirit workshop, which teaches you how to receive even more insight and information through guidance.
+How do I join?
+Use the booking button at the top of this page to choose your date. If you would like to ask something first, write to us on WhatsApp or by email and we will gladly help.
+What Might You Find Within?
+Give yourself the space to explore it. We look forward to welcoming you.
+Reserve Your Place
+Questions
+Frequently Asked Questions
+Who It Is For
+This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
+You'll be in good hands
+Diana and Radu Coman
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: /seven-mystery-schools
 seven-mystery-schools
@@ -1258,6 +1304,8 @@ center 30%
 ## PAGE: /spark-of-life
 center 40%
 6.150 CZK
+all/spark-of-life
+spark-of-life
 
 ## PAGE: /specialty-healings
 The King Salomon Healing Modality

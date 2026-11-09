@@ -2316,29 +2316,91 @@
     "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o vašich kurzech a workshopech."
   },
   "SanctuaryMeditationPage": {
-    "heroEyebrow": "Vedená meditace",
+    "heroEyebrow": "Dvaapůlhodinová řízená meditace v Praze",
     "heroTitle": "Sanctuary Meditation Class",
     "heroSubtitle": "Vydejte se do své svatyně a setkejte se se svým Vyšším já",
-    "heroTagline": "Technika, která vás zavede na posvátné a bezpečné místo, kde získáte vedení a odpovědi",
-    "introLead": "Jste intuitivní? Důvěřujete svým instinktům? Přáli byste si větší jasnost v intuitivních sděleních?",
-    "introBody1": "Sanctuary Meditation je technika, která vás zavede na posvátné a bezpečné místo, kde se můžete setkat se svým Vyšším já a získat vedení a odpovědi.",
-    "introBody2": "Je to jeden z ideálních způsobů, jak poznat, že sdělení, která přijímáte, jsou pravdivá, skutečná a v tom nejvyšším a nejlepším zájmu pro vás.",
+    "heroTagline": "Řízená cesta dovnitř, na tiché místo, kde na vás čeká vaše vlastní moudrost",
+    "introLead": "Zkoušeli jste někdy dojít k jasnosti přemýšlením?",
+    "introBody1": "Učí nás sbírat informace, vážit každou možnost a hledat ujištění, kdykoli si nejsme jisti. V tom všem hledání se ale snadno ztratí spojení s tichým, pevným hlasem vaší vlastní intuice.",
+    "introBody2": "Sanctuary Meditation je řízená cesta dovnitř, na posvátné a bezpečné místo, kde hluk každodenní mysli utichá a vy se můžete setkat se svým Vyšším já a přijmout vedení a odpovědi.",
     "higherSelfHeading": "Vaše Vyšší já",
-    "higherSelfBody": "Poznání svého Vyššího já je obrovskou výhodou pro každého intuitivního člověka. Váš vztah s Vyšším já se stává úžasným nástrojem rozlišování a růstu, protože je to váš nejdůvěryhodnější rádce a ten, kdo vás zná nejlépe.",
-    "benefitsHeading": "Co získáte",
+    "higherSelfBody": "Vaše Vyšší já je váš nejdůvěryhodnější rádce a ten, kdo vás zná nejlépe. Poznat ho je pro každého intuitivního člověka obrovská výhoda a váš vztah s ním se stává úžasným nástrojem rozlišování a růstu.",
+    "benefitsHeading": "Co zažijete",
     "benefits": [
-      "Vlastní posvátné a bezpečné místo, kam se můžete vydat",
-      "Setkání se svým Vyšším já",
-      "Vedení a odpovědi",
-      "Jistotu, že sdělení, která přijímáte, jsou pravdivá, skutečná a v tom nejvyšším zájmu",
-      "Trvalý nástroj rozlišování a růstu"
+      {
+        "label": "Vaše svatyně",
+        "text": "Posvátné, bezpečné místo jen pro vás, kam se můžete vydat."
+      },
+      {
+        "label": "Vaše Vyšší já",
+        "text": "Setkání s tím, kdo vás zná nejlépe."
+      },
+      {
+        "label": "Vedení a odpovědi",
+        "text": "Jasnost, která přichází z vašeho nitra."
+      },
+      {
+        "label": "Důvěra v to, co přijímáte",
+        "text": "Způsob, jak poznat, že sdělení, která přijímáte, jsou pravdivá, skutečná a pro vaše nejvyšší dobro."
+      }
     ],
-    "nextHeading": "Kam to vede",
-    "nextBody": "Technika Sanctuary Meditation je základem workshopu Journeys of the Spirit, který vás naučí získávat ještě více vhledů a informací skrze vedení.",
-    "bookingTitle": "Rezervujte si místo",
+    "bookingTitle": "Dopřejte si tento čas",
     "duration": "2,5 hodiny",
-    "bookingNote": "Ozvěte se a rezervujte si místo na nejbližší Sanctuary Meditation Class v Praze.",
-    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Sanctuary Meditation."
+    "bookingNote": "Osobně, ve Vršovicích v Praze.",
+    "inquiry": "Ahoj, rád(a) bych se dozvěděl(a) více o Sanctuary Meditation.",
+    "whyHeading": "Proč byste to potřebovali?",
+    "whyIntro": "To nejhlubší vedení nemusí přijít z usilovnějšího přemýšlení. Může přijít z ticha uvnitř.",
+    "why": [
+      {
+        "who": "Když si nejste jisti dalším krokem",
+        "text": "A už jste se všech zeptali na radu."
+      },
+      {
+        "who": "Když se vaše mysl nezastaví",
+        "text": "A přemýšlení přináší jen další myšlenky."
+      },
+      {
+        "who": "Když přijímáte intuitivní sdělení",
+        "text": "A chcete vědět, že jsou pravdivá, skutečná a pro vaše nejvyšší dobro."
+      },
+      {
+        "who": "Když toužíte po vnitřním vedení",
+        "text": "A chcete přestat hledat cestu vpřed mimo sebe."
+      }
+    ],
+    "expectHeading": "Co vás čeká",
+    "expect": [
+      "2,5 hodiny, osobně, ve Vršovicích v Praze",
+      "Řízená meditace: provedeme vás celou cestou",
+      "Podpůrný prostor, kde můžete naslouchat sobě",
+      "Technika, ke které se můžete stále vracet"
+    ],
+    "faq": [
+      {
+        "q": "Musím přinést otázku nebo problém?",
+        "a": "Ne. Nemusíte přijít s konkrétním problémem ani s jasným záměrem. Přijďte s tím, co dnes v myšlenkách a pocitech nesete."
+      },
+      {
+        "q": "Probíhá kurz osobně?",
+        "a": "Ano. Probíhá osobně, ve Vršovicích v Praze."
+      },
+      {
+        "q": "Jak se to liší od hodinové Sanctuary Meditation?",
+        "a": "Tento kurz vás naučí celou techniku. <link>Hodinová Sanctuary Meditation</link> je pro ty, kdo už tento kurz absolvovali nebo prošli Empower Thyself.",
+        "href": "/sanctuary-meditation-session"
+      },
+      {
+        "q": "Co následuje potom?",
+        "a": "Tato technika je základem workshopu Journeys of the Spirit, který vás naučí získávat ještě více vhledů a informací skrze vedení."
+      },
+      {
+        "q": "Jak se mohu přihlásit?",
+        "a": "Tlačítkem pro rezervaci nahoře na této stránce si vyberte termín. Pokud se chcete nejdřív na něco zeptat, napište nám na WhatsApp nebo e-mailem a rádi vám pomůžeme."
+      }
+    ],
+    "ctaHeading": "Co můžete najít ve svém nitru?",
+    "ctaBody": "Dopřejte si prostor to prozkoumat. Těšíme se na vás.",
+    "reserveYourPlace": "Rezervovat místo"
   },
   "MeditationPrayer": {
     "heroEyebrow": "Ticho a oddanost",

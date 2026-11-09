@@ -2316,29 +2316,91 @@
     "inquiry": "Hello, I would like to learn more about your classes and workshops."
   },
   "SanctuaryMeditationPage": {
-    "heroEyebrow": "Guided Meditation",
+    "heroEyebrow": "A 2.5-Hour Guided Meditation in Prague",
     "heroTitle": "Sanctuary Meditation Class",
     "heroSubtitle": "Journey to your Sanctuary & Meet your Higher Self",
-    "heroTagline": "A technique that takes you to a sacred and safe place, where you receive guidance and answers",
-    "introLead": "Are you intuitive? Do you trust your gut instincts? Would you like more clarity on intuitive messages?",
-    "introBody1": "The Sanctuary Meditation is a technique that will take you to a sacred and safe place where you can meet your Higher Self and receive guidance and answers.",
-    "introBody2": "It is one of the ideal ways to know that the messages you receive are true, real and in your highest and best good.",
+    "heroTagline": "A guided journey inward, to the quiet place where your own wisdom is waiting",
+    "introLead": "Have you ever tried to think your way to clarity?",
+    "introBody1": "We are taught to gather information, weigh every option and look for reassurance whenever we feel unsure. Yet in all that searching, it is easy to lose touch with the quiet, steady voice of your own intuition.",
+    "introBody2": "Sanctuary Meditation is a guided journey inward, to a sacred and safe place where the noise of the everyday mind falls away and you can meet your Higher Self and receive guidance and answers.",
     "higherSelfHeading": "Your Higher Self",
-    "higherSelfBody": "Getting to know your Higher Self is a huge advantage to any intuitive person. Your relationship with your Higher Self becomes an amazing tool for discernment and growth, as it is your most trusted advisor and the one who knows you best.",
-    "benefitsHeading": "What You Gain",
+    "higherSelfBody": "Your Higher Self is your most trusted advisor and the one who knows you best. Getting to know it is a huge advantage for anyone intuitive, and your relationship with it becomes an amazing tool for discernment and growth.",
+    "benefitsHeading": "What You'll Experience",
     "benefits": [
-      "A sacred, safe place of your own to journey to",
-      "A meeting with your Higher Self",
-      "Guidance and answers",
-      "Confidence that the messages you receive are true, real and for your highest good",
-      "A lasting tool for discernment and growth"
+      {
+        "label": "Your sanctuary",
+        "text": "A sacred, safe place of your own to journey to."
+      },
+      {
+        "label": "Your Higher Self",
+        "text": "A meeting with the one who knows you best."
+      },
+      {
+        "label": "Guidance and answers",
+        "text": "Clarity that comes from within you."
+      },
+      {
+        "label": "Trust in what you receive",
+        "text": "A way to know that the messages you receive are true, real and for your highest good."
+      }
     ],
-    "nextHeading": "Where It Leads",
-    "nextBody": "This Sanctuary Meditation technique is the basis for the Journeys of the Spirit workshop, which teaches you how to receive even more insight and information through guidance.",
-    "bookingTitle": "Reserve Your Place",
+    "bookingTitle": "Give Yourself This Time",
     "duration": "2.5 Hours",
-    "bookingNote": "Reach out to reserve your place in the next Sanctuary Meditation Class in Prague.",
-    "inquiry": "Hello, I would like to learn more about the Sanctuary Meditation."
+    "bookingNote": "In person, in Vršovice, Prague.",
+    "inquiry": "Hello, I would like to learn more about the Sanctuary Meditation.",
+    "whyHeading": "Why Would You Need This?",
+    "whyIntro": "The most profound guidance doesn't always come from thinking harder. It can come from the stillness within.",
+    "why": [
+      {
+        "who": "When you're unsure of your next step",
+        "text": "And you have already asked everyone for advice."
+      },
+      {
+        "who": "When your mind won't stop",
+        "text": "And thinking it through only brings more thoughts."
+      },
+      {
+        "who": "When you receive intuitive messages",
+        "text": "And you want to know they are true, real and for your highest good."
+      },
+      {
+        "who": "When you long for inner guidance",
+        "text": "And you want to stop looking outside yourself for the way forward."
+      }
+    ],
+    "expectHeading": "What to Expect",
+    "expect": [
+      "2.5 hours, in person, in Vršovice, Prague",
+      "A guided meditation: we lead you through the whole journey",
+      "A supportive space to listen within",
+      "A technique you can keep returning to"
+    ],
+    "faq": [
+      {
+        "q": "Do I need to bring a question or a problem?",
+        "a": "No. There is no need to arrive with a specific problem or a clear intention. Come with whatever thoughts or feelings you are carrying today."
+      },
+      {
+        "q": "Is the class in person?",
+        "a": "Yes. It takes place in person, in Vršovice, Prague."
+      },
+      {
+        "q": "How is this different from the one-hour Sanctuary Meditation?",
+        "a": "This class teaches you the whole technique. The <link>one-hour Sanctuary Meditation</link> is for those who have already taken this class or attended Empower Thyself.",
+        "href": "/sanctuary-meditation-session"
+      },
+      {
+        "q": "What comes after?",
+        "a": "This technique is the basis for the Journeys of the Spirit workshop, which teaches you how to receive even more insight and information through guidance."
+      },
+      {
+        "q": "How do I join?",
+        "a": "Use the booking button at the top of this page to choose your date. If you would like to ask something first, write to us on WhatsApp or by email and we will gladly help."
+      }
+    ],
+    "ctaHeading": "What Might You Find Within?",
+    "ctaBody": "Give yourself the space to explore it. We look forward to welcoming you.",
+    "reserveYourPlace": "Reserve Your Place"
   },
   "MeditationPrayer": {
     "heroEyebrow": "Stillness & Devotion",
