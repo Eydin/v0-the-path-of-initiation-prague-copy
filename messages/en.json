@@ -795,11 +795,10 @@
         ]
       },
       "bodyWork": {
-        "title": "Body, Meridian & Meditation",
-        "blurb": "Restoring flow, balance and stillness through body and breath.",
+        "title": "Body, Meridians & Chakras",
+        "blurb": "Restoring flow and balance in your body, your meridians and your energy centres.",
         "items": [
-          { "name": "Max Meditation System™", "description": "A guided system blending ancient yogic technique with modern method to release stress and restore vitality." },
-          { "name": "Laser Light Healing", "description": "Light frequencies and reflexology applied along the meridian lines to restore flow." },
+          { "name": "Laser Light Healing", "description": "Refined, focused light that heals the physical body and brings every layer of your energy field into balance." },
           { "name": "Meridian Line Balancing", "description": "Balances the flow of life-force (chi) along the body's meridian lines." },
           { "name": "Tree of Life Awakening", "description": "Awakens your connection to the Tree of Life and expands consciousness." },
           { "name": "Chakra Awakening", "description": "Awakens and harmonises the body's seven energy centres." }
@@ -1800,7 +1799,7 @@
     "disclaimer": "This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.",
     "hostsEyebrow": "You'll be in good hands",
     "hostsHeading": "Diana and Radu Coman",
-    "hostsBody": "We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step."
+    "hostsBody": "We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Deep Healing",
@@ -2517,6 +2516,7 @@
     "reserveYourPlace": "Reserve Your Place"
   },
   "MeditationPrayer": {
+    "maxDescription": "A guided system blending ancient yogic technique with modern method to release stress and restore vitality.",
     "heroEyebrow": "Stillness & Devotion",
     "heroTitle": "Meditation and Prayer",
     "heroSubtitle": "Practices of stillness, prayer and fellowship",
@@ -2616,5 +2616,443 @@
       "link": "See upcoming classes"
     },
     "askLink": "Not sure which step is right for you? Ask us on WhatsApp"
+  },
+  "ShamanicAuraClearing": {
+    "heroEyebrow": "Aura Clearing",
+    "heroTitle": "Shamanic Aura Clearing",
+    "heroSubtitle": "A gentle clearing with the energies of the Earth",
+    "heroTagline": "Clears what you have picked up along the way, then seals and protects your energy",
+    "introLead": "Do you ever come home feeling heavier than when you left?",
+    "introBody1": "Your aura is the field of energy around your body. As you move through your day, through busy places, difficult conversations and other people's stress, it picks up energy that is not yours. Over time this can leave you tired, foggy or low without a clear reason.",
+    "introBody2": "Shamanic Aura Clearing is a gentle yet effective clearing that works with the energies of the Earth and the Sutra of the Heart, a sacred mantra. It clears unwanted energy from your aura, then seals and heals your energy field so you are better protected. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You feel drained after crowds, travel or busy places",
+      "You carry other people's moods home with you",
+      "Your head feels foggy, or you feel heavy for no clear reason",
+      "You find it hard to sleep, or wake up tired",
+      "You have been through a stressful time and want a clean slate"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us how you have been feeling and what you would like to clear. You only share what feels comfortable."
+      },
+      {
+        "label": "The clearing:",
+        "text": "You relax while the practitioner works with the energies of the Earth and the Sutra of the Heart to clear your aura."
+      },
+      {
+        "label": "Sealing and protection:",
+        "text": "Your energy field is sealed and healed, so it stays stronger against what you meet in daily life."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Feeling lighter and clearer",
+      "A calmer mind",
+      "Better sleep",
+      "More energy and focus",
+      "Feeling more protected, and less affected by other people's moods"
+    ],
+    "who": [
+      "You work with people all day and come home carrying their energy",
+      "You are sensitive to places and atmospheres",
+      "You have been through a conflict, a move or a hard season",
+      "You simply want a regular clean-up for your energy"
+    ],
+    "afterHeading": "After the Session",
+    "after": [
+      "Drink plenty of water and rest if you can",
+      "Take a warm salt bath that evening: it helps to ground your body",
+      "Spend some time in nature in the next days",
+      "Notice how much lighter you feel in places and with people that used to drain you"
+    ],
+    "faq": [
+      {
+        "q": "Is it the same as the Sacred Geometry Aura Healing?",
+        "a": "No. The Aura Healing is a deeper, longer healing that clears, balances and seals the seven layers of the aura through the geometry of light. The Shamanic Aura Clearing is a lighter clearing with the energies of the Earth, good whenever you feel you have picked up heavy energy. <link>Read about the Aura Healing</link>.",
+        "href": "/aura-healing"
+      },
+      {
+        "q": "Do I need a previous session?",
+        "a": "No. It is open to everyone, and you can receive it as often as you need."
+      },
+      {
+        "q": "Can I combine it with other healings?",
+        "a": "Yes. It works well together with Emotional Cord Cutting, which releases draining ties to other people. <link>Read about Emotional Cord Cutting</link>.",
+        "href": "/emotional-cord-cutting"
+      }
+    ],
+    "relatedHeading": "Clear what others have sent your way",
+    "relatedBody": "Negative Energy Removal clears jealousy, envy, harsh words and ill will that other people have sent towards you.",
+    "relatedCta": "Explore Negative Energy Removal",
+    "bookingTitle": "Clear and Protect",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in the Shamanic Aura Clearing."
+  },
+  "IntuitiveCrystalReading": {
+    "heroEyebrow": "Crystal Reading",
+    "heroTitle": "Intuitive Reading with Crystal",
+    "heroSubtitle": "Guidance from your Higher Self through a pair of twin crystals",
+    "heroTagline": "Bring your questions, and leave with more clarity for your next step",
+    "introLead": "Sometimes the answer is already within you. You just need help hearing it.",
+    "introBody1": "In this reading, also known as a Twin Crystal Reading, the practitioner works with a pair of twin crystals: two crystals that grew together from the same seed. The twins create a link between you and the reader. You ask your questions, and through the crystals the reader receives guidance from your Higher Self, your guides and beings of light about the energies around you, in the past, the present and the future.",
+    "introBody2": "This is not fortune-telling. Nothing is decided for you, and no one tells you what is right or wrong. The reading shows you the energies at play and the possibilities open to you, so you can make your own choices with more clarity. It is one of the crystal practices taught in Sacred Geometry II of the Modern Mystery School.",
+    "signsHeading": "When a Reading Can Help",
+    "signs": [
+      "You are facing a decision and feel torn between options",
+      "You feel stuck and cannot see the way forward",
+      "You are going through a change: in your work, a relationship or a move",
+      "You want to understand what is going on beneath the surface",
+      "You want to reconnect with your own inner guidance"
+    ],
+    "protocolHeading": "What Happens in the Reading",
+    "protocol": [
+      {
+        "label": "Before we begin:",
+        "text": "Think about the questions you would like to ask. It helps to write them down."
+      },
+      {
+        "label": "The reading:",
+        "text": "You and the reader are linked through the twin crystals. You ask your questions one by one, and the reader shares the guidance that comes through."
+      },
+      {
+        "label": "Closing:",
+        "text": "We talk through what came up, so you leave knowing what it means for you."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Clarity and a fresh perspective on a decision",
+      "A sense of being guided and supported",
+      "Awareness of new possibilities",
+      "Confidence to make their own choices",
+      "Feeling more connected to their purpose"
+    ],
+    "faq": [
+      {
+        "q": "Will the reading predict my future?",
+        "a": "No. A reading shows the energies around you now and where they are leading. You always keep your free will, and you can change direction at any time."
+      },
+      {
+        "q": "What kind of questions can I ask?",
+        "a": "Anything that matters to you: your relationships, your work, your spiritual path or a decision in front of you."
+      },
+      {
+        "q": "How often can I have a reading?",
+        "a": "Whenever new questions come up. Many people come back after a few months, once things have moved."
+      },
+      {
+        "q": "Do I need a previous session?",
+        "a": "No. The reading is open to everyone."
+      }
+    ],
+    "relatedHeading": "Go deeper into your purpose",
+    "relatedBody": "The Life Purpose & 11th Codon Reading reveals your divine purpose and the gifts you carry.",
+    "relatedCta": "Explore the Life Purpose Reading",
+    "bookingTitle": "Ask Your Questions",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in an Intuitive Reading with Crystal."
+  },
+  "LaserLightHealing": {
+    "heroEyebrow": "Healing with Light",
+    "heroTitle": "Laser Light Healing",
+    "heroSubtitle": "Pure, focused light for your body and your energy",
+    "heroTagline": "A short, direct healing that brings your body and energy field back into balance",
+    "introLead": "Light heals. The mystery schools have known this for thousands of years.",
+    "introBody1": "Laser Light Healing uses a refined, focused light, pure and perfectly in tune. As it flows through the layers of sound, waves, etheric and magnetic energy, it has a direct healing effect on the physical body and brings every layer of your energy field into balance and harmony.",
+    "introBody2": "The technique was developed in the mystery school traditions over centuries, and today it works together with modern technology. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.",
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "A short conversation:",
+        "text": "You tell us how you feel and what you would like support with."
+      },
+      {
+        "label": "The healing:",
+        "text": "You relax while the practitioner works with the light. The light work itself lasts less than half an hour."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "A sense of balance and harmony in body and energy",
+      "Feeling lighter and more relaxed",
+      "Release of emotions that were held in",
+      "Feeling more like themselves, and more empowered"
+    ],
+    "who": [
+      "You want gentle support for your body alongside your medical care",
+      "You feel out of balance and want to reset",
+      "You would like a short, focused session"
+    ],
+    "faq": [
+      {
+        "q": "Is it the same as a medical laser treatment?",
+        "a": "No. Laser Light Healing is an energy healing from the mystery school tradition. It does not replace any medical treatment, and works as gentle support alongside it."
+      },
+      {
+        "q": "Can I receive it during pregnancy?",
+        "a": "No. Laser Light Healing is not given during pregnancy. If you are pregnant, ask us and we will suggest a healing that is right for you."
+      },
+      {
+        "q": "How often can I receive it?",
+        "a": "As often as you need, up to twice a week."
+      },
+      {
+        "q": "Do I need a previous session?",
+        "a": "No. It is open to everyone."
+      }
+    ],
+    "relatedHeading": "Let your life force flow",
+    "relatedBody": "Meridian Line Balancing clears blocked meridians so your life force can flow freely again.",
+    "relatedCta": "Explore Meridian Line Balancing",
+    "bookingTitle": "Receive the Light",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in Laser Light Healing."
+  },
+  "MeridianLineBalancing": {
+    "heroEyebrow": "Body & Energy",
+    "heroTitle": "Meridian Line Balancing",
+    "heroSubtitle": "Let your life force flow freely again",
+    "heroTagline": "Clears blocked meridians so your body and spirit can find their balance",
+    "introLead": "Your life force flows through your body along lines called meridians.",
+    "introBody1": "In Chinese tradition this life force is called chi, and the meridians are the channels it moves along: the same lines that acupuncture works with. When a meridian is blocked, energy cannot reach where it is needed, and you may feel tired, tense or out of balance.",
+    "introBody2": "In Meridian Line Balancing the practitioner traces and activates your meridian lines with focused light and gentle pressure on specific points, to release blockages and restore the flow. Each session is tailored to the meridians that need it most. As your physical body comes back into balance, your spiritual body grows stronger too. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You often feel tired or low on energy",
+      "You carry tension in your body",
+      "You feel stressed or out of balance",
+      "You feel stuck, as if something is not flowing"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us how you feel, in body and mind."
+      },
+      {
+        "label": "The balancing:",
+        "text": "You relax while the practitioner works along your meridian lines with focused light and gentle pressure, focusing on the ones that need it most."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Energy flowing freely again",
+      "More vitality",
+      "Release of tension and stress",
+      "A clearer mind and a lighter mood",
+      "Feeling balanced in body and emotions"
+    ],
+    "faq": [
+      {
+        "q": "Is it acupuncture?",
+        "a": "No needles are used. It works with the same meridian lines as acupuncture, but through focused light and gentle pressure."
+      },
+      {
+        "q": "How many sessions do I need?",
+        "a": "One session already helps your energy flow. Some people choose a short series of sessions to go deeper. We will talk about what makes sense for you."
+      },
+      {
+        "q": "Can I receive it during pregnancy?",
+        "a": "No. Meridian Line Balancing is not given during pregnancy. If you are pregnant, ask us and we will suggest a healing that is right for you."
+      },
+      {
+        "q": "Do I need a previous session?",
+        "a": "No. It is open to everyone."
+      }
+    ],
+    "relatedHeading": "Healing with light",
+    "relatedBody": "Laser Light Healing uses pure, focused light to bring your body and every layer of your energy field into balance.",
+    "relatedCta": "Explore Laser Light Healing",
+    "bookingTitle": "Restore the Flow",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in Meridian Line Balancing."
+  },
+  "TreeOfLifeAwakening": {
+    "heroEyebrow": "Kabbalah",
+    "heroTitle": "Tree of Life Awakening",
+    "heroSubtitle": "Awaken the map of creation within you",
+    "heroTagline": "Opens the ten spheres of the Tree of Life in your energy, so you can create your life more easily",
+    "introLead": "The Tree of Life is the map of creation.",
+    "introBody1": "In the Kabbalah, the Tree of Life is made of ten spheres, the Sephiroth. Together they show how everything comes into being, from Kether, the crown, down to Malkuth, the physical world. The same pattern lives in you, from the crown of your head down to your feet.",
+    "introBody2": "The Tree of Life Awakening opens and enlivens the ten spheres in your energy, so your connection to the divine pattern of creation grows stronger. Many people find it easier to create and manifest what they want in life afterwards. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.",
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us what is happening in your life and what you would like to create."
+      },
+      {
+        "label": "The awakening:",
+        "text": "You relax, fully clothed, while the practitioner awakens the spheres of the Tree of Life in your energy."
+      },
+      {
+        "label": "Grounding:",
+        "text": "We close by grounding you, so you leave calm and present."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Clarity, focus and a sense of purpose",
+      "Feeling more able to create and manifest",
+      "Calmer emotions",
+      "Soul and body feeling more aligned",
+      "Support in integrating their Life Activation or Full Spirit Activation"
+    ],
+    "faq": [
+      {
+        "q": "Is it part of the Full Spirit Activation?",
+        "a": "Yes. The Full Spirit Activation includes a Tree of Life Awakening, together with a Chakra Awakening. You can also receive it on its own, whenever you feel the need. <link>Read about the Full Spirit Activation</link>.",
+        "href": "/full-spirit-activation"
+      },
+      {
+        "q": "Can I combine it with the Chakra Awakening?",
+        "a": "Yes, the two go beautifully together: your chakras open to receive energy, and the Tree of Life helps you use it to create. Many people receive both in the same visit. <link>Read about the Chakra Awakening</link>.",
+        "href": "/chakra-awakening"
+      },
+      {
+        "q": "Do I need a previous session?",
+        "a": "No. It is open to everyone."
+      }
+    ],
+    "relatedHeading": "Open your energy centres",
+    "relatedBody": "The Chakra Awakening opens your seven main chakras so you can receive energy from the divine.",
+    "relatedCta": "Explore the Chakra Awakening",
+    "bookingTitle": "Awaken Your Tree of Life",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in the Tree of Life Awakening."
+  },
+  "ChakraAwakening": {
+    "heroEyebrow": "Energy Centres",
+    "heroTitle": "Chakra Awakening",
+    "heroSubtitle": "Open your energy centres to receive divine energy",
+    "heroTagline": "Awakens your seven main chakras and clears what blocks the flow",
+    "introLead": "Your chakras are how you receive energy from the Universe.",
+    "introBody1": "Along your body sit seven main energy centres, the chakras, from the root at the base of your spine to the crown at the top of your head. When they are open, energy flows in freely. When they are blocked, you may feel tired, scattered or cut off.",
+    "introBody2": "The Chakra Awakening opens all seven chakras and clears the blocks, so you can receive energy from the divine. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You feel low on energy, or your energy feels stuck",
+      "You feel scattered and find it hard to focus",
+      "You feel cut off from yourself or from spirit",
+      "You want to feel more grounded and balanced"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us how you feel and what you would like support with."
+      },
+      {
+        "label": "The awakening:",
+        "text": "You relax, fully clothed, while light is directed through each of your chakras."
+      },
+      {
+        "label": "Grounding:",
+        "text": "We close by grounding you, so you leave calm and present."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Stuck energy clearing and flowing again",
+      "Feeling calm and focused",
+      "Emotional and mental balance",
+      "Clearer intuition",
+      "Feeling grounded"
+    ],
+    "faq": [
+      {
+        "q": "Is it the same as the Chakra Balancing in the Life Activation?",
+        "a": "No. They are different procedures. The Chakra Awakening is a session of its own, and it is also part of the Full Spirit Activation. <link>Read about the Full Spirit Activation</link>.",
+        "href": "/full-spirit-activation"
+      },
+      {
+        "q": "Can I combine it with the Tree of Life Awakening?",
+        "a": "Yes, the two go beautifully together: your chakras open to receive energy, and the Tree of Life helps you use it to create. Many people receive both in the same visit. <link>Read about the Tree of Life Awakening</link>.",
+        "href": "/tree-of-life-awakening"
+      },
+      {
+        "q": "Do I need a previous session?",
+        "a": "No. It is open to everyone."
+      }
+    ],
+    "relatedHeading": "Awaken the map of creation within you",
+    "relatedBody": "The Tree of Life Awakening opens the ten spheres of the Tree of Life in your energy, so you can create your life more easily.",
+    "relatedCta": "Explore the Tree of Life Awakening",
+    "bookingTitle": "Awaken Your Chakras",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in the Chakra Awakening."
+  },
+  "GalacticActivationPage": {
+    "heroEyebrow": "Modern Mystery School UK",
+    "heroTitle": "Galactic Activation",
+    "heroSubtitle": "The next step in the awakening of your DNA",
+    "heroTagline": "A series of workshops that turns on the Galactic and Divinity codes in your physical and spiritual DNA",
+    "introLead": "The Life Activation awakens 22 of your 24 strands of DNA. The Galactic Activation completes the picture.",
+    "introBody1": "In the teachings of the Modern Mystery School, your DNA has 24 strands, physical and spiritual. The Life Activation activates 22 of them. The remaining two, the Galactic Code in your physical DNA and the Divinity Code in your spiritual DNA, are turned on in the Galactic Activation. Its aim is the adam kadmon: the God-like human being, fully alive in the physical.",
+    "introBody2": "The Galactic Activation is not a single session but a series of group workshops, Galactic Activation 1 to 4, taken in order. It is not taught in Prague: in Europe it is held by the Modern Mystery School UK in London. Radu and Diana have both received it themselves and are happy to tell you about it.",
+    "coversHeading": "What Galactic Activation 1 Covers",
+    "covers": [
+      "Day one: how to keep your energy healthy in everyday life, from your body and nutrition to your relationships and your work, and the Galactic Activation itself",
+      "Day two: building your \"galactic muscles\" and connecting with the celestial beings who support human evolution",
+      "Teachings and attunements that help you move out of separation and judgement and into your spiritual adulthood",
+      "More resilience: keeping your energy up under stress by drawing in divine and galactic energies"
+    ],
+    "seriesHeading": "The Series",
+    "series": [
+      {
+        "label": "Galactic Activation 1:",
+        "text": "A two-day workshop about living in a new way, to become a different kind of human."
+      },
+      {
+        "label": "Galactic Activation 2:",
+        "text": "Takes the work to the next level, with your Galactic self, which is not bound to this one physical dimension."
+      },
+      {
+        "label": "Galactic Activation 3:",
+        "text": "Works with the En-Sofic and Elohim energies. In a ceremony, you receive your Galactic Name."
+      },
+      {
+        "label": "Galactic Activation 4:",
+        "text": "Completes the series."
+      }
+    ],
+    "whoHeading": "Who Can Attend",
+    "whoBody": "At the time of writing, the Modern Mystery School UK opens Galactic Activation 1 to Certified Life Activation Practitioners and to those attending Healers Academy. Requirements can change, so please check the current dates and prerequisites on the MMS UK website, or ask us and we will help you find your next step.",
+    "faq": [
+      {
+        "q": "Do I need a Life Activation first?",
+        "a": "Yes. The Galactic Activation builds on the Life Activation, which activates the first 22 strands. <link>Read about the Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Is it a healing session?",
+        "a": "Not in the usual sense. It is a group workshop of teachings and attunements, led by a Modern Mystery School teacher certified to teach the Galactic Activation."
+      },
+      {
+        "q": "Where can I see dates and prices?",
+        "a": "On the <link>Modern Mystery School UK website</link>, which holds the Galactic Activation in Europe.",
+        "href": "https://modernmysteryschooluk.com/galactic-activation/"
+      }
+    ],
+    "bookingTitle": "Dates & Sign-Up",
+    "bookingNote": "The Galactic Activation is held by the Modern Mystery School UK. You will find dates, prices and sign-up on their website. Have a question first? Write to us.",
+    "bookLabel": "Dates & Sign-Up on MMS UK",
+    "inquiry": "Hello, I would like to ask about the Galactic Activation."
   }
 }

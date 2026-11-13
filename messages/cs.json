@@ -795,11 +795,10 @@
         ]
       },
       "bodyWork": {
-        "title": "Tělo, meridiány a meditace",
-        "blurb": "Obnovení proudění, rovnováhy a klidu prostřednictvím těla a dechu.",
+        "title": "Tělo, meridiány a čakry",
+        "blurb": "Obnovení proudění a rovnováhy v těle, meridiánech a energetických centrech.",
         "items": [
-          { "name": "Systém Max Meditation™", "description": "Vedený systém spojující starobylou jógovou techniku s moderní metodou k uvolnění stresu a obnovení vitality." },
-          { "name": "Léčení laserovým světlem", "description": "Světelné frekvence a reflexologie aplikované podél meridiánových drah k obnovení proudění." },
+          { "name": "Léčení laserovým světlem", "description": "Vytříbené, soustředěné světlo, které léčí fyzické tělo a přivádí každou vrstvu vašeho energetického pole do rovnováhy." },
           { "name": "Vyvážení meridiánových drah", "description": "Vyvažuje proudění životní síly (čchi) podél meridiánových drah těla." },
           { "name": "Probuzení stromu života", "description": "Probouzí vaše spojení se stromem života a rozšiřuje vědomí." },
           { "name": "Probuzení čaker", "description": "Probouzí a harmonizuje sedm energetických center těla." }
@@ -1800,7 +1799,7 @@
     "disclaimer": "Tato práce nenahrazuje žádnou léčbu předepsanou vaším lékařem. Nabízí se jako doplňková energetická a duchovní podpora vedle vaší lékařské péče.",
     "hostsEyebrow": "Budete v dobrých rukou",
     "hostsHeading": "Diana a Radu Coman",
-    "hostsBody": "Jsme certifikovaní praktici a učitelé Modern Mystery School. Ať se setkáte s kýmkoli z nás, uděláme si čas vás vyslechnout, odpovědět na vaše otázky a jemně vás provést každým krokem."
+    "hostsBody": "Jsme certifikovaní praktici a učitelé Modern Mystery School. Ať budete pracovat s kýmkoli z nás, uděláme si čas vás vyslechnout, odpovědět na vaše otázky a jemně vás provést každým krokem."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Hluboké léčení",
@@ -2517,6 +2516,7 @@
     "reserveYourPlace": "Rezervovat místo"
   },
   "MeditationPrayer": {
+    "maxDescription": "Vedený systém spojující starobylou jógovou techniku s moderní metodou k uvolnění stresu a obnovení vitality.",
     "heroEyebrow": "Ticho a oddanost",
     "heroTitle": "Meditace a modlitba",
     "heroSubtitle": "Praxe ticha, modlitby a společenství",
@@ -2616,5 +2616,443 @@
       "link": "Zobrazit nadcházející kurzy"
     },
     "askLink": "Nevíte, který krok je pro vás ten pravý? Zeptejte se nás na WhatsAppu"
+  },
+  "ShamanicAuraClearing": {
+    "heroEyebrow": "Čištění aury",
+    "heroTitle": "Šamanské čištění aury",
+    "heroSubtitle": "Jemné čištění s energiemi Země",
+    "heroTagline": "Vyčistí, co jste cestou nasbírali, a pak vaši energii zapečetí a ochrání",
+    "introLead": "Stává se vám, že se vracíte domů těžší, než jste odcházeli?",
+    "introBody1": "Vaše aura je energetické pole kolem vašeho těla. Jak procházíte dnem, rušnými místy, náročnými rozhovory a stresem druhých lidí, nabírá na sebe aura cizí energii. Časem se kvůli tomu můžete bez jasného důvodu cítit unavení, skleslí nebo jako v mlze.",
+    "introBody2": "Šamanské čištění aury je jemné, a přitom účinné čištění, které pracuje s energiemi Země a se Sútrou srdce, posvátnou mantrou. Odstraní z vaší aury nechtěnou energii a pak vaše energetické pole zapečetí a zahojí, abyste byli lépe chránění. Je to jedno z léčení, která Modern Mystery School vyučuje v rámci Healers Academy, a přijmout ho může kdokoli.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Po davech, cestování nebo pobytu na rušných místech se cítíte vyčerpaní",
+      "Nálady druhých si nosíte s sebou domů",
+      "Máte mlhu v hlavě nebo se bez jasného důvodu cítíte těžce",
+      "Těžko usínáte nebo se budíte unavení",
+      "Máte za sebou stresující období a chcete začít načisto"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, jak se v poslední době cítíte a co byste chtěli vyčistit. Sdílíte jen to, co je vám příjemné."
+      },
+      {
+        "label": "Vyčištění:",
+        "text": "Vy se uvolníte, zatímco praktik čistí vaši auru pomocí energií Země a Sútry srdce."
+      },
+      {
+        "label": "Zapečetění a ochrana:",
+        "text": "Vaše energetické pole se zapečetí a zahojí, aby bylo odolnější vůči všemu, s čím se v každodenním životě setkáváte."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Pocit lehkosti a jasnosti",
+      "Klidnější mysl",
+      "Lepší spánek",
+      "Více energie a soustředění",
+      "Pocit větší ochrany: nálady druhých vás ovlivňují méně"
+    ],
+    "who": [
+      "Celý den pracujete s lidmi a domů si nosíte jejich energii",
+      "Jste citliví na místa a atmosféru",
+      "Prošli jste konfliktem, stěhováním nebo těžkým obdobím",
+      "Jednoduše chcete své energii dopřát pravidelnou očistu"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Pijte hodně vody, a pokud můžete, odpočívejte",
+      "Večer si dopřejte teplou koupel se solí: pomůže uzemnit tělo",
+      "V dalších dnech trávte nějaký čas v přírodě",
+      "Všímejte si, o kolik lehčí se cítíte na místech a s lidmi, kteří vás dřív vyčerpávali"
+    ],
+    "faq": [
+      {
+        "q": "Je to totéž jako léčení aury Sacred Geometry?",
+        "a": "Ne. Léčení aury je hlubší a delší léčení, které čistí, vyvažuje a zapečeťuje sedm vrstev aury prostřednictvím geometrie světla. Šamanské čištění aury je lehčí čištění s energiemi Země, vhodné kdykoli máte pocit, že jste na sebe nabrali těžkou energii. <link>Přečtěte si o léčení aury</link>.",
+        "href": "/aura-healing"
+      },
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ne. Je otevřené všem a můžete ho přijmout tak často, jak potřebujete."
+      },
+      {
+        "q": "Mohu ho spojit s jinými léčeními?",
+        "a": "Ano. Dobře funguje spolu s přeříznutím emočních pout, které uvolňuje vyčerpávající vazby k druhým lidem. <link>Přečtěte si o přeříznutí emočních pout</link>.",
+        "href": "/emotional-cord-cutting"
+      }
+    ],
+    "relatedHeading": "Vyčistěte to, co vám poslali druzí",
+    "relatedBody": "Odstranění negativní energie čistí žárlivost, závist, tvrdá slova a zlou vůli, které druzí poslali směrem k vám.",
+    "relatedCta": "Prozkoumat odstranění negativní energie",
+    "bookingTitle": "Očista a ochrana",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o šamanské čištění aury."
+  },
+  "IntuitiveCrystalReading": {
+    "heroEyebrow": "Krystalové čtení",
+    "heroTitle": "Intuitivní čtení s krystalem",
+    "heroSubtitle": "Vedení od vašeho Vyššího já skrze krystalová dvojčata",
+    "heroTagline": "Přineste své otázky a odejděte s větší jasností pro svůj další krok",
+    "introLead": "Někdy odpověď už ve vás je. Jen potřebujete pomoc, abyste ji uslyšeli.",
+    "introBody1": "Při tomto čtení, známém také jako čtení s krystalovými dvojčaty, pracuje praktik s krystalovými dvojčaty: dvěma krystaly, které spolu vyrostly z jednoho zárodku. Dvojčata vytvoří spojení mezi vámi a praktikem. Vy kladete své otázky a praktik skrze krystaly přijímá vedení od vašeho Vyššího já, vašich průvodců a bytostí světla o energiích kolem vás, v minulosti, přítomnosti i budoucnosti.",
+    "introBody2": "Nejde o věštění. Nic se za vás nerozhoduje a nikdo vám neříká, co je správné a co špatné. Čtení vám ukáže energie, které ve vašem životě působí, a možnosti, které se vám otevírají, abyste se mohli s větší jasností rozhodovat sami. Patří ke krystalovým praxím, které Modern Mystery School vyučuje v kurzu Sacred Geometry II.",
+    "signsHeading": "Kdy může čtení pomoci",
+    "signs": [
+      "Stojíte před rozhodnutím a zmítáte se mezi několika možnostmi",
+      "Cítíte se zaseknutí a nevidíte cestu dál",
+      "Procházíte změnou: v práci, ve vztahu nebo při stěhování",
+      "Chcete pochopit, co se děje pod povrchem",
+      "Chcete se znovu spojit se svým vlastním vnitřním vedením"
+    ],
+    "protocolHeading": "Co se během čtení děje",
+    "protocol": [
+      {
+        "label": "Než začneme:",
+        "text": "Promyslete si otázky, které byste chtěli položit. Pomůže, když si je zapíšete."
+      },
+      {
+        "label": "Čtení:",
+        "text": "Vy a praktik jste propojeni skrze krystalová dvojčata. Kladete své otázky jednu po druhé a praktik sdílí vedení, které přichází."
+      },
+      {
+        "label": "Závěr:",
+        "text": "Probereme spolu, co se ukázalo, abyste odcházeli s vědomím, co to pro vás znamená."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Jasnost a nový pohled na rozhodnutí",
+      "Pocit vedení a podpory",
+      "Uvědomění si nových možností",
+      "Jistota při vlastních rozhodnutích",
+      "Silnější spojení s vlastním posláním"
+    ],
+    "faq": [
+      {
+        "q": "Předpoví mi čtení budoucnost?",
+        "a": "Ne. Čtení ukazuje energie, které vás obklopují teď, a kam vedou. Svou svobodnou vůli si vždy ponecháváte a směr můžete kdykoli změnit."
+      },
+      {
+        "q": "Na co se mohu ptát?",
+        "a": "Na cokoli, na čem vám záleží: na vztahy, práci, duchovní cestu nebo rozhodnutí, které máte před sebou."
+      },
+      {
+        "q": "Jak často mohu na čtení přijít?",
+        "a": "Kdykoli se objeví nové otázky. Mnoho lidí se vrací po několika měsících, když se věci pohnou."
+      },
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ne. Čtení je otevřené všem."
+      }
+    ],
+    "relatedHeading": "Jděte hlouběji ke svému poslání",
+    "relatedBody": "Čtení životního poslání a 11. kodonu odhalí vaše božské poslání a dary, které nesete.",
+    "relatedCta": "Prozkoumat čtení životního poslání",
+    "bookingTitle": "Položte své otázky",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o intuitivní čtení s krystalem."
+  },
+  "LaserLightHealing": {
+    "heroEyebrow": "Léčení světlem",
+    "heroTitle": "Léčení laserovým světlem",
+    "heroSubtitle": "Čisté, soustředěné světlo pro vaše tělo i energii",
+    "heroTagline": "Krátké, přímé léčení, které vrací vaše tělo i energetické pole do rovnováhy",
+    "introLead": "Světlo léčí. Mysterijní školy to vědí už tisíce let.",
+    "introBody1": "Léčení laserovým světlem využívá vytříbené, soustředěné světlo, čisté a dokonale naladěné. Jak proudí vrstvami zvuku, vln, éterické a magnetické energie, působí přímo léčivě na fyzické tělo a přivádí každou vrstvu vašeho energetického pole do rovnováhy a harmonie.",
+    "introBody2": "Tato technika se v tradicích mysterijních škol rozvíjela po staletí a dnes pracuje ruku v ruce s moderní technologií. Je to jedno z léčení, která Modern Mystery School vyučuje v rámci Healers Academy, a přijmout ho může kdokoli.",
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Krátký rozhovor:",
+        "text": "Řeknete nám, jak se cítíte a v čem byste uvítali podporu."
+      },
+      {
+        "label": "Léčení:",
+        "text": "Vy se uvolníte, zatímco praktik pracuje se světlem. Samotná práce se světlem trvá méně než půl hodiny."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Pocit rovnováhy a harmonie v těle i v energii",
+      "Pocit lehkosti a uvolnění",
+      "Uvolnění zadržovaných emocí",
+      "Víc sami sebou, s pocitem vlastní síly"
+    ],
+    "who": [
+      "Chcete pro své tělo jemnou podporu vedle lékařské péče",
+      "Cítíte se rozhození a chcete se vrátit do rovnováhy",
+      "Uvítali byste krátké, cílené sezení"
+    ],
+    "faq": [
+      {
+        "q": "Je to totéž jako lékařské ošetření laserem?",
+        "a": "Ne. Léčení laserovým světlem je energetické léčení z tradice mysterijních škol. Nenahrazuje žádnou lékařskou léčbu a působí jako jemná podpora vedle ní."
+      },
+      {
+        "q": "Mohu ho přijmout v těhotenství?",
+        "a": "Ne. Léčení laserovým světlem se v těhotenství neprovádí. Pokud jste těhotná, zeptejte se nás a doporučíme vám léčení, které je pro vás vhodné."
+      },
+      {
+        "q": "Jak často ho mohu přijmout?",
+        "a": "Tak často, jak potřebujete, nejvýše dvakrát týdně."
+      },
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ne. Je otevřené všem."
+      }
+    ],
+    "relatedHeading": "Nechte svou životní sílu proudit",
+    "relatedBody": "Vyvážení meridiánových drah uvolňuje zablokované meridiány, aby vaše životní síla mohla znovu volně proudit.",
+    "relatedCta": "Prozkoumat vyvážení meridiánových drah",
+    "bookingTitle": "Přijměte světlo",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o léčení laserovým světlem."
+  },
+  "MeridianLineBalancing": {
+    "heroEyebrow": "Tělo a energie",
+    "heroTitle": "Vyvážení meridiánových drah",
+    "heroSubtitle": "Nechte svou životní sílu znovu volně proudit",
+    "heroTagline": "Uvolňuje zablokované meridiány, aby vaše tělo i duch našli rovnováhu",
+    "introLead": "Vaše životní síla proudí tělem po drahách, kterým se říká meridiány.",
+    "introBody1": "V čínské tradici se této životní síle říká čchi a meridiány jsou kanály, kterými proudí: tytéž dráhy, se kterými pracuje akupunktura. Když je meridián zablokovaný, energie se nedostane tam, kde je potřeba, a vy se můžete cítit unavení, napjatí nebo mimo rovnováhu.",
+    "introBody2": "Při vyvážení meridiánových drah praktik vaše meridiánové dráhy sleduje a aktivuje světlem a jemným tlakem na konkrétní body, aby uvolnil blokády a obnovil proudění. Každé sezení je přizpůsobené meridiánům, které to nejvíc potřebují. Jak se vaše fyzické tělo vrací do rovnováhy, sílí i vaše duchovní tělo. Je to jedno z léčení, která Modern Mystery School vyučuje v rámci Healers Academy, a přijmout ho může kdokoli.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Často se cítíte unavení nebo bez energie",
+      "V těle nosíte napětí",
+      "Cítíte se ve stresu nebo mimo rovnováhu",
+      "Cítíte se zaseknutí, jako by něco neproudilo"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, jak se cítíte na těle i na duši."
+      },
+      {
+        "label": "Vyvážení:",
+        "text": "Vy se uvolníte, zatímco praktik pracuje podél vašich meridiánových drah světlem a jemným tlakem a zaměřuje se na ty, které to nejvíc potřebují."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Energie znovu volně proudí",
+      "Více vitality",
+      "Uvolnění napětí a stresu",
+      "Jasnější mysl a lehčí nálada",
+      "Rovnováha v těle i v emocích"
+    ],
+    "faq": [
+      {
+        "q": "Je to akupunktura?",
+        "a": "Nepoužívají se žádné jehly. Pracuje se se stejnými meridiánovými drahami jako v akupunktuře, ale pomocí světla a jemného tlaku."
+      },
+      {
+        "q": "Kolik sezení potřebuji?",
+        "a": "Už jedno sezení pomůže vaší energii proudit. Někteří lidé si zvolí krátkou sérii sezení, aby šli více do hloubky. Probereme spolu, co dává smysl pro vás."
+      },
+      {
+        "q": "Mohu ho přijmout v těhotenství?",
+        "a": "Ne. Vyvážení meridiánových drah se v těhotenství neprovádí. Pokud jste těhotná, zeptejte se nás a doporučíme vám léčení, které je pro vás vhodné."
+      },
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ne. Je otevřené všem."
+      }
+    ],
+    "relatedHeading": "Léčení světlem",
+    "relatedBody": "Léčení laserovým světlem využívá čisté, soustředěné světlo, aby přivedlo vaše tělo i každou vrstvu vašeho energetického pole do rovnováhy.",
+    "relatedCta": "Prozkoumat léčení laserovým světlem",
+    "bookingTitle": "Obnovte proudění",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o vyvážení meridiánových drah."
+  },
+  "TreeOfLifeAwakening": {
+    "heroEyebrow": "Kabala",
+    "heroTitle": "Probuzení stromu života",
+    "heroSubtitle": "Probuďte v sobě mapu stvoření",
+    "heroTagline": "Otevírá ve vaší energii deset sfér stromu života, abyste mohli snáze tvořit svůj život",
+    "introLead": "Strom života je mapou stvoření.",
+    "introBody1": "V kabale tvoří strom života deset sfér, Sephiroth. Společně ukazují, jak vše vzniká, od Kether, koruny, až po Malkuth, fyzický svět. Tentýž vzorec žije i ve vás, od temene hlavy až po chodidla.",
+    "introBody2": "Probuzení stromu života otevírá a oživuje deset sfér ve vaší energii, takže vaše spojení s božským vzorcem stvoření sílí. Mnoho lidí pak zjišťuje, že snáze tvoří a manifestují v životě to, co chtějí. Je to jedno z léčení, která Modern Mystery School vyučuje v rámci Healers Academy, a přijmout ho může kdokoli.",
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, co se ve vašem životě děje a co byste rádi vytvořili."
+      },
+      {
+        "label": "Probuzení:",
+        "text": "Uvolníte se, plně oblečení, zatímco praktik ve vaší energii probouzí sféry stromu života."
+      },
+      {
+        "label": "Uzemnění:",
+        "text": "Na závěr vás uzemníme, abyste odcházeli klidní a přítomní."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Jasnost, soustředění a pocit smyslu",
+      "Pocit, že snáze tvoříte a manifestujete",
+      "Klidnější emoce",
+      "Duše a tělo ve větším souladu",
+      "Podpora při integraci Life Activation nebo Full Spirit Activation"
+    ],
+    "faq": [
+      {
+        "q": "Je součástí Full Spirit Activation?",
+        "a": "Ano. Full Spirit Activation zahrnuje probuzení stromu života spolu s probuzením čaker. Můžete ho ale přijmout i samostatně, kdykoli cítíte potřebu. <link>Přečtěte si o Full Spirit Activation</link>.",
+        "href": "/full-spirit-activation"
+      },
+      {
+        "q": "Mohu ho spojit s probuzením čaker?",
+        "a": "Ano, obě se krásně doplňují: vaše čakry se otevřou, aby mohly přijímat energii, a strom života vám pomůže ji využít k tvoření. Mnoho lidí přijme obojí během jedné návštěvy. <link>Přečtěte si o probuzení čaker</link>.",
+        "href": "/chakra-awakening"
+      },
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ne. Je otevřené všem."
+      }
+    ],
+    "relatedHeading": "Otevřete svá energetická centra",
+    "relatedBody": "Probuzení čaker otevírá vašich sedm hlavních čaker, abyste mohli přijímat energii z božského zdroje.",
+    "relatedCta": "Prozkoumat probuzení čaker",
+    "bookingTitle": "Probuďte svůj strom života",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o probuzení stromu života."
+  },
+  "ChakraAwakening": {
+    "heroEyebrow": "Energetická centra",
+    "heroTitle": "Probuzení čaker",
+    "heroSubtitle": "Otevřete svá energetická centra a přijímejte božskou energii",
+    "heroTagline": "Probouzí vašich sedm hlavních čaker a uvolňuje to, co brání proudění",
+    "introLead": "Skrze čakry přijímáte energii z vesmíru.",
+    "introBody1": "Podél vašeho těla leží sedm hlavních energetických center, čaker, od kořenové čakry u spodiny páteře až po korunní čakru na temeni hlavy. Když jsou otevřené, energie do vás volně proudí. Když jsou zablokované, můžete se cítit unavení, roztěkaní nebo odříznutí.",
+    "introBody2": "Probuzení čaker otevírá všech sedm čaker a uvolňuje blokády, abyste mohli přijímat energii z božského zdroje. Je to jedno z léčení, která Modern Mystery School vyučuje v rámci Healers Academy, a přijmout ho může kdokoli.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Cítíte se bez energie nebo jako by se vaše energie zasekla",
+      "Cítíte se roztěkaní a těžko se soustředíte",
+      "Cítíte se odříznutí od sebe nebo od ducha",
+      "Chcete se cítit víc uzemnění a v rovnováze"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, jak se cítíte a v čem byste uvítali podporu."
+      },
+      {
+        "label": "Probuzení:",
+        "text": "Uvolníte se, plně oblečení, zatímco praktik směruje světlo skrze každou z vašich čaker."
+      },
+      {
+        "label": "Uzemnění:",
+        "text": "Na závěr vás uzemníme, abyste odcházeli klidní a přítomní."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Zaseknutá energie se uvolní a znovu proudí",
+      "Pocit klidu a soustředění",
+      "Emoční a mentální rovnováha",
+      "Jasnější intuice",
+      "Pocit uzemnění"
+    ],
+    "faq": [
+      {
+        "q": "Je to totéž jako vyvážení čaker v Life Activation?",
+        "a": "Ne. Jde o různé procedury. Probuzení čaker je samostatné sezení a je také součástí Full Spirit Activation. <link>Přečtěte si o Full Spirit Activation</link>.",
+        "href": "/full-spirit-activation"
+      },
+      {
+        "q": "Mohu ho spojit s probuzením stromu života?",
+        "a": "Ano, obě se krásně doplňují: vaše čakry se otevřou, aby mohly přijímat energii, a strom života vám pomůže ji využít k tvoření. Mnoho lidí přijme obojí během jedné návštěvy. <link>Přečtěte si o probuzení stromu života</link>.",
+        "href": "/tree-of-life-awakening"
+      },
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ne. Je otevřené všem."
+      }
+    ],
+    "relatedHeading": "Probuďte v sobě mapu stvoření",
+    "relatedBody": "Probuzení stromu života otevírá ve vaší energii deset sfér stromu života, abyste mohli snáze tvořit svůj život.",
+    "relatedCta": "Prozkoumat probuzení stromu života",
+    "bookingTitle": "Probuďte své čakry",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o probuzení čaker."
+  },
+  "GalacticActivationPage": {
+    "heroEyebrow": "Modern Mystery School UK",
+    "heroTitle": "Galaktická aktivace",
+    "heroSubtitle": "Další krok v probouzení vaší DNA",
+    "heroTagline": "Série workshopů, která aktivuje galaktický a božský kód ve vaší fyzické a duchovní DNA",
+    "introLead": "Life Activation probouzí 22 z vašich 24 vláken DNA. Galaktická aktivace celý obraz dotváří.",
+    "introBody1": "Podle učení Modern Mystery School má vaše DNA 24 vláken, fyzických a duchovních. Life Activation jich aktivuje 22. Zbývající dvě, galaktický kód ve vaší fyzické DNA a božský kód ve vaší duchovní DNA, se zapínají při Galaktické aktivaci. Jejím cílem je adam kadmon: lidská bytost podobná Bohu, plně živá ve fyzickém těle.",
+    "introBody2": "Galaktická aktivace není jedno sezení, ale série skupinových workshopů, Galaktická aktivace 1 až 4, které se absolvují postupně. V Praze se nevyučuje: v Evropě ji pořádá Modern Mystery School UK v Londýně. Radu i Diana ji sami absolvovali a rádi vám o ní povědí víc.",
+    "coversHeading": "Co zahrnuje Galaktická aktivace 1",
+    "covers": [
+      "První den: jak udržovat svou energii zdravou v každodenním životě, od těla a výživy po vztahy a práci, a samotná Galaktická aktivace",
+      "Druhý den: budování vašich „galaktických svalů“ a spojení s nebeskými bytostmi, které podporují evoluci lidstva",
+      "Učení a naladění, která vám pomohou vystoupit z oddělenosti a souzení a vstoupit do své duchovní dospělosti",
+      "Větší odolnost: jak si i ve stresu udržet energii tím, že do sebe přijímáte božské a galaktické energie"
+    ],
+    "seriesHeading": "Série",
+    "series": [
+      {
+        "label": "Galaktická aktivace 1:",
+        "text": "Dvoudenní workshop o tom, jak žít novým způsobem a stát se jiným druhem člověka."
+      },
+      {
+        "label": "Galaktická aktivace 2:",
+        "text": "Posouvá práci na další úroveň, s vaším galaktickým já, které není vázané jen na tuto jednu fyzickou dimenzi."
+      },
+      {
+        "label": "Galaktická aktivace 3:",
+        "text": "Pracuje s energiemi En-Sofic a Elohim. Při obřadu obdržíte své galaktické jméno."
+      },
+      {
+        "label": "Galaktická aktivace 4:",
+        "text": "Završuje celou sérii."
+      }
+    ],
+    "whoHeading": "Kdo se může zúčastnit",
+    "whoBody": "V době psaní tohoto textu otevírá Modern Mystery School UK Galaktickou aktivaci 1 certifikovaným praktikům Life Activation a účastníkům Healers Academy. Podmínky se mohou měnit, proto si prosím aktuální termíny a předpoklady ověřte na webu MMS UK, nebo se zeptejte nás a pomůžeme vám najít váš další krok.",
+    "faq": [
+      {
+        "q": "Potřebuji nejdřív Life Activation?",
+        "a": "Ano. Galaktická aktivace navazuje na Life Activation, která aktivuje prvních 22 vláken. <link>Přečtěte si o Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Je to léčebné sezení?",
+        "a": "Ne v obvyklém smyslu. Je to skupinový workshop s učením a naladěními, který vede učitel Modern Mystery School certifikovaný k výuce Galaktické aktivace."
+      },
+      {
+        "q": "Kde najdu termíny a ceny?",
+        "a": "Na <link>webu Modern Mystery School UK</link>, která Galaktickou aktivaci v Evropě pořádá.",
+        "href": "https://modernmysteryschooluk.com/galactic-activation/"
+      }
+    ],
+    "bookingTitle": "Termíny a přihlášení",
+    "bookingNote": "Galaktickou aktivaci pořádá Modern Mystery School UK. Termíny, ceny a přihlášení najdete na jejich webu. Máte nejdřív nějakou otázku? Napište nám.",
+    "bookLabel": "Termíny a přihlášení na MMS UK",
+    "inquiry": "Dobrý den, rád/a bych se zeptal/a na Galaktickou aktivaci."
   }
 }

@@ -30,11 +30,12 @@ export async function getHealingGroups(locale?: string) {
       name: t("groups.activations.items.2.name"),
       description: t("groups.activations.items.2.description"),
       externalHref: MMS_UK_CALENDAR_URL,
+      detailsHref: "/galactic-activation",
     },
   ]
 
-  // where each one takes place (3 Shamanic Aura Clearing: not stated yet, so no label)
-  const auraFormat: Healing["format"][] = ["inPerson", "inPerson", "inPerson", undefined, "both", "both", "inPerson", "inPerson", "inPerson", "remote"]
+  // where each one takes place
+  const auraFormat: Healing["format"][] = ["inPerson", "inPerson", "inPerson", "inPerson", "both", "both", "inPerson", "inPerson", "inPerson", "remote"]
 
   const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map((i) => ({
     name: i === 0 ? t("groups.auraEnergy.items.0.name", { brand: BRAND.sacredGeometry }) : t(`groups.auraEnergy.items.${i}.name`),
@@ -45,6 +46,7 @@ export async function getHealingGroups(locale?: string) {
       : {}),
     ...(i === 1 ? { price: "3.669 CZK", detailsHref: "/negative-energy-removal" } : {}),
     ...(i === 2 ? { price: "3.669 CZK", detailsHref: "/emotional-cord-cutting" } : {}),
+    ...(i === 3 ? { detailsHref: "/shamanic-aura-clearing" } : {}),
     ...(i === 4 ? { price: "4.900 CZK", detailsHref: "/ensofic-reiki" } : {}),
     ...(i === 5 ? { price: "4.900 CZK", detailsHref: "/treating-negative-habits" } : {}),
     ...(i === 6 ? { price: "3.669 CZK", detailsHref: "/crystal-healing" } : {}),
@@ -63,12 +65,17 @@ export async function getHealingGroups(locale?: string) {
     ...(i === 0
       ? { price: "6.150 CZK", detailsHref: "/life-purpose-reading", format: "inPerson" as const }
       : {}),
+    ...(i === 1 ? { detailsHref: "/intuitive-crystal-reading", format: "inPerson" as const } : {}),
   }))
 
-  const bodyWork: Healing[] = [0, 1, 2, 3, 4].map((i) => ({
+  // (Max Meditation lives on the Meditation & Prayer page, not here.)
+  // No set price yet for these four: the cards link to their pages, which invite an inquiry.
+  const bodyWorkHref = ["/laser-light-healing", "/meridian-line-balancing", "/tree-of-life-awakening", "/chakra-awakening"]
+  const bodyWork: Healing[] = bodyWorkHref.map((detailsHref, i) => ({
     name: t(`groups.bodyWork.items.${i}.name`),
     description: t(`groups.bodyWork.items.${i}.description`),
-    ...(i === 0 ? { price: "350 CZK", detailsHref: "/max-meditation", format: "online" as const } : {}),
+    detailsHref,
+    format: "inPerson" as const,
   }))
 
   return { activations, auraEnergy, remote, readings, bodyWork }

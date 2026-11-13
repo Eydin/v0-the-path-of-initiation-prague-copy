@@ -4,7 +4,33 @@ export const SITE_KNOWLEDGE = `## PAGE: /advanced-ensofic-ray-healing
 center 30%
 11.900 CZK
 all/advanced-ensofic-ray-healing
-advanced-ensofic-ray-healing
+Energy Healing
+Advanced Ensofic Ray Healing
+The first emanation of Light from Source
+A series of three sessions to anchor your godliness more deeply
+A deep, precise system of energetic alignment
+The Ensofic Ray is the first emanation of Light from Source. This healing works with it to support alignment across the physical body, emotional field, mind, soul and spiritual body.
+The three-session protocol is designed to deepen and stabilise the process, with each session building on the last. The sessions take place in person only, in Prague.
+The Three-Session Protocol
+I. The body:
+Releases blockages, tension and stagnant energy so the body's systems return to balance and flow.
+II. Soul & spirit:
+Calls down and activates the 12 Rays of Creation — Romance, Healing, Mystery, Royalty, New Beginnings and more — supporting the embodiment of your divine essence.
+III. Integration:
+A personalised session that reinforces and stabilises the energetic seals of the previous sessions.
+Benefits
+Reconnects you to your authentic self and inner light
+Clears physical, emotional and energetic blockages
+Aligns body, mind and spirit
+Activates and anchors the 12 Rays
+Supports new beginnings and the completion of old cycles
+Raises vibration and restores clarity and peace
+Supports emotional healing and renewal
+Strengthens your energetic field and spiritual connection
+Receive the Ray
+3 × 90 Minutes
+This books the first 90-minute session, in person in Prague (Vršovice), at the full programme price. We'll schedule the next two sessions together with you when you meet.
+Hello, I am interested in Advanced Ensofic Ray Healing.
 
 ## PAGE: /astral-travel
 astral-travel
@@ -115,11 +141,52 @@ Walk the Path
 These certifications are not the point — they are the proof of a lineage faithfully carried, so that what is offered to you is authentic. The door is open to those who feel the call.
 Begin Your Journey
 
+## PAGE: /chakra-awakening
+center 30%
+/tree-of-life-awakening
+Energy Centres
+Chakra Awakening
+Open your energy centres to receive divine energy
+Awakens your seven main chakras and clears what blocks the flow
+Your chakras are how you receive energy from the Universe.
+Along your body sit seven main energy centres, the chakras, from the root at the base of your spine to the crown at the top of your head. When they are open, energy flows in freely. When they are blocked, you may feel tired, scattered or cut off.
+The Chakra Awakening opens all seven chakras and clears the blocks, so you can receive energy from the divine. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.
+Signs You May Need It
+You feel low on energy, or your energy feels stuck
+You feel scattered and find it hard to focus
+You feel cut off from yourself or from spirit
+You want to feel more grounded and balanced
+What Happens in the Session
+We start with a conversation:
+You tell us how you feel and what you would like support with.
+The awakening:
+You relax, fully clothed, while light is directed through each of your chakras.
+Grounding:
+We close by grounding you, so you leave calm and present.
+What Clients Often Notice
+Stuck energy clearing and flowing again
+Feeling calm and focused
+Emotional and mental balance
+Clearer intuition
+Feeling grounded
+Is it the same as the Chakra Balancing in the Life Activation?
+No. They are different procedures. The Chakra Awakening is a session of its own, and it is also part of the Full Spirit Activation. Read about the Full Spirit Activation .
+/full-spirit-activation
+Can I combine it with the Tree of Life Awakening?
+Yes, the two go beautifully together: your chakras open to receive energy, and the Tree of Life helps you use it to create. Many people receive both in the same visit. Read about the Tree of Life Awakening .
+Do I need a previous session?
+No. It is open to everyone.
+Awaken the map of creation within you
+The Tree of Life Awakening opens the ten spheres of the Tree of Life in your energy, so you can create your life more easily.
+Explore the Tree of Life Awakening
+Awaken Your Chakras
+One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+Hello, I am interested in the Chakra Awakening.
+
 ## PAGE: /community
 lucide-react
 Hello, I would like to learn more about your community and upcoming events.
 all/meditation-evening
-meditation-evening
 const nextHref = nextEvening ?
 returning
 Community in Prague
@@ -230,10 +297,111 @@ Amethyst geode · photo by Calvin Chai, Unsplash
 3.669 CZK
 /sacred-rites-healing
 all/crystal-healing
-crystal-healing
+Energy Healing
+Sacred Geometry Ancient Crystal Healing
+Deep rest, renewal and a clear mind
+An ancient crystal healing that takes you into deep relaxation, so body and mind can renew themselves
+What happens in a session
+You lie down fully clothed and simply rest. Crystals are placed on and around your body in precise sacred geometry patterns, each one chosen for what it brings.
+Within minutes most people drift into a deep, dream-like state called Theta, the state between waking and sleep where body and mind can let go and restore themselves. After an hour you wake up refreshed and joyful, often lighter than you have felt in a long time.
+What It Helps With
+A calmer, clearer mind
+Emotional release and balance
+Support for the physical body, including internal physical problems
+Better balance between left and right and your sense of space
+A healthier relationship with time: less rush, more presence
+Renewed vitality and libido
+Bringing back parts of yourself you have lost along the way (soul retrieval)
+A pure mind and a feeling of empowerment
+What will I feel?
+Most people sink into deep relaxation, between waking and sleep, and some fall asleep. That is perfectly fine: the healing works either way. You wake up refreshed, calm and often joyful.
+Do I need to prepare?
+No. Wear comfortable clothes and come as you are; all you need to do is lie down and rest.
+Is it safe?
+Yes. It is a gentle, non-invasive practice: the crystals simply rest on and around you.
+Can I combine it with another healing?
+Yes. The Crystal Healing Package gives you two healings, this Ancient Crystal Healing and the Sacred Geometry Sacred Rites Healing , for 4.444 CZK instead of booking each one separately. We'll arrange the details with you.
+Rest and Restore
+60 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
+Hello, I am interested in the Sacred Geometry Ancient Crystal Healing.
+The origin
+A healing from Ancient Mu
+This healing belongs to the Sacred Geometry tradition of the Modern Mystery School. According to that tradition, it carries the crystal knowledge of Mu, an ancient civilisation remembered in legend, whose priests and healers worked with crystals and the geometry of creation. Their knowledge was preserved and handed down through the Mystery School lineage, from teacher to student, to the certified practitioners who give it today.
+You feel stressed, scattered or mentally overloaded
+You are tired and need a deeper rest than sleep alone gives you
+You feel disconnected from your body or always short of time
+You want to renew your energy, vitality and joy
+Choose your session
+Single session
+1 hour · 3.669 CZK
+The Sacred Geometry Ancient Crystal Healing on its own.
+Crystal Healing Package
+2 hours · 4.444 CZK
+Two healings at a reduced price: the Sacred Geometry Ancient Crystal Healing and the Sacred Geometry Sacred Rites Healing . We'll arrange the details with you.
+About the Sacred Rites Healing
+Discover the Sacred Rites Healing
+A healing with crystals and sacred chants that reaches deep into the subconscious, to heal old and new wounds and open the way for good fortune.
+Explore the Sacred Rites Healing
 
 ## PAGE: /emotional-cord-cutting
 center 40%
+Energy Clearing
+Emotional Cord Cutting
+When someone still lives in your thoughts, and it costs you energy
+A gentle ritual to let go of old ties, so you can feel like yourself again
+When life feels heavy, sometimes the first step is simply to let go
+Every person we love, argue with or miss leaves a trace in us. We call these traces energetic cords. Most of them are harmless. But some keep pulling at you long after the relationship or the moment is over: you replay old conversations, you come home tired after seeing certain people, or a name alone is enough to unsettle you.
+In this session we gently cut those draining ties and clear what they left behind. It doesn't erase love or end a relationship. It simply gives your energy back to you, so you can meet the people in your life from a lighter, freer place.
+Signs of an Unhealthy Cord
+You keep thinking about someone, even when you'd rather not
+You come home tired after seeing certain people
+You feel stuck, as if you can't quite move on
+Hearing a particular name still makes your stomach tighten
+You've lost your spark and catch yourself reaching for comfort habits
+You soak up other people's moods without meaning to
+What Happens in the Session
+We start with a conversation:
+We take a few minutes to understand what is going on for you and what you are ready to let go of. You only share what feels comfortable.
+The cutting:
+You stand comfortably, take a few deep breaths and let your body relax. The practitioner cuts the cords with a ritual tool of light; they are absorbed into burning incense and released.
+Cleansing:
+Your energy is gently cleansed and brought back into balance with sage, holy water and sacred mantras.
+A quiet moment:
+We close in stillness, so you can notice how you feel: often lighter, calmer and clearer.
+What Clients Often Notice
+A real sense of relief, as if a weight has lifted
+A quieter, clearer mind
+Deeper, more restful sleep
+Feeling able to say no, kindly and firmly
+More energy for your own life
+Hope, and the feeling of a fresh start
+You are leaving, or have left, a relationship that hurt you
+Saying no and keeping your boundaries is hard for you
+Certain people leave you drained, or you absorb their feelings easily
+The same pattern keeps repeating with one particular person
+You have been through trauma or an abusive relationship and want to close that chapter
+After the Session
+Take a warm salt bath that evening: it helps you cleanse and ground
+Light a candle, take a few deep breaths and set an intention for what you'd like to welcome next
+Be gentle with yourself: rest, write, meditate or spend time in nature
+Over the next few days old feelings or memories may come up. That is normal: it is part of letting go
+Will it end my relationship?
+No. It cuts the unhealthy, draining part of the connection, not the love. Many people find their relationships become lighter and healthier afterwards.
+Do I need to talk about painful events?
+Only as much as you want. A short conversation about what you want to release is enough.
+How long does it take and what does it cost?
+About one hour, 3.669 CZK, including the consultation, the cord cutting and the purification.
+Can I combine it with Negative Energy Removal?
+Yes. The two work together and are often done in the same visit; each is priced on its own. Read about Negative Energy Removal .
+/negative-energy-removal
+Clear what others send your way
+Negative Energy Removal clears negative thoughts, words and intentions others have directed at you. It works beautifully together with cord cutting.
+Explore Negative Energy Removal
+Cut the Cords
+60 Minutes
+One-to-one, in person in Prague (Vršovice). The price includes the consultation and all procedures. Choose a time and pay securely online — your appointment is confirmed immediately by email.
+Hello, I am interested in Emotional Cord Cutting.
 
 ## PAGE: /empower-thyself
 Radu Coman
@@ -321,9 +489,37 @@ The first ray of light · photo by Liana S, Unsplash
 4.900 CZK
 /advanced-ensofic-ray-healing
 all/ensofic-reiki-in-person
-ensofic-reiki-in-person
 all/ensofic-reiki-remote
-ensofic-reiki-remote
+Energy Healing
+Ensofic Reiki
+The highest, brightest ray of creation
+Ensofic Reiki for your body and nervous system
+The first ray of creation: pure, clear and direct
+The Ensofic Ray is the highest, brightest and most powerful ray of energy, the first ray of creation. It carries purity, clarity and focused concentration, so it goes straight to the core.
+Ensofic Reiki is a healing session that helps reduce pain and helps your body heal faster. It is a good choice if you are recovering from an injury, an illness or an operation, if you live with pain that keeps coming back, or if your body feels exhausted and slow to recover. Many people leave the session feeling lighter and calmer, with less pain and better sleep. You can come in person in Prague or receive the session remotely, wherever you are in the world.
+Benefits
+Helps reduce pain, both sudden pain and pain that keeps coming back
+Helps injuries, wounds and the body after an operation heal faster
+Eases tension and stiffness in muscles and joints
+Calms the nervous system, so the body can rest and repair itself
+Supports deeper, more restful sleep
+Leaves you feeling lighter, calmer and with more energy
+You are in pain and want relief
+You are recovering from an injury, a fall, a sports strain or an operation and want to heal faster
+You live with long-term pain, such as back pain, joint pain or headaches
+Your body feels exhausted and is slow to recover
+What can Ensofic Reiki help with?
+Ensofic Reiki works with the physical body and the nervous system: pain and physical conditions, stress and anxiety, exhaustion, poor sleep and many other problems. It is a complement to your medical care, not a replacement for it.
+Can I receive Ensofic Reiki at a distance?
+Yes. Ensofic Reiki can be received in person in Prague or as a remote healing session, wherever you are in the world. Radu and Diana have trained and worked hard to master distance healing, and together they channel the healing force wherever it is needed.
+What do I need to do to prepare?
+All you need to do is relax; there is nothing to learn or believe in advance.
+90 Minutes
+Choose in person in Prague (Vršovice) or remote below, pick a time and pay securely online — your appointment is confirmed immediately by email.
+Hello, I am interested in Ensofic Reiki.
+Ready to go deeper?
+Advanced Ensofic Ray Healing is a series of three sessions, in person in Prague, that works with body, soul and spirit together for a deeper and lasting change.
+Explore Advanced Ensofic Ray Healing
 
 ## PAGE: /full-spirit-activation
 full-spirit-activation
@@ -381,6 +577,42 @@ Can it be done remotely?
 No — the Full Spirit Activation is in person only.
 Is the practitioner certified?
 Yes. Only practitioners certified directly by Modern Mystery School International may perform it.
+
+## PAGE: /galactic-activation
+Modern Mystery School UK
+Galactic Activation
+The next step in the awakening of your DNA
+A series of workshops that turns on the Galactic and Divinity codes in your physical and spiritual DNA
+The Life Activation awakens 22 of your 24 strands of DNA. The Galactic Activation completes the picture.
+In the teachings of the Modern Mystery School, your DNA has 24 strands, physical and spiritual. The Life Activation activates 22 of them. The remaining two, the Galactic Code in your physical DNA and the Divinity Code in your spiritual DNA, are turned on in the Galactic Activation. Its aim is the adam kadmon: the God-like human being, fully alive in the physical.
+The Galactic Activation is not a single session but a series of group workshops, Galactic Activation 1 to 4, taken in order. It is not taught in Prague: in Europe it is held by the Modern Mystery School UK in London. Radu and Diana have both received it themselves and are happy to tell you about it.
+What Galactic Activation 1 Covers
+Day one: how to keep your energy healthy in everyday life, from your body and nutrition to your relationships and your work, and the Galactic Activation itself
+Day two: building your "galactic muscles" and connecting with the celestial beings who support human evolution
+Teachings and attunements that help you move out of separation and judgement and into your spiritual adulthood
+More resilience: keeping your energy up under stress by drawing in divine and galactic energies
+The Series
+Galactic Activation 1:
+A two-day workshop about living in a new way, to become a different kind of human.
+Galactic Activation 2:
+Takes the work to the next level, with your Galactic self, which is not bound to this one physical dimension.
+Galactic Activation 3:
+Works with the En-Sofic and Elohim energies. In a ceremony, you receive your Galactic Name.
+Galactic Activation 4:
+Completes the series.
+Who Can Attend
+At the time of writing, the Modern Mystery School UK opens Galactic Activation 1 to Certified Life Activation Practitioners and to those attending Healers Academy. Requirements can change, so please check the current dates and prerequisites on the MMS UK website, or ask us and we will help you find your next step.
+Do I need a Life Activation first?
+Yes. The Galactic Activation builds on the Life Activation, which activates the first 22 strands. Read about the Life Activation .
+/life-activation
+Is it a healing session?
+Not in the usual sense. It is a group workshop of teachings and attunements, led by a Modern Mystery School teacher certified to teach the Galactic Activation.
+Where can I see dates and prices?
+On the Modern Mystery School UK website , which holds the Galactic Activation in Europe.
+Dates & Sign-Up
+The Galactic Activation is held by the Modern Mystery School UK. You will find dates, prices and sign-up on their website. Have a question first? Write to us.
+Dates & Sign-Up on MMS UK
+Hello, I would like to ask about the Galactic Activation.
 
 ## PAGE: /healers-academy
 The Second Level of Initiation
@@ -471,18 +703,60 @@ Intuitive Reading with Crystal
 A reading with a crystal that opens access to the wisdom of your Higher Self and guides.
 Chronos Reading
 A reading that works with the energies of time to bring clarity on your past, present and path ahead.
-Body, Meridian & Meditation
-Restoring flow, balance and stillness through body and breath.
-Max Meditation System™
-A guided system blending ancient yogic technique with modern method to release stress and restore vitality.
+Body, Meridians & Chakras
+Restoring flow and balance in your body, your meridians and your energy centres.
 Laser Light Healing
-Light frequencies and reflexology applied along the meridian lines to restore flow.
+Refined, focused light that heals the physical body and brings every layer of your energy field into balance.
 Meridian Line Balancing
 Balances the flow of life-force (chi) along the body's meridian lines.
 Tree of Life Awakening
 Awakens your connection to the Tree of Life and expands consciousness.
 Chakra Awakening
 Awakens and harmonises the body's seven energy centres.
+
+## PAGE: /intuitive-crystal-reading
+center 30%
+as const, relatedHref:
+Crystal Reading
+Intuitive Reading with Crystal
+Guidance from your Higher Self through a pair of twin crystals
+Bring your questions, and leave with more clarity for your next step
+Sometimes the answer is already within you. You just need help hearing it.
+In this reading, also known as a Twin Crystal Reading, the practitioner works with a pair of twin crystals: two crystals that grew together from the same seed. The twins create a link between you and the reader. You ask your questions, and through the crystals the reader receives guidance from your Higher Self, your guides and beings of light about the energies around you, in the past, the present and the future.
+This is not fortune-telling. Nothing is decided for you, and no one tells you what is right or wrong. The reading shows you the energies at play and the possibilities open to you, so you can make your own choices with more clarity. It is one of the crystal practices taught in Sacred Geometry II of the Modern Mystery School.
+When a Reading Can Help
+You are facing a decision and feel torn between options
+You feel stuck and cannot see the way forward
+You are going through a change: in your work, a relationship or a move
+You want to understand what is going on beneath the surface
+You want to reconnect with your own inner guidance
+What Happens in the Reading
+Before we begin:
+Think about the questions you would like to ask. It helps to write them down.
+The reading:
+You and the reader are linked through the twin crystals. You ask your questions one by one, and the reader shares the guidance that comes through.
+Closing:
+We talk through what came up, so you leave knowing what it means for you.
+What Clients Often Notice
+Clarity and a fresh perspective on a decision
+A sense of being guided and supported
+Awareness of new possibilities
+Confidence to make their own choices
+Feeling more connected to their purpose
+Will the reading predict my future?
+No. A reading shows the energies around you now and where they are leading. You always keep your free will, and you can change direction at any time.
+What kind of questions can I ask?
+Anything that matters to you: your relationships, your work, your spiritual path or a decision in front of you.
+How often can I have a reading?
+Whenever new questions come up. Many people come back after a few months, once things have moved.
+Do I need a previous session?
+No. The reading is open to everyone.
+Go deeper into your purpose
+The Life Purpose & 11th Codon Reading reveals your divine purpose and the gifts you carry.
+Explore the Life Purpose Reading
+Ask Your Questions
+One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+Hello, I am interested in an Intuitive Reading with Crystal.
 
 ## PAGE: /kabbalah-ascension
 Universal Hermetic Ray Kabbalah Ascension Program | The Path of Initiation Prague
@@ -533,6 +807,46 @@ This is a global Modern Mystery School program, not a session run locally here i
 Curious About Keys of the Ancients?
 Radu has walked this lineage himself and is glad to share what this program is really like, help you understand whether it's the right next step, and point you toward official dates and registration.
 Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
+
+## PAGE: /laser-light-healing
+center 30%
+/meridian-line-balancing
+Healing with Light
+Laser Light Healing
+Pure, focused light for your body and your energy
+A short, direct healing that brings your body and energy field back into balance
+Light heals. The mystery schools have known this for thousands of years.
+Laser Light Healing uses a refined, focused light, pure and perfectly in tune. As it flows through the layers of sound, waves, etheric and magnetic energy, it has a direct healing effect on the physical body and brings every layer of your energy field into balance and harmony.
+The technique was developed in the mystery school traditions over centuries, and today it works together with modern technology. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.
+What Happens in the Session
+A short conversation:
+You tell us how you feel and what you would like support with.
+The healing:
+You relax while the practitioner works with the light. The light work itself lasts less than half an hour.
+A quiet moment:
+We close in stillness, so you can feel the difference.
+What Clients Often Notice
+A sense of balance and harmony in body and energy
+Feeling lighter and more relaxed
+Release of emotions that were held in
+Feeling more like themselves, and more empowered
+You want gentle support for your body alongside your medical care
+You feel out of balance and want to reset
+You would like a short, focused session
+Is it the same as a medical laser treatment?
+No. Laser Light Healing is an energy healing from the mystery school tradition. It does not replace any medical treatment, and works as gentle support alongside it.
+Can I receive it during pregnancy?
+No. Laser Light Healing is not given during pregnancy. If you are pregnant, ask us and we will suggest a healing that is right for you.
+How often can I receive it?
+As often as you need, up to twice a week.
+Do I need a previous session?
+No. It is open to everyone.
+Let your life force flow
+Meridian Line Balancing clears blocked meridians so your life force can flow freely again.
+Explore Meridian Line Balancing
+Receive the Light
+One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+Hello, I am interested in Laser Light Healing.
 
 ## PAGE: /life-activation
 lucide-react
@@ -752,6 +1066,7 @@ Hello, I would like to learn more about Max Meditation.
 ## PAGE: /meditation-and-prayer
 community#meditation-evening
 community#socialization-evening
+A guided system blending ancient yogic technique with modern method to release stress and restore vitality.
 Stillness & Devotion
 Meditation and Prayer
 Practices of stillness, prayer and fellowship
@@ -920,70 +1235,110 @@ Those who already meditate, but struggle to find the time to make it a regular p
 Complete beginners — no experience necessary
 Dates to be announced. Reach out and we will let you know when the next Max Meditation takes place in Prague.
 Hello, I would like to learn more about Max Meditation.
-In the Lineage of King Salomon
-Healing Modalities
-A range of healings for body, mind and soul
-Each session is offered one-to-one — reach out to inquire about any of them
-A living tradition of healing
-The Modern Mystery School carries one of the oldest, most complete systems of healing on Earth — gathered by King Salomon and kept whole through an unbroken lineage. Below is the range of healings available in Prague. You do not need to know which one is right for you. Simply explore, and inquire about anything that calls to you — Radu and Diana will guide you from there.
-For the deeper, specialised work of the tradition, see the
-Specialty Healings →
-Hello, I would like to inquire about the healing modalities.
-Begin Your Healing
-Tell Radu a little about where you are right now, and he will help you choose the healing that serves you best.
-Foundational Activations
-Where most journeys begin — awakening the gifts already encoded within you.
-Foundation
-The foundational session of the lineage — activates 22 of the 24 DNA strands and your divine blueprint.
-Deepens your connection to the soul and higher self beyond the Life Activation.
-Galactic Activation
-Progressive activation of the Galactic and Divinity codes within your physical and spiritual DNA.
-Aura & Energy Healings
-Clearing, repairing and protecting your energetic field.
-Clears, balances and seals the seven layers of the aura through the geometry of light.
-Negative Energy Removal
-Clears negative thoughts, words and intentions others have sent your way, such as jealousy, envy and ill will.
-Emotional Cord Cutting
-Cuts draining emotional ties to other people, so your energy is your own again.
-Shamanic Aura Clearing
-Shamanic techniques to clear blockages and heavy energies from the auric field.
-Ensofic Reiki
-A single healing session with the Ensofic Ray for your body and nervous system, in Prague or remotely.
-Treating of Negative Habits
-Uses the Ensofic Ray to help you let go of negative patterns or habits that you keep repeating in your life.
-Sacred Geometry Ancient Crystal Healing
-An ancient crystal healing that takes you into deep relaxation and renews body and mind.
-Sacred Geometry Sacred Rites Healing
-A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune.
-Hermetic Soul Retrieval
-Recovers and reintegrates lost fragments of the self into wholeness.
-Spark of Life — Distance Healing
-A remote healing that carries restorative energy to you across any distance.
-Remote Healings
-Receive healing from wherever you are, anywhere in the world.
-Readings & Guidance
-Insight into your purpose, your soul and your path.
-Life Purpose & 11th Codon Reading
-A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation.
-Intuitive Reading with Crystal
-A reading with a crystal that opens access to the wisdom of your Higher Self and guides.
-Chronos Reading
-A reading that works with the energies of time to bring clarity on your past, present and path ahead.
-Body, Meridian & Meditation
-Restoring flow, balance and stillness through body and breath.
-Max Meditation System™
-A guided system blending ancient yogic technique with modern method to release stress and restore vitality.
-Laser Light Healing
-Light frequencies and reflexology applied along the meridian lines to restore flow.
+
+## PAGE: /meridian-line-balancing
+center 50%
+/laser-light-healing
+Body & Energy
 Meridian Line Balancing
-Balances the flow of life-force (chi) along the body's meridian lines.
-Tree of Life Awakening
-Awakens your connection to the Tree of Life and expands consciousness.
-Chakra Awakening
-Awakens and harmonises the body's seven energy centres.
+Let your life force flow freely again
+Clears blocked meridians so your body and spirit can find their balance
+Your life force flows through your body along lines called meridians.
+In Chinese tradition this life force is called chi, and the meridians are the channels it moves along: the same lines that acupuncture works with. When a meridian is blocked, energy cannot reach where it is needed, and you may feel tired, tense or out of balance.
+In Meridian Line Balancing the practitioner traces and activates your meridian lines with focused light and gentle pressure on specific points, to release blockages and restore the flow. Each session is tailored to the meridians that need it most. As your physical body comes back into balance, your spiritual body grows stronger too. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.
+Signs You May Need It
+You often feel tired or low on energy
+You carry tension in your body
+You feel stressed or out of balance
+You feel stuck, as if something is not flowing
+What Happens in the Session
+We start with a conversation:
+You tell us how you feel, in body and mind.
+The balancing:
+You relax while the practitioner works along your meridian lines with focused light and gentle pressure, focusing on the ones that need it most.
+A quiet moment:
+We close in stillness, so you can feel the difference.
+What Clients Often Notice
+Energy flowing freely again
+More vitality
+Release of tension and stress
+A clearer mind and a lighter mood
+Feeling balanced in body and emotions
+Is it acupuncture?
+No needles are used. It works with the same meridian lines as acupuncture, but through focused light and gentle pressure.
+How many sessions do I need?
+One session already helps your energy flow. Some people choose a short series of sessions to go deeper. We will talk about what makes sense for you.
+Can I receive it during pregnancy?
+No. Meridian Line Balancing is not given during pregnancy. If you are pregnant, ask us and we will suggest a healing that is right for you.
+Do I need a previous session?
+No. It is open to everyone.
+Healing with light
+Laser Light Healing uses pure, focused light to bring your body and every layer of your energy field into balance.
+Explore Laser Light Healing
+Restore the Flow
+One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+Hello, I am interested in Meridian Line Balancing.
 
 ## PAGE: /negative-energy-removal
 center 40%
+Energy Clearing
+Negative Energy Removal
+When other people's negativity weighs on you
+A clearing that returns you to stillness when life feels heavy or unclear
+Have you ever felt heavy after being around someone, without knowing why?
+Words and thoughts carry energy. When someone envies you, resents you or wishes you harm, even if they never say it out loud, you can feel it. It can sit on you like a grey cloud: your thoughts get foggy, things stop flowing, you sleep badly and you start doubting yourself.
+In this session we clear these negative thoughts, words and intentions from your energy, whether they came from one person or built up quietly over the years. Most people leave feeling lighter, clearer and more like themselves again.
+Signs You May Need It
+You feel drained around certain people or in busy places
+Your thinking feels foggy, or there is a restlessness that won't pass
+Your mood is low or heavy for no clear reason
+You find it hard to sleep, or wake up tired
+You know someone close to you is jealous of you, or harsh words still play on your mind
+You feel tension in your chest or head that comes and goes with certain people or places
+What Happens in the Session
+We start with a conversation:
+You tell us what you have been going through and what you would like to clear. You only share what feels comfortable.
+The clearing:
+The practitioner performs the ritual that lifts the negative thoughts, words and intentions from your energy. All you need to do is relax and breathe.
+A quiet moment:
+We close in stillness, so you can feel the difference.
+What Clients Often Notice
+Clarity: your thoughts settle and your head feels clear again
+A lighter mood
+Better sleep and focus
+Feeling grounded and calm in your body
+Other people's moods and opinions affect you less
+Things start to move and flow again
+You feel someone's jealousy or anger is aimed at you
+You have been through a conflict, a break-up or a tough workplace
+You work with many people and come home carrying their energy
+You feel stuck and want a fresh start
+After the Session
+Take a warm salt bath that evening: it helps clear what is left and ground your body
+Rest, and take a few slow, deep breaths whenever you think of it
+In the next days, waves of emotion or sudden clarity may come. Both are a good sign: let them pass through
+Notice how much lighter people and situations feel around you
+Is it the same as Emotional Cord Cutting?
+No. Cord cutting releases the ties between you and others; Negative Energy Removal clears what others have sent towards you. They work well together and are often done in the same visit. Read about Emotional Cord Cutting .
+/emotional-cord-cutting
+Do I need to know who sent the negativity?
+Not at all. Often we only feel the heaviness without knowing where it comes from. The clearing works either way.
+How long does it take and what does it cost?
+About one hour, 3.669 CZK, including the consultation and all procedures.
+Free yourself from old ties
+Emotional Cord Cutting releases draining emotional ties to other people. Together with Negative Energy Removal it gives your energy a full clean-up.
+Explore Emotional Cord Cutting
+Clear and Renew
+60 Minutes
+One-to-one, in person in Prague (Vršovice). The price includes the consultation and all procedures. Choose a time and pay securely online — your appointment is confirmed immediately by email.
+Hello, I am interested in Negative Energy Removal.
+Simple Tools for Everyday Clearing
+A salt bath once a week, to wash off the week
+A few minutes of quiet meditation or deep breathing each morning
+Time in nature: a walk in the park, by the river or in the woods
+Burning a little sage at home, and opening the windows to let fresh air in
+Keeping a black tourmaline or clear quartz crystal near your desk
+Noticing who and what drains you, and giving yourself permission to step back
 
 ## PAGE: /our-mission
 lucide-react
@@ -1289,7 +1644,45 @@ Healing stones · photo by Dan Farrell, Unsplash
 3.669 CZK
 /crystal-healing
 all/sacred-rites-healing
-sacred-rites-healing
+Energy Healing
+Sacred Geometry Sacred Rites Healing
+Heal old and new wounds, and open the way for good fortune
+A healing with crystals and sacred chants that reaches deep into the subconscious
+What happens in a session
+You sit comfortably in a chair, holding a crystal in your hand. The practitioner holds the crystal too and begins the sacred rites: sacred chants that reach deep into the subconscious, where old hurts and patterns are held.
+You don't need to do or say anything: simply listen and let go. Clients often leave feeling lighter, calmer and more open to what life brings.
+What It Helps With
+Healing fresh emotional and mental wounds, such as a recent loss, a break-up or a shock
+Releasing old wounds you have carried for years
+Letting go of hurt held deep in the subconscious
+Opening the way for good fortune and new beginnings
+Something hurt you recently and you can't shake it off
+Old pain keeps coming back, however well you understand it
+You feel stuck or unlucky and want life to start flowing again
+You want a deep, gentle healing where you simply receive
+What will I hear and feel?
+You will hear the sacred chants of the rites while you sit with the crystal in your hand. Most people relax deeply; some feel emotions rise and soften. You leave calmer and lighter.
+Do I need to prepare?
+No. Wear comfortable clothes and come as you are; all you need to do is sit, hold the crystal and listen.
+Is it safe?
+Yes. It is a gentle, non-invasive practice: you simply hold a crystal while the sacred rites are performed.
+Can I combine it with another healing?
+Yes. The Crystal Healing Package gives you two healings, this Sacred Rites Healing and the Sacred Geometry Ancient Crystal Healing , for 4.444 CZK instead of booking each one separately. We'll arrange the details with you.
+Choose your session
+Single session
+1 hour · 3.669 CZK
+The Sacred Geometry Sacred Rites Healing on its own.
+Crystal Healing Package
+2 hours · 4.444 CZK
+Two healings at a reduced price: the Sacred Geometry Sacred Rites Healing and the Sacred Geometry Ancient Crystal Healing . We'll arrange the details with you.
+About the Ancient Crystal Healing
+Pair it with crystals
+The Sacred Geometry Ancient Crystal Healing takes you into deep rest and renewal. Together, the two make the Crystal Healing Package.
+Explore the Ancient Crystal Healing
+Heal and Renew
+60 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
+Hello, I am interested in the Sacred Geometry Sacred Rites Healing.
 
 ## PAGE: /sanctuary-meditation-session
 Guided Meditation
@@ -1374,7 +1767,7 @@ Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
 You'll be in good hands
 Diana and Radu Coman
-We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: /seven-mystery-schools
 seven-mystery-schools
@@ -1405,14 +1798,144 @@ Walk Through the Seven Gates
 Workshops run in small groups. Reach out for the next scheduled date in Prague.
 Hello, I would like to learn more about the 7 Mystery Schools workshop.
 
+## PAGE: /shamanic-aura-clearing
+center 50%
+/negative-energy-removal
+Aura Clearing
+Shamanic Aura Clearing
+A gentle clearing with the energies of the Earth
+Clears what you have picked up along the way, then seals and protects your energy
+Do you ever come home feeling heavier than when you left?
+Your aura is the field of energy around your body. As you move through your day, through busy places, difficult conversations and other people's stress, it picks up energy that is not yours. Over time this can leave you tired, foggy or low without a clear reason.
+Shamanic Aura Clearing is a gentle yet effective clearing that works with the energies of the Earth and the Sutra of the Heart, a sacred mantra. It clears unwanted energy from your aura, then seals and heals your energy field so you are better protected. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.
+Signs You May Need It
+You feel drained after crowds, travel or busy places
+You carry other people's moods home with you
+Your head feels foggy, or you feel heavy for no clear reason
+You find it hard to sleep, or wake up tired
+You have been through a stressful time and want a clean slate
+What Happens in the Session
+We start with a conversation:
+You tell us how you have been feeling and what you would like to clear. You only share what feels comfortable.
+The clearing:
+You relax while the practitioner works with the energies of the Earth and the Sutra of the Heart to clear your aura.
+Sealing and protection:
+Your energy field is sealed and healed, so it stays stronger against what you meet in daily life.
+A quiet moment:
+We close in stillness, so you can feel the difference.
+What Clients Often Notice
+Feeling lighter and clearer
+A calmer mind
+Better sleep
+More energy and focus
+Feeling more protected, and less affected by other people's moods
+You work with people all day and come home carrying their energy
+You are sensitive to places and atmospheres
+You have been through a conflict, a move or a hard season
+You simply want a regular clean-up for your energy
+After the Session
+Drink plenty of water and rest if you can
+Take a warm salt bath that evening: it helps to ground your body
+Spend some time in nature in the next days
+Notice how much lighter you feel in places and with people that used to drain you
+Is it the same as the Sacred Geometry Aura Healing?
+No. The Aura Healing is a deeper, longer healing that clears, balances and seals the seven layers of the aura through the geometry of light. The Shamanic Aura Clearing is a lighter clearing with the energies of the Earth, good whenever you feel you have picked up heavy energy. Read about the Aura Healing .
+/aura-healing
+Do I need a previous session?
+No. It is open to everyone, and you can receive it as often as you need.
+Can I combine it with other healings?
+Yes. It works well together with Emotional Cord Cutting, which releases draining ties to other people. Read about Emotional Cord Cutting .
+/emotional-cord-cutting
+Clear what others have sent your way
+Negative Energy Removal clears jealousy, envy, harsh words and ill will that other people have sent towards you.
+Explore Negative Energy Removal
+Clear and Protect
+One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+Hello, I am interested in the Shamanic Aura Clearing.
+
 ## PAGE: /soul-retrieval
 center 30%
+Deep Healing
+Hermetic Soul Retrieval
+When a part of you feels missing
+A gentle healing to bring back the joy, energy and spark you lost along the way
+Have you ever felt that a piece of you is missing?
+Maybe it started after a loss, a break-up, an accident or a long, exhausting time. You kept going, as we all do, but something changed. Life feels a little flatter. The joy, the creativity or the spark you used to have seem far away.
+In the Mystery School tradition we understand this as a part of the soul that stepped away to stay safe when things became too much. Hermetic Soul Retrieval gently finds these parts and brings them home, so you can feel whole again. You don't need to relive or talk through painful memories for it to work.
+Signs a Part of You May Be Missing
+You feel numb or flat, as if you were watching life from a distance
+Since a certain event, you haven't quite felt like yourself
+Joy, creativity or passion seem out of reach
+There is an emptiness you can't explain
+You keep coming back to the same old pain
+What Happens in the Session
+We start with a conversation:
+We talk about how you have been feeling and what you would like to come back into your life.
+The retrieval:
+You simply relax while the practitioner works in your energy to find the parts of you that are ready to return, and gently guides them back.
+Coming home:
+The returning parts are settled back in, so they can stay with you. We take our time: the whole session lasts about two and a half hours.
+What Clients Often Notice
+A deep sense of peace
+Feeling more whole, more present, more you
+Joy, creativity and energy coming back
+Clarity about where you are going
+Remembering parts of yourself you had forgotten
+You feel numb, disconnected or not quite here
+You are carrying grief, trauma, burnout, a break-up or an addiction
+You have been under stress for a long time, or your life has changed a lot
+You feel creatively blocked or empty inside
+You are on a path of self-discovery and want to feel whole
+After the Session
+Keep the rest of the day quiet and gentle
+Drink plenty of water and rest
+Write down any feelings, memories or dreams that come up
+As parts return, old feelings may surface for a few days. Let them come and go: it is part of coming home
+Is it safe?
+Yes. It is a gentle, supportive process: you do not need to relive or discuss painful events for it to work.
+How long does it take and what does it cost?
+About two and a half hours, including the consultation and the integration, for 6.150 CZK.
+Why is it called Hermetic?
+It comes from the Hermetic teachings preserved in the lineage of the Modern Mystery School.
+Come Home to Yourself
+2.5 Hours
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
+Hello, I would like to learn more about the Hermetic Soul Retrieval.
 
 ## PAGE: /spark-of-life
 center 40%
 6.150 CZK
 all/spark-of-life
-spark-of-life
+Energy Healing
+Spark of Life
+Reconnect to your original spark of life force
+A healing session that restores your life force and renews your energy
+Life force, channelled to the core of your being
+Spark of Life works beyond the etheric matrix and chakra system, channelling life-force energy to the core of the being. Its roots trace back to the ancient Egyptian temples, where it was developed for priests and priestesses to rejuvenate them for long years of service, and it has been carried on by direct transmission.
+You rest quietly, lying down or seated, wherever you are, while Diana and Radu work remotely. You only need to receive. It pairs well with a Life Activation, before or after.
+Benefits
+Relief from physical pain and tension
+A felt return of energy and vitality
+Emotional balance and ease
+Mental clarity and renewed motivation
+Release of stagnant patterns
+Reconnection with your life force
+Steady support alongside other care
+Running on empty
+Dealing with physical pain or tension, or mental fog
+Lacking motivation, feeling stuck or emotionally overwhelmed
+New to energy work
+Living far from Prague
+How can healing work at a distance?
+Radu and Diana have trained and worked hard to master this skill. They honed their focus, as well as their relationship with the Hierarchy of Light. Together they channel the healing force wherever it is needed in the world.
+How do I prepare?
+It helps to drink some water beforehand and afterwards, and to take a few quiet minutes after the session.
+How long is the session?
+About 75 minutes in total — roughly 60 minutes of active healing plus a short talk before and after.
+Revive Your Spark
+75 Minutes
+Remote session, worldwide. Choose a time and pay securely online — your appointment is confirmed immediately by email.
+Hello, I would like to learn more about Spark of Life distance healing.
 
 ## PAGE: /specialty-healings
 The King Salomon Healing Modality
@@ -1537,7 +2060,7 @@ Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
 You'll be in good hands
 Diana and Radu Coman
-We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: /stress-management
 stress-management
@@ -1606,6 +2129,69 @@ Begin Your Journey
 
 ## PAGE: /treating-negative-habits
 center 30%
+Energy Healing
+Treating of Negative Habits
+Break the cycle that willpower alone could not
+Reach the root of the habit, so healthier choices become easier to make
+Some patterns keep returning because they live deeper than what your willpower can reach
+This session uses the Ensofic Ray to help you let go of negative patterns or habits that you repeat in your life — the loops of thought, emotion and behaviour that keep coming back no matter how hard you try to change them.
+By working at the level of the energetic structure where these patterns are held, the session supports their release, so that new and healthier choices become easier and more natural. Sessions can be done in person in Prague or remotely, wherever you are in the world.
+What It Supports
+Release of negative patterns and habits that you keep repeating
+More freedom from automatic reactions and subconscious decisions
+Emotional lightness and clarity
+Greater ease in making new, supportive choices
+Support alongside your own work, therapy or medical care
+Repeating the same patterns in relationships, work or life
+Struggling to break a habit despite your best intentions
+Feeling stuck in situations, thought patterns and emotions
+Ready to let go of what no longer serves you
+How does it work?
+The Ensofic Ray is used to work with the energetic structure where these patterns are held, supporting you to let go of them.
+What kind of habits and patterns can it help with?
+Any pattern or habit that keeps repeating in your life — in your thoughts, emotions, behaviour or relationships. For example anger outbursts, over-eating, addictions, guilt, shame.
+How can healing work at a distance?
+Radu and Diana have trained and worked hard to master this skill. They honed their focus, as well as their relationship with the Hierarchy of Light. Together they channel the healing force wherever it is needed in the world.
+90 Minutes
+Choose in person in Prague (Vršovice) or remote below, pick a time and pay securely online — your appointment is confirmed immediately by email.
+Hello, I would like to learn more about Treating of Negative Habits.
+
+## PAGE: /tree-of-life-awakening
+center 40%
+/chakra-awakening
+Kabbalah
+Tree of Life Awakening
+Awaken the map of creation within you
+Opens the ten spheres of the Tree of Life in your energy, so you can create your life more easily
+The Tree of Life is the map of creation.
+In the Kabbalah, the Tree of Life is made of ten spheres, the Sephiroth. Together they show how everything comes into being, from Kether, the crown, down to Malkuth, the physical world. The same pattern lives in you, from the crown of your head down to your feet.
+The Tree of Life Awakening opens and enlivens the ten spheres in your energy, so your connection to the divine pattern of creation grows stronger. Many people find it easier to create and manifest what they want in life afterwards. It is one of the healings taught in the Modern Mystery School's Healers Academy, and anyone can receive it.
+What Happens in the Session
+We start with a conversation:
+You tell us what is happening in your life and what you would like to create.
+The awakening:
+You relax, fully clothed, while the practitioner awakens the spheres of the Tree of Life in your energy.
+Grounding:
+We close by grounding you, so you leave calm and present.
+What Clients Often Notice
+Clarity, focus and a sense of purpose
+Feeling more able to create and manifest
+Calmer emotions
+Soul and body feeling more aligned
+Support in integrating their Life Activation or Full Spirit Activation
+Is it part of the Full Spirit Activation?
+Yes. The Full Spirit Activation includes a Tree of Life Awakening, together with a Chakra Awakening. You can also receive it on its own, whenever you feel the need. Read about the Full Spirit Activation .
+/full-spirit-activation
+Can I combine it with the Chakra Awakening?
+Yes, the two go beautifully together: your chakras open to receive energy, and the Tree of Life helps you use it to create. Many people receive both in the same visit. Read about the Chakra Awakening .
+Do I need a previous session?
+No. It is open to everyone.
+Open your energy centres
+The Chakra Awakening opens your seven main chakras so you can receive energy from the divine.
+Explore the Chakra Awakening
+Awaken Your Tree of Life
+One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+Hello, I am interested in the Tree of Life Awakening.
 
 ## PAGE: /withdraw-from-contract
 Withdraw from the Contract | The Path of Initiation Prague
@@ -2095,7 +2681,7 @@ Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
 You'll be in good hands
 Diana and Radu Coman
-We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: (component) healings-widget-section.tsx
 One-to-one healing in Prague
@@ -2173,7 +2759,7 @@ Who It Is For
 This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.
 You'll be in good hands
 Diana and Radu Coman
-We are certified Modern Mystery School practitioners and teachers. Whichever of us you meet, we take time to listen, answer your questions and guide you gently through every step.
+We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: (component) modality.tsx
 radu@thepathofinitiationprague.com
@@ -2305,4 +2891,8 @@ All fields are required unless marked optional.
 life-activation
 /life-activation
 full-spirit-activation
-/full-spirit-activation`;
+/full-spirit-activation
+/galactic-activation
+/meridian-line-balancing
+/tree-of-life-awakening
+/chakra-awakening`;

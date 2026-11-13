@@ -28,7 +28,10 @@ type SessionConfig = {
   heroPosition?: string
   /** credit for the header picture, shown down its right edge */
   heroCaption?: string
-  investment: string
+  /** Leave out while a session has no set price yet: the booking box then just invites a WhatsApp/email inquiry. */
+  investment?: string
+  /** Badge above the booking box title. Default "healing". */
+  kind?: "healing" | "reading"
   /** closing invitation to a related page (texts: relatedHeading / relatedBody / relatedCta) */
   relatedHref?: string
   /** Two booking buttons side by side (e.g. "Book In Person" / "Book Remote") instead of one. */
@@ -88,10 +91,10 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
       />
 
       <BookingBlock
-        kind="healing"
+        kind={config.kind ?? "healing"}
         title={has("bookingTitle") ? t("bookingTitle") : undefined}
         investment={config.investment}
-        duration={t("duration")}
+        duration={has("duration") ? t("duration") : undefined}
         inquiry={t("inquiry")}
         note={t("bookingNote")}
         bookOptions={config.bookOptions}

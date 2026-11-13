@@ -795,11 +795,10 @@
         ]
       },
       "bodyWork": {
-        "title": "Körper, Meridiane & Meditation",
-        "blurb": "Wiederherstellung von Fluss, Gleichgewicht und Stille durch Körper und Atem.",
+        "title": "Körper, Meridiane & Chakren",
+        "blurb": "Wiederherstellung von Fluss und Gleichgewicht in deinem Körper, deinen Meridianen und deinen Energiezentren.",
         "items": [
-          { "name": "Max Meditation System™", "description": "Ein angeleitetes System, das uralte yogische Technik mit moderner Methode verbindet, um Stress zu lösen und Vitalität wiederherzustellen." },
-          { "name": "Laserlicht-Heilung", "description": "Lichtfrequenzen und Reflexzonentherapie entlang der Meridianlinien, um den Fluss wiederherzustellen." },
+          { "name": "Laserlicht-Heilung", "description": "Verfeinertes, gebündeltes Licht, das den physischen Körper heilt und jede Schicht deines Energiefeldes ins Gleichgewicht bringt." },
           { "name": "Meridianlinien-Ausgleich", "description": "Balanciert den Fluss der Lebenskraft (Chi) entlang der Meridianlinien des Körpers." },
           { "name": "Erweckung des Baums des Lebens", "description": "Erweckt deine Verbindung zum Baum des Lebens und erweitert das Bewusstsein." },
           { "name": "Chakra-Erweckung", "description": "Erweckt und harmonisiert die sieben Energiezentren des Körpers." }
@@ -1800,7 +1799,7 @@
     "disclaimer": "Diese Arbeit ersetzt keine ärztlich verordnete Behandlung. Sie wird als ergänzende energetische und spirituelle Unterstützung neben deiner medizinischen Versorgung angeboten.",
     "hostsEyebrow": "Du bist in guten Händen",
     "hostsHeading": "Diana und Radu Coman",
-    "hostsBody": "Wir sind zertifizierte Praktizierende und Lehrer der Modern Mystery School. Wen von uns du auch triffst, wir nehmen uns Zeit, dir zuzuhören, deine Fragen zu beantworten und dich sanft durch jeden Schritt zu begleiten."
+    "hostsBody": "Wir sind zertifizierte Praktizierende und Lehrer der Modern Mystery School. Mit wem von uns du auch arbeitest, wir nehmen uns Zeit, dir zuzuhören, deine Fragen zu beantworten und dich sanft durch jeden Schritt zu begleiten."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Tiefe Heilung",
@@ -2517,6 +2516,7 @@
     "reserveYourPlace": "Platz reservieren"
   },
   "MeditationPrayer": {
+    "maxDescription": "Ein angeleitetes System, das uralte yogische Technik mit moderner Methode verbindet, um Stress zu lösen und Vitalität wiederherzustellen.",
     "heroEyebrow": "Stille & Hingabe",
     "heroTitle": "Meditation und Gebet",
     "heroSubtitle": "Praktiken der Stille, des Gebets und der Gemeinschaft",
@@ -2616,5 +2616,443 @@
       "link": "Kommende Kurse ansehen"
     },
     "askLink": "Unsicher, welcher Schritt der richtige für dich ist? Frag uns auf WhatsApp"
+  },
+  "ShamanicAuraClearing": {
+    "heroEyebrow": "Aurareinigung",
+    "heroTitle": "Schamanische Aurareinigung",
+    "heroSubtitle": "Eine sanfte Reinigung mit den Energien der Erde",
+    "heroTagline": "Reinigt, was du unterwegs aufgenommen hast, und versiegelt und schützt dann deine Energie",
+    "introLead": "Kommst du manchmal schwerer nach Hause, als du losgegangen bist?",
+    "introBody1": "Deine Aura ist das Energiefeld rund um deinen Körper. Während du durch deinen Tag gehst, durch volle Orte, schwierige Gespräche und den Stress anderer Menschen, nimmt sie Energie auf, die nicht deine ist. Mit der Zeit kann dich das müde, benebelt oder bedrückt machen, ohne dass es einen klaren Grund gibt.",
+    "introBody2": "Die Schamanische Aurareinigung ist eine sanfte und doch wirksame Reinigung, die mit den Energien der Erde und dem Herz-Sutra arbeitet, einem heiligen Mantra. Sie reinigt unerwünschte Energie aus deiner Aura und versiegelt und heilt dann dein Energiefeld, damit du besser geschützt bist. Sie gehört zu den Heilungen, die in der Healers Academy der Modern Mystery School gelehrt werden, und jeder kann sie empfangen.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Nach Menschenmengen, Reisen oder an belebten Orten fühlst du dich ausgelaugt",
+      "Du trägst die Stimmungen anderer Menschen mit nach Hause",
+      "Dein Kopf fühlt sich neblig an, oder du fühlst dich ohne klaren Grund schwer",
+      "Du schläfst schlecht ein oder wachst müde auf",
+      "Du hast eine stressige Zeit hinter dir und wünschst dir einen sauberen Neuanfang"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, wie es dir ging und was du reinigen möchtest. Du teilst nur, was sich für dich gut anfühlt."
+      },
+      {
+        "label": "Die Reinigung:",
+        "text": "Du entspannst dich, während der Praktizierende mit den Energien der Erde und dem Herz-Sutra deine Aura reinigt."
+      },
+      {
+        "label": "Versiegeln und Schützen:",
+        "text": "Dein Energiefeld wird versiegelt und geheilt, damit es dem, was dir im Alltag begegnet, besser standhält."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Sich leichter und klarer fühlen",
+      "Ein ruhigerer Geist",
+      "Besserer Schlaf",
+      "Mehr Energie und Konzentration",
+      "Sich geschützter fühlen und weniger von den Stimmungen anderer berührt werden"
+    ],
+    "who": [
+      "Du arbeitest den ganzen Tag mit Menschen und trägst ihre Energie mit nach Hause",
+      "Du reagierst empfindlich auf Orte und Atmosphären",
+      "Du hast einen Konflikt, einen Umzug oder eine schwere Zeit hinter dir",
+      "Du möchtest deiner Energie einfach regelmäßig eine Reinigung gönnen"
+    ],
+    "afterHeading": "Nach der Sitzung",
+    "after": [
+      "Trink viel Wasser und ruh dich aus, wenn du kannst",
+      "Nimm am Abend ein warmes Salzbad: Es hilft, deinen Körper zu erden",
+      "Verbringe in den nächsten Tagen etwas Zeit in der Natur",
+      "Achte darauf, wie viel leichter du dich an Orten und mit Menschen fühlst, die dich früher ausgelaugt haben"
+    ],
+    "faq": [
+      {
+        "q": "Ist es dasselbe wie die Sacred Geometry Aura-Heilung?",
+        "a": "Nein. Die Aura-Heilung ist eine tiefere, längere Heilung, die die sieben Schichten der Aura durch die Geometrie des Lichts reinigt, ausgleicht und versiegelt. Die Schamanische Aurareinigung ist eine leichtere Reinigung mit den Energien der Erde, gut immer dann, wenn du das Gefühl hast, schwere Energie aufgenommen zu haben. <link>Mehr über die Aura-Heilung</link>.",
+        "href": "/aura-healing"
+      },
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Nein. Sie steht allen offen, und du kannst sie so oft empfangen, wie du sie brauchst."
+      },
+      {
+        "q": "Kann ich sie mit anderen Heilungen verbinden?",
+        "a": "Ja. Sie ergänzt sich gut mit dem Durchtrennen emotionaler Bindungen, das auslaugende Bindungen zu anderen Menschen löst. <link>Mehr über das Durchtrennen emotionaler Bindungen</link>.",
+        "href": "/emotional-cord-cutting"
+      }
+    ],
+    "relatedHeading": "Reinige, was andere dir geschickt haben",
+    "relatedBody": "Die Entfernung negativer Energie reinigt Eifersucht, Neid, harte Worte und böse Absichten, die andere Menschen dir geschickt haben.",
+    "relatedCta": "Entfernung negativer Energie entdecken",
+    "bookingTitle": "Reinigen und Schützen",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Schamanische Aurareinigung."
+  },
+  "IntuitiveCrystalReading": {
+    "heroEyebrow": "Kristall-Lesung",
+    "heroTitle": "Intuitive Lesung mit Kristall",
+    "heroSubtitle": "Führung von deinem Höheren Selbst durch ein Paar Zwillingskristalle",
+    "heroTagline": "Bring deine Fragen mit, und geh mit mehr Klarheit für deinen nächsten Schritt",
+    "introLead": "Manchmal liegt die Antwort schon in dir. Du brauchst nur Hilfe, sie zu hören.",
+    "introBody1": "In dieser Lesung, auch Zwillingskristall-Lesung genannt, arbeitet der Praktizierende mit zwei Zwillingskristallen: zwei Kristallen, die aus demselben Keim gemeinsam gewachsen sind. Die Zwillinge schaffen eine Verbindung zwischen dir und dem Praktizierenden. Du stellst deine Fragen, und durch die Kristalle empfängt der Praktizierende Führung von deinem Höheren Selbst, deinen geistigen Führern und Lichtwesen über die Energien um dich herum, in Vergangenheit, Gegenwart und Zukunft.",
+    "introBody2": "Das ist keine Wahrsagerei. Nichts wird für dich entschieden, und niemand sagt dir, was richtig oder falsch ist. Die Lesung zeigt dir die Energien, die gerade wirken, und die Möglichkeiten, die dir offenstehen, damit du deine eigenen Entscheidungen mit mehr Klarheit treffen kannst. Sie gehört zu den Kristallpraktiken, die in Sacred Geometry II der Modern Mystery School gelehrt werden.",
+    "signsHeading": "Wann eine Lesung helfen kann",
+    "signs": [
+      "Du stehst vor einer Entscheidung und bist zwischen mehreren Möglichkeiten hin- und hergerissen",
+      "Du fühlst dich festgefahren und siehst den Weg nach vorn nicht",
+      "Du steckst mitten in einer Veränderung: in deiner Arbeit, einer Beziehung oder einem Umzug",
+      "Du möchtest verstehen, was unter der Oberfläche vor sich geht",
+      "Du möchtest dich wieder mit deiner eigenen inneren Führung verbinden"
+    ],
+    "protocolHeading": "Was in der Lesung geschieht",
+    "protocol": [
+      {
+        "label": "Bevor wir beginnen:",
+        "text": "Überleg dir, welche Fragen du stellen möchtest. Es hilft, sie aufzuschreiben."
+      },
+      {
+        "label": "Die Lesung:",
+        "text": "Du und der Praktizierende seid durch die Zwillingskristalle verbunden. Du stellst deine Fragen nacheinander, und der Praktizierende teilt die Führung, die durchkommt."
+      },
+      {
+        "label": "Abschluss:",
+        "text": "Wir sprechen über das, was aufgekommen ist, damit du beim Gehen weißt, was es für dich bedeutet."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Klarheit und ein frischer Blick auf eine Entscheidung",
+      "Das Gefühl, geführt und unterstützt zu sein",
+      "Ein Bewusstsein für neue Möglichkeiten",
+      "Das Vertrauen, die eigenen Entscheidungen zu treffen",
+      "Sich stärker mit der eigenen Bestimmung verbunden fühlen"
+    ],
+    "faq": [
+      {
+        "q": "Sagt die Lesung meine Zukunft voraus?",
+        "a": "Nein. Eine Lesung zeigt die Energien, die jetzt um dich herum sind, und wohin sie führen. Du behältst immer deinen freien Willen und kannst jederzeit die Richtung ändern."
+      },
+      {
+        "q": "Welche Fragen kann ich stellen?",
+        "a": "Alles, was dir wichtig ist: deine Beziehungen, deine Arbeit, deinen spirituellen Weg oder eine Entscheidung, die vor dir liegt."
+      },
+      {
+        "q": "Wie oft kann ich eine Lesung bekommen?",
+        "a": "Immer dann, wenn neue Fragen auftauchen. Viele kommen nach ein paar Monaten wieder, wenn sich etwas bewegt hat."
+      },
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Nein. Die Lesung steht allen offen."
+      }
+    ],
+    "relatedHeading": "Geh tiefer in deine Bestimmung",
+    "relatedBody": "Die Lebenszweck- & 11. Codon-Lesung zeigt dir deine göttliche Bestimmung und die Gaben, die du trägst.",
+    "relatedCta": "Die Lebenszweck-Lesung entdecken",
+    "bookingTitle": "Stell deine Fragen",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für eine Intuitive Lesung mit Kristall."
+  },
+  "LaserLightHealing": {
+    "heroEyebrow": "Heilung mit Licht",
+    "heroTitle": "Laserlicht-Heilung",
+    "heroSubtitle": "Reines, gebündeltes Licht für deinen Körper und deine Energie",
+    "heroTagline": "Eine kurze, direkte Heilung, die deinen Körper und dein Energiefeld wieder ins Gleichgewicht bringt",
+    "introLead": "Licht heilt. Die Mysterienschulen wissen das seit Tausenden von Jahren.",
+    "introBody1": "Die Laserlicht-Heilung arbeitet mit einem verfeinerten, gebündelten Licht, rein und vollkommen gestimmt. Während es durch die Schichten von Klang, Wellen, ätherischer und magnetischer Energie fließt, wirkt es direkt heilend auf den physischen Körper und bringt jede Schicht deines Energiefeldes in Gleichgewicht und Harmonie.",
+    "introBody2": "Die Technik wurde über Jahrhunderte in den Traditionen der Mysterienschulen entwickelt, und heute wirkt sie im Zusammenspiel mit moderner Technologie. Sie gehört zu den Heilungen, die in der Healers Academy der Modern Mystery School gelehrt werden, und jeder kann sie empfangen.",
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Ein kurzes Gespräch:",
+        "text": "Du erzählst uns, wie es dir geht und wobei du dir Unterstützung wünschst."
+      },
+      {
+        "label": "Die Heilung:",
+        "text": "Du entspannst dich, während der Praktizierende mit dem Licht arbeitet. Die eigentliche Lichtarbeit dauert weniger als eine halbe Stunde."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Ein Gefühl von Gleichgewicht und Harmonie in Körper und Energie",
+      "Sich leichter und entspannter fühlen",
+      "Zurückgehaltene Gefühle dürfen sich lösen",
+      "Sich mehr wie man selbst fühlen, und gestärkter"
+    ],
+    "who": [
+      "Du wünschst dir neben deiner medizinischen Versorgung sanfte Unterstützung für deinen Körper",
+      "Du fühlst dich aus dem Gleichgewicht und möchtest neu ins Lot kommen",
+      "Du möchtest eine kurze, fokussierte Sitzung"
+    ],
+    "faq": [
+      {
+        "q": "Ist es dasselbe wie eine medizinische Laserbehandlung?",
+        "a": "Nein. Die Laserlicht-Heilung ist eine Energieheilung aus der Tradition der Mysterienschulen. Sie ersetzt keine medizinische Behandlung, sondern wirkt als sanfte Unterstützung daneben."
+      },
+      {
+        "q": "Kann ich sie in der Schwangerschaft empfangen?",
+        "a": "Nein. Die Laserlicht-Heilung wird während der Schwangerschaft nicht gegeben. Wenn du schwanger bist, frag uns, und wir schlagen dir eine Heilung vor, die zu dir passt."
+      },
+      {
+        "q": "Wie oft kann ich sie empfangen?",
+        "a": "So oft du sie brauchst, bis zu zweimal pro Woche."
+      },
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Nein. Sie steht allen offen."
+      }
+    ],
+    "relatedHeading": "Lass deine Lebenskraft fließen",
+    "relatedBody": "Der Meridianlinien-Ausgleich löst blockierte Meridiane, damit deine Lebenskraft wieder frei fließen kann.",
+    "relatedCta": "Meridianlinien-Ausgleich entdecken",
+    "bookingTitle": "Empfange das Licht",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Laserlicht-Heilung."
+  },
+  "MeridianLineBalancing": {
+    "heroEyebrow": "Körper & Energie",
+    "heroTitle": "Meridianlinien-Ausgleich",
+    "heroSubtitle": "Lass deine Lebenskraft wieder frei fließen",
+    "heroTagline": "Löst blockierte Meridiane, damit Körper und Geist ihr Gleichgewicht finden können",
+    "introLead": "Deine Lebenskraft fließt entlang von Linien durch deinen Körper, die man Meridiane nennt.",
+    "introBody1": "In der chinesischen Tradition heißt diese Lebenskraft Chi, und die Meridiane sind die Kanäle, in denen sie sich bewegt: dieselben Linien, mit denen auch die Akupunktur arbeitet. Wenn ein Meridian blockiert ist, kann die Energie nicht dorthin gelangen, wo sie gebraucht wird, und du fühlst dich vielleicht müde, angespannt oder aus dem Gleichgewicht.",
+    "introBody2": "Beim Meridianlinien-Ausgleich zeichnet der Praktizierende deine Meridianlinien nach und aktiviert sie mit gebündeltem Licht und sanftem Druck auf bestimmte Punkte, um Blockaden zu lösen und den Fluss wiederherzustellen. Jede Sitzung wird auf die Meridiane abgestimmt, die es am meisten brauchen. Wenn dein physischer Körper wieder ins Gleichgewicht kommt, wird auch dein spiritueller Körper stärker. Der Meridianlinien-Ausgleich gehört zu den Heilungen, die in der Healers Academy der Modern Mystery School gelehrt werden, und jeder kann ihn empfangen.",
+    "signsHeading": "Anzeichen, dass du ihn brauchen könntest",
+    "signs": [
+      "Du fühlst dich oft müde oder hast wenig Energie",
+      "Du trägst Anspannung in deinem Körper",
+      "Du fühlst dich gestresst oder aus dem Gleichgewicht",
+      "Du fühlst dich festgefahren, als würde etwas nicht fließen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, wie es dir geht, in Körper und Geist."
+      },
+      {
+        "label": "Der Ausgleich:",
+        "text": "Du entspannst dich, während der Praktizierende mit gebündeltem Licht und sanftem Druck entlang deiner Meridianlinien arbeitet, vor allem an denen, die es am meisten brauchen."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Energie, die wieder frei fließt",
+      "Mehr Vitalität",
+      "Anspannung und Stress lösen sich",
+      "Ein klarerer Kopf und eine leichtere Stimmung",
+      "Sich in Körper und Gefühlen ausgeglichen fühlen"
+    ],
+    "faq": [
+      {
+        "q": "Ist das Akupunktur?",
+        "a": "Es werden keine Nadeln verwendet. Der Meridianlinien-Ausgleich arbeitet mit denselben Meridianlinien wie die Akupunktur, aber mit gebündeltem Licht und sanftem Druck."
+      },
+      {
+        "q": "Wie viele Sitzungen brauche ich?",
+        "a": "Schon eine Sitzung hilft deiner Energie, wieder zu fließen. Manche entscheiden sich für eine kurze Reihe von Sitzungen, um tiefer zu gehen. Wir sprechen gemeinsam darüber, was für dich sinnvoll ist."
+      },
+      {
+        "q": "Kann ich ihn in der Schwangerschaft empfangen?",
+        "a": "Nein. Der Meridianlinien-Ausgleich wird während der Schwangerschaft nicht gegeben. Wenn du schwanger bist, frag uns, und wir schlagen dir eine Heilung vor, die zu dir passt."
+      },
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Nein. Er steht allen offen."
+      }
+    ],
+    "relatedHeading": "Heilung mit Licht",
+    "relatedBody": "Die Laserlicht-Heilung bringt mit reinem, gebündeltem Licht deinen Körper und jede Schicht deines Energiefeldes ins Gleichgewicht.",
+    "relatedCta": "Laserlicht-Heilung entdecken",
+    "bookingTitle": "Den Fluss wiederherstellen",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für den Meridianlinien-Ausgleich."
+  },
+  "TreeOfLifeAwakening": {
+    "heroEyebrow": "Kabbala",
+    "heroTitle": "Erweckung des Baums des Lebens",
+    "heroSubtitle": "Erwecke die Landkarte der Schöpfung in dir",
+    "heroTagline": "Öffnet die zehn Sphären des Baums des Lebens in deiner Energie, damit du dein Leben leichter erschaffen kannst",
+    "introLead": "Der Baum des Lebens ist die Landkarte der Schöpfung.",
+    "introBody1": "In der Kabbala besteht der Baum des Lebens aus zehn Sphären, den Sephiroth. Gemeinsam zeigen sie, wie alles ins Sein kommt, von Kether, der Krone, bis hinunter zu Malkuth, der physischen Welt. Dasselbe Muster lebt in dir, vom Scheitel bis zu den Füßen.",
+    "introBody2": "Die Erweckung des Baums des Lebens öffnet und belebt die zehn Sphären in deiner Energie, sodass deine Verbindung zum göttlichen Muster der Schöpfung stärker wird. Vielen fällt es danach leichter, zu erschaffen und in ihrem Leben zu manifestieren, was sie sich wünschen. Sie gehört zu den Heilungen, die in der Healers Academy der Modern Mystery School gelehrt werden, und jeder kann sie empfangen.",
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, was gerade in deinem Leben geschieht und was du erschaffen möchtest."
+      },
+      {
+        "label": "Die Erweckung:",
+        "text": "Du entspannst dich, ganz bekleidet, während der Praktizierende die Sphären des Baums des Lebens in deiner Energie erweckt."
+      },
+      {
+        "label": "Erdung:",
+        "text": "Zum Abschluss erden wir dich, damit du ruhig und präsent nach Hause gehst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Klarheit, Fokus und ein Gefühl von Bestimmung",
+      "Sich fähiger fühlen, zu erschaffen und zu manifestieren",
+      "Ruhigere Gefühle",
+      "Seele und Körper fühlen sich mehr im Einklang an",
+      "Unterstützung bei der Integration der Life Activation oder Full Spirit Activation"
+    ],
+    "faq": [
+      {
+        "q": "Ist sie Teil der Full Spirit Activation?",
+        "a": "Ja. Die Full Spirit Activation umfasst eine Erweckung des Baums des Lebens, zusammen mit einer Chakra-Erweckung. Du kannst sie aber auch einzeln empfangen, wann immer du das Bedürfnis spürst. <link>Mehr über die Full Spirit Activation</link>.",
+        "href": "/full-spirit-activation"
+      },
+      {
+        "q": "Kann ich sie mit der Chakra-Erweckung verbinden?",
+        "a": "Ja, die beiden ergänzen sich wunderbar: Deine Chakren öffnen sich, um Energie zu empfangen, und der Baum des Lebens hilft dir, sie zum Erschaffen zu nutzen. Viele empfangen beide beim selben Besuch. <link>Mehr über die Chakra-Erweckung</link>.",
+        "href": "/chakra-awakening"
+      },
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Nein. Sie steht allen offen."
+      }
+    ],
+    "relatedHeading": "Öffne deine Energiezentren",
+    "relatedBody": "Die Chakra-Erweckung öffnet deine sieben Hauptchakren, damit du Energie vom Göttlichen empfangen kannst.",
+    "relatedCta": "Die Chakra-Erweckung entdecken",
+    "bookingTitle": "Erwecke deinen Baum des Lebens",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Erweckung des Baums des Lebens."
+  },
+  "ChakraAwakening": {
+    "heroEyebrow": "Energiezentren",
+    "heroTitle": "Chakra-Erweckung",
+    "heroSubtitle": "Öffne deine Energiezentren, um göttliche Energie zu empfangen",
+    "heroTagline": "Erweckt deine sieben Hauptchakren und löst, was den Fluss blockiert",
+    "introLead": "Über deine Chakren empfängst du Energie aus dem Universum.",
+    "introBody1": "Entlang deines Körpers liegen sieben Hauptenergiezentren, die Chakren, vom Wurzelchakra am unteren Ende deiner Wirbelsäule bis zum Kronenchakra oben auf deinem Kopf. Wenn sie offen sind, strömt Energie frei herein. Wenn sie blockiert sind, fühlst du dich vielleicht müde, zerstreut oder abgeschnitten.",
+    "introBody2": "Die Chakra-Erweckung öffnet alle sieben Chakren und löst die Blockaden, damit du Energie vom Göttlichen empfangen kannst. Sie gehört zu den Heilungen, die in der Healers Academy der Modern Mystery School gelehrt werden, und jeder kann sie empfangen.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Du hast wenig Energie, oder deine Energie scheint zu stocken",
+      "Du fühlst dich zerstreut und kannst dich nur schwer konzentrieren",
+      "Du fühlst dich von dir selbst oder von der geistigen Welt abgeschnitten",
+      "Du möchtest dich geerdeter und ausgeglichener fühlen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, wie es dir geht und wobei du dir Unterstützung wünschst."
+      },
+      {
+        "label": "Die Erweckung:",
+        "text": "Du entspannst dich, ganz bekleidet, während Licht durch jedes deiner Chakren gelenkt wird."
+      },
+      {
+        "label": "Erdung:",
+        "text": "Zum Abschluss erden wir dich, damit du ruhig und präsent nach Hause gehst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Festgefahrene Energie löst sich und fließt wieder",
+      "Sich ruhig und konzentriert fühlen",
+      "Emotionales und mentales Gleichgewicht",
+      "Eine klarere Intuition",
+      "Sich geerdet fühlen"
+    ],
+    "faq": [
+      {
+        "q": "Ist es dasselbe wie der Chakra-Ausgleich in der Life Activation?",
+        "a": "Nein. Es sind unterschiedliche Verfahren. Die Chakra-Erweckung ist eine eigene Sitzung und außerdem Teil der Full Spirit Activation. <link>Mehr über die Full Spirit Activation</link>.",
+        "href": "/full-spirit-activation"
+      },
+      {
+        "q": "Kann ich sie mit der Erweckung des Baums des Lebens verbinden?",
+        "a": "Ja, die beiden ergänzen sich wunderbar: Deine Chakren öffnen sich, um Energie zu empfangen, und der Baum des Lebens hilft dir, sie zum Erschaffen zu nutzen. Viele empfangen beide beim selben Besuch. <link>Mehr über die Erweckung des Baums des Lebens</link>.",
+        "href": "/tree-of-life-awakening"
+      },
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Nein. Sie steht allen offen."
+      }
+    ],
+    "relatedHeading": "Erwecke die Landkarte der Schöpfung in dir",
+    "relatedBody": "Die Erweckung des Baums des Lebens öffnet die zehn Sphären des Baums des Lebens in deiner Energie, damit du dein Leben leichter erschaffen kannst.",
+    "relatedCta": "Die Erweckung des Baums des Lebens entdecken",
+    "bookingTitle": "Erwecke deine Chakren",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Chakra-Erweckung."
+  },
+  "GalacticActivationPage": {
+    "heroEyebrow": "Modern Mystery School UK",
+    "heroTitle": "Galaktische Aktivierung",
+    "heroSubtitle": "Der nächste Schritt im Erwachen deiner DNA",
+    "heroTagline": "Eine Reihe von Workshops, die die galaktischen und göttlichen Codes in deiner physischen und spirituellen DNA einschaltet",
+    "introLead": "Die Life Activation erweckt 22 deiner 24 DNA-Stränge. Die Galaktische Aktivierung vervollständigt das Bild.",
+    "introBody1": "In den Lehren der Modern Mystery School hat deine DNA 24 Stränge, physische und spirituelle. Die Life Activation aktiviert 22 davon. Die übrigen zwei, der Galaktische Code in deiner physischen DNA und der Göttlichkeitscode in deiner spirituellen DNA, werden in der Galaktischen Aktivierung eingeschaltet. Ihr Ziel ist der adam kadmon: der gottgleiche Mensch, ganz lebendig im Physischen.",
+    "introBody2": "Die Galaktische Aktivierung ist keine einzelne Sitzung, sondern eine Reihe von Gruppenworkshops, Galaktische Aktivierung 1 bis 4, die der Reihe nach besucht werden. Sie wird nicht in Prag gelehrt: In Europa wird sie von der Modern Mystery School UK in London abgehalten. Radu und Diana haben sie beide selbst empfangen und erzählen dir gern davon.",
+    "coversHeading": "Was Galaktische Aktivierung 1 umfasst",
+    "covers": [
+      "Erster Tag: wie du deine Energie im Alltag gesund hältst, von deinem Körper und deiner Ernährung bis zu deinen Beziehungen und deiner Arbeit, und die Galaktische Aktivierung selbst",
+      "Zweiter Tag: deine „galaktischen Muskeln“ aufbauen und dich mit den himmlischen Wesen verbinden, die die Entwicklung der Menschheit unterstützen",
+      "Lehren und Einstimmungen, die dir helfen, aus Trennung und Urteil herauszutreten und in dein spirituelles Erwachsensein zu wachsen",
+      "Mehr Widerstandskraft: deine Energie auch unter Stress hochhalten, indem du göttliche und galaktische Energien in dich aufnimmst"
+    ],
+    "seriesHeading": "Die Reihe",
+    "series": [
+      {
+        "label": "Galaktische Aktivierung 1:",
+        "text": "Ein zweitägiger Workshop über eine neue Art zu leben, um eine andere Art Mensch zu werden."
+      },
+      {
+        "label": "Galaktische Aktivierung 2:",
+        "text": "Bringt die Arbeit auf die nächste Ebene, mit deinem Galaktischen Selbst, das nicht an diese eine physische Dimension gebunden ist."
+      },
+      {
+        "label": "Galaktische Aktivierung 3:",
+        "text": "Arbeitet mit den En-Sofic- und Elohim-Energien. In einer Zeremonie empfängst du deinen Galaktischen Namen."
+      },
+      {
+        "label": "Galaktische Aktivierung 4:",
+        "text": "Schließt die Reihe ab."
+      }
+    ],
+    "whoHeading": "Wer teilnehmen kann",
+    "whoBody": "Derzeit öffnet die Modern Mystery School UK Galaktische Aktivierung 1 für alle, die Certified Life Activation Practitioner sind oder die Healers Academy besuchen. Die Voraussetzungen können sich ändern. Prüfe deshalb bitte die aktuellen Termine und Voraussetzungen auf der Website von MMS UK, oder frag uns, und wir helfen dir, deinen nächsten Schritt zu finden.",
+    "faq": [
+      {
+        "q": "Brauche ich zuerst eine Life Activation?",
+        "a": "Ja. Die Galaktische Aktivierung baut auf der Life Activation auf, die die ersten 22 Stränge aktiviert. <link>Mehr über die Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Ist es eine Heilsitzung?",
+        "a": "Nicht im üblichen Sinn. Es ist ein Gruppenworkshop mit Lehren und Einstimmungen, geleitet von einem Lehrer der Modern Mystery School, der dafür zertifiziert ist, die Galaktische Aktivierung zu unterrichten."
+      },
+      {
+        "q": "Wo finde ich Termine und Preise?",
+        "a": "Auf der <link>Website der Modern Mystery School UK</link>, die die Galaktische Aktivierung in Europa abhält.",
+        "href": "https://modernmysteryschooluk.com/galactic-activation/"
+      }
+    ],
+    "bookingTitle": "Termine & Anmeldung",
+    "bookingNote": "Die Galaktische Aktivierung wird von der Modern Mystery School UK abgehalten. Termine, Preise und Anmeldung findest du auf ihrer Website. Hast du vorher eine Frage? Schreib uns.",
+    "bookLabel": "Termine & Anmeldung bei MMS UK",
+    "inquiry": "Hallo, ich habe eine Frage zur Galaktischen Aktivierung."
   }
 }

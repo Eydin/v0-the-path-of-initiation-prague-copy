@@ -159,7 +159,11 @@ function getNamespaces(src){
   const serverFn = [...src.matchAll(/getTranslations\(\s*\{[^}]*?namespace:\s*["']([^"']+)["']/g)].map(m=>m[1]);
   // ...and getTranslations("X") (plain string) in server components that take the locale from the request.
   const serverStr = [...src.matchAll(/getTranslations\(\s*["']([^"']+)["']\s*\)/g)].map(m=>m[1]);
-  return [...clientHook, ...serverFn, ...serverStr];
+  // ...and pages built from a shared template (e.g. HealingSessionPage), which pass the
+  // namespace in a config object: const config = { namespace: "X", ... }. Names that aren't
+  // in messages/en.json (e.g. a Cal.com embed's namespace) are simply skipped.
+  const configNs = [...src.matchAll(/\bnamespace:\s*["']([^"']+)["']/g)].map(m=>m[1]);
+  return [...new Set([...clientHook, ...serverFn, ...serverStr, ...configNs])];
 }
 
 function extractTranslatedNamespaces(src, namespaces){

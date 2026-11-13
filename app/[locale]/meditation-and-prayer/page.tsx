@@ -32,7 +32,6 @@ export default async function MeditationAndPrayer({
   const tCommunity = await getTranslations({ locale, namespace: "CommunityPage" })
   const tSanctuary = await getTranslations({ locale, namespace: "SanctuarySessionPage" })
   const tMax = await getTranslations({ locale, namespace: "MaxMeditationPage" })
-  const tHealings = await getTranslations({ locale, namespace: "Healings" })
   const format = await getFormatter({ locale })
 
   const formatDate = (date?: string) =>
@@ -75,7 +74,7 @@ export default async function MeditationAndPrayer({
               <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
                 <ClassCard
                   name={tMax("heroTitle")}
-                  description={tHealings("groups.bodyWork.items.0.description")}
+                  description={t("maxDescription")}
                   tag={tMax("duration")}
                   price="350 CZK"
                   nextDate={formatDate(nextOf("community#meditation-evening"))}

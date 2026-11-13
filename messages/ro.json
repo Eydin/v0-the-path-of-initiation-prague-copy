@@ -795,11 +795,10 @@
         ]
       },
       "bodyWork": {
-        "title": "Corp, meridiane și meditație",
-        "blurb": "Restabilirea fluxului, echilibrului și liniștii prin corp și respirație.",
+        "title": "Corp, meridiane și chakre",
+        "blurb": "Restabilirea fluxului și echilibrului în corpul tău, în meridiane și în centrele energetice.",
         "items": [
-          { "name": "Sistemul Max Meditation™", "description": "Un sistem ghidat care combină tehnica yoghină străveche cu o metodă modernă pentru a elibera stresul și a restabili vitalitatea." },
-          { "name": "Vindecare cu lumină laser", "description": "Frecvențe de lumină și reflexoterapie aplicate de-a lungul liniilor meridiane pentru a restabili fluxul." },
+          { "name": "Vindecare cu lumină laser", "description": "Lumină rafinată și focalizată, care vindecă corpul fizic și aduce în echilibru fiecare strat al câmpului tău energetic." },
           { "name": "Echilibrarea liniilor meridiane", "description": "Echilibrează fluxul forței vitale (chi) de-a lungul liniilor meridiane ale corpului." },
           { "name": "Trezirea Arborelui Vieții", "description": "Trezește conexiunea ta cu Arborele Vieții și extinde conștiința." },
           { "name": "Trezirea chakrelor", "description": "Trezește și armonizează cele șapte centre energetice ale corpului." }
@@ -1800,7 +1799,7 @@
     "disclaimer": "Această lucrare nu înlocuiește niciun tratament medical prescris de medicul tău. Este oferită ca sprijin energetic și spiritual complementar, alături de îngrijirea ta medicală.",
     "hostsEyebrow": "Vei fi în mâini bune",
     "hostsHeading": "Diana și Radu Coman",
-    "hostsBody": "Suntem practicieni și profesori certificați ai Modern Mystery School. Oricare dintre noi te-ar întâmpina, ne luăm timp să te ascultăm, să-ți răspundem la întrebări și să te ghidăm cu blândețe prin fiecare pas."
+    "hostsBody": "Suntem practicieni și profesori certificați ai Modern Mystery School. Oricare dintre noi ar lucra cu tine, ne luăm timp să te ascultăm, să-ți răspundem la întrebări și să te ghidăm cu blândețe prin fiecare pas."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Vindecare profundă",
@@ -2517,6 +2516,7 @@
     "reserveYourPlace": "Rezervă-ți locul"
   },
   "MeditationPrayer": {
+    "maxDescription": "Un sistem ghidat care combină tehnica yoghină străveche cu o metodă modernă pentru a elibera stresul și a restabili vitalitatea.",
     "heroEyebrow": "Liniște și devoțiune",
     "heroTitle": "Meditație și rugăciune",
     "heroSubtitle": "Practici de liniște, rugăciune și comuniune",
@@ -2616,5 +2616,443 @@
       "link": "Vezi cursurile următoare"
     },
     "askLink": "Nu știi care pas e potrivit pentru tine? Întreabă-ne pe WhatsApp"
+  },
+  "ShamanicAuraClearing": {
+    "heroEyebrow": "Curățarea aurei",
+    "heroTitle": "Curățare șamanică a aurei",
+    "heroSubtitle": "O curățare blândă cu energiile Pământului",
+    "heroTagline": "Curăță ce ai adunat pe drum, apoi îți sigilează și îți protejează energia",
+    "introLead": "Te întorci uneori acasă simțindu-te mai greu decât atunci când ai plecat?",
+    "introBody1": "Aura ta este câmpul de energie din jurul corpului tău. Pe parcursul zilei, prin locuri aglomerate, conversații dificile și stresul celorlalți, ea adună energie care nu este a ta. În timp, asta te poate lăsa obosit(ă), cu mintea încețoșată sau abătut(ă), fără un motiv clar.",
+    "introBody2": "Curățarea șamanică a aurei este o curățare blândă, dar eficientă, care lucrează cu energiile Pământului și cu Sutra Inimii, o mantră sacră. Elimină din aura ta energia nedorită, apoi îți sigilează și îți vindecă câmpul energetic, ca să fii mai bine protejat(ă). Este una dintre vindecările predate în Healers Academy de la Modern Mystery School și o poate primi oricine.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Te simți secătuit(ă) după mulțimi, călătorii sau locuri aglomerate",
+      "Aduci acasă cu tine stările celorlalți",
+      "Ai mintea încețoșată sau te simți greu fără un motiv clar",
+      "Adormi greu sau te trezești obosit(ă)",
+      "Ai trecut printr-o perioadă stresantă și vrei să o iei de la capăt, cu o energie curată"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui cum te-ai simțit în ultima vreme și ce ai vrea să cureți. Împărtășești doar ce te face să te simți confortabil."
+      },
+      {
+        "label": "Curățarea:",
+        "text": "Tu te relaxezi, în timp ce practicianul lucrează cu energiile Pământului și cu Sutra Inimii ca să-ți curețe aura."
+      },
+      {
+        "label": "Sigilare și protecție:",
+        "text": "Câmpul tău energetic este sigilat și vindecat, ca să rămână mai puternic în fața a ceea ce întâlnești în viața de zi cu zi."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Te simți mai ușor(ă) și mai limpede",
+      "O minte mai calmă",
+      "Un somn mai bun",
+      "Mai multă energie și concentrare",
+      "Te simți mai protejat(ă) și mai puțin afectat(ă) de stările celorlalți"
+    ],
+    "who": [
+      "Lucrezi toată ziua cu oameni și vii acasă purtându-le energia",
+      "Ești sensibil(ă) la locuri și atmosfere",
+      "Ai trecut printr-un conflict, o mutare sau o perioadă grea",
+      "Vrei pur și simplu o curățenie regulată pentru energia ta"
+    ],
+    "afterHeading": "După ședință",
+    "after": [
+      "Bea multă apă și odihnește-te, dacă poți",
+      "Fă o baie caldă cu sare în seara aceea: te ajută să-ți ancorezi corpul",
+      "Petrece timp în natură în zilele următoare",
+      "Observă cu cât mai ușor(ă) te simți în locurile și alături de oamenii care înainte te secătuiau"
+    ],
+    "faq": [
+      {
+        "q": "Este același lucru cu Vindecarea Aurică Sacred Geometry?",
+        "a": "Nu. Vindecarea Aurică este o vindecare mai profundă și mai lungă, care curăță, echilibrează și sigilează cele șapte straturi ale aurei prin geometria luminii. Curățarea șamanică a aurei este o curățare mai ușoară, cu energiile Pământului, potrivită ori de câte ori simți că ai preluat energie grea. <link>Citește despre Vindecarea Aurică</link>.",
+        "href": "/aura-healing"
+      },
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Nu. Este deschisă tuturor și o poți primi ori de câte ori ai nevoie."
+      },
+      {
+        "q": "O pot combina cu alte vindecări?",
+        "a": "Da. Se potrivește bine cu tăierea cordoanelor emoționale, care eliberează legăturile cu alți oameni ce te secătuiesc. <link>Citește despre tăierea cordoanelor emoționale</link>.",
+        "href": "/emotional-cord-cutting"
+      }
+    ],
+    "relatedHeading": "Curăță ce ți-au trimis ceilalți",
+    "relatedBody": "Eliminarea energiei negative curăță gelozia, invidia, cuvintele dure și reaua-voință pe care alți oameni le-au îndreptat spre tine.",
+    "relatedCta": "Descoperă eliminarea energiei negative",
+    "bookingTitle": "Curățare și protecție",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de curățarea șamanică a aurei."
+  },
+  "IntuitiveCrystalReading": {
+    "heroEyebrow": "Lectură cu cristal",
+    "heroTitle": "Lectură intuitivă cu cristal",
+    "heroSubtitle": "Îndrumare de la Sinele tău Superior, printr-o pereche de cristale-gemene",
+    "heroTagline": "Vino cu întrebările tale și pleacă cu mai multă claritate pentru pasul următor",
+    "introLead": "Uneori răspunsul este deja în tine. Ai nevoie doar de puțin ajutor ca să-l auzi.",
+    "introBody1": "În această lectură, cunoscută și ca lectura cu cristale-gemene, practicianul lucrează cu o pereche de cristale-gemene: două cristale care au crescut împreună din aceeași sămânță. Gemenele creează o legătură între tine și practician. Tu îți pui întrebările, iar prin cristale practicianul primește îndrumare de la Sinele tău Superior, de la călăuzele tale și de la ființele de lumină despre energiile din jurul tău, în trecut, în prezent și în viitor.",
+    "introBody2": "Nu este ghicit în viitor. Nimic nu se decide în locul tău și nimeni nu-ți spune ce este bine sau rău. Lectura îți arată energiile în joc și posibilitățile care ți se deschid, ca să poți face propriile alegeri cu mai multă claritate. Este una dintre practicile cu cristale predate la Sacred Geometry II de la Modern Mystery School.",
+    "signsHeading": "Când te poate ajuta o lectură",
+    "signs": [
+      "Ai de luat o decizie și te simți împărțit(ă) între mai multe variante",
+      "Te simți blocat(ă) și nu vezi drumul înainte",
+      "Treci printr-o schimbare: la muncă, într-o relație sau printr-o mutare",
+      "Vrei să înțelegi ce se petrece sub suprafață",
+      "Vrei să te reconectezi cu propria îndrumare interioară"
+    ],
+    "protocolHeading": "Ce se întâmplă în timpul lecturii",
+    "protocol": [
+      {
+        "label": "Înainte să începem:",
+        "text": "Gândește-te la întrebările pe care ai vrea să le pui. Te ajută să le notezi."
+      },
+      {
+        "label": "Lectura:",
+        "text": "Tu și practicianul sunteți legați prin cristalele-gemene. Îți pui întrebările una câte una, iar practicianul îți împărtășește îndrumarea care vine."
+      },
+      {
+        "label": "Încheierea:",
+        "text": "Discutăm ce a apărut, ca să pleci știind ce înseamnă pentru tine."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Claritate și o perspectivă nouă asupra unei decizii",
+      "Sentimentul că ești călăuzit(ă) și susținut(ă)",
+      "Conștientizarea unor posibilități noi",
+      "Încrederea de a-ți face propriile alegeri",
+      "O legătură mai puternică cu scopul tău"
+    ],
+    "faq": [
+      {
+        "q": "Lectura îmi va prezice viitorul?",
+        "a": "Nu. O lectură arată energiile din jurul tău de acum și încotro te duc. Îți păstrezi mereu liberul arbitru și poți schimba direcția oricând."
+      },
+      {
+        "q": "Ce fel de întrebări pot pune?",
+        "a": "Orice contează pentru tine: relațiile, munca, drumul tău spiritual sau o decizie pe care o ai în față."
+      },
+      {
+        "q": "Cât de des pot face o lectură?",
+        "a": "Ori de câte ori apar întrebări noi. Mulți oameni revin după câteva luni, după ce lucrurile s-au mișcat."
+      },
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Nu. Lectura este deschisă tuturor."
+      }
+    ],
+    "relatedHeading": "Mergi mai adânc în scopul tău",
+    "relatedBody": "Lectura Scopului Vieții și a celui de-al 11-lea Codon îți dezvăluie scopul divin și darurile pe care le porți.",
+    "relatedCta": "Descoperă Lectura Scopului Vieții",
+    "bookingTitle": "Pune-ți întrebările",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de o lectură intuitivă cu cristal."
+  },
+  "LaserLightHealing": {
+    "heroEyebrow": "Vindecare cu lumină",
+    "heroTitle": "Vindecare cu lumină laser",
+    "heroSubtitle": "Lumină pură și focalizată pentru corpul și energia ta",
+    "heroTagline": "O vindecare scurtă și directă, care îți readuce corpul și câmpul energetic în echilibru",
+    "introLead": "Lumina vindecă. Școlile misterelor știu asta de mii de ani.",
+    "introBody1": "Vindecarea cu lumină laser folosește o lumină rafinată și focalizată, pură și perfect acordată. Pe măsură ce trece prin straturile de sunet, unde, energie eterică și magnetică, are un efect vindecător direct asupra corpului fizic și aduce fiecare strat al câmpului tău energetic în echilibru și armonie.",
+    "introBody2": "Tehnica a fost dezvoltată de-a lungul secolelor în tradițiile școlilor misterelor, iar astăzi lucrează împreună cu tehnologia modernă. Este una dintre vindecările predate în Healers Academy de la Modern Mystery School și o poate primi oricine.",
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "O scurtă discuție:",
+        "text": "Ne spui cum te simți și cu ce ai vrea să fii sprijinit(ă)."
+      },
+      {
+        "label": "Vindecarea:",
+        "text": "Tu te relaxezi, în timp ce practicianul lucrează cu lumina. Lucrul cu lumina durează mai puțin de jumătate de oră."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Un sentiment de echilibru și armonie în corp și în energie",
+      "Te simți mai ușor(ă) și mai relaxat(ă)",
+      "Eliberarea emoțiilor ținute înăuntru",
+      "Te simți mai mult tu și mai împuternicit(ă)"
+    ],
+    "who": [
+      "Vrei un sprijin blând pentru corpul tău, alături de îngrijirea medicală",
+      "Te simți dezechilibrat(ă) și vrei să-ți regăsești echilibrul",
+      "Ți-ar plăcea o ședință scurtă și concentrată"
+    ],
+    "faq": [
+      {
+        "q": "Este același lucru cu un tratament medical cu laser?",
+        "a": "Nu. Vindecarea cu lumină laser este o vindecare energetică din tradiția școlilor misterelor. Nu înlocuiește niciun tratament medical, ci funcționează ca un sprijin blând alături de acesta."
+      },
+      {
+        "q": "O pot primi în timpul sarcinii?",
+        "a": "Nu. Vindecarea cu lumină laser nu se oferă în timpul sarcinii. Dacă ești însărcinată, întreabă-ne și îți sugerăm o vindecare potrivită pentru tine."
+      },
+      {
+        "q": "Cât de des o pot primi?",
+        "a": "Ori de câte ori ai nevoie, de până la două ori pe săptămână."
+      },
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Nu. Este deschisă tuturor."
+      }
+    ],
+    "relatedHeading": "Lasă-ți forța vitală să curgă",
+    "relatedBody": "Echilibrarea liniilor meridiane curăță meridianele blocate, ca forța ta vitală să poată curge din nou liber.",
+    "relatedCta": "Descoperă echilibrarea liniilor meridiane",
+    "bookingTitle": "Primește lumina",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de vindecarea cu lumină laser."
+  },
+  "MeridianLineBalancing": {
+    "heroEyebrow": "Corp și energie",
+    "heroTitle": "Echilibrarea liniilor meridiane",
+    "heroSubtitle": "Lasă-ți forța vitală să curgă din nou liber",
+    "heroTagline": "Curăță meridianele blocate, ca trupul și spiritul tău să-și regăsească echilibrul",
+    "introLead": "Forța ta vitală curge prin corp de-a lungul unor linii numite meridiane.",
+    "introBody1": "În tradiția chineză, această forță vitală se numește chi, iar meridianele sunt canalele pe care circulă: aceleași linii cu care lucrează acupunctura. Când un meridian este blocat, energia nu poate ajunge acolo unde este nevoie de ea și te poți simți obosit(ă), tensionat(ă) sau dezechilibrat(ă).",
+    "introBody2": "În echilibrarea liniilor meridiane, practicianul îți urmărește și îți activează liniile meridiane cu lumină și cu o presiune blândă pe anumite puncte, pentru a elibera blocajele și a reface fluxul. Fiecare ședință este adaptată meridianelor care au cea mai mare nevoie. Pe măsură ce corpul fizic își regăsește echilibrul, și corpul tău spiritual devine mai puternic. Este una dintre vindecările predate în Healers Academy de la Modern Mystery School și o poate primi oricine.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Te simți des obosit(ă) sau fără energie",
+      "Porți tensiune în corp",
+      "Te simți stresat(ă) sau dezechilibrat(ă)",
+      "Te simți blocat(ă), ca și cum ceva nu curge"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui cum te simți, în corp și în minte."
+      },
+      {
+        "label": "Echilibrarea:",
+        "text": "Tu te relaxezi, în timp ce practicianul lucrează de-a lungul liniilor tale meridiane cu lumină și cu o presiune blândă, concentrându-se pe cele care au cea mai mare nevoie."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Energia curge din nou liber",
+      "Mai multă vitalitate",
+      "Eliberarea tensiunii și a stresului",
+      "O minte mai limpede și o stare mai ușoară",
+      "Te simți echilibrat(ă) în corp și în emoții"
+    ],
+    "faq": [
+      {
+        "q": "Este acupunctură?",
+        "a": "Nu se folosesc ace. Lucrează cu aceleași linii meridiane ca acupunctura, dar prin lumină și o presiune blândă."
+      },
+      {
+        "q": "De câte ședințe am nevoie?",
+        "a": "O singură ședință ajută deja energia să curgă. Unii oameni aleg o scurtă serie de ședințe ca să meargă mai în profunzime. Vom vorbi împreună despre ce are sens pentru tine."
+      },
+      {
+        "q": "O pot primi în timpul sarcinii?",
+        "a": "Nu. Echilibrarea liniilor meridiane nu se oferă în timpul sarcinii. Dacă ești însărcinată, întreabă-ne și îți sugerăm o vindecare potrivită pentru tine."
+      },
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Nu. Este deschisă tuturor."
+      }
+    ],
+    "relatedHeading": "Vindecare cu lumină",
+    "relatedBody": "Vindecarea cu lumină laser folosește lumină pură și focalizată pentru a-ți aduce corpul și fiecare strat al câmpului energetic în echilibru.",
+    "relatedCta": "Descoperă vindecarea cu lumină laser",
+    "bookingTitle": "Restabilește fluxul",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de echilibrarea liniilor meridiane."
+  },
+  "TreeOfLifeAwakening": {
+    "heroEyebrow": "Kabbala",
+    "heroTitle": "Trezirea Arborelui Vieții",
+    "heroSubtitle": "Trezește harta creației din tine",
+    "heroTagline": "Deschide cele zece sfere ale Arborelui Vieții în energia ta, ca să-ți poți crea viața mai ușor",
+    "introLead": "Arborele Vieții este harta creației.",
+    "introBody1": "În Kabbala, Arborele Vieții este alcătuit din zece sfere, numite Sephiroth. Împreună, ele arată cum ia naștere totul, de la Kether, coroana, până la Malkuth, lumea fizică. Același tipar trăiește în tine, din creștetul capului până în tălpi.",
+    "introBody2": "Trezirea Arborelui Vieții deschide și înviorează cele zece sfere din energia ta, astfel încât legătura ta cu tiparul divin al creației devine mai puternică. După aceea, multor oameni le este mai ușor să creeze și să manifeste ceea ce își doresc în viață. Este una dintre vindecările predate în Healers Academy de la Modern Mystery School și o poate primi oricine.",
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui ce se întâmplă în viața ta și ce ai vrea să creezi."
+      },
+      {
+        "label": "Trezirea:",
+        "text": "Tu te relaxezi, complet îmbrăcat(ă), în timp ce practicianul trezește sferele Arborelui Vieții în energia ta."
+      },
+      {
+        "label": "Ancorarea:",
+        "text": "Încheiem ancorându-te, ca să pleci calm(ă) și prezent(ă)."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Claritate, concentrare și sentimentul unui scop",
+      "Te simți mai capabil(ă) să creezi și să manifești",
+      "Emoții mai liniștite",
+      "Sufletul și corpul mai bine aliniate",
+      "Sprijin în integrarea Life Activation sau a Full Spirit Activation"
+    ],
+    "faq": [
+      {
+        "q": "Face parte din Full Spirit Activation?",
+        "a": "Da. Full Spirit Activation include o trezire a Arborelui Vieții, împreună cu o trezire a chakrelor. O poți primi și separat, ori de câte ori simți nevoia. <link>Citește despre Full Spirit Activation</link>.",
+        "href": "/full-spirit-activation"
+      },
+      {
+        "q": "O pot combina cu trezirea chakrelor?",
+        "a": "Da, cele două se potrivesc minunat: chakrele tale se deschid ca să primească energie, iar Arborele Vieții te ajută să o folosești pentru a crea. Mulți oameni le primesc pe amândouă în aceeași vizită. <link>Citește despre trezirea chakrelor</link>.",
+        "href": "/chakra-awakening"
+      },
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Nu. Este deschisă tuturor."
+      }
+    ],
+    "relatedHeading": "Deschide-ți centrele energetice",
+    "relatedBody": "Trezirea chakrelor îți deschide cele șapte chakre principale, ca să poți primi energia divină.",
+    "relatedCta": "Descoperă trezirea chakrelor",
+    "bookingTitle": "Trezește-ți Arborele Vieții",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de trezirea Arborelui Vieții."
+  },
+  "ChakraAwakening": {
+    "heroEyebrow": "Centre energetice",
+    "heroTitle": "Trezirea chakrelor",
+    "heroSubtitle": "Deschide-ți centrele energetice ca să primești energia divină",
+    "heroTagline": "Îți trezește cele șapte chakre principale și curăță ce blochează fluxul",
+    "introLead": "Prin chakre primești energie din Univers.",
+    "introBody1": "De-a lungul corpului tău se află șapte centre energetice principale, chakrele, de la chakra rădăcinii, la baza coloanei, până la chakra coroanei, în creștetul capului. Când sunt deschise, energia intră liber. Când sunt blocate, te poți simți obosit(ă), împrăștiat(ă) sau deconectat(ă).",
+    "introBody2": "Trezirea chakrelor deschide toate cele șapte chakre și curăță blocajele, ca să poți primi energia divină. Este una dintre vindecările predate în Healers Academy de la Modern Mystery School și o poate primi oricine.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Te simți fără energie sau simți că energia ta stagnează",
+      "Te simți împrăștiat(ă) și îți este greu să te concentrezi",
+      "Te simți deconectat(ă) de tine sau de spirit",
+      "Vrei să te simți mai ancorat(ă) și mai echilibrat(ă)"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui cum te simți și cu ce ai vrea să fii sprijinit(ă)."
+      },
+      {
+        "label": "Trezirea:",
+        "text": "Tu te relaxezi, complet îmbrăcat(ă), în timp ce lumina este direcționată prin fiecare dintre chakrele tale."
+      },
+      {
+        "label": "Ancorarea:",
+        "text": "Încheiem ancorându-te, ca să pleci calm(ă) și prezent(ă)."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Energia blocată se eliberează și curge din nou",
+      "Te simți calm(ă) și concentrat(ă)",
+      "Echilibru emoțional și mental",
+      "O intuiție mai limpede",
+      "Te simți ancorat(ă)"
+    ],
+    "faq": [
+      {
+        "q": "Este același lucru cu echilibrarea chakrelor din Life Activation?",
+        "a": "Nu. Sunt proceduri diferite. Trezirea chakrelor este o ședință de sine stătătoare și face parte și din Full Spirit Activation. <link>Citește despre Full Spirit Activation</link>.",
+        "href": "/full-spirit-activation"
+      },
+      {
+        "q": "O pot combina cu trezirea Arborelui Vieții?",
+        "a": "Da, cele două se potrivesc minunat: chakrele tale se deschid ca să primească energie, iar Arborele Vieții te ajută să o folosești pentru a crea. Mulți oameni le primesc pe amândouă în aceeași vizită. <link>Citește despre trezirea Arborelui Vieții</link>.",
+        "href": "/tree-of-life-awakening"
+      },
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Nu. Este deschisă tuturor."
+      }
+    ],
+    "relatedHeading": "Trezește harta creației din tine",
+    "relatedBody": "Trezirea Arborelui Vieții deschide cele zece sfere ale Arborelui Vieții în energia ta, ca să-ți poți crea viața mai ușor.",
+    "relatedCta": "Descoperă trezirea Arborelui Vieții",
+    "bookingTitle": "Trezește-ți chakrele",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de trezirea chakrelor."
+  },
+  "GalacticActivationPage": {
+    "heroEyebrow": "Modern Mystery School UK",
+    "heroTitle": "Activare Galactică",
+    "heroSubtitle": "Următorul pas în trezirea ADN-ului tău",
+    "heroTagline": "O serie de ateliere care activează codurile Galactice și Divine din ADN-ul tău fizic și spiritual",
+    "introLead": "Life Activation trezește 22 din cele 24 de fire ale ADN-ului tău. Activarea Galactică completează tabloul.",
+    "introBody1": "În învățăturile Modern Mystery School, ADN-ul tău are 24 de fire, fizice și spirituale. Life Activation activează 22 dintre ele. Celelalte două, Codul Galactic din ADN-ul tău fizic și Codul Divin din ADN-ul tău spiritual, sunt activate în Activarea Galactică. Scopul ei este adam kadmon: omul asemenea lui Dumnezeu, pe deplin viu în planul fizic.",
+    "introBody2": "Activarea Galactică nu este o singură ședință, ci o serie de ateliere de grup, Activarea Galactică 1–4, urmate în ordine. Nu se predă la Praga: în Europa este organizată de Modern Mystery School UK, la Londra. Radu și Diana au primit-o amândoi și îți povestesc cu drag despre ea.",
+    "coversHeading": "Ce cuprinde Activarea Galactică 1",
+    "covers": [
+      "Ziua întâi: cum să-ți păstrezi energia sănătoasă în viața de zi cu zi, de la corp și alimentație până la relații și muncă, plus Activarea Galactică propriu-zisă",
+      "Ziua a doua: îți construiești „mușchii galactici” și te conectezi cu ființele celeste care sprijină evoluția umană",
+      "Învățături și acordări care te ajută să ieși din separare și judecată și să intri în maturitatea ta spirituală",
+      "Mai multă reziliență: îți menții energia sus și în perioade de stres, atrăgând energii divine și galactice"
+    ],
+    "seriesHeading": "Seria",
+    "series": [
+      {
+        "label": "Activarea Galactică 1:",
+        "text": "Un atelier de două zile despre a trăi într-un mod nou, ca să devii un alt fel de om."
+      },
+      {
+        "label": "Activarea Galactică 2:",
+        "text": "Duce lucrarea la nivelul următor, cu Sinele tău Galactic, care nu este legat de această unică dimensiune fizică."
+      },
+      {
+        "label": "Activarea Galactică 3:",
+        "text": "Lucrează cu energiile En-Sofic și Elohim. Într-o ceremonie, îți primești Numele Galactic."
+      },
+      {
+        "label": "Activarea Galactică 4:",
+        "text": "Încheie seria."
+      }
+    ],
+    "whoHeading": "Cine poate participa",
+    "whoBody": "La momentul scrierii acestui text, Modern Mystery School UK deschide Activarea Galactică 1 pentru Certified Life Activation Practitioners și pentru cei care urmează Healers Academy. Condițiile se pot schimba, așa că verifică datele actuale și condițiile prealabile pe site-ul MMS UK sau întreabă-ne și te ajutăm să-ți găsești următorul pas.",
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de o Life Activation?",
+        "a": "Da. Activarea Galactică se construiește pe Life Activation, care activează primele 22 de fire. <link>Citește despre Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Este o ședință de vindecare?",
+        "a": "Nu în sensul obișnuit. Este un atelier de grup cu învățături și acordări, condus de un profesor Modern Mystery School certificat să predea Activarea Galactică."
+      },
+      {
+        "q": "Unde pot vedea datele și prețurile?",
+        "a": "Pe <link>site-ul Modern Mystery School UK</link>, care organizează Activarea Galactică în Europa.",
+        "href": "https://modernmysteryschooluk.com/galactic-activation/"
+      }
+    ],
+    "bookingTitle": "Date și înscriere",
+    "bookingNote": "Activarea Galactică este organizată de Modern Mystery School UK. Datele, prețurile și înscrierea le găsești pe site-ul lor. Ai mai întâi o întrebare? Scrie-ne.",
+    "bookLabel": "Date și înscriere pe MMS UK",
+    "inquiry": "Bună, aș dori să întreb despre Activarea Galactică."
   }
 }
