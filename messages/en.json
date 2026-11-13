@@ -817,9 +817,9 @@
     "kshmGroupTitle": "King Salomon Healing Modalities Sessions",
     "kshmGroupBlurb": "Core healings of the modality. Mastering all of its branches takes many years of dedicated training.",
     "kshmSessions": [
-      { "name": "Starseed Healing", "description": "Reconnects you with your cosmic origins and star lineage." },
-      { "name": "Unified Chakra Healing", "description": "Weaves the seven centres into one coherent, unified field." },
-      { "name": "KSHM — Auric Region", "tag": "Specialty", "description": "Focused King Salomon work within the auric field, clearing and rebuilding the region that surrounds and protects you." }
+      { "name": "Starseed Healing", "description": "An energetic cleanse of your whole system with crystals and sound, clearing the clutter of the mind and connecting you to all living things." },
+      { "name": "Unified Chakra Healing", "description": "Unifies and awakens a chakra system of 2,418 points, far beyond the seven main chakras." },
+      { "name": "KSHM — Auric Region", "tag": "Specialty", "description": "A ten-session series of deep purification and restoration of your aura, your energetic shield and meeting point with the world." }
     ],
     "specialtyGroupTitle": "Specialty Sessions",
     "specialtyGroupBlurb": "Deeper, specialised work of the tradition — each offered one-to-one.",
@@ -830,8 +830,8 @@
       { "name": "Archangel Michael Interstellar Tube of Light", "description": "Calls on Archangel Michael to surround you in a column of protective light, clearing and shielding your energy field." },
       { "name": "Hermetic Rebalancing", "tag": "Specialty", "description": "Realigns body, mind and spirit through the Hermetic laws, restoring deep inner equilibrium where life has pulled you out of balance." },
       { "name": "Etheric Reconstruction", "tag": "Specialty", "description": "Rebuilds and repairs the etheric body across its layers, mending energetic damage held over long periods of time." },
-      { "name": "Celestial Code Etheric Reconstruction", "tag": "Specialty", "description": "Restores the etheric structure through celestial geometric codes — a deeper reconstruction of the subtle body." },
-      { "name": "Compassion Summoning", "description": "Opens the heart and summons divine compassion to soften and heal emotional wounds." },
+      { "name": "Celestial Code Etheric Reconstruction", "tag": "Specialty", "description": "Clears the seeds of core issues and deep patterns from the Celestial Code region of your etheric field." },
+      { "name": "Compassion Summoning", "description": "The archangels are summoned for you, for soothing, protection, clarity and guidance." },
       { "name": "Space Realignment", "description": "Realigns and harmonises the energy of a home or space, restoring sacred order and flow." },
       { "name": "Baby Blessing", "description": "A sacred blessing to welcome a newborn — calling in protection, light and a blessed beginning." },
       { "name": "Chronos Reading", "description": "A reading that works with the energies of time to bring clarity on your past, present and path ahead." }
@@ -3054,5 +3054,643 @@
     "bookingNote": "The Galactic Activation is held by the Modern Mystery School UK. You will find dates, prices and sign-up on their website. Have a question first? Write to us.",
     "bookLabel": "Dates & Sign-Up on MMS UK",
     "inquiry": "Hello, I would like to ask about the Galactic Activation."
+  },
+  "ArchangelMichaelTube": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Archangel Michael Interstellar Tube of Light",
+    "heroSubtitle": "A shield of divine light around you",
+    "heroTagline": "Places you in Archangel Michael's tube of light, to clear what weighs on you and surround you with protection",
+    "introLead": "Some days the world feels loud and heavy, and it is hard to stay yourself in it.",
+    "introBody1": "Archangel Michael is the great protector among the archangels. In this healing, sacred geometric light is first brought into your astral body and your seven chakras, activating what the tradition calls the Buddhic Body: the part of you that sees life from a higher perspective.",
+    "introBody2": "Then you are placed in Archangel Michael's Interstellar Tube of Light, where he infuses you with light from Source and heals what needs healing. The session leaves a protective field of divine light around you, so outside negativity does not stick to you as easily. It is one of the healings of the Modern Mystery School's Sacred Geometry series.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You are easily affected by other people's energy or by heavy places",
+      "You carry old emotional energy that you would like to release",
+      "You feel flat, without your usual joy and passion",
+      "You long for clarity and a higher view of your life",
+      "You simply want to feel protected"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us what is happening in your life and what you would like support with."
+      },
+      {
+        "label": "Light in your chakras:",
+        "text": "Sacred geometric light is brought into your astral body and your seven chakras, activating your Buddhic Body."
+      },
+      {
+        "label": "The Tube of Light:",
+        "text": "You are placed in Archangel Michael's Interstellar Tube of Light, where he infuses you with light from Source."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Feeling protected, as if surrounded by a shield of light",
+      "Clarity and a higher perspective on their life",
+      "Release of heavy energies and old emotions",
+      "Vitality, passion and joy returning"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a previous session?",
+        "a": "Yes, a Life Activation first. It prepares your energy to hold the light of this healing. <link>Read about the Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "How often can I receive it?",
+        "a": "Many people receive it once or twice a year, to keep their shield of light strong."
+      }
+    ],
+    "relatedHeading": "Awaken the fire within you",
+    "relatedBody": "The Fire Soul Infusion, another healing of the Sacred Geometry series, recalibrates your magnetic structure and awakens the fire of your soul.",
+    "relatedCta": "Explore the Fire Soul Infusion",
+    "bookingTitle": "Step into the Light",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in the Archangel Michael Interstellar Tube of Light."
+  },
+  "HermeticRebalancing": {
+    "heroEyebrow": "Hermetic Healing",
+    "heroTitle": "Hermetic Rebalancing",
+    "heroSubtitle": "A yearly reset for mind, body and spirit",
+    "heroTagline": "Three sessions guided by the energy of Hermes Trismegistus, to clear what holds you back and bring you back into alignment",
+    "introLead": "Life collects debris. Once a year, it is good to clear it.",
+    "introBody1": "Hermes Trismegistus, the thrice-great master of the Hermetic tradition, taught the seven Hermetic Principles: the laws by which everything in creation moves. Hermetic Rebalancing works with these principles and with the seven Hermetic Rays to clear the debris in your mind and energy field that holds back your progress in life.",
+    "introBody2": "Through sacred ritual and spoken invocation, each session clears blockages, opens your energy channels and brings your mind, body and spirit back into alignment. It is given as a series of three sessions, one to two weeks apart, and received once a year: a yearly tune-up for your mind and energy.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "Life feels stuck, however hard you try",
+      "Your thoughts feel cluttered and decisions are hard",
+      "Old emotions keep coming back",
+      "You feel out of step with yourself",
+      "You want a fresh start for the year ahead"
+    ],
+    "protocolHeading": "What Happens in the Sessions",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us what is happening in your life and what you would like to clear."
+      },
+      {
+        "label": "The rebalancing:",
+        "text": "Through sacred ritual and the invocation of Hermes Trismegistus, the practitioner clears blockages and aligns your energy system. You simply relax and receive."
+      },
+      {
+        "label": "Three sessions:",
+        "text": "The series takes place over a few weeks, with one to two weeks between sessions."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "A clearer mind and easier decisions",
+      "Mind, body and spirit feeling aligned",
+      "Emotional release and a lighter heart",
+      "Stronger intuition",
+      "Creativity flowing again",
+      "Feeling reset and ready to move forward"
+    ],
+    "faq": [
+      {
+        "q": "Why three sessions?",
+        "a": "The rebalancing is given as a series: each session builds on the one before, and together they complete the work."
+      },
+      {
+        "q": "How often can I receive it?",
+        "a": "Once a year, as a yearly tune-up for your mind and energy."
+      },
+      {
+        "q": "Is it the same as Hermetic Soul Retrieval?",
+        "a": "No. Hermetic Soul Retrieval brings back lost parts of yourself. Hermetic Rebalancing clears and realigns your energy system. <link>Read about Hermetic Soul Retrieval</link>.",
+        "href": "/soul-retrieval"
+      },
+      {
+        "q": "Do I need a previous session?",
+        "a": "A Life Activation first is recommended. If you have not had one yet, ask us and we will guide you."
+      }
+    ],
+    "relatedHeading": "Bring home the lost parts of yourself",
+    "relatedBody": "Hermetic Soul Retrieval recovers and reintegrates lost fragments of the self into wholeness.",
+    "relatedCta": "Explore Hermetic Soul Retrieval",
+    "bookingTitle": "Begin Your Rebalancing",
+    "bookingNote": "Three one-to-one sessions, in person in Prague (Vršovice). Write to us and we will plan the dates with you.",
+    "inquiry": "Hello, I am interested in Hermetic Rebalancing."
+  },
+  "BabyBlessing": {
+    "heroEyebrow": "A Sacred Ceremony",
+    "heroTitle": "Baby Blessing",
+    "heroSubtitle": "A lifelong blessing for a new soul",
+    "heroTagline": "A sacred ceremony that welcomes your child with protection and light for the whole of their life",
+    "introLead": "Welcoming a new soul into the world is one of life's most sacred moments.",
+    "introBody1": "The Baby Blessing is a ceremony that has been used in the Mystery School for thousands of years, and one of the most closely guarded teachings of the lineage. It is often called the most powerful sacred ceremony of a person's life.",
+    "introBody2": "The blessing creates a bubble of protection that stays with your child for their entire life, so they do not take on the negative energy around them. It prepares your child for life in the physical world and supports them in living in line with their own divine purpose, free from the conditioning of ancestral karma. It is given only by Ritual Masters of the Modern Mystery School who have received it through a special handing down.",
+    "signsHeading": "When to Book",
+    "signs": [
+      "Ideally during or shortly after birth, before the world leaves its first imprints",
+      "Most families book it for babies up to two years old; young children up to about five can also benefit",
+      "If you can, get in touch before your due date, so the blessing can be planned in good time"
+    ],
+    "protocolHeading": "How It Takes Place",
+    "protocol": [
+      {
+        "label": "A conversation first:",
+        "text": "We meet to talk about your child and your family, and plan the blessing together."
+      },
+      {
+        "label": "The blessing:",
+        "text": "A Ritual Master performs the sacred ceremony for your baby."
+      }
+    ],
+    "benefitsHeading": "What the Blessing Gives Your Child",
+    "benefits": [
+      "A bubble of protection that stays with them for life",
+      "Preparation for life in the physical world",
+      "Support in living in line with their own divine purpose",
+      "Freedom from the conditioning of ancestral karma"
+    ],
+    "faq": [
+      {
+        "q": "Up to what age can a child receive it?",
+        "a": "The ideal time is during or shortly after birth. Most families book it for babies up to two years old, and young children up to about five can also benefit."
+      },
+      {
+        "q": "Is it given only once?",
+        "a": "Yes. It is a one-time blessing that stays with your child for life."
+      },
+      {
+        "q": "Who performs it?",
+        "a": "Only Ritual Masters who have received the Baby Blessing through a special handing down in the Modern Mystery School."
+      }
+    ],
+    "relatedHeading": "A blessing for the parents, too",
+    "relatedBody": "The Life Activation awakens your own divine blueprint: the foundation of the healing work in our lineage.",
+    "relatedCta": "Explore the Life Activation",
+    "bookingTitle": "Bless Your Child",
+    "bookingNote": "In person in Prague. Write to us, ideally before your due date, and we will plan the blessing together.",
+    "inquiry": "Hello, I am interested in a Baby Blessing."
+  },
+  "EthericReconstruction": {
+    "heroEyebrow": "Energetic Surgery",
+    "heroTitle": "Etheric Reconstruction",
+    "heroSubtitle": "Deep healing for your etheric body",
+    "heroTagline": "Removes dense, deep-seated energies from your etheric field and restores harmony with your divine blueprint",
+    "introLead": "Some wounds go deeper than everyday healing can reach.",
+    "introBody1": "Your etheric field is part of your subtle energy system. Old traumas, injuries, illness and long-held patterns can leave dense, limiting energy there, which keeps pulling you back however much work you do on yourself.",
+    "introBody2": "Etheric Reconstruction is a specialised healing from the lineage of King Salomon, often described as energetic surgery. Working with crystal wands, the practitioner removes these blockages from your auric and etheric systems, including the magnetic and astral layers, and restores harmony with the celestial powers and your original divine blueprint. Only certified Etheric Reconstruction practitioners of the Modern Mystery School may give it.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You have done a lot of work on yourself, yet an old pattern keeps returning",
+      "You are recovering from an illness, an injury or a hard time",
+      "You have been through a big life change, such as the birth of a child",
+      "You feel ready to let go of something deep"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "A consultation first:",
+        "text": "We talk about what you are going through, and make sure this is the right healing for you at this time."
+      },
+      {
+        "label": "The reconstruction:",
+        "text": "You relax while the practitioner works in your energy field with crystal wands, removing dense energy and blockages."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Relief, often felt right away",
+      "Release of old patterns and traumas",
+      "Feeling lighter in body, mind and emotions",
+      "Support while recovering from a hard time"
+    ],
+    "afterHeading": "After the Session",
+    "after": [
+      "Give yourself time to rest and let the healing settle",
+      "Drink plenty of water",
+      "Notice, over the next weeks, how old patterns lose their hold"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a previous session?",
+        "a": "Yes. A Life Activation first prepares your energy for this deeper work. Depending on what you are going through, we may suggest other healings first as well. <link>Read about the Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "How many sessions will I need?",
+        "a": "Often one session is enough to feel the difference. Some people choose a series of three to go deeper. We will talk about what fits you."
+      },
+      {
+        "q": "How is it different from the Celestial Code?",
+        "a": "The Celestial Code is the next level of Etheric Reconstruction. It works on one region of the etheric field, where the core issues from your early years are held. <link>Read about the Celestial Code</link>.",
+        "href": "/celestial-code-etheric-reconstruction"
+      }
+    ],
+    "relatedHeading": "Release the seeds of your core issues",
+    "relatedBody": "Celestial Code Etheric Reconstruction clears the core issues and deep patterns that keep you tied to the past.",
+    "relatedCta": "Explore the Celestial Code",
+    "bookingTitle": "Begin with a Consultation",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in Etheric Reconstruction."
+  },
+  "CelestialCode": {
+    "heroEyebrow": "Etheric Reconstruction",
+    "heroTitle": "Celestial Code Etheric Reconstruction",
+    "heroSubtitle": "Release the seeds of your core issues",
+    "heroTagline": "Clears the core issues and deep patterns that keep you tied to the past, from the Celestial Code region of your etheric field",
+    "introLead": "Do you keep living the same story, even after you have understood it?",
+    "introBody1": "Many of our core issues form in our early years. Even after we have worked through them, their seed can stay in our energy field and be triggered again and again. The tradition teaches that such a residue can take around seven years to fade on its own.",
+    "introBody2": "The Celestial Code is the second level of Etheric Reconstruction. It works in the Celestial Code region of your etheric field, where core issues, deep-seated patterns and energetic anchors are held. With crystal wands, the practitioner removes the seed of a core issue you have already worked on, then restores balance in your etheric body with sacred geometry. It is also the closing session of the King Salomon Healing Modality.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "The same story keeps repeating in your relationships or your work",
+      "You understand where an issue comes from, yet it still gets triggered",
+      "You keep holding yourself back just before things go well",
+      "You have done deep work on yourself and feel ready to let it go for good"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "A consultation first:",
+        "text": "We talk about the core issue you are working with, and whether you are ready to release it."
+      },
+      {
+        "label": "The clearing:",
+        "text": "With crystal wands, the practitioner removes the seed of the core issue from the Celestial Code region of your etheric field."
+      },
+      {
+        "label": "Restoring balance:",
+        "text": "Sacred geometry restores the balance in your etheric body."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Old patterns and stories losing their hold",
+      "Mental clarity",
+      "Freedom to respond in new ways",
+      "Easier, more open relationships"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a previous session?",
+        "a": "Yes. A Life Activation first, and it works best once you have already done real work on the issue. We will talk about it in the consultation. <link>Read about the Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "How many sessions will I need?",
+        "a": "It depends on the issue. Some core issues need more than one session; repeat sessions are spaced about three months apart."
+      },
+      {
+        "q": "How is it different from Etheric Reconstruction?",
+        "a": "Etheric Reconstruction clears dense energy and blockages across your etheric field. The Celestial Code is the next level: it works on one region, where the core issues from your formative years are held. <link>Read about Etheric Reconstruction</link>.",
+        "href": "/etheric-reconstruction"
+      }
+    ],
+    "relatedHeading": "Deep healing for your etheric body",
+    "relatedBody": "Etheric Reconstruction removes dense, deep-seated energies from your etheric field and restores harmony with your divine blueprint.",
+    "relatedCta": "Explore Etheric Reconstruction",
+    "bookingTitle": "Let Go of the Old Story",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in the Celestial Code Etheric Reconstruction."
+  },
+  "FireSoulInfusion": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Fire Soul Infusion",
+    "heroSubtitle": "Awaken the sacred fire within you",
+    "heroTagline": "Recalibrates your magnetic structure and activates the fire of your soul in your body",
+    "introLead": "Do you remember the fire you once felt for life?",
+    "introBody1": "Your soul has a fire: the passion, drive and life force that move you towards what you came here to do. Stress and the pace of modern life can drain your magnetic field, and that fire can burn low.",
+    "introBody2": "The Fire Soul Infusion weaves sacred geometric symbols into your energy field. It recalibrates the whole magnetic structure of your being and activates the Fire Soul, the spirit in the body. The Vedas describe this as the first step of the Kundalini awakening, and here it happens in a safe, balanced way. It is one of the healings of the Modern Mystery School's Sacred Geometry series.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You feel flat, without your usual passion",
+      "Your energy and drive are low",
+      "You have lost touch with what you want from life",
+      "Your creativity feels blocked"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us what is happening in your life and what you would like support with."
+      },
+      {
+        "label": "The infusion:",
+        "text": "You relax while the practitioner weaves sacred geometric symbols into your energy field."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Passion, vitality and drive",
+      "Remembering who they are and why they are here",
+      "Mental clarity",
+      "Creative energy flowing",
+      "A deeper connection to their purpose",
+      "Their body coming back into balance"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a previous session?",
+        "a": "A Life Activation first is recommended: it prepares your energy for the fire of this infusion. <link>Read about the Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Is it a Kundalini awakening?",
+        "a": "The tradition calls it the first step of the Kundalini awakening. It works gently, through sacred geometry, so the fire awakens in a balanced way."
+      }
+    ],
+    "relatedHeading": "Give your fire a direction",
+    "relatedBody": "The Core Will Infusion strengthens your will and aligns it with the Will of the Divine, for focus and direction.",
+    "relatedCta": "Explore the Core Will Infusion",
+    "bookingTitle": "Rekindle Your Fire",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in the Fire Soul Infusion."
+  },
+  "CoreWillInfusion": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Core Will Infusion",
+    "heroSubtitle": "Align your will with the Will of the Divine",
+    "heroTagline": "Cleans your etheric structure and strengthens your will, for focus, direction and the drive to live your purpose",
+    "introLead": "Have you ever worked hard towards something that just would not move?",
+    "introBody1": "Your will is the inner seat of your power and direction. The tradition speaks of three wills: the Will of God, the Will of the Universe and Nature, and the will of humans. When your own will is weak or out of line with the greater wills, life can feel like pushing against a wall.",
+    "introBody2": "The Core Will Infusion activates sacred symbols in your energy structure. It cleans your etheric structure and strengthens and aligns your personal will with the Will of the Divine, your Higher Will. Things that felt immovable often begin to shift. It is one of the healings of the Modern Mystery School's Sacred Geometry series.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You have been working hard towards something that seems immovable",
+      "You find it hard to stay focused and disciplined",
+      "You feel unsure of your direction",
+      "You want to live your purpose, but something holds you back"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us what is happening in your life and what you would like support with."
+      },
+      {
+        "label": "The infusion:",
+        "text": "You relax while the practitioner activates sacred symbols in your energy structure."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Clarity about their life and purpose",
+      "Drive towards their purpose",
+      "Focus and discipline",
+      "Resilience",
+      "Obstacles dissolving, and things moving with less effort",
+      "A closer connection to their spiritual self"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a previous session?",
+        "a": "A Life Activation first is recommended. <link>Read about the Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "How often can I receive it?",
+        "a": "Many people receive it once a year, to keep their will aligned and strong."
+      },
+      {
+        "q": "How does it relate to the Fire Soul Infusion?",
+        "a": "Both are healings of the Sacred Geometry series. The Fire Soul Infusion awakens your passion and life force; the Core Will Infusion strengthens and aligns your will. <link>Read about the Fire Soul Infusion</link>.",
+        "href": "/fire-soul-infusion"
+      }
+    ],
+    "relatedHeading": "Awaken the fire within you",
+    "relatedBody": "The Fire Soul Infusion recalibrates your magnetic structure and awakens the fire of your soul.",
+    "relatedCta": "Explore the Fire Soul Infusion",
+    "bookingTitle": "Strengthen Your Will",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in the Core Will Infusion."
+  },
+  "CompassionSummoning": {
+    "heroEyebrow": "Archangelic Healing",
+    "heroTitle": "Compassion Summoning",
+    "heroSubtitle": "Receive the compassionate energy of the archangels",
+    "heroTagline": "The archangels are summoned for you, for soothing, protection, clarity and guidance",
+    "introLead": "You do not have to carry everything alone.",
+    "introBody1": "In Compassion Summoning, also called Archangel Compassion Summoning, the practitioner summons the archangels for you. You experience their compassionate energy, and connect with a specific archangel for guidance and empowerment.",
+    "introBody2": "People come to it for soothing and protection, for direction and clarity in a hard situation, and for inspiration, healing and spiritual growth. It is one of the Guide Healings of the Modern Mystery School.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You are in a hard situation and cannot see clearly",
+      "You feel stuck and need direction",
+      "You long for comfort and protection",
+      "You want to grow spiritually"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us what is happening in your life and where you would like guidance."
+      },
+      {
+        "label": "The summoning:",
+        "text": "The practitioner summons the archangels, and you receive their compassionate energy. You simply relax and receive."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Soothing and comfort",
+      "Feeling protected",
+      "Clarity in a hard situation",
+      "Feeling unstuck and guided",
+      "Inspiration"
+    ],
+    "relatedHeading": "Protection from Archangel Michael",
+    "relatedBody": "The Archangel Michael Interstellar Tube of Light surrounds you with a shield of divine light.",
+    "relatedCta": "Explore the Tube of Light",
+    "bookingTitle": "Receive Their Compassion",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in Compassion Summoning."
+  },
+  "StarseedHealing": {
+    "heroEyebrow": "King Salomon Healing Modality",
+    "heroTitle": "Starseed Healing",
+    "heroSubtitle": "A cleanse for your whole energy system",
+    "heroTagline": "Clears the clutter of the mind and brings your body's vibration back into tune, connecting you to all living things",
+    "introLead": "When your mind is full and your energy feels scattered, everything feels heavier.",
+    "introBody1": "Starseed Healing is an energetic cleanse of your whole system: your chakras and the layers of energy on your body. It gathers vibrations that would otherwise be lost and redirects them, bringing the vibration of your body back into tune and clearing out the clutter of the mind.",
+    "introBody2": "The practitioner works with crystals, chimes and a tuning fork, using sound and vibration to draw out heavy energy, and you are connected, in a galactic way, to all living things. It is the first session of the King Salomon Healing Modality, and you can also receive it on its own.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "Your mind feels cluttered and restless",
+      "You feel emotionally off-centre",
+      "You are going through grief or a hard ending",
+      "You have done deep emotional work and want to settle"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us what is happening in your life and what you would like support with."
+      },
+      {
+        "label": "The healing:",
+        "text": "You relax while the practitioner works with crystals, chimes and a tuning fork. Many people drift off to sleep."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Feeling calm, rested and light",
+      "A quieter mind",
+      "Feeling more centred emotionally",
+      "A sense of peace and belonging"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a previous session?",
+        "a": "No. It is open to everyone."
+      },
+      {
+        "q": "Is it part of a series?",
+        "a": "It is one of the first sessions of the King Salomon Healing Modality, a system of healing from the lineage of King Salomon. You can also receive it on its own."
+      }
+    ],
+    "relatedHeading": "Awaken your whole chakra system",
+    "relatedBody": "Unified Chakra Healing, the next session of the King Salomon Healing Modality, unifies and awakens a chakra system of 2,418 points.",
+    "relatedCta": "Explore Unified Chakra Healing",
+    "bookingTitle": "Clear and Reconnect",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in Starseed Healing."
+  },
+  "UnifiedChakraHealing": {
+    "heroEyebrow": "King Salomon Healing Modality",
+    "heroTitle": "Unified Chakra Healing",
+    "heroSubtitle": "Awaken your whole chakra system",
+    "heroTagline": "Unifies and awakens a chakra system of 2,418 points, far beyond the seven you know",
+    "introLead": "You know the seven main chakras. The tradition teaches that there are 2,418.",
+    "introBody1": "The seven chakras most people know are the main ones, along the centre of the body. Around them lives a much larger system of 2,418 chakras. When they are awake and work together, your energy flows more freely and your nervous system wakes up.",
+    "introBody2": "Unified Chakra Healing, also called Unified Chakra Awakening, unifies and awakens this whole chakra system and links the energies of your light body with your physical body. It is one of the first sessions of the King Salomon Healing Modality, and you can also receive it on its own. It is especially helpful after a Life Activation.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You feel emotionally stuck or flat",
+      "Old emotions keep coming back",
+      "You would like to become more spiritually sensitive",
+      "You have had a Life Activation and want to go further"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "You tell us what is happening in your life and what you would like support with."
+      },
+      {
+        "label": "The awakening:",
+        "text": "You relax while the practitioner awakens and unifies your chakra system."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close in stillness, so you can feel the difference."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "Greater spiritual sensitivity",
+      "Release of old, stuck emotions",
+      "Calmer emotions",
+      "More energy and joy in daily life"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a previous session?",
+        "a": "No, it is open to everyone. It is especially helpful after a Life Activation, which prepares your energy for it. <link>Read about the Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Is it part of a series?",
+        "a": "It is one of the first sessions of the King Salomon Healing Modality, a system of healing from the lineage of King Salomon. You can also receive it on its own."
+      }
+    ],
+    "relatedHeading": "A cleanse for your whole energy system",
+    "relatedBody": "Starseed Healing, the first session of the King Salomon Healing Modality, clears the clutter of the mind and brings your vibration back into tune.",
+    "relatedCta": "Explore Starseed Healing",
+    "bookingTitle": "Unify Your Energy",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "inquiry": "Hello, I am interested in Unified Chakra Healing."
+  },
+  "KshmAuricRegion": {
+    "heroEyebrow": "King Salomon Healing Modality",
+    "heroTitle": "KSHM — Auric Region",
+    "heroSubtitle": "A ten-session journey of purification for your aura",
+    "heroTagline": "Deep purification and restoration of your aura: your energetic shield and your meeting point with the world",
+    "introLead": "Your aura is your energetic shield, and the place where you meet the world.",
+    "introBody1": "Over a lifetime, it gathers the masks of conditioning and patterns carried down through your family. The Auric Region of the King Salomon Healing Modality is a sacred process of ten sessions, devoted to the deep purification and restoration of your aura.",
+    "introBody2": "It works with the seven planetary archangels, Michael, Gabriel, Raphael, Haniel, Zadkiel, Samael and Cassiel, together with Jesus the Christ. Sacred words are toned into your aura, and holy seals open, clear, balance and seal it, cleansing the spiritual, astral and physical planes and balancing the three pillars of the Tree of Life. As the masks of conditioning fall away, your authentic self can shine through.",
+    "signsHeading": "Signs You May Need It",
+    "signs": [
+      "You feel you live behind masks and long to find your true self",
+      "You notice family patterns repeating in your life",
+      "You would like a clearer mind and stronger intuition",
+      "You are ready for a deep, committed journey of healing"
+    ],
+    "protocolHeading": "How the Series Works",
+    "protocol": [
+      {
+        "label": "A consultation first:",
+        "text": "The first session is a consultation, where we get to know you and prepare the path ahead."
+      },
+      {
+        "label": "Nine healing sessions:",
+        "text": "In a temple space, fully clothed, you receive nine healings with the archangels, sacred tones and holy seals."
+      },
+      {
+        "label": "Your rhythm:",
+        "text": "The sessions are one to two weeks apart. Once you begin, the series is completed as a whole."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "The masks of conditioning falling away",
+      "Release of karmic and ancestral patterns",
+      "A clearer mind and calmer thoughts",
+      "Stronger intuition",
+      "An easier connection with the angelic forces",
+      "Inner strength"
+    ],
+    "faq": [
+      {
+        "q": "Do I need previous sessions?",
+        "a": "Yes. A Life Activation and Empower Thyself are recommended before you begin. Ask us and we will help you find the right path."
+      },
+      {
+        "q": "Can I book a single session?",
+        "a": "No. The Auric Region is one complete process of ten sessions, and once you begin, it is completed as a whole."
+      },
+      {
+        "q": "What is the King Salomon Healing Modality?",
+        "a": "A system of healing from the lineage of King Salomon, worked through in regions: the Physical, the Mind and the Auric Region. Each region is a series of sessions."
+      }
+    ],
+    "relatedHeading": "Begin with a single session",
+    "relatedBody": "Starseed Healing, the first session of the King Salomon Healing Modality, can also be received on its own.",
+    "relatedCta": "Explore Starseed Healing",
+    "bookingTitle": "Begin the Journey",
+    "bookingNote": "Ten one-to-one sessions, in person in Prague (Vršovice). Write to us for a first conversation.",
+    "inquiry": "Hello, I am interested in the KSHM Auric Region."
   }
 }

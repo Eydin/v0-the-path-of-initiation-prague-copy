@@ -817,9 +817,9 @@
     "kshmGroupTitle": "Sezení léčebných modalit krále Šalomouna",
     "kshmGroupBlurb": "Základní léčení modality. Zvládnutí všech jejích větví vyžaduje mnoho let oddaného výcviku.",
     "kshmSessions": [
-      { "name": "Léčení hvězdného semene", "description": "Znovu vás propojí s vaším kosmickým původem a hvězdnou linií." },
-      { "name": "Sjednocené léčení čaker", "description": "Propojuje sedm center do jednoho soudržného, sjednoceného pole." },
-      { "name": "KSHM — aurická oblast", "tag": "Speciální", "description": "Cílená práce krále Šalomouna v rámci aurického pole, čištění a obnova oblasti, která vás obklopuje a chrání." }
+      { "name": "Léčení hvězdného semene", "description": "Energetická očista celého vašeho systému pomocí krystalů a zvuku, která vyčistí zahlcenou mysl a propojí vás se vším živým." },
+      { "name": "Sjednocené léčení čaker", "description": "Sjednocuje a probouzí systém čaker o 2 418 bodech, daleko za hranicí sedmi hlavních čaker." },
+      { "name": "KSHM — aurická oblast", "tag": "Speciální", "description": "Série deseti sezení hluboké očisty a obnovy vaší aury, vašeho energetického štítu a místa, kde se setkáváte se světem." }
     ],
     "specialtyGroupTitle": "Speciální sezení",
     "specialtyGroupBlurb": "Hlubší, specializovaná práce tradice — každé nabízeno individuálně.",
@@ -830,8 +830,8 @@
       { "name": "Archanděl Michael — mezihvězdná trubice světla", "description": "Vzývá archanděla Michaela, aby vás obklopil sloupem ochranného světla, čistil a chránil vaše energetické pole." },
       { "name": "Hermetické znovuvyvážení", "tag": "Speciální", "description": "Znovu sladí tělo, mysl a ducha prostřednictvím hermetických zákonů a obnovuje hlubokou vnitřní rovnováhu tam, kde vás život vychýlil." },
       { "name": "Éterická rekonstrukce", "tag": "Speciální", "description": "Obnovuje a opravuje éterické tělo napříč jeho vrstvami a hojí energetické poškození držené po dlouhou dobu." },
-      { "name": "Éterická rekonstrukce nebeských kódů", "tag": "Speciální", "description": "Obnovuje éterickou strukturu prostřednictvím nebeských geometrických kódů — hlubší rekonstrukce jemného těla." },
-      { "name": "Vzývání soucitu", "description": "Otevírá srdce a vzývá božský soucit, aby zjemnil a zahojil emoční rány." },
+      { "name": "Éterická rekonstrukce nebeských kódů", "tag": "Speciální", "description": "Čistí semínka klíčových témat a hlubokých vzorců z oblasti nebeských kódů ve vašem éterickém poli." },
+      { "name": "Vzývání soucitu", "description": "Archandělé jsou vzýváni pro vás, aby vám přinesli útěchu, ochranu, jasnost a vedení." },
       { "name": "Přeladění prostoru", "description": "Znovu sladí a harmonizuje energii domova nebo prostoru a obnovuje posvátný řád a proudění." },
       { "name": "Požehnání dítěte", "description": "Posvátné požehnání na uvítanou novorozence — vzývá ochranu, světlo a požehnaný začátek." },
       { "name": "Čtení Chronos", "description": "Čtení, které pracuje s energiemi času a přináší jasnost ohledně vaší minulosti, přítomnosti a cesty vpřed." }
@@ -3054,5 +3054,643 @@
     "bookingNote": "Galaktickou aktivaci pořádá Modern Mystery School UK. Termíny, ceny a přihlášení najdete na jejich webu. Máte nejdřív nějakou otázku? Napište nám.",
     "bookLabel": "Termíny a přihlášení na MMS UK",
     "inquiry": "Dobrý den, rád/a bych se zeptal/a na Galaktickou aktivaci."
+  },
+  "ArchangelMichaelTube": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Archanděl Michael — mezihvězdná trubice světla",
+    "heroSubtitle": "Štít božského světla kolem vás",
+    "heroTagline": "Uvede vás do trubice světla archanděla Michaela, která vyčistí, co vás tíží, a obklopí vás ochranou",
+    "introLead": "Některé dny je svět hlučný a těžký a je těžké v něm zůstat sami sebou.",
+    "introBody1": "Archanděl Michael je mezi archanděly tím velkým ochráncem. Při tomto léčení se nejprve do vašeho astrálního těla a vašich sedmi čaker přivádí světlo posvátné geometrie a aktivuje to, co tradice nazývá buddhickým tělem: tu část vás, která vidí život z vyšší perspektivy.",
+    "introBody2": "Poté vás archanděl Michael přijme do své mezihvězdné trubice světla, naplní vás světlem ze Zdroje a zahojí, co je třeba zahojit. Sezení kolem vás zanechá ochranné pole božského světla, takže na vás negativita zvenčí tak snadno neulpí. Je to jedno z léčení série Sacred Geometry Modern Mystery School.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Snadno vás ovlivní energie druhých lidí nebo těžká místa",
+      "Nosíte v sobě starou emoční energii, kterou byste rádi uvolnili",
+      "Cítíte se bez jiskry, bez své obvyklé radosti a vášně",
+      "Toužíte po jasnosti a vyšším pohledu na svůj život",
+      "Jednoduše se chcete cítit chránění"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, co se ve vašem životě děje a v čem byste uvítali podporu."
+      },
+      {
+        "label": "Světlo ve vašich čakrách:",
+        "text": "Do vašeho astrálního těla a vašich sedmi čaker se přivádí světlo posvátné geometrie, které aktivuje vaše buddhické tělo."
+      },
+      {
+        "label": "Trubice světla:",
+        "text": "Archanděl Michael vás přijme do své mezihvězdné trubice světla a naplní vás světlem ze Zdroje."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Pocit ochrany, jako by vás obklopoval štít světla",
+      "Jasnost a vyšší pohled na vlastní život",
+      "Uvolnění těžkých energií a starých emocí",
+      "Návrat vitality, vášně a radosti"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ano, nejprve Life Activation. Připraví vaši energii, aby dokázala udržet světlo tohoto léčení. <link>Přečtěte si o Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Jak často ho mohu přijmout?",
+        "a": "Mnoho lidí ho přijímá jednou nebo dvakrát ročně, aby jejich štít světla zůstal silný."
+      }
+    ],
+    "relatedHeading": "Probuďte v sobě oheň",
+    "relatedBody": "Vlévání ohně duše, další léčení série Sacred Geometry, znovu kalibruje vaši magnetickou strukturu a probouzí oheň vaší duše.",
+    "relatedCta": "Prozkoumat vlévání ohně duše",
+    "bookingTitle": "Vstupte do světla",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o mezihvězdnou trubici světla archanděla Michaela."
+  },
+  "HermeticRebalancing": {
+    "heroEyebrow": "Hermetické léčení",
+    "heroTitle": "Hermetické znovuvyvážení",
+    "heroSubtitle": "Každoroční restart pro mysl, tělo i ducha",
+    "heroTagline": "Tři sezení vedená energií Herma Trismegista, která vyčistí, co vás drží zpátky, a vrátí vás do souladu",
+    "introLead": "V životě se usazují nánosy. Jednou za rok je dobré je vyčistit.",
+    "introBody1": "Hermes Trismegistos, třikrát největší mistr hermetické tradice, učil sedm hermetických principů: zákony, podle nichž se pohybuje vše ve stvoření. Hermetické znovuvyvážení pracuje s těmito principy a se sedmi hermetickými paprsky a čistí nánosy ve vaší mysli a energetickém poli, které brzdí váš pokrok v životě.",
+    "introBody2": "Skrze posvátný rituál a vyslovené vzývání každé sezení uvolňuje blokády, otevírá vaše energetické kanály a vrací vaši mysl, tělo i ducha do souladu. Poskytuje se jako série tří sezení s odstupem jednoho až dvou týdnů a přijímá se jednou ročně: jako každoroční seřízení vaší mysli a energie.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Život se zasekl, ať se snažíte sebevíc",
+      "V hlavě máte zmatek a rozhodování je těžké",
+      "Staré emoce se stále vracejí",
+      "Máte pocit, že nejste sami se sebou v souladu",
+      "Chcete do nového roku vykročit načisto"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, co se ve vašem životě děje a co byste chtěli vyčistit."
+      },
+      {
+        "label": "Znovuvyvážení:",
+        "text": "Skrze posvátný rituál a vzývání Herma Trismegista praktik uvolňuje blokády a slaďuje váš energetický systém. Vy se jen uvolníte a přijímáte."
+      },
+      {
+        "label": "Tři sezení:",
+        "text": "Série probíhá během několika týdnů, s odstupem jednoho až dvou týdnů mezi sezeními."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Jasnější mysl a snazší rozhodování",
+      "Mysl, tělo i duch v souladu",
+      "Emoční uvolnění a lehčí srdce",
+      "Silnější intuice",
+      "Tvořivost znovu proudí",
+      "Pocit restartu a připravenosti jít dál"
+    ],
+    "faq": [
+      {
+        "q": "Proč tři sezení?",
+        "a": "Znovuvyvážení se poskytuje jako série: každé sezení navazuje na to předchozí a teprve společně práci dokončí."
+      },
+      {
+        "q": "Jak často ho mohu přijmout?",
+        "a": "Jednou ročně, jako každoroční seřízení vaší mysli a energie."
+      },
+      {
+        "q": "Je to totéž jako hermetický návrat duše?",
+        "a": "Ne. Hermetický návrat duše vám vrací ztracené části vás samých. Hermetické znovuvyvážení čistí váš energetický systém a znovu ho slaďuje. <link>Přečtěte si o hermetickém návratu duše</link>.",
+        "href": "/soul-retrieval"
+      },
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Doporučujeme nejprve Life Activation. Pokud jste ji ještě neměli, zeptejte se nás a poradíme vám."
+      }
+    ],
+    "relatedHeading": "Přiveďte domů ztracené části sebe",
+    "relatedBody": "Hermetický návrat duše najde ztracené části vás samých a znovu je začlení, abyste se cítili celiství.",
+    "relatedCta": "Prozkoumat hermetický návrat duše",
+    "bookingTitle": "Začněte své znovuvyvážení",
+    "bookingNote": "Tři individuální sezení, osobně v Praze (Vršovice). Napište nám a termíny naplánujeme společně s vámi.",
+    "inquiry": "Dobrý den, mám zájem o hermetické znovuvyvážení."
+  },
+  "BabyBlessing": {
+    "heroEyebrow": "Posvátný obřad",
+    "heroTitle": "Požehnání dítěte",
+    "heroSubtitle": "Celoživotní požehnání pro novou duši",
+    "heroTagline": "Posvátný obřad, který vaše dítě přivítá ochranou a světlem na celý jeho život",
+    "introLead": "Přivítat na světě novou duši je jedním z nejposvátnějších okamžiků života.",
+    "introBody1": "Požehnání dítěte je obřad, který se v Mystery School používá po tisíce let, a patří k nejpečlivěji střeženým učením linie. Často se o něm mluví jako o nejmocnějším posvátném obřadu v životě člověka.",
+    "introBody2": "Požehnání vytváří ochrannou bublinu, která zůstává s vaším dítětem po celý život, aby na sebe nebralo negativní energii ze svého okolí. Připravuje vaše dítě na život ve fyzickém světě a podporuje ho v tom, aby žilo v souladu se svým vlastním božským posláním, svobodné od podmíněnosti karmy předků. Udělovat ho mohou pouze Ritual Masters Modern Mystery School, kteří ho sami obdrželi zvláštním předáním.",
+    "signsHeading": "Kdy se objednat",
+    "signs": [
+      "Ideálně během porodu nebo krátce po něm, dříve než na dítěti svět zanechá své první otisky",
+      "Většina rodin si ho objednává pro miminka do dvou let; prospět může i malým dětem zhruba do pěti let",
+      "Pokud můžete, ozvěte se nám ještě před termínem porodu, abychom mohli požehnání včas naplánovat"
+    ],
+    "protocolHeading": "Jak probíhá",
+    "protocol": [
+      {
+        "label": "Nejdřív rozhovor:",
+        "text": "Sejdeme se, promluvíme si o vašem dítěti a vaší rodině a požehnání naplánujeme společně."
+      },
+      {
+        "label": "Požehnání:",
+        "text": "Ritual Master pro vaše miminko vykoná posvátný obřad."
+      }
+    ],
+    "benefitsHeading": "Co požehnání dává vašemu dítěti",
+    "benefits": [
+      "Ochrannou bublinu, která s ním zůstane na celý život",
+      "Přípravu na život ve fyzickém světě",
+      "Podporu v tom, aby žilo v souladu se svým vlastním božským posláním",
+      "Svobodu od podmíněnosti karmy předků"
+    ],
+    "faq": [
+      {
+        "q": "Do jakého věku může dítě požehnání přijmout?",
+        "a": "Ideální doba je během porodu nebo krátce po něm. Většina rodin si ho objednává pro miminka do dvou let a prospět může i malým dětem zhruba do pěti let."
+      },
+      {
+        "q": "Uděluje se jen jednou?",
+        "a": "Ano. Je to jednorázové požehnání, které zůstává s vaším dítětem po celý život."
+      },
+      {
+        "q": "Kdo ho uděluje?",
+        "a": "Pouze Ritual Masters, kteří požehnání dítěte obdrželi zvláštním předáním v Modern Mystery School."
+      }
+    ],
+    "relatedHeading": "Požehnání i pro rodiče",
+    "relatedBody": "Life Activation probouzí váš vlastní božský plán: základ léčebné práce v naší linii.",
+    "relatedCta": "Prozkoumat Life Activation",
+    "bookingTitle": "Požehnejte svému dítěti",
+    "bookingNote": "Osobně v Praze. Napište nám, ideálně ještě před termínem porodu, a požehnání naplánujeme společně.",
+    "inquiry": "Dobrý den, mám zájem o požehnání dítěte."
+  },
+  "EthericReconstruction": {
+    "heroEyebrow": "Energetická chirurgie",
+    "heroTitle": "Éterická rekonstrukce",
+    "heroSubtitle": "Hluboké léčení pro vaše éterické tělo",
+    "heroTagline": "Odstraňuje z vašeho éterického pole husté, hluboko usazené energie a obnovuje soulad s vaším božským plánem",
+    "introLead": "Některé rány sahají hlouběji, než kam dosáhne běžné léčení.",
+    "introBody1": "Vaše éterické pole je součástí vašeho jemného energetického systému. Stará traumata, zranění, nemoci a dlouho držené vzorce v něm mohou zanechat hustou, omezující energii, která vás stále táhne zpátky, ať na sobě pracujete sebevíc.",
+    "introBody2": "Éterická rekonstrukce je specializované léčení z linie krále Šalomouna, často popisované jako energetická chirurgie. Praktik pracuje s krystalovými hůlkami a odstraňuje tyto blokády z vašeho aurického a éterického systému, včetně magnetické a astrální vrstvy, a obnovuje soulad s nebeskými silami a vaším původním božským plánem. Poskytovat ji smějí pouze certifikovaní praktici éterické rekonstrukce z Modern Mystery School.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Hodně jste na sobě pracovali, a přesto se starý vzorec stále vrací",
+      "Zotavujete se z nemoci, zranění nebo těžkého období",
+      "Prošli jste velkou životní změnou, například narozením dítěte",
+      "Cítíte, že jste připraveni pustit něco hlubokého"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Nejdřív konzultace:",
+        "text": "Promluvíme si o tom, čím procházíte, a ověříme si, že je to pro vás v tuto chvíli to pravé léčení."
+      },
+      {
+        "label": "Rekonstrukce:",
+        "text": "Vy se uvolníte, zatímco praktik pracuje ve vašem energetickém poli krystalovými hůlkami a odstraňuje hustou energii a blokády."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Úleva, často hned po sezení",
+      "Uvolnění starých vzorců a traumat",
+      "Pocit lehkosti v těle, mysli i emocích",
+      "Podpora při zotavování z těžkého období"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Dopřejte si čas na odpočinek a nechte léčení usadit",
+      "Pijte hodně vody",
+      "V dalších týdnech si všímejte, jak staré vzorce ztrácejí svou moc"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ano. Life Activation předem připraví vaši energii na tuto hlubší práci. Podle toho, čím procházíte, vám můžeme nejprve doporučit i jiná léčení. <link>Přečtěte si o Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Kolik sezení budu potřebovat?",
+        "a": "Často stačí jedno sezení, abyste pocítili rozdíl. Někteří lidé si zvolí sérii tří sezení, aby šli více do hloubky. Probereme spolu, co je pro vás vhodné."
+      },
+      {
+        "q": "Čím se liší od éterické rekonstrukce nebeských kódů?",
+        "a": "Éterická rekonstrukce nebeských kódů je další úrovní éterické rekonstrukce. Pracuje s jednou oblastí éterického pole, kde jsou uložena klíčová témata z vašich raných let. <link>Přečtěte si o éterické rekonstrukci nebeských kódů</link>.",
+        "href": "/celestial-code-etheric-reconstruction"
+      }
+    ],
+    "relatedHeading": "Uvolněte semínka svých klíčových témat",
+    "relatedBody": "Éterická rekonstrukce nebeských kódů čistí klíčová témata a hluboké vzorce, které vás drží svázané s minulostí.",
+    "relatedCta": "Prozkoumat éterickou rekonstrukci nebeských kódů",
+    "bookingTitle": "Začněte konzultací",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o éterickou rekonstrukci."
+  },
+  "CelestialCode": {
+    "heroEyebrow": "Éterická rekonstrukce",
+    "heroTitle": "Éterická rekonstrukce nebeských kódů",
+    "heroSubtitle": "Uvolněte semínka svých klíčových témat",
+    "heroTagline": "Z oblasti nebeských kódů ve vašem éterickém poli čistí klíčová témata a hluboké vzorce, které vás drží svázané s minulostí",
+    "introLead": "Prožíváte pořád dokola stejný příběh, i když už jste ho pochopili?",
+    "introBody1": "Mnoho našich klíčových témat se utváří v raných letech. I když už je máme zpracovaná, jejich semínko může zůstat v našem energetickém poli a znovu a znovu se spouštět. Tradice učí, že takový pozůstatek může sám od sebe odeznívat zhruba sedm let.",
+    "introBody2": "Éterická rekonstrukce nebeských kódů je druhou úrovní éterické rekonstrukce. Pracuje v oblasti nebeských kódů ve vašem éterickém poli, kde jsou uložena klíčová témata, hluboko zakořeněné vzorce a energetické kotvy. Praktik krystalovými hůlkami odstraní semínko klíčového tématu, na kterém jste už pracovali, a poté posvátnou geometrií obnoví rovnováhu ve vašem éterickém těle. Je to také závěrečné sezení léčebné modality krále Šalomouna.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Ve vztazích nebo v práci se vám stále opakuje stejný příběh",
+      "Rozumíte, odkud nějaké téma pochází, a přesto se vám stále spouští",
+      "Těsně předtím, než se věci začnou dařit, se pokaždé sami zabrzdíte",
+      "Udělali jste na sobě hlubokou práci a cítíte, že jste připraveni to nadobro pustit"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Nejdřív konzultace:",
+        "text": "Promluvíme si o klíčovém tématu, se kterým pracujete, a o tom, zda jste připraveni ho uvolnit."
+      },
+      {
+        "label": "Vyčištění:",
+        "text": "Praktik krystalovými hůlkami odstraní semínko klíčového tématu z oblasti nebeských kódů ve vašem éterickém poli."
+      },
+      {
+        "label": "Obnovení rovnováhy:",
+        "text": "Posvátná geometrie obnoví rovnováhu ve vašem éterickém těle."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Staré vzorce a příběhy ztrácejí svou moc",
+      "Jasnost mysli",
+      "Svoboda reagovat novými způsoby",
+      "Snazší a otevřenější vztahy"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ano. Nejprve Life Activation; navíc nejlépe funguje, když už jste na daném tématu skutečně pracovali. Probereme to spolu při konzultaci. <link>Přečtěte si o Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Kolik sezení budu potřebovat?",
+        "a": "Záleží na tématu. Některá klíčová témata potřebují více než jedno sezení; opakovaná sezení se konají s odstupem zhruba tří měsíců."
+      },
+      {
+        "q": "Čím se liší od éterické rekonstrukce?",
+        "a": "Éterická rekonstrukce čistí hustou energii a blokády v celém vašem éterickém poli. Éterická rekonstrukce nebeských kódů je další úroveň: pracuje s jednou oblastí, kde jsou uložena klíčová témata z let, která vás formovala. <link>Přečtěte si o éterické rekonstrukci</link>.",
+        "href": "/etheric-reconstruction"
+      }
+    ],
+    "relatedHeading": "Hluboké léčení pro vaše éterické tělo",
+    "relatedBody": "Éterická rekonstrukce odstraňuje z vašeho éterického pole husté, hluboko usazené energie a obnovuje soulad s vaším božským plánem.",
+    "relatedCta": "Prozkoumat éterickou rekonstrukci",
+    "bookingTitle": "Pusťte starý příběh",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o éterickou rekonstrukci nebeských kódů."
+  },
+  "FireSoulInfusion": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Vlévání ohně duše",
+    "heroSubtitle": "Probuďte v sobě posvátný oheň",
+    "heroTagline": "Znovu kalibruje vaši magnetickou strukturu a aktivuje ve vašem těle oheň duše",
+    "introLead": "Vzpomínáte si na oheň, který jste kdysi cítili k životu?",
+    "introBody1": "Vaše duše má svůj oheň: vášeň, hnací sílu a životní energii, které vás vedou k tomu, co jste sem přišli vykonat. Stres a tempo moderního života mohou vaše magnetické pole vyčerpat a ten oheň pak pohasíná.",
+    "introBody2": "Vlévání ohně duše vplétá do vašeho energetického pole symboly posvátné geometrie. Znovu kalibruje celou magnetickou strukturu vaší bytosti a aktivuje oheň duše, ducha v těle. Védy to popisují jako první krok probuzení kundalini; zde k němu dochází bezpečně a vyváženě. Je to jedno z léčení série Sacred Geometry Modern Mystery School.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Cítíte se bez jiskry, bez své obvyklé vášně",
+      "Máte málo energie a elánu",
+      "Ztratili jste kontakt s tím, co od života chcete",
+      "Vaše tvořivost se zdá zablokovaná"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, co se ve vašem životě děje a v čem byste uvítali podporu."
+      },
+      {
+        "label": "Vlévání:",
+        "text": "Vy se uvolníte, zatímco praktik vplétá do vašeho energetického pole symboly posvátné geometrie."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Vášeň, vitalita a hnací síla",
+      "Rozpomenutí na to, kým jsou a proč jsou tady",
+      "Jasnost mysli",
+      "Tvůrčí energie znovu proudí",
+      "Hlubší spojení s vlastním posláním",
+      "Tělo se vrací do rovnováhy"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Doporučujeme nejprve Life Activation: připraví vaši energii na oheň tohoto vlévání. <link>Přečtěte si o Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Je to probuzení kundalini?",
+        "a": "Tradice ho nazývá prvním krokem probuzení kundalini. Působí jemně, skrze posvátnou geometrii, aby se oheň probudil vyváženě."
+      }
+    ],
+    "relatedHeading": "Dejte svému ohni směr",
+    "relatedBody": "Vlévání jádra vůle posiluje vaši vůli a slaďuje ji s Božskou vůlí, abyste měli soustředění a jasný směr.",
+    "relatedCta": "Prozkoumat vlévání jádra vůle",
+    "bookingTitle": "Znovu rozdmýchejte svůj oheň",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o vlévání ohně duše."
+  },
+  "CoreWillInfusion": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Vlévání jádra vůle",
+    "heroSubtitle": "Slaďte svou vůli s Božskou vůlí",
+    "heroTagline": "Čistí vaši éterickou strukturu a posiluje vaši vůli, abyste měli soustředění, směr a sílu žít své poslání",
+    "introLead": "Stalo se vám někdy, že jste na něčem usilovně pracovali, a ono se to ne a ne pohnout?",
+    "introBody1": "Vaše vůle je vnitřním sídlem vaší síly a směřování. Tradice hovoří o třech vůlích: Boží vůli, vůli vesmíru a přírody a vůli člověka. Když je vaše vlastní vůle slabá nebo v nesouladu s těmi vyššími, může vám život připadat jako tlačení do zdi.",
+    "introBody2": "Vlévání jádra vůle aktivuje ve vaší energetické struktuře posvátné symboly. Čistí vaši éterickou strukturu a posiluje a slaďuje vaši osobní vůli s Božskou vůlí, vaší Vyšší vůlí. Věci, které se zdály nehybné, se často dají do pohybu. Je to jedno z léčení série Sacred Geometry Modern Mystery School.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Usilovně pracujete na něčem, co se zdá nehybné",
+      "Těžko si udržíte soustředění a disciplínu",
+      "Nejste si jistí, kterým směrem jít",
+      "Chcete žít své poslání, ale něco vás drží zpátky"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, co se ve vašem životě děje a v čem byste uvítali podporu."
+      },
+      {
+        "label": "Vlévání:",
+        "text": "Vy se uvolníte, zatímco praktik aktivuje ve vaší energetické struktuře posvátné symboly."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Jasno ve vlastním životě a poslání",
+      "Hnací síla směrem k vlastnímu poslání",
+      "Soustředění a disciplína",
+      "Odolnost",
+      "Překážky se rozplývají a věci se hýbou s menší námahou",
+      "Bližší spojení s vlastním duchovním já"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Doporučujeme nejprve Life Activation. <link>Přečtěte si o Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Jak často ho mohu přijmout?",
+        "a": "Mnoho lidí ho přijímá jednou ročně, aby jejich vůle zůstala sladěná a silná."
+      },
+      {
+        "q": "Jak souvisí s vléváním ohně duše?",
+        "a": "Obě patří k léčením série Sacred Geometry. Vlévání ohně duše probouzí vaši vášeň a životní sílu; vlévání jádra vůle posiluje a slaďuje vaši vůli. <link>Přečtěte si o vlévání ohně duše</link>.",
+        "href": "/fire-soul-infusion"
+      }
+    ],
+    "relatedHeading": "Probuďte v sobě oheň",
+    "relatedBody": "Vlévání ohně duše znovu kalibruje vaši magnetickou strukturu a probouzí oheň vaší duše.",
+    "relatedCta": "Prozkoumat vlévání ohně duše",
+    "bookingTitle": "Posilte svou vůli",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o vlévání jádra vůle."
+  },
+  "CompassionSummoning": {
+    "heroEyebrow": "Archandělské léčení",
+    "heroTitle": "Vzývání soucitu",
+    "heroSubtitle": "Přijměte soucitnou energii archandělů",
+    "heroTagline": "Archandělé jsou vzýváni pro vás, aby vám přinesli útěchu, ochranu, jasnost a vedení",
+    "introLead": "Nemusíte všechno nést sami.",
+    "introBody1": "Při vzývání soucitu, nazývaném také archandělské vzývání soucitu, praktik pro vás vzývá archanděly. Zakusíte jejich soucitnou energii a spojíte se s konkrétním archandělem, který vám dá vedení a posílí vás.",
+    "introBody2": "Lidé k němu přicházejí pro útěchu a ochranu, pro směr a jasnost v těžké situaci i pro inspiraci, léčení a duchovní růst. Je to jedno z léčení, která v Modern Mystery School poskytují průvodci.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Jste v těžké situaci a nevidíte jasně",
+      "Cítíte se zaseknutí a potřebujete směr",
+      "Toužíte po útěše a ochraně",
+      "Chcete duchovně růst"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, co se ve vašem životě děje a v čem byste uvítali vedení."
+      },
+      {
+        "label": "Vzývání:",
+        "text": "Praktik vzývá archanděly a vy se jen uvolníte a přijímáte jejich soucitnou energii."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Zklidnění a útěcha",
+      "Pocit ochrany",
+      "Jasnost v těžké situaci",
+      "Pocit, že už nestojí na místě a jsou vedeni",
+      "Inspirace"
+    ],
+    "relatedHeading": "Ochrana archanděla Michaela",
+    "relatedBody": "Mezihvězdná trubice světla archanděla Michaela vás obklopí štítem božského světla.",
+    "relatedCta": "Prozkoumat trubici světla",
+    "bookingTitle": "Přijměte jejich soucit",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o vzývání soucitu."
+  },
+  "StarseedHealing": {
+    "heroEyebrow": "Léčebná modalita krále Šalomouna",
+    "heroTitle": "Léčení hvězdného semene",
+    "heroSubtitle": "Očista celého vašeho energetického systému",
+    "heroTagline": "Vyčistí zahlcenou mysl, znovu naladí vibraci vašeho těla a propojí vás se vším živým",
+    "introLead": "Když máte plnou hlavu a vaše energie je roztříštěná, všechno je těžší.",
+    "introBody1": "Léčení hvězdného semene je energetická očista celého vašeho systému: vašich čaker i energetických vrstev na vašem těle. Shromažďuje vibrace, které by se jinak ztratily, a přesměrovává je; tím znovu naladí vibraci vašeho těla a vyčistí zahlcenou mysl.",
+    "introBody2": "Praktik pracuje s krystaly, zvonky a ladičkou a pomocí zvuku a vibrací z vás vytahuje těžkou energii. Zároveň jste galaktickým způsobem propojeni se vším živým. Je to první sezení léčebné modality krále Šalomouna a můžete ho přijmout i samostatně.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Mysl máte zahlcenou a neklidnou",
+      "Citově se necítíte ve svém středu",
+      "Procházíte zármutkem nebo bolestným koncem",
+      "Udělali jste hlubokou emoční práci a potřebujete, aby se vše usadilo"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, co se ve vašem životě děje a v čem byste uvítali podporu."
+      },
+      {
+        "label": "Léčení:",
+        "text": "Vy se uvolníte, zatímco praktik pracuje s krystaly, zvonky a ladičkou. Mnoho lidí přitom usne."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Pocit klidu, odpočinku a lehkosti",
+      "Tišší mysl",
+      "Pocit většího citového ukotvení",
+      "Pocit míru a sounáležitosti"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ne. Je otevřené všem."
+      },
+      {
+        "q": "Je součástí série?",
+        "a": "Je to jedno z prvních sezení léčebné modality krále Šalomouna, léčebného systému, který pochází z linie krále Šalomouna. Můžete ho přijmout i samostatně."
+      }
+    ],
+    "relatedHeading": "Probuďte celý svůj systém čaker",
+    "relatedBody": "Sjednocené léčení čaker, další sezení léčebné modality krále Šalomouna, sjednocuje a probouzí systém čaker o 2 418 bodech.",
+    "relatedCta": "Prozkoumat sjednocené léčení čaker",
+    "bookingTitle": "Očista a nové propojení",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o léčení hvězdného semene."
+  },
+  "UnifiedChakraHealing": {
+    "heroEyebrow": "Léčebná modalita krále Šalomouna",
+    "heroTitle": "Sjednocené léčení čaker",
+    "heroSubtitle": "Probuďte celý svůj systém čaker",
+    "heroTagline": "Sjednocuje a probouzí systém čaker o 2 418 bodech, daleko za hranicí sedmi, které znáte",
+    "introLead": "Znáte sedm hlavních čaker. Tradice učí, že jich je 2 418.",
+    "introBody1": "Sedm čaker, které zná většina lidí, jsou ty hlavní, podél středu těla. Kolem nich žije mnohem větší systém 2 418 čaker. Když jsou probuzené a spolupracují, vaše energie proudí volněji a probouzí se i váš nervový systém.",
+    "introBody2": "Sjednocené léčení čaker, nazývané také sjednocené probuzení čaker, sjednocuje a probouzí celý tento systém čaker a propojuje energie vašeho světelného těla s vaším fyzickým tělem. Je to jedno z prvních sezení léčebné modality krále Šalomouna a můžete ho přijmout i samostatně. Obzvlášť prospěšné je po Life Activation.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Cítíte se citově zaseknutí nebo bez jiskry",
+      "Staré emoce se stále vracejí",
+      "Chtěli byste být duchovně citlivější",
+      "Máte za sebou Life Activation a chcete jít dál"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Začneme rozhovorem:",
+        "text": "Řeknete nám, co se ve vašem životě děje a v čem byste uvítali podporu."
+      },
+      {
+        "label": "Probuzení:",
+        "text": "Vy se uvolníte, zatímco praktik probouzí a sjednocuje váš systém čaker."
+      },
+      {
+        "label": "Chvíle ticha:",
+        "text": "Zakončíme v tichu, abyste mohli cítit ten rozdíl."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Větší duchovní citlivost",
+      "Uvolnění starých, zaseknutých emocí",
+      "Klidnější emoce",
+      "Více energie a radosti v každodenním životě"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ne, je otevřené všem. Obzvlášť prospěšné je po Life Activation, která na něj vaši energii připraví. <link>Přečtěte si o Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Je součástí série?",
+        "a": "Je to jedno z prvních sezení léčebné modality krále Šalomouna, léčebného systému, který pochází z linie krále Šalomouna. Můžete ho přijmout i samostatně."
+      }
+    ],
+    "relatedHeading": "Očista celého vašeho energetického systému",
+    "relatedBody": "Léčení hvězdného semene, první sezení léčebné modality krále Šalomouna, vyčistí zahlcenou mysl a znovu naladí vaši vibraci.",
+    "relatedCta": "Prozkoumat léčení hvězdného semene",
+    "bookingTitle": "Sjednoťte svou energii",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "inquiry": "Dobrý den, mám zájem o sjednocené léčení čaker."
+  },
+  "KshmAuricRegion": {
+    "heroEyebrow": "Léčebná modalita krále Šalomouna",
+    "heroTitle": "KSHM — aurická oblast",
+    "heroSubtitle": "Cesta očisty vaší aury v deseti sezeních",
+    "heroTagline": "Hluboká očista a obnova vaší aury: vašeho energetického štítu a místa, kde se setkáváte se světem",
+    "introLead": "Vaše aura je váš energetický štít a místo, kde se setkáváte se světem.",
+    "introBody1": "Během života se v ní hromadí masky podmíněnosti a vzorce předávané ve vaší rodině. Aurická oblast léčebné modality krále Šalomouna je posvátný proces deseti sezení, věnovaný hluboké očistě a obnově vaší aury.",
+    "introBody2": "Pracuje se sedmi planetárními archanděly, Michaelem, Gabrielem, Rafaelem, Hanielem, Zadkielem, Samaelem a Cassielem, spolu s Ježíšem Kristem. Do vaší aury se intonují posvátná slova a svaté pečeti ji otevírají, čistí, vyvažují a zapečeťují; očišťují duchovní, astrální i fyzickou rovinu a vyvažují tři pilíře stromu života. Jak masky podmíněnosti opadávají, může prozářit vaše autentické já.",
+    "signsHeading": "Známky, že to můžete potřebovat",
+    "signs": [
+      "Máte pocit, že žijete za maskami, a toužíte najít své pravé já",
+      "Všímáte si, že se ve vašem životě opakují rodinné vzorce",
+      "Přáli byste si jasnější mysl a silnější intuici",
+      "Jste připraveni na hlubokou cestu léčení, ke které se zavážete"
+    ],
+    "protocolHeading": "Jak série probíhá",
+    "protocol": [
+      {
+        "label": "Nejdřív konzultace:",
+        "text": "Prvním sezením je konzultace, při níž se seznámíme a připravíme cestu, která vás čeká."
+      },
+      {
+        "label": "Devět léčebných sezení:",
+        "text": "V chrámovém prostoru, plně oblečení, přijmete devět léčení s archanděly, posvátnými tóny a svatými pečetěmi."
+      },
+      {
+        "label": "Váš rytmus:",
+        "text": "Sezení probíhají s odstupem jednoho až dvou týdnů. Jakmile začnete, série se dokončuje jako celek."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Masky podmíněnosti opadávají",
+      "Uvolnění karmických vzorců a vzorců předků",
+      "Jasnější mysl a klidnější myšlenky",
+      "Silnější intuice",
+      "Snazší spojení s andělskými silami",
+      "Vnitřní síla"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ano. Než začnete, doporučujeme Life Activation a Empower Thyself. Zeptejte se nás a pomůžeme vám najít správnou cestu."
+      },
+      {
+        "q": "Mohu si objednat jen jedno sezení?",
+        "a": "Ne. Aurická oblast je jeden ucelený proces deseti sezení, a jakmile začnete, dokončuje se jako celek."
+      },
+      {
+        "q": "Co je léčebná modalita krále Šalomouna?",
+        "a": "Léčebný systém z linie krále Šalomouna, kterým se prochází po oblastech: fyzická oblast, oblast mysli a aurická oblast. Každá oblast je sérií sezení."
+      }
+    ],
+    "relatedHeading": "Začněte jedním sezením",
+    "relatedBody": "Léčení hvězdného semene, první sezení léčebné modality krále Šalomouna, můžete přijmout i samostatně.",
+    "relatedCta": "Prozkoumat léčení hvězdného semene",
+    "bookingTitle": "Vydejte se na cestu",
+    "bookingNote": "Deset individuálních sezení, osobně v Praze (Vršovice). Napište nám a domluvíme si první rozhovor.",
+    "inquiry": "Dobrý den, mám zájem o aurickou oblast KSHM."
   }
 }

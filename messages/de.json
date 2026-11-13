@@ -817,9 +817,9 @@
     "kshmGroupTitle": "King-Salomon-Heilmethoden-Sitzungen",
     "kshmGroupBlurb": "Kernheilungen der Methode. Die Beherrschung all ihrer Zweige erfordert viele Jahre engagierter Ausbildung.",
     "kshmSessions": [
-      { "name": "Sternenkind-Heilung", "description": "Verbindet dich neu mit deinem kosmischen Ursprung und deiner Sternenlinie." },
-      { "name": "Vereinte Chakra-Heilung", "description": "Verwebt die sieben Zentren zu einem kohärenten, vereinten Feld." },
-      { "name": "KSHM — Aura-Region", "tag": "Spezial", "description": "Fokussierte King-Salomon-Arbeit im Aurafeld, die den Bereich, der dich umgibt und schützt, reinigt und wiederaufbaut." }
+      { "name": "Sternenkind-Heilung", "description": "Eine energetische Reinigung deines gesamten Systems mit Kristallen und Klang, die deinen Geist von Ballast befreit und dich mit allem Lebendigen verbindet." },
+      { "name": "Vereinte Chakra-Heilung", "description": "Vereint und erweckt ein Chakrensystem aus 2.418 Punkten, weit über die sieben Hauptchakren hinaus." },
+      { "name": "KSHM — Aura-Region", "tag": "Spezial", "description": "Eine Serie aus zehn Sitzungen zur tiefen Reinigung und Wiederherstellung deiner Aura, deines energetischen Schutzschilds und des Ortes, an dem du der Welt begegnest." }
     ],
     "specialtyGroupTitle": "Spezialsitzungen",
     "specialtyGroupBlurb": "Tiefere, spezialisierte Arbeit der Tradition — jede eins zu eins angeboten.",
@@ -830,8 +830,8 @@
       { "name": "Erzengel Michael Interstellarer Lichtstrahl", "description": "Ruft Erzengel Michael an, dich in eine Säule schützenden Lichts zu hüllen und dein Energiefeld zu reinigen und abzuschirmen." },
       { "name": "Hermetischer Neuausgleich", "tag": "Spezial", "description": "Richtet Körper, Geist und Seele durch die hermetischen Gesetze neu aus und stellt ein tiefes inneres Gleichgewicht wieder her, wo das Leben dich aus der Balance gebracht hat." },
       { "name": "Ätherische Rekonstruktion", "tag": "Spezial", "description": "Baut den ätherischen Körper in all seinen Schichten wieder auf und repariert ihn, heilt energetische Schäden, die über lange Zeiträume gehalten wurden." },
-      { "name": "Himmlische-Code-Ätherrekonstruktion", "tag": "Spezial", "description": "Stellt die ätherische Struktur durch himmlische geometrische Codes wieder her — eine tiefere Rekonstruktion des feinstofflichen Körpers." },
-      { "name": "Herbeirufung des Mitgefühls", "description": "Öffnet das Herz und ruft göttliches Mitgefühl herbei, um emotionale Wunden zu lindern und zu heilen." },
+      { "name": "Himmlische-Code-Ätherrekonstruktion", "tag": "Spezial", "description": "Klärt die Saat von Kernthemen und tiefe Muster aus der Region des Himmlischen Codes in deinem Ätherfeld." },
+      { "name": "Herbeirufung des Mitgefühls", "description": "Die Erzengel werden für dich herbeigerufen, für Trost, Schutz, Klarheit und Führung." },
       { "name": "Raum-Neuausrichtung", "description": "Richtet die Energie eines Hauses oder Raumes neu aus und harmonisiert sie, stellt heilige Ordnung und Fluss wieder her." },
       { "name": "Babysegnung", "description": "Ein heiliger Segen, um ein Neugeborenes willkommen zu heißen — ruft Schutz, Licht und einen gesegneten Anfang herbei." },
       { "name": "Chronos-Lesung", "description": "Eine Lesung, die mit den Energien der Zeit arbeitet, um Klarheit über deine Vergangenheit, Gegenwart und deinen Weg voraus zu bringen." }
@@ -3054,5 +3054,643 @@
     "bookingNote": "Die Galaktische Aktivierung wird von der Modern Mystery School UK abgehalten. Termine, Preise und Anmeldung findest du auf ihrer Website. Hast du vorher eine Frage? Schreib uns.",
     "bookLabel": "Termine & Anmeldung bei MMS UK",
     "inquiry": "Hallo, ich habe eine Frage zur Galaktischen Aktivierung."
+  },
+  "ArchangelMichaelTube": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Erzengel Michael Interstellarer Lichtstrahl",
+    "heroSubtitle": "Ein Schild aus göttlichem Licht um dich herum",
+    "heroTagline": "Bringt dich in die Lichtröhre von Erzengel Michael, um zu lösen, was auf dir lastet, und dich mit Schutz zu umgeben",
+    "introLead": "An manchen Tagen fühlt sich die Welt laut und schwer an, und es fällt nicht leicht, darin du selbst zu bleiben.",
+    "introBody1": "Erzengel Michael ist der große Beschützer unter den Erzengeln. In dieser Heilung wird zuerst Licht der heiligen Geometrie in deinen Astralkörper und deine sieben Chakren gebracht. Es aktiviert, was die Tradition den Buddhischen Körper nennt: den Teil von dir, der das Leben aus einer höheren Perspektive sieht.",
+    "introBody2": "Dann wirst du in die Interstellare Lichtröhre von Erzengel Michael gebracht, wo er dich mit Licht aus der Quelle durchflutet und heilt, was Heilung braucht. Die Sitzung hinterlässt ein schützendes Feld aus göttlichem Licht um dich herum, sodass Negativität von außen nicht mehr so leicht an dir haften bleibt. Sie gehört zu den Heilungen der Sacred-Geometry-Reihe der Modern Mystery School.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Die Energie anderer Menschen oder schwere Orte nehmen dich schnell mit",
+      "Du trägst alte emotionale Energie in dir, die du gern loslassen möchtest",
+      "Du fühlst dich matt, ohne deine gewohnte Freude und Leidenschaft",
+      "Du sehnst dich nach Klarheit und einem höheren Blick auf dein Leben",
+      "Du möchtest dich einfach beschützt fühlen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, was gerade in deinem Leben geschieht und wobei du dir Unterstützung wünschst."
+      },
+      {
+        "label": "Licht in deinen Chakren:",
+        "text": "Licht der heiligen Geometrie wird in deinen Astralkörper und deine sieben Chakren gebracht und aktiviert deinen Buddhischen Körper."
+      },
+      {
+        "label": "Die Lichtröhre:",
+        "text": "Du wirst in die Interstellare Lichtröhre von Erzengel Michael gebracht, wo er dich mit Licht aus der Quelle durchflutet."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Sich beschützt fühlen, wie von einem Schild aus Licht umgeben",
+      "Klarheit und eine höhere Perspektive auf das eigene Leben",
+      "Schwere Energien und alte Gefühle lösen sich",
+      "Vitalität, Leidenschaft und Freude kehren zurück"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Ja, zuerst eine Life Activation. Sie bereitet deine Energie darauf vor, das Licht dieser Heilung zu halten. <link>Mehr über die Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Wie oft kann ich sie empfangen?",
+        "a": "Viele empfangen sie ein- oder zweimal im Jahr, um ihren Schild aus Licht stark zu halten."
+      }
+    ],
+    "relatedHeading": "Erwecke das Feuer in dir",
+    "relatedBody": "Die Feuerseelen-Infusion, eine weitere Heilung der Sacred-Geometry-Reihe, kalibriert deine magnetische Struktur neu und erweckt das Feuer deiner Seele.",
+    "relatedCta": "Die Feuerseelen-Infusion entdecken",
+    "bookingTitle": "Tritt ins Licht",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Heilung „Erzengel Michael Interstellarer Lichtstrahl“."
+  },
+  "HermeticRebalancing": {
+    "heroEyebrow": "Hermetische Heilung",
+    "heroTitle": "Hermetischer Neuausgleich",
+    "heroSubtitle": "Ein jährlicher Neustart für Körper, Geist und Seele",
+    "heroTagline": "Drei Sitzungen, getragen von der Energie des Hermes Trismegistos, um zu lösen, was dich zurückhält, und dich wieder in Einklang zu bringen",
+    "introLead": "Im Laufe des Lebens sammelt sich Ballast an. Einmal im Jahr tut es gut, ihn zu klären.",
+    "introBody1": "Hermes Trismegistos, der dreimal große Meister der hermetischen Tradition, lehrte die sieben hermetischen Prinzipien: die Gesetze, nach denen sich alles in der Schöpfung bewegt. Der Hermetische Neuausgleich arbeitet mit diesen Prinzipien und mit den sieben hermetischen Strahlen, um den Ballast in deinem Geist und deinem Energiefeld zu klären, der dein Vorankommen im Leben bremst.",
+    "introBody2": "Durch heiliges Ritual und gesprochene Anrufung löst jede Sitzung Blockaden, öffnet deine Energiekanäle und bringt Körper, Geist und Seele wieder in Einklang. Er wird als Serie von drei Sitzungen im Abstand von ein bis zwei Wochen gegeben und einmal im Jahr empfangen: eine jährliche Feinabstimmung für deinen Geist und deine Energie.",
+    "signsHeading": "Anzeichen, dass du ihn brauchen könntest",
+    "signs": [
+      "Das Leben fühlt sich festgefahren an, so sehr du dich auch bemühst",
+      "Deine Gedanken sind durcheinander, und Entscheidungen fallen dir schwer",
+      "Alte Gefühle kommen immer wieder hoch",
+      "Du fühlst dich nicht im Einklang mit dir selbst",
+      "Du wünschst dir einen frischen Start in das kommende Jahr"
+    ],
+    "protocolHeading": "Was in den Sitzungen geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, was gerade in deinem Leben geschieht und was du klären möchtest."
+      },
+      {
+        "label": "Der Neuausgleich:",
+        "text": "Durch heiliges Ritual und die Anrufung des Hermes Trismegistos löst der Praktizierende Blockaden und richtet dein Energiesystem aus. Du entspannst dich einfach und empfängst."
+      },
+      {
+        "label": "Drei Sitzungen:",
+        "text": "Die Serie erstreckt sich über einige Wochen, mit ein bis zwei Wochen zwischen den Sitzungen."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Ein klarerer Geist und leichtere Entscheidungen",
+      "Körper, Geist und Seele fühlen sich im Einklang an",
+      "Emotionale Befreiung und ein leichteres Herz",
+      "Eine stärkere Intuition",
+      "Die Kreativität fließt wieder",
+      "Sich neu ausgerichtet und bereit fühlen, weiterzugehen"
+    ],
+    "faq": [
+      {
+        "q": "Warum drei Sitzungen?",
+        "a": "Der Neuausgleich wird als Serie gegeben: Jede Sitzung baut auf der vorherigen auf, und zusammen vollenden sie die Arbeit."
+      },
+      {
+        "q": "Wie oft kann ich ihn empfangen?",
+        "a": "Einmal im Jahr, als jährliche Feinabstimmung für deinen Geist und deine Energie."
+      },
+      {
+        "q": "Ist es dasselbe wie die Hermetische Seelenrückholung?",
+        "a": "Nein. Die Hermetische Seelenrückholung holt verlorene Teile von dir zurück. Der Hermetische Neuausgleich reinigt dein Energiesystem und richtet es neu aus. <link>Mehr über die Hermetische Seelenrückholung</link>.",
+        "href": "/soul-retrieval"
+      },
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Wir empfehlen zuerst eine Life Activation. Wenn du noch keine hattest, frag uns, und wir begleiten dich."
+      }
+    ],
+    "relatedHeading": "Hol die verlorenen Teile von dir nach Hause",
+    "relatedBody": "Die Hermetische Seelenrückholung gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit.",
+    "relatedCta": "Die Hermetische Seelenrückholung entdecken",
+    "bookingTitle": "Beginne deinen Neuausgleich",
+    "bookingNote": "Drei Einzelsitzungen, persönlich in Prag (Vršovice). Schreib uns, und wir planen die Termine gemeinsam mit dir.",
+    "inquiry": "Hallo, ich interessiere mich für den Hermetischen Neuausgleich."
+  },
+  "BabyBlessing": {
+    "heroEyebrow": "Eine heilige Zeremonie",
+    "heroTitle": "Babysegnung",
+    "heroSubtitle": "Ein lebenslanger Segen für eine neue Seele",
+    "heroTagline": "Eine heilige Zeremonie, die dein Kind mit Schutz und Licht für sein ganzes Leben willkommen heißt",
+    "introLead": "Eine neue Seele auf der Welt willkommen zu heißen, gehört zu den heiligsten Momenten des Lebens.",
+    "introBody1": "Die Babysegnung ist eine Zeremonie, die in der Mystery School seit Tausenden von Jahren vollzogen wird, und eine der am sorgfältigsten gehüteten Lehren der Linie. Sie wird oft die kraftvollste heilige Zeremonie im Leben eines Menschen genannt.",
+    "introBody2": "Die Segnung schafft eine Schutzblase, die dein Kind sein ganzes Leben lang begleitet, damit es die negative Energie um sich herum nicht aufnimmt. Sie bereitet dein Kind auf das Leben in der physischen Welt vor und unterstützt es darin, im Einklang mit seiner eigenen göttlichen Bestimmung zu leben, frei von den Prägungen des Ahnenkarmas. Sie wird nur von Ritual Masters der Modern Mystery School gegeben, die sie durch eine besondere Weitergabe empfangen haben.",
+    "signsHeading": "Der richtige Zeitpunkt",
+    "signs": [
+      "Idealerweise während oder kurz nach der Geburt, bevor die Welt ihre ersten Prägungen hinterlässt",
+      "Die meisten Familien buchen sie für Babys bis zu zwei Jahren; auch kleine Kinder bis etwa fünf Jahre können davon profitieren",
+      "Wenn möglich, melde dich schon vor dem Geburtstermin, damit die Segnung rechtzeitig geplant werden kann"
+    ],
+    "protocolHeading": "Wie sie abläuft",
+    "protocol": [
+      {
+        "label": "Zuerst ein Gespräch:",
+        "text": "Wir treffen uns, sprechen über dein Kind und deine Familie und planen die Segnung gemeinsam."
+      },
+      {
+        "label": "Die Segnung:",
+        "text": "Ein Ritual Master vollzieht die heilige Zeremonie für dein Baby."
+      }
+    ],
+    "benefitsHeading": "Was die Segnung deinem Kind schenkt",
+    "benefits": [
+      "Eine Schutzblase, die es ein Leben lang begleitet",
+      "Vorbereitung auf das Leben in der physischen Welt",
+      "Unterstützung darin, im Einklang mit seiner eigenen göttlichen Bestimmung zu leben",
+      "Freiheit von den Prägungen des Ahnenkarmas"
+    ],
+    "faq": [
+      {
+        "q": "Bis zu welchem Alter kann ein Kind sie empfangen?",
+        "a": "Der ideale Zeitpunkt ist während oder kurz nach der Geburt. Die meisten Familien buchen sie für Babys bis zu zwei Jahren, und auch kleine Kinder bis etwa fünf Jahre können davon profitieren."
+      },
+      {
+        "q": "Wird sie nur einmal gegeben?",
+        "a": "Ja. Es ist eine einmalige Segnung, die dein Kind sein ganzes Leben lang begleitet."
+      },
+      {
+        "q": "Wer führt sie durch?",
+        "a": "Nur Ritual Masters, die die Babysegnung durch eine besondere Weitergabe in der Modern Mystery School empfangen haben."
+      }
+    ],
+    "relatedHeading": "Ein Segen auch für die Eltern",
+    "relatedBody": "Die Life Activation erweckt deinen eigenen göttlichen Bauplan: die Grundlage der Heilarbeit in unserer Linie.",
+    "relatedCta": "Die Life Activation entdecken",
+    "bookingTitle": "Segne dein Kind",
+    "bookingNote": "Persönlich in Prag. Schreib uns, am besten schon vor dem Geburtstermin, und wir planen die Segnung gemeinsam.",
+    "inquiry": "Hallo, ich interessiere mich für eine Babysegnung."
+  },
+  "EthericReconstruction": {
+    "heroEyebrow": "Energetische Chirurgie",
+    "heroTitle": "Ätherische Rekonstruktion",
+    "heroSubtitle": "Tiefe Heilung für deinen Ätherkörper",
+    "heroTagline": "Entfernt dichte, tief sitzende Energien aus deinem Ätherfeld und stellt die Harmonie mit deinem göttlichen Bauplan wieder her",
+    "introLead": "Manche Wunden liegen tiefer, als alltägliche Heilung reicht.",
+    "introBody1": "Dein Ätherfeld ist Teil deines feinstofflichen Energiesystems. Alte Traumata, Verletzungen, Krankheiten und lang gehaltene Muster können dort dichte, einschränkende Energie hinterlassen, die dich immer wieder zurückzieht, so viel du auch an dir arbeitest.",
+    "introBody2": "Die Ätherische Rekonstruktion ist eine spezialisierte Heilung aus der Linie von König Salomon und wird oft als energetische Chirurgie beschrieben. Mit Kristallstäben entfernt der Praktizierende diese Blockaden aus deinem aurischen und ätherischen System, einschließlich der magnetischen und astralen Schichten, und stellt die Harmonie mit den himmlischen Kräften und deinem ursprünglichen göttlichen Bauplan wieder her. Nur zertifizierte Praktizierende der Ätherischen Rekonstruktion der Modern Mystery School dürfen sie geben.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Du hast viel an dir gearbeitet, und doch kehrt ein altes Muster immer wieder zurück",
+      "Du erholst dich von einer Krankheit, einer Verletzung oder einer schweren Zeit",
+      "Du hast eine große Veränderung im Leben erlebt, etwa die Geburt eines Kindes",
+      "Du fühlst dich bereit, etwas Tiefes loszulassen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Zuerst ein Beratungsgespräch:",
+        "text": "Wir sprechen darüber, was du gerade durchmachst, und stellen sicher, dass dies jetzt die richtige Heilung für dich ist."
+      },
+      {
+        "label": "Die Rekonstruktion:",
+        "text": "Du entspannst dich, während der Praktizierende mit Kristallstäben in deinem Energiefeld arbeitet und dichte Energie und Blockaden entfernt."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Erleichterung, oft sofort spürbar",
+      "Alte Muster und Traumata lösen sich",
+      "Sich leichter fühlen, in Körper, Geist und Gefühlen",
+      "Unterstützung bei der Erholung nach einer schweren Zeit"
+    ],
+    "afterHeading": "Nach der Sitzung",
+    "after": [
+      "Gönn dir Zeit, dich auszuruhen und die Heilung wirken zu lassen",
+      "Trink viel Wasser",
+      "Achte in den nächsten Wochen darauf, wie alte Muster ihren Griff lockern"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Ja. Eine Life Activation bereitet deine Energie auf diese tiefere Arbeit vor. Je nachdem, was du gerade durchmachst, schlagen wir dir vorher vielleicht auch andere Heilungen vor. <link>Mehr über die Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Wie viele Sitzungen brauche ich?",
+        "a": "Oft reicht eine Sitzung, um den Unterschied zu spüren. Manche wählen eine Serie von drei Sitzungen, um tiefer zu gehen. Wir sprechen gemeinsam darüber, was zu dir passt."
+      },
+      {
+        "q": "Worin unterscheidet sie sich von der Himmlische-Code-Ätherrekonstruktion?",
+        "a": "Die Himmlische-Code-Ätherrekonstruktion ist die nächste Stufe der Ätherischen Rekonstruktion. Sie arbeitet in einer bestimmten Region des Ätherfelds, in der die Kernthemen aus deinen frühen Jahren gespeichert sind. <link>Mehr über die Himmlische-Code-Ätherrekonstruktion</link>.",
+        "href": "/celestial-code-etheric-reconstruction"
+      }
+    ],
+    "relatedHeading": "Löse die Saat deiner Kernthemen",
+    "relatedBody": "Die Himmlische-Code-Ätherrekonstruktion klärt die Kernthemen und tiefen Muster, die dich an die Vergangenheit binden.",
+    "relatedCta": "Die Himmlische-Code-Ätherrekonstruktion entdecken",
+    "bookingTitle": "Beginne mit einem Beratungsgespräch",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Ätherische Rekonstruktion."
+  },
+  "CelestialCode": {
+    "heroEyebrow": "Ätherische Rekonstruktion",
+    "heroTitle": "Himmlische-Code-Ätherrekonstruktion",
+    "heroSubtitle": "Löse die Saat deiner Kernthemen",
+    "heroTagline": "Klärt die Kernthemen und tiefen Muster, die dich an die Vergangenheit binden, aus der Region des Himmlischen Codes in deinem Ätherfeld",
+    "introLead": "Erlebst du immer wieder dieselbe Geschichte, obwohl du sie längst verstanden hast?",
+    "introBody1": "Viele unserer Kernthemen entstehen in unseren frühen Jahren. Selbst wenn wir sie aufgearbeitet haben, kann ihre Saat in unserem Energiefeld bleiben und immer wieder ausgelöst werden. Die Tradition lehrt, dass es rund sieben Jahre dauern kann, bis ein solcher Rest von selbst verblasst.",
+    "introBody2": "Die Himmlische-Code-Ätherrekonstruktion ist die zweite Stufe der Ätherischen Rekonstruktion. Sie arbeitet in der Region des Himmlischen Codes in deinem Ätherfeld, wo Kernthemen, tief sitzende Muster und energetische Anker gespeichert sind. Mit Kristallstäben entfernt der Praktizierende die Saat eines Kernthemas, an dem du bereits gearbeitet hast, und stellt dann mit heiliger Geometrie das Gleichgewicht in deinem Ätherkörper wieder her. Sie ist außerdem die abschließende Sitzung der King-Salomon-Heilmethode.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Dieselbe Geschichte wiederholt sich immer wieder in deinen Beziehungen oder bei der Arbeit",
+      "Du verstehst, woher ein Thema kommt, und doch wird es immer noch ausgelöst",
+      "Kurz bevor sich etwas gut entwickelt, hältst du dich immer wieder selbst zurück",
+      "Du hast tief an dir gearbeitet und fühlst dich bereit, es endgültig loszulassen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Zuerst ein Beratungsgespräch:",
+        "text": "Wir sprechen über das Kernthema, an dem du arbeitest, und darüber, ob du bereit bist, es loszulassen."
+      },
+      {
+        "label": "Die Klärung:",
+        "text": "Mit Kristallstäben entfernt der Praktizierende die Saat des Kernthemas aus der Region des Himmlischen Codes in deinem Ätherfeld."
+      },
+      {
+        "label": "Das Gleichgewicht wiederherstellen:",
+        "text": "Heilige Geometrie stellt das Gleichgewicht in deinem Ätherkörper wieder her."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Alte Muster und Geschichten verlieren ihren Griff",
+      "Geistige Klarheit",
+      "Die Freiheit, auf neue Weise zu reagieren",
+      "Leichtere, offenere Beziehungen"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Ja. Zuerst eine Life Activation, und sie wirkt am besten, wenn du schon wirklich an dem Thema gearbeitet hast. Darüber sprechen wir im Beratungsgespräch. <link>Mehr über die Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Wie viele Sitzungen brauche ich?",
+        "a": "Das hängt vom Thema ab. Manche Kernthemen brauchen mehr als eine Sitzung; weitere Sitzungen finden im Abstand von etwa drei Monaten statt."
+      },
+      {
+        "q": "Worin unterscheidet sie sich von der Ätherischen Rekonstruktion?",
+        "a": "Die Ätherische Rekonstruktion klärt dichte Energie und Blockaden in deinem gesamten Ätherfeld. Die Himmlische-Code-Ätherrekonstruktion ist die nächste Stufe: Sie arbeitet in einer bestimmten Region, in der die Kernthemen aus deinen prägenden Jahren gespeichert sind. <link>Mehr über die Ätherische Rekonstruktion</link>.",
+        "href": "/etheric-reconstruction"
+      }
+    ],
+    "relatedHeading": "Tiefe Heilung für deinen Ätherkörper",
+    "relatedBody": "Die Ätherische Rekonstruktion entfernt dichte, tief sitzende Energien aus deinem Ätherfeld und stellt die Harmonie mit deinem göttlichen Bauplan wieder her.",
+    "relatedCta": "Die Ätherische Rekonstruktion entdecken",
+    "bookingTitle": "Lass die alte Geschichte los",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Himmlische-Code-Ätherrekonstruktion."
+  },
+  "FireSoulInfusion": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Feuerseelen-Infusion",
+    "heroSubtitle": "Erwecke das heilige Feuer in dir",
+    "heroTagline": "Kalibriert deine magnetische Struktur neu und aktiviert das Feuer deiner Seele in deinem Körper",
+    "introLead": "Erinnerst du dich an das Feuer, das du einst für das Leben gespürt hast?",
+    "introBody1": "Deine Seele hat ein Feuer: die Leidenschaft, den Antrieb und die Lebenskraft, die dich zu dem bewegen, wofür du hierhergekommen bist. Stress und das Tempo des modernen Lebens können dein Magnetfeld auslaugen, und dieses Feuer kann herunterbrennen.",
+    "introBody2": "Die Feuerseelen-Infusion webt heilige geometrische Symbole in dein Energiefeld. Sie kalibriert die gesamte magnetische Struktur deines Wesens neu und aktiviert die Feuerseele, den Geist im Körper. Die Veden beschreiben dies als den ersten Schritt der Kundalini-Erweckung, und hier geschieht er auf sichere, ausgewogene Weise. Sie gehört zu den Heilungen der Sacred-Geometry-Reihe der Modern Mystery School.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Du fühlst dich matt, ohne deine gewohnte Leidenschaft",
+      "Deine Energie und dein Antrieb sind gering",
+      "Du hast den Kontakt dazu verloren, was du dir vom Leben wünschst",
+      "Deine Kreativität fühlt sich blockiert an"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, was gerade in deinem Leben geschieht und wobei du dir Unterstützung wünschst."
+      },
+      {
+        "label": "Die Infusion:",
+        "text": "Du entspannst dich, während der Praktizierende heilige geometrische Symbole in dein Energiefeld webt."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Leidenschaft, Vitalität und Antrieb",
+      "Sich daran erinnern, wer man ist und warum man hier ist",
+      "Geistige Klarheit",
+      "Kreative Energie fließt",
+      "Eine tiefere Verbindung zur eigenen Bestimmung",
+      "Der Körper kommt wieder ins Gleichgewicht"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Wir empfehlen zuerst eine Life Activation: Sie bereitet deine Energie auf das Feuer dieser Infusion vor. <link>Mehr über die Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Ist es eine Kundalini-Erweckung?",
+        "a": "Die Tradition nennt sie den ersten Schritt der Kundalini-Erweckung. Sie wirkt sanft, durch heilige Geometrie, sodass das Feuer auf ausgewogene Weise erwacht."
+      }
+    ],
+    "relatedHeading": "Gib deinem Feuer eine Richtung",
+    "relatedBody": "Die Kernwillen-Infusion stärkt deinen Willen und richtet ihn auf den Willen des Göttlichen aus, für Fokus und Richtung.",
+    "relatedCta": "Die Kernwillen-Infusion entdecken",
+    "bookingTitle": "Entfache dein Feuer neu",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Feuerseelen-Infusion."
+  },
+  "CoreWillInfusion": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Kernwillen-Infusion",
+    "heroSubtitle": "Richte deinen Willen auf den Willen des Göttlichen aus",
+    "heroTagline": "Reinigt deine ätherische Struktur und stärkt deinen Willen, für Fokus, Richtung und die Kraft, deine Bestimmung zu leben",
+    "introLead": "Hast du schon einmal hart auf etwas hingearbeitet, das sich einfach nicht bewegen wollte?",
+    "introBody1": "Dein Wille ist der innere Sitz deiner Kraft und deiner Richtung. Die Tradition spricht von drei Willen: dem Willen Gottes, dem Willen des Universums und der Natur und dem Willen des Menschen. Wenn dein eigener Wille schwach ist oder nicht im Einklang mit den größeren Willen steht, kann sich das Leben anfühlen, als würdest du gegen eine Wand drücken.",
+    "introBody2": "Die Kernwillen-Infusion aktiviert heilige Symbole in deiner Energiestruktur. Sie reinigt deine ätherische Struktur, stärkt deinen persönlichen Willen und richtet ihn auf den Willen des Göttlichen aus, deinen Höheren Willen. Dinge, die unverrückbar schienen, kommen oft in Bewegung. Sie gehört zu den Heilungen der Sacred-Geometry-Reihe der Modern Mystery School.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Du arbeitest hart auf etwas hin, das sich nicht zu bewegen scheint",
+      "Es fällt dir schwer, fokussiert und diszipliniert zu bleiben",
+      "Du bist dir deiner Richtung nicht sicher",
+      "Du möchtest deine Bestimmung leben, aber etwas hält dich zurück"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, was gerade in deinem Leben geschieht und wobei du dir Unterstützung wünschst."
+      },
+      {
+        "label": "Die Infusion:",
+        "text": "Du entspannst dich, während der Praktizierende heilige Symbole in deiner Energiestruktur aktiviert."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Klarheit über das eigene Leben und die eigene Bestimmung",
+      "Antrieb, der eigenen Bestimmung zu folgen",
+      "Fokus und Disziplin",
+      "Widerstandskraft",
+      "Hindernisse lösen sich auf, und die Dinge bewegen sich mit weniger Mühe",
+      "Eine engere Verbindung zum eigenen spirituellen Selbst"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Wir empfehlen zuerst eine Life Activation. <link>Mehr über die Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Wie oft kann ich sie empfangen?",
+        "a": "Viele empfangen sie einmal im Jahr, um ihren Willen stark und ausgerichtet zu halten."
+      },
+      {
+        "q": "Wie hängt sie mit der Feuerseelen-Infusion zusammen?",
+        "a": "Beide sind Heilungen der Sacred-Geometry-Reihe. Die Feuerseelen-Infusion erweckt deine Leidenschaft und Lebenskraft; die Kernwillen-Infusion stärkt deinen Willen und richtet ihn aus. <link>Mehr über die Feuerseelen-Infusion</link>.",
+        "href": "/fire-soul-infusion"
+      }
+    ],
+    "relatedHeading": "Erwecke das Feuer in dir",
+    "relatedBody": "Die Feuerseelen-Infusion kalibriert deine magnetische Struktur neu und erweckt das Feuer deiner Seele.",
+    "relatedCta": "Die Feuerseelen-Infusion entdecken",
+    "bookingTitle": "Stärke deinen Willen",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Kernwillen-Infusion."
+  },
+  "CompassionSummoning": {
+    "heroEyebrow": "Heilung mit den Erzengeln",
+    "heroTitle": "Herbeirufung des Mitgefühls",
+    "heroSubtitle": "Empfange die mitfühlende Energie der Erzengel",
+    "heroTagline": "Die Erzengel werden für dich herbeigerufen, für Trost, Schutz, Klarheit und Führung",
+    "introLead": "Du musst nicht alles allein tragen.",
+    "introBody1": "Bei der Herbeirufung des Mitgefühls, auch Erzengel-Herbeirufung des Mitgefühls genannt, ruft der Praktizierende die Erzengel für dich herbei. Du erfährst ihre mitfühlende Energie und verbindest dich mit einem bestimmten Erzengel, der dir Führung und Kraft schenkt.",
+    "introBody2": "Menschen kommen zu dieser Heilung, wenn sie Trost und Schutz suchen, Richtung und Klarheit in einer schwierigen Situation oder Inspiration, Heilung und spirituelles Wachstum. Sie gehört zu den Guide-Heilungen der Modern Mystery School.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Du steckst in einer schwierigen Situation und siehst nicht klar",
+      "Du fühlst dich festgefahren und brauchst eine Richtung",
+      "Du sehnst dich nach Trost und Schutz",
+      "Du möchtest spirituell wachsen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, was gerade in deinem Leben geschieht und wobei du dir Führung wünschst."
+      },
+      {
+        "label": "Die Herbeirufung:",
+        "text": "Der Praktizierende ruft die Erzengel herbei, und du empfängst ihre mitfühlende Energie. Du entspannst dich einfach und empfängst."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Beruhigung und Trost",
+      "Sich beschützt fühlen",
+      "Klarheit in einer schwierigen Situation",
+      "Wieder in Bewegung kommen und sich geführt fühlen",
+      "Inspiration"
+    ],
+    "relatedHeading": "Schutz von Erzengel Michael",
+    "relatedBody": "Die Heilung „Erzengel Michael Interstellarer Lichtstrahl“ umgibt dich mit einem Schild aus göttlichem Licht.",
+    "relatedCta": "Den Interstellaren Lichtstrahl entdecken",
+    "bookingTitle": "Empfange ihr Mitgefühl",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Herbeirufung des Mitgefühls."
+  },
+  "StarseedHealing": {
+    "heroEyebrow": "King-Salomon-Heilmethode",
+    "heroTitle": "Sternenkind-Heilung",
+    "heroSubtitle": "Eine Reinigung für dein gesamtes Energiesystem",
+    "heroTagline": "Befreit deinen Geist von Ballast, bringt die Schwingung deines Körpers wieder in Einklang und verbindet dich mit allem Lebendigen",
+    "introLead": "Wenn dein Kopf voll ist und deine Energie zerstreut, fühlt sich alles schwerer an.",
+    "introBody1": "Die Sternenkind-Heilung ist eine energetische Reinigung deines gesamten Systems: deiner Chakren und der Energieschichten deines Körpers. Sie sammelt Schwingungen, die sonst verloren gingen, und lenkt sie um. So bringt sie die Schwingung deines Körpers wieder in Einklang und befreit deinen Geist von Ballast.",
+    "introBody2": "Der Praktizierende arbeitet mit Kristallen, Klangspielen und einer Stimmgabel und zieht mit Klang und Schwingung schwere Energie heraus. Dabei wirst du auf galaktische Weise mit allem Lebendigen verbunden. Sie ist die erste Sitzung der King-Salomon-Heilmethode, und du kannst sie auch einzeln empfangen.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Dein Kopf fühlt sich voll und unruhig an",
+      "Du fühlst dich emotional aus der Mitte",
+      "Du gehst durch Trauer oder einen schweren Abschied",
+      "Du hast tiefe emotionale Arbeit geleistet und möchtest zur Ruhe kommen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, was gerade in deinem Leben geschieht und wobei du dir Unterstützung wünschst."
+      },
+      {
+        "label": "Die Heilung:",
+        "text": "Du entspannst dich, während der Praktizierende mit Kristallen, Klangspielen und einer Stimmgabel arbeitet. Viele schlafen dabei ein."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Sich ruhig, erholt und leicht fühlen",
+      "Ein stillerer Geist",
+      "Sich emotional mehr in der Mitte fühlen",
+      "Ein Gefühl von Frieden und Zugehörigkeit"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Nein. Sie steht allen offen."
+      },
+      {
+        "q": "Ist sie Teil einer Serie?",
+        "a": "Sie gehört zu den ersten Sitzungen der King-Salomon-Heilmethode, eines Heilsystems aus der Linie von König Salomon. Du kannst sie auch einzeln empfangen."
+      }
+    ],
+    "relatedHeading": "Erwecke dein gesamtes Chakrensystem",
+    "relatedBody": "Die Vereinte Chakra-Heilung, die nächste Sitzung der King-Salomon-Heilmethode, vereint und erweckt ein Chakrensystem aus 2.418 Punkten.",
+    "relatedCta": "Die Vereinte Chakra-Heilung entdecken",
+    "bookingTitle": "Klären und neu verbinden",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Sternenkind-Heilung."
+  },
+  "UnifiedChakraHealing": {
+    "heroEyebrow": "King-Salomon-Heilmethode",
+    "heroTitle": "Vereinte Chakra-Heilung",
+    "heroSubtitle": "Erwecke dein gesamtes Chakrensystem",
+    "heroTagline": "Vereint und erweckt ein Chakrensystem aus 2.418 Punkten, weit über die sieben hinaus, die du kennst",
+    "introLead": "Du kennst die sieben Hauptchakren. Die Tradition lehrt, dass es 2.418 gibt.",
+    "introBody1": "Die sieben Chakren, die die meisten kennen, sind die Hauptchakren entlang der Mitte des Körpers. Um sie herum lebt ein viel größeres System aus 2.418 Chakren. Wenn sie wach sind und zusammenwirken, fließt deine Energie freier, und dein Nervensystem erwacht.",
+    "introBody2": "Die Vereinte Chakra-Heilung, auch Vereinte Chakra-Erweckung genannt, vereint und erweckt dieses gesamte Chakrensystem und verbindet die Energien deines Lichtkörpers mit deinem physischen Körper. Sie gehört zu den ersten Sitzungen der King-Salomon-Heilmethode, und du kannst sie auch einzeln empfangen. Besonders hilfreich ist sie nach einer Life Activation.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Du fühlst dich emotional festgefahren oder matt",
+      "Alte Gefühle kommen immer wieder hoch",
+      "Du möchtest spirituell feinfühliger werden",
+      "Du hattest eine Life Activation und möchtest weitergehen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Wir beginnen mit einem Gespräch:",
+        "text": "Du erzählst uns, was gerade in deinem Leben geschieht und wobei du dir Unterstützung wünschst."
+      },
+      {
+        "label": "Die Erweckung:",
+        "text": "Du entspannst dich, während der Praktizierende dein Chakrensystem erweckt und vereint."
+      },
+      {
+        "label": "Ein stiller Moment:",
+        "text": "Wir schließen in Stille, damit du den Unterschied spüren kannst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Größere spirituelle Feinfühligkeit",
+      "Alte, festsitzende Gefühle lösen sich",
+      "Ruhigere Gefühle",
+      "Mehr Energie und Freude im Alltag"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Nein, sie steht allen offen. Besonders hilfreich ist sie nach einer Life Activation, die deine Energie darauf vorbereitet. <link>Mehr über die Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Ist sie Teil einer Serie?",
+        "a": "Sie gehört zu den ersten Sitzungen der King-Salomon-Heilmethode, eines Heilsystems aus der Linie von König Salomon. Du kannst sie auch einzeln empfangen."
+      }
+    ],
+    "relatedHeading": "Eine Reinigung für dein gesamtes Energiesystem",
+    "relatedBody": "Die Sternenkind-Heilung, die erste Sitzung der King-Salomon-Heilmethode, befreit deinen Geist von Ballast und bringt deine Schwingung wieder in Einklang.",
+    "relatedCta": "Die Sternenkind-Heilung entdecken",
+    "bookingTitle": "Vereine deine Energie",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "inquiry": "Hallo, ich interessiere mich für die Vereinte Chakra-Heilung."
+  },
+  "KshmAuricRegion": {
+    "heroEyebrow": "King-Salomon-Heilmethode",
+    "heroTitle": "KSHM — Aura-Region",
+    "heroSubtitle": "Eine Reise der Reinigung für deine Aura in zehn Sitzungen",
+    "heroTagline": "Tiefe Reinigung und Wiederherstellung deiner Aura: deines energetischen Schutzschilds und des Ortes, an dem du der Welt begegnest",
+    "introLead": "Deine Aura ist dein energetischer Schutzschild und der Ort, an dem du der Welt begegnest.",
+    "introBody1": "Im Laufe eines Lebens sammeln sich in ihr die Masken der Konditionierung und Muster, die in deiner Familie weitergegeben wurden. Die Aura-Region der King-Salomon-Heilmethode ist ein heiliger Prozess aus zehn Sitzungen, der der tiefen Reinigung und Wiederherstellung deiner Aura gewidmet ist.",
+    "introBody2": "Sie arbeitet mit den sieben planetarischen Erzengeln, Michael, Gabriel, Raphael, Haniel, Zadkiel, Samael und Cassiel, gemeinsam mit Jesus Christus. Heilige Worte werden in deine Aura hineingetönt, und heilige Siegel öffnen, reinigen, harmonisieren und versiegeln sie. So werden die spirituelle, die astrale und die physische Ebene gereinigt und die drei Säulen des Baums des Lebens ins Gleichgewicht gebracht. Wenn die Masken der Konditionierung fallen, kann dein authentisches Selbst durchscheinen.",
+    "signsHeading": "Anzeichen, dass du sie brauchen könntest",
+    "signs": [
+      "Du hast das Gefühl, hinter Masken zu leben, und sehnst dich danach, dein wahres Selbst zu finden",
+      "Du bemerkst, wie sich Familienmuster in deinem Leben wiederholen",
+      "Du wünschst dir einen klareren Geist und eine stärkere Intuition",
+      "Du bist bereit für eine tiefe, verbindliche Reise der Heilung"
+    ],
+    "protocolHeading": "Wie die Serie abläuft",
+    "protocol": [
+      {
+        "label": "Zuerst ein Beratungsgespräch:",
+        "text": "Die erste Sitzung ist ein Beratungsgespräch, in dem wir dich kennenlernen und den Weg vor dir vorbereiten."
+      },
+      {
+        "label": "Neun Heilsitzungen:",
+        "text": "In einem Tempelraum empfängst du, ganz bekleidet, neun Heilungen mit den Erzengeln, heiligen Tönen und heiligen Siegeln."
+      },
+      {
+        "label": "Dein Rhythmus:",
+        "text": "Zwischen den Sitzungen liegen ein bis zwei Wochen. Wenn du einmal begonnen hast, wird die Serie als Ganzes abgeschlossen."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Die Masken der Konditionierung fallen",
+      "Karmische Muster und Ahnenmuster lösen sich",
+      "Ein klarerer Geist und ruhigere Gedanken",
+      "Eine stärkere Intuition",
+      "Eine leichtere Verbindung zu den Engelskräften",
+      "Innere Stärke"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich vorher andere Sitzungen?",
+        "a": "Ja. Wir empfehlen eine Life Activation und Empower Thyself, bevor du beginnst. Frag uns, und wir helfen dir, den richtigen Weg zu finden."
+      },
+      {
+        "q": "Kann ich eine einzelne Sitzung buchen?",
+        "a": "Nein. Die Aura-Region ist ein vollständiger Prozess aus zehn Sitzungen, und wenn du einmal begonnen hast, wird er als Ganzes abgeschlossen."
+      },
+      {
+        "q": "Was ist die King-Salomon-Heilmethode?",
+        "a": "Ein Heilsystem aus der Linie von König Salomon, das in Regionen durchlaufen wird: die physische Region, die Region des Geistes und die Aura-Region. Jede Region ist eine Serie von Sitzungen."
+      }
+    ],
+    "relatedHeading": "Beginne mit einer einzelnen Sitzung",
+    "relatedBody": "Die Sternenkind-Heilung, die erste Sitzung der King-Salomon-Heilmethode, kannst du auch einzeln empfangen.",
+    "relatedCta": "Die Sternenkind-Heilung entdecken",
+    "bookingTitle": "Beginne die Reise",
+    "bookingNote": "Zehn Einzelsitzungen, persönlich in Prag (Vršovice). Schreib uns für ein erstes Gespräch.",
+    "inquiry": "Hallo, ich interessiere mich für die KSHM-Aura-Region."
   }
 }

@@ -817,9 +817,9 @@
     "kshmGroupTitle": "Ședințe ale Modalităților de Vindecare ale Regelui Solomon",
     "kshmGroupBlurb": "Vindecările de bază ale modalității. Stăpânirea tuturor ramurilor sale necesită mulți ani de pregătire dedicată.",
     "kshmSessions": [
-      { "name": "Vindecarea Semințelor Stelare", "description": "Te reconectează cu originile tale cosmice și linia ta stelară." },
-      { "name": "Vindecarea Unificată a Chakrelor", "description": "Împletește cele șapte centre într-un câmp coerent, unificat." },
-      { "name": "KSHM — Regiunea Aurică", "tag": "Specializată", "description": "Lucrare concentrată a regelui Solomon în câmpul auric, curățând și reconstruind regiunea care te înconjoară și te protejează." }
+      { "name": "Vindecarea Semințelor Stelare", "description": "O curățare energetică a întregului tău sistem, cu cristale și sunet, care limpezește aglomerația din minte și te conectează cu tot ce este viu." },
+      { "name": "Vindecarea Unificată a Chakrelor", "description": "Unifică și trezește un sistem de chakre cu 2.418 puncte, mult dincolo de cele șapte chakre principale." },
+      { "name": "KSHM — Regiunea Aurică", "tag": "Specializată", "description": "O serie de zece ședințe de purificare și refacere profundă a aurei tale, scutul tău energetic și locul în care te întâlnești cu lumea." }
     ],
     "specialtyGroupTitle": "Ședințe speciale",
     "specialtyGroupBlurb": "Lucrare mai profundă, specializată a tradiției — fiecare oferită individual.",
@@ -830,8 +830,8 @@
       { "name": "Tubul de Lumină Interstelar al Arhanghelului Mihail", "description": "Îl invocă pe Arhanghelul Mihail să te învăluie într-o coloană de lumină protectoare, curățându-ți și protejându-ți câmpul energetic." },
       { "name": "Reechilibrare Hermetică", "tag": "Specializată", "description": "Realiniază corpul, mintea și spiritul prin legile hermetice, restabilind un echilibru interior profund acolo unde viața te-a scos din echilibru." },
       { "name": "Reconstrucție Eterică", "tag": "Specializată", "description": "Reconstruiește și repară corpul eteric pe toate straturile sale, vindecând daunele energetice acumulate pe perioade lungi de timp." },
-      { "name": "Reconstrucție Eterică prin Coduri Celeste", "tag": "Specializată", "description": "Restabilește structura eterică prin coduri geometrice celeste — o reconstrucție mai profundă a corpului subtil." },
-      { "name": "Invocarea Compasiunii", "description": "Deschide inima și invocă compasiunea divină pentru a alina și vindeca rănile emoționale." },
+      { "name": "Reconstrucție Eterică prin Coduri Celeste", "tag": "Specializată", "description": "Curăță semințele problemelor de fond și ale tiparelor adânci din regiunea Codurilor Celeste a câmpului tău eteric." },
+      { "name": "Invocarea Compasiunii", "description": "Arhanghelii sunt invocați pentru tine, pentru alinare, protecție, claritate și îndrumare." },
       { "name": "Realinierea Spațiului", "description": "Realiniază și armonizează energia unei case sau a unui spațiu, restabilind ordinea sacră și fluxul." },
       { "name": "Binecuvântarea Bebelușului", "description": "O binecuvântare sacră pentru a întâmpina un nou-născut — invocând protecție, lumină și un început binecuvântat." },
       { "name": "Lectura Chronos", "description": "O lectură care lucrează cu energiile timpului pentru a aduce claritate asupra trecutului, prezentului și căii tale înainte." }
@@ -3054,5 +3054,643 @@
     "bookingNote": "Activarea Galactică este organizată de Modern Mystery School UK. Datele, prețurile și înscrierea le găsești pe site-ul lor. Ai mai întâi o întrebare? Scrie-ne.",
     "bookLabel": "Date și înscriere pe MMS UK",
     "inquiry": "Bună, aș dori să întreb despre Activarea Galactică."
+  },
+  "ArchangelMichaelTube": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Tubul de Lumină Interstelar al Arhanghelului Mihail",
+    "heroSubtitle": "Un scut de lumină divină în jurul tău",
+    "heroTagline": "Te așază în tubul de lumină al Arhanghelului Mihail, ca să elibereze ce te apasă și să te învăluie în protecție",
+    "introLead": "Sunt zile în care lumea pare zgomotoasă și grea, iar în mijlocul ei e greu să rămâi tu.",
+    "introBody1": "Arhanghelul Mihail este marele protector dintre arhangheli. În această vindecare, lumina geometrică sacră este adusă mai întâi în corpul tău astral și în cele șapte chakre, activând ceea ce tradiția numește Corpul Budic: partea din tine care vede viața dintr-o perspectivă mai înaltă.",
+    "introBody2": "Apoi ești așezat(ă) în Tubul de Lumină Interstelar al Arhanghelului Mihail, unde el te umple cu lumină din Sursă și vindecă ce are nevoie de vindecare. Ședința lasă în jurul tău un câmp protector de lumină divină, astfel încât negativitatea din afară să nu se mai lipească atât de ușor de tine. Este una dintre vindecările din seria Sacred Geometry a Modern Mystery School.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Te afectează ușor energia altor oameni sau locurile încărcate",
+      "Porți în tine energie emoțională veche pe care ai vrea să o eliberezi",
+      "Te simți stins(ă), fără bucuria și pasiunea obișnuite",
+      "Tânjești după claritate și după o privire mai înaltă asupra vieții tale",
+      "Vrei pur și simplu să te simți protejat(ă)"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui ce se întâmplă în viața ta și cu ce ai vrea să fii sprijinit(ă)."
+      },
+      {
+        "label": "Lumină în chakrele tale:",
+        "text": "Lumina geometrică sacră este adusă în corpul tău astral și în cele șapte chakre, activându-ți Corpul Budic."
+      },
+      {
+        "label": "Tubul de Lumină:",
+        "text": "Ești așezat(ă) în Tubul de Lumină Interstelar al Arhanghelului Mihail, unde el te umple cu lumină din Sursă."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Te simți protejat(ă), ca înconjurat(ă) de un scut de lumină",
+      "Claritate și o perspectivă mai înaltă asupra vieții tale",
+      "Eliberarea energiilor grele și a emoțiilor vechi",
+      "Vitalitatea, pasiunea și bucuria revin"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Da, mai întâi de o Life Activation. Ea îți pregătește energia ca să poată ține lumina acestei vindecări. <link>Citește despre Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Cât de des o pot primi?",
+        "a": "Mulți oameni o primesc o dată sau de două ori pe an, ca să-și păstreze scutul de lumină puternic."
+      }
+    ],
+    "relatedHeading": "Trezește focul din tine",
+    "relatedBody": "Infuzia Focului Sufletului, o altă vindecare din seria Sacred Geometry, îți recalibrează structura magnetică și trezește focul sufletului tău.",
+    "relatedCta": "Descoperă Infuzia Focului Sufletului",
+    "bookingTitle": "Pășește în lumină",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de Tubul de Lumină Interstelar al Arhanghelului Mihail."
+  },
+  "HermeticRebalancing": {
+    "heroEyebrow": "Vindecare hermetică",
+    "heroTitle": "Reechilibrare Hermetică",
+    "heroSubtitle": "O resetare anuală pentru minte, corp și spirit",
+    "heroTagline": "Trei ședințe călăuzite de energia lui Hermes Trismegistus, ca să cureți ce te ține pe loc și să revii în aliniere",
+    "introLead": "Viața lasă în urmă tot felul de resturi. O dată pe an, e bine să faci curățenie.",
+    "introBody1": "Hermes Trismegistus, „cel de trei ori mare”, maestrul tradiției hermetice, a predat cele șapte Principii Hermetice: legile după care se mișcă tot ce există în creație. Reechilibrarea Hermetică lucrează cu aceste principii și cu cele șapte Raze Hermetice, ca să curețe resturile adunate în mintea și în câmpul tău energetic, care îți frânează mersul înainte în viață.",
+    "introBody2": "Prin ritual sacru și invocații rostite, fiecare ședință curăță blocajele, îți deschide canalele energetice și îți readuce mintea, corpul și spiritul în aliniere. Se oferă ca o serie de trei ședințe, la una-două săptămâni distanță, și se primește o dată pe an: o reglare anuală pentru mintea și energia ta.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Viața pare blocată, oricât te-ai strădui",
+      "Gândurile îți sunt aglomerate și deciziile îți vin greu",
+      "Emoțiile vechi tot revin",
+      "Nu te mai simți în pas cu tine",
+      "Vrei un nou început pentru anul care vine"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședințe",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui ce se întâmplă în viața ta și ce ai vrea să cureți."
+      },
+      {
+        "label": "Reechilibrarea:",
+        "text": "Prin ritual sacru și invocarea lui Hermes Trismegistus, practicianul curăță blocajele și îți aliniază sistemul energetic. Tu doar te relaxezi și primești."
+      },
+      {
+        "label": "Trei ședințe:",
+        "text": "Seria se desfășoară pe parcursul câtorva săptămâni, cu una-două săptămâni între ședințe."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "O minte mai limpede și decizii mai ușoare",
+      "Mintea, corpul și spiritul se simt aliniate",
+      "Eliberare emoțională și o inimă mai ușoară",
+      "O intuiție mai puternică",
+      "Creativitatea curge din nou",
+      "Te simți resetat(ă) și pregătit(ă) să mergi mai departe"
+    ],
+    "faq": [
+      {
+        "q": "De ce trei ședințe?",
+        "a": "Reechilibrarea se oferă ca o serie: fiecare ședință se construiește pe cea dinainte, iar împreună completează lucrarea."
+      },
+      {
+        "q": "Cât de des o pot primi?",
+        "a": "O dată pe an, ca o reglare anuală pentru mintea și energia ta."
+      },
+      {
+        "q": "Este același lucru cu Recuperarea hermetică a sufletului?",
+        "a": "Nu. Recuperarea hermetică a sufletului aduce înapoi părțile pierdute din tine. Reechilibrarea Hermetică îți curăță și îți realiniază sistemul energetic. <link>Citește despre Recuperarea hermetică a sufletului</link>.",
+        "href": "/soul-retrieval"
+      },
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Este recomandată mai întâi o Life Activation. Dacă nu ai primit-o încă, întreabă-ne și te vom îndruma."
+      }
+    ],
+    "relatedHeading": "Adu acasă părțile pierdute din tine",
+    "relatedBody": "Recuperarea hermetică a sufletului găsește fragmentele pierdute ale sinelui și le reintegrează, ca să fii din nou întreg(întreagă).",
+    "relatedCta": "Descoperă Recuperarea hermetică a sufletului",
+    "bookingTitle": "Începe-ți reechilibrarea",
+    "bookingNote": "Trei ședințe individuale, în persoană la Praga (Vršovice). Scrie-ne și stabilim datele împreună.",
+    "inquiry": "Bună, sunt interesat(ă) de Reechilibrarea Hermetică."
+  },
+  "BabyBlessing": {
+    "heroEyebrow": "O ceremonie sacră",
+    "heroTitle": "Binecuvântarea Bebelușului",
+    "heroSubtitle": "O binecuvântare pentru toată viața, pentru un suflet nou",
+    "heroTagline": "O ceremonie sacră care îți întâmpină copilul cu protecție și lumină pentru întreaga lui viață",
+    "introLead": "Să întâmpini un suflet nou pe lume este unul dintre cele mai sacre momente ale vieții.",
+    "introBody1": "Binecuvântarea Bebelușului este o ceremonie folosită în tradiția Mystery School de mii de ani și una dintre cele mai bine păzite învățături ale liniei. Este adesea numită cea mai puternică ceremonie sacră din viața unui om.",
+    "introBody2": "Binecuvântarea creează în jurul copilului tău o bulă de protecție care rămâne cu el toată viața, ca să nu preia energia negativă din jur. Îl pregătește pentru viața în lumea fizică și îl sprijină să trăiască în acord cu propriul scop divin, liber de condiționările karmei ancestrale. Este oferită doar de Ritual Masters din Modern Mystery School care au primit-o printr-o transmitere specială.",
+    "signsHeading": "Când să o programezi",
+    "signs": [
+      "Ideal în timpul nașterii sau la scurt timp după, înainte ca lumea să-și lase primele amprente",
+      "Cele mai multe familii o programează pentru bebeluși de până la doi ani; și copiii mici, de până la aproximativ cinci ani, pot beneficia de ea",
+      "Dacă poți, ia legătura cu noi înainte de data estimată a nașterii, ca binecuvântarea să poată fi planificată din timp"
+    ],
+    "protocolHeading": "Cum se desfășoară",
+    "protocol": [
+      {
+        "label": "Mai întâi o discuție:",
+        "text": "Ne întâlnim ca să vorbim despre copilul tău și despre familia ta și plănuim binecuvântarea împreună."
+      },
+      {
+        "label": "Binecuvântarea:",
+        "text": "Un Ritual Master oficiază ceremonia sacră pentru bebelușul tău."
+      }
+    ],
+    "benefitsHeading": "Ce îi dăruiește binecuvântarea copilului tău",
+    "benefits": [
+      "O bulă de protecție care rămâne cu el toată viața",
+      "Pregătire pentru viața în lumea fizică",
+      "Sprijin ca să trăiască în acord cu propriul scop divin",
+      "Libertate față de condiționările karmei ancestrale"
+    ],
+    "faq": [
+      {
+        "q": "Până la ce vârstă o poate primi un copil?",
+        "a": "Momentul ideal este în timpul nașterii sau la scurt timp după. Cele mai multe familii o programează pentru bebeluși de până la doi ani, dar și copiii mici, de până la aproximativ cinci ani, pot beneficia de ea."
+      },
+      {
+        "q": "Se oferă o singură dată?",
+        "a": "Da. Este o binecuvântare unică, ce rămâne cu copilul tău toată viața."
+      },
+      {
+        "q": "Cine o oficiază?",
+        "a": "Doar Ritual Masters care au primit Binecuvântarea Bebelușului printr-o transmitere specială în Modern Mystery School."
+      }
+    ],
+    "relatedHeading": "O binecuvântare și pentru părinți",
+    "relatedBody": "Life Activation îți trezește propriul plan divin: fundamentul lucrării de vindecare din linia noastră.",
+    "relatedCta": "Descoperă Life Activation",
+    "bookingTitle": "Binecuvântează-ți copilul",
+    "bookingNote": "În persoană la Praga. Scrie-ne, ideal înainte de data estimată a nașterii, și plănuim binecuvântarea împreună.",
+    "inquiry": "Bună, sunt interesat(ă) de Binecuvântarea Bebelușului."
+  },
+  "EthericReconstruction": {
+    "heroEyebrow": "Chirurgie energetică",
+    "heroTitle": "Reconstrucție Eterică",
+    "heroSubtitle": "Vindecare profundă pentru corpul tău eteric",
+    "heroTagline": "Elimină energiile dense, adânc înrădăcinate, din câmpul tău eteric și reface armonia cu planul tău divin",
+    "introLead": "Unele răni merg mai adânc decât poate ajunge vindecarea obișnuită.",
+    "introBody1": "Câmpul tău eteric face parte din sistemul tău energetic subtil. Traumele vechi, accidentările, bolile și tiparele purtate multă vreme pot lăsa acolo energie densă, limitatoare, care te tot trage înapoi, oricât ai lucra cu tine.",
+    "introBody2": "Reconstrucția Eterică este o vindecare specializată din linia regelui Solomon, descrisă adesea ca o chirurgie energetică. Lucrând cu baghete de cristal, practicianul elimină aceste blocaje din sistemele tale auric și eteric, inclusiv din straturile magnetic și astral, și reface armonia cu puterile celeste și cu planul tău divin originar. Doar practicienii certificați în Reconstrucție Eterică ai Modern Mystery School o pot oferi.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Ai lucrat mult cu tine, dar un tipar vechi tot revine",
+      "Te refaci după o boală, o accidentare sau o perioadă grea",
+      "Ai trecut printr-o schimbare mare în viață, cum ar fi nașterea unui copil",
+      "Te simți pregătit(ă) să lași să plece ceva profund"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Mai întâi o consultație:",
+        "text": "Vorbim despre ce traversezi și ne asigurăm că aceasta este vindecarea potrivită pentru tine în acest moment."
+      },
+      {
+        "label": "Reconstrucția:",
+        "text": "Tu te relaxezi, în timp ce practicianul lucrează în câmpul tău energetic cu baghete de cristal, eliminând energia densă și blocajele."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Ușurare, adesea simțită imediat",
+      "Eliberarea tiparelor și a traumelor vechi",
+      "Te simți mai ușor(ă) în corp, în minte și în emoții",
+      "Sprijin în refacerea după o perioadă grea"
+    ],
+    "afterHeading": "După ședință",
+    "after": [
+      "Dă-ți timp să te odihnești și să lași vindecarea să se așeze",
+      "Bea multă apă",
+      "Observă, în săptămânile următoare, cum tiparele vechi își pierd puterea asupra ta"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Da. O Life Activation făcută înainte îți pregătește energia pentru această lucrare mai profundă. În funcție de ce traversezi, s-ar putea să-ți sugerăm și alte vindecări înainte. <link>Citește despre Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "De câte ședințe voi avea nevoie?",
+        "a": "Adesea o singură ședință e suficientă ca să simți diferența. Unii oameni aleg o serie de trei, ca să meargă mai în profunzime. Vom vorbi împreună despre ce ți se potrivește."
+      },
+      {
+        "q": "Prin ce se deosebește de Reconstrucția Eterică prin Coduri Celeste?",
+        "a": "Reconstrucția Eterică prin Coduri Celeste este nivelul următor al Reconstrucției Eterice. Lucrează asupra unei singure regiuni a câmpului eteric, unde sunt păstrate problemele de fond din primii tăi ani. <link>Citește despre Reconstrucția Eterică prin Coduri Celeste</link>.",
+        "href": "/celestial-code-etheric-reconstruction"
+      }
+    ],
+    "relatedHeading": "Eliberează sămânța problemelor tale de fond",
+    "relatedBody": "Reconstrucția Eterică prin Coduri Celeste curăță problemele de fond și tiparele adânci care te țin legat(ă) de trecut.",
+    "relatedCta": "Descoperă Codurile Celeste",
+    "bookingTitle": "Începe cu o consultație",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de Reconstrucția Eterică."
+  },
+  "CelestialCode": {
+    "heroEyebrow": "Reconstrucție Eterică",
+    "heroTitle": "Reconstrucție Eterică prin Coduri Celeste",
+    "heroSubtitle": "Eliberează sămânța problemelor tale de fond",
+    "heroTagline": "Curăță problemele de fond și tiparele adânci care te țin legat(ă) de trecut, din regiunea Codurilor Celeste a câmpului tău eteric",
+    "introLead": "Trăiești mereu aceeași poveste, chiar și după ce ai înțeles-o?",
+    "introBody1": "Multe dintre problemele noastre de fond se formează în primii ani de viață. Chiar și după ce am lucrat cu ele, sămânța lor poate rămâne în câmpul nostru energetic și poate fi declanșată iar și iar. Tradiția învață că un asemenea reziduu poate avea nevoie de aproximativ șapte ani ca să se estompeze de la sine.",
+    "introBody2": "Reconstrucția Eterică prin Coduri Celeste este al doilea nivel al Reconstrucției Eterice. Lucrează în regiunea Codurilor Celeste a câmpului tău eteric, unde sunt păstrate problemele de fond, tiparele adânc înrădăcinate și ancorele energetice. Cu baghete de cristal, practicianul elimină sămânța unei probleme de fond cu care ai lucrat deja, apoi reface echilibrul corpului tău eteric prin geometrie sacră. Este și ședința de încheiere din Modalitatea de Vindecare a Regelui Solomon.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Aceeași poveste se repetă în relațiile tale sau la muncă",
+      "Înțelegi de unde vine o problemă, dar ea tot se declanșează",
+      "Te tot oprești singur(ă) chiar înainte ca lucrurile să meargă bine",
+      "Ai lucrat profund cu tine și te simți pregătit(ă) să lași totul în urmă pentru totdeauna"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Mai întâi o consultație:",
+        "text": "Vorbim despre problema de fond cu care lucrezi și despre dacă ești pregătit(ă) să o eliberezi."
+      },
+      {
+        "label": "Curățarea:",
+        "text": "Cu baghete de cristal, practicianul elimină sămânța problemei de fond din regiunea Codurilor Celeste a câmpului tău eteric."
+      },
+      {
+        "label": "Refacerea echilibrului:",
+        "text": "Geometria sacră reface echilibrul corpului tău eteric."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Tiparele și poveștile vechi își pierd puterea asupra ta",
+      "Claritate mentală",
+      "Libertatea de a reacționa în moduri noi",
+      "Relații mai ușoare și mai deschise"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Da. Mai întâi de o Life Activation, iar vindecarea funcționează cel mai bine după ce ai lucrat deja cu adevărat asupra problemei. Vom vorbi despre asta în consultație. <link>Citește despre Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "De câte ședințe voi avea nevoie?",
+        "a": "Depinde de problemă. Unele probleme de fond au nevoie de mai multe ședințe; ședințele repetate se fac la aproximativ trei luni distanță."
+      },
+      {
+        "q": "Prin ce se deosebește de Reconstrucția Eterică?",
+        "a": "Reconstrucția Eterică curăță energia densă și blocajele din întregul tău câmp eteric. Reconstrucția prin Coduri Celeste este nivelul următor: lucrează asupra unei singure regiuni, unde sunt păstrate problemele de fond din anii tăi formativi. <link>Citește despre Reconstrucția Eterică</link>.",
+        "href": "/etheric-reconstruction"
+      }
+    ],
+    "relatedHeading": "Vindecare profundă pentru corpul tău eteric",
+    "relatedBody": "Reconstrucția Eterică elimină energiile dense, adânc înrădăcinate, din câmpul tău eteric și reface armonia cu planul tău divin.",
+    "relatedCta": "Descoperă Reconstrucția Eterică",
+    "bookingTitle": "Lasă în urmă povestea veche",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de Reconstrucția Eterică prin Coduri Celeste."
+  },
+  "FireSoulInfusion": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Infuzie a Focului Sufletului",
+    "heroSubtitle": "Trezește focul sacru din tine",
+    "heroTagline": "Îți recalibrează structura magnetică și activează în corpul tău focul sufletului",
+    "introLead": "Îți amintești focul pe care îl simțeai cândva pentru viață?",
+    "introBody1": "Sufletul tău are un foc: pasiunea, elanul și forța vitală care te poartă spre ceea ce ai venit să faci aici. Stresul și ritmul vieții moderne îți pot secătui câmpul magnetic, iar acest foc poate ajunge doar să mai pâlpâie.",
+    "introBody2": "Infuzia Focului Sufletului țese simboluri geometrice sacre în câmpul tău energetic. Recalibrează întreaga structură magnetică a ființei tale și activează Focul Sufletului, spiritul din corp. Vedele descriu asta ca pe primul pas al trezirii Kundalini, iar aici el are loc într-un mod sigur și echilibrat. Este una dintre vindecările din seria Sacred Geometry a Modern Mystery School.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Te simți stins(ă), fără pasiunea obișnuită",
+      "Energia și elanul tău sunt scăzute",
+      "Ai pierdut legătura cu ceea ce îți dorești de la viață",
+      "Creativitatea ta pare blocată"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui ce se întâmplă în viața ta și cu ce ai vrea să fii sprijinit(ă)."
+      },
+      {
+        "label": "Infuzia:",
+        "text": "Tu te relaxezi, în timp ce practicianul țese simboluri geometrice sacre în câmpul tău energetic."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Pasiune, vitalitate și elan",
+      "Îți amintești cine ești și de ce ești aici",
+      "Claritate mentală",
+      "Energia creativă curge",
+      "O legătură mai profundă cu scopul tău",
+      "Corpul își regăsește echilibrul"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Este recomandată mai întâi o Life Activation: îți pregătește energia pentru focul acestei infuzii. <link>Citește despre Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Este o trezire a Kundalini?",
+        "a": "Tradiția o numește primul pas al trezirii Kundalini. Lucrează blând, prin geometrie sacră, astfel încât focul să se trezească într-un mod echilibrat."
+      }
+    ],
+    "relatedHeading": "Dă-i focului tău o direcție",
+    "relatedBody": "Infuzia Voinței de Bază îți întărește voința și o aliniază cu Voința Divinului, pentru concentrare și direcție.",
+    "relatedCta": "Descoperă Infuzia Voinței de Bază",
+    "bookingTitle": "Reaprinde-ți focul",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de Infuzia Focului Sufletului."
+  },
+  "CoreWillInfusion": {
+    "heroEyebrow": "Sacred Geometry",
+    "heroTitle": "Infuzie a Voinței de Bază",
+    "heroSubtitle": "Aliniază-ți voința cu Voința Divinului",
+    "heroTagline": "Îți curăță structura eterică și îți întărește voința, pentru concentrare, direcție și elanul de a-ți trăi scopul",
+    "introLead": "Ai muncit vreodată din greu pentru ceva care pur și simplu nu se clintea?",
+    "introBody1": "Voința ta este sediul interior al puterii și al direcției tale. Tradiția vorbește despre trei voințe: Voința lui Dumnezeu, Voința Universului și a Naturii și voința oamenilor. Când propria ta voință este slabă sau nealiniată cu voințele mai mari, viața poate părea un zid în care împingi zadarnic.",
+    "introBody2": "Infuzia Voinței de Bază activează simboluri sacre în structura ta energetică. Îți curăță structura eterică, îți întărește voința personală și o aliniază cu Voința Divinului, Voința ta Superioară. Lucrurile care păreau de neclintit încep adesea să se miște. Este una dintre vindecările din seria Sacred Geometry a Modern Mystery School.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Muncești din greu pentru ceva care pare de neclintit",
+      "Îți este greu să rămâi concentrat(ă) și disciplinat(ă)",
+      "Nu ești sigur(ă) de direcția ta",
+      "Vrei să-ți trăiești scopul, dar ceva te ține pe loc"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui ce se întâmplă în viața ta și cu ce ai vrea să fii sprijinit(ă)."
+      },
+      {
+        "label": "Infuzia:",
+        "text": "Tu te relaxezi, în timp ce practicianul activează simboluri sacre în structura ta energetică."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Claritate asupra vieții și a scopului tău",
+      "Elan spre scopul tău",
+      "Concentrare și disciplină",
+      "Reziliență",
+      "Obstacolele se dizolvă, iar lucrurile se mișcă cu mai puțin efort",
+      "O legătură mai strânsă cu sinele tău spiritual"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Este recomandată mai întâi o Life Activation. <link>Citește despre Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Cât de des o pot primi?",
+        "a": "Mulți oameni o primesc o dată pe an, ca să-și păstreze voința aliniată și puternică."
+      },
+      {
+        "q": "Ce legătură are cu Infuzia Focului Sufletului?",
+        "a": "Amândouă sunt vindecări din seria Sacred Geometry. Infuzia Focului Sufletului îți trezește pasiunea și forța vitală; Infuzia Voinței de Bază îți întărește și îți aliniază voința. <link>Citește despre Infuzia Focului Sufletului</link>.",
+        "href": "/fire-soul-infusion"
+      }
+    ],
+    "relatedHeading": "Trezește focul din tine",
+    "relatedBody": "Infuzia Focului Sufletului îți recalibrează structura magnetică și trezește focul sufletului tău.",
+    "relatedCta": "Descoperă Infuzia Focului Sufletului",
+    "bookingTitle": "Întărește-ți voința",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de Infuzia Voinței de Bază."
+  },
+  "CompassionSummoning": {
+    "heroEyebrow": "Vindecare cu arhanghelii",
+    "heroTitle": "Invocarea Compasiunii",
+    "heroSubtitle": "Primește energia plină de compasiune a arhanghelilor",
+    "heroTagline": "Arhanghelii sunt invocați pentru tine, pentru alinare, protecție, claritate și îndrumare",
+    "introLead": "Nu trebuie să duci totul singur(ă).",
+    "introBody1": "În Invocarea Compasiunii, numită și Invocarea Compasiunii Arhanghelilor, practicianul îi invocă pentru tine pe arhangheli. Simți energia lor plină de compasiune și te conectezi cu un anumit arhanghel, ca să primești îndrumare și putere.",
+    "introBody2": "Oamenii vin la ea pentru alinare și protecție, pentru direcție și claritate într-o situație grea, pentru inspirație, vindecare și creștere spirituală. Este una dintre vindecările oferite de Ghizii Modern Mystery School.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Ești într-o situație grea și nu mai vezi limpede",
+      "Te simți blocat(ă) și ai nevoie de direcție",
+      "Tânjești după alinare și protecție",
+      "Vrei să crești spiritual"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui ce se întâmplă în viața ta și unde ai vrea să primești îndrumare."
+      },
+      {
+        "label": "Invocarea:",
+        "text": "Practicianul îi invocă pe arhangheli, iar tu primești energia lor plină de compasiune. Tu doar te relaxezi și primești."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Alinare și mângâiere",
+      "Te simți protejat(ă)",
+      "Claritate într-o situație grea",
+      "Te simți deblocat(ă) și călăuzit(ă)",
+      "Inspirație"
+    ],
+    "relatedHeading": "Protecția Arhanghelului Mihail",
+    "relatedBody": "Tubul de Lumină Interstelar al Arhanghelului Mihail te înconjoară cu un scut de lumină divină.",
+    "relatedCta": "Descoperă Tubul de Lumină",
+    "bookingTitle": "Primește compasiunea lor",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de Invocarea Compasiunii."
+  },
+  "StarseedHealing": {
+    "heroEyebrow": "Modalitatea de vindecare a regelui Solomon",
+    "heroTitle": "Vindecarea Semințelor Stelare",
+    "heroSubtitle": "O curățare pentru întregul tău sistem energetic",
+    "heroTagline": "Limpezește aglomerația din minte și îți readuce vibrația corpului în acord, conectându-te cu tot ce este viu",
+    "introLead": "Când mintea îți e plină și energia îți e risipită, totul pare mai greu.",
+    "introBody1": "Vindecarea Semințelor Stelare este o curățare energetică a întregului tău sistem: a chakrelor și a straturilor de energie de pe corpul tău. Ea adună vibrațiile care altfel s-ar pierde și le redirecționează, readucând în acord vibrația corpului tău și limpezind aglomerația din minte.",
+    "introBody2": "Practicianul lucrează cu cristale, clopoței și un diapazon, folosind sunetul și vibrația ca să scoată energia grea, iar tu ești conectat(ă), într-un mod galactic, cu tot ce este viu. Este prima ședință din Modalitatea de Vindecare a Regelui Solomon și o poți primi și separat.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Mintea ta pare aglomerată și neliniștită",
+      "Te simți dezechilibrat(ă) emoțional",
+      "Treci printr-un doliu sau printr-un final greu",
+      "Ai făcut o lucrare emoțională profundă și vrei să te așezi"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui ce se întâmplă în viața ta și cu ce ai vrea să fii sprijinit(ă)."
+      },
+      {
+        "label": "Vindecarea:",
+        "text": "Tu te relaxezi, în timp ce practicianul lucrează cu cristale, clopoței și un diapazon. Mulți oameni adorm."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Te simți calm(ă), odihnit(ă) și ușor(ă)",
+      "O minte mai liniștită",
+      "Te simți mai centrat(ă) emoțional",
+      "Un sentiment de pace și de apartenență"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Nu. Este deschisă tuturor."
+      },
+      {
+        "q": "Face parte dintr-o serie?",
+        "a": "Este una dintre primele ședințe din Modalitatea de Vindecare a Regelui Solomon, un sistem de vindecare din linia regelui Solomon. O poți primi și separat."
+      }
+    ],
+    "relatedHeading": "Trezește-ți întregul sistem de chakre",
+    "relatedBody": "Vindecarea Unificată a Chakrelor, următoarea ședință din Modalitatea de Vindecare a Regelui Solomon, unifică și trezește un sistem de chakre cu 2.418 puncte.",
+    "relatedCta": "Descoperă Vindecarea Unificată a Chakrelor",
+    "bookingTitle": "Curăță și reconectează-te",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de Vindecarea Semințelor Stelare."
+  },
+  "UnifiedChakraHealing": {
+    "heroEyebrow": "Modalitatea de vindecare a regelui Solomon",
+    "heroTitle": "Vindecarea Unificată a Chakrelor",
+    "heroSubtitle": "Trezește-ți întregul sistem de chakre",
+    "heroTagline": "Unifică și trezește un sistem de chakre cu 2.418 puncte, mult dincolo de cele șapte pe care le cunoști",
+    "introLead": "Cunoști cele șapte chakre principale. Tradiția învață că există 2.418.",
+    "introBody1": "Cele șapte chakre pe care le cunosc cei mai mulți oameni sunt cele principale, de-a lungul centrului corpului. În jurul lor trăiește un sistem mult mai mare, de 2.418 chakre. Când acestea sunt treze și lucrează împreună, energia ta curge mai liber, iar sistemul tău nervos se trezește.",
+    "introBody2": "Vindecarea Unificată a Chakrelor, numită și Trezirea Unificată a Chakrelor, unifică și trezește acest întreg sistem de chakre și leagă energiile corpului tău de lumină de corpul tău fizic. Este una dintre primele ședințe din Modalitatea de Vindecare a Regelui Solomon și o poți primi și separat. Este deosebit de utilă după o Life Activation.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Te simți blocat(ă) sau stins(ă) emoțional",
+      "Emoțiile vechi tot revin",
+      "Ai vrea să devii mai sensibil(ă) spiritual",
+      "Ai primit o Life Activation și vrei să mergi mai departe"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Ne spui ce se întâmplă în viața ta și cu ce ai vrea să fii sprijinit(ă)."
+      },
+      {
+        "label": "Trezirea:",
+        "text": "Tu te relaxezi, în timp ce practicianul îți trezește și îți unifică sistemul de chakre."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem în liniște, ca să poți simți diferența."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "O sensibilitate spirituală mai mare",
+      "Eliberarea emoțiilor vechi, blocate",
+      "Emoții mai liniștite",
+      "Mai multă energie și bucurie în viața de zi cu zi"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Nu, este deschisă tuturor. Este deosebit de utilă după o Life Activation, care îți pregătește energia pentru ea. <link>Citește despre Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Face parte dintr-o serie?",
+        "a": "Este una dintre primele ședințe din Modalitatea de Vindecare a Regelui Solomon, un sistem de vindecare din linia regelui Solomon. O poți primi și separat."
+      }
+    ],
+    "relatedHeading": "O curățare pentru întregul tău sistem energetic",
+    "relatedBody": "Vindecarea Semințelor Stelare, prima ședință din Modalitatea de Vindecare a Regelui Solomon, limpezește aglomerația din minte și îți readuce vibrația în acord.",
+    "relatedCta": "Descoperă Vindecarea Semințelor Stelare",
+    "bookingTitle": "Unifică-ți energia",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "inquiry": "Bună, sunt interesat(ă) de Vindecarea Unificată a Chakrelor."
+  },
+  "KshmAuricRegion": {
+    "heroEyebrow": "Modalitatea de vindecare a regelui Solomon",
+    "heroTitle": "KSHM — Regiunea Aurică",
+    "heroSubtitle": "O călătorie de purificare a aurei tale, în zece ședințe",
+    "heroTagline": "Purificarea și refacerea profundă a aurei tale: scutul tău energetic și locul în care te întâlnești cu lumea",
+    "introLead": "Aura ta este scutul tău energetic și locul în care te întâlnești cu lumea.",
+    "introBody1": "De-a lungul vieții, ea adună măștile condiționărilor și tiparele transmise în familia ta. Regiunea Aurică din Modalitatea de Vindecare a Regelui Solomon este un proces sacru de zece ședințe, dedicat purificării și refacerii profunde a aurei tale.",
+    "introBody2": "Lucrează cu cei șapte arhangheli planetari, Mihail, Gavriil, Rafael, Haniel, Zadkiel, Samael și Cassiel, împreună cu Iisus Hristos. Cuvinte sacre sunt intonate în aura ta, iar peceți sfinte o deschid, o curăță, o echilibrează și o sigilează, purificând planurile spiritual, astral și fizic și echilibrând cei trei stâlpi ai Arborelui Vieții. Pe măsură ce măștile condiționărilor cad, sinele tău autentic poate străluci.",
+    "signsHeading": "Semne că ai putea avea nevoie de ea",
+    "signs": [
+      "Simți că trăiești în spatele unor măști și tânjești să-ți găsești adevăratul sine",
+      "Observi tipare de familie care se repetă în viața ta",
+      "Ți-ar plăcea o minte mai limpede și o intuiție mai puternică",
+      "Ești pregătit(ă) pentru o călătorie de vindecare profundă, asumată"
+    ],
+    "protocolHeading": "Cum se desfășoară seria",
+    "protocol": [
+      {
+        "label": "Mai întâi o consultație:",
+        "text": "Prima ședință este o consultație, în care te cunoaștem și pregătim drumul care urmează."
+      },
+      {
+        "label": "Nouă ședințe de vindecare:",
+        "text": "Într-un spațiu-templu, complet îmbrăcat(ă), primești nouă vindecări cu arhanghelii, tonuri sacre și peceți sfinte."
+      },
+      {
+        "label": "Ritmul tău:",
+        "text": "Ședințele au loc la una-două săptămâni distanță. Odată ce începi, seria se parcurge în întregime."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "Măștile condiționărilor cad",
+      "Eliberarea tiparelor karmice și ancestrale",
+      "O minte mai limpede și gânduri mai liniștite",
+      "O intuiție mai puternică",
+      "O legătură mai ușoară cu forțele angelice",
+      "Putere interioară"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de alte ședințe?",
+        "a": "Da. Înainte să începi, sunt recomandate Life Activation și Empower Thyself. Întreabă-ne și te ajutăm să găsești drumul potrivit."
+      },
+      {
+        "q": "Pot programa o singură ședință?",
+        "a": "Nu. Regiunea Aurică este un proces complet de zece ședințe și, odată ce începi, se parcurge în întregime."
+      },
+      {
+        "q": "Ce este Modalitatea de Vindecare a Regelui Solomon?",
+        "a": "Un sistem de vindecare din linia regelui Solomon, parcurs pe regiuni: Regiunea Fizică, Regiunea Minții și Regiunea Aurică. Fiecare regiune este o serie de ședințe."
+      }
+    ],
+    "relatedHeading": "Începe cu o singură ședință",
+    "relatedBody": "Vindecarea Semințelor Stelare, prima ședință din Modalitatea de Vindecare a Regelui Solomon, poate fi primită și separat.",
+    "relatedCta": "Descoperă Vindecarea Semințelor Stelare",
+    "bookingTitle": "Începe călătoria",
+    "bookingNote": "Zece ședințe individuale, în persoană la Praga (Vršovice). Scrie-ne pentru o primă discuție.",
+    "inquiry": "Bună, sunt interesat(ă) de Regiunea Aurică KSHM."
   }
 }
