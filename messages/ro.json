@@ -2430,29 +2430,91 @@
     "inquiry": "Bună, aș dori să aflu mai multe despre cursurile și atelierele voastre."
   },
   "SanctuaryMeditationPage": {
-    "heroEyebrow": "Meditație ghidată",
+    "heroEyebrow": "O meditație ghidată de 2,5 ore la Praga",
     "heroTitle": "Sanctuary Meditation Class",
     "heroSubtitle": "Călătorește spre sanctuarul tău și întâlnește-ți Sinele Superior",
-    "heroTagline": "O tehnică ce te duce într-un loc sacru și sigur, unde primești îndrumare și răspunsuri",
-    "introLead": "Ești intuitiv(ă)? Ai încredere în instinctele tale? Ți-ai dori mai multă claritate în mesajele intuitive?",
-    "introBody1": "Sanctuary Meditation este o tehnică ce te duce într-un loc sacru și sigur, unde îți poți întâlni Sinele Superior și poți primi îndrumare și răspunsuri.",
-    "introBody2": "Este una dintre căile ideale de a ști că mesajele pe care le primești sunt adevărate, reale și spre binele tău cel mai înalt.",
+    "heroTagline": "O călătorie ghidată spre interior, către locul liniștit unde te așteaptă propria ta înțelepciune",
+    "introLead": "Ai încercat vreodată să ajungi la claritate doar gândind?",
+    "introBody1": "Suntem învățați să adunăm informații, să cântărim fiecare opțiune și să căutăm confirmări ori de câte ori nu suntem siguri. Însă în toată această căutare, este ușor să pierzi legătura cu vocea liniștită și statornică a propriei intuiții.",
+    "introBody2": "Sanctuary Meditation este o călătorie ghidată spre interior, către un loc sacru și sigur, unde zgomotul minții de zi cu zi se stinge și îți poți întâlni Sinele Superior, primind îndrumare și răspunsuri.",
     "higherSelfHeading": "Sinele tău Superior",
-    "higherSelfBody": "A-ți cunoaște Sinele Superior este un avantaj uriaș pentru orice persoană intuitivă. Relația ta cu Sinele Superior devine un instrument extraordinar de discernământ și creștere, fiindcă este cel mai de încredere consilier al tău și cel care te cunoaște cel mai bine.",
-    "benefitsHeading": "Ce câștigi",
+    "higherSelfBody": "Sinele tău Superior este sfătuitorul tău cel mai de încredere și cel care te cunoaște cel mai bine. Să-l cunoști este un mare avantaj pentru orice om intuitiv, iar relația cu el devine un instrument minunat de discernământ și creștere.",
+    "benefitsHeading": "Ce vei trăi",
     "benefits": [
-      "Un loc sacru și sigur al tău, spre care să călătorești",
-      "O întâlnire cu Sinele tău Superior",
-      "Îndrumare și răspunsuri",
-      "Încrederea că mesajele pe care le primești sunt adevărate, reale și spre binele tău cel mai înalt",
-      "Un instrument durabil de discernământ și creștere"
+      {
+        "label": "Sanctuarul tău",
+        "text": "Un loc sacru și sigur, doar al tău, spre care poți călători."
+      },
+      {
+        "label": "Sinele tău Superior",
+        "text": "O întâlnire cu cel care te cunoaște cel mai bine."
+      },
+      {
+        "label": "Îndrumare și răspunsuri",
+        "text": "Claritate care vine din interiorul tău."
+      },
+      {
+        "label": "Încredere în ceea ce primești",
+        "text": "Un mod de a ști că mesajele pe care le primești sunt adevărate, reale și pentru binele tău cel mai înalt."
+      }
     ],
-    "nextHeading": "Încotro duce",
-    "nextBody": "Această tehnică Sanctuary Meditation este baza atelierului Journeys of the Spirit, care te învață să primești și mai multă înțelegere și informații prin îndrumare.",
-    "bookingTitle": "Rezervă-ți locul",
+    "bookingTitle": "Oferă-ți acest timp",
     "duration": "2,5 ore",
-    "bookingNote": "Contactează-ne ca să-ți rezervi locul la următoarea Sanctuary Meditation Class la Praga.",
-    "inquiry": "Bună, aș dori să aflu mai multe despre Sanctuary Meditation."
+    "bookingNote": "În persoană, în Vršovice, Praga.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre Sanctuary Meditation.",
+    "whyHeading": "De ce ai avea nevoie de asta?",
+    "whyIntro": "Cea mai profundă îndrumare nu vine întotdeauna din a gândi mai mult. Poate veni din liniștea dinăuntru.",
+    "why": [
+      {
+        "who": "Când nu ești sigur(ă) de următorul pas",
+        "text": "Și ai cerut deja sfatul tuturor."
+      },
+      {
+        "who": "Când mintea nu se oprește",
+        "text": "Și gândurile aduc doar alte gânduri."
+      },
+      {
+        "who": "Când primești mesaje intuitive",
+        "text": "Și vrei să știi că sunt adevărate, reale și pentru binele tău cel mai înalt."
+      },
+      {
+        "who": "Când tânjești după îndrumare interioară",
+        "text": "Și vrei să nu mai cauți în afara ta drumul înainte."
+      }
+    ],
+    "expectHeading": "La ce să te aștepți",
+    "expect": [
+      "2,5 ore, în persoană, în Vršovice, Praga",
+      "O meditație ghidată: te însoțim pe tot parcursul călătoriei",
+      "Un spațiu care te susține să asculți în interior",
+      "O tehnică la care poți reveni mereu"
+    ],
+    "faq": [
+      {
+        "q": "Trebuie să vin cu o întrebare sau o problemă?",
+        "a": "Nu. Nu este nevoie să vii cu o problemă anume sau cu o intenție clară. Vino cu gândurile și trăirile pe care le porți astăzi."
+      },
+      {
+        "q": "Cursul are loc în persoană?",
+        "a": "Da. Are loc în persoană, în Vršovice, Praga."
+      },
+      {
+        "q": "Prin ce diferă de Sanctuary Meditation de o oră?",
+        "a": "Acest curs te învață întreaga tehnică. <link>Sanctuary Meditation de o oră</link> este pentru cei care au urmat deja acest curs sau au participat la Empower Thyself.",
+        "href": "/sanctuary-meditation-session"
+      },
+      {
+        "q": "Ce urmează după?",
+        "a": "Această tehnică este baza atelierului Journeys of the Spirit, care te învață să primești și mai multă înțelegere și informații prin îndrumare."
+      },
+      {
+        "q": "Cum mă pot înscrie?",
+        "a": "Folosește butonul de rezervare din partea de sus a acestei pagini ca să-ți alegi data. Dacă vrei să ne întrebi ceva înainte, scrie-ne pe WhatsApp sau pe e-mail și te ajutăm cu drag."
+      }
+    ],
+    "ctaHeading": "Ce ai putea găsi în tine?",
+    "ctaBody": "Oferă-ți spațiul să explorezi. Te așteptăm cu drag.",
+    "reserveYourPlace": "Rezervă-ți locul"
   },
   "MeditationPrayer": {
     "heroEyebrow": "Liniște și devoțiune",
