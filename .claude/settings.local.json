@@ -43,7 +43,9 @@
       "Bash(node scripts/_tmp_add_flag.js \"lib/blog/posts.ts\")",
       "Skill(run)",
       "Bash(node -e \"console.log\\(require.resolve\\('playwright'\\)\\)\")",
-      "Bash(npx --yes playwright --version)"
+      "Bash(npx --yes playwright --version)",
+      "mcp__stripe__stripe_api_write",
+      "mcp__stripe__stripe_api_read"
     ]
   }
 }
