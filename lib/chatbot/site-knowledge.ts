@@ -3,6 +3,8 @@
 export const SITE_KNOWLEDGE = `## PAGE: /advanced-ensofic-ray-healing
 center 30%
 11.900 CZK
+all/advanced-ensofic-ray-healing
+advanced-ensofic-ray-healing
 
 ## PAGE: /astral-travel
 astral-travel
@@ -227,6 +229,8 @@ center 50%
 Amethyst geode · photo by Calvin Chai, Unsplash
 3.669 CZK
 /sacred-rites-healing
+all/crystal-healing
+crystal-healing
 
 ## PAGE: /emotional-cord-cutting
 center 40%
@@ -655,6 +659,8 @@ Is the practitioner certified?
 Yes. Only practitioners certified directly by Modern Mystery School International may perform it, and they re-certify every year.
 
 ## PAGE: /life-purpose-reading
+life-purpose-reading
+all/life-purpose-reading
 A Reading of the Mystery School
 Life Purpose & 11th Codon Reading
 Discover your purpose, and activate the codons that carry it
@@ -979,6 +985,113 @@ Awakens and harmonises the body's seven energy centres.
 ## PAGE: /negative-energy-removal
 center 40%
 
+## PAGE: /our-mission
+lucide-react
+sessions
+community
+/healings
+nav.healings
+training.ongoing
+/lineage
+nav.lineage
+/certifications
+nav.certifications
+who.closing
+working.body1
+working.body2
+working.whatsappButton
+working.contactButton
+working.signature
+working.signaturePlace
+Our Mission | The Path of Initiation Prague
+Why we do this work, what we offer, and the principles and standards we hold ourselves to: spiritual healing and spiritual development in Prague with Diana and Radu Coman, in the lineage of King Salomon.
+The Path of Initiation · Prague
+Our Mission
+The Path of Initiation is a spiritual healing and spiritual development practice in Prague, run by Diana and Radu Coman. We are certified healers and teachers in the Modern Mystery School , working in the lineage of King Salomon . We teach people to manage and use the powers of their aura, soul and spirit, so they can understand themselves, make clear choices and live with purpose.
+Why we do this
+Most people are taught how to manage the outside world: a career, money, a household. Very few are taught how to manage what happens inside: their aura, their soul, their spirit, and the patterns that sit underneath their decisions. That gap costs people their health, their relationships and their sense of direction.
+The mystery schools have taught these skills for a very long time. Our job is to make that training available in a form that fits a working life in a modern city. We don't see this work as an escape from an ordinary, ambitious life. We see it as what makes that life sustainable.
+We measure our success by one thing: whether the people we work with become more capable of running their own lives.
+What we do
+One-to-one sessions
+The core of our practice is the Life Activation , a session from the lineage that works on the aura, soul and spirit and is usually the first step for new clients. We also offer Soul Retrieval, Negative Cord Cutting, Hermetic Rebalancing, Full Spirit Activation and other King Salomon Healing Modalities, chosen according to what each client needs.
+Classes and initiations
+Empower Thyself , a 2-day initiation, is the foundation of the training path. Alongside it we teach Sacred Geometry, Spiritual Intuition, Sanctuary Meditation, Astral Travel, The 7 Mystery Schools and Stress Rescue. Classes are small, in person and practical. Every technique is practised in the class, so students leave able to use it on their own.
+Community
+Regular Prayer Evenings and a monthly Socialization Evening give students a place to keep practising and to share experiences with each other.
+Sessions and classes take place in Vršovice, Prague, and classes are taught in English. Sessions involve very little talking, so they're open to non-English speakers. We also offer remote healing sessions and online guided meditations.
+Our approach
+Five principles guide how we work.
+Self-knowledge first
+Every method we teach serves one aim: helping you understand how you think, react and choose. “Know thyself” is the oldest instruction of the mystery schools, and it is still the most practical one.
+Tools, not dependence
+We judge our work by how well clients manage on their own. Each session and class ends with something you can do yourself.
+Responsibility stays with you
+We don't make decisions for clients, and we don't promise outcomes. We provide methods and guidance. What you do with them is your choice, and your results follow from it.
+Discernment over belief
+We don't ask anyone to accept ideas on faith. Test the work in your own experience and keep what holds up.
+Effort over shortcuts
+This path doesn't remove difficulty from life. It builds the clarity and steadiness to handle it. Progress comes from consistent practice, and we say so from the first conversation.
+Our standards
+Clients trust us with personal matters, and we hold ourselves to clear standards.
+Certified and accountable
+We practise only the modalities we are certified in, and we work under the Modern Mystery School's Practitioner Code of Ethics.
+Confidentiality
+What you share in a consultation, session or class stays between you and us.
+Clear scope
+Our work complements medical and psychological care. It never replaces it. We don't diagnose, and we never advise anyone to stop treatment or medication. When something is outside our scope, we say so and recommend the right professional.
+Honest communication
+We describe what a session involves and what clients commonly report. We don't guarantee results.
+Informed decisions
+Before you book, we explain what the session or class involves, how long it takes and what it costs.
+Respect
+We respect every client's background, beliefs and choices, and we don't speak against other practitioners, paths or traditions.
+Our training and lineage
+The Modern Mystery School is an international school that teaches the Hermetic lineage of King Salomon : a body of knowledge passed from teacher to student through structured training and initiation. Its curriculum is graded. Each level has prerequisites, and practitioners are certified before they work with the public.
+Diana Coman is a certified Life Activation Practitioner, Teacher, Healer and Ritual Master in the lineage. She was initiated in 2020 and speaks 5 languages.
+Radu Coman is a certified Guide, Teacher and Healer. He came to the school in 2018 while working as a software engineer at Microsoft in Seattle, and he brings an engineer's structured, practical thinking to his teaching.
+We continue to train regularly in the advanced programs held by the Modern Mystery School.
+Who we work with
+Most of our clients are capable adults: professionals, entrepreneurs, parents, and people in a period of change. They usually come to us for one of these reasons:
+Stress or exhaustion that rest and holidays don't fix
+The same patterns repeating at work or in relationships
+A major decision or transition
+A long-standing interest in spiritual development, and a wish to study it properly within a structured tradition
+Some clients come for a single session. Others go on to train with us, and some continue further within the school, including training as healers.
+Working with us
+The first step is a short consultation call. We ask what brings you to us, explain the options that fit, and answer your questions about content, schedule and cost. If a session or class is the right next step, we book it then. If it isn't, we tell you that too, and point you to what fits better.
+To arrange a call, message us on WhatsApp at +420 792 908 296 or use the contact form on this website.
+Message us on WhatsApp
+Contact form
+Hello, I read your mission page and would like to arrange a short consultation call.
+Diana and Radu Coman
+The Path of Initiation, Prague
+Activations & Initiations
+Healings
+Healing & Workshops
+Workshops
+About
+Begin Your Journey
+Meditation and Prayer
+Classes & Workshops
+All Healing Modalities
+Specialty Healings (KSHM)
+Astral Travel
+Spiritual Intuition
+The 7 Mystery Schools
+Stress Rescue
+Keys of the Ancients
+Kabbalah Ascension Program
+Your Guide
+Lineage
+Testimonials
+Certifications
+Calendar
+Know thyself, and thou shalt know
+the universe and the gods
+Inscribed at the Temple of Apollo · Delphi
+Milky Way over the Temple of Poseidon, Sounion · Kouts182, CC BY-SA 4.0
+
 ## PAGE: /
 Know thyself, and thou shalt know
 the universe and the gods
@@ -1175,6 +1288,8 @@ center 50%
 Healing stones · photo by Dan Farrell, Unsplash
 3.669 CZK
 /crystal-healing
+all/sacred-rites-healing
+sacred-rites-healing
 
 ## PAGE: /sanctuary-meditation-session
 Guided Meditation
@@ -1201,6 +1316,8 @@ Dates to be announced. Reach out and we will let you know when the next meditati
 Hello, I would like to learn more about the Sanctuary Meditation (1 hour).
 
 ## PAGE: /sanctuary-meditation
+sanctuary-meditation
+all/sanctuary-meditation
 Guided Meditation
 Sanctuary Meditation Class
 Journey to your Sanctuary & Meet your Higher Self
@@ -1258,6 +1375,8 @@ center 30%
 ## PAGE: /spark-of-life
 center 40%
 6.150 CZK
+all/spark-of-life
+spark-of-life
 
 ## PAGE: /specialty-healings
 The King Salomon Healing Modality
@@ -1520,6 +1639,7 @@ Healings
 Healing & Workshops
 About
 Begin Your Journey
+Our Mission
 Meditation and Prayer
 All Healing Modalities
 Specialty Healings (KSHM)
@@ -1692,6 +1812,22 @@ Are You Ready to Walk the Path?
 The door is open, but only you can choose to step through it. If you feel the call, let's start with the beginning: the Life Activation.
 Book a Life Activation
 
+## PAGE: (component) email-contact-button.tsx
+w-full rounded-sm border border-border bg-background/60 px-4 py-3 text-base text-foreground placeholder:text-muted-foreground backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary
+mb-2 block text-sm font-semibold uppercase tracking-wide text-foreground
+application/json
+request failed
+submitting
+Send a Message
+Fill this in and it'll land straight in Radu's inbox.
+Your name
+Your e-mail address
+Message
+Send Message
+Sending…
+Sent — Radu will get back to you personally soon. A confirmation is on its way to your inbox.
+Something went wrong. Please try again, or reach out on WhatsApp instead.
+
 ## PAGE: (component) ending-section.tsx
 Where all worlds meet
 Ancient wisdom for modern life
@@ -1786,6 +1922,7 @@ Healing & Workshops
 Workshops
 About
 Begin Your Journey
+Our Mission
 Meditation and Prayer
 Classes & Workshops
 All Healing Modalities
@@ -1881,6 +2018,7 @@ Healing & Workshops
 Workshops
 About
 Begin Your Journey
+Our Mission
 Meditation and Prayer
 Classes & Workshops
 All Healing Modalities

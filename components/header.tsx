@@ -59,6 +59,7 @@ export function Header() {
   ]
 
   const aboutLinks = [
+    { href: "/our-mission", label: t("nav.mission") },
     { href: "/#guide", label: t("nav.guide") },
     { href: "/lineage", label: t("nav.lineage") },
     { href: "/testimonials", label: t("nav.testimonials") },

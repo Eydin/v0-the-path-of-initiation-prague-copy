@@ -18,6 +18,7 @@
     "aboutGroup": "O nás",
     "beginJourney": "Začněte svou cestu",
     "nav": {
+      "mission": "Naše poslání",
       "meditationPrayer": "Meditace a modlitba",
       "workshops": "Kurzy a workshopy",
       "healings": "Všechny léčebné modality",
@@ -1516,6 +1517,119 @@
     "ctaHeading": "Vykročte na cestu",
     "ctaBody": "Tyto certifikace nejsou samy o sobě cílem — jsou důkazem věrně předávané linie, díky níž je vám nabízeno něco autentického. Dveře jsou otevřené těm, kdo cítí volání.",
     "ctaButton": "Začněte svou cestu"
+  },
+  "MissionPage": {
+    "metaTitle": "Naše poslání | Cesta iniciace Praha",
+    "metaDescription": "Proč tuto práci děláme, co nabízíme a jakými zásadami a standardy se řídíme: duchovní léčení a duchovní rozvoj v Praze s Dianou a Radu Coman, v linii krále Šalomouna.",
+    "heroEyebrow": "The Path of Initiation · Praha",
+    "heroHeading": "Naše <emphasis>poslání</emphasis>",
+    "intro": "The Path of Initiation je praxe duchovního léčení a duchovního rozvoje v Praze, kterou vedou Diana a Radu Coman. Jsme certifikovaní léčitelé a učitelé <mms>Modern Mystery School</mms> a pracujeme v <lineage>linii krále Šalomouna</lineage>. Učíme lidi zvládat a využívat síly své aury, duše a ducha, aby porozuměli sami sobě, dělali jasná rozhodnutí a žili smysluplný život.",
+    "why": {
+      "heading": "Proč to děláme",
+      "body1": "Většinu lidí učí, jak zvládat vnější svět: kariéru, peníze, domácnost. Jen málokoho učí, jak zvládat to, co se děje uvnitř: vlastní auru, duši a ducha a vzorce, které leží pod jeho rozhodnutími. Tato mezera lidi stojí zdraví, vztahy i životní směr.",
+      "body2": "Mysterijní školy tyto dovednosti učí už velmi dlouho. Naším úkolem je zpřístupnit tento výcvik v podobě, která zapadá do pracovního života v moderním městě. Tuto práci nevnímáme jako únik z běžného, ambiciózního života. Vnímáme ji jako to, co takový život činí udržitelným.",
+      "measure": "Svůj úspěch měříme jedinou věcí: zda se lidé, se kterými pracujeme, stávají schopnějšími řídit svůj vlastní život."
+    },
+    "what": {
+      "heading": "Co děláme",
+      "sessions": {
+        "title": "Individuální sezení",
+        "body": "Jádrem naší praxe je <la>Life Activation</la>, sezení z naší linie, které pracuje s aurou, duší a duchem a pro nové klienty bývá obvykle prvním krokem. Nabízíme také návrat duše, přeříznutí negativních pout, hermetické znovuvyvážení, Full Spirit Activation a další léčebné modality krále Šalomouna, vybrané podle toho, co každý klient potřebuje."
+      },
+      "classes": {
+        "title": "Kurzy a iniciace",
+        "body": "<et>Empower Thyself</et>, dvoudenní iniciace, je základem celé cesty výcviku. Vedle ní vyučujeme Sacred Geometry, Duchovní intuici, Sanctuary Meditation, Astrální cestování, 7 mysterijních škol a Záchranu před stresem. Kurzy probíhají v malých skupinách, osobně a prakticky. Každá technika se v kurzu procvičuje, takže studenti odcházejí s tím, že ji umí používat sami."
+      },
+      "community": {
+        "title": "Komunita",
+        "body": "Pravidelné modlitební večery a jednou měsíčně společenský večer dávají studentům prostor, kde mohou dál praktikovat a sdílet spolu své zkušenosti."
+      },
+      "practical": "Sezení a kurzy probíhají v Praze ve Vršovicích a kurzy vyučujeme v angličtině. Při sezeních se mluví jen velmi málo, takže jsou otevřená i těm, kdo anglicky nemluví. Nabízíme také léčebná sezení na dálku a online řízené meditace."
+    },
+    "approach": {
+      "heading": "Náš přístup",
+      "intro": "Naši práci vede pět zásad.",
+      "principles": [
+        {
+          "title": "Nejdříve sebepoznání",
+          "body": "Každá metoda, kterou učíme, slouží jedinému cíli: pomoci vám pochopit, jak myslíte, jak reagujete a jak se rozhodujete. „Poznej sám sebe“ je nejstarší pokyn mysterijních škol a stále je i tím nejpraktičtějším."
+        },
+        {
+          "title": "Nástroje, ne závislost",
+          "body": "Naši práci posuzujeme podle toho, jak dobře si klienti poradí sami. Každé sezení i kurz končí něčím, co můžete dělat sami."
+        },
+        {
+          "title": "Odpovědnost zůstává na vás",
+          "body": "Nerozhodujeme za klienty a neslibujeme výsledky. Poskytujeme metody a vedení. Co s nimi uděláte, je vaše volba, a vaše výsledky z ní vyplývají."
+        },
+        {
+          "title": "Rozlišování místo víry",
+          "body": "Po nikom nechceme, aby přijímal myšlenky jen na základě víry. Vyzkoušejte si tuto práci na vlastní zkušenosti a ponechte si to, co obstojí."
+        },
+        {
+          "title": "Úsilí místo zkratek",
+          "body": "Tato cesta neodstraňuje ze života obtíže. Buduje jasnost a stabilitu, abyste je zvládli. Pokrok přichází z pravidelné praxe a říkáme to už od prvního rozhovoru."
+        }
+      ]
+    },
+    "standards": {
+      "heading": "Naše standardy",
+      "intro": "Klienti nám svěřují osobní záležitosti, a proto se držíme jasných standardů.",
+      "items": [
+        {
+          "title": "Certifikovaní a odpovědní",
+          "body": "Praktikujeme pouze modality, ve kterých máme certifikaci, a řídíme se Etickým kodexem praktiků Modern Mystery School."
+        },
+        {
+          "title": "Důvěrnost",
+          "body": "Co sdílíte při konzultaci, sezení nebo v kurzu, zůstává mezi vámi a námi."
+        },
+        {
+          "title": "Jasně vymezený rozsah",
+          "body": "Naše práce doplňuje lékařskou a psychologickou péči. Nikdy ji nenahrazuje. Nestanovujeme diagnózy a nikdy nikomu neradíme, aby přerušil léčbu nebo užívání léků. Když je něco mimo náš rozsah, řekneme to a doporučíme vhodného odborníka."
+        },
+        {
+          "title": "Upřímná komunikace",
+          "body": "Popisujeme, co sezení obnáší a co klienti běžně uvádějí. Výsledky nezaručujeme."
+        },
+        {
+          "title": "Informovaná rozhodnutí",
+          "body": "Než si rezervujete, vysvětlíme vám, co sezení nebo kurz obnáší, jak dlouho trvá a kolik stojí."
+        },
+        {
+          "title": "Respekt",
+          "body": "Respektujeme původ, přesvědčení a volby každého klienta a nemluvíme proti jiným praktikům, cestám ani tradicím."
+        }
+      ]
+    },
+    "training": {
+      "heading": "Náš výcvik a linie",
+      "body": "<mms>Modern Mystery School</mms> je mezinárodní škola, která vyučuje hermetickou <lineage>linii krále Šalomouna</lineage>: soubor vědění předávaný od učitele ke studentovi prostřednictvím strukturovaného výcviku a iniciace. Její výuka je odstupňovaná. Každá úroveň má své předpoklady a praktici jsou certifikováni dříve, než začnou pracovat s veřejností.",
+      "diana": "<name>Diana Coman</name> je v této linii certifikovaná praktička Life Activation, učitelka, léčitelka a Ritual Master. Iniciována byla v roce 2020 a mluví pěti jazyky.",
+      "radu": "<name>Radu Coman</name> je certifikovaný průvodce, učitel a léčitel. Do školy přišel v roce 2018, když pracoval jako softwarový inženýr ve společnosti Microsoft v Seattlu, a do své výuky přináší strukturované a praktické myšlení inženýra.",
+      "ongoing": "Pravidelně se dále vzděláváme v pokročilých programech, které Modern Mystery School pořádá."
+    },
+    "who": {
+      "heading": "S kým pracujeme",
+      "body": "Většina našich klientů jsou schopní dospělí: odborníci, podnikatelé, rodiče a lidé v období změny. Obvykle k nám přicházejí z jednoho z těchto důvodů:",
+      "reasons": [
+        "Stres nebo vyčerpání, které nespraví odpočinek ani dovolená",
+        "Stejné vzorce, které se opakují v práci nebo ve vztazích",
+        "Velké rozhodnutí nebo životní změna",
+        "Dlouhodobý zájem o duchovní rozvoj a přání studovat ho pořádně, v rámci strukturované tradice"
+      ],
+      "closing": "Někteří klienti přijdou na jediné sezení. Jiní se u nás dál vzdělávají a někteří pokračují ještě dál v rámci školy, včetně výcviku na léčitele."
+    },
+    "working": {
+      "heading": "Spolupráce s námi",
+      "body1": "Prvním krokem je krátký konzultační hovor. Zeptáme se, co vás k nám přivádí, vysvětlíme možnosti, které se pro vás hodí, a odpovíme na vaše otázky ohledně obsahu, termínů a ceny. Pokud je sezení nebo kurz tím správným dalším krokem, rovnou ho zarezervujeme. Pokud ne, řekneme vám to také a doporučíme, co se pro vás hodí lépe.",
+      "body2": "Hovor si můžete domluvit přes WhatsApp na čísle +420 792 908 296 nebo přes kontaktní formulář na tomto webu.",
+      "whatsappButton": "Napište nám na WhatsApp",
+      "contactButton": "Kontaktní formulář",
+      "whatsappMessage": "Dobrý den, přečetl(a) jsem si stránku Naše poslání a rád(a) bych si domluvil(a) krátký konzultační hovor.",
+      "signature": "Diana a Radu Coman",
+      "signaturePlace": "The Path of Initiation, Praha"
+    }
   },
   "LineagePage": {
     "metaTitle": "Linie krále Šalomouna | Cesta iniciace Praha",

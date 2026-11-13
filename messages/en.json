@@ -18,6 +18,7 @@
     "aboutGroup": "About",
     "beginJourney": "Begin Your Journey",
     "nav": {
+      "mission": "Our Mission",
       "meditationPrayer": "Meditation and Prayer",
       "workshops": "Classes & Workshops",
       "healings": "All Healing Modalities",
@@ -1516,6 +1517,119 @@
     "ctaHeading": "Walk the Path",
     "ctaBody": "These certifications are not the point — they are the proof of a lineage faithfully carried, so that what is offered to you is authentic. The door is open to those who feel the call.",
     "ctaButton": "Begin Your Journey"
+  },
+  "MissionPage": {
+    "metaTitle": "Our Mission | The Path of Initiation Prague",
+    "metaDescription": "Why we do this work, what we offer, and the principles and standards we hold ourselves to: spiritual healing and spiritual development in Prague with Diana and Radu Coman, in the lineage of King Salomon.",
+    "heroEyebrow": "The Path of Initiation · Prague",
+    "heroHeading": "Our <emphasis>Mission</emphasis>",
+    "intro": "The Path of Initiation is a spiritual healing and spiritual development practice in Prague, run by Diana and Radu Coman. We are certified healers and teachers in the <mms>Modern Mystery School</mms>, working in the <lineage>lineage of King Salomon</lineage>. We teach people to manage and use the powers of their aura, soul and spirit, so they can understand themselves, make clear choices and live with purpose.",
+    "why": {
+      "heading": "Why we do this",
+      "body1": "Most people are taught how to manage the outside world: a career, money, a household. Very few are taught how to manage what happens inside: their aura, their soul, their spirit, and the patterns that sit underneath their decisions. That gap costs people their health, their relationships and their sense of direction.",
+      "body2": "The mystery schools have taught these skills for a very long time. Our job is to make that training available in a form that fits a working life in a modern city. We don't see this work as an escape from an ordinary, ambitious life. We see it as what makes that life sustainable.",
+      "measure": "We measure our success by one thing: whether the people we work with become more capable of running their own lives."
+    },
+    "what": {
+      "heading": "What we do",
+      "sessions": {
+        "title": "One-to-one sessions",
+        "body": "The core of our practice is the <la>Life Activation</la>, a session from the lineage that works on the aura, soul and spirit and is usually the first step for new clients. We also offer Soul Retrieval, Negative Cord Cutting, Hermetic Rebalancing, Full Spirit Activation and other King Salomon Healing Modalities, chosen according to what each client needs."
+      },
+      "classes": {
+        "title": "Classes and initiations",
+        "body": "<et>Empower Thyself</et>, a 2-day initiation, is the foundation of the training path. Alongside it we teach Sacred Geometry, Spiritual Intuition, Sanctuary Meditation, Astral Travel, The 7 Mystery Schools and Stress Rescue. Classes are small, in person and practical. Every technique is practised in the class, so students leave able to use it on their own."
+      },
+      "community": {
+        "title": "Community",
+        "body": "Regular Prayer Evenings and a monthly Socialization Evening give students a place to keep practising and to share experiences with each other."
+      },
+      "practical": "Sessions and classes take place in Vršovice, Prague, and classes are taught in English. Sessions involve very little talking, so they're open to non-English speakers. We also offer remote healing sessions and online guided meditations."
+    },
+    "approach": {
+      "heading": "Our approach",
+      "intro": "Five principles guide how we work.",
+      "principles": [
+        {
+          "title": "Self-knowledge first",
+          "body": "Every method we teach serves one aim: helping you understand how you think, react and choose. “Know thyself” is the oldest instruction of the mystery schools, and it is still the most practical one."
+        },
+        {
+          "title": "Tools, not dependence",
+          "body": "We judge our work by how well clients manage on their own. Each session and class ends with something you can do yourself."
+        },
+        {
+          "title": "Responsibility stays with you",
+          "body": "We don't make decisions for clients, and we don't promise outcomes. We provide methods and guidance. What you do with them is your choice, and your results follow from it."
+        },
+        {
+          "title": "Discernment over belief",
+          "body": "We don't ask anyone to accept ideas on faith. Test the work in your own experience and keep what holds up."
+        },
+        {
+          "title": "Effort over shortcuts",
+          "body": "This path doesn't remove difficulty from life. It builds the clarity and steadiness to handle it. Progress comes from consistent practice, and we say so from the first conversation."
+        }
+      ]
+    },
+    "standards": {
+      "heading": "Our standards",
+      "intro": "Clients trust us with personal matters, and we hold ourselves to clear standards.",
+      "items": [
+        {
+          "title": "Certified and accountable",
+          "body": "We practise only the modalities we are certified in, and we work under the Modern Mystery School's Practitioner Code of Ethics."
+        },
+        {
+          "title": "Confidentiality",
+          "body": "What you share in a consultation, session or class stays between you and us."
+        },
+        {
+          "title": "Clear scope",
+          "body": "Our work complements medical and psychological care. It never replaces it. We don't diagnose, and we never advise anyone to stop treatment or medication. When something is outside our scope, we say so and recommend the right professional."
+        },
+        {
+          "title": "Honest communication",
+          "body": "We describe what a session involves and what clients commonly report. We don't guarantee results."
+        },
+        {
+          "title": "Informed decisions",
+          "body": "Before you book, we explain what the session or class involves, how long it takes and what it costs."
+        },
+        {
+          "title": "Respect",
+          "body": "We respect every client's background, beliefs and choices, and we don't speak against other practitioners, paths or traditions."
+        }
+      ]
+    },
+    "training": {
+      "heading": "Our training and lineage",
+      "body": "The <mms>Modern Mystery School</mms> is an international school that teaches the Hermetic <lineage>lineage of King Salomon</lineage>: a body of knowledge passed from teacher to student through structured training and initiation. Its curriculum is graded. Each level has prerequisites, and practitioners are certified before they work with the public.",
+      "diana": "<name>Diana Coman</name> is a certified Life Activation Practitioner, Teacher, Healer and Ritual Master in the lineage. She was initiated in 2020 and speaks 5 languages.",
+      "radu": "<name>Radu Coman</name> is a certified Guide, Teacher and Healer. He came to the school in 2018 while working as a software engineer at Microsoft in Seattle, and he brings an engineer's structured, practical thinking to his teaching.",
+      "ongoing": "We continue to train regularly in the advanced programs held by the Modern Mystery School."
+    },
+    "who": {
+      "heading": "Who we work with",
+      "body": "Most of our clients are capable adults: professionals, entrepreneurs, parents, and people in a period of change. They usually come to us for one of these reasons:",
+      "reasons": [
+        "Stress or exhaustion that rest and holidays don't fix",
+        "The same patterns repeating at work or in relationships",
+        "A major decision or transition",
+        "A long-standing interest in spiritual development, and a wish to study it properly within a structured tradition"
+      ],
+      "closing": "Some clients come for a single session. Others go on to train with us, and some continue further within the school, including training as healers."
+    },
+    "working": {
+      "heading": "Working with us",
+      "body1": "The first step is a short consultation call. We ask what brings you to us, explain the options that fit, and answer your questions about content, schedule and cost. If a session or class is the right next step, we book it then. If it isn't, we tell you that too, and point you to what fits better.",
+      "body2": "To arrange a call, message us on WhatsApp at +420 792 908 296 or use the contact form on this website.",
+      "whatsappButton": "Message us on WhatsApp",
+      "contactButton": "Contact form",
+      "whatsappMessage": "Hello, I read your mission page and would like to arrange a short consultation call.",
+      "signature": "Diana and Radu Coman",
+      "signaturePlace": "The Path of Initiation, Prague"
+    }
   },
   "LineagePage": {
     "metaTitle": "The Lineage of King Salomon | The Path of Initiation Prague",

@@ -18,6 +18,7 @@
     "aboutGroup": "Despre noi",
     "beginJourney": "Începe-ți călătoria",
     "nav": {
+      "mission": "Misiunea noastră",
       "meditationPrayer": "Meditație și rugăciune",
       "workshops": "Cursuri și ateliere",
       "healings": "Toate modalitățile de vindecare",
@@ -1516,6 +1517,119 @@
     "ctaHeading": "Pășește pe Cale",
     "ctaBody": "Aceste certificări nu sunt scopul în sine — sunt dovada unei linii transmise cu fidelitate, astfel încât ceea ce ți se oferă să fie autentic. Ușa este deschisă celor care simt chemarea.",
     "ctaButton": "Începe-ți călătoria"
+  },
+  "MissionPage": {
+    "metaTitle": "Misiunea noastră | Calea Inițierii Praga",
+    "metaDescription": "De ce facem această muncă, ce oferim și principiile și standardele după care ne ghidăm: vindecare spirituală și dezvoltare spirituală în Praga cu Diana și Radu Coman, în linia regelui Solomon.",
+    "heroEyebrow": "The Path of Initiation · Praga",
+    "heroHeading": "<emphasis>Misiunea</emphasis> noastră",
+    "intro": "The Path of Initiation este o practică de vindecare spirituală și dezvoltare spirituală din Praga, condusă de Diana și Radu Coman. Suntem vindecători și profesori certificați ai <mms>Modern Mystery School</mms> și lucrăm în <lineage>linia regelui Solomon</lineage>. Îi învățăm pe oameni să gestioneze și să folosească puterile aurei, sufletului și spiritului lor, astfel încât să se înțeleagă pe ei înșiși, să facă alegeri clare și să trăiască o viață cu sens.",
+    "why": {
+      "heading": "De ce facem asta",
+      "body1": "Majoritatea oamenilor învață cum să gestioneze lumea exterioară: o carieră, banii, o gospodărie. Foarte puțini învață cum să gestioneze ceea ce se întâmplă în interior: aura, sufletul, spiritul și tiparele care stau la baza deciziilor lor. Acest gol îi costă pe oameni sănătatea, relațiile și simțul direcției.",
+      "body2": "Școlile misterelor predau aceste abilități de foarte mult timp. Rolul nostru este să facem această pregătire accesibilă într-o formă care se potrivește cu o viață profesională activă într-un oraș modern. Nu vedem această muncă drept o evadare dintr-o viață obișnuită și ambițioasă. O vedem ca pe ceea ce face o astfel de viață sustenabilă.",
+      "measure": "Ne măsurăm succesul după un singur lucru: dacă oamenii cu care lucrăm devin mai capabili să-și conducă propria viață."
+    },
+    "what": {
+      "heading": "Ce facem",
+      "sessions": {
+        "title": "Ședințe individuale",
+        "body": "Nucleul practicii noastre este <la>Life Activation</la>, o ședință din linia noastră care lucrează asupra aurei, sufletului și spiritului și care este de obicei primul pas pentru clienții noi. Oferim de asemenea Recuperarea sufletului, Tăierea cordoanelor negative, Reechilibrarea Hermetică, Full Spirit Activation și alte Modalități de Vindecare ale Regelui Solomon, alese în funcție de ce are nevoie fiecare client."
+      },
+      "classes": {
+        "title": "Cursuri și inițieri",
+        "body": "<et>Empower Thyself</et>, o inițiere de 2 zile, este fundamentul drumului de pregătire. Pe lângă ea predăm Sacred Geometry, Intuiție spirituală, Sanctuary Meditation, Călătorie astrală, Cele 7 Școli ale Misterelor și Eliberare de stres. Cursurile sunt în grupuri mici, în persoană și practice. Fiecare tehnică este exersată la curs, astfel încât cursanții pleacă știind să o folosească singuri."
+      },
+      "community": {
+        "title": "Comunitate",
+        "body": "Serile de rugăciune regulate și o Seară de socializare lunară le oferă cursanților un loc unde să continue să practice și să-și împărtășească experiențele."
+      },
+      "practical": "Ședințele și cursurile au loc în Vršovice, Praga, iar cursurile sunt predate în engleză. În ședințe se vorbește foarte puțin, așa că ele sunt deschise și celor care nu vorbesc engleza. Oferim de asemenea ședințe de vindecare la distanță și meditații ghidate online."
+    },
+    "approach": {
+      "heading": "Abordarea noastră",
+      "intro": "Cinci principii ne ghidează munca.",
+      "principles": [
+        {
+          "title": "Mai întâi cunoașterea de sine",
+          "body": "Fiecare metodă pe care o predăm servește unui singur scop: să te ajute să înțelegi cum gândești, cum reacționezi și cum alegi. „Cunoaște-te pe tine însuți” este cea mai veche învățătură a școlilor misterelor și este în continuare cea mai practică."
+        },
+        {
+          "title": "Instrumente, nu dependență",
+          "body": "Ne judecăm munca după cât de bine se descurcă clienții pe cont propriu. Fiecare ședință și fiecare curs se încheie cu ceva ce poți face singur."
+        },
+        {
+          "title": "Responsabilitatea rămâne la tine",
+          "body": "Nu luăm decizii în locul clienților și nu promitem rezultate. Oferim metode și îndrumare. Ce faci cu ele este alegerea ta, iar rezultatele tale decurg din ea."
+        },
+        {
+          "title": "Discernământ mai presus de credință",
+          "body": "Nu cerem nimănui să accepte idei pe încredere. Testează munca în propria experiență și păstrează ce se confirmă."
+        },
+        {
+          "title": "Efort, nu scurtături",
+          "body": "Această cale nu elimină dificultățile din viață. Construiește claritatea și stabilitatea necesare pentru a le face față. Progresul vine din practică constantă și spunem asta încă de la prima conversație."
+        }
+      ]
+    },
+    "standards": {
+      "heading": "Standardele noastre",
+      "intro": "Clienții ne încredințează chestiuni personale, iar noi ne ținem de standarde clare.",
+      "items": [
+        {
+          "title": "Certificați și responsabili",
+          "body": "Practicăm doar modalitățile în care suntem certificați și lucrăm conform Codului etic al practicienilor Modern Mystery School."
+        },
+        {
+          "title": "Confidențialitate",
+          "body": "Ce împărtășești într-o consultație, o ședință sau un curs rămâne între tine și noi."
+        },
+        {
+          "title": "Limite clare",
+          "body": "Munca noastră completează îngrijirea medicală și psihologică. Nu o înlocuiește niciodată. Nu punem diagnostice și nu sfătuim niciodată pe nimeni să întrerupă un tratament sau o medicație. Când ceva depășește domeniul nostru, spunem asta și recomandăm specialistul potrivit."
+        },
+        {
+          "title": "Comunicare onestă",
+          "body": "Descriem ce presupune o ședință și ce relatează de obicei clienții. Nu garantăm rezultate."
+        },
+        {
+          "title": "Decizii informate",
+          "body": "Înainte să faci o rezervare, îți explicăm ce presupune ședința sau cursul, cât durează și cât costă."
+        },
+        {
+          "title": "Respect",
+          "body": "Respectăm originea, convingerile și alegerile fiecărui client și nu vorbim împotriva altor practicieni, căi sau tradiții."
+        }
+      ]
+    },
+    "training": {
+      "heading": "Pregătirea și linia noastră",
+      "body": "<mms>Modern Mystery School</mms> este o școală internațională care predă <lineage>linia hermetică a regelui Solomon</lineage>: un corp de cunoaștere transmis de la profesor la elev prin pregătire structurată și inițiere. Programa sa este gradată. Fiecare nivel are condiții prealabile, iar practicienii sunt certificați înainte de a lucra cu publicul.",
+      "diana": "<name>Diana Coman</name> este Practiciană Life Activation, Profesoară, Vindecătoare și Ritual Master certificată în această linie. A fost inițiată în 2020 și vorbește 5 limbi.",
+      "radu": "<name>Radu Coman</name> este Ghid, Profesor și Vindecător certificat. A venit la școală în 2018, pe când lucra ca inginer software la Microsoft în Seattle, și aduce în predarea sa gândirea structurată și practică a unui inginer.",
+      "ongoing": "Continuăm să ne pregătim regulat în programele avansate ținute de Modern Mystery School."
+    },
+    "who": {
+      "heading": "Cu cine lucrăm",
+      "body": "Majoritatea clienților noștri sunt adulți capabili: profesioniști, antreprenori, părinți și oameni aflați într-o perioadă de schimbare. De obicei vin la noi pentru unul dintre aceste motive:",
+      "reasons": [
+        "Stres sau epuizare pe care odihna și vacanțele nu le rezolvă",
+        "Aceleași tipare care se repetă la muncă sau în relații",
+        "O decizie importantă sau o tranziție majoră",
+        "Un interes de lungă durată pentru dezvoltarea spirituală și dorința de a o studia temeinic, în cadrul unei tradiții structurate"
+      ],
+      "closing": "Unii clienți vin pentru o singură ședință. Alții continuă să se pregătească cu noi, iar unii merg mai departe în cadrul școlii, inclusiv pregătindu-se ca vindecători."
+    },
+    "working": {
+      "heading": "Cum lucrăm împreună",
+      "body1": "Primul pas este o scurtă convorbire de consultare. Te întrebăm ce te aduce la noi, îți explicăm opțiunile potrivite și îți răspundem la întrebări despre conținut, program și cost. Dacă o ședință sau un curs este următorul pas potrivit, îl programăm atunci. Dacă nu, îți spunem și asta și te îndrumăm spre ceea ce ți se potrivește mai bine.",
+      "body2": "Pentru a stabili o convorbire, scrie-ne pe WhatsApp la +420 792 908 296 sau folosește formularul de contact de pe acest site.",
+      "whatsappButton": "Scrie-ne pe WhatsApp",
+      "contactButton": "Formular de contact",
+      "whatsappMessage": "Bună, am citit pagina despre misiunea voastră și aș dori să stabilim o scurtă convorbire de consultare.",
+      "signature": "Diana și Radu Coman",
+      "signaturePlace": "The Path of Initiation, Praga"
+    }
   },
   "LineagePage": {
     "metaTitle": "Linia Regelui Solomon | Calea Inițierii Praga",

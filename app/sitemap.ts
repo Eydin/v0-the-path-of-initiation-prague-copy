@@ -8,6 +8,7 @@ const SITE = "https://www.thepathofinitiationprague.com"
 
 const CORE_ROUTES = [
   "",
+  "/our-mission",
   "/lineage",
   "/community",
   "/calendar",

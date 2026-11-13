@@ -18,6 +18,7 @@
     "aboutGroup": "Über uns",
     "beginJourney": "Beginne deine Reise",
     "nav": {
+      "mission": "Unsere Mission",
       "meditationPrayer": "Meditation und Gebet",
       "workshops": "Kurse & Workshops",
       "healings": "Alle Heilmethoden",
@@ -1516,6 +1517,119 @@
     "ctaHeading": "Beschreite den Pfad",
     "ctaBody": "Diese Zertifizierungen sind nicht der eigentliche Punkt — sie sind der Beweis einer treu weitergegebenen Linie, damit das, was dir angeboten wird, authentisch ist. Die Tür steht offen für alle, die den Ruf spüren.",
     "ctaButton": "Beginne deine Reise"
+  },
+  "MissionPage": {
+    "metaTitle": "Unsere Mission | Der Pfad der Initiation Prag",
+    "metaDescription": "Warum wir diese Arbeit machen, was wir anbieten und an welche Prinzipien und Standards wir uns halten: spirituelle Heilung und spirituelle Entwicklung in Prag mit Diana und Radu Coman, in der Linie von König Salomon.",
+    "heroEyebrow": "The Path of Initiation · Prag",
+    "heroHeading": "Unsere <emphasis>Mission</emphasis>",
+    "intro": "The Path of Initiation ist eine Praxis für spirituelle Heilung und spirituelle Entwicklung in Prag, geführt von Diana und Radu Coman. Wir sind zertifizierte Heiler und Lehrer der <mms>Modern Mystery School</mms> und arbeiten in der <lineage>Linie von König Salomon</lineage>. Wir lehren Menschen, die Kräfte ihrer Aura, ihrer Seele und ihres Geistes zu lenken und zu nutzen, damit sie sich selbst verstehen, klare Entscheidungen treffen und ein Leben mit Sinn führen.",
+    "why": {
+      "heading": "Warum wir das tun",
+      "body1": "Die meisten Menschen lernen, die äußere Welt zu bewältigen: eine Karriere, Geld, einen Haushalt. Nur sehr wenige lernen, mit dem umzugehen, was in ihrem Inneren geschieht: mit ihrer Aura, ihrer Seele, ihrem Geist und den Mustern, die unter ihren Entscheidungen liegen. Diese Lücke kostet Menschen ihre Gesundheit, ihre Beziehungen und ihre Orientierung im Leben.",
+      "body2": "Die Mysterienschulen lehren diese Fähigkeiten seit sehr langer Zeit. Unsere Aufgabe ist es, diese Ausbildung in einer Form zugänglich zu machen, die zu einem Berufsleben in einer modernen Stadt passt. Wir sehen diese Arbeit nicht als Flucht aus einem gewöhnlichen, ehrgeizigen Leben. Wir sehen sie als das, was ein solches Leben tragfähig macht.",
+      "measure": "Wir messen unseren Erfolg an einer einzigen Sache: ob die Menschen, mit denen wir arbeiten, besser in der Lage sind, ihr eigenes Leben zu führen."
+    },
+    "what": {
+      "heading": "Was wir tun",
+      "sessions": {
+        "title": "Einzelsitzungen",
+        "body": "Das Herzstück unserer Praxis ist die <la>Life Activation</la>, eine Sitzung aus der Linie, die auf Aura, Seele und Geist wirkt und für neue Klienten meist der erste Schritt ist. Außerdem bieten wir Seelenrückholung, das Durchtrennen negativer Bindungen, Hermetischen Neuausgleich, Full Spirit Activation und weitere King-Salomon-Heilmethoden an, ausgewählt danach, was jeder Klient braucht."
+      },
+      "classes": {
+        "title": "Kurse und Initiationen",
+        "body": "<et>Empower Thyself</et>, eine zweitägige Initiation, ist das Fundament des Ausbildungswegs. Daneben unterrichten wir Sacred Geometry, Spirituelle Intuition, Sanctuary Meditation, Astralreisen, Die 7 Mysterienschulen und Stress-Rettung. Die Kurse finden in kleinen Gruppen statt, vor Ort und praxisnah. Jede Technik wird im Kurs geübt, sodass die Teilnehmenden sie danach selbstständig anwenden können."
+      },
+      "community": {
+        "title": "Gemeinschaft",
+        "body": "Regelmäßige Gebetsabende und ein monatlicher Geselligkeitsabend geben den Teilnehmenden einen Ort, an dem sie weiter üben und ihre Erfahrungen miteinander teilen können."
+      },
+      "practical": "Sitzungen und Kurse finden in Prag-Vršovice statt, die Kurse werden auf Englisch unterrichtet. In den Sitzungen wird nur sehr wenig gesprochen, deshalb stehen sie auch Menschen offen, die kein Englisch sprechen. Wir bieten außerdem Fernheilungen und geführte Online-Meditationen an."
+    },
+    "approach": {
+      "heading": "Unser Ansatz",
+      "intro": "Fünf Prinzipien leiten unsere Arbeit.",
+      "principles": [
+        {
+          "title": "Selbsterkenntnis zuerst",
+          "body": "Jede Methode, die wir lehren, dient einem Ziel: dir zu helfen zu verstehen, wie du denkst, reagierst und entscheidest. „Erkenne dich selbst“ ist die älteste Anweisung der Mysterienschulen, und sie ist immer noch die praktischste."
+        },
+        {
+          "title": "Werkzeuge statt Abhängigkeit",
+          "body": "Wir messen unsere Arbeit daran, wie gut unsere Klienten allein zurechtkommen. Jede Sitzung und jeder Kurs endet mit etwas, das du selbst tun kannst."
+        },
+        {
+          "title": "Die Verantwortung bleibt bei dir",
+          "body": "Wir treffen keine Entscheidungen für unsere Klienten und versprechen keine Ergebnisse. Wir geben Methoden und Begleitung. Was du damit machst, ist deine Wahl, und deine Ergebnisse folgen daraus."
+        },
+        {
+          "title": "Unterscheidungsvermögen statt Glauben",
+          "body": "Wir verlangen von niemandem, Ideen einfach zu glauben. Prüfe die Arbeit an deiner eigenen Erfahrung und behalte, was sich bewährt."
+        },
+        {
+          "title": "Einsatz statt Abkürzungen",
+          "body": "Dieser Weg nimmt dem Leben nicht seine Schwierigkeiten. Er baut die Klarheit und Stabilität auf, um mit ihnen umzugehen. Fortschritt entsteht durch beständige Praxis, und das sagen wir vom ersten Gespräch an."
+        }
+      ]
+    },
+    "standards": {
+      "heading": "Unsere Standards",
+      "intro": "Unsere Klienten vertrauen uns persönliche Dinge an, und wir halten uns an klare Standards.",
+      "items": [
+        {
+          "title": "Zertifiziert und verantwortlich",
+          "body": "Wir praktizieren nur die Methoden, in denen wir zertifiziert sind, und arbeiten nach dem Ethikkodex für Praktizierende der Modern Mystery School."
+        },
+        {
+          "title": "Vertraulichkeit",
+          "body": "Was du in einem Beratungsgespräch, einer Sitzung oder einem Kurs teilst, bleibt zwischen dir und uns."
+        },
+        {
+          "title": "Klare Grenzen",
+          "body": "Unsere Arbeit ergänzt medizinische und psychologische Behandlung. Sie ersetzt sie nie. Wir stellen keine Diagnosen und raten niemandem, eine Behandlung oder Medikamente abzusetzen. Wenn etwas außerhalb unseres Bereichs liegt, sagen wir das und empfehlen die passende Fachperson."
+        },
+        {
+          "title": "Ehrliche Kommunikation",
+          "body": "Wir beschreiben, was eine Sitzung beinhaltet und was Klienten häufig berichten. Wir garantieren keine Ergebnisse."
+        },
+        {
+          "title": "Informierte Entscheidungen",
+          "body": "Bevor du buchst, erklären wir dir, was die Sitzung oder der Kurs beinhaltet, wie lange das dauert und was es kostet."
+        },
+        {
+          "title": "Respekt",
+          "body": "Wir respektieren die Herkunft, die Überzeugungen und die Entscheidungen jedes Klienten, und wir sprechen nicht gegen andere Praktizierende, Wege oder Traditionen."
+        }
+      ]
+    },
+    "training": {
+      "heading": "Unsere Ausbildung und Linie",
+      "body": "Die <mms>Modern Mystery School</mms> ist eine internationale Schule, die die hermetische <lineage>Linie von König Salomon</lineage> lehrt: ein Wissen, das in strukturierter Ausbildung und Initiation vom Lehrer an den Schüler weitergegeben wird. Ihr Lehrplan ist gestuft. Jede Stufe hat Voraussetzungen, und Praktizierende werden zertifiziert, bevor sie mit der Öffentlichkeit arbeiten.",
+      "diana": "<name>Diana Coman</name> ist zertifizierte Life-Activation-Praktikerin, Lehrerin, Heilerin und Ritual Master in der Linie. Sie wurde 2020 initiiert und spricht fünf Sprachen.",
+      "radu": "<name>Radu Coman</name> ist zertifizierter Guide, Lehrer und Heiler. Er kam 2018 zur Schule, als er als Softwareingenieur bei Microsoft in Seattle arbeitete, und bringt das strukturierte, praktische Denken eines Ingenieurs in seinen Unterricht ein.",
+      "ongoing": "Wir bilden uns regelmäßig in den fortgeschrittenen Programmen der Modern Mystery School weiter."
+    },
+    "who": {
+      "heading": "Mit wem wir arbeiten",
+      "body": "Die meisten unserer Klienten sind Erwachsene, die mitten im Leben stehen: Berufstätige, Unternehmer, Eltern und Menschen in einer Zeit des Umbruchs. Meist kommen sie aus einem dieser Gründe zu uns:",
+      "reasons": [
+        "Stress oder Erschöpfung, die weder Ruhe noch Urlaub beheben",
+        "Dieselben Muster, die sich im Beruf oder in Beziehungen wiederholen",
+        "Eine wichtige Entscheidung oder ein Umbruch im Leben",
+        "Ein langjähriges Interesse an spiritueller Entwicklung und der Wunsch, sie gründlich innerhalb einer strukturierten Tradition zu studieren"
+      ],
+      "closing": "Manche Klienten kommen für eine einzelne Sitzung. Andere lassen sich bei uns weiter ausbilden, und einige gehen innerhalb der Schule noch weiter, bis hin zur Ausbildung als Heiler."
+    },
+    "working": {
+      "heading": "Zusammenarbeit mit uns",
+      "body1": "Der erste Schritt ist ein kurzes Beratungsgespräch. Wir fragen, was dich zu uns führt, erklären die passenden Möglichkeiten und beantworten deine Fragen zu Inhalt, Terminen und Kosten. Wenn eine Sitzung oder ein Kurs der richtige nächste Schritt ist, buchen wir ihn gleich. Wenn nicht, sagen wir dir auch das und zeigen dir, was besser passt.",
+      "body2": "Um ein Gespräch zu vereinbaren, schreib uns auf WhatsApp unter +420 792 908 296 oder nutze das Kontaktformular auf dieser Website.",
+      "whatsappButton": "Schreib uns auf WhatsApp",
+      "contactButton": "Kontaktformular",
+      "whatsappMessage": "Hallo, ich habe die Seite „Unsere Mission“ gelesen und möchte gerne ein kurzes Beratungsgespräch vereinbaren.",
+      "signature": "Diana und Radu Coman",
+      "signaturePlace": "The Path of Initiation, Prag"
+    }
   },
   "LineagePage": {
     "metaTitle": "Die Linie von König Salomon | Der Pfad der Initiation Prag",
