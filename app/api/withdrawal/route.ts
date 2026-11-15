@@ -2,6 +2,7 @@ import { NextResponse } from "next/server"
 import { Resend } from "resend"
 import { z } from "zod"
 import { routing } from "@/i18n/routing"
+import { HONEYPOT_FIELD, checkFormGuard } from "@/lib/form-guard"
 import { customerConfirmationEmail, ownerNotificationEmail } from "@/lib/email/withdrawal-templates"
 
 const FROM_ADDRESS = process.env.RESEND_FROM_EMAIL || "The Path of Initiation Prague <onboarding@resend.dev>"
@@ -15,21 +16,34 @@ const schema = z.object({
   bankAccount: z.string().trim().min(1).max(200),
   email: z.string().trim().email(),
   locale: z.enum(routing.locales as unknown as [string, ...string[]]),
+  [HONEYPOT_FIELD]: z.string().max(1000).optional(),
+  elapsedMs: z.number(),
 })
 
 export async function POST(req: Request) {
+  let parsedBody: z.infer<typeof schema>
+  try {
+    const body = await req.json()
+    parsedBody = schema.parse(body)
+  } catch {
+    return NextResponse.json({ error: "invalid_request" }, { status: 400 })
+  }
+
+  const { [HONEYPOT_FIELD]: honeypot, elapsedMs, ...data } = parsedBody
+  const verdict = checkFormGuard({ honeypot, elapsedMs })
+  if (verdict === "honeypot") {
+    console.warn("[withdrawal] dropped a bot submission (hidden field filled in); nothing sent")
+    return NextResponse.json({ success: true })
+  }
+  if (verdict === "too_fast") {
+    console.warn(`[withdrawal] rejected a submission sent ${elapsedMs}ms after the form appeared`)
+    return NextResponse.json({ error: "too_fast" }, { status: 400 })
+  }
+
   const apiKey = process.env.RESEND_API_KEY
   if (!apiKey) {
     console.error("[withdrawal] RESEND_API_KEY is not configured")
     return NextResponse.json({ error: "email_not_configured" }, { status: 500 })
-  }
-
-  let data: z.infer<typeof schema>
-  try {
-    const body = await req.json()
-    data = schema.parse(body)
-  } catch {
-    return NextResponse.json({ error: "invalid_request" }, { status: 400 })
   }
 
   const resend = new Resend(apiKey)

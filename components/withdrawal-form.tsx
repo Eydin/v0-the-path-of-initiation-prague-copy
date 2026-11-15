@@ -3,6 +3,7 @@
 import { useState, type FormEvent } from "react"
 import { useTranslations, useLocale } from "next-intl"
 import { AlertCircle, ArrowRight, CheckCircle2 } from "lucide-react"
+import { HoneypotField, useFormGuard } from "@/components/form-guard"
 
 const fieldClass =
   "w-full rounded-sm border border-border bg-background/60 px-4 py-3 text-base text-foreground placeholder:text-muted-foreground backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
@@ -22,6 +23,7 @@ export function WithdrawalForm() {
     email: "",
   })
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle")
+  const guard = useFormGuard()
 
   function update(key: keyof typeof fields) {
     return (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) =>
@@ -30,12 +32,13 @@ export function WithdrawalForm() {
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
+    const guardFields = guard.collect(event.currentTarget)
     setStatus("loading")
     try {
       const res = await fetch("/api/withdrawal", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ...fields, locale }),
+        body: JSON.stringify({ ...fields, locale, ...guardFields }),
       })
       if (!res.ok) throw new Error("request failed")
       setStatus("success")
@@ -146,6 +149,7 @@ export function WithdrawalForm() {
           className={fieldClass}
         />
         <p className="mt-1.5 text-xs text-muted-foreground">{t("emailHint")}</p>
+        <HoneypotField />
       </div>
 
       <p className="text-xs text-muted-foreground">{t("requiredFieldsNote")}</p>

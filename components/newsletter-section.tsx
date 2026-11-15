@@ -5,6 +5,8 @@ import { useTranslations } from "next-intl"
 import { ArrowRight, CheckCircle2, Mail, AlertCircle } from "lucide-react"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { ParallaxImage } from "@/components/parallax-image"
+import { HoneypotField, useFormGuard } from "@/components/form-guard"
+import { checkFormGuard, HONEYPOT_FIELD } from "@/lib/form-guard"
 
 const HUBSPOT_ENDPOINT =
   "https://api.hsforms.com/submissions/v3/integration/submit/244385888/1234d7eb-cafd-416c-ac29-891fcefedeb6"
@@ -15,9 +17,27 @@ export function NewsletterSection() {
   const [email, setEmail] = useState("")
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle")
   const [message, setMessage] = useState("")
+  const guard = useFormGuard()
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
+
+    // HubSpot and MailerLite are called straight from the browser, so the
+    // guard runs here: a bot that fills the hidden field gets a fake success
+    // and nothing is sent; a too-fast submit gets the ordinary error message.
+    const guardFields = guard.collect(event.currentTarget)
+    const verdict = checkFormGuard({ honeypot: guardFields[HONEYPOT_FIELD], elapsedMs: guardFields.elapsedMs })
+    if (verdict === "honeypot") {
+      setStatus("success")
+      setMessage(t("success"))
+      setEmail("")
+      return
+    }
+    if (verdict === "too_fast") {
+      setStatus("error")
+      setMessage(t("errorGeneric"))
+      return
+    }
 
     const trimmedEmail = email.trim()
     if (!trimmedEmail) {
@@ -100,6 +120,7 @@ export function NewsletterSection() {
                 aria-label={t("placeholder")}
                 className="h-14 w-full rounded-sm border border-[#2a2118] bg-[#2a1a14]/90 pl-11 pr-4 text-base text-[#f5efe0] placeholder:text-[#cdbfa6] backdrop-blur-sm transition-colors focus:border-[#e3c36e] focus:outline-none focus:ring-1 focus:ring-[#e3c36e]"
               />
+              <HoneypotField />
             </div>
             <button
               type="submit"

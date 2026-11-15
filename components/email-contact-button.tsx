@@ -11,6 +11,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog"
+import { HoneypotField, useFormGuard } from "@/components/form-guard"
 
 const fieldClass =
   "w-full rounded-sm border border-border bg-background/60 px-4 py-3 text-base text-foreground placeholder:text-muted-foreground backdrop-blur-sm transition-colors focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
@@ -37,10 +38,12 @@ export function EmailContactButton({
   const [open, setOpen] = useState(false)
   const [fields, setFields] = useState({ name: "", email: "", message: context })
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle")
+  const guard = useFormGuard()
 
   function onOpenChange(next: boolean) {
     setOpen(next)
     if (next) {
+      guard.restart()
       setStatus("idle")
       setFields({ name: "", email: "", message: context })
     }
@@ -48,12 +51,13 @@ export function EmailContactButton({
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
+    const guardFields = guard.collect(event.currentTarget)
     setStatus("loading")
     try {
       const res = await fetch("/api/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ...fields, context, locale }),
+        body: JSON.stringify({ ...fields, context, locale, ...guardFields }),
       })
       if (!res.ok) throw new Error("request failed")
       setStatus("success")
@@ -120,6 +124,7 @@ export function EmailContactButton({
                 onChange={(e) => setFields((prev) => ({ ...prev, message: e.target.value }))}
                 className={fieldClass}
               />
+              <HoneypotField />
             </div>
 
             <button
