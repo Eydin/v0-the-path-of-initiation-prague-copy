@@ -791,7 +791,7 @@
         "items": [
           { "name": "Life Purpose & 11th Codon Reading", "description": "A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation." },
           { "name": "Intuitive Reading with Crystal", "description": "A reading with a crystal that opens access to the wisdom of your Higher Self and guides." },
-          { "name": "Chronos Reading", "description": "A reading that works with the energies of time to bring clarity on your past, present and path ahead." }
+          { "name": "Chronos Reading", "description": "Guidance from Chronos on the gifts you were born with, and on the areas of life where you started at a disadvantage." }
         ]
       },
       "bodyWork": {
@@ -834,7 +834,7 @@
       { "name": "Compassion Summoning", "description": "The archangels are summoned for you, for soothing, protection, clarity and guidance." },
       { "name": "Space Realignment", "description": "Realigns and harmonises the energy of a home or space, restoring sacred order and flow." },
       { "name": "Baby Blessing", "description": "A sacred blessing to welcome a newborn — calling in protection, light and a blessed beginning." },
-      { "name": "Chronos Reading", "description": "A reading that works with the energies of time to bring clarity on your past, present and path ahead." }
+      { "name": "Chronos Reading", "description": "Guidance from Chronos on the gifts you were born with, and on the areas of life where you started at a disadvantage." }
     ],
     "seeAllLead": "Looking for the foundational sessions and the full range of healings?",
     "seeAllLinkLabel": "See all healing modalities →",
@@ -2693,7 +2693,8 @@
     "relatedBody": "Negative Energy Removal clears jealousy, envy, harsh words and ill will that other people have sent towards you.",
     "relatedCta": "Explore Negative Energy Removal",
     "bookingTitle": "Clear and Protect",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "90 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in the Shamanic Aura Clearing."
   },
   "IntuitiveCrystalReading": {
@@ -2757,8 +2758,69 @@
     "relatedBody": "The Life Purpose & 11th Codon Reading reveals your divine purpose and the gifts you carry.",
     "relatedCta": "Explore the Life Purpose Reading",
     "bookingTitle": "Ask Your Questions",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in an Intuitive Reading with Crystal."
+  },
+  "ChronosReading": {
+    "heroEyebrow": "Reading",
+    "heroTitle": "Chronos Reading",
+    "heroSubtitle": "Guidance from Chronos on the gifts you were born with",
+    "heroTagline": "Understand your natural strengths, and how to work with the places where life asks more of you",
+    "introLead": "Everyone arrives with gifts, and with a few areas that ask a little more of us.",
+    "introBody1": "In a Chronos Reading, the practitioner receives guidance from Chronos, the keeper of time, about you. The reading brings clarity on the qualities and talents you were born with, and advice on how to use them better in your life.",
+    "introBody2": "It also looks at the areas of life where you started with a disadvantage, and gives advice on how to remedy them. The aim is not to label you, but to give you a clearer picture of yourself, so you can build on your strengths and grow where it matters most.",
+    "signsHeading": "When a Reading Can Help",
+    "signs": [
+      "You want to understand your natural talents and how to use them",
+      "The same difficulties keep coming up in one area of your life",
+      "You are at a crossroads and want to know yourself better first",
+      "You are looking for practical advice for your personal growth"
+    ],
+    "protocolHeading": "What Happens in the Reading",
+    "protocol": [
+      {
+        "label": "Before we meet:",
+        "text": "A Life Activation first prepares your energy for the reading."
+      },
+      {
+        "label": "The reading:",
+        "text": "The practitioner receives guidance from Chronos about your gifts and your challenges, and shares what comes through."
+      },
+      {
+        "label": "Closing:",
+        "text": "We talk through what came up and how you can put the advice into practice."
+      }
+    ],
+    "benefitsHeading": "What the Reading Can Bring",
+    "benefits": [
+      "A clearer picture of your natural gifts",
+      "Understanding of why some areas of life have felt harder",
+      "Practical advice you can start using right away",
+      "More confidence on your own path"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a previous session?",
+        "a": "Yes. A Life Activation is needed first: it prepares your energy for the reading. <link>Read about the Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Will the reading predict my future?",
+        "a": "No. It looks at the gifts and challenges you were born with, and gives advice on how to work with them. What you do with that advice is always your choice."
+      },
+      {
+        "q": "How is it different from the Life Purpose Reading?",
+        "a": "The Life Purpose & 11th Codon Reading focuses on your divine purpose and what you can do now to fulfil it. The Chronos Reading focuses on your inborn strengths and weaknesses, and how to work with both."
+      }
+    ],
+    "relatedHeading": "Begin with the Life Activation",
+    "relatedBody": "The Life Activation prepares your energy for the Chronos Reading, and is a powerful first step on its own.",
+    "relatedCta": "Explore the Life Activation",
+    "bookingTitle": "Receive Your Reading",
+    "duration": "90 Minutes",
+    "inquiry": "Hello, I am interested in a Chronos Reading.",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email."
   },
   "LaserLightHealing": {
     "heroEyebrow": "Healing with Light",
@@ -2817,7 +2879,8 @@
     "relatedBody": "Meridian Line Balancing clears blocked meridians so your life force can flow freely again.",
     "relatedCta": "Explore Meridian Line Balancing",
     "bookingTitle": "Receive the Light",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in Laser Light Healing."
   },
   "MeridianLineBalancing": {
@@ -2880,7 +2943,8 @@
     "relatedBody": "Laser Light Healing uses pure, focused light to bring your body and every layer of your energy field into balance.",
     "relatedCta": "Explore Laser Light Healing",
     "bookingTitle": "Restore the Flow",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in Meridian Line Balancing."
   },
   "TreeOfLifeAwakening": {
@@ -2934,7 +2998,8 @@
     "relatedBody": "The Chakra Awakening opens your seven main chakras so you can receive energy from the divine.",
     "relatedCta": "Explore the Chakra Awakening",
     "bookingTitle": "Awaken Your Tree of Life",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "30 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in the Tree of Life Awakening."
   },
   "ChakraAwakening": {
@@ -2995,7 +3060,8 @@
     "relatedBody": "The Tree of Life Awakening opens the ten spheres of the Tree of Life in your energy, so you can create your life more easily.",
     "relatedCta": "Explore the Tree of Life Awakening",
     "bookingTitle": "Awaken Your Chakras",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "30 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in the Chakra Awakening."
   },
   "GalacticActivationPage": {
@@ -3112,7 +3178,8 @@
     "relatedBody": "The Fire Soul Infusion, another healing of the Sacred Geometry series, recalibrates your magnetic structure and awakens the fire of your soul.",
     "relatedCta": "Explore the Fire Soul Infusion",
     "bookingTitle": "Step into the Light",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in the Archangel Michael Interstellar Tube of Light."
   },
   "HermeticRebalancing": {
@@ -3158,7 +3225,7 @@
     "faq": [
       {
         "q": "Why three sessions?",
-        "a": "The rebalancing is given as a series: each session builds on the one before, and together they complete the work."
+        "a": "The rebalancing is given as a series: each session builds on the one before, and together they complete the work. You can also book a single session, but the series of three gives the complete effect."
       },
       {
         "q": "How often can I receive it?",
@@ -3178,7 +3245,21 @@
     "relatedBody": "Hermetic Soul Retrieval recovers and reintegrates lost fragments of the self into wholeness.",
     "relatedCta": "Explore Hermetic Soul Retrieval",
     "bookingTitle": "Begin Your Rebalancing",
-    "bookingNote": "Three one-to-one sessions, in person in Prague (Vršovice). Write to us and we will plan the dates with you.",
+    "duration": "2 Hours per Session",
+    "optionsHeading": "Choose your session",
+    "options": [
+      {
+        "name": "Single session",
+        "meta": "2 hours · 8.600 CZK",
+        "includes": "One Hermetic Rebalancing session on its own."
+      },
+      {
+        "name": "Series of three",
+        "meta": "3 × 2 hours · 22.000 CZK",
+        "includes": "The complete rebalancing: three sessions, one to two weeks apart. You book the first, and we schedule the other two together with you."
+      }
+    ],
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). When you book, choose a single session or the series of three, and pay securely online. For the series, we'll schedule the next two sessions together with you when you meet.",
     "inquiry": "Hello, I am interested in Hermetic Rebalancing."
   },
   "BabyBlessing": {
@@ -3231,7 +3312,8 @@
     "relatedBody": "The Life Activation awakens your own divine blueprint: the foundation of the healing work in our lineage.",
     "relatedCta": "Explore the Life Activation",
     "bookingTitle": "Bless Your Child",
-    "bookingNote": "In person in Prague. Write to us, ideally before your due date, and we will plan the blessing together.",
+    "bookLabel": "Book a Free Consultation",
+    "bookingNote": "Start with a free 1-hour consultation, online or in person in Prague, to talk through the details. You pay for the blessing only after we have spoken. The ceremony has no fixed length.",
     "inquiry": "Hello, I am interested in a Baby Blessing."
   },
   "EthericReconstruction": {
@@ -3297,7 +3379,8 @@
     "relatedBody": "Celestial Code Etheric Reconstruction clears the core issues and deep patterns that keep you tied to the past.",
     "relatedCta": "Explore the Celestial Code",
     "bookingTitle": "Begin with a Consultation",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "90 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in Etheric Reconstruction."
   },
   "CelestialCode": {
@@ -3357,7 +3440,8 @@
     "relatedBody": "Etheric Reconstruction removes dense, deep-seated energies from your etheric field and restores harmony with your divine blueprint.",
     "relatedCta": "Explore Etheric Reconstruction",
     "bookingTitle": "Let Go of the Old Story",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "90 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in the Celestial Code Etheric Reconstruction."
   },
   "FireSoulInfusion": {
@@ -3414,7 +3498,8 @@
     "relatedBody": "The Core Will Infusion strengthens your will and aligns it with the Will of the Divine, for focus and direction.",
     "relatedCta": "Explore the Core Will Infusion",
     "bookingTitle": "Rekindle Your Fire",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in the Fire Soul Infusion."
   },
   "CoreWillInfusion": {
@@ -3476,7 +3561,8 @@
     "relatedBody": "The Fire Soul Infusion recalibrates your magnetic structure and awakens the fire of your soul.",
     "relatedCta": "Explore the Fire Soul Infusion",
     "bookingTitle": "Strengthen Your Will",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in the Core Will Infusion."
   },
   "CompassionSummoning": {
@@ -3521,7 +3607,8 @@
     "relatedBody": "The Archangel Michael Interstellar Tube of Light surrounds you with a shield of divine light.",
     "relatedCta": "Explore the Tube of Light",
     "bookingTitle": "Receive Their Compassion",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "60 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in Compassion Summoning."
   },
   "StarseedHealing": {
@@ -3575,7 +3662,8 @@
     "relatedBody": "Unified Chakra Healing, the next session of the King Salomon Healing Modality, unifies and awakens a chakra system of 2,418 points.",
     "relatedCta": "Explore Unified Chakra Healing",
     "bookingTitle": "Clear and Reconnect",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "90 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in Starseed Healing."
   },
   "UnifiedChakraHealing": {
@@ -3630,7 +3718,8 @@
     "relatedBody": "Starseed Healing, the first session of the King Salomon Healing Modality, clears the clutter of the mind and brings your vibration back into tune.",
     "relatedCta": "Explore Starseed Healing",
     "bookingTitle": "Unify Your Energy",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.",
+    "duration": "90 Minutes",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
     "inquiry": "Hello, I am interested in Unified Chakra Healing."
   },
   "KshmAuricRegion": {
@@ -3690,7 +3779,8 @@
     "relatedBody": "Starseed Healing, the first session of the King Salomon Healing Modality, can also be received on its own.",
     "relatedCta": "Explore Starseed Healing",
     "bookingTitle": "Begin the Journey",
-    "bookingNote": "Ten one-to-one sessions, in person in Prague (Vršovice). Write to us for a first conversation.",
+    "duration": "10 × 2 Hours",
+    "bookingNote": "This books the first of your ten 2-hour sessions, the consultation, in person in Prague (Vršovice), at the full programme price. We'll schedule the nine healing sessions together with you when you meet.",
     "inquiry": "Hello, I am interested in the KSHM Auric Region."
   }
 }

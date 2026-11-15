@@ -791,7 +791,7 @@
         "items": [
           { "name": "Lectura Scopului Vieții și a celui de-al 11-lea Codon", "description": "O lectură a scopului tău divin și a darurilor pe care le porți, însoțită de activarea firelor de ADN 11 și 12, dincolo de Life Activation." },
           { "name": "Lectură intuitivă cu cristal", "description": "O lectură cu un cristal, care deschide accesul la înțelepciunea Sinelui tău Superior și a călăuzelor." },
-          { "name": "Lectura Chronos", "description": "O lectură care lucrează cu energiile timpului pentru a aduce claritate asupra trecutului, prezentului și căii tale înainte." }
+          { "name": "Lectura Chronos", "description": "Îndrumare de la Chronos despre darurile cu care te-ai născut și despre ariile vieții în care ai pornit cu un dezavantaj." }
         ]
       },
       "bodyWork": {
@@ -834,7 +834,7 @@
       { "name": "Invocarea Compasiunii", "description": "Arhanghelii sunt invocați pentru tine, pentru alinare, protecție, claritate și îndrumare." },
       { "name": "Realinierea Spațiului", "description": "Realiniază și armonizează energia unei case sau a unui spațiu, restabilind ordinea sacră și fluxul." },
       { "name": "Binecuvântarea Bebelușului", "description": "O binecuvântare sacră pentru a întâmpina un nou-născut — invocând protecție, lumină și un început binecuvântat." },
-      { "name": "Lectura Chronos", "description": "O lectură care lucrează cu energiile timpului pentru a aduce claritate asupra trecutului, prezentului și căii tale înainte." }
+      { "name": "Lectura Chronos", "description": "Îndrumare de la Chronos despre darurile cu care te-ai născut și despre ariile vieții în care ai pornit cu un dezavantaj." }
     ],
     "seeAllLead": "Cauți ședințele fundamentale și întreaga gamă de vindecări?",
     "seeAllLinkLabel": "Vezi toate modalitățile de vindecare →",
@@ -2693,7 +2693,8 @@
     "relatedBody": "Eliminarea energiei negative curăță gelozia, invidia, cuvintele dure și reaua-voință pe care alți oameni le-au îndreptat spre tine.",
     "relatedCta": "Descoperă eliminarea energiei negative",
     "bookingTitle": "Curățare și protecție",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "90 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de curățarea șamanică a aurei."
   },
   "IntuitiveCrystalReading": {
@@ -2757,8 +2758,69 @@
     "relatedBody": "Lectura Scopului Vieții și a celui de-al 11-lea Codon îți dezvăluie scopul divin și darurile pe care le porți.",
     "relatedCta": "Descoperă Lectura Scopului Vieții",
     "bookingTitle": "Pune-ți întrebările",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de o lectură intuitivă cu cristal."
+  },
+  "ChronosReading": {
+    "heroEyebrow": "Lectură",
+    "heroTitle": "Lectura Chronos",
+    "heroSubtitle": "Îndrumare de la Chronos despre darurile cu care te-ai născut",
+    "heroTagline": "Înțelege-ți punctele forte naturale și cum să lucrezi cu ariile în care viața îți cere mai mult",
+    "introLead": "Fiecare dintre noi vine pe lume cu daruri și cu câteva arii care ne cer ceva mai mult.",
+    "introBody1": "Într-o Lectură Chronos, practicianul primește îndrumare de la Chronos, păstrătorul timpului, despre tine. Lectura aduce claritate asupra calităților și talentelor cu care te-ai născut și sfaturi despre cum să le folosești mai bine în viața ta.",
+    "introBody2": "Ea privește și ariile vieții în care ai pornit cu un dezavantaj și oferă sfaturi despre cum să le remediezi. Scopul nu este să te încadreze într-o categorie, ci să-ți ofere o imagine mai clară despre tine, ca să poți construi pe punctele tale forte și să crești acolo unde contează cel mai mult.",
+    "signsHeading": "Când te poate ajuta o lectură",
+    "signs": [
+      "Vrei să-ți înțelegi talentele naturale și cum să le folosești",
+      "Aceleași dificultăți revin mereu într-o anumită arie a vieții tale",
+      "Ești la o răscruce și vrei mai întâi să te cunoști mai bine",
+      "Cauți sfaturi practice pentru dezvoltarea ta personală"
+    ],
+    "protocolHeading": "Ce se întâmplă în timpul lecturii",
+    "protocol": [
+      {
+        "label": "Înainte de întâlnire:",
+        "text": "O Life Activation făcută în prealabil îți pregătește energia pentru lectură."
+      },
+      {
+        "label": "Lectura:",
+        "text": "Practicianul primește îndrumare de la Chronos despre darurile și provocările tale și îți împărtășește ce primește."
+      },
+      {
+        "label": "Încheierea:",
+        "text": "Discutăm ce a ieșit la iveală și cum poți pune sfaturile în practică."
+      }
+    ],
+    "benefitsHeading": "Ce îți poate aduce lectura",
+    "benefits": [
+      "O imagine mai clară asupra darurilor tale naturale",
+      "Înțelegerea motivului pentru care unele arii ale vieții ți s-au părut mai grele",
+      "Sfaturi practice pe care le poți folosi imediat",
+      "Mai multă încredere în propriul drum"
+    ],
+    "faq": [
+      {
+        "q": "Am nevoie mai întâi de o altă ședință?",
+        "a": "Da. Mai întâi este nevoie de o Life Activation: îți pregătește energia pentru lectură. <link>Citește despre Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Îmi va prezice lectura viitorul?",
+        "a": "Nu. Ea privește darurile și provocările cu care te-ai născut și oferă sfaturi despre cum să lucrezi cu ele. Ce faci cu aceste sfaturi este întotdeauna alegerea ta."
+      },
+      {
+        "q": "Prin ce diferă de Lectura Scopului Vieții?",
+        "a": "Lectura Scopului Vieții și a celui de-al 11-lea Codon se concentrează pe scopul tău divin și pe ce poți face acum pentru a-l împlini. Lectura Chronos se concentrează pe punctele tale forte și slabe înnăscute și pe cum să lucrezi cu amândouă."
+      }
+    ],
+    "relatedHeading": "Începe cu Life Activation",
+    "relatedBody": "Life Activation îți pregătește energia pentru Lectura Chronos și este, în sine, un prim pas puternic.",
+    "relatedCta": "Descoperă Life Activation",
+    "bookingTitle": "Primește-ți lectura",
+    "duration": "90 de minute",
+    "inquiry": "Bună, sunt interesat(ă) de o Lectură Chronos.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail."
   },
   "LaserLightHealing": {
     "heroEyebrow": "Vindecare cu lumină",
@@ -2817,7 +2879,8 @@
     "relatedBody": "Echilibrarea liniilor meridiane curăță meridianele blocate, ca forța ta vitală să poată curge din nou liber.",
     "relatedCta": "Descoperă echilibrarea liniilor meridiane",
     "bookingTitle": "Primește lumina",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de vindecarea cu lumină laser."
   },
   "MeridianLineBalancing": {
@@ -2880,7 +2943,8 @@
     "relatedBody": "Vindecarea cu lumină laser folosește lumină pură și focalizată pentru a-ți aduce corpul și fiecare strat al câmpului energetic în echilibru.",
     "relatedCta": "Descoperă vindecarea cu lumină laser",
     "bookingTitle": "Restabilește fluxul",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de echilibrarea liniilor meridiane."
   },
   "TreeOfLifeAwakening": {
@@ -2934,7 +2998,8 @@
     "relatedBody": "Trezirea chakrelor îți deschide cele șapte chakre principale, ca să poți primi energia divină.",
     "relatedCta": "Descoperă trezirea chakrelor",
     "bookingTitle": "Trezește-ți Arborele Vieții",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "30 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de trezirea Arborelui Vieții."
   },
   "ChakraAwakening": {
@@ -2995,7 +3060,8 @@
     "relatedBody": "Trezirea Arborelui Vieții deschide cele zece sfere ale Arborelui Vieții în energia ta, ca să-ți poți crea viața mai ușor.",
     "relatedCta": "Descoperă trezirea Arborelui Vieții",
     "bookingTitle": "Trezește-ți chakrele",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "30 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de trezirea chakrelor."
   },
   "GalacticActivationPage": {
@@ -3112,7 +3178,8 @@
     "relatedBody": "Infuzia Focului Sufletului, o altă vindecare din seria Sacred Geometry, îți recalibrează structura magnetică și trezește focul sufletului tău.",
     "relatedCta": "Descoperă Infuzia Focului Sufletului",
     "bookingTitle": "Pășește în lumină",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Tubul de Lumină Interstelar al Arhanghelului Mihail."
   },
   "HermeticRebalancing": {
@@ -3158,7 +3225,7 @@
     "faq": [
       {
         "q": "De ce trei ședințe?",
-        "a": "Reechilibrarea se oferă ca o serie: fiecare ședință se construiește pe cea dinainte, iar împreună completează lucrarea."
+        "a": "Reechilibrarea se oferă ca o serie: fiecare ședință se construiește pe cea dinainte, iar împreună completează lucrarea. Poți rezerva și o singură ședință, dar efectul complet îl aduce seria de trei ședințe."
       },
       {
         "q": "Cât de des o pot primi?",
@@ -3178,7 +3245,21 @@
     "relatedBody": "Recuperarea hermetică a sufletului găsește fragmentele pierdute ale sinelui și le reintegrează, ca să fii din nou întreg(întreagă).",
     "relatedCta": "Descoperă Recuperarea hermetică a sufletului",
     "bookingTitle": "Începe-ți reechilibrarea",
-    "bookingNote": "Trei ședințe individuale, în persoană la Praga (Vršovice). Scrie-ne și stabilim datele împreună.",
+    "duration": "2 ore pe ședință",
+    "optionsHeading": "Alege-ți ședința",
+    "options": [
+      {
+        "name": "Ședință individuală",
+        "meta": "2 ore · 8.600 CZK",
+        "includes": "O singură ședință de Reechilibrare Hermetică."
+      },
+      {
+        "name": "Seria de trei ședințe",
+        "meta": "3 × 2 ore · 22.000 CZK",
+        "includes": "Reechilibrarea completă: trei ședințe, la una-două săptămâni distanță. Tu o rezervi pe prima, iar pe celelalte două le programăm împreună cu tine."
+      }
+    ],
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). La rezervare alege o ședință individuală sau seria de trei ședințe și plătește în siguranță online. Pentru serie, următoarele două ședințe le vom programa împreună cu tine când ne întâlnim.",
     "inquiry": "Bună, sunt interesat(ă) de Reechilibrarea Hermetică."
   },
   "BabyBlessing": {
@@ -3231,7 +3312,8 @@
     "relatedBody": "Life Activation îți trezește propriul plan divin: fundamentul lucrării de vindecare din linia noastră.",
     "relatedCta": "Descoperă Life Activation",
     "bookingTitle": "Binecuvântează-ți copilul",
-    "bookingNote": "În persoană la Praga. Scrie-ne, ideal înainte de data estimată a nașterii, și plănuim binecuvântarea împreună.",
+    "bookLabel": "Rezervă o consultație gratuită",
+    "bookingNote": "Începe cu o consultație gratuită de o oră, online sau în persoană la Praga, în care discutăm detaliile. Plătești binecuvântarea abia după ce am vorbit. Ceremonia nu are o durată fixă.",
     "inquiry": "Bună, sunt interesat(ă) de Binecuvântarea Bebelușului."
   },
   "EthericReconstruction": {
@@ -3297,7 +3379,8 @@
     "relatedBody": "Reconstrucția Eterică prin Coduri Celeste curăță problemele de fond și tiparele adânci care te țin legat(ă) de trecut.",
     "relatedCta": "Descoperă Codurile Celeste",
     "bookingTitle": "Începe cu o consultație",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "90 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Reconstrucția Eterică."
   },
   "CelestialCode": {
@@ -3357,7 +3440,8 @@
     "relatedBody": "Reconstrucția Eterică elimină energiile dense, adânc înrădăcinate, din câmpul tău eteric și reface armonia cu planul tău divin.",
     "relatedCta": "Descoperă Reconstrucția Eterică",
     "bookingTitle": "Lasă în urmă povestea veche",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "90 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Reconstrucția Eterică prin Coduri Celeste."
   },
   "FireSoulInfusion": {
@@ -3414,7 +3498,8 @@
     "relatedBody": "Infuzia Voinței de Bază îți întărește voința și o aliniază cu Voința Divinului, pentru concentrare și direcție.",
     "relatedCta": "Descoperă Infuzia Voinței de Bază",
     "bookingTitle": "Reaprinde-ți focul",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Infuzia Focului Sufletului."
   },
   "CoreWillInfusion": {
@@ -3476,7 +3561,8 @@
     "relatedBody": "Infuzia Focului Sufletului îți recalibrează structura magnetică și trezește focul sufletului tău.",
     "relatedCta": "Descoperă Infuzia Focului Sufletului",
     "bookingTitle": "Întărește-ți voința",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Infuzia Voinței de Bază."
   },
   "CompassionSummoning": {
@@ -3521,7 +3607,8 @@
     "relatedBody": "Tubul de Lumină Interstelar al Arhanghelului Mihail te înconjoară cu un scut de lumină divină.",
     "relatedCta": "Descoperă Tubul de Lumină",
     "bookingTitle": "Primește compasiunea lor",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "60 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Invocarea Compasiunii."
   },
   "StarseedHealing": {
@@ -3575,7 +3662,8 @@
     "relatedBody": "Vindecarea Unificată a Chakrelor, următoarea ședință din Modalitatea de Vindecare a Regelui Solomon, unifică și trezește un sistem de chakre cu 2.418 puncte.",
     "relatedCta": "Descoperă Vindecarea Unificată a Chakrelor",
     "bookingTitle": "Curăță și reconectează-te",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "90 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Vindecarea Semințelor Stelare."
   },
   "UnifiedChakraHealing": {
@@ -3630,7 +3718,8 @@
     "relatedBody": "Vindecarea Semințelor Stelare, prima ședință din Modalitatea de Vindecare a Regelui Solomon, limpezește aglomerația din minte și îți readuce vibrația în acord.",
     "relatedCta": "Descoperă Vindecarea Semințelor Stelare",
     "bookingTitle": "Unifică-ți energia",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Scrie-ne și găsim o oră care ți se potrivește.",
+    "duration": "90 de minute",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
     "inquiry": "Bună, sunt interesat(ă) de Vindecarea Unificată a Chakrelor."
   },
   "KshmAuricRegion": {
@@ -3690,7 +3779,8 @@
     "relatedBody": "Vindecarea Semințelor Stelare, prima ședință din Modalitatea de Vindecare a Regelui Solomon, poate fi primită și separat.",
     "relatedCta": "Descoperă Vindecarea Semințelor Stelare",
     "bookingTitle": "Începe călătoria",
-    "bookingNote": "Zece ședințe individuale, în persoană la Praga (Vršovice). Scrie-ne pentru o primă discuție.",
+    "duration": "10 × 2 ore",
+    "bookingNote": "Aceasta rezervă prima dintre cele zece ședințe de 2 ore, consultația, în persoană la Praga (Vršovice), la prețul integral al programului. Cele nouă ședințe de vindecare le vom programa împreună cu tine când ne întâlnim.",
     "inquiry": "Bună, sunt interesat(ă) de Regiunea Aurică KSHM."
   }
 }

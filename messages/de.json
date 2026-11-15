@@ -791,7 +791,7 @@
         "items": [
           { "name": "Lebenszweck- & 11. Codon-Lesung", "description": "Eine Lesung deiner göttlichen Bestimmung und der Gaben, die du trägst, verbunden mit der Aktivierung des 11. und 12. DNA-Strangs über die Life Activation hinaus." },
           { "name": "Intuitive Lesung mit Kristall", "description": "Eine Lesung mit einem Kristall, die den Zugang zur Weisheit deines Höheren Selbst und deiner Führer öffnet." },
-          { "name": "Chronos-Lesung", "description": "Eine Lesung, die mit den Energien der Zeit arbeitet, um Klarheit über deine Vergangenheit, Gegenwart und deinen Weg voraus zu bringen." }
+          { "name": "Chronos-Lesung", "description": "Führung von Chronos zu den Gaben, mit denen du geboren wurdest, und zu den Lebensbereichen, in denen du mit einem Nachteil gestartet bist." }
         ]
       },
       "bodyWork": {
@@ -834,7 +834,7 @@
       { "name": "Herbeirufung des Mitgefühls", "description": "Die Erzengel werden für dich herbeigerufen, für Trost, Schutz, Klarheit und Führung." },
       { "name": "Raum-Neuausrichtung", "description": "Richtet die Energie eines Hauses oder Raumes neu aus und harmonisiert sie, stellt heilige Ordnung und Fluss wieder her." },
       { "name": "Babysegnung", "description": "Ein heiliger Segen, um ein Neugeborenes willkommen zu heißen — ruft Schutz, Licht und einen gesegneten Anfang herbei." },
-      { "name": "Chronos-Lesung", "description": "Eine Lesung, die mit den Energien der Zeit arbeitet, um Klarheit über deine Vergangenheit, Gegenwart und deinen Weg voraus zu bringen." }
+      { "name": "Chronos-Lesung", "description": "Führung von Chronos zu den Gaben, mit denen du geboren wurdest, und zu den Lebensbereichen, in denen du mit einem Nachteil gestartet bist." }
     ],
     "seeAllLead": "Suchst du die grundlegenden Sitzungen und die volle Bandbreite an Heilungen?",
     "seeAllLinkLabel": "Alle Heilmethoden ansehen →",
@@ -2693,7 +2693,8 @@
     "relatedBody": "Die Entfernung negativer Energie reinigt Eifersucht, Neid, harte Worte und böse Absichten, die andere Menschen dir geschickt haben.",
     "relatedCta": "Entfernung negativer Energie entdecken",
     "bookingTitle": "Reinigen und Schützen",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "90 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Schamanische Aurareinigung."
   },
   "IntuitiveCrystalReading": {
@@ -2757,8 +2758,69 @@
     "relatedBody": "Die Lebenszweck- & 11. Codon-Lesung zeigt dir deine göttliche Bestimmung und die Gaben, die du trägst.",
     "relatedCta": "Die Lebenszweck-Lesung entdecken",
     "bookingTitle": "Stell deine Fragen",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für eine Intuitive Lesung mit Kristall."
+  },
+  "ChronosReading": {
+    "heroEyebrow": "Lesung",
+    "heroTitle": "Chronos-Lesung",
+    "heroSubtitle": "Führung von Chronos zu den Gaben, mit denen du geboren wurdest",
+    "heroTagline": "Erkenne deine natürlichen Stärken und lerne, mit den Bereichen umzugehen, in denen das Leben mehr von dir verlangt",
+    "introLead": "Jeder kommt mit Gaben auf die Welt, und mit ein paar Bereichen, die uns etwas mehr abverlangen.",
+    "introBody1": "In einer Chronos-Lesung empfängt der Praktizierende Führung von Chronos, dem Hüter der Zeit, über dich. Die Lesung bringt Klarheit über die Eigenschaften und Talente, mit denen du geboren wurdest, und Rat, wie du sie in deinem Leben besser nutzen kannst.",
+    "introBody2": "Sie betrachtet auch die Lebensbereiche, in denen du mit einem Nachteil gestartet bist, und gibt Rat, wie du das ausgleichen kannst. Es geht nicht darum, dich in eine Schublade zu stecken, sondern dir ein klareres Bild von dir selbst zu geben, damit du auf deinen Stärken aufbauen und dort wachsen kannst, wo es am meisten zählt.",
+    "signsHeading": "Wann eine Lesung helfen kann",
+    "signs": [
+      "Du möchtest deine natürlichen Talente verstehen und wissen, wie du sie nutzt",
+      "In einem Bereich deines Lebens tauchen immer wieder dieselben Schwierigkeiten auf",
+      "Du stehst an einem Scheideweg und möchtest dich zuerst besser kennenlernen",
+      "Du suchst praktischen Rat für dein persönliches Wachstum"
+    ],
+    "protocolHeading": "Was in der Lesung geschieht",
+    "protocol": [
+      {
+        "label": "Vor unserem Treffen:",
+        "text": "Eine Life Activation vorab bereitet deine Energie auf die Lesung vor."
+      },
+      {
+        "label": "Die Lesung:",
+        "text": "Der Praktizierende empfängt Führung von Chronos zu deinen Gaben und Herausforderungen und teilt, was durchkommt."
+      },
+      {
+        "label": "Abschluss:",
+        "text": "Wir besprechen, was sich gezeigt hat und wie du den Rat in die Praxis umsetzen kannst."
+      }
+    ],
+    "benefitsHeading": "Was dir die Lesung bringen kann",
+    "benefits": [
+      "Ein klareres Bild deiner natürlichen Gaben",
+      "Verständnis dafür, warum sich manche Lebensbereiche schwerer angefühlt haben",
+      "Praktischen Rat, den du sofort anwenden kannst",
+      "Mehr Vertrauen in deinen eigenen Weg"
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich vorher eine andere Sitzung?",
+        "a": "Ja. Zuerst ist eine Life Activation nötig: Sie bereitet deine Energie auf die Lesung vor. <link>Mehr über die Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Sagt die Lesung meine Zukunft voraus?",
+        "a": "Nein. Sie betrachtet die Gaben und Herausforderungen, mit denen du geboren wurdest, und gibt Rat, wie du mit ihnen arbeiten kannst. Was du mit diesem Rat machst, entscheidest immer du."
+      },
+      {
+        "q": "Worin unterscheidet sie sich von der Lebenszweck-Lesung?",
+        "a": "Die Lebenszweck- & 11. Codon-Lesung konzentriert sich auf deinen göttlichen Lebenszweck und darauf, was du jetzt tun kannst, um ihn zu erfüllen. Die Chronos-Lesung konzentriert sich auf deine angeborenen Stärken und Schwächen und darauf, wie du mit beiden arbeiten kannst."
+      }
+    ],
+    "relatedHeading": "Beginne mit der Life Activation",
+    "relatedBody": "Die Life Activation bereitet deine Energie auf die Chronos-Lesung vor und ist für sich allein schon ein kraftvoller erster Schritt.",
+    "relatedCta": "Die Life Activation entdecken",
+    "bookingTitle": "Empfange deine Lesung",
+    "duration": "90 Minuten",
+    "inquiry": "Hallo, ich interessiere mich für eine Chronos-Lesung.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt."
   },
   "LaserLightHealing": {
     "heroEyebrow": "Heilung mit Licht",
@@ -2817,7 +2879,8 @@
     "relatedBody": "Der Meridianlinien-Ausgleich löst blockierte Meridiane, damit deine Lebenskraft wieder frei fließen kann.",
     "relatedCta": "Meridianlinien-Ausgleich entdecken",
     "bookingTitle": "Empfange das Licht",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Laserlicht-Heilung."
   },
   "MeridianLineBalancing": {
@@ -2880,7 +2943,8 @@
     "relatedBody": "Die Laserlicht-Heilung bringt mit reinem, gebündeltem Licht deinen Körper und jede Schicht deines Energiefeldes ins Gleichgewicht.",
     "relatedCta": "Laserlicht-Heilung entdecken",
     "bookingTitle": "Den Fluss wiederherstellen",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für den Meridianlinien-Ausgleich."
   },
   "TreeOfLifeAwakening": {
@@ -2934,7 +2998,8 @@
     "relatedBody": "Die Chakra-Erweckung öffnet deine sieben Hauptchakren, damit du Energie vom Göttlichen empfangen kannst.",
     "relatedCta": "Die Chakra-Erweckung entdecken",
     "bookingTitle": "Erwecke deinen Baum des Lebens",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "30 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Erweckung des Baums des Lebens."
   },
   "ChakraAwakening": {
@@ -2995,7 +3060,8 @@
     "relatedBody": "Die Erweckung des Baums des Lebens öffnet die zehn Sphären des Baums des Lebens in deiner Energie, damit du dein Leben leichter erschaffen kannst.",
     "relatedCta": "Die Erweckung des Baums des Lebens entdecken",
     "bookingTitle": "Erwecke deine Chakren",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "30 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Chakra-Erweckung."
   },
   "GalacticActivationPage": {
@@ -3112,7 +3178,8 @@
     "relatedBody": "Die Feuerseelen-Infusion, eine weitere Heilung der Sacred-Geometry-Reihe, kalibriert deine magnetische Struktur neu und erweckt das Feuer deiner Seele.",
     "relatedCta": "Die Feuerseelen-Infusion entdecken",
     "bookingTitle": "Tritt ins Licht",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Heilung „Erzengel Michael Interstellarer Lichtstrahl“."
   },
   "HermeticRebalancing": {
@@ -3158,7 +3225,7 @@
     "faq": [
       {
         "q": "Warum drei Sitzungen?",
-        "a": "Der Neuausgleich wird als Serie gegeben: Jede Sitzung baut auf der vorherigen auf, und zusammen vollenden sie die Arbeit."
+        "a": "Der Neuausgleich wird als Serie gegeben: Jede Sitzung baut auf der vorherigen auf, und zusammen vollenden sie die Arbeit. Du kannst auch eine Einzelsitzung buchen, doch die volle Wirkung entfaltet die Serie von drei Sitzungen."
       },
       {
         "q": "Wie oft kann ich ihn empfangen?",
@@ -3178,7 +3245,21 @@
     "relatedBody": "Die Hermetische Seelenrückholung gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit.",
     "relatedCta": "Die Hermetische Seelenrückholung entdecken",
     "bookingTitle": "Beginne deinen Neuausgleich",
-    "bookingNote": "Drei Einzelsitzungen, persönlich in Prag (Vršovice). Schreib uns, und wir planen die Termine gemeinsam mit dir.",
+    "duration": "2 Stunden pro Sitzung",
+    "optionsHeading": "Wähle deine Sitzung",
+    "options": [
+      {
+        "name": "Einzelsitzung",
+        "meta": "2 Stunden · 8.600 CZK",
+        "includes": "Eine einzelne Sitzung Hermetischer Neuausgleich."
+      },
+      {
+        "name": "Serie von drei Sitzungen",
+        "meta": "3 × 2 Stunden · 22.000 CZK",
+        "includes": "Der vollständige Neuausgleich: drei Sitzungen im Abstand von ein bis zwei Wochen. Du buchst die erste, die anderen zwei planen wir gemeinsam mit dir."
+      }
+    ],
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle bei der Buchung eine Einzelsitzung oder die Serie von drei Sitzungen und bezahle sicher online. Bei der Serie planen wir die nächsten zwei Sitzungen gemeinsam mit dir, wenn wir uns treffen.",
     "inquiry": "Hallo, ich interessiere mich für den Hermetischen Neuausgleich."
   },
   "BabyBlessing": {
@@ -3231,7 +3312,8 @@
     "relatedBody": "Die Life Activation erweckt deinen eigenen göttlichen Bauplan: die Grundlage der Heilarbeit in unserer Linie.",
     "relatedCta": "Die Life Activation entdecken",
     "bookingTitle": "Segne dein Kind",
-    "bookingNote": "Persönlich in Prag. Schreib uns, am besten schon vor dem Geburtstermin, und wir planen die Segnung gemeinsam.",
+    "bookLabel": "Kostenloses Gespräch buchen",
+    "bookingNote": "Beginne mit einem kostenlosen einstündigen Gespräch, online oder persönlich in Prag, in dem wir die Einzelheiten besprechen. Für die Segnung bezahlst du erst nach unserem Gespräch. Die Zeremonie hat keine feste Dauer.",
     "inquiry": "Hallo, ich interessiere mich für eine Babysegnung."
   },
   "EthericReconstruction": {
@@ -3297,7 +3379,8 @@
     "relatedBody": "Die Himmlische-Code-Ätherrekonstruktion klärt die Kernthemen und tiefen Muster, die dich an die Vergangenheit binden.",
     "relatedCta": "Die Himmlische-Code-Ätherrekonstruktion entdecken",
     "bookingTitle": "Beginne mit einem Beratungsgespräch",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "90 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Ätherische Rekonstruktion."
   },
   "CelestialCode": {
@@ -3357,7 +3440,8 @@
     "relatedBody": "Die Ätherische Rekonstruktion entfernt dichte, tief sitzende Energien aus deinem Ätherfeld und stellt die Harmonie mit deinem göttlichen Bauplan wieder her.",
     "relatedCta": "Die Ätherische Rekonstruktion entdecken",
     "bookingTitle": "Lass die alte Geschichte los",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "90 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Himmlische-Code-Ätherrekonstruktion."
   },
   "FireSoulInfusion": {
@@ -3414,7 +3498,8 @@
     "relatedBody": "Die Kernwillen-Infusion stärkt deinen Willen und richtet ihn auf den Willen des Göttlichen aus, für Fokus und Richtung.",
     "relatedCta": "Die Kernwillen-Infusion entdecken",
     "bookingTitle": "Entfache dein Feuer neu",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Feuerseelen-Infusion."
   },
   "CoreWillInfusion": {
@@ -3476,7 +3561,8 @@
     "relatedBody": "Die Feuerseelen-Infusion kalibriert deine magnetische Struktur neu und erweckt das Feuer deiner Seele.",
     "relatedCta": "Die Feuerseelen-Infusion entdecken",
     "bookingTitle": "Stärke deinen Willen",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Kernwillen-Infusion."
   },
   "CompassionSummoning": {
@@ -3521,7 +3607,8 @@
     "relatedBody": "Die Heilung „Erzengel Michael Interstellarer Lichtstrahl“ umgibt dich mit einem Schild aus göttlichem Licht.",
     "relatedCta": "Den Interstellaren Lichtstrahl entdecken",
     "bookingTitle": "Empfange ihr Mitgefühl",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "60 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Herbeirufung des Mitgefühls."
   },
   "StarseedHealing": {
@@ -3575,7 +3662,8 @@
     "relatedBody": "Die Vereinte Chakra-Heilung, die nächste Sitzung der King-Salomon-Heilmethode, vereint und erweckt ein Chakrensystem aus 2.418 Punkten.",
     "relatedCta": "Die Vereinte Chakra-Heilung entdecken",
     "bookingTitle": "Klären und neu verbinden",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "90 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Sternenkind-Heilung."
   },
   "UnifiedChakraHealing": {
@@ -3630,7 +3718,8 @@
     "relatedBody": "Die Sternenkind-Heilung, die erste Sitzung der King-Salomon-Heilmethode, befreit deinen Geist von Ballast und bringt deine Schwingung wieder in Einklang.",
     "relatedCta": "Die Sternenkind-Heilung entdecken",
     "bookingTitle": "Vereine deine Energie",
-    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Schreib uns, und wir finden einen Termin, der dir passt.",
+    "duration": "90 Minuten",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
     "inquiry": "Hallo, ich interessiere mich für die Vereinte Chakra-Heilung."
   },
   "KshmAuricRegion": {
@@ -3690,7 +3779,8 @@
     "relatedBody": "Die Sternenkind-Heilung, die erste Sitzung der King-Salomon-Heilmethode, kannst du auch einzeln empfangen.",
     "relatedCta": "Die Sternenkind-Heilung entdecken",
     "bookingTitle": "Beginne die Reise",
-    "bookingNote": "Zehn Einzelsitzungen, persönlich in Prag (Vršovice). Schreib uns für ein erstes Gespräch.",
+    "duration": "10 × 2 Stunden",
+    "bookingNote": "Dies bucht die erste deiner zehn zweistündigen Sitzungen, das Beratungsgespräch, persönlich in Prag (Vršovice), zum vollen Programmpreis. Die neun Heilsitzungen planen wir gemeinsam mit dir, wenn wir uns treffen.",
     "inquiry": "Hallo, ich interessiere mich für die KSHM-Aura-Region."
   }
 }

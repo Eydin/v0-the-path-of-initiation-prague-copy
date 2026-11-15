@@ -35,6 +35,7 @@ const CORE_ROUTES = [
   "/spark-of-life",
   "/shamanic-aura-clearing",
   "/intuitive-crystal-reading",
+  "/chronos-reading",
   "/laser-light-healing",
   "/meridian-line-balancing",
   "/tree-of-life-awakening",

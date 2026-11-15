@@ -61,6 +61,8 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
   const t = await getTranslations({ locale, namespace: config.namespace })
   const tShared = await getTranslations({ locale, namespace: "HealingSession" })
   const has = (key: string) => t.has(key)
+  // optional custom label for the booking buttons (e.g. a free consultation instead of "Book Now")
+  const bookLabel = has("bookLabel") ? t("bookLabel") : undefined
 
   const benefits = (t.raw("benefits") as string[]).map((text) => ({ text }))
   const who = has("who") ? (t.raw("who") as string[]).map((text) => ({ text })) : []
@@ -88,6 +90,7 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         position={config.heroPosition}
         caption={config.heroCaption}
         calEmbed={config.calEmbed}
+        bookLabel={bookLabel}
       />
 
       <BookingBlock
@@ -100,6 +103,7 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         bookOptions={config.bookOptions}
         bookHref={config.calEmbed ? `${CAL_ORIGIN}/${config.calEmbed.link}` : undefined}
         bookCalEmbed={config.calEmbed}
+        bookLabel={bookLabel}
       >
         {has("priceNote") && <p className="text-center text-lg font-semibold text-primary">{t("priceNote")}</p>}
         {/* optional session options (e.g. single session vs package): name, length and price, what it includes */}

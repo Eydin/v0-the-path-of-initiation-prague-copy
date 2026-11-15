@@ -1,13 +1,13 @@
 import type { Metadata } from "next"
 import { HealingSessionPage, healingSessionMetadata } from "@/components/healing-session-page"
 
-// No price or Cal.com event type yet: the booking box invites a WhatsApp/email inquiry.
-// When the session gets a price, add `investment` here, a "duration" text and a Cal.com `calEmbed`.
 const config = {
   namespace: "UnifiedChakraHealing",
   bg: "constellations-ceiling.jpg",
   position: "50% 45%",
   relatedHref: "/starseed-healing",
+  investment: "4.900 CZK",
+  calEmbed: { link: "all/unified-chakra-healing", namespace: "unified-chakra-healing" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

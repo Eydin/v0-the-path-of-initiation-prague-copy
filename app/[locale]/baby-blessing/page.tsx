@@ -1,14 +1,16 @@
 import type { Metadata } from "next"
 import { HealingSessionPage, healingSessionMetadata } from "@/components/healing-session-page"
 
-// No price or Cal.com event type yet: the booking box invites a WhatsApp/email inquiry.
-// When the session gets a price, add `investment` here, a "duration" text and a Cal.com `calEmbed`.
+// The booking buttons ("bookLabel" text) open a free 1-hour consultation, online (Zoom) or in person;
+// the family pays for the blessing only after that talk. The ceremony has no fixed length, so no duration is shown.
 const config = {
   namespace: "BabyBlessing",
   bg: "misty-lake-dawn.jpg",
   position: "50% 50%",
   kind: "none" as const,
   relatedHref: "/life-activation",
+  investment: "53.888 CZK",
+  calEmbed: { link: "all/baby-blessing-consultation", namespace: "baby-blessing-consultation" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

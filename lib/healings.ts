@@ -46,7 +46,7 @@ export async function getHealingGroups(locale?: string) {
       : {}),
     ...(i === 1 ? { price: "3.669 CZK", detailsHref: "/negative-energy-removal" } : {}),
     ...(i === 2 ? { price: "3.669 CZK", detailsHref: "/emotional-cord-cutting" } : {}),
-    ...(i === 3 ? { detailsHref: "/shamanic-aura-clearing" } : {}),
+    ...(i === 3 ? { price: "3.669 CZK", detailsHref: "/shamanic-aura-clearing" } : {}),
     ...(i === 4 ? { price: "4.900 CZK", detailsHref: "/ensofic-reiki" } : {}),
     ...(i === 5 ? { price: "4.900 CZK", detailsHref: "/treating-negative-habits" } : {}),
     ...(i === 6 ? { price: "3.669 CZK", detailsHref: "/crystal-healing" } : {}),
@@ -65,16 +65,21 @@ export async function getHealingGroups(locale?: string) {
     ...(i === 0
       ? { price: "6.150 CZK", detailsHref: "/life-purpose-reading", format: "inPerson" as const }
       : {}),
-    ...(i === 1 ? { detailsHref: "/intuitive-crystal-reading", format: "inPerson" as const } : {}),
+    ...(i === 1 ? { price: "3.669 CZK", detailsHref: "/intuitive-crystal-reading", format: "inPerson" as const } : {}),
+    ...(i === 2 ? { price: "6.150 CZK", detailsHref: "/chronos-reading", format: "inPerson" as const } : {}),
   }))
 
   // (Max Meditation lives on the Meditation & Prayer page, not here.)
-  // No set price yet for these four: the cards link to their pages, which invite an inquiry.
-  const bodyWorkHref = ["/laser-light-healing", "/meridian-line-balancing", "/tree-of-life-awakening", "/chakra-awakening"]
-  const bodyWork: Healing[] = bodyWorkHref.map((detailsHref, i) => ({
+  const bodyWorkCards = [
+    { detailsHref: "/laser-light-healing", price: "1.850 CZK" },
+    { detailsHref: "/meridian-line-balancing", price: "1.850 CZK" },
+    { detailsHref: "/tree-of-life-awakening", price: "1.333 CZK" },
+    { detailsHref: "/chakra-awakening", price: "1.333 CZK" },
+  ]
+  const bodyWork: Healing[] = bodyWorkCards.map((card, i) => ({
     name: t(`groups.bodyWork.items.${i}.name`),
     description: t(`groups.bodyWork.items.${i}.description`),
-    detailsHref,
+    ...card,
     format: "inPerson" as const,
   }))
 

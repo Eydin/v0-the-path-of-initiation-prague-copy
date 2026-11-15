@@ -1,13 +1,14 @@
 import type { Metadata } from "next"
 import { HealingSessionPage, healingSessionMetadata } from "@/components/healing-session-page"
 
-// No price or Cal.com event type yet: the booking box invites a WhatsApp/email inquiry.
-// When the session gets a price, add `investment` here, a "duration" text and a Cal.com `calEmbed`.
+// One Cal.com event: a booking question lets the booker pick a single session (8.600 CZK) or the series of three (22.000 CZK).
 const config = {
   namespace: "HermeticRebalancing",
   bg: "hermes-trismegistus-siena.jpg",
   position: "center 30%",
   relatedHref: "/soul-retrieval",
+  investment: "8.600 CZK",
+  calEmbed: { link: "all/hermetic-rebalancing", namespace: "hermetic-rebalancing" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

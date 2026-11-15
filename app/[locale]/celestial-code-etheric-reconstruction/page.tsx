@@ -1,13 +1,13 @@
 import type { Metadata } from "next"
 import { HealingSessionPage, healingSessionMetadata } from "@/components/healing-session-page"
 
-// No price or Cal.com event type yet: the booking box invites a WhatsApp/email inquiry.
-// When the session gets a price, add `investment` here, a "duration" text and a Cal.com `calEmbed`.
 const config = {
   namespace: "CelestialCode",
   bg: "flammarion.jpg",
   position: "center 35%",
   relatedHref: "/etheric-reconstruction",
+  investment: "9.888 CZK",
+  calEmbed: { link: "all/celestial-code-etheric-reconstruction", namespace: "celestial-code-etheric-reconstruction" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

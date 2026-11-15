@@ -1,13 +1,14 @@
 import type { Metadata } from "next"
 import { HealingSessionPage, healingSessionMetadata } from "@/components/healing-session-page"
 
-// No price or Cal.com event type yet: the booking box invites a WhatsApp/email inquiry.
-// When the session gets a price, add `investment` here, a "duration" text and a Cal.com `calEmbed`.
+// Cal.com books the first of the ten sessions at the full programme price (same pattern as Advanced Ensofic Ray).
 const config = {
   namespace: "KshmAuricRegion",
   bg: "poynter-sir-edward-john-the-visit-of-the-queen-of-sheba-to-king-solomo.jpg",
   position: "center 40%",
   relatedHref: "/starseed-healing",
+  investment: "85.500 CZK",
+  calEmbed: { link: "all/kshm-auric-region", namespace: "kshm-auric-region" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

@@ -38,36 +38,39 @@ export default async function SpecialtyHealings({
   const t = await getTranslations({ locale, namespace: "SpecialtyHealings" })
   const inquiry = t("inquiry")
 
-  // each card links to its own page (no set price yet, so no price on the card)
-  const kshmHref = ["/starseed-healing", "/unified-chakra-healing", "/kshm-auric-region"]
-  const kshmSessions: Healing[] = kshmHref.map((detailsHref, i) => ({
+  // each card links to its own page
+  const kshmCards = [
+    { detailsHref: "/starseed-healing", price: "4.900 CZK" },
+    { detailsHref: "/unified-chakra-healing", price: "4.900 CZK" },
+    { detailsHref: "/kshm-auric-region", price: "85.500 CZK" },
+  ]
+  const kshmSessions: Healing[] = kshmCards.map((card, i) => ({
     name: t(`kshmSessions.${i}.name`),
     tag: t.has(`kshmSessions.${i}.tag`) ? t(`kshmSessions.${i}.tag`) : undefined,
     description: t(`kshmSessions.${i}.description`),
-    detailsHref,
+    ...card,
   }))
 
-  // Space Realignment (8) and Chronos Reading (10) have no page yet: their cards keep the "inquire" link.
-  const specialtyHref: (string | undefined)[] = [
-    "/advanced-ensofic-ray-healing",
-    "/fire-soul-infusion",
-    "/core-will-infusion",
-    "/archangel-michael-tube-of-light",
-    "/hermetic-rebalancing",
-    "/etheric-reconstruction",
-    "/celestial-code-etheric-reconstruction",
-    "/compassion-summoning",
-    undefined,
-    "/baby-blessing",
-    undefined,
+  // Space Realignment (8) has no page: its card books the Cal.com event directly (1 hour, at the client's address).
+  const specialtyCards: { price: string; detailsHref?: string; bookSlug?: string }[] = [
+    { detailsHref: "/advanced-ensofic-ray-healing", price: "11.900 CZK" },
+    { detailsHref: "/fire-soul-infusion", price: "6.150 CZK" },
+    { detailsHref: "/core-will-infusion", price: "6.150 CZK" },
+    { detailsHref: "/archangel-michael-tube-of-light", price: "6.150 CZK" },
+    { detailsHref: "/hermetic-rebalancing", price: "8.600 CZK" },
+    { detailsHref: "/etheric-reconstruction", price: "7.777 CZK" },
+    { detailsHref: "/celestial-code-etheric-reconstruction", price: "9.888 CZK" },
+    { detailsHref: "/compassion-summoning", price: "2.444 CZK" },
+    { bookSlug: "space-realignment", price: "4.900 CZK" },
+    { detailsHref: "/baby-blessing", price: "53.888 CZK" },
+    { detailsHref: "/chronos-reading", price: "6.150 CZK" },
   ]
 
   const specialtySessions: Healing[] = Array.from({ length: 11 }, (_, i) => ({
     name: t(`specialtySessions.${i}.name`),
     tag: t.has(`specialtySessions.${i}.tag`) ? t(`specialtySessions.${i}.tag`) : undefined,
     description: t(`specialtySessions.${i}.description`),
-    ...(specialtyHref[i] ? { detailsHref: specialtyHref[i] } : {}),
-    ...(i === 0 ? { price: "11.900 CZK" } : {}),
+    ...specialtyCards[i],
   }))
 
   return (

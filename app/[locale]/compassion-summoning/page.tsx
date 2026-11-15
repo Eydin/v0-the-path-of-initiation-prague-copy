@@ -1,13 +1,13 @@
 import type { Metadata } from "next"
 import { HealingSessionPage, healingSessionMetadata } from "@/components/healing-session-page"
 
-// No price or Cal.com event type yet: the booking box invites a WhatsApp/email inquiry.
-// When the session gets a price, add `investment` here, a "duration" text and a Cal.com `calEmbed`.
 const config = {
   namespace: "CompassionSummoning",
   bg: "angelico-visione-di-ezechiele-san-marco.jpg",
   position: "center 30%",
   relatedHref: "/archangel-michael-tube-of-light",
+  investment: "2.444 CZK",
+  calEmbed: { link: "all/compassion-summoning", namespace: "compassion-summoning" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

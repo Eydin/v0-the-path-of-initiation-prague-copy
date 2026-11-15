@@ -136,6 +136,7 @@ export function ModalityHero({
   position,
   caption,
   calEmbed,
+  bookLabel,
 }: {
   eyebrow?: string
   title: string
@@ -147,6 +148,8 @@ export function ModalityHero({
   caption?: string
   /** When set, "Book Now" opens the Cal.com popup directly instead of scrolling to the page's BookingBlock. */
   calEmbed?: CalEmbed
+  /** Replaces the "Book Now" label (e.g. "Book a Free Consultation"). */
+  bookLabel?: string
 }) {
   const art = useContext(ShellArt)
   const t = useTranslations("Modality")
@@ -171,9 +174,9 @@ export function ModalityHero({
         accent="gold"
         cta={
           calEmbed
-            ? { href: `${CAL_ORIGIN}/${calEmbed.link}`, label: t("bookNow"), external: true, calEmbed }
+            ? { href: `${CAL_ORIGIN}/${calEmbed.link}`, label: bookLabel ?? t("bookNow"), external: true, calEmbed }
             : bookingId
-              ? { href: `#${bookingId}`, label: t("bookNow") }
+              ? { href: `#${bookingId}`, label: bookLabel ?? t("bookNow") }
               : undefined
         }
       />

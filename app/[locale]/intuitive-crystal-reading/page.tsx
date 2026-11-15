@@ -1,14 +1,14 @@
 import type { Metadata } from "next"
 import { HealingSessionPage, healingSessionMetadata } from "@/components/healing-session-page"
 
-// No price or Cal.com event type yet: the booking box invites a WhatsApp/email inquiry.
-// When the session gets a price, add `investment` here, a "duration" text and a Cal.com `calEmbed`.
 const config = {
   namespace: "IntuitiveCrystalReading",
   bg: "angels-bouguereau.jpg",
   position: "center 30%",
   kind: "reading" as const,
   relatedHref: "/life-purpose-reading",
+  investment: "3.669 CZK",
+  calEmbed: { link: "all/intuitive-crystal-reading", namespace: "intuitive-crystal-reading" },
 }
 
 export function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

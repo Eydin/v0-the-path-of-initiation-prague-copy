@@ -35,6 +35,8 @@ Hello, I am interested in Advanced Ensofic Ray Healing.
 ## PAGE: /archangel-michael-tube-of-light
 center 30%
 /fire-soul-infusion
+6.150 CZK
+all/archangel-michael-tube-of-light
 Sacred Geometry
 Archangel Michael Interstellar Tube of Light
 A shield of divine light around you
@@ -71,7 +73,8 @@ Awaken the fire within you
 The Fire Soul Infusion, another healing of the Sacred Geometry series, recalibrates your magnetic structure and awakens the fire of your soul.
 Explore the Fire Soul Infusion
 Step into the Light
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+60 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in the Archangel Michael Interstellar Tube of Light.
 
 ## PAGE: /astral-travel
@@ -154,7 +157,8 @@ A blessing for the parents, too
 The Life Activation awakens your own divine blueprint: the foundation of the healing work in our lineage.
 Explore the Life Activation
 Bless Your Child
-In person in Prague. Write to us, ideally before your due date, and we will plan the blessing together.
+Book a Free Consultation
+Start with a free 1-hour consultation, online or in person in Prague, to talk through the details. You pay for the blessing only after we have spoken. The ceremony has no fixed length.
 Hello, I am interested in a Baby Blessing.
 
 ## PAGE: /blog/[slug]
@@ -202,6 +206,8 @@ Ask About a Class
 ## PAGE: /celestial-code-etheric-reconstruction
 center 35%
 /etheric-reconstruction
+9.888 CZK
+all/celestial-code-etheric-reconstruction
 Etheric Reconstruction
 Celestial Code Etheric Reconstruction
 Release the seeds of your core issues
@@ -237,7 +243,8 @@ Deep healing for your etheric body
 Etheric Reconstruction removes dense, deep-seated energies from your etheric field and restores harmony with your divine blueprint.
 Explore Etheric Reconstruction
 Let Go of the Old Story
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+90 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in the Celestial Code Etheric Reconstruction.
 
 ## PAGE: /certifications
@@ -263,6 +270,8 @@ Begin Your Journey
 ## PAGE: /chakra-awakening
 center 30%
 /tree-of-life-awakening
+1.333 CZK
+all/chakra-awakening
 Energy Centres
 Chakra Awakening
 Open your energy centres to receive divine energy
@@ -299,8 +308,51 @@ Awaken the map of creation within you
 The Tree of Life Awakening opens the ten spheres of the Tree of Life in your energy, so you can create your life more easily.
 Explore the Tree of Life Awakening
 Awaken Your Chakras
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+30 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in the Chakra Awakening.
+
+## PAGE: /chronos-reading
+center 40%
+as const, relatedHref:
+Reading
+Chronos Reading
+Guidance from Chronos on the gifts you were born with
+Understand your natural strengths, and how to work with the places where life asks more of you
+Everyone arrives with gifts, and with a few areas that ask a little more of us.
+In a Chronos Reading, the practitioner receives guidance from Chronos, the keeper of time, about you. The reading brings clarity on the qualities and talents you were born with, and advice on how to use them better in your life.
+It also looks at the areas of life where you started with a disadvantage, and gives advice on how to remedy them. The aim is not to label you, but to give you a clearer picture of yourself, so you can build on your strengths and grow where it matters most.
+When a Reading Can Help
+You want to understand your natural talents and how to use them
+The same difficulties keep coming up in one area of your life
+You are at a crossroads and want to know yourself better first
+You are looking for practical advice for your personal growth
+What Happens in the Reading
+Before we meet:
+A Life Activation first prepares your energy for the reading.
+The reading:
+The practitioner receives guidance from Chronos about your gifts and your challenges, and shares what comes through.
+Closing:
+We talk through what came up and how you can put the advice into practice.
+What the Reading Can Bring
+A clearer picture of your natural gifts
+Understanding of why some areas of life have felt harder
+Practical advice you can start using right away
+More confidence on your own path
+Do I need a previous session?
+Yes. A Life Activation is needed first: it prepares your energy for the reading. Read about the Life Activation .
+/life-activation
+Will the reading predict my future?
+No. It looks at the gifts and challenges you were born with, and gives advice on how to work with them. What you do with that advice is always your choice.
+How is it different from the Life Purpose Reading?
+The Life Purpose & 11th Codon Reading focuses on your divine purpose and what you can do now to fulfil it. The Chronos Reading focuses on your inborn strengths and weaknesses, and how to work with both.
+Begin with the Life Activation
+The Life Activation prepares your energy for the Chronos Reading, and is a powerful first step on its own.
+Explore the Life Activation
+Receive Your Reading
+90 Minutes
+Hello, I am interested in a Chronos Reading.
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 
 ## PAGE: /community
 lucide-react
@@ -412,6 +464,8 @@ Tea and snacks included
 ## PAGE: /compassion-summoning
 center 30%
 /archangel-michael-tube-of-light
+2.444 CZK
+all/compassion-summoning
 Archangelic Healing
 Compassion Summoning
 Receive the compassionate energy of the archangels
@@ -441,12 +495,15 @@ Protection from Archangel Michael
 The Archangel Michael Interstellar Tube of Light surrounds you with a shield of divine light.
 Explore the Tube of Light
 Receive Their Compassion
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+60 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in Compassion Summoning.
 
 ## PAGE: /core-will-infusion
 center 20%
 /fire-soul-infusion
+6.150 CZK
+all/core-will-infusion
 Sacred Geometry
 Core Will Infusion
 Align your will with the Will of the Divine
@@ -484,7 +541,8 @@ Awaken the fire within you
 The Fire Soul Infusion recalibrates your magnetic structure and awakens the fire of your soul.
 Explore the Fire Soul Infusion
 Strengthen Your Will
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+60 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in the Core Will Infusion.
 
 ## PAGE: /crystal-healing
@@ -759,12 +817,15 @@ Release the seeds of your core issues
 Celestial Code Etheric Reconstruction clears the core issues and deep patterns that keep you tied to the past.
 Explore the Celestial Code
 Begin with a Consultation
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+90 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in Etheric Reconstruction.
 
 ## PAGE: /fire-soul-infusion
 center 40%
 /core-will-infusion
+6.150 CZK
+all/fire-soul-infusion
 Sacred Geometry
 Fire Soul Infusion
 Awaken the sacred fire within you
@@ -800,7 +861,8 @@ Give your fire a direction
 The Core Will Infusion strengthens your will and aligns it with the Will of the Divine, for focus and direction.
 Explore the Core Will Infusion
 Rekindle Your Fire
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+60 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in the Fire Soul Infusion.
 
 ## PAGE: /full-spirit-activation
@@ -984,7 +1046,7 @@ A reading of your divine purpose and the gifts you carry, paired with activation
 Intuitive Reading with Crystal
 A reading with a crystal that opens access to the wisdom of your Higher Self and guides.
 Chronos Reading
-A reading that works with the energies of time to bring clarity on your past, present and path ahead.
+Guidance from Chronos on the gifts you were born with, and on the areas of life where you started at a disadvantage.
 Body, Meridians & Chakras
 Restoring flow and balance in your body, your meridians and your energy centres.
 Laser Light Healing
@@ -999,6 +1061,8 @@ Awakens and harmonises the body's seven energy centres.
 ## PAGE: /hermetic-rebalancing
 center 30%
 /soul-retrieval
+8.600 CZK
+all/hermetic-rebalancing
 Hermetic Healing
 Hermetic Rebalancing
 A yearly reset for mind, body and spirit
@@ -1027,7 +1091,7 @@ Stronger intuition
 Creativity flowing again
 Feeling reset and ready to move forward
 Why three sessions?
-The rebalancing is given as a series: each session builds on the one before, and together they complete the work.
+The rebalancing is given as a series: each session builds on the one before, and together they complete the work. You can also book a single session, but the series of three gives the complete effect.
 How often can I receive it?
 Once a year, as a yearly tune-up for your mind and energy.
 Is it the same as Hermetic Soul Retrieval?
@@ -1038,7 +1102,15 @@ Bring home the lost parts of yourself
 Hermetic Soul Retrieval recovers and reintegrates lost fragments of the self into wholeness.
 Explore Hermetic Soul Retrieval
 Begin Your Rebalancing
-Three one-to-one sessions, in person in Prague (Vršovice). Write to us and we will plan the dates with you.
+2 Hours per Session
+Choose your session
+Single session
+2 hours · 8.600 CZK
+One Hermetic Rebalancing session on its own.
+Series of three
+3 × 2 hours · 22.000 CZK
+The complete rebalancing: three sessions, one to two weeks apart. You book the first, and we schedule the other two together with you.
+One-to-one, in person in Prague (Vršovice). When you book, choose a single session or the series of three, and pay securely online. For the series, we'll schedule the next two sessions together with you when you meet.
 Hello, I am interested in Hermetic Rebalancing.
 
 ## PAGE: /intuitive-crystal-reading
@@ -1082,7 +1154,8 @@ Go deeper into your purpose
 The Life Purpose & 11th Codon Reading reveals your divine purpose and the gifts you carry.
 Explore the Life Purpose Reading
 Ask Your Questions
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+60 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in an Intuitive Reading with Crystal.
 
 ## PAGE: /kabbalah-ascension
@@ -1138,6 +1211,8 @@ Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
 ## PAGE: /kshm-auric-region
 center 40%
 /starseed-healing
+85.500 CZK
+all/kshm-auric-region
 King Salomon Healing Modality
 KSHM — Auric Region
 A ten-session journey of purification for your aura
@@ -1174,12 +1249,15 @@ Begin with a single session
 Starseed Healing, the first session of the King Salomon Healing Modality, can also be received on its own.
 Explore Starseed Healing
 Begin the Journey
-Ten one-to-one sessions, in person in Prague (Vršovice). Write to us for a first conversation.
+10 × 2 Hours
+This books the first of your ten 2-hour sessions, the consultation, in person in Prague (Vršovice), at the full programme price. We'll schedule the nine healing sessions together with you when you meet.
 Hello, I am interested in the KSHM Auric Region.
 
 ## PAGE: /laser-light-healing
 center 30%
 /meridian-line-balancing
+1.850 CZK
+all/laser-light-healing
 Healing with Light
 Laser Light Healing
 Pure, focused light for your body and your energy
@@ -1214,7 +1292,8 @@ Let your life force flow
 Meridian Line Balancing clears blocked meridians so your life force can flow freely again.
 Explore Meridian Line Balancing
 Receive the Light
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+60 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in Laser Light Healing.
 
 ## PAGE: /life-activation
@@ -1608,6 +1687,8 @@ Hello, I would like to learn more about Max Meditation.
 ## PAGE: /meridian-line-balancing
 center 50%
 /laser-light-healing
+1.850 CZK
+all/meridian-line-balancing
 Body & Energy
 Meridian Line Balancing
 Let your life force flow freely again
@@ -1645,7 +1726,8 @@ Healing with light
 Laser Light Healing uses pure, focused light to bring your body and every layer of your energy field into balance.
 Explore Laser Light Healing
 Restore the Flow
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+60 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in Meridian Line Balancing.
 
 ## PAGE: /negative-energy-removal
@@ -2170,6 +2252,8 @@ Hello, I would like to learn more about the 7 Mystery Schools workshop.
 ## PAGE: /shamanic-aura-clearing
 center 50%
 /negative-energy-removal
+3.669 CZK
+all/shamanic-aura-clearing
 Aura Clearing
 Shamanic Aura Clearing
 A gentle clearing with the energies of the Earth
@@ -2219,7 +2303,8 @@ Clear what others have sent your way
 Negative Energy Removal clears jealousy, envy, harsh words and ill will that other people have sent towards you.
 Explore Negative Energy Removal
 Clear and Protect
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+90 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in the Shamanic Aura Clearing.
 
 ## PAGE: /soul-retrieval
@@ -2307,18 +2392,6 @@ Remote session, worldwide. Choose a time and pay securely online — your appoin
 Hello, I would like to learn more about Spark of Life distance healing.
 
 ## PAGE: /specialty-healings
-/unified-chakra-healing
-/kshm-auric-region
-/advanced-ensofic-ray-healing
-/fire-soul-infusion
-/core-will-infusion
-/archangel-michael-tube-of-light
-/hermetic-rebalancing
-/etheric-reconstruction
-/celestial-code-etheric-reconstruction
-/compassion-summoning
-/baby-blessing
-11.900 CZK
 The King Salomon Healing Modality
 Specialty Healings
 The deep healings of a 3,000-year lineage
@@ -2358,7 +2431,7 @@ Realigns and harmonises the energy of a home or space, restoring sacred order an
 Baby Blessing
 A sacred blessing to welcome a newborn — calling in protection, light and a blessed beginning.
 Chronos Reading
-A reading that works with the energies of time to bring clarity on your past, present and path ahead.
+Guidance from Chronos on the gifts you were born with, and on the areas of life where you started at a disadvantage.
 Looking for the foundational sessions and the full range of healings?
 See all healing modalities →
 Not Sure Which Healing You Need?
@@ -2446,6 +2519,8 @@ We are certified Modern Mystery School practitioners and teachers. Whichever of 
 ## PAGE: /starseed-healing
 center 40%
 /unified-chakra-healing
+4.900 CZK
+all/starseed-healing
 King Salomon Healing Modality
 Starseed Healing
 A cleanse for your whole energy system
@@ -2478,7 +2553,8 @@ Awaken your whole chakra system
 Unified Chakra Healing, the next session of the King Salomon Healing Modality, unifies and awakens a chakra system of 2,418 points.
 Explore Unified Chakra Healing
 Clear and Reconnect
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+90 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in Starseed Healing.
 
 ## PAGE: /stress-management
@@ -2578,6 +2654,8 @@ Hello, I would like to learn more about Treating of Negative Habits.
 ## PAGE: /tree-of-life-awakening
 center 40%
 /chakra-awakening
+1.333 CZK
+all/tree-of-life-awakening
 Kabbalah
 Tree of Life Awakening
 Awaken the map of creation within you
@@ -2609,7 +2687,8 @@ Open your energy centres
 The Chakra Awakening opens your seven main chakras so you can receive energy from the divine.
 Explore the Chakra Awakening
 Awaken Your Tree of Life
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+30 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in the Tree of Life Awakening.
 
 ## PAGE: /unified-chakra-healing
@@ -2646,7 +2725,8 @@ A cleanse for your whole energy system
 Starseed Healing, the first session of the King Salomon Healing Modality, clears the clutter of the mind and brings your vibration back into tune.
 Explore Starseed Healing
 Unify Your Energy
-One-to-one, in person in Prague (Vršovice). Write to us and we will find a time that suits you.
+90 Minutes
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in Unified Chakra Healing.
 
 ## PAGE: /withdraw-from-contract
@@ -3348,7 +3428,4 @@ life-activation
 /life-activation
 full-spirit-activation
 /full-spirit-activation
-/galactic-activation
-/meridian-line-balancing
-/tree-of-life-awakening
-/chakra-awakening`;
+/galactic-activation`;

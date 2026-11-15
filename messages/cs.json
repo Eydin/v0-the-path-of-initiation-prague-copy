@@ -791,7 +791,7 @@
         "items": [
           { "name": "Čtení životního poslání a 11. kodonu", "description": "Čtení vašeho božského poslání a darů, které nesete, spojené s aktivací 11. a 12. vlákna DNA nad rámec Life Activation." },
           { "name": "Intuitivní čtení s krystalem", "description": "Čtení s krystalem, které otevírá přístup k moudrosti vašeho Vyššího já a průvodců." },
-          { "name": "Čtení Chronos", "description": "Čtení, které pracuje s energiemi času a přináší jasnost ohledně vaší minulosti, přítomnosti a cesty vpřed." }
+          { "name": "Čtení Chronos", "description": "Vedení od Chronose o darech, se kterými jste se narodili, a o oblastech života, ve kterých jste začínali s nevýhodou." }
         ]
       },
       "bodyWork": {
@@ -834,7 +834,7 @@
       { "name": "Vzývání soucitu", "description": "Archandělé jsou vzýváni pro vás, aby vám přinesli útěchu, ochranu, jasnost a vedení." },
       { "name": "Přeladění prostoru", "description": "Znovu sladí a harmonizuje energii domova nebo prostoru a obnovuje posvátný řád a proudění." },
       { "name": "Požehnání dítěte", "description": "Posvátné požehnání na uvítanou novorozence — vzývá ochranu, světlo a požehnaný začátek." },
-      { "name": "Čtení Chronos", "description": "Čtení, které pracuje s energiemi času a přináší jasnost ohledně vaší minulosti, přítomnosti a cesty vpřed." }
+      { "name": "Čtení Chronos", "description": "Vedení od Chronose o darech, se kterými jste se narodili, a o oblastech života, ve kterých jste začínali s nevýhodou." }
     ],
     "seeAllLead": "Hledáte základní sezení a celou škálu léčení?",
     "seeAllLinkLabel": "Zobrazit všechny léčebné modality →",
@@ -2693,7 +2693,8 @@
     "relatedBody": "Odstranění negativní energie čistí žárlivost, závist, tvrdá slova a zlou vůli, které druzí poslali směrem k vám.",
     "relatedCta": "Prozkoumat odstranění negativní energie",
     "bookingTitle": "Očista a ochrana",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "90 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o šamanské čištění aury."
   },
   "IntuitiveCrystalReading": {
@@ -2757,8 +2758,69 @@
     "relatedBody": "Čtení životního poslání a 11. kodonu odhalí vaše božské poslání a dary, které nesete.",
     "relatedCta": "Prozkoumat čtení životního poslání",
     "bookingTitle": "Položte své otázky",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o intuitivní čtení s krystalem."
+  },
+  "ChronosReading": {
+    "heroEyebrow": "Čtení",
+    "heroTitle": "Čtení Chronos",
+    "heroSubtitle": "Vedení od Chronose o darech, se kterými jste se narodili",
+    "heroTagline": "Poznejte své přirozené silné stránky a naučte se pracovat s oblastmi, kde od vás život žádá víc",
+    "introLead": "Každý přichází na svět s dary a s několika oblastmi, které od nás žádají o něco víc.",
+    "introBody1": "Při čtení Chronos přijímá praktik o vás vedení od Chronose, strážce času. Čtení přináší jasnost ohledně vlastností a talentů, se kterými jste se narodili, a rady, jak je ve svém životě lépe využít.",
+    "introBody2": "Zaměřuje se také na oblasti života, ve kterých jste začínali s nevýhodou, a dává rady, jak je napravit. Cílem není vás škatulkovat, ale dát vám jasnější obraz o sobě samých, abyste mohli stavět na svých silných stránkách a růst tam, kde na tom nejvíc záleží.",
+    "signsHeading": "Kdy může čtení pomoci",
+    "signs": [
+      "Chcete porozumět svým přirozeným talentům a tomu, jak je využít",
+      "V jedné oblasti vašeho života se stále opakují tytéž potíže",
+      "Stojíte na rozcestí a chcete se nejdřív lépe poznat",
+      "Hledáte praktické rady pro svůj osobní růst"
+    ],
+    "protocolHeading": "Co se během čtení děje",
+    "protocol": [
+      {
+        "label": "Před setkáním:",
+        "text": "Life Activation předem připraví vaši energii na čtení."
+      },
+      {
+        "label": "Čtení:",
+        "text": "Praktik přijímá vedení od Chronose o vašich darech a výzvách a sdílí s vámi, co přichází."
+      },
+      {
+        "label": "Závěr:",
+        "text": "Probereme, co se ukázalo a jak můžete rady uvést do praxe."
+      }
+    ],
+    "benefitsHeading": "Co vám čtení může přinést",
+    "benefits": [
+      "Jasnější obraz o vašich přirozených darech",
+      "Porozumění tomu, proč vám některé oblasti života připadaly těžší",
+      "Praktické rady, které můžete začít používat hned",
+      "Více důvěry ve vlastní cestu"
+    ],
+    "faq": [
+      {
+        "q": "Potřebuji předchozí sezení?",
+        "a": "Ano. Nejprve je potřeba Life Activation: připraví vaši energii na čtení. <link>Přečtěte si o Life Activation</link>.",
+        "href": "/life-activation"
+      },
+      {
+        "q": "Předpoví mi čtení budoucnost?",
+        "a": "Ne. Zaměřuje se na dary a výzvy, se kterými jste se narodili, a dává rady, jak s nimi pracovat. Co s těmito radami uděláte, je vždy vaše volba."
+      },
+      {
+        "q": "Čím se liší od čtení životního poslání?",
+        "a": "Čtení životního poslání a 11. kodonu se zaměřuje na vaše božské poslání a na to, co můžete udělat teď, abyste ho naplnili. Čtení Chronos se zaměřuje na vaše vrozené silné a slabé stránky a na to, jak pracovat s obojím."
+      }
+    ],
+    "relatedHeading": "Začněte s Life Activation",
+    "relatedBody": "Life Activation připraví vaši energii na čtení Chronos a sama o sobě je silným prvním krokem.",
+    "relatedCta": "Prozkoumat Life Activation",
+    "bookingTitle": "Přijměte své čtení",
+    "duration": "90 minut",
+    "inquiry": "Dobrý den, mám zájem o čtení Chronos.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem."
   },
   "LaserLightHealing": {
     "heroEyebrow": "Léčení světlem",
@@ -2817,7 +2879,8 @@
     "relatedBody": "Vyvážení meridiánových drah uvolňuje zablokované meridiány, aby vaše životní síla mohla znovu volně proudit.",
     "relatedCta": "Prozkoumat vyvážení meridiánových drah",
     "bookingTitle": "Přijměte světlo",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o léčení laserovým světlem."
   },
   "MeridianLineBalancing": {
@@ -2880,7 +2943,8 @@
     "relatedBody": "Léčení laserovým světlem využívá čisté, soustředěné světlo, aby přivedlo vaše tělo i každou vrstvu vašeho energetického pole do rovnováhy.",
     "relatedCta": "Prozkoumat léčení laserovým světlem",
     "bookingTitle": "Obnovte proudění",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o vyvážení meridiánových drah."
   },
   "TreeOfLifeAwakening": {
@@ -2934,7 +2998,8 @@
     "relatedBody": "Probuzení čaker otevírá vašich sedm hlavních čaker, abyste mohli přijímat energii z božského zdroje.",
     "relatedCta": "Prozkoumat probuzení čaker",
     "bookingTitle": "Probuďte svůj strom života",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "30 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o probuzení stromu života."
   },
   "ChakraAwakening": {
@@ -2995,7 +3060,8 @@
     "relatedBody": "Probuzení stromu života otevírá ve vaší energii deset sfér stromu života, abyste mohli snáze tvořit svůj život.",
     "relatedCta": "Prozkoumat probuzení stromu života",
     "bookingTitle": "Probuďte své čakry",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "30 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o probuzení čaker."
   },
   "GalacticActivationPage": {
@@ -3112,7 +3178,8 @@
     "relatedBody": "Vlévání ohně duše, další léčení série Sacred Geometry, znovu kalibruje vaši magnetickou strukturu a probouzí oheň vaší duše.",
     "relatedCta": "Prozkoumat vlévání ohně duše",
     "bookingTitle": "Vstupte do světla",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o mezihvězdnou trubici světla archanděla Michaela."
   },
   "HermeticRebalancing": {
@@ -3158,7 +3225,7 @@
     "faq": [
       {
         "q": "Proč tři sezení?",
-        "a": "Znovuvyvážení se poskytuje jako série: každé sezení navazuje na to předchozí a teprve společně práci dokončí."
+        "a": "Znovuvyvážení se poskytuje jako série: každé sezení navazuje na to předchozí a teprve společně práci dokončí. Můžete si rezervovat i jednotlivé sezení, ale úplný účinek přináší série tří sezení."
       },
       {
         "q": "Jak často ho mohu přijmout?",
@@ -3178,7 +3245,21 @@
     "relatedBody": "Hermetický návrat duše najde ztracené části vás samých a znovu je začlení, abyste se cítili celiství.",
     "relatedCta": "Prozkoumat hermetický návrat duše",
     "bookingTitle": "Začněte své znovuvyvážení",
-    "bookingNote": "Tři individuální sezení, osobně v Praze (Vršovice). Napište nám a termíny naplánujeme společně s vámi.",
+    "duration": "2 hodiny na sezení",
+    "optionsHeading": "Vyberte si sezení",
+    "options": [
+      {
+        "name": "Jednotlivé sezení",
+        "meta": "2 hodiny · 8.600 CZK",
+        "includes": "Jedno samostatné sezení Hermetického znovuvyvážení."
+      },
+      {
+        "name": "Série tří sezení",
+        "meta": "3 × 2 hodiny · 22.000 CZK",
+        "includes": "Kompletní znovuvyvážení: tři sezení s odstupem jednoho až dvou týdnů. Rezervujete si první a další dvě naplánujeme společně s vámi."
+      }
+    ],
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Při rezervaci si vyberte jednotlivé sezení nebo sérii tří sezení a zaplaťte bezpečně online. U série naplánujeme další dvě sezení společně s vámi při setkání.",
     "inquiry": "Dobrý den, mám zájem o hermetické znovuvyvážení."
   },
   "BabyBlessing": {
@@ -3231,7 +3312,8 @@
     "relatedBody": "Life Activation probouzí váš vlastní božský plán: základ léčebné práce v naší linii.",
     "relatedCta": "Prozkoumat Life Activation",
     "bookingTitle": "Požehnejte svému dítěti",
-    "bookingNote": "Osobně v Praze. Napište nám, ideálně ještě před termínem porodu, a požehnání naplánujeme společně.",
+    "bookLabel": "Rezervovat konzultaci zdarma",
+    "bookingNote": "Začněte bezplatnou hodinovou konzultací, online nebo osobně v Praze, kde probereme podrobnosti. Za požehnání platíte až po našem rozhovoru. Obřad nemá pevně danou délku.",
     "inquiry": "Dobrý den, mám zájem o požehnání dítěte."
   },
   "EthericReconstruction": {
@@ -3297,7 +3379,8 @@
     "relatedBody": "Éterická rekonstrukce nebeských kódů čistí klíčová témata a hluboké vzorce, které vás drží svázané s minulostí.",
     "relatedCta": "Prozkoumat éterickou rekonstrukci nebeských kódů",
     "bookingTitle": "Začněte konzultací",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "90 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o éterickou rekonstrukci."
   },
   "CelestialCode": {
@@ -3357,7 +3440,8 @@
     "relatedBody": "Éterická rekonstrukce odstraňuje z vašeho éterického pole husté, hluboko usazené energie a obnovuje soulad s vaším božským plánem.",
     "relatedCta": "Prozkoumat éterickou rekonstrukci",
     "bookingTitle": "Pusťte starý příběh",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "90 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o éterickou rekonstrukci nebeských kódů."
   },
   "FireSoulInfusion": {
@@ -3414,7 +3498,8 @@
     "relatedBody": "Vlévání jádra vůle posiluje vaši vůli a slaďuje ji s Božskou vůlí, abyste měli soustředění a jasný směr.",
     "relatedCta": "Prozkoumat vlévání jádra vůle",
     "bookingTitle": "Znovu rozdmýchejte svůj oheň",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o vlévání ohně duše."
   },
   "CoreWillInfusion": {
@@ -3476,7 +3561,8 @@
     "relatedBody": "Vlévání ohně duše znovu kalibruje vaši magnetickou strukturu a probouzí oheň vaší duše.",
     "relatedCta": "Prozkoumat vlévání ohně duše",
     "bookingTitle": "Posilte svou vůli",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o vlévání jádra vůle."
   },
   "CompassionSummoning": {
@@ -3521,7 +3607,8 @@
     "relatedBody": "Mezihvězdná trubice světla archanděla Michaela vás obklopí štítem božského světla.",
     "relatedCta": "Prozkoumat trubici světla",
     "bookingTitle": "Přijměte jejich soucit",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "60 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o vzývání soucitu."
   },
   "StarseedHealing": {
@@ -3575,7 +3662,8 @@
     "relatedBody": "Sjednocené léčení čaker, další sezení léčebné modality krále Šalomouna, sjednocuje a probouzí systém čaker o 2 418 bodech.",
     "relatedCta": "Prozkoumat sjednocené léčení čaker",
     "bookingTitle": "Očista a nové propojení",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "90 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o léčení hvězdného semene."
   },
   "UnifiedChakraHealing": {
@@ -3630,7 +3718,8 @@
     "relatedBody": "Léčení hvězdného semene, první sezení léčebné modality krále Šalomouna, vyčistí zahlcenou mysl a znovu naladí vaši vibraci.",
     "relatedCta": "Prozkoumat léčení hvězdného semene",
     "bookingTitle": "Sjednoťte svou energii",
-    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Napište nám a najdeme termín, který vám vyhovuje.",
+    "duration": "90 minut",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
     "inquiry": "Dobrý den, mám zájem o sjednocené léčení čaker."
   },
   "KshmAuricRegion": {
@@ -3690,7 +3779,8 @@
     "relatedBody": "Léčení hvězdného semene, první sezení léčebné modality krále Šalomouna, můžete přijmout i samostatně.",
     "relatedCta": "Prozkoumat léčení hvězdného semene",
     "bookingTitle": "Vydejte se na cestu",
-    "bookingNote": "Deset individuálních sezení, osobně v Praze (Vršovice). Napište nám a domluvíme si první rozhovor.",
+    "duration": "10 × 2 hodiny",
+    "bookingNote": "Tímto rezervujete první z deseti dvouhodinových sezení, konzultaci, osobně v Praze (Vršovice), za plnou cenu programu. Devět léčebných sezení naplánujeme společně s vámi při setkání.",
     "inquiry": "Dobrý den, mám zájem o aurickou oblast KSHM."
   }
 }
