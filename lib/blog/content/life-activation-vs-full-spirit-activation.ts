@@ -19,7 +19,7 @@ Both sessions here in Prague run for roughly **two hours** and are offered at th
 ### Supplementary Procedures
 
 - **Life Activation** includes emotional blockage clearing at the crown chakra, central energetic core balancing, the opening of the 16 Lotus Petals (deepening your connection to Earth, Water, Air, and Fire), balancing of the elemental and magnetic lines, full chakra balancing, removal of "burnt etheric crystals," a brief reading from your newly activated DNA, and — for many sessions — an Energy Spray (Spagyrics) prepared in the school's own alchemy laboratory.
-- **Full Spirit Activation** includes a Chakra Awakening, a Tree of Life Awakening that aligns you with that living map of creation within, and its own dedicated Energy Spray (Spagyrics) — Purificado & Crystalis — supporting gentle detoxification as the deeper work integrates.
+- **Full Spirit Activation** includes a Chakra Awakening, a Tree of Life Awakening that aligns you with that living map of creation within, and its own dedicated Energy Spray (Spagyrics) — Purificato & Crystalis — supporting gentle detoxification as the deeper work integrates.
 
 ### Who Each One Is Designed For
 
@@ -33,7 +33,7 @@ Both sessions here in Prague run for roughly **two hours** and are offered at th
 
 ### Ideal Timing: Why the Order Matters
 
-This is the piece most people ask about, and the answer is refreshingly precise: to get the most from a Full Spirit Activation, complete your Life Activation first — ideally somewhere **between three weeks and three months** beforehand. That window allows your body and energy field genuine time to integrate the first activation before the deeper work of anchoring soul and spirit begins. Skipping ahead does not make the second session more powerful; it simply asks the body to hold more than it has had time to prepare for. Sequence, here, is part of the medicine.
+This is the piece most people ask about, and the answer is refreshingly precise: to get the most from a Full Spirit Activation, complete your Life Activation first — **at least six weeks and no more than three months** beforehand. That window allows your body and energy field genuine time to integrate the first activation before the deeper work of anchoring soul and spirit begins. Skipping ahead does not make the second session more powerful; it simply asks the body to hold more than it has had time to prepare for. Sequence, here, is part of the medicine.
 
 ## Choosing Your Starting Point
 

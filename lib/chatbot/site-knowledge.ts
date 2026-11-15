@@ -13,16 +13,16 @@ The Ensofic Ray is the first emanation of Light from Source. This healing works 
 The three-session protocol is designed to deepen and stabilise the process, with each session building on the last. The sessions take place in person only, in Prague.
 The Three-Session Protocol
 I. The body:
-Releases blockages, tension and stagnant energy so the body's systems return to balance and flow.
+Ensofic Reiki gets energy moving through the body, releasing blockages, tension and stagnant energy, and prepares you for the second session.
 II. Soul & spirit:
-Calls down and activates the 12 Rays of Creation — Romance, Healing, Mystery, Royalty, New Beginnings and more — supporting the embodiment of your divine essence.
+Pure Ensofic Ray energy flows through the practitioner's hands; then twelve sacred seals are placed into your etheric field, so your soul and spirit bodies can shift and heal together.
 III. Integration:
-A personalised session that reinforces and stabilises the energetic seals of the previous sessions.
+A session shaped around your needs that day: the Ray or the Reiki is repeated as needed, the twelve seals are checked to make sure they are holding, and your questions are answered. If needed, a fourth session can be added.
 Benefits
 Reconnects you to your authentic self and inner light
 Clears physical, emotional and energetic blockages
 Aligns body, mind and spirit
-Activates and anchors the 12 Rays
+Anchors twelve sacred seals in your energy field
 Supports new beginnings and the completion of old cycles
 Raises vibration and restores clarity and peace
 Supports emotional healing and renewal
@@ -31,6 +31,11 @@ Receive the Ray
 3 × 90 Minutes
 This books the first 90-minute session, in person in Prague (Vršovice), at the full programme price. We'll schedule the next two sessions together with you when you meet.
 Hello, I am interested in Advanced Ensofic Ray Healing.
+How is this different from Ensofic Reiki?
+Ensofic Reiki is the first stage of the full Ensofic Ray modality. This series begins with it, then adds the pure Ensofic Ray and the twelve sacred seals. Read about Ensofic Reiki .
+/ensofic-reiki
+Should I tell you about injuries or health conditions?
+Yes. Please tell us about any injuries, surgeries or conditions that make lying down or sitting up harder, so the session can be adapted to you.
 
 ## PAGE: /archangel-michael-tube-of-light
 center 30%
@@ -86,30 +91,30 @@ The art and science of travelling beyond the physical body
 Explore the higher planes — safely, consciously, and at will
 The art and science kept by the mystery schools for millennia
 We are far more than our physical body. Within the teachings of the Modern Mystery School, astral travel is the conscious, deliberate projection of awareness beyond the physical — a discipline studied and refined across thousands of years. Far from a dream or accident, it is a skill that can be learned, practised and trusted.
-In this workshop you are given the keys to leave the body safely and return with clarity — to explore the subtle realms, meet your guides, and gain a perspective on your life that the physical senses alone can never reach.
+In this workshop you are given the keys to leave the body safely and return with clarity. You learn to prepare your body, mind and space, to travel in harmony with Sacred Law, and to seek guidance meant for your own path, gaining a perspective on your life that the physical senses alone can never reach. It suits first-timers and experienced travellers alike.
 Reserve Your Place
 What You Will Learn
 The map of the planes:
 Understand the structure of the subtle worlds and where consciousness travels.
 Safe projection:
-Proven techniques to leave and re-enter the body consciously, with protection at every step.
-Navigation & guidance:
-How to move with intention, meet your guides, and ask the right questions.
+Time-honoured Mystery School techniques to leave and return to the body consciously, with prayer and ritual to protect and bless every journey.
+Where & how to travel:
+Choose where to go and travel with intention, for guidance, insight and experience, always in harmony with Sacred Law.
 Grounding & integration:
 Return clearly and bring the wisdom of your journeys into daily life.
 Step Beyond the Body
 4.5 Hours
-Workshops are scheduled in small groups. Reach out for the next available date in Prague.
+Taught in small groups by Radu and Diana, both certified by the Modern Mystery School to teach Astral Travel. Reach out for the next available date in Prague.
 Hello, I would like to learn more about the Astral Travel workshop.
 
 ## PAGE: /aura-healing
 aura-healing
 all/aura-healing
-A Healing of the Mystery School
+An Ancient Egyptian Healing
 Restore and protect your energetic field
 Clear, balance and seal the seven layers of the aura
-Healing that works through the geometry of light
-Working across the seven layers of the aura, this gentle session releases what no longer serves you, balances the energies of body and mind, and re-establishes a clean, whole and radiant field around you.
+An ancient Egyptian healing for the seven layers of your aura
+Working across the seven layers of the aura, this gentle session releases what no longer serves you, rebalances your physical, emotional, soul and astral bodies, and re-establishes a clean, whole and radiant field around you.
 Book a Session
 The Benefits
 Repair & seal:
@@ -118,8 +123,8 @@ Balance the seven layers:
 Harmonise each level of the auric field with the geometry of light.
 Release & lighten:
 Clear stagnant and foreign energies, leaving you calm and clear.
-Protection & vitality:
-Re-establish a strong, whole field that supports your wellbeing day to day.
+Vitality & manifestation:
+A strong, whole aura gives you the energy to live fully and to bring your intentions into form.
 Restore Your Light
 2 Hours
 One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
@@ -345,7 +350,7 @@ Yes. A Life Activation is needed first: it prepares your energy for the reading.
 Will the reading predict my future?
 No. It looks at the gifts and challenges you were born with, and gives advice on how to work with them. What you do with that advice is always your choice.
 How is it different from the Life Purpose Reading?
-The Life Purpose & 11th Codon Reading focuses on your divine purpose and what you can do now to fulfil it. The Chronos Reading focuses on your inborn strengths and weaknesses, and how to work with both.
+The Life Purpose (11th Codon) Reading focuses on your divine purpose and what you can do now to fulfil it. The Chronos Reading focuses on your inborn strengths and weaknesses, and how to work with both.
 Begin with the Life Activation
 The Life Activation prepares your energy for the Chronos Reading, and is a powerful first step on its own.
 Explore the Life Activation
@@ -562,11 +567,11 @@ Within minutes most people drift into a deep, dream-like state called Theta, the
 What It Helps With
 A calmer, clearer mind
 Emotional release and balance
-Support for the physical body, including internal physical problems
+Support for your physical, emotional and mental wellbeing
 Better balance between left and right and your sense of space
 A healthier relationship with time: less rush, more presence
 Renewed vitality and libido
-Bringing back parts of yourself you have lost along the way (soul retrieval)
+Reconnecting with parts of yourself you have lost along the way
 A pure mind and a feeling of empowerment
 What will I feel?
 Most people sink into deep relaxation, between waking and sleep, and some fall asleep. That is perfectly fine: the healing works either way. You wake up refreshed, calm and often joyful.
@@ -605,7 +610,7 @@ Energy Clearing
 Emotional Cord Cutting
 When someone still lives in your thoughts, and it costs you energy
 A gentle ritual to let go of old ties, so you can feel like yourself again
-When life feels heavy, sometimes the first step is simply to let go
+Sometimes healing begins with letting go
 Every person we love, argue with or miss leaves a trace in us. We call these traces energetic cords. Most of them are harmless. But some keep pulling at you long after the relationship or the moment is over: you replay old conversations, you come home tired after seeing certain people, or a name alone is enough to unsettle you.
 In this session we gently cut those draining ties and clear what they left behind. It doesn't erase love or end a relationship. It simply gives your energy back to you, so you can meet the people in your life from a lighter, freer place.
 Signs of an Unhealthy Cord
@@ -622,6 +627,8 @@ The cutting:
 You stand comfortably, take a few deep breaths and let your body relax. The practitioner cuts the cords with a ritual tool of light; they are absorbed into burning incense and released.
 Cleansing:
 Your energy is gently cleansed and brought back into balance with sage, holy water and sacred mantras.
+Setting an intention:
+You quietly name something you'd like to welcome next, as simple as peace or joy. You can keep it private.
 A quiet moment:
 We close in stillness, so you can notice how you feel: often lighter, calmer and clearer.
 What Clients Often Notice
@@ -642,9 +649,13 @@ Light a candle, take a few deep breaths and set an intention for what you'd like
 Be gentle with yourself: rest, write, meditate or spend time in nature
 Over the next few days old feelings or memories may come up. That is normal: it is part of letting go
 Will it end my relationship?
-No. It cuts the unhealthy, draining part of the connection, not the love. Many people find their relationships become lighter and healthier afterwards.
+No. It cuts the unhealthy, draining part of the connection, not the love. Many people find their relationships become lighter and healthier afterwards. And if a relationship has truly run its course, you may simply find it easier to let it close in peace.
 Do I need to talk about painful events?
 Only as much as you want. A short conversation about what you want to release is enough.
+Can I cut a cord to an experience, not a person?
+Yes. Cords can also form with events, such as an accident, a loss or a frightening moment you can't quite shake off. The cutting can release the heaviness tied to that experience too.
+How often can I receive it?
+Whenever you feel old ties pulling at you again, for example after a conflict, a break-up or a demanding time. There is no fixed rule, and we are glad to tell you what we would suggest for you.
 How long does it take and what does it cost?
 About one hour, 3.669 CZK, including the consultation, the cord cutting and the purification.
 Can I combine it with Negative Energy Removal?
@@ -666,7 +677,7 @@ month_view
 A Two-Day Program
 Initiation into the Lineage of King Salomon
 If you could be like God — filled with love, harmony, and creative power — would you do it?
-It is the very same initiation that has been passed from teacher to student, without a break, for over 3,000 years, since the time of King Salomon. The keys you receive are the keys the initiates of old received, and they are yours for the rest of your life.
+It is the very same initiation that has been passed from teacher to student, without a break, for over 3,000 years, since the time of King Salomon. The keys you receive are the keys the initiates of old received, and they are yours for the rest of your life. In the tradition, this initiation is said to bring ten times more Light into your life to direct towards your goals.
 You leave with a sacred daily practice, a mind that is clear and still, a deep sense of your own power, and the knowing of your next step.
 Diana and Radu will be by your side during the 2 days and long after that.
 These teachings were guarded like a precious jewel by everyone who walked this path before you, so that today they could reach you.
@@ -688,7 +699,7 @@ It's practical and hands-on: you practise everything during the class, so you go
 Things that may have puzzled you, like your intuition, vivid dreams or meaningful coincidences, will start to make sense.
 You'll learn to sense the unseen world and work with it safely.
 You'll learn to focus your thoughts and use them to create good things in your life.
-You'll practise sacred rituals and take part in an initiation ceremony.
+You'll practise sacred rituals and, in a closing ceremony, receive your initiation as an Adept in the lineage of King Salomon.
 What makes this class special?
 Many people can talk about spirituality. Here you get real tools, you learn how to use them in your own life, and you have us beside you while you do.
 What will you learn?
@@ -697,19 +708,22 @@ What an initiation is, and why it matters today
 Where these teachings come from: King Salomon and the lineage
 Your full potential, and how to grow into it
 How to create a sacred space at home, and why it helps you
+Tools of power: what a ritual is and why it works
 A short daily practice and a protection prayer you can use anywhere
 The physical and spiritual dimensions, and how to work with both
-The beings of light you can call on for help
+Who or what God is, and the Hierarchy of Light: the angels and archangels you can call on for help
 Meditation, and how your brainwaves change your state of mind
+The Sanctuary Meditation Journey, in two parts: finding your inner sanctuary and meeting your Higher Self
 Your ego: when it helps you and when it holds you back
 The patterns and cycles we all go through, and how to step out of them
 Your energy body, and how to clear and protect it
-Universal Kabbalah and the Tree of Life
+Chi, Ki and Hara: how to grow and direct your own life force
+The Universal Hermetic Ray Kabbalah and the Tree of Life
 Every part comes with practical exercises and rituals you can use straight away, all from the lineage of King Salomon.
 What do you need to do?
 Write to us: we'll have a friendly chat to see whether this is the right step for you now.
 We're here to support you with clarity and guidance, every step of the way.
-Receive a Life Activation session from one of our certified practitioners.
+Receive your Life Activation, which the Modern Mystery School asks every student to have before initiation. It is included in your booking and given by one of our certified practitioners.
 Make a deposit or pay the full amount to reserve your spot.
 Attend the two-day class and participate in the initiation ceremony.
 Start applying what you've learned and enjoy the results.
@@ -751,22 +765,25 @@ The highest, brightest ray of creation
 Ensofic Reiki for your body and nervous system
 The first ray of creation: pure, clear and direct
 The Ensofic Ray is the highest, brightest and most powerful ray of energy, the first ray of creation. It carries purity, clarity and focused concentration, so it goes straight to the core.
-Ensofic Reiki is a healing session that helps reduce pain and helps your body heal faster. It is a good choice if you are recovering from an injury, an illness or an operation, if you live with pain that keeps coming back, or if your body feels exhausted and slow to recover. Many people leave the session feeling lighter and calmer, with less pain and better sleep. You can come in person in Prague or receive the session remotely, wherever you are in the world.
+Ensofic Reiki is a hands-on healing session that can bring relief from pain and support your body's own ability to recover. It is a good choice if you are recovering from an injury, an illness or an operation, if you live with pain that keeps coming back, or if your body feels exhausted and slow to recover. Many people leave the session feeling lighter and calmer, with less pain and better sleep. You can come in person in Prague or receive the session remotely, wherever you are in the world.
 Benefits
 Helps reduce pain, both sudden pain and pain that keeps coming back
-Helps injuries, wounds and the body after an operation heal faster
+Supports your body's natural recovery after an injury, illness or operation
 Eases tension and stiffness in muscles and joints
 Calms the nervous system, so the body can rest and repair itself
 Supports deeper, more restful sleep
 Leaves you feeling lighter, calmer and with more energy
+Eases stress and emotional heaviness, and brings more clarity
 You are in pain and want relief
-You are recovering from an injury, a fall, a sports strain or an operation and want to heal faster
+You are recovering from an injury, a fall, a sports strain or an operation and want support as you recover
 You live with long-term pain, such as back pain, joint pain or headaches
 Your body feels exhausted and is slow to recover
 What can Ensofic Reiki help with?
 Ensofic Reiki works with the physical body and the nervous system: pain and physical conditions, stress and anxiety, exhaustion, poor sleep and many other problems. It is a complement to your medical care, not a replacement for it.
 Can I receive Ensofic Reiki at a distance?
-Yes. Ensofic Reiki can be received in person in Prague or as a remote healing session, wherever you are in the world. Radu and Diana have trained and worked hard to master distance healing, and together they channel the healing force wherever it is needed.
+Yes. Ensofic Reiki can be received in person in Prague or as a remote session, wherever you are in the world. Distance healing is taught in the Intermediate level of the Ensofic Reiki training, and Radu and Diana have completed all three levels. Together they channel the healing force wherever it is needed.
+How is it different from Advanced Ensofic Ray Healing?
+Ensofic Reiki is a single session that works mainly with the body, and one session can already bring relief. It is also the first part of the full Ensofic Ray treatment: Advanced Ensofic Ray Healing is three sessions, for the body, then soul and spirit, then one shaped around your needs.
 What do I need to do to prepare?
 All you need to do is relax; there is nothing to learn or believe in advance.
 90 Minutes
@@ -775,6 +792,16 @@ Hello, I am interested in Ensofic Reiki.
 Ready to go deeper?
 Advanced Ensofic Ray Healing is a series of three sessions, in person in Prague, that works with body, soul and spirit together for a deeper and lasting change.
 Explore Advanced Ensofic Ray Healing
+What Happens in the Session
+We start with a conversation:
+Tell us what brings you, and about any injuries, operations or health conditions, especially anything that makes lying down or sitting uncomfortable.
+The healing:
+You rest in a quiet room with soft music while the practitioner channels the Ensofic Ray through their hands. Just breathe and notice whatever you feel.
+A quiet moment:
+We close gently, so you can rest and feel the difference.
+The origin
+From the Ensofic Ray tradition
+Ensofic Reiki is the first stage of the Modern Mystery School's Ensofic Ray healing modality, taught in three levels: the Fundamental level hands down the complete Ensofic Reiki session, the Intermediate level adds distance healing and clearing unwanted habits, and the Advanced level completes the full Ensofic Ray treatment. Radu and Diana have both completed all three levels.
 
 ## PAGE: /etheric-reconstruction
 Energetic Surgery
@@ -875,8 +902,8 @@ Beneath the veil of our physical existence lies a vast and complex world of cons
 While the Life Activation connects you to your original blueprint and Higher Self, the Full Spirit Activation acts as a portal to your true essence — awakening and anchoring the soul and the spirit into the physical body, creating a powerful bridge between the divine and the human experience.
 Book Now
 A Practice That Works at the Level of the Soul
-Similar to the Life Activation, which works on the physical level, the Full Spirit Activation operates at the level of the soul — opening the gates to higher dimensions of consciousness and being. It works deeply within different areas of the brain and reconnects them to specific points in the physical body, which are then linked to the subtle energy bodies, amplifying the flow of spiritual energy throughout your entire system.
-In a more tangible sense, it unlocks the channels of consciousness within the body, revitalizing the nervous and sensory systems. This allows us to connect more deeply to our physical sensations — free from the emotional and mental blocks that may have limited us in the past — filling us with a radiant vitality and an overwhelming joy for life.
+Where the Life Activation strengthens your connection to your Higher Self, the Full Spirit Activation deepens your connection to your soul — opening the gates to higher dimensions of consciousness and being. It works deeply within different areas of the brain and reconnects them to specific points in the physical body, which are then linked to the subtle energy bodies, amplifying the flow of spiritual energy throughout your entire system.
+In a more tangible sense, it unlocks the channels of consciousness within the body, enlivening your senses and your felt connection to your body. This allows us to connect more deeply to our physical sensations — free from the emotional and mental blocks that may have limited us in the past — filling us with a radiant vitality and an overwhelming joy for life.
 You are meant to express
 beauty and good
 The teaching of the lineage
@@ -893,9 +920,9 @@ Chakra Awakening:
 Awakening and harmonizing the body's energy centers.
 Tree of Life Awakening:
 Aligning you with the living map of creation within.
-Purificado & Crystalis:
-A magical Energy Spray (Spagyrics) created to support the process and gentle detoxification.
-After such an intense session, it is recommended to allow yourself time to fully integrate the transformations. To maximise the benefits, complete the Life Activation first — ideally between three weeks and three months beforehand.
+Purificato & Crystalis:
+A set of spagyric energy sprays, included with your session, to support the process and a gentle detox.
+After such an intense session, it is recommended to allow yourself time to fully integrate the transformations. To maximise the benefits, complete the Life Activation first — at least six weeks and no more than three months beforehand.
 Discover Your Potential to Be a Divine Being
 2 Hours
 For prices and sign-up, please see the Modern Mystery School UK website.
@@ -912,15 +939,17 @@ Reading Session
 What happens in a session?
 You stay comfortably seated throughout while Diana or Radu works with the higher centres — the pineal, pituitary and thalamus. There is nothing you need to do; you simply receive.
 Do I need a Life Activation first?
-Yes, a Life Activation within the last 90 days is required. The 90-day window comes from the tradition itself. If it has been longer, we will simply check in together on where you are before moving forward.
+Yes. The tradition asks for a Life Activation received at least six weeks and no more than three months before your session. If it has been longer, we will simply check in together on where you are before moving forward.
 What will I feel?
 It varies: warmth, subtle shifts, emotional release or deep calm.
 What happens afterwards?
 Many people notice a settling over the following weeks — less mental noise, a steadier mood and clearer direction.
+Can I receive it more than once?
+Yes. It can be repeated, with at least three months between sessions.
 Can it be done remotely?
 No — the Full Spirit Activation is in person only.
 Is the practitioner certified?
-Yes. Only practitioners certified directly by Modern Mystery School International may perform it.
+Yes. Only practitioners certified by Modern Mystery School International may give it: Certified Healers who have completed Healers Academy 2 and renew their certification every year.
 
 ## PAGE: /galactic-activation
 Modern Mystery School UK
@@ -960,30 +989,30 @@ Hello, I would like to ask about the Galactic Activation.
 
 ## PAGE: /healers-academy
 The Second Level of Initiation
-Become a certified healer in the lineage of King Salomon
+Train as a certified practitioner in the lineage of King Salomon
 Step fully into a life of service and light
-Over an intensive program of study and practice, you are initiated and certified to offer the foundational modalities of the Modern Mystery School — the same work that changed your own life, now placed in your hands to give.
+Healers Academy 1 is five intensive days of study, practice and initiation. You graduate as a Certified Life Activation Practitioner, able to give the Life Activation, the Aura Healing and the Max Meditation System™ — the same work that changed your own life, now placed in your hands to give.
 Apply Now
 What You Will Learn
 Perform the Life Activation:
 Learn to deliver the full 22-strand DNA Life Activation for others.
-Lead Max Meditation™ groups:
+Guide the Max Meditation System™:
 Guide the signature group meditation that opens this path for so many.
 Read & heal the aura:
 Learn to find and fill the holes in a person's aura, restoring wholeness and protection.
 Empower your light body:
-Nourish and care for your own light body so it can hold up to a hundred times more power.
+Strengthen and care for your own light body, so you can hold and carry more Light.
 Sacred ceremony & ethics:
 Hold space with integrity, discernment and the responsibility of a true healer.
 Know thyself, and thou shalt know
 the universe and the gods
-Inscribed at the Temple of Apollo · Delphi
+After the maxim inscribed at the Temple of Apollo · Delphi
 Ascent of the Blessed · H. Bosch, c. 1505
 Who It Is For
-Graduates join a worldwide community of certified healers and are eligible to continue toward the Ritual Master path and the deeper teachings of the school.
+Graduates join a worldwide community of certified practitioners and renew their certification each year. From there you can continue to Healers Academy 2, six days in which you learn around ten more healing modalities, among them the Full Spirit Activation, Chakra Awakening, Tree of Life Awakening and Shamanic Aura Clearing, and become a Certified Healer. Certified Life Activation Practitioners can also apply for the Ritual Master path and the deeper teachings of the school.
 Answer the Call to Serve
 Intensive Program & Initiation
-Healers Academy is a 5-day intensive program.
+Healers Academy 1 is a five-day intensive; Healers Academy 2 follows as a six-day intensive.
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Email
@@ -1041,8 +1070,8 @@ Remote Healings
 Receive healing from wherever you are, anywhere in the world.
 Readings & Guidance
 Insight into your purpose, your soul and your path.
-Life Purpose & 11th Codon Reading
-A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation.
+Life Purpose (11th Codon) Reading
+A reading of your divine purpose, your soul's lineage and the gifts you carry, also known as the 11th Codon Reading. Follows a Life Activation.
 Intuitive Reading with Crystal
 A reading with a crystal that opens access to the wisdom of your Higher Self and guides.
 Chronos Reading
@@ -1151,7 +1180,7 @@ Whenever new questions come up. Many people come back after a few months, once t
 Do I need a previous session?
 No. The reading is open to everyone.
 Go deeper into your purpose
-The Life Purpose & 11th Codon Reading reveals your divine purpose and the gifts you carry.
+The Life Purpose (11th Codon) Reading reveals your divine purpose and the gifts you carry.
 Explore the Life Purpose Reading
 Ask Your Questions
 60 Minutes
@@ -1164,9 +1193,9 @@ A Long-Form Ascension Journey
 Climbing the Tree of Life
 A spiritual and alchemical transformation — not a weekend, but a journey.
 Ten to twelve months of guided ascension
-The Universal Hermetic Ray Kabbalah Ascension Program is a Modern Mystery School tradition dedicated to unlocking your greatness and aligning yourself with your life purpose. The full Ascension Journey runs roughly ten to twelve months, built around four in-person classes — most held at Modern Mystery School Headquarters, with the final gathering a retreat weekend away in nature.
+The Universal Hermetic Ray Kabbalah Ascension Program is a Modern Mystery School tradition dedicated to unlocking your greatness and aligning yourself with your life purpose. The full Ascension Journey runs roughly ten to twelve months, built around four in-person classes, the last a retreat weekend away in nature, with eleven online study groups in between, one for each step on the Tree.
 Through climbing the Tree of Life, you activate stages of consciousness, healing, and understanding that bring you closer to your truest, actualized self — a deep system of personal development, not just study of Kabbalah as an idea.
-Ask Radu About This Program
+Ask Radu & Diana About This Program
 What the Journey Includes
 Climbing the Tree of Life:
 Each of the four in-person gatherings activates a stage of consciousness, healing, wisdom, and understanding as you ascend the Tree.
@@ -1175,12 +1204,12 @@ A non-dogmatic system that invites genuine self-discovery, using the Tree of Lif
 Relationships, Career & Purpose:
 The curriculum works directly with relationships and self-love, career clarity, and aligning your daily life with your true purpose.
 Becoming a Kabbalist:
-Completing all four in-person classes — the last a retreat weekend in nature — completes the journey. You regain your crown, and begin living your life as a full Kabbalist, from the Supernals — not just from the lower part of the Tree, which is what most humans have access to.
+Completing all four in-person classes — the last a retreat weekend in nature — completes the journey, ascending through Binah, Chokmah and Kether, the three Supernals. You regain your crown and begin living as a full Kabbalist, from the whole Tree rather than only its lower branches.
 Is This For You?
 At minimum, you need to be an Adept Initiate — initiated through Empower Thyself — to be prepared for the Ascension Program. However, it is highly recommended to have also completed Healers Academy before embarking on the journey. An advanced track, Kabbalah for Kabbalists, is also offered for Certified Life Activation Practitioners, Healers, Ritual Masters, and Guides seeking deeper service.
-This is a global Modern Mystery School program run at Headquarters level, not a session run locally here in Prague. Class sizes and cohorts are limited and run once every one to two years — for current dates and enrollment, visit the Modern Mystery School's own page .
+This program isn't run here in Prague. Each group (a "Tree") is run by a Modern Mystery School centre, such as Headquarters in Toronto or MMS UK & Europe in London, and led by certified Universal Hermetic Ray Kabbalah instructors. Places are limited and a new group usually starts only every one to two years. For current dates, visit the Modern Mystery School's own page , or ask us about the next group in Europe.
 Curious About the Kabbalah Ascension Program?
-Radu is glad to help you understand what this journey really asks of you, whether you meet the prerequisites yet, and how it connects to the path you're already walking.
+Radu and Diana are glad to help you understand what this journey really asks of you, whether you meet the prerequisites yet, and how it connects to the path you're already walking.
 Hello, I would like to learn more about the Universal Hermetic Ray Kabbalah Ascension Program.
 
 ## PAGE: /keys-of-the-ancients
@@ -1190,8 +1219,8 @@ A Five-Day Hermetic Crossing with Sovereign Ipsissimus Dave Lanyon
 For those ready to unlock their full potential and step directly into the deepest teachings of this lineage.
 Taught personally by one of the lineage's highest initiates
 Keys of the Ancients: A Hermetic Crossing into the Lineage of King Salomon is a five-day immersive class led by Dave Lanyon — a Sovereign Ipsissimus, best-selling author, and one of the highest-ranking key holders of the Modern Mystery School. It unveils hidden keys of Hermetic wisdom through direct, initiatory teaching, and is offered as an intimate, small-group program (historically around 25 participants) at select Modern Mystery School locations internationally.
-Participants receive a personal Life Activation session, initiation into the Lineage of King Salomon, Dave Lanyon's two books, and a 72-card Hermetic Wisdom deck, alongside the five days of direct teaching.
-Ask Radu About This Program
+Participants receive a personal Life Activation session and the Empower Thyself initiation, which initiates you as an Adept in the Lineage of King Salomon, alongside the five days of direct teaching. Past classes have also included Dave Lanyon's two books and a 72-card Hermetic Wisdom deck.
+Ask Radu & Diana About This Program
 What the Program Covers
 The Power of Change:
 Direct, practical teaching on transformation — how it actually happens, and how to stop standing in your own way.
@@ -1200,12 +1229,14 @@ Universal principles for overcoming obstacles, drawn from the Hermetic tradition
 Sacred Geometry & the Pentagram:
 A deeper look at the pentagram's significance within the Hermetic and King Salomon lineage.
 Spirit Guides:
-Understanding the role spirit guides play in genuine spiritual growth, and how to recognize your own.
+Understanding the role spirit guides play in genuine spiritual growth.
+The Open Heart & True Joy:
+Why an open heart is the foundation for joy, gratitude and success, and how to live a life of true joy.
 Is This For You?
-Keys of the Ancients asks for an open mind, a genuine desire to learn, and a willingness to be challenged. It is not a beginner's workshop — it is designed for those already walking this path who are ready to go directly to the source and learn alongside a Sovereign Ipsissimus himself.
+Keys of the Ancients asks for an open mind, a genuine desire to learn and a willingness to be challenged. No previous classes are needed: it welcomes newcomers and initiates alike, and for those new to the path it includes the Life Activation and the Empower Thyself initiation. It is a rare chance to learn directly from a Sovereign Ipsissimus himself.
 This is a global Modern Mystery School program, not a session run locally here in Prague. Dates, exact pricing, and locations are set directly by Dave Lanyon's team and change from cohort to cohort — for current details, visit thedavelanyon.com .
 Curious About Keys of the Ancients?
-Radu has walked this lineage himself and is glad to share what this program is really like, help you understand whether it's the right next step, and point you toward official dates and registration.
+Radu and Diana have walked this lineage themselves and are glad to share what this program is really like, help you understand whether it's the right next step, and point you toward official dates and registration.
 Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
 
 ## PAGE: /kshm-auric-region
@@ -1303,10 +1334,10 @@ all/life-activation
 /images/life-activation
 The Modern Mystery School · Lineage of King Salomon
 Activate the innate gifts that reside in your DNA
-Clear 5–7 generations of ancestral trauma and step into your highest potential
+Awaken your divine blueprint, release patterns inherited through your family line, and step into your highest potential
 A Closer Look at Your Session
 In addition to the activation itself, the session includes supplementary procedures designed to balance and stimulate the body in alignment with the newly activated information from the DNA.
-Emotional Blockage Removal:
+Crown Cap Removal:
 Focused on clearing potential emotional blockages from the crown chakra, this process creates a better flow of energy.
 Central Core Balancing:
 This process harmonizes the energies flowing through the central core, supporting the alignment and balance of the entire energetic system.
@@ -1316,12 +1347,12 @@ Balancing of Elemental and Magnetic Energy Lines:
 This balances and harmonizes the energy lines that run through the body, supporting a smooth and aligned energy flow.
 Chakra Balancing:
 This brings harmony and alignment to the body's energy centers.
-Removal of Burnt Etheric Crystals from the Body:
-This procedure is intended to cleanse and revitalize the energetic body.
+Negative Crystal Removal:
+Burnt-out etheric crystals are removed from the body, to cleanse and revitalize your energy body.
 Brief Reading from Your Newly Activated DNA:
 A short exploration of the subconscious layers, providing you with insights and guidance.
-Energy Spray (Spagyrics):
-A spray created in the school's alchemy laboratory, designed to detoxify, support, and ease the physical and energetic changes associated with this unique experience.
+Purificato & Crystalis:
+A set of spagyric sprays from the school's alchemy laboratory, included with your session and yours to take home, to support the clearing and integration that follow.
 Explore the Higher Dimensions
 DNA Activation is a return to the self—a session that not only brings light into the darkness of life but also opens doors to unlimited potential.
 At the Modern Mystery School, this activation serves as a gateway to spiritual evolution and the discovery of the true Self in a deeply transformative way. You can continue this journey by taking the classes and initiation offered by the Mystery School.
@@ -1333,7 +1364,7 @@ Awaken More of Who You Truly Are
 A glowing strand of DNA, lit with points of golden light
 The gifts, the clarity and the strength you are looking for may already be inside you, waiting to wake up. Life Activation is the session that awakens them.
 It comes from the lineage of King Salomon, kept alive for thousands of years and passed on today by the Modern Mystery School. In the session, 22 of your 24 strands of DNA are activated: 11 physical and 11 spiritual. This lets you receive and hold more Light, the life force that supports your healing, your clarity and your growth.
-It also clears what you have carried from your family line, up to 5–7 generations back, so you can step into your highest potential.
+It also clears what you have carried from your family line, so you can step into your highest potential.
 What It Can Bring You
 Every person is different, but these are the changes people tell us about most often.
 Clarity
@@ -1386,7 +1417,6 @@ Only practitioners certified directly by Modern Mystery School International may
 Diana and Radu are both certified Life Activation Practitioners. They welcome you warmly, work with gentleness and grace, and stay by your side in the weeks that follow.
 See our certifications
 A circle of hand-wrapped crystal wands used in Life Activation sessions
-The two-day class and initiation into the lineage of King Salomon, where you learn powerful rituals to use every day.
 Discover more
 In their own words
 Hear It from Those Who Received It
@@ -1406,53 +1436,58 @@ Choose a time and pay securely online — your appointment is confirmed immediat
 Healing Session
 Reading Session
 What happens in a session?
-You start seated for the first part of the clearing, then stand for about 20–30 minutes while your chakras and etheric body are balanced, and finish seated for the activation of the 22 strands of DNA, followed by a short reading. There is nothing you need to prepare — you simply receive. I usually book 2 hours so there is room to talk beforehand and to settle afterwards.
+You start seated for the first part of the clearing, then stand for about 20–30 minutes while your chakras and etheric body are balanced, and finish seated for the activation of the 22 strands of DNA, followed by a short reading. There is nothing you need to prepare — you simply receive. We usually book 2 hours so there is room to talk beforehand and to settle afterwards.
 What will I feel?
 It varies: warmth, tingling, emotion, deep relaxation, sleepiness, or very little in the moment with shifts showing up in the following days. All of these are normal.
 How does integration work?
-The activation keeps unfolding for roughly one to three months. Old emotions may surface, along with tiredness or sudden clarity. Diana checks in with you during this time.
+The activation keeps unfolding for roughly one to three months. Old emotions may surface, along with tiredness or sudden clarity. We check in with you during this time.
 How often should I receive it?
-Most people receive the Life Activation once. There is no schedule to follow.
+Many people receive the Life Activation once, as a first step. You can also receive it again when you feel called, with at least six weeks between sessions. If you are planning a Full Spirit Activation, it needs a Life Activation from the last six weeks to three months, so some people receive a fresh one before it.
+What can I receive after a Life Activation?
+Several paths open from here. The Full Spirit Activation follows six weeks to three months later. The Life Purpose Reading also builds on a Life Activation. And the last two of your 24 strands, the Galactic Code and the Divinity Code, are switched on later in the Galactic Activation.
+/life-purpose-reading
 Do I need any spiritual background?
 No. No belief or spiritual background is required.
 Can it be done remotely?
 No — the Life Activation is in person only. Ensofic Reiki and Spark of Life are available at a distance.
 Is the practitioner certified?
 Yes. Only practitioners certified directly by Modern Mystery School International may perform it, and they re-certify every year.
+Does it replace medical or psychological care?
+No. The Life Activation is spiritual, energetic support that works alongside the care of your doctor or therapist, never instead of it. If anything about your health is on your mind, tell us before the session.
 
 ## PAGE: /life-purpose-reading
 life-purpose-reading
 all/life-purpose-reading
 A Reading of the Mystery School
-Life Purpose & 11th Codon Reading
-Discover your purpose, and activate the codons that carry it
-A reading of your soul's design, and the DNA strands that encode it
+Life Purpose (11th Codon) Reading
+Discover your purpose, and the gifts you came here to share
+A reading of your soul's design, held in your spiritual DNA
 Your purpose was never hidden — only waiting to be read
-This session combines two readings into one. First, a Life Purpose Reading — where your energy field is read to identify your divine purpose, the gifts you carry, and the direction your path is asking you to take. Then, the 11th Codon Reading — which activates the 11th and 12th spiritual and physical DNA strands beyond what the Life Activation opens, anchoring that purpose more fully into your body.
-Together, they give you both the map and the fuel: clarity about where you are going, and an activation that helps your body carry you there.
+In the Modern Mystery School, the Life Purpose Reading and the 11th Codon Reading are one and the same. Your spiritual DNA carries a record of who you are as a soul: the lineage you come from, what you have gathered over many lifetimes, and the purpose you chose for this one. In this reading that record is opened through the 11th codon, bringing through your divine purpose, the gifts you carry and the direction your path is asking you to take.
+The reading builds on your Life Activation, which prepares your energy to receive and hold what comes through, so a Life Activation is needed first. You leave with clarity about where you are going and the gifts that will carry you there.
 What You Gain
 Clarity on your purpose:
 Understand the divine purpose you came here to live, in plain, practical language.
 Your unique gifts named:
 Recognize the specific gifts and strengths encoded within you, often hidden in plain sight.
-Deeper DNA activation:
-Activate the 11th and 12th strands, extending the work begun in your Life Activation.
+Your soul's story:
+Insight into your spiritual lineage and the experiences your soul carries, and why your purpose looks the way it does.
 A clearer next step:
 Leave with a concrete sense of direction, not just inspiration.
 Read Your Purpose
 60–90 Minutes
-One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
-Hello, I would like to learn more about the Life Purpose & 11th Codon Reading.
+One-to-one, in person in Prague (Vršovice), for those who have received a Life Activation. Choose a time and pay securely online — your appointment is confirmed immediately by email. If there is more to receive than one session allows, the reading can continue about a month later.
+Hello, I would like to learn more about the Life Purpose (11th Codon) Reading.
 
 ## PAGE: /lineage
 Gudni GED Gudnason
 Hideto REI Nakagome
 Dave THOR Lanyon
 The Lineage of King Salomon | The Path of Initiation Prague
-Over 3,000 years of unbroken written lineage. Discover the Modern Mystery School, the King Salomon Lineage, and the three Lineage Holders of the Third Order — Gudni Gudnason, Hideto Nakagome, and Dave Lanyon.
+Over 3,000 years of unbroken lineage. Discover the Modern Mystery School, the King Salomon Lineage, and the three Lineage Holders of the Third Order — Gudni Gudnason, Hideto Nakagome, and Dave Lanyon.
 The Modern Mystery School
 The Lineage of King Salomon
-Over 3,000 years of written history. An unbroken chain of teacher to student, affirmed by the holy process of initiation — preserving the keys to true spiritual power since the beginning of time.
+Over 3,000 years of history and lineage. An unbroken chain of teacher to student, affirmed by the holy process of initiation — preserving the keys to true spiritual power since the beginning of time.
 What is Lineage?
 The measure of an authentic Mystery School
 Lineage is a key and important factor in determining the legitimacy, integrity and authority that an authentic Mystery School holds. By definition, lineage means a lineal descent from an ancestor — an ancestry, a pedigree.
@@ -1464,23 +1499,23 @@ Hermes Trismegistus
 Hermes Trismegistus · Floor of Siena Cathedral, c. 1488
 Over 3,000 Years
 The King Salomon Lineage
-The lineage of the Modern Mystery School dates back to the time of King Salomon and therefore carries over 3,000 years of written history and lineage. While the mystery school tradition is far older, the lineage of the MMS and its teachings can be verified and traced directly to the teachings of King Salomon himself.
-The oral tradition reaches back more than 8,000 years to the time of Hermes — Hermes Trismegistus. Initiation, combined with this unbroken lineage, empowers the Adept to engage in the Great Work: creating a better world and living in accordance with their true potential and life purpose.
+The lineage of the Modern Mystery School dates back to the time of King Salomon and therefore carries over 3,000 years of history and lineage. While the mystery school tradition is far older, the lineage of the MMS and its teachings can be verified and traced directly to the teachings of King Salomon himself.
+The mystery school tradition itself is older still, its wisdom always passed by word of mouth from teacher to student. Initiation, combined with this unbroken lineage, empowers the Adept to engage in the Great Work: creating a better world and living in accordance with their true potential and life purpose.
 The great masters have all walked upon the Path of Initiation in the mystery school tradition — the very path that led them to fulfill their promise to God while here on this earth.
 The Third Order
 The Three Lineage Holders
-All lineages have main key holders — individuals who hold and anchor the lineage on the planet, with the authority to keep the door of the Mystery School open to those who seek the Light. In this lineage they are titled the Third Order, and in union they maintain the purity of the lineage and its teachings.
+All lineages have main key holders — individuals who hold and anchor the lineage on the planet, with the authority to keep the door of the Mystery School open to those who seek the Light. In this lineage they are titled the Third Order, and in union they maintain the purity of the lineage and its teachings. The Third Order was initiated in 2017.
 Today, these three lineage holders carry the great responsibility of maintaining the purity of the teachings — working in collaboration with the Council of Twelve women and the wider leadership, stewarding the lineage of King Salomon into the modern age.
 Sovereign Ipsissimus & Hierophant
 Founder of the Modern Mystery School
-Born in Iceland and raised steeped in the mysteries, Gudni travelled widely to receive teachings and initiations across a myriad of traditions. His teaching career spans over forty years — Kabbalah, Alchemy, Metaphysics, Quantum Physics and far beyond. A master metaphorical teacher, he imparts esoteric principle through analogy, allegory and parable. In 1997 he brought the Modern Mystery School publicly to the world.
+Born in Iceland and raised steeped in the mysteries, Gudni travelled widely for more than four decades to receive teachings and initiations across a myriad of traditions. He teaches Hermetic and esoteric wisdom, Alchemy, Kabbalah, and Salomonic and Enochian magick. A master metaphorical teacher, he imparts esoteric principle through analogy, allegory and parable. In 1997 he brought the Modern Mystery School publicly to the world.
 Sovereign Ipsissimus
 Member of the Third Order
-A lineage holder and administrator of the Third Order, anchoring the lineage and its teachings in the East. Together with his brothers of the Third Order, he safeguards the purity of the tradition and keeps the door of the Mystery School open to those who seek the Light.
-A lineage holder and administrator of the Third Order. In union with his fellow key holders he administers and attends to the maintenance of the lineage, ensuring the teachings are passed on with integrity from teacher to student through the holy process of initiation.
+From a Japanese Bushi (samurai) family, Hideto joined the lineage in 2000 and anchors the school and its teachings in Japan and the East. He is a Master Healer, a Master Kabbalah Teacher, a priest of Mikkyo Esoteric Buddhism and the author of several metaphysical books published in Japan. Together with his brothers of the Third Order, he safeguards the purity of the tradition and keeps the door of the Mystery School open to those who seek the Light.
+Dave joined the lineage in 2004 and has been a driving force in the school's growth from 12 countries to more than 50. A Ritual Master Teacher, he leads the worldwide Order of the Warriors of Light and, with Ipsissima Franca Lanyon, runs the International Headquarters in Toronto. In union with his fellow key holders, he ensures the teachings pass from teacher to student with integrity, through the holy process of initiation.
 Those Who Guide
-The Council of Ipsissimi, The Council of 12 & Leadership
-Alongside the Third Order, the lineage is held and guided by the Governing Ipsissima & Ipsissimus, the Council of Twelve Women and the wider leadership of the Modern Mystery School — devoted teachers who steward the tradition and serve the school across the world.
+The Governing Ipsissima & Ipsissimus, the Council of 12 & Leadership
+Alongside the Third Order, the lineage is guided by the Governing Ipsissima & Ipsissimus and by the Council of 12: twelve women, all high-level initiates, six in the East and six in the West. The Council was activated together with the Third Order in 2017 and leads the school's work worldwide. Together with the wider leadership of the Modern Mystery School, they steward the tradition and serve the school across the world.
 Governing Ipsissima & Ipsissimus
 The Leadership Team
 Other resources you can read
@@ -1500,15 +1535,15 @@ Are you looking for more peace of mind?
 Meditation can bring you peace from the chaos in your mind. Cluttered thoughts can stop you from living your best life.
 You may already be familiar with meditation, but struggle to find the time for yourself to make it part of your regular routine. Attending a session where someone else guides you into meditation can help you build your mindfulness muscle.
 An Experiential Session
-Max Meditation is a guided system that blends ancient yogic technique with modern method to release stress and restore vitality.
-Join us for an experiential session where you learn to create the time and space for peace and balance in your life.
+The Max Meditation System™ was developed by Gudni Gudnason, founder of the Modern Mystery School, over four decades of travel and study with meditation teachers in India and Tibet. It blends those ancient techniques with modern psychology and NLP (Neuro-Linguistic Programming) to release stress and restore energy and vitality.
+Join us for an experiential session where you learn to create the time and space for peace and balance in your life. Radu and Diana are certified through Healers Academy to guide the Max Meditation System.
 Who It Is For
 Anyone looking for more peace of mind
 Those who already meditate, but struggle to find the time to make it a regular part of their routine
 Complete beginners — no experience necessary
 Reserve Your Place
-1 Hour
-Dates to be announced. Reach out and we will let you know when the next Max Meditation takes place in Prague.
+1.5 Hours
+Max Meditation takes place at our Meditation Evening in Prague every two weeks. Book your place on the Community page, or reach out with any questions.
 Hello, I would like to learn more about Max Meditation.
 
 ## PAGE: /meditation-and-prayer
@@ -1653,7 +1688,7 @@ Return to your Sanctuary & meet your Higher Self
 A one-hour guided meditation for those who already know the way
 Return to the sacred and safe place where you meet your Higher Self
 The Sanctuary Meditation is a technique that takes you to a sacred and safe place where you can meet your Higher Self and receive guidance and answers. This session is a one-hour guided meditation in which we practise it together.
-It is open to those who have already taken the full Sanctuary Meditation Class or who have attended Empower Thyself.
+It is open to those who have already taken the full Sanctuary Meditation Class or who have attended Empower Thyself, where the Sanctuary Meditation journey is taught in two parts.
 Who Can Join
 Graduates of the full Sanctuary Meditation Class
 Those who have attended Empower Thyself
@@ -1665,6 +1700,7 @@ A regular return to your sacred, safe place
 A deeper relationship with your Higher Self
 Guidance and answers
 Confidence that the messages you receive are true, real and for your highest good
+Regular practice that makes the technique easier to use on your own, daily or whenever you need it
 Reserve Your Place
 Dates to be announced. Reach out and we will let you know when the next meditation takes place in Prague.
 Hello, I would like to learn more about the Sanctuary Meditation (1 hour).
@@ -1675,13 +1711,14 @@ Are you looking for more peace of mind?
 Meditation can bring you peace from the chaos in your mind. Cluttered thoughts can stop you from living your best life.
 You may already be familiar with meditation, but struggle to find the time for yourself to make it part of your regular routine. Attending a session where someone else guides you into meditation can help you build your mindfulness muscle.
 An Experiential Session
-Max Meditation is a guided system that blends ancient yogic technique with modern method to release stress and restore vitality.
-Join us for an experiential session where you learn to create the time and space for peace and balance in your life.
+The Max Meditation System™ was developed by Gudni Gudnason, founder of the Modern Mystery School, over four decades of travel and study with meditation teachers in India and Tibet. It blends those ancient techniques with modern psychology and NLP (Neuro-Linguistic Programming) to release stress and restore energy and vitality.
+Join us for an experiential session where you learn to create the time and space for peace and balance in your life. Radu and Diana are certified through Healers Academy to guide the Max Meditation System.
 Who It Is For
 Anyone looking for more peace of mind
 Those who already meditate, but struggle to find the time to make it a regular part of their routine
 Complete beginners — no experience necessary
-Dates to be announced. Reach out and we will let you know when the next Max Meditation takes place in Prague.
+1.5 Hours
+Max Meditation takes place at our Meditation Evening in Prague every two weeks. Book your place on the Community page, or reach out with any questions.
 Hello, I would like to learn more about Max Meditation.
 
 ## PAGE: /meridian-line-balancing
@@ -1735,7 +1772,7 @@ center 40%
 Energy Clearing
 Negative Energy Removal
 When other people's negativity weighs on you
-A clearing that returns you to stillness when life feels heavy or unclear
+A clearing that helps you feel light, clear and yourself again
 Have you ever felt heavy after being around someone, without knowing why?
 Words and thoughts carry energy. When someone envies you, resents you or wishes you harm, even if they never say it out loud, you can feel it. It can sit on you like a grey cloud: your thoughts get foggy, things stop flowing, you sleep badly and you start doubting yourself.
 In this session we clear these negative thoughts, words and intentions from your energy, whether they came from one person or built up quietly over the years. Most people leave feeling lighter, clearer and more like themselves again.
@@ -1750,7 +1787,7 @@ What Happens in the Session
 We start with a conversation:
 You tell us what you have been going through and what you would like to clear. You only share what feels comfortable.
 The clearing:
-The practitioner performs the ritual that lifts the negative thoughts, words and intentions from your energy. All you need to do is relax and breathe.
+Through a ritual prayer handed down in the Mystery School lineage, the practitioner lifts the negative thoughts, words and intentions from your energy. All you need to do is relax and breathe.
 A quiet moment:
 We close in stillness, so you can feel the difference.
 What Clients Often Notice
@@ -1774,6 +1811,13 @@ No. Cord cutting releases the ties between you and others; Negative Energy Remov
 /emotional-cord-cutting
 Do I need to know who sent the negativity?
 Not at all. Often we only feel the heaviness without knowing where it comes from. The clearing works either way.
+Does the negativity go back to the person who sent it?
+No harm is sent to anyone. In the Mystery School tradition, the negative energy is cleared and handed over to the Light to be transformed. You are simply free of it.
+How often can I receive it?
+Whenever you feel the heaviness building up again, for example after a conflict, a break-up or a demanding time. There is no fixed rule, and we are glad to tell you what we would suggest for you.
+How can I keep my energy clear afterwards?
+The simple tools from your session help day to day. If you would like to learn to protect your own energy and home, Sacred Geometry I teaches the Mystery School way of sealing a space with light.
+/sacred-geometry
 How long does it take and what does it cost?
 About one hour, 3.669 CZK, including the consultation and all procedures.
 Free yourself from old ties
@@ -1926,16 +1970,16 @@ thoughts, feelings, or opinions
 Sovereign Ipsissimus Dave Lanyon
 The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657
 Are You Ready to Act?
-These are the steps to follow to train alongside the Ritual Masters. The path is demanding and it is taken in order — each step prepares you for the next.
+These are the steps to follow to train alongside the Ritual Masters. The path is demanding and it is taken in order — each step prepares you for the next. The Ritual Master path itself unfolds in four steps with three initiations: Ritual Master Novice, Ritual Master Apprentice, Apprentice of Practical Magick and Magus Hermeticus. Walking it to the end usually takes two to seven years, and at every level you choose freely whether to apply for the next.
 1 · Empower Thyself:
 The first initiation — awaken your power and your divine purpose.
 2 · Healers Academy:
-The second initiation — learn to heal and to serve others.
+The second initiation — learn to heal and serve others, and graduate as a Certified Life Activation Practitioner.
 3 · Apply & be accepted:
-Apply for, and be accepted by, a Ritual Master teacher.
+Send your application, which a Ritual Master teacher reviews. Once accepted, you sign an informed consent agreement for the path you have chosen.
 4 · Ritual Master Novice:
-Enrol in the Ritual Master Novice class at one of the international centers of the Modern Mystery School.
-These teachings are essential for anyone who truly wants to change something in their life and is committed to their transformation — taking responsibility for their inner work and acting to create a purer, more authentic, and freer version of their Self.
+Begin with the Ritual Master Novice class, and the classes that go with it, at one of the international centers of the Modern Mystery School.
+These teachings are essential for anyone who truly wants to change something in their life and is committed to their transformation — taking responsibility for their inner work and acting to create a purer, more authentic, and freer version of their Self. Along the way you keep your practitioner certification current, practise the rituals and prayers you are given, do the required reading, and attend classes such as Enochian Magick and the Warriors of Light. You may stay at a level as long as you need, and you can ask to be released from the path without penalty.
 Begin Your Mastery
 The Ritual Master path begins with Empower Thyself and the Healers Academy. Reach out and we will help you map the right next step for you.
 For prices and sign-up, please see the Modern Mystery School UK website.
@@ -1954,22 +1998,26 @@ Reading Session
 ## PAGE: /sacred-geometry-2
 Sacred Geometry II | The Path of Initiation Prague
 The Sacred Geometry Series · Level II
-Crystal Healing & Space Protection
+Crystal Magick: Healing, Reading & Gridding
 Simple, ancient methods of crystal healing — for yourself, and for those you serve.
 The next step in the Sacred Geometry series
 Sacred Geometry II hands down beautiful but simple methods of crystal healing and space protection, using crystal layouts you can work with on yourself or in service to clients. Where Sacred Geometry I introduces the three basic geometries and how to protect a space, this level goes deeper into the crystalline structures that carry and direct that energy.
-This is an advanced Modern Mystery School class — the prerequisite is Sacred Geometry I . If you have completed Sacred Geometry I and already run a healing practice, these are the tools that take it further.
+The prerequisite is Sacred Geometry I , and some centres also ask for a Life Activation. These tools are as much for your own life, home and family as for clients: if you already offer healings they add to your practice, and if not, you can start using them on yourself straight away.
 Ask About Sacred Geometry II
 What You Will Learn
 Gemstone Healing:
-Work with the frequency of particular gemstones to attune your energy field for physical, emotional, and mental healing — including greater empowerment and a better relationship with time and space.
+Learn to choose, place and activate gemstones and work with each stone's frequency to attune the energy field for physical, emotional and mental healing, including greater empowerment and a better relationship with time and space.
 Crystal Rites:
 A partnered practice using twin crystals and an ancient mantra to release and move through emotional trauma, and to draw in positive energy for what comes next.
 Crystal Gridding:
-Structured crystal layouts used to bring protection, holiness, and abundance to a home, healing room, or workspace.
+Four crystal gridding systems, laid out in sacred geometric patterns, to protect a home, healing room or workspace, raise its vibration, and invite in divine light, wholeness and abundance.
+Crystal Reading:
+An intuitive reading method with a pair of twin crystals grown from the same cluster, to help clients explore their questions with clarity.
+Crystal Dreaming & Care:
+Dreaming techniques with crystals for greater clarity, and how to care for the crystals in your life.
 Sacred Geometry II in Prague
 Full-Day Workshop
-Coming soon to Prague — Sacred Geometry II isn't scheduled here yet, but it's next in line as the Sacred Geometry series grows locally. Reach out to Radu to register your interest and be the first to know when a date is set.
+Coming soon to Prague — Sacred Geometry II isn't scheduled here yet, but it's next in line as the Sacred Geometry series grows locally. Reach out to Radu and Diana to register your interest and be the first to know when a date is set.
 Hello, I would like to learn more about Sacred Geometry II.
 
 ## PAGE: /sacred-geometry-3
@@ -1979,18 +2027,18 @@ Egyptian Aura Healing
 An ancient method for restoring wholeness to the human energy field.
 Healing the seven layers of the aura
 Sacred Geometry III moves into working directly with the human aura — composed of seven layers that provide the energy needed for vitality and manifestation. This unique healing modality calls upon the power of the ancient Egyptian gods and goddesses and their knowledge of the dimensions and ratios of the physical and energetic human body.
-The prerequisites are the Empower Thyself initiation and Sacred Geometry I & II . It is a practice you can use for your own healing as well as in service to others.
+The prerequisites are the Empower Thyself initiation and Sacred Geometry I & II . It is a practice you can use for your own healing as well as in service to others. You can also receive this healing as a session in Prague: see Aura Healing .
 Ask About Sacred Geometry III
 What You Will Learn
 Egyptian Aura Healing:
 An ancient Egyptian healing method calling on the wisdom of the gods and goddesses and their understanding of the physical and energetic bodies.
 The Seven Layers of the Aura:
 Learn to recognize and work with each of the seven layers that make up the human aura, the field that provides vitality and the capacity to manifest.
-Restoring the Aura's Structure:
-Restore balance and correct flow in the seven layers of the aura, restoring its correct structure.
+What the Healing Works On:
+Repairing holes in the aura, building up its energy for greater vitality and protection, and rebalancing the physical, emotional, soul and astral bodies.
 Sacred Geometry III in Prague
 Workshop
-Coming soon to Prague — Sacred Geometry III isn't scheduled here yet, but it's part of where the Sacred Geometry series is heading locally. Reach out to Radu to register your interest and be the first to know when a date is set.
+Coming soon to Prague — Sacred Geometry III isn't scheduled here yet, but it's part of where the Sacred Geometry series is heading locally. Reach out to Radu and Diana to register your interest and be the first to know when a date is set.
 Hello, I would like to learn more about Sacred Geometry III.
 
 ## PAGE: /sacred-geometry-4
@@ -2001,18 +2049,18 @@ Reveal the secrets of sacred space, and learn to create them yourself.
 The most advanced Sacred Geometry level taught here
 Sacred Geometry IV reveals the secrets to sacred spaces and empowers you to create them yourself. Through the teachings of the Sacred Geometries, you learn to bridge the spiritual and the physical by activating homes and workspaces as holy sanctuaries — and, by living and working inside these temples, to strengthen virtually every aspect of your life.
 This level is reserved for Modern Mystery School initiates. The prerequisites are being a Certified Life Activation Practitioner and having completed Sacred Geometry I–III .
-Sacred Geometry IV is the most advanced level offered here in Prague — but it isn't the end of the road. Students who wish to go further can continue their Sacred Geometry training directly at Modern Mystery School Headquarters.
+Sacred Geometry IV is the most advanced level offered here in Prague, but the series continues up to Level VIII. The next levels include the Fire Soul Infusion (V), the Core Will Infusion (VI) and the Archangel Michael Tube of Light (VII), taught by teachers certified at each level in Toronto, London and other centres. We are glad to help you find your next class.
 Ask About Sacred Geometry IV
 What You Will Learn
 Living Temples:
-Three space-protection methods used to transform a home or workspace into a true sanctuary — a space that actively holds and amplifies a higher vibration.
-Strengthened Everyday Life:
-A space activated this way is described as strengthening virtually every aspect of life for those who live and work within it.
+Three new ways of protecting and sealing space, different from the holy temple of Sacred Geometry I, used to transform a home or workspace into a true sanctuary — a space that actively holds and amplifies a higher vibration.
+A Temple for Higher Service:
+Set up temple space for higher service, such as teaching classes, while keeping your home a protected sanctuary with a high vibration.
 A Bridge Between Worlds:
 The methods work by bridging the spiritual and the physical, anchoring higher energies into a fixed, physical location.
 Sacred Geometry IV in Prague
 Workshop
-Coming soon to Prague — Sacred Geometry IV isn't scheduled here yet, but it's the horizon the Sacred Geometry series is building toward locally. Reach out to Radu to register your interest and be the first to know when a date is set.
+Coming soon to Prague — Sacred Geometry IV isn't scheduled here yet, but it's the horizon the Sacred Geometry series is building toward locally. Reach out to Radu and Diana to register your interest and be the first to know when a date is set.
 Hello, I would like to learn more about Sacred Geometry IV.
 
 ## PAGE: /sacred-geometry
@@ -2023,7 +2071,7 @@ Learn the language of the universe, and how to protect the energy of your home
 The three keys to Heaven: the shapes everything is built from, and how to use them in daily life
 The spaces you live in affect how you feel
 You have probably felt it: some rooms make you calm and clear, others leave you tired or tense. A space holds the energy of the people and moments it has seen, and that energy affects you. Sacred geometry gives you a simple way to change it.
-This workshop is for anyone who wants the real, practical use of sacred geometry, not just the theory. In 4.5 hours, in a small group, you learn the three primary shapes, how to clear negative energy from yourself and from a room, and how to create a sacred space: a calm, protected place at home, at work or wherever you go. It's the same geometry that inspired Pythagoras, Leonardo da Vinci and Tesla.
+This workshop is for anyone who wants the real, practical use of sacred geometry, not just the theory. In 4.5 hours, in a small group, you learn the three primary shapes, how to clear negative energy from yourself and from a room, and how to create a sacred space: a calm, protected place at home, at work or wherever you go. It's the same geometry that inspired Pythagoras, Plato and Leonardo da Vinci.
 Reserve Your Place
 What You'll Discover
 The three keys to Heaven:
@@ -2038,15 +2086,16 @@ Seeing it everywhere:
 Noticing how sacred geometry already shapes your body, nature and daily life, and working with it consciously.
 Create Your Sacred Space
 4.5 Hours
-Small groups, in person in Prague. Reach out to us for the next date.
+Small groups, in person in Vršovice, Prague. Choose one of the dates above, or write to us if none of them suits you.
 Why Create a Sacred Space?
 Your home becomes a place where you truly rest and recharge
 The heaviness left by arguments, stress or busy days doesn't linger
 Meditation, prayer and focus come more easily
 You feel protected, even in busy or difficult places
-It's the foundation for every other practice on the path
+It's the foundation of the whole Sacred Geometry series, and a first step towards deeper training such as Healers Academy
 What to Expect
 4.5 hours in a small, friendly group, in person in Prague
+Taught by Diana and Radu, both certified by the Modern Mystery School to teach Sacred Geometry I
 Clear explanations and plenty of hands-on practice: you try everything yourself
 An attunement to the three primary shapes during the workshop
 Tools you can start using the same evening
@@ -2058,13 +2107,13 @@ Preparing a room for clients, so they relax and open up more easily
 Clearing the home after an argument, an illness or a stressful visit
 Creating a quiet corner for daily meditation and prayer
 Is this workshop for beginners?
-Yes. It's designed as a first step: everything is explained clearly, and we practise each tool together until it feels natural.
+Yes. It's designed as a first step: everything is explained clearly, and we practise each tool together until it feels natural. There are no prerequisites: it's open to everyone.
 What should I bring?
 Comfortable clothes, a notebook and a pen. Bring your curiosity, too: questions are always welcome.
 Where do these teachings come from?
 From the Modern Mystery School and the lineage of King Salomon, where sacred geometry has been taught from teacher to student for thousands of years.
 What comes after Sacred Geometry I?
-When you're ready, Sacred Geometry II: Crystal Healing & Space Protection builds on what you learn here, and the series continues with Sacred Geometry III and IV.
+When you're ready, Sacred Geometry II: Crystal Magick builds on what you learn here. The series continues with Sacred Geometry III and IV, and further levels up to VIII are taught at other Modern Mystery School centres. Sacred Geometry I is also one of the classes Modern Mystery School International lists as preparation for Healers Academy.
 /sacred-geometry-2
 Inside the Workshop
 Real moments from our classes in Prague: small groups, paper, scissors and coloured pens, lots of questions, and good company.
@@ -2100,7 +2149,7 @@ Sacred Geometry Sacred Rites Healing
 Heal old and new wounds, and open the way for good fortune
 A healing with crystals and sacred chants that reaches deep into the subconscious
 What happens in a session
-You sit comfortably in a chair, holding a crystal in your hand. The practitioner holds the crystal too and begins the sacred rites: sacred chants that reach deep into the subconscious, where old hurts and patterns are held.
+You sit comfortably in a chair, holding a crystal in your hand. The practitioner holds its twin, a crystal from the same cluster, and begins the sacred rites: chants in an ancient language that reach deep into the subconscious, where old hurts and patterns are held.
 You don't need to do or say anything: simply listen and let go. Clients often leave feeling lighter, calmer and more open to what life brings.
 What It Helps With
 Healing fresh emotional and mental wounds, such as a recent loss, a break-up or a shock
@@ -2119,6 +2168,9 @@ Is it safe?
 Yes. It is a gentle, non-invasive practice: you simply hold a crystal while the sacred rites are performed.
 Can I combine it with another healing?
 Yes. The Crystal Healing Package gives you two healings, this Sacred Rites Healing and the Sacred Geometry Ancient Crystal Healing , for 4.444 CZK instead of booking each one separately. We'll arrange the details with you.
+Can I learn to give this healing?
+Yes. It is taught in Sacred Geometry II , the crystal level of the Sacred Geometry series, which follows Sacred Geometry I.
+/sacred-geometry-2
 Choose your session
 Single session
 1 hour · 3.669 CZK
@@ -2134,6 +2186,9 @@ Heal and Renew
 60 Minutes
 One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in the Sacred Geometry Sacred Rites Healing.
+The origin
+A crystal rite from Sacred Geometry II
+This healing is handed down in Sacred Geometry II, the crystal level of the Modern Mystery School's Sacred Geometry series, where it is known as the Crystal Rites. Its chants are spoken in an ancient language, to heal the past and the present and to call good fortune into your future.
 
 ## PAGE: /sanctuary-meditation-session
 Guided Meditation
@@ -2142,7 +2197,7 @@ Return to your Sanctuary & meet your Higher Self
 A one-hour guided meditation for those who already know the way
 Return to the sacred and safe place where you meet your Higher Self
 The Sanctuary Meditation is a technique that takes you to a sacred and safe place where you can meet your Higher Self and receive guidance and answers. This session is a one-hour guided meditation in which we practise it together.
-It is open to those who have already taken the full Sanctuary Meditation Class or who have attended Empower Thyself.
+It is open to those who have already taken the full Sanctuary Meditation Class or who have attended Empower Thyself, where the Sanctuary Meditation journey is taught in two parts.
 Who Can Join
 Graduates of the full Sanctuary Meditation Class
 Those who have attended Empower Thyself
@@ -2154,6 +2209,7 @@ A regular return to your sacred, safe place
 A deeper relationship with your Higher Self
 Guidance and answers
 Confidence that the messages you receive are true, real and for your highest good
+Regular practice that makes the technique easier to use on your own, daily or whenever you need it
 Reserve Your Place
 1 Hour
 Dates to be announced. Reach out and we will let you know when the next meditation takes place in Prague.
@@ -2170,7 +2226,7 @@ Have you ever tried to think your way to clarity?
 We are taught to gather information, weigh every option and look for reassurance whenever we feel unsure. Yet in all that searching, it is easy to lose touch with the quiet, steady voice of your own intuition.
 Sanctuary Meditation is a guided journey inward, to a sacred and safe place where the noise of the everyday mind falls away and you can meet your Higher Self and receive guidance and answers.
 Your Higher Self
-Your Higher Self is your most trusted advisor and the one who knows you best. Getting to know it is a huge advantage for anyone intuitive, and your relationship with it becomes an amazing tool for discernment and growth.
+Your Higher Self is the wisest and most trustworthy guide you have, the part of you that knows you best. As you come to know it, trusting your intuition and telling true guidance from noise become easier, and your growth gains a steady compass.
 What You'll Experience
 Your sanctuary
 A sacred, safe place of your own to journey to.
@@ -2195,9 +2251,10 @@ When you long for inner guidance
 And you want to stop looking outside yourself for the way forward.
 What to Expect
 2.5 hours, in person, in Vršovice, Prague
+Open to everyone: no meditation experience needed
 A guided meditation: we lead you through the whole journey
 A supportive space to listen within
-A technique you can keep returning to
+A simple technique you can use on your own, as often as you need
 Do I need to bring a question or a problem?
 No. There is no need to arrive with a specific problem or a clear intention. Come with whatever thoughts or feelings you are carrying today.
 Is the class in person?
@@ -2206,7 +2263,7 @@ How is this different from the one-hour Sanctuary Meditation?
 This class teaches you the whole technique. The one-hour Sanctuary Meditation is for those who have already taken this class or attended Empower Thyself.
 /sanctuary-meditation-session
 What comes after?
-This technique is the basis for the Journeys of the Spirit workshop, which teaches you how to receive even more insight and information through guidance.
+This technique is the basis for Journeys of the Spirit, a full-day class of guided journeys to your sanctuary, your Higher Self, Mother Gaia, the four elements and your inner feminine and masculine, where you learn to receive even more insight through guidance.
 How do I join?
 Use the booking button at the top of this page to choose your date. If you would like to ask something first, write to us on WhatsApp or by email and we will gladly help.
 What Might You Find Within?
@@ -2228,15 +2285,15 @@ The 7 Mystery Schools
 The seven great streams of ancient wisdom
 Drink from the source traditions that shaped humanity
 Seven traditions, one current of light
-Throughout history, the sacred wisdom of humanity has been preserved and passed down through seven great mystery school traditions — each rooted in a different culture and place, yet each carrying a facet of the same eternal light. Together they form the lineage that the Modern Mystery School carries today.
-In this workshop you journey through all seven — learning their history, their gifts, and their place in the great chain of wisdom — and, through meditation and ceremony, you connect directly with the living energy of each one.
+For thousands of years, seven mystery schools have quietly kept humanity's sacred wisdom, each in its own place and with its own purpose, yet all serving one greater plan. The Modern Mystery School, in the lineage of King Salomon, is one of the seven, and the one whose doors are now open to all who sincerely seek.
+In this workshop you learn where each of the seven schools is found, its unique purpose, how it relates to the body, and how the seven come together for one greater purpose — and, through meditation and ceremony, you connect directly with the living energy of each one.
 Reserve Your Place
 What You Will Gain
-The full lineage:
-Understand the seven mystery school traditions and how they connect through time.
+The seven schools:
+Discover where each is found, what it holds, and how all seven serve one shared purpose.
 Direct connection:
 Meet the energy of each tradition through guided meditation and ceremony.
-Your place in the chain:
+Your place in the work:
 See where your own path fits within this vast, living current of wisdom.
 A deeper context:
 Ground your practice in the history and roots of the work you are doing.
@@ -2332,7 +2389,7 @@ Joy, creativity and energy coming back
 Clarity about where you are going
 Remembering parts of yourself you had forgotten
 You feel numb, disconnected or not quite here
-You are carrying grief, trauma, burnout, a break-up or an addiction
+You are carrying grief, trauma, burnout or a break-up, or you are recovering from an addiction
 You have been under stress for a long time, or your life has changed a lot
 You feel creatively blocked or empty inside
 You are on a path of self-discovery and want to feel whole
@@ -2347,6 +2404,10 @@ How long does it take and what does it cost?
 About two and a half hours, including the consultation and the integration, for 6.150 CZK.
 Why is it called Hermetic?
 It comes from the Hermetic teachings preserved in the lineage of the Modern Mystery School.
+Do I need anything beforehand, and can I receive it again?
+No previous sessions are needed: it is open to everyone. To give each retrieval time to settle, we leave at least three months between single sessions. If a short series would serve you better, three sessions can be spaced about a month apart. Ask us.
+Is it a replacement for therapy?
+No. It is spiritual, energetic work that sits well alongside counselling or therapy. If you are going through an acute mental health crisis, please reach out for medical support first, and talk with us before booking so we can find the right moment together.
 Come Home to Yourself
 2.5 Hours
 One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
@@ -2361,7 +2422,7 @@ Spark of Life
 Reconnect to your original spark of life force
 A healing session that restores your life force and renews your energy
 Life force, channelled to the core of your being
-Spark of Life works beyond the etheric matrix and chakra system, channelling life-force energy to the core of the being. Its roots trace back to the ancient Egyptian temples, where it was developed for priests and priestesses to rejuvenate them for long years of service, and it has been carried on by direct transmission.
+Spark of Life works beyond the etheric matrix and chakra system, channelling life-force energy to the core of the being. Its roots trace back to the ancient Egyptian temples, where it was used by priests and priestesses serving far from the temple, to keep their energy high and their connection to the temple's light strong, and it has been carried on by direct transmission.
 You rest quietly, lying down or seated, wherever you are, while Diana and Radu work remotely. You only need to receive. It pairs well with a Life Activation, before or after.
 Benefits
 Relief from physical pain and tension
@@ -2377,11 +2438,13 @@ Lacking motivation, feeling stuck or emotionally overwhelmed
 New to energy work
 Living far from Prague
 How can healing work at a distance?
-Radu and Diana have trained and worked hard to master this skill. They honed their focus, as well as their relationship with the Hierarchy of Light. Together they channel the healing force wherever it is needed in the world.
+With your permission and at the time you agree, the practitioner connects with the original divine spark, the source of life, and directs its light to you. Radu and Diana have trained and worked hard to master this skill. They honed their focus, as well as their relationship with the Hierarchy of Light. Together they channel the healing force wherever it is needed in the world.
 How do I prepare?
-It helps to drink some water beforehand and afterwards, and to take a few quiet minutes after the session.
+Choose a quiet, private place where you won't be disturbed for the whole session, and switch off your phone. It helps to drink some water beforehand and afterwards. Many people feel deeply relaxed or sleepy afterwards, so an unhurried evening or a calm day is ideal.
 How long is the session?
 About 75 minutes in total — roughly 60 minutes of active healing plus a short talk before and after.
+How often can I receive it?
+Spark of Life is given no more than once every three months. If you feel you need it sooner, talk to us first.
 Revive Your Spark
 75 Minutes
 Remote session, worldwide. Choose a time and pay securely online — your appointment is confirmed immediately by email.
@@ -2443,7 +2506,7 @@ Beyond the five senses
 Clearer decisions, a better sense of people, and more trust in yourself
 Your intuition is not a gift for the few. It is a sense everyone has.
 Have you ever known something before anyone told you? Walked into a room and felt the mood straight away? You may not be able to explain how you knew. It didn't seem to come from anything you saw or heard. Most people call that intuition.
-In this workshop you learn what your spiritual senses are, how to activate and strengthen them, and how to build your awareness and sensitivity safely and comfortably. Working with these senses invites you to use more of your brain's capacity. The more you can perceive, the more you can achieve in life.
+In this workshop you learn what your spiritual senses are, how to activate and strengthen them, and how to build your awareness and sensitivity safely and comfortably. Working with these senses opens up more of your natural perception, and the more you can perceive, the more you can achieve in life.
 Reserve Your Place
 What You Learn, and How It Grows
 In class: your spiritual senses
@@ -2471,6 +2534,7 @@ When you want to know if something is a real warning or only fear.
 What to Expect
 2.5 hours, in person, in Vršovice, Prague
 A small group, so there is room for all your questions
+Taught by Diana and Radu, both certified by the Modern Mystery School to teach Spiritual Intuition
 Open to everyone, with no prerequisites
 You don't only learn about these senses: you practise them
 Tools and techniques you can keep using every day
@@ -2480,6 +2544,8 @@ What if I never feel or sense anything?
 That is very common. Most of us were taught to trust only what we can see, hear and touch. Like any sense, intuition grows with practice.
 Is the workshop in person?
 Yes. It takes place in person, in a small group, in Vršovice, Prague.
+What comes next?
+Daily practice comes first: your senses grow as you use them. When you want to go further, Journeys of the Spirit, a full-day class of guided journeys, keeps developing your perception. Ask us what is coming up in Prague.
 How do I join?
 Use the booking button at the top of this page to choose your date. If you would like to ask something first, write to us on WhatsApp or by email and we will gladly help.
 Your Intuition Is Already Speaking
@@ -2561,7 +2627,7 @@ Stress Rescue
 Practical tools to meet pressure with calm
 Ancient wisdom, made simple for modern life
 Stress is not the enemy — losing your tools to handle it is
-Modern life moves faster than our nervous systems were built for. Stress Rescue is a practical, grounded program that gives you a set of reliable tools — drawn from the teachings of the mystery school and translated into everyday language — to steady your mind, settle your body, and respond to pressure instead of reacting to it.
+Modern life moves faster than our nervous systems were built for. Stress Rescue is a practical, grounded Modern Mystery School program that gives you a set of reliable tools — drawn from the teachings of the mystery school and translated into everyday language — to steady your mind, settle your body, and respond to pressure instead of reacting to it.
 It can be received one-to-one, or delivered to a whole team. For leaders and organisations, it is a clear, down-to-earth way to bring more focus, resilience and wellbeing into the working day.
 Enquire Now
 What You Take Away
@@ -2569,13 +2635,13 @@ Tools that work in the moment:
 Simple techniques to calm the body and mind when pressure spikes.
 A steadier baseline:
 Daily practices that lower your overall stress over time.
-Clarity & focus:
-Think clearly and decide well, even when the day is demanding.
+Understanding & focus:
+See where your stress really comes from and how it affects body and mind, then put your energy into what you can control.
 For teams:
 A shared language and shared tools that make a whole group more resilient.
 Bring Calm Back Into the Day
 2 Hours
-Available for individuals, leadership teams and organisations. Reach out to discuss a session or a programme for your team.
+Available for individuals, leadership teams and organisations. Reach out to discuss a session or a programme for your team. Radu and Diana are both certified by the Modern Mystery School to teach Stress Rescue. It is an educational, complementary practice and does not replace medical or psychological care.
 Hello, I would like to learn more about Stress Rescue / Stress Management.
 
 ## PAGE: /terms-and-conditions
@@ -2638,14 +2704,18 @@ Struggling to break a habit despite your best intentions
 Feeling stuck in situations, thought patterns and emotions
 Ready to let go of what no longer serves you
 How does it work?
-The Ensofic Ray is used to work with the energetic structure where these patterns are held, supporting you to let go of them.
+The Ensofic Ray is a pure, focused ray of energy used in Modern Mystery School healing. It is directed at the mental and emotional patterns behind a habit to help loosen them, then helps your body, mind and emotions settle into a new, steadier balance.
 What kind of habits and patterns can it help with?
-Any pattern or habit that keeps repeating in your life — in your thoughts, emotions, behaviour or relationships. For example anger outbursts, over-eating, addictions, guilt, shame.
+Any pattern or habit that keeps repeating in your life — in your thoughts, emotions, behaviour or relationships. For example anger outbursts, over-eating, addictions, guilt, shame. With addictions, this session is complementary support: please keep following any medical, therapeutic or recovery programme you are part of.
 How can healing work at a distance?
-Radu and Diana have trained and worked hard to master this skill. They honed their focus, as well as their relationship with the Hierarchy of Light. Together they channel the healing force wherever it is needed in the world.
+Distance healing is taught as a skill in its own right in Ensofic Reiki training, at the same level as the work on habits. Radu and Diana have trained in it fully and focus the healing to wherever you are in the world.
+Should I tell you anything beforehand?
+Yes. Please let us know about any injuries, surgeries or health conditions, so the session can be adapted to you.
 90 Minutes
 Choose in person in Prague (Vršovice) or remote below, pick a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I would like to learn more about Treating of Negative Habits.
+Where This Work Comes From
+Clearing unwanted habits is taught in the Intermediate level of Ensofic Reiki, part of the Modern Mystery School's three-level Ensofic Ray healing training, the same level that teaches distance healing. Radu and Diana have both completed all three levels, and Radu holds a specialization in destructive mental patterns, harmful habits and addictions.
 
 ## PAGE: /tree-of-life-awakening
 center 40%
@@ -3366,7 +3436,7 @@ Sacred Geometry IV
 Explore Other Sacred Geometry Workshops
 Learn more
 The foundation: the 3 keys to heaven and the sacred shapes of creation.
-Crystal healing and space protection.
+Crystal Magick: healing, reading and gridding.
 Egyptian Aura Healing — restoring the 7 layers of the aura.
 Sacred space and living temples.
 

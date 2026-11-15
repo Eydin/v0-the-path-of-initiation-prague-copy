@@ -55,6 +55,7 @@ export default async function MaxMeditation({
         title={t("bookingTitle")}
         investment="350 CZK"
         duration={t("duration")}
+        note={t("bookingNote")}
         inquiry={inquiry}
       />
 

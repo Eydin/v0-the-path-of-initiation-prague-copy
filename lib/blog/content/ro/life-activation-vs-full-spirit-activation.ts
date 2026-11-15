@@ -23,7 +23,7 @@ Ambele ședințe, aici la Praga, durează aproximativ **două ore** și sunt ofe
 ### Proceduri suplimentare
 
 - **Life Activation** include eliberarea blocajelor emoționale la nivelul chakrei coroanei, echilibrarea nucleului energetic central, deschiderea celor 16 petale de lotus (aprofundând conexiunea ta cu Pământul, Apa, Aerul și Focul), echilibrarea liniilor elementale și magnetice, o echilibrare completă a chakrelor, îndepărtarea „cristalelor eterice arse", o scurtă lectură din ADN-ul tău nou activat și, pentru multe ședințe, un Energy Spray (Spagyric) preparat chiar în laboratorul de alchimie al școlii.
-- **Full Spirit Activation** include o Trezire a Chakrelor, o Trezire a Arborelui Vieții care te aliniază cu această hartă vie a creației din interiorul tău, și propriul Energy Spray (Spagyric) — Purificado & Crystalis — care susține o detoxifiere blândă pe măsură ce se integrează această lucrare mai profundă.
+- **Full Spirit Activation** include o Trezire a Chakrelor, o Trezire a Arborelui Vieții care te aliniază cu această hartă vie a creației din interiorul tău, și propriul Energy Spray (Spagyric) — Purificato & Crystalis — care susține o detoxifiere blândă pe măsură ce se integrează această lucrare mai profundă.
 
 ### Cui i se adresează fiecare
 
@@ -37,7 +37,7 @@ Ambele ședințe, aici la Praga, durează aproximativ **două ore** și sunt ofe
 
 ### Momentul ideal: de ce contează ordinea
 
-Acesta este aspectul despre care oamenii întreabă cel mai des, iar răspunsul este remarcabil de precis: pentru a obține maximum dintr-o Full Spirit Activation, finalizează mai întâi Life Activation — ideal undeva între **trei săptămâni și trei luni** înainte. Acest interval îi oferă corpului și câmpului tău energetic timp real să integreze prima activare înainte ca lucrarea mai profundă de ancorare a sufletului și spiritului să înceapă. Sărirea peste această ordine nu face a doua ședință mai puternică; pur și simplu cere corpului să poarte mai mult decât a avut timp să se pregătească să susțină. Ordinea este, aici, parte din vindecare.
+Acesta este aspectul despre care oamenii întreabă cel mai des, iar răspunsul este remarcabil de precis: pentru a obține maximum dintr-o Full Spirit Activation, finalizează mai întâi Life Activation — cu **cel puțin șase săptămâni și cel mult trei luni** înainte. Acest interval îi oferă corpului și câmpului tău energetic timp real să integreze prima activare înainte ca lucrarea mai profundă de ancorare a sufletului și spiritului să înceapă. Sărirea peste această ordine nu face a doua ședință mai puternică; pur și simplu cere corpului să poarte mai mult decât a avut timp să se pregătească să susțină. Ordinea este, aici, parte din vindecare.
 
 ## Alegerea punctului tău de plecare
 

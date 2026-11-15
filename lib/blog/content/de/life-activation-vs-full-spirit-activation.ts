@@ -23,7 +23,7 @@ Beide Sitzungen dauern hier in Prag etwa **zwei Stunden** und werden zum selben 
 ### Ergänzende Verfahren
 
 - **Life Activation** umfasst das Lösen emotionaler Blockaden am Kronenchakra, die Ausbalancierung des zentralen energetischen Kerns, das Öffnen der 16 Lotusblütenblätter (Vertiefung Ihrer Verbindung zu Erde, Wasser, Luft und Feuer), die Ausbalancierung der elementaren und magnetischen Linien, eine vollständige Chakra-Balancierung, das Entfernen „verbrannter ätherischer Kristalle", eine kurze Lesung aus Ihrer neu aktivierten DNA und, bei vielen Sitzungen, einen Energy Spray (Spagyrik), hergestellt im eigenen Alchemie-Labor der Schule.
-- **Full Spirit Activation** umfasst eine Chakra-Erweckung, eine Erweckung des Baums des Lebens, die Sie mit dieser lebendigen Landkarte der Schöpfung in Ihrem Inneren in Einklang bringt, sowie einen eigenen Energy Spray (Spagyrik) — Purificado & Crystalis —, der eine sanfte Entgiftung während der Integration dieser tieferen Arbeit unterstützt.
+- **Full Spirit Activation** umfasst eine Chakra-Erweckung, eine Erweckung des Baums des Lebens, die Sie mit dieser lebendigen Landkarte der Schöpfung in Ihrem Inneren in Einklang bringt, sowie einen eigenen Energy Spray (Spagyrik) — Purificato & Crystalis —, der eine sanfte Entgiftung während der Integration dieser tieferen Arbeit unterstützt.
 
 ### Für wen jede der beiden gedacht ist
 
@@ -37,7 +37,7 @@ Beide Sitzungen dauern hier in Prag etwa **zwei Stunden** und werden zum selben 
 
 ### Ideales Timing: Warum die Reihenfolge zählt
 
-Das ist der Punkt, nach dem die meisten Menschen fragen, und die Antwort ist erfrischend präzise: Um das Meiste aus einer Full Spirit Activation herauszuholen, absolvieren Sie zuerst Ihre Life Activation — idealerweise irgendwo zwischen **drei Wochen und drei Monaten** vorher. Dieses Zeitfenster gibt Ihrem Körper und Energiefeld echte Zeit, die erste Aktivierung zu integrieren, bevor die tiefere Arbeit der Verankerung von Seele und Geist beginnt. Ein Überspringen macht die zweite Sitzung nicht wirkungsvoller; es verlangt vom Körper lediglich, mehr zu tragen, als er Zeit hatte, sich darauf vorzubereiten. Die Reihenfolge ist hier Teil der Medizin.
+Das ist der Punkt, nach dem die meisten Menschen fragen, und die Antwort ist erfrischend präzise: Um das Meiste aus einer Full Spirit Activation herauszuholen, absolvieren Sie zuerst Ihre Life Activation — **mindestens sechs Wochen und höchstens drei Monate** vorher. Dieses Zeitfenster gibt Ihrem Körper und Energiefeld echte Zeit, die erste Aktivierung zu integrieren, bevor die tiefere Arbeit der Verankerung von Seele und Geist beginnt. Ein Überspringen macht die zweite Sitzung nicht wirkungsvoller; es verlangt vom Körper lediglich, mehr zu tragen, als er Zeit hatte, sich darauf vorzubereiten. Die Reihenfolge ist hier Teil der Medizin.
 
 ## Ihren Ausgangspunkt wählen
 

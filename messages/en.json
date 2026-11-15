@@ -363,12 +363,12 @@
   "LifeActivation": {
     "heroEyebrow": "The Modern Mystery School · Lineage of King Salomon",
     "heroSubtitle": "Activate the innate gifts that reside in your DNA",
-    "heroTagline": "Clear 5–7 generations of ancestral trauma and step into your highest potential",
+    "heroTagline": "Awaken your divine blueprint, release patterns inherited through your family line, and step into your highest potential",
     "proceduresHeading": "A Closer Look at Your Session",
     "proceduresLead": "In addition to the activation itself, the session includes supplementary procedures designed to balance and stimulate the body in alignment with the newly activated information from the DNA.",
     "procedures": [
       {
-        "label": "Emotional Blockage Removal:",
+        "label": "Crown Cap Removal:",
         "text": "Focused on clearing potential emotional blockages from the crown chakra, this process creates a better flow of energy."
       },
       {
@@ -388,16 +388,16 @@
         "text": "This brings harmony and alignment to the body's energy centers."
       },
       {
-        "label": "Removal of Burnt Etheric Crystals from the Body:",
-        "text": "This procedure is intended to cleanse and revitalize the energetic body."
+        "label": "Negative Crystal Removal:",
+        "text": "Burnt-out etheric crystals are removed from the body, to cleanse and revitalize your energy body."
       },
       {
         "label": "Brief Reading from Your Newly Activated DNA:",
         "text": "A short exploration of the subconscious layers, providing you with insights and guidance."
       },
       {
-        "label": "Energy Spray (Spagyrics):",
-        "text": "A spray created in the school's alchemy laboratory, designed to detoxify, support, and ease the physical and energetic changes associated with this unique experience."
+        "label": "Purificato & Crystalis:",
+        "text": "A set of spagyric sprays from the school's alchemy laboratory, included with your session and yours to take home, to support the clearing and integration that follow."
       }
     ],
     "exploreHeading": "Explore the Higher Dimensions",
@@ -414,7 +414,7 @@
     "awaken": [
       "The gifts, the clarity and the strength you are looking for may already be inside you, waiting to wake up. Life Activation is the session that awakens them.",
       "It comes from the lineage of King Salomon, kept alive for thousands of years and passed on today by the Modern Mystery School. In the session, 22 of your 24 strands of DNA are activated: 11 physical and 11 spiritual. This lets you receive and hold more Light, the life force that supports your healing, your clarity and your growth.",
-      "It also clears what you have carried from your family line, up to 5–7 generations back, so you can step into your highest potential."
+      "It also clears what you have carried from your family line, so you can step into your highest potential."
     ],
     "giftsHeading": "What It Can Bring You",
     "giftsIntro": "Every person is different, but these are the changes people tell us about most often.",
@@ -519,8 +519,8 @@
     "wandsAlt": "A circle of hand-wrapped crystal wands used in Life Activation sessions",
     "nextHeading": "After Your {brand}",
     "nextIntro": "{brand} is a beginning. When you feel ready, these are the next steps on the path.",
-    "nextFsa": "Received after the {brand}, it awakens and anchors your soul and spirit into your body.",
-    "nextEmpower": "The two-day class and initiation into the lineage of King Salomon, where you learn powerful rituals to use every day.",
+    "nextFsa": "Received six weeks to three months after your {brand}, it awakens and anchors your soul and spirit into your body.",
+    "nextEmpower": "The two-day class and initiation into the lineage of King Salomon, where you learn powerful rituals to use every day. A {brand} is required before this initiation, so yours is already the first step.",
     "nextCta": "Discover more",
     "videosEyebrow": "In their own words",
     "videosHeading": "Hear It from Those Who Received It",
@@ -534,8 +534,8 @@
     "heroSubtitle": "Initiation into the Lineage of King Salomon",
     "invitation": {
       "god": "If you could be like God — filled with love, harmony, and creative power — would you do it?",
-      "body1": "{brand} is a two-day initiation in a small, intimate group, here in Prague. It is a rare doorway: you receive powerful rituals and sacred tools to clear and protect your energy, to see the patterns that have shaped your life, and to rise above them.",
-      "body2": "It is the very same initiation that has been passed from teacher to student, without a break, for over 3,000 years, since the time of King Salomon. The keys you receive are the keys the initiates of old received, and they are yours for the rest of your life.",
+      "body1": "{brand} is a two-day initiation in a small, intimate group, here in Prague. It is the first initiation on the Modern Mystery School's path, and a rare doorway: you receive powerful rituals and sacred tools to clear and protect your energy, to see the patterns that have shaped your life, and to rise above them.",
+      "body2": "It is the very same initiation that has been passed from teacher to student, without a break, for over 3,000 years, since the time of King Salomon. The keys you receive are the keys the initiates of old received, and they are yours for the rest of your life. In the tradition, this initiation is said to bring ten times more Light into your life to direct towards your goals.",
       "body3": "You leave with a sacred daily practice, a mind that is clear and still, a deep sense of your own power, and the knowing of your next step.",
       "body4": "Diana and Radu will be by your side during the 2 days and long after that.",
       "body6": "These teachings were guarded like a precious jewel by everyone who walked this path before you, so that today they could reach you.",
@@ -568,7 +568,7 @@
       "benefits": [
         "You'll learn to sense the unseen world and work with it safely.",
         "You'll learn to focus your thoughts and use them to create good things in your life.",
-        "You'll practise sacred rituals and take part in an initiation ceremony."
+        "You'll practise sacred rituals and, in a closing ceremony, receive your initiation as an Adept in the lineage of King Salomon."
       ]
     },
     "special": {
@@ -583,14 +583,17 @@
         "Where these teachings come from: King Salomon and the lineage",
         "Your full potential, and how to grow into it",
         "How to create a sacred space at home, and why it helps you",
+        "Tools of power: what a ritual is and why it works",
         "A short daily practice and a protection prayer you can use anywhere",
         "The physical and spiritual dimensions, and how to work with both",
-        "The beings of light you can call on for help",
+        "Who or what God is, and the Hierarchy of Light: the angels and archangels you can call on for help",
         "Meditation, and how your brainwaves change your state of mind",
+        "The Sanctuary Meditation Journey, in two parts: finding your inner sanctuary and meeting your Higher Self",
         "Your ego: when it helps you and when it holds you back",
         "The patterns and cycles we all go through, and how to step out of them",
         "Your energy body, and how to clear and protect it",
-        "Universal Kabbalah and the Tree of Life"
+        "Chi, Ki and Hara: how to grow and direct your own life force",
+        "The Universal Hermetic Ray Kabbalah and the Tree of Life"
       ],
       "closing": "Every part comes with practical exercises and rituals you can use straight away, all from the lineage of King Salomon."
     },
@@ -602,7 +605,7 @@
           "sub": "We're here to support you with clarity and guidance, every step of the way."
         },
         {
-          "main": "Receive a Life Activation session from one of our certified practitioners."
+          "main": "Receive your Life Activation, which the Modern Mystery School asks every student to have before initiation. It is included in your booking and given by one of our certified practitioners."
         },
         {
           "main": "Make a deposit or pay the full amount to reserve your spot."
@@ -617,7 +620,7 @@
     },
     "recommendations": {
       "heading": "After the class",
-      "body1": "<bold>{brand}</bold> isn't the end of something. It's the start of a journey, and of a lasting connection.",
+      "body1": "<bold>{brand}</bold> isn't the end of something. It's the start of a journey, and of a lasting connection. As an Adept initiate you can go on to Healers Academy, the second initiation on the path, and later to deeper programs such as the Kabbalah Ascension Program.",
       "body2": "You'll have a safe place to come back to whenever you need clarity, support or guidance.",
       "body3": "We're there for you not only during the two days but for years after: with questions about using the tools, through times of change, or when you feel ready for your next step.",
       "body4": "It's a relationship built over time, with trust, respect and a genuine wish to see you grow."
@@ -642,8 +645,8 @@
     "introBody2": "While the Life Activation connects you to your original blueprint and Higher Self, the Full Spirit Activation acts as a portal to your true essence — awakening and anchoring the soul and the spirit into the physical body, creating a powerful bridge between the divine and the human experience.",
     "bookNow": "Book Now",
     "soulHeading": "A Practice That Works at the Level of the Soul",
-    "soulBody1": "Similar to the Life Activation, which works on the physical level, the Full Spirit Activation operates at the level of the soul — opening the gates to higher dimensions of consciousness and being. It works deeply within different areas of the brain and reconnects them to specific points in the physical body, which are then linked to the subtle energy bodies, amplifying the flow of spiritual energy throughout your entire system.",
-    "soulBody2": "In a more tangible sense, it unlocks the channels of consciousness within the body, revitalizing the nervous and sensory systems. This allows us to connect more deeply to our physical sensations — free from the emotional and mental blocks that may have limited us in the past — filling us with a radiant vitality and an overwhelming joy for life.",
+    "soulBody1": "Where the Life Activation strengthens your connection to your Higher Self, the Full Spirit Activation deepens your connection to your soul — opening the gates to higher dimensions of consciousness and being. It works deeply within different areas of the brain and reconnects them to specific points in the physical body, which are then linked to the subtle energy bodies, amplifying the flow of spiritual energy throughout your entire system.",
+    "soulBody2": "In a more tangible sense, it unlocks the channels of consciousness within the body, enlivening your senses and your felt connection to your body. This allows us to connect more deeply to our physical sensations — free from the emotional and mental blocks that may have limited us in the past — filling us with a radiant vitality and an overwhelming joy for life.",
     "quote": {
       "text": "You are meant to express",
       "emphasis": "beauty and good",
@@ -660,41 +663,41 @@
     "procedures": [
       { "label": "Chakra Awakening:", "text": "Awakening and harmonizing the body's energy centers." },
       { "label": "Tree of Life Awakening:", "text": "Aligning you with the living map of creation within." },
-      { "label": "Purificado & Crystalis:", "text": "A magical Energy Spray (Spagyrics) created to support the process and gentle detoxification." }
+      { "label": "Purificato & Crystalis:", "text": "A set of spagyric energy sprays, included with your session, to support the process and a gentle detox." }
     ],
-    "proceduresClosing": "After such an intense session, it is recommended to allow yourself time to fully integrate the transformations. To maximise the benefits, complete the Life Activation first — ideally between three weeks and three months beforehand.",
+    "proceduresClosing": "After such an intense session, it is recommended to allow yourself time to fully integrate the transformations. To maximise the benefits, complete the Life Activation first — at least six weeks and no more than three months beforehand.",
     "bookingTitle": "Discover Your Potential to Be a Divine Being",
     "duration": "2 Hours",
     "inquiry": "Hello, I would like to learn more about the {brand}."
   },
   "HealersAcademy": {
     "heroEyebrow": "The Second Level of Initiation",
-    "heroSubtitle": "Become a certified healer in the lineage of King Salomon",
+    "heroSubtitle": "Train as a certified practitioner in the lineage of King Salomon",
     "heroTagline": "Step fully into a life of service and light",
     "introLead": "An intensive program & initiation — open to graduates of {brand}",
     "introBody1": "The {brand} is the second level of initiation on the Path. After Empower Thyself awakens your own power, the Healers Academy turns that power outward — training you to hold sacred space and to bring true healing to others. It is the threshold where a student of the mysteries becomes a practitioner of them.",
-    "introBody2": "Over an intensive program of study and practice, you are initiated and certified to offer the foundational modalities of the Modern Mystery School — the same work that changed your own life, now placed in your hands to give.",
+    "introBody2": "Healers Academy 1 is five intensive days of study, practice and initiation. You graduate as a Certified Life Activation Practitioner, able to give the Life Activation, the Aura Healing and the Max Meditation System™ — the same work that changed your own life, now placed in your hands to give.",
     "applyNow": "Apply Now",
     "learnHeading": "What You Will Learn",
     "learn": [
       { "label": "Perform the Life Activation:", "text": "Learn to deliver the full 22-strand DNA Life Activation for others." },
-      { "label": "Lead Max Meditation™ groups:", "text": "Guide the signature group meditation that opens this path for so many." },
+      { "label": "Guide the Max Meditation System™:", "text": "Guide the signature group meditation that opens this path for so many." },
       { "label": "Read & heal the aura:", "text": "Learn to find and fill the holes in a person's aura, restoring wholeness and protection." },
-      { "label": "Empower your light body:", "text": "Nourish and care for your own light body so it can hold up to a hundred times more power." },
+      { "label": "Empower your light body:", "text": "Strengthen and care for your own light body, so you can hold and carry more Light." },
       { "label": "Sacred ceremony & ethics:", "text": "Hold space with integrity, discernment and the responsibility of a true healer." }
     ],
     "quote": {
       "text": "Know thyself, and thou shalt know",
       "emphasis": "the universe and the gods",
-      "attribution": "Inscribed at the Temple of Apollo · Delphi",
+      "attribution": "After the maxim inscribed at the Temple of Apollo · Delphi",
       "caption": "Ascent of the Blessed · H. Bosch, c. 1505"
     },
     "whoHeading": "Who It Is For",
-    "whoBody1": "The {brand} is for those who have felt the call to serve — who, having walked through their own initiation, wish to carry the light further. No prior healing background is required, only sincerity, a completed Empower Thyself initiation, and a readiness to commit to your own continued growth.",
-    "whoBody2": "Graduates join a worldwide community of certified healers and are eligible to continue toward the Ritual Master path and the deeper teachings of the school.",
+    "whoBody1": "The {brand} is for those who have felt the call to serve — who, having walked through their own initiation, wish to carry the light further. No prior healing background is required, only sincerity, a completed Empower Thyself initiation, and a readiness to commit to your own continued growth. Modern Mystery School International also lists a Life Activation and four foundation classes (Sacred Geometry 1, Astral Travel, Journeys of the Spirit and 12 Beings of this World) as preparation, so ask us which apply for the next Academy.",
+    "whoBody2": "Graduates join a worldwide community of certified practitioners and renew their certification each year. From there you can continue to Healers Academy 2, six days in which you learn around ten more healing modalities, among them the Full Spirit Activation, Chakra Awakening, Tree of Life Awakening and Shamanic Aura Clearing, and become a Certified Healer. Certified Life Activation Practitioners can also apply for the Ritual Master path and the deeper teachings of the school.",
     "bookingTitle": "Answer the Call to Serve",
     "duration": "Intensive Program & Initiation",
-    "bookingNote": "Healers Academy is a 5-day intensive program.",
+    "bookingNote": "Healers Academy 1 is a five-day intensive; Healers Academy 2 follows as a six-day intensive.",
     "inquiry": "Hello, I would like to learn more about the {brand}."
   },
   "RitualMaster": {
@@ -708,7 +711,7 @@
     "masteryHeading": "True Mastery of the Self",
     "masteryBody1a": "A renowned Hermetic teaching, the Law of Correspondence, says:",
     "masteryBody1Quote": "\"As within, so without. As without, so within. As above, so below. As below, so above.\"",
-    "masteryBody1b": "The {brand} program helps you gain control over your inner world, and then make the changes that create results in the outer world.",
+    "masteryBody1b": "The {brand} program helps you gain control over your inner world, and then make the changes that create results in the outer world. Along the path you study sacred ritual, ceremonial magick and the Hermetic teachings, their history, science and practical use, and learn to serve others through work such as clearing and blessing spaces, protection and purification by Light.",
     "masteryBody2a": "For centuries, these principles have been the study of the master magician, who learns to focus and discipline their will and direct it toward fulfilling their needs and desires. The path combines",
     "masteryBody2Emphasis": "will, love and discernment",
     "masteryBody2b": "— so that you can create good things and be a source of Light for yourself and those around you.",
@@ -719,14 +722,14 @@
       "caption": "The Queen of Sheba before the Temple of Salomon · S. de Bray, 1657"
     },
     "readyHeading": "Are You Ready to Act?",
-    "readyBody": "These are the steps to follow to train alongside the Ritual Masters. The path is demanding and it is taken in order — each step prepares you for the next.",
+    "readyBody": "These are the steps to follow to train alongside the Ritual Masters. The path is demanding and it is taken in order — each step prepares you for the next. The Ritual Master path itself unfolds in four steps with three initiations: Ritual Master Novice, Ritual Master Apprentice, Apprentice of Practical Magick and Magus Hermeticus. Walking it to the end usually takes two to seven years, and at every level you choose freely whether to apply for the next.",
     "steps": [
       { "label": "1 · Empower Thyself:", "text": "The first initiation — awaken your power and your divine purpose." },
-      { "label": "2 · Healers Academy:", "text": "The second initiation — learn to heal and to serve others." },
-      { "label": "3 · Apply & be accepted:", "text": "Apply for, and be accepted by, a Ritual Master teacher." },
-      { "label": "4 · Ritual Master Novice:", "text": "Enrol in the Ritual Master Novice class at one of the international centers of the Modern Mystery School." }
+      { "label": "2 · Healers Academy:", "text": "The second initiation — learn to heal and serve others, and graduate as a Certified Life Activation Practitioner." },
+      { "label": "3 · Apply & be accepted:", "text": "Send your application, which a Ritual Master teacher reviews. Once accepted, you sign an informed consent agreement for the path you have chosen." },
+      { "label": "4 · Ritual Master Novice:", "text": "Begin with the Ritual Master Novice class, and the classes that go with it, at one of the international centers of the Modern Mystery School." }
     ],
-    "readyClosing": "These teachings are essential for anyone who truly wants to change something in their life and is committed to their transformation — taking responsibility for their inner work and acting to create a purer, more authentic, and freer version of their Self.",
+    "readyClosing": "These teachings are essential for anyone who truly wants to change something in their life and is committed to their transformation — taking responsibility for their inner work and acting to create a purer, more authentic, and freer version of their Self. Along the way you keep your practitioner certification current, practise the rituals and prayers you are given, do the required reading, and attend classes such as Enochian Magick and the Warriors of Light. You may stay at a level as long as you need, and you can ask to be released from the path without penalty.",
     "bookingTitle": "Begin Your Mastery",
     "bookingNote": "The Ritual Master path begins with Empower Thyself and the Healers Academy. Reach out and we will help you map the right next step for you.",
     "inquiry": "Hello, I would like to learn more about the {brand} program."
@@ -789,7 +792,7 @@
         "title": "Readings & Guidance",
         "blurb": "Insight into your purpose, your soul and your path.",
         "items": [
-          { "name": "Life Purpose & 11th Codon Reading", "description": "A reading of your divine purpose and the gifts you carry, paired with activation of the 11th and 12th DNA strands beyond the Life Activation." },
+          { "name": "Life Purpose (11th Codon) Reading", "description": "A reading of your divine purpose, your soul's lineage and the gifts you carry, also known as the 11th Codon Reading. Follows a Life Activation." },
           { "name": "Intuitive Reading with Crystal", "description": "A reading with a crystal that opens access to the wisdom of your Higher Self and guides." },
           { "name": "Chronos Reading", "description": "Guidance from Chronos on the gifts you were born with, and on the areas of life where you started at a disadvantage." }
         ]
@@ -843,20 +846,20 @@
     "inquiry": "Hello, I would like to learn more about the specialty healings."
   },
   "AuraHealing": {
-    "heroEyebrow": "A Healing of the Mystery School",
+    "heroEyebrow": "An Ancient Egyptian Healing",
     "heroTitle": "{brand} Aura Healing",
     "heroSubtitle": "Restore and protect your energetic field",
     "heroTagline": "Clear, balance and seal the seven layers of the aura",
-    "introLead": "Healing that works through the geometry of light",
-    "introBody1": "Your aura is the energetic field that surrounds and protects you — and over time it can be drained, torn or clouded by stress, grief and the demands of daily life. The {brand} Aura Healing uses the ordered patterns of creation to repair that field, restoring its strength, clarity and natural protection.",
-    "introBody2": "Working across the seven layers of the aura, this gentle session releases what no longer serves you, balances the energies of body and mind, and re-establishes a clean, whole and radiant field around you.",
+    "introLead": "An ancient Egyptian healing for the seven layers of your aura",
+    "introBody1": "Your aura is the energetic field that surrounds and protects you — and over time it can be drained, torn or clouded by stress, grief and the demands of daily life. The {brand} Aura Healing, known in the Mystery School as the Egyptian Aura Healing and taught in the third level of {brand}, brings together an ancient Egyptian method and the ordered patterns of creation to repair that field, restoring its strength, clarity and natural protection.",
+    "introBody2": "Working across the seven layers of the aura, this gentle session releases what no longer serves you, rebalances your physical, emotional, soul and astral bodies, and re-establishes a clean, whole and radiant field around you.",
     "bookSession": "Book a Session",
     "benefitsHeading": "The Benefits",
     "benefits": [
       { "label": "Repair & seal:", "text": "Mend tears and fill the gaps in the aura so your energy stops leaking away." },
       { "label": "Balance the seven layers:", "text": "Harmonise each level of the auric field with the geometry of light." },
       { "label": "Release & lighten:", "text": "Clear stagnant and foreign energies, leaving you calm and clear." },
-      { "label": "Protection & vitality:", "text": "Re-establish a strong, whole field that supports your wellbeing day to day." }
+      { "label": "Vitality & manifestation:", "text": "A strong, whole aura gives you the energy to live fully and to bring your intentions into form." }
     ],
     "bookingTitle": "Restore Your Light",
     "duration": "2 Hours",
@@ -865,23 +868,23 @@
   },
   "LifePurposeReading": {
     "heroEyebrow": "A Reading of the Mystery School",
-    "heroTitle": "Life Purpose & 11th Codon Reading",
-    "heroSubtitle": "Discover your purpose, and activate the codons that carry it",
-    "heroTagline": "A reading of your soul's design, and the DNA strands that encode it",
+    "heroTitle": "Life Purpose (11th Codon) Reading",
+    "heroSubtitle": "Discover your purpose, and the gifts you came here to share",
+    "heroTagline": "A reading of your soul's design, held in your spiritual DNA",
     "introLead": "Your purpose was never hidden — only waiting to be read",
-    "introBody1": "This session combines two readings into one. First, a Life Purpose Reading — where your energy field is read to identify your divine purpose, the gifts you carry, and the direction your path is asking you to take. Then, the 11th Codon Reading — which activates the 11th and 12th spiritual and physical DNA strands beyond what the Life Activation opens, anchoring that purpose more fully into your body.",
-    "introBody2": "Together, they give you both the map and the fuel: clarity about where you are going, and an activation that helps your body carry you there.",
+    "introBody1": "In the Modern Mystery School, the Life Purpose Reading and the 11th Codon Reading are one and the same. Your spiritual DNA carries a record of who you are as a soul: the lineage you come from, what you have gathered over many lifetimes, and the purpose you chose for this one. In this reading that record is opened through the 11th codon, bringing through your divine purpose, the gifts you carry and the direction your path is asking you to take.",
+    "introBody2": "The reading builds on your Life Activation, which prepares your energy to receive and hold what comes through, so a Life Activation is needed first. You leave with clarity about where you are going and the gifts that will carry you there.",
     "benefitsHeading": "What You Gain",
     "benefits": [
       { "label": "Clarity on your purpose:", "text": "Understand the divine purpose you came here to live, in plain, practical language." },
       { "label": "Your unique gifts named:", "text": "Recognize the specific gifts and strengths encoded within you, often hidden in plain sight." },
-      { "label": "Deeper DNA activation:", "text": "Activate the 11th and 12th strands, extending the work begun in your Life Activation." },
+      { "label": "Your soul's story:", "text": "Insight into your spiritual lineage and the experiences your soul carries, and why your purpose looks the way it does." },
       { "label": "A clearer next step:", "text": "Leave with a concrete sense of direction, not just inspiration." }
     ],
     "bookingTitle": "Read Your Purpose",
     "duration": "60–90 Minutes",
-    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
-    "inquiry": "Hello, I would like to learn more about the Life Purpose & 11th Codon Reading."
+    "bookingNote": "One-to-one, in person in Prague (Vršovice), for those who have received a Life Activation. Choose a time and pay securely online — your appointment is confirmed immediately by email. If there is more to receive than one session allows, the reading can continue about a month later.",
+    "inquiry": "Hello, I would like to learn more about the Life Purpose (11th Codon) Reading."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "A half-day workshop in Prague",
@@ -889,7 +892,7 @@
     "heroTagline": "The three keys to Heaven: the shapes everything is built from, and how to use them in daily life",
     "introLead": "The spaces you live in affect how you feel",
     "introBody1": "You have probably felt it: some rooms make you calm and clear, others leave you tired or tense. A space holds the energy of the people and moments it has seen, and that energy affects you. Sacred geometry gives you a simple way to change it.",
-    "introBody2": "This workshop is for anyone who wants the real, practical use of sacred geometry, not just the theory. In 4.5 hours, in a small group, you learn the three primary shapes, how to clear negative energy from yourself and from a room, and how to create a sacred space: a calm, protected place at home, at work or wherever you go. It's the same geometry that inspired Pythagoras, Leonardo da Vinci and Tesla.",
+    "introBody2": "This workshop is for anyone who wants the real, practical use of sacred geometry, not just the theory. In 4.5 hours, in a small group, you learn the three primary shapes, how to clear negative energy from yourself and from a room, and how to create a sacred space: a calm, protected place at home, at work or wherever you go. It's the same geometry that inspired Pythagoras, Plato and Leonardo da Vinci.",
     "reserveYourPlace": "Reserve Your Place",
     "learnHeading": "What You'll Discover",
     "benefits": [
@@ -916,7 +919,7 @@
     ],
     "bookingTitle": "Create Your Sacred Space",
     "duration": "4.5 Hours",
-    "bookingNote": "Small groups, in person in Prague. Reach out to us for the next date.",
+    "bookingNote": "Small groups, in person in Vršovice, Prague. Choose one of the dates above, or write to us if none of them suits you.",
     "inquiry": "Hello, I would like to learn more about the {brand} workshop.",
     "whyHeading": "Why Create a Sacred Space?",
     "why": [
@@ -924,11 +927,12 @@
       "The heaviness left by arguments, stress or busy days doesn't linger",
       "Meditation, prayer and focus come more easily",
       "You feel protected, even in busy or difficult places",
-      "It's the foundation for every other practice on the path"
+      "It's the foundation of the whole Sacred Geometry series, and a first step towards deeper training such as Healers Academy"
     ],
     "expectHeading": "What to Expect",
     "expect": [
       "4.5 hours in a small, friendly group, in person in Prague",
+      "Taught by Diana and Radu, both certified by the Modern Mystery School to teach Sacred Geometry I",
       "Clear explanations and plenty of hands-on practice: you try everything yourself",
       "An attunement to the three primary shapes during the workshop",
       "Tools you can start using the same evening",
@@ -945,7 +949,7 @@
     "faq": [
       {
         "q": "Is this workshop for beginners?",
-        "a": "Yes. It's designed as a first step: everything is explained clearly, and we practise each tool together until it feels natural."
+        "a": "Yes. It's designed as a first step: everything is explained clearly, and we practise each tool together until it feels natural. There are no prerequisites: it's open to everyone."
       },
       {
         "q": "What should I bring?",
@@ -957,7 +961,7 @@
       },
       {
         "q": "What comes after Sacred Geometry I?",
-        "a": "When you're ready, <link>Sacred Geometry II: Crystal Healing & Space Protection</link> builds on what you learn here, and the series continues with Sacred Geometry III and IV.",
+        "a": "When you're ready, <link>Sacred Geometry II: Crystal Magick</link> builds on what you learn here. The series continues with Sacred Geometry III and IV, and further levels up to VIII are taught at other Modern Mystery School centres. Sacred Geometry I is also one of the classes Modern Mystery School International lists as preparation for Healers Academy.",
         "href": "/sacred-geometry-2"
       }
     ],
@@ -997,21 +1001,23 @@
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "The Sacred Geometry Series · Level II",
-    "heroSubtitle": "Crystal Healing & Space Protection",
+    "heroSubtitle": "Crystal Magick: Healing, Reading & Gridding",
     "heroTagline": "Simple, ancient methods of crystal healing — for yourself, and for those you serve.",
     "introLead": "The next step in the Sacred Geometry series",
     "introBody1": "Sacred Geometry II hands down beautiful but simple methods of crystal healing and space protection, using crystal layouts you can work with on yourself or in service to clients. Where Sacred Geometry I introduces the three basic geometries and how to protect a space, this level goes deeper into the crystalline structures that carry and direct that energy.",
-    "introBody2": "This is an advanced Modern Mystery School class — the prerequisite is <strong>Sacred Geometry I</strong>. If you have completed Sacred Geometry I and already run a healing practice, these are the tools that take it further.",
+    "introBody2": "The prerequisite is <strong>Sacred Geometry I</strong>, and some centres also ask for a Life Activation. These tools are as much for your own life, home and family as for clients: if you already offer healings they add to your practice, and if not, you can start using them on yourself straight away.",
     "askLabel": "Ask About Sacred Geometry II",
     "learnHeading": "What You Will Learn",
     "benefits": [
-      { "label": "Gemstone Healing:", "text": "Work with the frequency of particular gemstones to attune your energy field for physical, emotional, and mental healing — including greater empowerment and a better relationship with time and space." },
+      { "label": "Gemstone Healing:", "text": "Learn to choose, place and activate gemstones and work with each stone's frequency to attune the energy field for physical, emotional and mental healing, including greater empowerment and a better relationship with time and space." },
       { "label": "Crystal Rites:", "text": "A partnered practice using twin crystals and an ancient mantra to release and move through emotional trauma, and to draw in positive energy for what comes next." },
-      { "label": "Crystal Gridding:", "text": "Structured crystal layouts used to bring protection, holiness, and abundance to a home, healing room, or workspace." }
+      { "label": "Crystal Gridding:", "text": "Four crystal gridding systems, laid out in sacred geometric patterns, to protect a home, healing room or workspace, raise its vibration, and invite in divine light, wholeness and abundance." },
+      { "label": "Crystal Reading:", "text": "An intuitive reading method with a pair of twin crystals grown from the same cluster, to help clients explore their questions with clarity." },
+      { "label": "Crystal Dreaming & Care:", "text": "Dreaming techniques with crystals for greater clarity, and how to care for the crystals in your life." }
     ],
     "bookingTitle": "Sacred Geometry II in Prague",
     "duration": "Full-Day Workshop",
-    "bookingNote": "Coming soon to Prague — Sacred Geometry II isn't scheduled here yet, but it's next in line as the Sacred Geometry series grows locally. Reach out to Radu to register your interest and be the first to know when a date is set.",
+    "bookingNote": "Coming soon to Prague — Sacred Geometry II isn't scheduled here yet, but it's next in line as the Sacred Geometry series grows locally. Reach out to Radu and Diana to register your interest and be the first to know when a date is set.",
     "inquiry": "Hello, I would like to learn more about Sacred Geometry II."
   },
   "SacredGeometry3Page": {
@@ -1020,17 +1026,17 @@
     "heroTagline": "An ancient method for restoring wholeness to the human energy field.",
     "introLead": "Healing the seven layers of the aura",
     "introBody1": "Sacred Geometry III moves into working directly with the human aura — composed of seven layers that provide the energy needed for vitality and manifestation. This unique healing modality calls upon the power of the ancient Egyptian gods and goddesses and their knowledge of the dimensions and ratios of the physical and energetic human body.",
-    "introBody2": "The prerequisites are the <strong>Empower Thyself</strong> initiation and <strong>Sacred Geometry I & II</strong>. It is a practice you can use for your own healing as well as in service to others.",
+    "introBody2": "The prerequisites are the <strong>Empower Thyself</strong> initiation and <strong>Sacred Geometry I & II</strong>. It is a practice you can use for your own healing as well as in service to others. You can also receive this healing as a session in Prague: see <link>Aura Healing</link>.",
     "askLabel": "Ask About Sacred Geometry III",
     "learnHeading": "What You Will Learn",
     "benefits": [
       { "label": "Egyptian Aura Healing:", "text": "An ancient Egyptian healing method calling on the wisdom of the gods and goddesses and their understanding of the physical and energetic bodies." },
       { "label": "The Seven Layers of the Aura:", "text": "Learn to recognize and work with each of the seven layers that make up the human aura, the field that provides vitality and the capacity to manifest." },
-      { "label": "Restoring the Aura's Structure:", "text": "Restore balance and correct flow in the seven layers of the aura, restoring its correct structure." }
+      { "label": "What the Healing Works On:", "text": "Repairing holes in the aura, building up its energy for greater vitality and protection, and rebalancing the physical, emotional, soul and astral bodies." }
     ],
     "bookingTitle": "Sacred Geometry III in Prague",
     "duration": "Workshop",
-    "bookingNote": "Coming soon to Prague — Sacred Geometry III isn't scheduled here yet, but it's part of where the Sacred Geometry series is heading locally. Reach out to Radu to register your interest and be the first to know when a date is set.",
+    "bookingNote": "Coming soon to Prague — Sacred Geometry III isn't scheduled here yet, but it's part of where the Sacred Geometry series is heading locally. Reach out to Radu and Diana to register your interest and be the first to know when a date is set.",
     "inquiry": "Hello, I would like to learn more about Sacred Geometry III."
   },
   "SacredGeometry4Page": {
@@ -1040,17 +1046,17 @@
     "introLead": "The most advanced Sacred Geometry level taught here",
     "introBody1": "Sacred Geometry IV reveals the secrets to sacred spaces and empowers you to create them yourself. Through the teachings of the Sacred Geometries, you learn to bridge the spiritual and the physical by activating homes and workspaces as holy sanctuaries — and, by living and working inside these temples, to strengthen virtually every aspect of your life.",
     "introBody2": "This level is reserved for Modern Mystery School initiates. The prerequisites are being a <strong>Certified Life Activation Practitioner</strong> and having completed <strong>Sacred Geometry I–III</strong>.",
-    "introBody3": "Sacred Geometry IV is the most advanced level offered here in Prague — but it isn't the end of the road. Students who wish to go further can continue their Sacred Geometry training directly at Modern Mystery School Headquarters.",
+    "introBody3": "Sacred Geometry IV is the most advanced level offered here in Prague, but the series continues up to Level VIII. The next levels include the Fire Soul Infusion (V), the Core Will Infusion (VI) and the Archangel Michael Tube of Light (VII), taught by teachers certified at each level in Toronto, London and other centres. We are glad to help you find your next class.",
     "askLabel": "Ask About Sacred Geometry IV",
     "learnHeading": "What You Will Learn",
     "benefits": [
-      { "label": "Living Temples:", "text": "Three space-protection methods used to transform a home or workspace into a true sanctuary — a space that actively holds and amplifies a higher vibration." },
-      { "label": "Strengthened Everyday Life:", "text": "A space activated this way is described as strengthening virtually every aspect of life for those who live and work within it." },
+      { "label": "Living Temples:", "text": "Three new ways of protecting and sealing space, different from the holy temple of Sacred Geometry I, used to transform a home or workspace into a true sanctuary — a space that actively holds and amplifies a higher vibration." },
+      { "label": "A Temple for Higher Service:", "text": "Set up temple space for higher service, such as teaching classes, while keeping your home a protected sanctuary with a high vibration." },
       { "label": "A Bridge Between Worlds:", "text": "The methods work by bridging the spiritual and the physical, anchoring higher energies into a fixed, physical location." }
     ],
     "bookingTitle": "Sacred Geometry IV in Prague",
     "duration": "Workshop",
-    "bookingNote": "Coming soon to Prague — Sacred Geometry IV isn't scheduled here yet, but it's the horizon the Sacred Geometry series is building toward locally. Reach out to Radu to register your interest and be the first to know when a date is set.",
+    "bookingNote": "Coming soon to Prague — Sacred Geometry IV isn't scheduled here yet, but it's the horizon the Sacred Geometry series is building toward locally. Reach out to Radu and Diana to register your interest and be the first to know when a date is set.",
     "inquiry": "Hello, I would like to learn more about Sacred Geometry IV."
   },
   "KeysOfTheAncientsPage": {
@@ -1059,20 +1065,21 @@
     "heroTagline": "For those ready to unlock their full potential and step directly into the deepest teachings of this lineage.",
     "introLead": "Taught personally by one of the lineage's highest initiates",
     "introBody1": "<strong>Keys of the Ancients: A Hermetic Crossing into the Lineage of King Salomon</strong> is a five-day immersive class led by Dave Lanyon — a Sovereign Ipsissimus, best-selling author, and one of the highest-ranking key holders of the Modern Mystery School. It unveils hidden keys of Hermetic wisdom through direct, initiatory teaching, and is offered as an intimate, small-group program (historically around 25 participants) at select Modern Mystery School locations internationally.",
-    "introBody2": "Participants receive a personal Life Activation session, initiation into the Lineage of King Salomon, Dave Lanyon's two books, and a 72-card Hermetic Wisdom deck, alongside the five days of direct teaching.",
-    "askLabel": "Ask Radu About This Program",
+    "introBody2": "Participants receive a personal Life Activation session and the Empower Thyself initiation, which initiates you as an Adept in the Lineage of King Salomon, alongside the five days of direct teaching. Past classes have also included Dave Lanyon's two books and a 72-card Hermetic Wisdom deck.",
+    "askLabel": "Ask Radu & Diana About This Program",
     "learnHeading": "What the Program Covers",
     "benefits": [
       { "label": "The Power of Change:", "text": "Direct, practical teaching on transformation — how it actually happens, and how to stop standing in your own way." },
       { "label": "The 5 Keys to Success:", "text": "Universal principles for overcoming obstacles, drawn from the Hermetic tradition Dave Lanyon has spent decades teaching." },
       { "label": "Sacred Geometry & the Pentagram:", "text": "A deeper look at the pentagram's significance within the Hermetic and King Salomon lineage." },
-      { "label": "Spirit Guides:", "text": "Understanding the role spirit guides play in genuine spiritual growth, and how to recognize your own." }
+      { "label": "Spirit Guides:", "text": "Understanding the role spirit guides play in genuine spiritual growth." },
+      { "label": "The Open Heart & True Joy:", "text": "Why an open heart is the foundation for joy, gratitude and success, and how to live a life of true joy." }
     ],
     "forYouHeading": "Is This For You?",
-    "forYouBody1": "Keys of the Ancients asks for an open mind, a genuine desire to learn, and a willingness to be challenged. It is not a beginner's workshop — it is designed for those already walking this path who are ready to go directly to the source and learn alongside a Sovereign Ipsissimus himself.",
+    "forYouBody1": "Keys of the Ancients asks for an open mind, a genuine desire to learn and a willingness to be challenged. No previous classes are needed: it welcomes newcomers and initiates alike, and for those new to the path it includes the Life Activation and the Empower Thyself initiation. It is a rare chance to learn directly from a Sovereign Ipsissimus himself.",
     "forYouBody2": "This is a global Modern Mystery School program, not a session run locally here in Prague. Dates, exact pricing, and locations are set directly by Dave Lanyon's team and change from cohort to cohort — for current details, visit <link>thedavelanyon.com</link>.",
     "bookingTitle": "Curious About Keys of the Ancients?",
-    "bookingNote": "Radu has walked this lineage himself and is glad to share what this program is really like, help you understand whether it's the right next step, and point you toward official dates and registration.",
+    "bookingNote": "Radu and Diana have walked this lineage themselves and are glad to share what this program is really like, help you understand whether it's the right next step, and point you toward official dates and registration.",
     "inquiry": "Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon."
   },
   "KabbalahAscensionPage": {
@@ -1080,21 +1087,21 @@
     "heroSubtitle": "Climbing the Tree of Life",
     "heroTagline": "A spiritual and alchemical transformation — not a weekend, but a journey.",
     "introLead": "Ten to twelve months of guided ascension",
-    "introBody1": "The Universal Hermetic Ray Kabbalah Ascension Program is a Modern Mystery School tradition dedicated to unlocking your greatness and aligning yourself with your life purpose. The full Ascension Journey runs roughly ten to twelve months, built around four in-person classes — most held at Modern Mystery School Headquarters, with the final gathering a retreat weekend away in nature.",
+    "introBody1": "The Universal Hermetic Ray Kabbalah Ascension Program is a Modern Mystery School tradition dedicated to unlocking your greatness and aligning yourself with your life purpose. The full Ascension Journey runs roughly ten to twelve months, built around four in-person classes, the last a retreat weekend away in nature, with eleven online study groups in between, one for each step on the Tree.",
     "introBody2": "Through climbing the Tree of Life, you activate stages of consciousness, healing, and understanding that bring you closer to your truest, actualized self — a deep system of personal development, not just study of Kabbalah as an idea.",
-    "askLabel": "Ask Radu About This Program",
+    "askLabel": "Ask Radu & Diana About This Program",
     "learnHeading": "What the Journey Includes",
     "benefits": [
       { "label": "Climbing the Tree of Life:", "text": "Each of the four in-person gatherings activates a stage of consciousness, healing, wisdom, and understanding as you ascend the Tree." },
       { "label": "A Method, Not Dogma:", "text": "A non-dogmatic system that invites genuine self-discovery, using the Tree of Life as a personal map rather than a fixed set of answers." },
       { "label": "Relationships, Career & Purpose:", "text": "The curriculum works directly with relationships and self-love, career clarity, and aligning your daily life with your true purpose." },
-      { "label": "Becoming a Kabbalist:", "text": "Completing all four in-person classes — the last a retreat weekend in nature — completes the journey. You regain your crown, and begin living your life as a full Kabbalist, from the Supernals — not just from the lower part of the Tree, which is what most humans have access to." }
+      { "label": "Becoming a Kabbalist:", "text": "Completing all four in-person classes — the last a retreat weekend in nature — completes the journey, ascending through Binah, Chokmah and Kether, the three Supernals. You regain your crown and begin living as a full Kabbalist, from the whole Tree rather than only its lower branches." }
     ],
     "forYouHeading": "Is This For You?",
     "forYouBody1": "At minimum, you need to be an <strong>Adept Initiate</strong> — initiated through <strong>Empower Thyself</strong> — to be prepared for the Ascension Program. However, it is highly recommended to have also completed <strong>Healers Academy</strong> before embarking on the journey. An advanced track, Kabbalah for Kabbalists, is also offered for Certified Life Activation Practitioners, Healers, Ritual Masters, and Guides seeking deeper service.",
-    "forYouBody2": "This is a global Modern Mystery School program run at Headquarters level, not a session run locally here in Prague. Class sizes and cohorts are limited and run once every one to two years — for current dates and enrollment, visit <link>the Modern Mystery School's own page</link>.",
+    "forYouBody2": "This program isn't run here in Prague. Each group (a \"Tree\") is run by a Modern Mystery School centre, such as Headquarters in Toronto or MMS UK & Europe in London, and led by certified Universal Hermetic Ray Kabbalah instructors. Places are limited and a new group usually starts only every one to two years. For current dates, visit <link>the Modern Mystery School's own page</link>, or ask us about the next group in Europe.",
     "bookingTitle": "Curious About the Kabbalah Ascension Program?",
-    "bookingNote": "Radu is glad to help you understand what this journey really asks of you, whether you meet the prerequisites yet, and how it connects to the path you're already walking.",
+    "bookingNote": "Radu and Diana are glad to help you understand what this journey really asks of you, whether you meet the prerequisites yet, and how it connects to the path you're already walking.",
     "inquiry": "Hello, I would like to learn more about the Universal Hermetic Ray Kabbalah Ascension Program."
   },
   "SacredGeometrySeriesLinks": {
@@ -1102,7 +1109,7 @@
     "learnMore": "Learn more",
     "blurbs": [
       "The foundation: the 3 keys to heaven and the sacred shapes of creation.",
-      "Crystal healing and space protection.",
+      "Crystal Magick: healing, reading and gridding.",
       "Egyptian Aura Healing — restoring the 7 layers of the aura.",
       "Sacred space and living temples."
     ]
@@ -1114,18 +1121,18 @@
     "heroTagline": "Explore the higher planes — safely, consciously, and at will",
     "introLead": "The art and science kept by the mystery schools for millennia",
     "introBody1": "We are far more than our physical body. Within the teachings of the Modern Mystery School, astral travel is the conscious, deliberate projection of awareness beyond the physical — a discipline studied and refined across thousands of years. Far from a dream or accident, it is a skill that can be learned, practised and trusted.",
-    "introBody2": "In this workshop you are given the keys to leave the body safely and return with clarity — to explore the subtle realms, meet your guides, and gain a perspective on your life that the physical senses alone can never reach.",
+    "introBody2": "In this workshop you are given the keys to leave the body safely and return with clarity. You learn to prepare your body, mind and space, to travel in harmony with Sacred Law, and to seek guidance meant for your own path, gaining a perspective on your life that the physical senses alone can never reach. It suits first-timers and experienced travellers alike.",
     "reserveYourPlace": "Reserve Your Place",
     "learnHeading": "What You Will Learn",
     "benefits": [
       { "label": "The map of the planes:", "text": "Understand the structure of the subtle worlds and where consciousness travels." },
-      { "label": "Safe projection:", "text": "Proven techniques to leave and re-enter the body consciously, with protection at every step." },
-      { "label": "Navigation & guidance:", "text": "How to move with intention, meet your guides, and ask the right questions." },
+      { "label": "Safe projection:", "text": "Time-honoured Mystery School techniques to leave and return to the body consciously, with prayer and ritual to protect and bless every journey." },
+      { "label": "Where & how to travel:", "text": "Choose where to go and travel with intention, for guidance, insight and experience, always in harmony with Sacred Law." },
       { "label": "Grounding & integration:", "text": "Return clearly and bring the wisdom of your journeys into daily life." }
     ],
     "bookingTitle": "Step Beyond the Body",
     "duration": "4.5 Hours",
-    "bookingNote": "Workshops are scheduled in small groups. Reach out for the next available date in Prague.",
+    "bookingNote": "Taught in small groups by Radu and Diana, both certified by the Modern Mystery School to teach Astral Travel. Reach out for the next available date in Prague.",
     "inquiry": "Hello, I would like to learn more about the Astral Travel workshop."
   },
   "SpiritualIntuitionPage": {
@@ -1135,7 +1142,7 @@
     "heroTagline": "Clearer decisions, a better sense of people, and more trust in yourself",
     "introLead": "Your intuition is not a gift for the few. It is a sense everyone has.",
     "introBody1": "Have you ever known something before anyone told you? Walked into a room and felt the mood straight away? You may not be able to explain how you knew. It didn't seem to come from anything you saw or heard. Most people call that intuition.",
-    "introBody2": "In this workshop you learn what your spiritual senses are, how to activate and strengthen them, and how to build your awareness and sensitivity safely and comfortably. Working with these senses invites you to use more of your brain's capacity. The more you can perceive, the more you can achieve in life.",
+    "introBody2": "In this workshop you learn what your spiritual senses are, how to activate and strengthen them, and how to build your awareness and sensitivity safely and comfortably. Working with these senses opens up more of your natural perception, and the more you can perceive, the more you can achieve in life.",
     "reserveYourPlace": "Reserve Your Place",
     "learnHeading": "What You Learn, and How It Grows",
     "benefits": [
@@ -1184,6 +1191,7 @@
     "expect": [
       "2.5 hours, in person, in Vršovice, Prague",
       "A small group, so there is room for all your questions",
+      "Taught by Diana and Radu, both certified by the Modern Mystery School to teach Spiritual Intuition",
       "Open to everyone, with no prerequisites",
       "You don't only learn about these senses: you practise them",
       "Tools and techniques you can keep using every day"
@@ -1200,6 +1208,10 @@
       {
         "q": "Is the workshop in person?",
         "a": "Yes. It takes place in person, in a small group, in Vršovice, Prague."
+      },
+      {
+        "q": "What comes next?",
+        "a": "Daily practice comes first: your senses grow as you use them. When you want to go further, Journeys of the Spirit, a full-day class of guided journeys, keeps developing your perception. Ask us what is coming up in Prague."
       },
       {
         "q": "How do I join?",
@@ -1253,14 +1265,14 @@
     "heroSubtitle": "The seven great streams of ancient wisdom",
     "heroTagline": "Drink from the source traditions that shaped humanity",
     "introLead": "Seven traditions, one current of light",
-    "introBody1": "Throughout history, the sacred wisdom of humanity has been preserved and passed down through seven great mystery school traditions — each rooted in a different culture and place, yet each carrying a facet of the same eternal light. Together they form the lineage that the Modern Mystery School carries today.",
-    "introBody2": "In this workshop you journey through all seven — learning their history, their gifts, and their place in the great chain of wisdom — and, through meditation and ceremony, you connect directly with the living energy of each one.",
+    "introBody1": "For thousands of years, seven mystery schools have quietly kept humanity's sacred wisdom, each in its own place and with its own purpose, yet all serving one greater plan. The Modern Mystery School, in the lineage of King Salomon, is one of the seven, and the one whose doors are now open to all who sincerely seek.",
+    "introBody2": "In this workshop you learn where each of the seven schools is found, its unique purpose, how it relates to the body, and how the seven come together for one greater purpose — and, through meditation and ceremony, you connect directly with the living energy of each one.",
     "reserveYourPlace": "Reserve Your Place",
     "gainHeading": "What You Will Gain",
     "benefits": [
-      { "label": "The full lineage:", "text": "Understand the seven mystery school traditions and how they connect through time." },
+      { "label": "The seven schools:", "text": "Discover where each is found, what it holds, and how all seven serve one shared purpose." },
       { "label": "Direct connection:", "text": "Meet the energy of each tradition through guided meditation and ceremony." },
-      { "label": "Your place in the chain:", "text": "See where your own path fits within this vast, living current of wisdom." },
+      { "label": "Your place in the work:", "text": "See where your own path fits within this vast, living current of wisdom." },
       { "label": "A deeper context:", "text": "Ground your practice in the history and roots of the work you are doing." }
     ],
     "bookingTitle": "Walk Through the Seven Gates",
@@ -1274,19 +1286,19 @@
     "heroSubtitle": "Practical tools to meet pressure with calm",
     "heroTagline": "Ancient wisdom, made simple for modern life",
     "introLead": "Stress is not the enemy — losing your tools to handle it is",
-    "introBody1": "Modern life moves faster than our nervous systems were built for. Stress Rescue is a practical, grounded program that gives you a set of reliable tools — drawn from the teachings of the mystery school and translated into everyday language — to steady your mind, settle your body, and respond to pressure instead of reacting to it.",
+    "introBody1": "Modern life moves faster than our nervous systems were built for. Stress Rescue is a practical, grounded Modern Mystery School program that gives you a set of reliable tools — drawn from the teachings of the mystery school and translated into everyday language — to steady your mind, settle your body, and respond to pressure instead of reacting to it.",
     "introBody2": "It can be received one-to-one, or delivered to a whole team. For leaders and organisations, it is a clear, down-to-earth way to bring more focus, resilience and wellbeing into the working day.",
     "enquireNow": "Enquire Now",
     "takeawayHeading": "What You Take Away",
     "benefits": [
       { "label": "Tools that work in the moment:", "text": "Simple techniques to calm the body and mind when pressure spikes." },
       { "label": "A steadier baseline:", "text": "Daily practices that lower your overall stress over time." },
-      { "label": "Clarity & focus:", "text": "Think clearly and decide well, even when the day is demanding." },
+      { "label": "Understanding & focus:", "text": "See where your stress really comes from and how it affects body and mind, then put your energy into what you can control." },
       { "label": "For teams:", "text": "A shared language and shared tools that make a whole group more resilient." }
     ],
     "bookingTitle": "Bring Calm Back Into the Day",
     "duration": "2 Hours",
-    "bookingNote": "Available for individuals, leadership teams and organisations. Reach out to discuss a session or a programme for your team.",
+    "bookingNote": "Available for individuals, leadership teams and organisations. Reach out to discuss a session or a programme for your team. Radu and Diana are both certified by the Modern Mystery School to teach Stress Rescue. It is an educational, complementary practice and does not replace medical or psychological care.",
     "inquiry": "Hello, I would like to learn more about Stress Rescue / Stress Management."
   },
   "CommunityPage": {
@@ -1626,10 +1638,10 @@
   },
   "LineagePage": {
     "metaTitle": "The Lineage of King Salomon | The Path of Initiation Prague",
-    "metaDescription": "Over 3,000 years of unbroken written lineage. Discover the Modern Mystery School, the King Salomon Lineage, and the three Lineage Holders of the Third Order — Gudni Gudnason, Hideto Nakagome, and Dave Lanyon.",
+    "metaDescription": "Over 3,000 years of unbroken lineage. Discover the Modern Mystery School, the King Salomon Lineage, and the three Lineage Holders of the Third Order — Gudni Gudnason, Hideto Nakagome, and Dave Lanyon.",
     "heroEyebrow": "The Modern Mystery School",
     "heroHeading": "The Lineage of <emphasis>King Salomon</emphasis>",
-    "heroBody": "Over 3,000 years of written history. An unbroken chain of teacher to student, affirmed by the holy process of initiation — preserving the keys to true spiritual power since the beginning of time.",
+    "heroBody": "Over 3,000 years of history and lineage. An unbroken chain of teacher to student, affirmed by the holy process of initiation — preserving the keys to true spiritual power since the beginning of time.",
     "whatIsLineageEyebrow": "What is Lineage?",
     "whatIsLineageHeading": "The measure of an authentic Mystery School",
     "whatIsLineageBody1": "Lineage is a key and important factor in determining the legitimacy, integrity and authority that an authentic Mystery School holds. By definition, lineage means a lineal descent from an ancestor — an ancestry, a pedigree.",
@@ -1643,33 +1655,33 @@
     },
     "ksLineageEyebrow": "Over 3,000 Years",
     "ksLineageHeading": "The King Salomon Lineage",
-    "ksLineageBody1": "The lineage of the <mms>Modern Mystery School</mms> dates back to the time of King Salomon and therefore carries over 3,000 years of written history and lineage. While the mystery school tradition is far older, the lineage of the MMS and its teachings can be verified and traced directly to the teachings of King Salomon himself.",
-    "ksLineageBody2": "The oral tradition reaches back more than 8,000 years to the time of Hermes — Hermes Trismegistus. Initiation, combined with this unbroken lineage, empowers the Adept to engage in the Great Work: creating a better world and living in accordance with their true potential and life purpose.",
+    "ksLineageBody1": "The lineage of the <mms>Modern Mystery School</mms> dates back to the time of King Salomon and therefore carries over 3,000 years of history and lineage. While the mystery school tradition is far older, the lineage of the MMS and its teachings can be verified and traced directly to the teachings of King Salomon himself.",
+    "ksLineageBody2": "The mystery school tradition itself is older still, its wisdom always passed by word of mouth from teacher to student. Initiation, combined with this unbroken lineage, empowers the Adept to engage in the Great Work: creating a better world and living in accordance with their true potential and life purpose.",
     "ksLineageBody3": "The great masters have all walked upon the Path of Initiation in the mystery school tradition — the very path that led them to fulfill their promise to God while here on this earth.",
     "thirdOrderEyebrow": "The Third Order",
     "thirdOrderHeading": "The Three Lineage Holders",
-    "thirdOrderBody": "All lineages have main key holders — individuals who hold and anchor the lineage on the planet, with the authority to keep the door of the Mystery School open to those who seek the Light. In this lineage they are titled the Third Order, and in union they maintain the purity of the lineage and its teachings.",
+    "thirdOrderBody": "All lineages have main key holders — individuals who hold and anchor the lineage on the planet, with the authority to keep the door of the Mystery School open to those who seek the Light. In this lineage they are titled the Third Order, and in union they maintain the purity of the lineage and its teachings. The Third Order was initiated in 2017.",
     "thirdOrderClosing": "Today, these three lineage holders carry the great responsibility of maintaining the purity of the teachings — working in collaboration with the Council of Twelve women and the wider leadership, stewarding the lineage of King Salomon into the modern age.",
     "holders": [
       {
         "title": "Sovereign Ipsissimus & Hierophant",
         "role": "Founder of the Modern Mystery School",
-        "bio": "Born in Iceland and raised steeped in the mysteries, Gudni travelled widely to receive teachings and initiations across a myriad of traditions. His teaching career spans over forty years — Kabbalah, Alchemy, Metaphysics, Quantum Physics and far beyond. A master metaphorical teacher, he imparts esoteric principle through analogy, allegory and parable. In 1997 he brought the Modern Mystery School publicly to the world."
+        "bio": "Born in Iceland and raised steeped in the mysteries, Gudni travelled widely for more than four decades to receive teachings and initiations across a myriad of traditions. He teaches Hermetic and esoteric wisdom, Alchemy, Kabbalah, and Salomonic and Enochian magick. A master metaphorical teacher, he imparts esoteric principle through analogy, allegory and parable. In 1997 he brought the Modern Mystery School publicly to the world."
       },
       {
         "title": "Sovereign Ipsissimus",
         "role": "Member of the Third Order",
-        "bio": "A lineage holder and administrator of the Third Order, anchoring the lineage and its teachings in the East. Together with his brothers of the Third Order, he safeguards the purity of the tradition and keeps the door of the Mystery School open to those who seek the Light."
+        "bio": "From a Japanese Bushi (samurai) family, Hideto joined the lineage in 2000 and anchors the school and its teachings in Japan and the East. He is a Master Healer, a Master Kabbalah Teacher, a priest of Mikkyo Esoteric Buddhism and the author of several metaphysical books published in Japan. Together with his brothers of the Third Order, he safeguards the purity of the tradition and keeps the door of the Mystery School open to those who seek the Light."
       },
       {
         "title": "Sovereign Ipsissimus",
         "role": "Member of the Third Order",
-        "bio": "A lineage holder and administrator of the Third Order. In union with his fellow key holders he administers and attends to the maintenance of the lineage, ensuring the teachings are passed on with integrity from teacher to student through the holy process of initiation."
+        "bio": "Dave joined the lineage in 2004 and has been a driving force in the school's growth from 12 countries to more than 50. A Ritual Master Teacher, he leads the worldwide Order of the Warriors of Light and, with Ipsissima Franca Lanyon, runs the International Headquarters in Toronto. In union with his fellow key holders, he ensures the teachings pass from teacher to student with integrity, through the holy process of initiation."
       }
     ],
     "councilEyebrow": "Those Who Guide",
-    "councilHeading": "The Council of Ipsissimi, The Council of 12 & Leadership",
-    "councilBody": "Alongside the Third Order, the lineage is held and guided by the Governing Ipsissima & Ipsissimus, the Council of Twelve Women and the wider leadership of the Modern Mystery School — devoted teachers who steward the tradition and serve the school across the world.",
+    "councilHeading": "The Governing Ipsissima & Ipsissimus, the Council of 12 & Leadership",
+    "councilBody": "Alongside the Third Order, the lineage is guided by the Governing Ipsissima & Ipsissimus and by the Council of 12: twelve women, all high-level initiates, six in the East and six in the West. The Council was activated together with the Third Order in 2017 and leads the school's work worldwide. Together with the wider leadership of the Modern Mystery School, they steward the tradition and serve the school across the world.",
     "governingLink": "Governing Ipsissima & Ipsissimus",
     "leadershipLink": "The Leadership Team",
     "otherResourcesEyebrow": "Other resources you can read",
@@ -1836,7 +1848,7 @@
     ],
     "who": [
       "You feel numb, disconnected or not quite here",
-      "You are carrying grief, trauma, burnout, a break-up or an addiction",
+      "You are carrying grief, trauma, burnout or a break-up, or you are recovering from an addiction",
       "You have been under stress for a long time, or your life has changed a lot",
       "You feel creatively blocked or empty inside",
       "You are on a path of self-discovery and want to feel whole"
@@ -1860,6 +1872,14 @@
       {
         "q": "Why is it called Hermetic?",
         "a": "It comes from the Hermetic teachings preserved in the lineage of the Modern Mystery School."
+      },
+      {
+        "q": "Do I need anything beforehand, and can I receive it again?",
+        "a": "No previous sessions are needed: it is open to everyone. To give each retrieval time to settle, we leave at least three months between single sessions. If a short series would serve you better, three sessions can be spaced about a month apart. Ask us."
+      },
+      {
+        "q": "Is it a replacement for therapy?",
+        "a": "No. It is spiritual, energetic work that sits well alongside counselling or therapy. If you are going through an acute mental health crisis, please reach out for medical support first, and talk with us before booking so we can find the right moment together."
       }
     ],
     "bookingTitle": "Come Home to Yourself",
@@ -1872,7 +1892,7 @@
     "heroTitle": "Emotional Cord Cutting",
     "heroSubtitle": "When someone still lives in your thoughts, and it costs you energy",
     "heroTagline": "A gentle ritual to let go of old ties, so you can feel like yourself again",
-    "introLead": "When life feels heavy, sometimes the first step is simply to let go",
+    "introLead": "Sometimes healing begins with letting go",
     "introBody1": "Every person we love, argue with or miss leaves a trace in us. We call these traces energetic cords. Most of them are harmless. But some keep pulling at you long after the relationship or the moment is over: you replay old conversations, you come home tired after seeing certain people, or a name alone is enough to unsettle you.",
     "introBody2": "In this session we gently cut those draining ties and clear what they left behind. It doesn't erase love or end a relationship. It simply gives your energy back to you, so you can meet the people in your life from a lighter, freer place.",
     "signsHeading": "Signs of an Unhealthy Cord",
@@ -1897,6 +1917,10 @@
       {
         "label": "Cleansing:",
         "text": "Your energy is gently cleansed and brought back into balance with sage, holy water and sacred mantras."
+      },
+      {
+        "label": "Setting an intention:",
+        "text": "You quietly name something you'd like to welcome next, as simple as peace or joy. You can keep it private."
       },
       {
         "label": "A quiet moment:",
@@ -1929,11 +1953,19 @@
     "faq": [
       {
         "q": "Will it end my relationship?",
-        "a": "No. It cuts the unhealthy, draining part of the connection, not the love. Many people find their relationships become lighter and healthier afterwards."
+        "a": "No. It cuts the unhealthy, draining part of the connection, not the love. Many people find their relationships become lighter and healthier afterwards. And if a relationship has truly run its course, you may simply find it easier to let it close in peace."
       },
       {
         "q": "Do I need to talk about painful events?",
         "a": "Only as much as you want. A short conversation about what you want to release is enough."
+      },
+      {
+        "q": "Can I cut a cord to an experience, not a person?",
+        "a": "Yes. Cords can also form with events, such as an accident, a loss or a frightening moment you can't quite shake off. The cutting can release the heaviness tied to that experience too."
+      },
+      {
+        "q": "How often can I receive it?",
+        "a": "Whenever you feel old ties pulling at you again, for example after a conflict, a break-up or a demanding time. There is no fixed rule, and we are glad to tell you what we would suggest for you."
       },
       {
         "q": "How long does it take and what does it cost?",
@@ -1957,7 +1989,7 @@
     "heroEyebrow": "Energy Clearing",
     "heroTitle": "Negative Energy Removal",
     "heroSubtitle": "When other people's negativity weighs on you",
-    "heroTagline": "A clearing that returns you to stillness when life feels heavy or unclear",
+    "heroTagline": "A clearing that helps you feel light, clear and yourself again",
     "introLead": "Have you ever felt heavy after being around someone, without knowing why?",
     "introBody1": "Words and thoughts carry energy. When someone envies you, resents you or wishes you harm, even if they never say it out loud, you can feel it. It can sit on you like a grey cloud: your thoughts get foggy, things stop flowing, you sleep badly and you start doubting yourself.",
     "introBody2": "In this session we clear these negative thoughts, words and intentions from your energy, whether they came from one person or built up quietly over the years. Most people leave feeling lighter, clearer and more like themselves again.",
@@ -1978,7 +2010,7 @@
       },
       {
         "label": "The clearing:",
-        "text": "The practitioner performs the ritual that lifts the negative thoughts, words and intentions from your energy. All you need to do is relax and breathe."
+        "text": "Through a ritual prayer handed down in the Mystery School lineage, the practitioner lifts the negative thoughts, words and intentions from your energy. All you need to do is relax and breathe."
       },
       {
         "label": "A quiet moment:",
@@ -2018,6 +2050,19 @@
         "a": "Not at all. Often we only feel the heaviness without knowing where it comes from. The clearing works either way."
       },
       {
+        "q": "Does the negativity go back to the person who sent it?",
+        "a": "No harm is sent to anyone. In the Mystery School tradition, the negative energy is cleared and handed over to the Light to be transformed. You are simply free of it."
+      },
+      {
+        "q": "How often can I receive it?",
+        "a": "Whenever you feel the heaviness building up again, for example after a conflict, a break-up or a demanding time. There is no fixed rule, and we are glad to tell you what we would suggest for you."
+      },
+      {
+        "q": "How can I keep my energy clear afterwards?",
+        "a": "The simple tools from your session help day to day. If you would like to learn to protect your own energy and home, <link>Sacred Geometry I</link> teaches the Mystery School way of sealing a space with light.",
+        "href": "/sacred-geometry"
+      },
+      {
         "q": "How long does it take and what does it cost?",
         "a": "About one hour, 3.669 CZK, including the consultation and all procedures."
       }
@@ -2046,19 +2091,20 @@
     "heroTagline": "Ensofic Reiki for your body and nervous system",
     "introLead": "The first ray of creation: pure, clear and direct",
     "introBody1": "The Ensofic Ray is the highest, brightest and most powerful ray of energy, the first ray of creation. It carries purity, clarity and focused concentration, so it goes straight to the core.",
-    "introBody2": "Ensofic Reiki is a healing session that helps reduce pain and helps your body heal faster. It is a good choice if you are recovering from an injury, an illness or an operation, if you live with pain that keeps coming back, or if your body feels exhausted and slow to recover. Many people leave the session feeling lighter and calmer, with less pain and better sleep. You can come in person in Prague or receive the session remotely, wherever you are in the world.",
+    "introBody2": "Ensofic Reiki is a hands-on healing session that can bring relief from pain and support your body's own ability to recover. It is a good choice if you are recovering from an injury, an illness or an operation, if you live with pain that keeps coming back, or if your body feels exhausted and slow to recover. Many people leave the session feeling lighter and calmer, with less pain and better sleep. You can come in person in Prague or receive the session remotely, wherever you are in the world.",
     "benefitsHeading": "Benefits",
     "benefits": [
       "Helps reduce pain, both sudden pain and pain that keeps coming back",
-      "Helps injuries, wounds and the body after an operation heal faster",
+      "Supports your body's natural recovery after an injury, illness or operation",
       "Eases tension and stiffness in muscles and joints",
       "Calms the nervous system, so the body can rest and repair itself",
       "Supports deeper, more restful sleep",
-      "Leaves you feeling lighter, calmer and with more energy"
+      "Leaves you feeling lighter, calmer and with more energy",
+      "Eases stress and emotional heaviness, and brings more clarity"
     ],
     "who": [
       "You are in pain and want relief",
-      "You are recovering from an injury, a fall, a sports strain or an operation and want to heal faster",
+      "You are recovering from an injury, a fall, a sports strain or an operation and want support as you recover",
       "You live with long-term pain, such as back pain, joint pain or headaches",
       "Your body feels exhausted and is slow to recover"
     ],
@@ -2069,7 +2115,12 @@
       },
       {
         "q": "Can I receive Ensofic Reiki at a distance?",
-        "a": "Yes. Ensofic Reiki can be received in person in Prague or as a remote healing session, wherever you are in the world. Radu and Diana have trained and worked hard to master distance healing, and together they channel the healing force wherever it is needed."
+        "a": "Yes. Ensofic Reiki can be received in person in Prague or as a remote session, wherever you are in the world. Distance healing is taught in the Intermediate level of the Ensofic Reiki training, and Radu and Diana have completed all three levels. Together they channel the healing force wherever it is needed."
+      },
+      {
+        "q": "How is it different from Advanced Ensofic Ray Healing?",
+        "a": "Ensofic Reiki is a single session that works mainly with the body, and one session can already bring relief. It is also the first part of the full Ensofic Ray treatment: <link>Advanced Ensofic Ray Healing</link> is three sessions, for the body, then soul and spirit, then one shaped around your needs.",
+        "href": "/advanced-ensofic-ray-healing"
       },
       {
         "q": "What do I need to do to prepare?",
@@ -2081,7 +2132,25 @@
     "inquiry": "Hello, I am interested in Ensofic Reiki.",
     "relatedHeading": "Ready to go deeper?",
     "relatedBody": "Advanced Ensofic Ray Healing is a series of three sessions, in person in Prague, that works with body, soul and spirit together for a deeper and lasting change.",
-    "relatedCta": "Explore Advanced Ensofic Ray Healing"
+    "relatedCta": "Explore Advanced Ensofic Ray Healing",
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "We start with a conversation:",
+        "text": "Tell us what brings you, and about any injuries, operations or health conditions, especially anything that makes lying down or sitting uncomfortable."
+      },
+      {
+        "label": "The healing:",
+        "text": "You rest in a quiet room with soft music while the practitioner channels the Ensofic Ray through their hands. Just breathe and notice whatever you feel."
+      },
+      {
+        "label": "A quiet moment:",
+        "text": "We close gently, so you can rest and feel the difference."
+      }
+    ],
+    "originEyebrow": "The origin",
+    "originHeading": "From the Ensofic Ray tradition",
+    "originBody": "Ensofic Reiki is the first stage of the Modern Mystery School's Ensofic Ray healing modality, taught in three levels: the Fundamental level hands down the complete Ensofic Reiki session, the Intermediate level adds distance healing and clearing unwanted habits, and the Advanced level completes the full Ensofic Ray treatment. Radu and Diana have both completed all three levels."
   },
   "AdvancedEnsoficRay": {
     "heroEyebrow": "Energy Healing",
@@ -2095,15 +2164,15 @@
     "protocol": [
       {
         "label": "I. The body:",
-        "text": "Releases blockages, tension and stagnant energy so the body's systems return to balance and flow."
+        "text": "Ensofic Reiki gets energy moving through the body, releasing blockages, tension and stagnant energy, and prepares you for the second session."
       },
       {
         "label": "II. Soul & spirit:",
-        "text": "Calls down and activates the 12 Rays of Creation — Romance, Healing, Mystery, Royalty, New Beginnings and more — supporting the embodiment of your divine essence."
+        "text": "Pure Ensofic Ray energy flows through the practitioner's hands; then twelve sacred seals are placed into your etheric field, so your soul and spirit bodies can shift and heal together."
       },
       {
         "label": "III. Integration:",
-        "text": "A personalised session that reinforces and stabilises the energetic seals of the previous sessions."
+        "text": "A session shaped around your needs that day: the Ray or the Reiki is repeated as needed, the twelve seals are checked to make sure they are holding, and your questions are answered. If needed, a fourth session can be added."
       }
     ],
     "benefitsHeading": "Benefits",
@@ -2111,7 +2180,7 @@
       "Reconnects you to your authentic self and inner light",
       "Clears physical, emotional and energetic blockages",
       "Aligns body, mind and spirit",
-      "Activates and anchors the 12 Rays",
+      "Anchors twelve sacred seals in your energy field",
       "Supports new beginnings and the completion of old cycles",
       "Raises vibration and restores clarity and peace",
       "Supports emotional healing and renewal",
@@ -2120,7 +2189,18 @@
     "bookingTitle": "Receive the Ray",
     "duration": "3 × 90 Minutes",
     "bookingNote": "This books the first 90-minute session, in person in Prague (Vršovice), at the full programme price. We'll schedule the next two sessions together with you when you meet.",
-    "inquiry": "Hello, I am interested in Advanced Ensofic Ray Healing."
+    "inquiry": "Hello, I am interested in Advanced Ensofic Ray Healing.",
+    "faq": [
+      {
+        "q": "How is this different from Ensofic Reiki?",
+        "a": "Ensofic Reiki is the first stage of the full Ensofic Ray modality. This series begins with it, then adds the pure Ensofic Ray and the twelve sacred seals. <link>Read about Ensofic Reiki</link>.",
+        "href": "/ensofic-reiki"
+      },
+      {
+        "q": "Should I tell you about injuries or health conditions?",
+        "a": "Yes. Please tell us about any injuries, surgeries or conditions that make lying down or sitting up harder, so the session can be adapted to you."
+      }
+    ]
   },
   "NegativeHabits": {
     "heroEyebrow": "Energy Healing",
@@ -2147,20 +2227,26 @@
     "faq": [
       {
         "q": "How does it work?",
-        "a": "The Ensofic Ray is used to work with the energetic structure where these patterns are held, supporting you to let go of them."
+        "a": "The Ensofic Ray is a pure, focused ray of energy used in Modern Mystery School healing. It is directed at the mental and emotional patterns behind a habit to help loosen them, then helps your body, mind and emotions settle into a new, steadier balance."
       },
       {
         "q": "What kind of habits and patterns can it help with?",
-        "a": "Any pattern or habit that keeps repeating in your life — in your thoughts, emotions, behaviour or relationships. For example anger outbursts, over-eating, addictions, guilt, shame."
+        "a": "Any pattern or habit that keeps repeating in your life — in your thoughts, emotions, behaviour or relationships. For example anger outbursts, over-eating, addictions, guilt, shame. With addictions, this session is complementary support: please keep following any medical, therapeutic or recovery programme you are part of."
       },
       {
         "q": "How can healing work at a distance?",
-        "a": "Radu and Diana have trained and worked hard to master this skill. They honed their focus, as well as their relationship with the Hierarchy of Light. Together they channel the healing force wherever it is needed in the world."
+        "a": "Distance healing is taught as a skill in its own right in Ensofic Reiki training, at the same level as the work on habits. Radu and Diana have trained in it fully and focus the healing to wherever you are in the world."
+      },
+      {
+        "q": "Should I tell you anything beforehand?",
+        "a": "Yes. Please let us know about any injuries, surgeries or health conditions, so the session can be adapted to you."
       }
     ],
     "duration": "90 Minutes",
     "bookingNote": "Choose in person in Prague (Vršovice) or remote below, pick a time and pay securely online — your appointment is confirmed immediately by email.",
-    "inquiry": "Hello, I would like to learn more about Treating of Negative Habits."
+    "inquiry": "Hello, I would like to learn more about Treating of Negative Habits.",
+    "originHeading": "Where This Work Comes From",
+    "originBody": "Clearing unwanted habits is taught in the Intermediate level of Ensofic Reiki, part of the Modern Mystery School's three-level Ensofic Ray healing training, the same level that teaches distance healing. Radu and Diana have both completed all three levels, and Radu holds a specialization in destructive mental patterns, harmful habits and addictions."
   },
   "CrystalHealing": {
     "heroEyebrow": "Energy Healing",
@@ -2174,11 +2260,11 @@
     "benefits": [
       "A calmer, clearer mind",
       "Emotional release and balance",
-      "Support for the physical body, including internal physical problems",
+      "Support for your physical, emotional and mental wellbeing",
       "Better balance between left and right and your sense of space",
       "A healthier relationship with time: less rush, more presence",
       "Renewed vitality and libido",
-      "Bringing back parts of yourself you have lost along the way (soul retrieval)",
+      "Reconnecting with parts of yourself you have lost along the way",
       "A pure mind and a feeling of empowerment"
     ],
     "faq": [
@@ -2238,7 +2324,7 @@
     "heroSubtitle": "Heal old and new wounds, and open the way for good fortune",
     "heroTagline": "A healing with crystals and sacred chants that reaches deep into the subconscious",
     "introLead": "What happens in a session",
-    "introBody1": "You sit comfortably in a chair, holding a crystal in your hand. The practitioner holds the crystal too and begins the sacred rites: sacred chants that reach deep into the subconscious, where old hurts and patterns are held.",
+    "introBody1": "You sit comfortably in a chair, holding a crystal in your hand. The practitioner holds its twin, a crystal from the same cluster, and begins the sacred rites: chants in an ancient language that reach deep into the subconscious, where old hurts and patterns are held.",
     "introBody2": "You don't need to do or say anything: simply listen and let go. Clients often leave feeling lighter, calmer and more open to what life brings.",
     "benefitsHeading": "What It Helps With",
     "benefits": [
@@ -2270,6 +2356,11 @@
         "q": "Can I combine it with another healing?",
         "a": "Yes. The Crystal Healing Package gives you two healings, this Sacred Rites Healing and the <link>Sacred Geometry Ancient Crystal Healing</link>, for 4.444 CZK instead of booking each one separately. We'll arrange the details with you.",
         "href": "/crystal-healing"
+      },
+      {
+        "q": "Can I learn to give this healing?",
+        "a": "Yes. It is taught in <link>Sacred Geometry II</link>, the crystal level of the Sacred Geometry series, which follows Sacred Geometry I.",
+        "href": "/sacred-geometry-2"
       }
     ],
     "optionsHeading": "Choose your session",
@@ -2293,7 +2384,10 @@
     "bookingTitle": "Heal and Renew",
     "duration": "60 Minutes",
     "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.",
-    "inquiry": "Hello, I am interested in the Sacred Geometry Sacred Rites Healing."
+    "inquiry": "Hello, I am interested in the Sacred Geometry Sacred Rites Healing.",
+    "originEyebrow": "The origin",
+    "originHeading": "A crystal rite from Sacred Geometry II",
+    "originBody": "This healing is handed down in Sacred Geometry II, the crystal level of the Modern Mystery School's Sacred Geometry series, where it is known as the Crystal Rites. Its chants are spoken in an ancient language, to heal the past and the present and to call good fortune into your future."
   },
   "SparkOfLife": {
     "heroEyebrow": "Energy Healing",
@@ -2301,7 +2395,7 @@
     "heroSubtitle": "Reconnect to your original spark of life force",
     "heroTagline": "A healing session that restores your life force and renews your energy",
     "introLead": "Life force, channelled to the core of your being",
-    "introBody1": "Spark of Life works beyond the etheric matrix and chakra system, channelling life-force energy to the core of the being. Its roots trace back to the ancient Egyptian temples, where it was developed for priests and priestesses to rejuvenate them for long years of service, and it has been carried on by direct transmission.",
+    "introBody1": "Spark of Life works beyond the etheric matrix and chakra system, channelling life-force energy to the core of the being. Its roots trace back to the ancient Egyptian temples, where it was used by priests and priestesses serving far from the temple, to keep their energy high and their connection to the temple's light strong, and it has been carried on by direct transmission.",
     "introBody2": "You rest quietly, lying down or seated, wherever you are, while Diana and Radu work remotely. You only need to receive. It pairs well with a Life Activation, before or after.",
     "benefitsHeading": "Benefits",
     "benefits": [
@@ -2323,15 +2417,19 @@
     "faq": [
       {
         "q": "How can healing work at a distance?",
-        "a": "Radu and Diana have trained and worked hard to master this skill. They honed their focus, as well as their relationship with the Hierarchy of Light. Together they channel the healing force wherever it is needed in the world."
+        "a": "With your permission and at the time you agree, the practitioner connects with the original divine spark, the source of life, and directs its light to you. Radu and Diana have trained and worked hard to master this skill. They honed their focus, as well as their relationship with the Hierarchy of Light. Together they channel the healing force wherever it is needed in the world."
       },
       {
         "q": "How do I prepare?",
-        "a": "It helps to drink some water beforehand and afterwards, and to take a few quiet minutes after the session."
+        "a": "Choose a quiet, private place where you won't be disturbed for the whole session, and switch off your phone. It helps to drink some water beforehand and afterwards. Many people feel deeply relaxed or sleepy afterwards, so an unhurried evening or a calm day is ideal."
       },
       {
         "q": "How long is the session?",
         "a": "About 75 minutes in total — roughly 60 minutes of active healing plus a short talk before and after."
+      },
+      {
+        "q": "How often can I receive it?",
+        "a": "Spark of Life is given no more than once every three months. If you feel you need it sooner, talk to us first."
       }
     ],
     "bookingTitle": "Revive Your Spark",
@@ -2343,7 +2441,7 @@
     "items": [
       {
         "q": "What happens in a session?",
-        "a": "You start seated for the first part of the clearing, then stand for about 20–30 minutes while your chakras and etheric body are balanced, and finish seated for the activation of the 22 strands of DNA, followed by a short reading. There is nothing you need to prepare — you simply receive. I usually book 2 hours so there is room to talk beforehand and to settle afterwards."
+        "a": "You start seated for the first part of the clearing, then stand for about 20–30 minutes while your chakras and etheric body are balanced, and finish seated for the activation of the 22 strands of DNA, followed by a short reading. There is nothing you need to prepare — you simply receive. We usually book 2 hours so there is room to talk beforehand and to settle afterwards."
       },
       {
         "q": "What will I feel?",
@@ -2351,11 +2449,16 @@
       },
       {
         "q": "How does integration work?",
-        "a": "The activation keeps unfolding for roughly one to three months. Old emotions may surface, along with tiredness or sudden clarity. Diana checks in with you during this time."
+        "a": "The activation keeps unfolding for roughly one to three months. Old emotions may surface, along with tiredness or sudden clarity. We check in with you during this time."
       },
       {
         "q": "How often should I receive it?",
-        "a": "Most people receive the Life Activation once. There is no schedule to follow."
+        "a": "Many people receive the Life Activation once, as a first step. You can also receive it again when you feel called, with at least six weeks between sessions. If you are planning a Full Spirit Activation, it needs a Life Activation from the last six weeks to three months, so some people receive a fresh one before it."
+      },
+      {
+        "q": "What can I receive after a Life Activation?",
+        "a": "Several paths open from here. The Full Spirit Activation follows six weeks to three months later. The <link>Life Purpose Reading</link> also builds on a Life Activation. And the last two of your 24 strands, the Galactic Code and the Divinity Code, are switched on later in the Galactic Activation.",
+        "href": "/life-purpose-reading"
       },
       {
         "q": "Do I need any spiritual background?",
@@ -2369,6 +2472,10 @@
         "q": "Is the practitioner certified?",
         "a": "Yes. Only practitioners certified directly by <link>Modern Mystery School International</link> may perform it, and they re-certify every year.",
         "href": "https://modernmysteryschoolint.com/"
+      },
+      {
+        "q": "Does it replace medical or psychological care?",
+        "a": "No. The Life Activation is spiritual, energetic support that works alongside the care of your doctor or therapist, never instead of it. If anything about your health is on your mind, tell us before the session."
       }
     ]
   },
@@ -2380,7 +2487,7 @@
       },
       {
         "q": "Do I need a Life Activation first?",
-        "a": "Yes, a Life Activation within the last 90 days is required. The 90-day window comes from the tradition itself. If it has been longer, we will simply check in together on where you are before moving forward."
+        "a": "Yes. The tradition asks for a Life Activation received at least six weeks and no more than three months before your session. If it has been longer, we will simply check in together on where you are before moving forward."
       },
       {
         "q": "What will I feel?",
@@ -2391,12 +2498,16 @@
         "a": "Many people notice a settling over the following weeks — less mental noise, a steadier mood and clearer direction."
       },
       {
+        "q": "Can I receive it more than once?",
+        "a": "Yes. It can be repeated, with at least three months between sessions."
+      },
+      {
         "q": "Can it be done remotely?",
         "a": "No — the Full Spirit Activation is in person only."
       },
       {
         "q": "Is the practitioner certified?",
-        "a": "Yes. Only practitioners certified directly by Modern Mystery School International may perform it."
+        "a": "Yes. Only practitioners certified by Modern Mystery School International may give it: Certified Healers who have completed Healers Academy 2 and renew their certification every year."
       }
     ]
   },
@@ -2431,7 +2542,7 @@
     "introBody1": "We are taught to gather information, weigh every option and look for reassurance whenever we feel unsure. Yet in all that searching, it is easy to lose touch with the quiet, steady voice of your own intuition.",
     "introBody2": "Sanctuary Meditation is a guided journey inward, to a sacred and safe place where the noise of the everyday mind falls away and you can meet your Higher Self and receive guidance and answers.",
     "higherSelfHeading": "Your Higher Self",
-    "higherSelfBody": "Your Higher Self is your most trusted advisor and the one who knows you best. Getting to know it is a huge advantage for anyone intuitive, and your relationship with it becomes an amazing tool for discernment and growth.",
+    "higherSelfBody": "Your Higher Self is the wisest and most trustworthy guide you have, the part of you that knows you best. As you come to know it, trusting your intuition and telling true guidance from noise become easier, and your growth gains a steady compass.",
     "benefitsHeading": "What You'll Experience",
     "benefits": [
       {
@@ -2478,9 +2589,10 @@
     "expectHeading": "What to Expect",
     "expect": [
       "2.5 hours, in person, in Vršovice, Prague",
+      "Open to everyone: no meditation experience needed",
       "A guided meditation: we lead you through the whole journey",
       "A supportive space to listen within",
-      "A technique you can keep returning to"
+      "A simple technique you can use on your own, as often as you need"
     ],
     "faq": [
       {
@@ -2498,7 +2610,7 @@
       },
       {
         "q": "What comes after?",
-        "a": "This technique is the basis for the Journeys of the Spirit workshop, which teaches you how to receive even more insight and information through guidance."
+        "a": "This technique is the basis for Journeys of the Spirit, a full-day class of guided journeys to your sanctuary, your Higher Self, Mother Gaia, the four elements and your inner feminine and masculine, where you learn to receive even more insight through guidance."
       },
       {
         "q": "How do I join?",
@@ -2532,7 +2644,7 @@
     "heroTagline": "A one-hour guided meditation for those who already know the way",
     "introLead": "Return to the sacred and safe place where you meet your Higher Self",
     "introBody1": "The Sanctuary Meditation is a technique that takes you to a sacred and safe place where you can meet your Higher Self and receive guidance and answers. This session is a one-hour guided meditation in which we practise it together.",
-    "introBody2": "It is open to those who have already taken the full Sanctuary Meditation Class or who have attended Empower Thyself.",
+    "introBody2": "It is open to those who have already taken the full Sanctuary Meditation Class or who have attended Empower Thyself, where the Sanctuary Meditation journey is taught in two parts.",
     "whoHeading": "Who Can Join",
     "who": [
       "Graduates of the full Sanctuary Meditation Class",
@@ -2546,7 +2658,8 @@
       "A regular return to your sacred, safe place",
       "A deeper relationship with your Higher Self",
       "Guidance and answers",
-      "Confidence that the messages you receive are true, real and for your highest good"
+      "Confidence that the messages you receive are true, real and for your highest good",
+      "Regular practice that makes the technique easier to use on your own, daily or whenever you need it"
     ],
     "bookingTitle": "Reserve Your Place",
     "duration": "1 Hour",
@@ -2562,8 +2675,8 @@
     "introBody1": "Meditation can bring you peace from the chaos in your mind. Cluttered thoughts can stop you from living your best life.",
     "introBody2": "You may already be familiar with meditation, but struggle to find the time for yourself to make it part of your regular routine. Attending a session where someone else guides you into meditation can help you build your mindfulness muscle.",
     "whatHeading": "An Experiential Session",
-    "whatBody1": "Max Meditation is a guided system that blends ancient yogic technique with modern method to release stress and restore vitality.",
-    "whatBody2": "Join us for an experiential session where you learn to create the time and space for peace and balance in your life.",
+    "whatBody1": "The Max Meditation System™ was developed by Gudni Gudnason, founder of the Modern Mystery School, over four decades of travel and study with meditation teachers in India and Tibet. It blends those ancient techniques with modern psychology and NLP (Neuro-Linguistic Programming) to release stress and restore energy and vitality.",
+    "whatBody2": "Join us for an experiential session where you learn to create the time and space for peace and balance in your life. Radu and Diana are certified through Healers Academy to guide the Max Meditation System.",
     "whoHeading": "Who It Is For",
     "who": [
       "Anyone looking for more peace of mind",
@@ -2571,8 +2684,8 @@
       "Complete beginners — no experience necessary"
     ],
     "bookingTitle": "Reserve Your Place",
-    "duration": "1 Hour",
-    "bookingNote": "Dates to be announced. Reach out and we will let you know when the next Max Meditation takes place in Prague.",
+    "duration": "1.5 Hours",
+    "bookingNote": "Max Meditation takes place at our Meditation Evening in Prague every two weeks. Book your place on the Community page, or reach out with any questions.",
     "inquiry": "Hello, I would like to learn more about Max Meditation."
   },
   "HealingsWidget": {
@@ -2749,7 +2862,7 @@
       }
     ],
     "relatedHeading": "Go deeper into your purpose",
-    "relatedBody": "The Life Purpose & 11th Codon Reading reveals your divine purpose and the gifts you carry.",
+    "relatedBody": "The Life Purpose (11th Codon) Reading reveals your divine purpose and the gifts you carry.",
     "relatedCta": "Explore the Life Purpose Reading",
     "bookingTitle": "Ask Your Questions",
     "duration": "60 Minutes",
@@ -2805,7 +2918,7 @@
       },
       {
         "q": "How is it different from the Life Purpose Reading?",
-        "a": "The Life Purpose & 11th Codon Reading focuses on your divine purpose and what you can do now to fulfil it. The Chronos Reading focuses on your inborn strengths and weaknesses, and how to work with both."
+        "a": "The Life Purpose (11th Codon) Reading focuses on your divine purpose and what you can do now to fulfil it. The Chronos Reading focuses on your inborn strengths and weaknesses, and how to work with both."
       }
     ],
     "relatedHeading": "Begin with the Life Activation",

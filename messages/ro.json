@@ -363,12 +363,12 @@
   "LifeActivation": {
     "heroEyebrow": "Modern Mystery School · Linia regelui Solomon",
     "heroSubtitle": "Activează darurile înnăscute care rezidă în ADN-ul tău",
-    "heroTagline": "Eliberează 5–7 generații de traumă ancestrală și pășește spre potențialul tău cel mai înalt",
+    "heroTagline": "Trezește-ți planul divin, eliberează tiparele moștenite prin linia familiei tale și pășește spre potențialul tău cel mai înalt",
     "proceduresHeading": "Sesiunea ta, mai în detaliu",
     "proceduresLead": "Pe lângă activarea în sine, ședința include proceduri suplimentare concepute pentru a echilibra și stimula corpul în armonie cu informațiile nou activate din ADN.",
     "procedures": [
       {
-        "label": "Eliminarea blocajelor emoționale:",
+        "label": "Eliminarea capacului coroanei:",
         "text": "Concentrat pe eliminarea potențialelor blocaje emoționale din chakra coroanei, acest proces creează un flux mai bun de energie."
       },
       {
@@ -388,16 +388,16 @@
         "text": "Aceasta aduce armonie și aliniere centrelor energetice ale corpului."
       },
       {
-        "label": "Eliminarea cristalelor eterice arse din corp:",
-        "text": "Această procedură are scopul de a curăța și revitaliza corpul energetic."
+        "label": "Eliminarea cristalelor negative:",
+        "text": "Cristalele eterice arse sunt eliminate din corp, pentru a-ți curăța și revitaliza corpul energetic."
       },
       {
         "label": "Scurtă lectură din ADN-ul tău nou activat:",
         "text": "O scurtă explorare a straturilor subconștientului, oferindu-ți perspective și îndrumare."
       },
       {
-        "label": "Remediu homeopat:",
-        "text": "Un remediu homeopat creat în laboratorul de alchimie al școlii, conceput pentru a detoxifia, susține și ușura schimbările fizice și energetice asociate cu această experiență unică."
+        "label": "Purificato & Crystalis:",
+        "text": "Un set de spray-uri spagirice din laboratorul de alchimie al școlii, incluse în ședința ta și pe care le iei acasă, pentru a susține curățarea și integrarea care urmează."
       }
     ],
     "exploreHeading": "Explorează dimensiunile superioare",
@@ -414,7 +414,7 @@
     "awaken": [
       "Darurile, claritatea și puterea pe care le cauți s-ar putea să fie deja în tine, așteptând să se trezească. Life Activation este sesiunea care le trezește.",
       "Vine din linia Regelui Solomon, păstrată vie de mii de ani și transmisă astăzi de Modern Mystery School. În sesiune, 22 dintre cele 24 de spirale ale ADN-ului tău sunt activate: 11 fizice și 11 spirituale. Astfel poți primi și păstra mai multă Lumină, forța vieții care îți susține vindecarea, claritatea și creșterea.",
-      "Curăță și ce ai purtat din linia familiei tale, până la 5–7 generații în urmă, ca să poți păși în cel mai înalt potențial al tău."
+      "Curăță și ce ai purtat din linia familiei tale, ca să poți păși în cel mai înalt potențial al tău."
     ],
     "giftsHeading": "Ce îți poate aduce",
     "giftsIntro": "Fiecare om este diferit, dar acestea sunt schimbările despre care ne povestesc oamenii cel mai des.",
@@ -519,8 +519,8 @@
     "wandsAlt": "Un cerc de baghete de cristal înfășurate manual, folosite în sesiunile Life Activation",
     "nextHeading": "După {brand}",
     "nextIntro": "{brand} este un început. Când te simți pregătit(ă), aceștia sunt următorii pași pe cale.",
-    "nextFsa": "Primit după {brand}, îți trezește și îți ancorează sufletul și spiritul în corp.",
-    "nextEmpower": "Cursul de două zile și inițierea în linia Regelui Solomon, unde înveți ritualuri puternice pe care să le folosești în fiecare zi.",
+    "nextFsa": "Primit la șase săptămâni până la trei luni după ședința ta {brand}, îți trezește și îți ancorează sufletul și spiritul în corp.",
+    "nextEmpower": "Cursul de două zile și inițierea în linia Regelui Solomon, unde înveți ritualuri puternice pe care să le folosești în fiecare zi. Înainte de această inițiere este necesară o ședință {brand}, așa că a ta este deja primul pas.",
     "nextCta": "Descoperă mai mult",
     "videosEyebrow": "În propriile lor cuvinte",
     "videosHeading": "Ascultă-i pe cei care l-au primit",
@@ -534,8 +534,8 @@
     "heroSubtitle": "Inițiere în linia regelui Solomon",
     "invitation": {
       "god": "Dacă ai putea fi ca Dumnezeu — plin de iubire, armonie și putere creatoare — ai face-o?",
-      "body1": "{brand} este o inițiere de două zile într-un grup mic și apropiat, chiar aici, la Praga. Este o poartă rară: primești ritualuri puternice și instrumente sacre ca să-ți cureți și să-ți protejezi energia, să vezi tiparele care ți-au modelat viața și să te înalți deasupra lor.",
-      "body2": "Este exact aceeași inițiere transmisă de la profesor la elev, fără întrerupere, de peste 3.000 de ani, din vremea Regelui Solomon. Cheile pe care le primești sunt cheile pe care le primeau inițiații din vechime, iar ele rămân ale tale pentru tot restul vieții.",
+      "body1": "{brand} este o inițiere de două zile într-un grup mic și apropiat, chiar aici, la Praga. Este prima inițiere pe calea Modern Mystery School și o poartă rară: primești ritualuri puternice și instrumente sacre ca să-ți cureți și să-ți protejezi energia, să vezi tiparele care ți-au modelat viața și să te înalți deasupra lor.",
+      "body2": "Este exact aceeași inițiere transmisă de la profesor la elev, fără întrerupere, de peste 3.000 de ani, din vremea Regelui Solomon. Cheile pe care le primești sunt cheile pe care le primeau inițiații din vechime, iar ele rămân ale tale pentru tot restul vieții. În tradiție se spune că această inițiere aduce de zece ori mai multă Lumină în viața ta, pe care să o îndrepți spre obiectivele tale.",
       "body3": "Pleci cu o practică zilnică sacră, o minte limpede și liniștită, o conștiință profundă a propriei puteri și cunoașterea următorului tău pas.",
       "body4": "Diana și Radu vor fi alături de tine în cele 2 zile și mult timp după aceea.",
       "body6": "Aceste învățături au fost păzite ca o bijuterie prețioasă de toți cei care au parcurs această cale înaintea ta, ca astăzi să ajungă la tine.",
@@ -568,7 +568,7 @@
       "benefits": [
         "Vei învăța să simți lumea nevăzută și să lucrezi în siguranță cu ea.",
         "Vei învăța să-ți concentrezi gândurile și să le folosești ca să creezi lucruri bune în viața ta.",
-        "Vei practica ritualuri sacre și vei lua parte la o ceremonie de inițiere."
+        "Vei practica ritualuri sacre și, într-o ceremonie de încheiere, îți vei primi inițierea ca Adept în linia regelui Solomon."
       ]
     },
     "special": {
@@ -583,14 +583,17 @@
         "De unde vin aceste învățături: regele Solomon și linia",
         "Potențialul tău deplin și cum să crești în el",
         "Cum să-ți creezi acasă un spațiu sacru și de ce te ajută",
+        "Instrumente de putere: ce este un ritual și de ce funcționează",
         "O scurtă practică zilnică și o rugăciune de protecție pe care o poți folosi oriunde",
         "Dimensiunile fizice și spirituale și cum să lucrezi cu amândouă",
-        "Ființele de lumină pe care le poți chema în ajutor",
+        "Cine sau ce este Dumnezeu și Ierarhia Luminii: îngerii și arhanghelii pe care îi poți chema în ajutor",
         "Meditația și cum undele cerebrale îți schimbă starea de spirit",
+        "Călătoria Sanctuary Meditation, în două părți: găsirea sanctuarului tău interior și întâlnirea cu Sinele tău Superior",
         "Ego-ul tău: când te ajută și când te ține pe loc",
         "Tiparele și ciclurile prin care trecem cu toții și cum să ieși din ele",
         "Corpul tău energetic și cum să-l cureți și să-l protejezi",
-        "Kabbala universală și Arborele Vieții"
+        "Chi, Ki și Hara: cum să-ți crești și să-ți direcționezi propria forță vitală",
+        "Universal Hermetic Ray Kabbalah și Arborele Vieții"
       ],
       "closing": "Fiecare parte vine cu exerciții practice și ritualuri pe care le poți folosi imediat, toate din linia regelui Solomon."
     },
@@ -602,7 +605,7 @@
           "sub": "Suntem aici să te sprijinim cu claritate și îndrumare, la fiecare pas."
         },
         {
-          "main": "Primește o ședință Life Activation de la unul dintre practicienii noștri certificați."
+          "main": "Primește-ți Life Activation, pe care Modern Mystery School o cere fiecărui student înainte de inițiere. Este inclusă în rezervarea ta și oferită de unul dintre practicienii noștri certificați."
         },
         {
           "main": "Achită un avans sau suma integrală pentru a-ți rezerva locul."
@@ -617,7 +620,7 @@
     },
     "recommendations": {
       "heading": "După curs",
-      "body1": "<bold>{brand}</bold> nu este sfârșitul a ceva. Este începutul unei călătorii și al unei legături de durată.",
+      "body1": "<bold>{brand}</bold> nu este sfârșitul a ceva. Este începutul unei călătorii și al unei legături de durată. Ca inițiat(ă) Adept poți merge mai departe la Healers Academy, a doua inițiere de pe cale, și mai târziu la programe mai profunde, precum Kabbalah Ascension Program.",
       "body2": "Vei avea un loc sigur la care să te întorci oricând ai nevoie de claritate, sprijin sau îndrumare.",
       "body3": "Suntem alături de tine nu doar în cele două zile, ci și ani la rând după aceea: cu întrebări despre folosirea instrumentelor, în perioade de schimbare sau când te simți pregătit(ă) pentru următorul pas.",
       "body4": "Este o relație care se construiește în timp, cu încredere, respect și dorința sinceră de a te vedea crescând."
@@ -642,8 +645,8 @@
     "introBody2": "În timp ce Life Activation te conectează la planul tău original și la Sinele Superior, Full Spirit Activation acționează ca un portal către adevărata ta esență — trezind și ancorând sufletul și spiritul în corpul fizic, creând o punte puternică între experiența divină și cea umană.",
     "bookNow": "Rezervă acum",
     "soulHeading": "O practică ce acționează la nivelul sufletului",
-    "soulBody1": "Similar cu Life Activation, care acționează la nivel fizic, Full Spirit Activation operează la nivelul sufletului — deschizând porțile către dimensiuni superioare ale conștiinței și ființei. Acționează profund în diferite zone ale creierului și le reconectează la puncte specifice din corpul fizic, care sunt apoi legate de corpurile energetice subtile, amplificând fluxul de energie spirituală prin întregul tău sistem.",
-    "soulBody2": "Într-un sens mai tangibil, deblochează canalele conștiinței din corp, revitalizând sistemele nervos și senzorial. Acest lucru ne permite să ne conectăm mai profund la senzațiile noastre fizice — libere de blocajele emoționale și mentale care ne-ar fi putut limita în trecut — umplându-ne de o vitalitate radiantă și o bucurie copleșitoare pentru viață.",
+    "soulBody1": "Acolo unde Life Activation îți întărește legătura cu Sinele Superior, Full Spirit Activation îți adâncește legătura cu sufletul — deschizând porțile către dimensiuni superioare ale conștiinței și ființei. Acționează profund în diferite zone ale creierului și le reconectează la puncte specifice din corpul fizic, care sunt apoi legate de corpurile energetice subtile, amplificând fluxul de energie spirituală prin întregul tău sistem.",
+    "soulBody2": "Într-un sens mai tangibil, deblochează canalele conștiinței din corp, înviorându-ți simțurile și legătura simțită cu propriul corp. Acest lucru ne permite să ne conectăm mai profund la senzațiile noastre fizice — libere de blocajele emoționale și mentale care ne-ar fi putut limita în trecut — umplându-ne de o vitalitate radiantă și o bucurie copleșitoare pentru viață.",
     "quote": {
       "text": "Ești menit să exprimi",
       "emphasis": "frumusețea și binele",
@@ -660,41 +663,41 @@
     "procedures": [
       { "label": "Trezirea chakrelor:", "text": "Trezirea și armonizarea centrelor energetice ale corpului." },
       { "label": "Trezirea Arborelui Vieții:", "text": "Alinierea ta cu harta vie a creației dinăuntru." },
-      { "label": "Purificado & Crystalis:", "text": "Un remediu homeopat magic creat pentru a susține procesul și o detoxifiere blândă." }
+      { "label": "Purificato & Crystalis:", "text": "Un set de spray-uri energetice spagirice, incluse în ședința ta, pentru a susține procesul și o detoxifiere blândă." }
     ],
-    "proceduresClosing": "După o ședință atât de intensă, este recomandat să îți acorzi timp pentru a integra complet transformările. Pentru a maximiza beneficiile, finalizează mai întâi Life Activation — ideal cu trei săptămâni până la trei luni înainte.",
+    "proceduresClosing": "După o ședință atât de intensă, este recomandat să îți acorzi timp pentru a integra complet transformările. Pentru a maximiza beneficiile, finalizează mai întâi Life Activation — cu cel puțin șase săptămâni și cel mult trei luni înainte.",
     "bookingTitle": "Descoperă-ți potențialul de a fi o ființă divină",
     "duration": "2 ore",
     "inquiry": "Bună, aș dori să aflu mai multe despre {brand}."
   },
   "HealersAcademy": {
     "heroEyebrow": "Al doilea nivel de inițiere",
-    "heroSubtitle": "Devino un vindecător certificat în linia regelui Solomon",
+    "heroSubtitle": "Pregătește-te ca practician certificat în linia regelui Solomon",
     "heroTagline": "Pășește pe deplin într-o viață de slujire și lumină",
     "introLead": "Un program intensiv și o inițiere — deschis absolvenților {brand}",
     "introBody1": "{brand} este al doilea nivel de inițiere pe Cale. După ce Empower Thyself îți trezește propria putere, Healers Academy îndreaptă acea putere spre exterior — pregătindu-te să deții un spațiu sacru și să aduci vindecare adevărată altora. Este pragul la care un student al misterelor devine practicant al lor.",
-    "introBody2": "Pe parcursul unui program intensiv de studiu și practică, ești inițiat și certificat să oferi modalitățile fundamentale ale Modern Mystery School — aceeași lucrare care ți-a schimbat propria viață, acum pusă în mâinile tale pentru a o dărui.",
+    "introBody2": "Healers Academy 1 înseamnă cinci zile intensive de studiu, practică și inițiere. Absolvi ca Practician Certificat de Life Activation, capabil să oferi Life Activation, Vindecarea Aurică și Max Meditation System™ — aceeași lucrare care ți-a schimbat propria viață, acum pusă în mâinile tale pentru a o dărui.",
     "applyNow": "Aplică acum",
     "learnHeading": "Ce vei învăța",
     "learn": [
       { "label": "Să efectuezi Life Activation:", "text": "Învață să oferi altora Life Activation completă, pentru toate cele 22 de fire de ADN." },
-      { "label": "Să conduci grupuri Max Meditation™:", "text": "Ghidează meditația de grup emblematică, care deschide această cale pentru atât de mulți oameni." },
+      { "label": "Să ghidezi Max Meditation System™:", "text": "Ghidează meditația de grup emblematică, care deschide această cale pentru atât de mulți oameni." },
       { "label": "Să citești și să vindeci aura:", "text": "Învață să găsești și să umpli găurile din aura unei persoane, restabilind întregimea și protecția." },
-      { "label": "Să-ți întărești corpul de lumină:", "text": "Hrănește și îngrijește-ți propriul corp de lumină pentru ca acesta să poată susține de până la o sută de ori mai multă putere." },
+      { "label": "Să-ți întărești corpul de lumină:", "text": "Întărește-ți și îngrijește-ți propriul corp de lumină, ca să poți susține și purta mai multă Lumină." },
       { "label": "Ceremonie sacră și etică:", "text": "Deține spațiul cu integritate, discernământ și responsabilitatea unui adevărat vindecător." }
     ],
     "quote": {
       "text": "Cunoaște-te pe tine însuți și vei cunoaște",
       "emphasis": "universul și zeii",
-      "attribution": "Inscripționat la Templul lui Apollo · Delfi",
+      "attribution": "După maxima inscripționată la Templul lui Apollo · Delfi",
       "caption": "Ascensiunea celor binecuvântați · H. Bosch, cca. 1505"
     },
     "whoHeading": "Pentru cine este",
-    "whoBody1": "{brand} este pentru cei care au simțit chemarea de a sluji — cei care, după ce au trecut prin propria inițiere, doresc să ducă lumina mai departe. Nu este necesară nicio experiență anterioară în vindecare, doar sinceritate, o inițiere Empower Thyself finalizată și disponibilitatea de a te angaja pentru propria creștere continuă.",
-    "whoBody2": "Absolvenții se alătură unei comunități mondiale de vindecători certificați și sunt eligibili să continue spre calea Ritual Master și învățăturile mai profunde ale școlii.",
+    "whoBody1": "{brand} este pentru cei care au simțit chemarea de a sluji — cei care, după ce au trecut prin propria inițiere, doresc să ducă lumina mai departe. Nu este necesară nicio experiență anterioară în vindecare, doar sinceritate, o inițiere Empower Thyself finalizată și disponibilitatea de a te angaja pentru propria creștere continuă. Modern Mystery School International menționează, de asemenea, ca pregătire o Life Activation și patru cursuri de bază (Sacred Geometry 1, Călătorie astrală, Journeys of the Spirit și 12 Beings of this World), așa că întreabă-ne care dintre ele se aplică pentru următoarea Academie.",
+    "whoBody2": "Absolvenții se alătură unei comunități mondiale de practicieni certificați și își reînnoiesc certificarea în fiecare an. De aici poți continua cu Healers Academy 2, șase zile în care înveți încă aproximativ zece modalități de vindecare, printre care Full Spirit Activation, Trezirea chakrelor, Trezirea Arborelui Vieții și Curățarea șamanică a aurei, și devii Vindecător Certificat. Practicienii Certificați de Life Activation pot aplica și pentru calea Ritual Master și învățăturile mai profunde ale școlii.",
     "bookingTitle": "Răspunde chemării de a sluji",
     "duration": "Program intensiv și inițiere",
-    "bookingNote": "Healers Academy este un program intensiv de 5 zile.",
+    "bookingNote": "Healers Academy 1 este un program intensiv de cinci zile; Healers Academy 2 urmează ca program intensiv de șase zile.",
     "inquiry": "Bună, aș dori să aflu mai multe despre {brand}."
   },
   "RitualMaster": {
@@ -708,7 +711,7 @@
     "masteryHeading": "Adevărata măiestrie asupra Sinelui",
     "masteryBody1a": "O învățătură hermetică renumită, Legea Corespondenței, spune:",
     "masteryBody1Quote": "„Ca înăuntru, așa și în afară. Ca în afară, așa și înăuntru. Ca sus, așa și jos. Ca jos, așa și sus.”",
-    "masteryBody1b": "Programul {brand} te ajută să obții controlul asupra lumii tale interioare și apoi să faci schimbările care creează rezultate în lumea exterioară.",
+    "masteryBody1b": "Programul {brand} te ajută să obții controlul asupra lumii tale interioare și apoi să faci schimbările care creează rezultate în lumea exterioară. Pe parcursul căii studiezi ritualul sacru, magia ceremonială și învățăturile hermetice, istoria, știința și folosirea lor practică, și înveți să-i slujești pe alții prin lucrări precum curățarea și binecuvântarea spațiilor, protecția și purificarea prin Lumină.",
     "masteryBody2a": "Timp de secole, aceste principii au constituit studiul maestrului magician, care învață să-și concentreze și să-și disciplineze voința și să o îndrepte spre împlinirea nevoilor și dorințelor sale. Calea combină",
     "masteryBody2Emphasis": "voința, iubirea și discernământul",
     "masteryBody2b": "— pentru ca tu să poți crea lucruri bune și să fii o sursă de Lumină pentru tine și pentru cei din jurul tău.",
@@ -719,14 +722,14 @@
       "caption": "Regina din Saba în fața Templului lui Solomon · S. de Bray, 1657"
     },
     "readyHeading": "Ești pregătit să acționezi?",
-    "readyBody": "Acestea sunt etapele de urmat pentru a te pregăti alături de Ritual Masters. Calea este solicitantă și se parcurge în ordine — fiecare pas te pregătește pentru următorul.",
+    "readyBody": "Acestea sunt etapele de urmat pentru a te pregăti alături de Ritual Masters. Calea este solicitantă și se parcurge în ordine — fiecare pas te pregătește pentru următorul. Calea Ritual Master în sine se desfășoară în patru pași, cu trei inițieri: Ritual Master Novice, Ritual Master Apprentice, Apprentice of Practical Magick și Magus Hermeticus. Parcurgerea ei până la capăt durează de obicei între doi și șapte ani, iar la fiecare nivel alegi liber dacă aplici pentru următorul.",
     "steps": [
       { "label": "1 · Empower Thyself:", "text": "Prima inițiere — trezește-ți puterea și scopul tău divin." },
-      { "label": "2 · Healers Academy:", "text": "A doua inițiere — învață să vindeci și să-i slujești pe alții." },
-      { "label": "3 · Aplică și fii acceptat:", "text": "Aplică și fii acceptat de un profesor Ritual Master." },
-      { "label": "4 · Ritual Master Novice:", "text": "Înscrie-te la cursul Ritual Master Novice la unul dintre centrele internaționale ale Modern Mystery School." }
+      { "label": "2 · Healers Academy:", "text": "A doua inițiere — învață să vindeci și să-i slujești pe alții, iar la final devii Practician Certificat de Life Activation." },
+      { "label": "3 · Aplică și fii acceptat:", "text": "Trimite-ți aplicația, pe care o analizează un profesor Ritual Master. Odată acceptat(ă), semnezi un acord de consimțământ informat pentru calea pe care ai ales-o." },
+      { "label": "4 · Ritual Master Novice:", "text": "Începe cu cursul Ritual Master Novice și cu cursurile care îl însoțesc, la unul dintre centrele internaționale ale Modern Mystery School." }
     ],
-    "readyClosing": "Aceste învățături sunt esențiale pentru oricine dorește cu adevărat să schimbe ceva în viața sa și este dedicat transformării sale — asumându-și responsabilitatea pentru munca sa interioară și acționând pentru a crea o versiune mai pură, mai autentică și mai liberă a Sinelui său.",
+    "readyClosing": "Aceste învățături sunt esențiale pentru oricine dorește cu adevărat să schimbe ceva în viața sa și este dedicat transformării sale — asumându-și responsabilitatea pentru munca sa interioară și acționând pentru a crea o versiune mai pură, mai autentică și mai liberă a Sinelui său. Pe parcurs îți menții la zi certificarea de practician, practici ritualurile și rugăciunile pe care le primești, faci lecturile obligatorii și participi la cursuri precum Enochian Magick și Warriors of Light. Poți rămâne la un nivel cât timp ai nevoie și poți cere să fii eliberat(ă) de pe cale fără nicio penalizare.",
     "bookingTitle": "Începe-ți măiestria",
     "bookingNote": "Calea Ritual Master începe cu Empower Thyself și Healers Academy. Contactează-ne și te vom ajuta să stabilești următorul pas potrivit pentru tine.",
     "inquiry": "Bună, aș dori să aflu mai multe despre programul {brand}."
@@ -789,7 +792,7 @@
         "title": "Lecturi și îndrumare",
         "blurb": "Perspectivă asupra scopului tău, a sufletului tău și a căii tale.",
         "items": [
-          { "name": "Lectura Scopului Vieții și a celui de-al 11-lea Codon", "description": "O lectură a scopului tău divin și a darurilor pe care le porți, însoțită de activarea firelor de ADN 11 și 12, dincolo de Life Activation." },
+          { "name": "Lectura Scopului Vieții (al 11-lea Codon)", "description": "O lectură a scopului tău divin, a liniei sufletului tău și a darurilor pe care le porți, cunoscută și ca Lectura celui de-al 11-lea Codon. Urmează după o Life Activation." },
           { "name": "Lectură intuitivă cu cristal", "description": "O lectură cu un cristal, care deschide accesul la înțelepciunea Sinelui tău Superior și a călăuzelor." },
           { "name": "Lectura Chronos", "description": "Îndrumare de la Chronos despre darurile cu care te-ai născut și despre ariile vieții în care ai pornit cu un dezavantaj." }
         ]
@@ -843,20 +846,20 @@
     "inquiry": "Bună, aș dori să aflu mai multe despre vindecările speciale."
   },
   "AuraHealing": {
-    "heroEyebrow": "O vindecare a Școlii Misterelor",
+    "heroEyebrow": "O vindecare egipteană străveche",
     "heroTitle": "Vindecare Aurică {brand}",
     "heroSubtitle": "Restabilește și protejează-ți câmpul energetic",
     "heroTagline": "Curăță, echilibrează și sigilează cele șapte straturi ale aurei",
-    "introLead": "Vindecare care acționează prin geometria luminii",
-    "introBody1": "Aura ta este câmpul energetic care te înconjoară și te protejează — iar în timp poate fi epuizată, sfâșiată sau întunecată de stres, durere și cerințele vieții de zi cu zi. Vindecarea Aurică {brand} folosește tiparele ordonate ale creației pentru a repara acest câmp, restabilindu-i forța, claritatea și protecția naturală.",
-    "introBody2": "Acționând pe cele șapte straturi ale aurei, această ședință blândă eliberează ceea ce nu-ți mai servește, echilibrează energiile corpului și minții și restabilește un câmp curat, întreg și radiant în jurul tău.",
+    "introLead": "O vindecare egipteană străveche pentru cele șapte straturi ale aurei tale",
+    "introBody1": "Aura ta este câmpul energetic care te înconjoară și te protejează — iar în timp poate fi epuizată, sfâșiată sau întunecată de stres, durere și cerințele vieții de zi cu zi. Vindecarea Aurică {brand}, cunoscută în Mystery School drept Vindecarea egipteană a aurei și predată în al treilea nivel al seriei {brand}, îmbină o metodă egipteană străveche cu tiparele ordonate ale creației pentru a repara acest câmp, restabilindu-i forța, claritatea și protecția naturală.",
+    "introBody2": "Acționând pe cele șapte straturi ale aurei, această ședință blândă eliberează ceea ce nu-ți mai servește, reechilibrează corpurile tale fizic, emoțional, sufletesc și astral și restabilește un câmp curat, întreg și radiant în jurul tău.",
     "bookSession": "Rezervă o ședință",
     "benefitsHeading": "Beneficiile",
     "benefits": [
       { "label": "Reparare și sigilare:", "text": "Repară rupturile și umple golurile din aură, astfel încât energia ta să nu mai scape." },
       { "label": "Echilibrarea celor șapte straturi:", "text": "Armonizează fiecare nivel al câmpului auric cu geometria luminii." },
       { "label": "Eliberare și alinare:", "text": "Curăță energiile stagnante și străine, lăsându-te calm și limpede." },
-      { "label": "Protecție și vitalitate:", "text": "Restabilește un câmp puternic și întreg, care îți susține starea de bine zi de zi." }
+      { "label": "Vitalitate și manifestare:", "text": "O aură puternică și întreagă îți dă energia de a trăi din plin și de a da formă intențiilor tale." }
     ],
     "bookingTitle": "Restabilește-ți lumina",
     "duration": "2 ore",
@@ -865,23 +868,23 @@
   },
   "LifePurposeReading": {
     "heroEyebrow": "O lectură a Școlii Misterelor",
-    "heroTitle": "Lectura Scopului Vieții și a celui de-al 11-lea Codon",
-    "heroSubtitle": "Descoperă-ți scopul și activează codonii care îl poartă",
-    "heroTagline": "O lectură a planului sufletului tău și a firelor de ADN care îl codifică",
+    "heroTitle": "Lectura Scopului Vieții (al 11-lea Codon)",
+    "heroSubtitle": "Descoperă-ți scopul și darurile pe care ai venit să le împărtășești",
+    "heroTagline": "O lectură a planului sufletului tău, păstrat în ADN-ul tău spiritual",
     "introLead": "Scopul tău nu a fost niciodată ascuns — doar aștepta să fie citit",
-    "introBody1": "Această ședință combină două lecturi într-una singură. Mai întâi, o Lectură a Scopului Vieții — în care câmpul tău energetic este citit pentru a identifica scopul tău divin, darurile pe care le porți și direcția spre care te cheamă calea ta. Apoi, Lectura celui de-al 11-lea Codon — care activează firele de ADN spirituale și fizice 11 și 12, dincolo de ceea ce deschide Life Activation, ancorând acest scop mai profund în corpul tău.",
-    "introBody2": "Împreună, îți oferă atât harta, cât și combustibilul: claritate despre încotro te îndrepți și o activare care îți ajută corpul să te ducă acolo.",
+    "introBody1": "În Modern Mystery School, Lectura Scopului Vieții și Lectura celui de-al 11-lea Codon sunt unul și același lucru. ADN-ul tău spiritual poartă o înregistrare a ceea ce ești ca suflet: linia din care vii, ceea ce ai adunat de-a lungul multor vieți și scopul pe care l-ai ales pentru viața aceasta. În această lectură, acea înregistrare este deschisă prin al 11-lea codon, aducând la lumină scopul tău divin, darurile pe care le porți și direcția spre care te cheamă calea ta.",
+    "introBody2": "Lectura se sprijină pe Life Activation: aceasta îți pregătește energia să primească și să păstreze ceea ce vine, de aceea este nevoie mai întâi de o Life Activation. Pleci cu claritate despre încotro te îndrepți și despre darurile care te vor duce acolo.",
     "benefitsHeading": "Ce câștigi",
     "benefits": [
       { "label": "Claritate asupra scopului tău:", "text": "Înțelege scopul divin pentru care ai venit aici, într-un limbaj simplu și practic." },
       { "label": "Darurile tale unice, numite:", "text": "Recunoaște darurile și punctele forte specifice codificate în tine, adesea ascunse la vedere." },
-      { "label": "Activare mai profundă a ADN-ului:", "text": "Activează firele 11 și 12, extinzând lucrarea începută la Life Activation." },
+      { "label": "Povestea sufletului tău:", "text": "Înțelege-ți linia spirituală și experiențele pe care le poartă sufletul tău și de ce scopul tău arată așa cum arată." },
       { "label": "Un pas următor mai clar:", "text": "Pleci cu un sens concret al direcției, nu doar cu inspirație." }
     ],
     "bookingTitle": "Citește-ți scopul",
     "duration": "60–90 de minute",
-    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
-    "inquiry": "Bună, aș dori să aflu mai multe despre Lectura Scopului Vieții și a celui de-al 11-lea Codon."
+    "bookingNote": "Individual, în persoană la Praga (Vršovice), pentru cei care au primit o Life Activation. Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail. Dacă este mai mult de primit decât permite o singură ședință, lectura poate continua aproximativ o lună mai târziu.",
+    "inquiry": "Bună, aș dori să aflu mai multe despre Lectura Scopului Vieții (al 11-lea Codon)."
   },
   "SacredGeometryPage": {
     "heroEyebrow": "Un atelier de o jumătate de zi la Praga",
@@ -889,7 +892,7 @@
     "heroTagline": "Cele trei chei ale Cerului: formele din care este construit totul și cum să le folosești în viața de zi cu zi",
     "introLead": "Spațiile în care trăiești influențează cum te simți",
     "introBody1": "Probabil ai simțit asta: unele camere te fac calm(ă) și limpede, altele te lasă obosit(ă) sau tensionat(ă). Un spațiu păstrează energia oamenilor și a momentelor pe care le-a văzut, iar această energie te influențează. Geometria sacră îți oferă o cale simplă de a o schimba.",
-    "introBody2": "Acest atelier este pentru oricine vrea folosirea reală, practică a geometriei sacre, nu doar teoria. În 4,5 ore, într-un grup mic, înveți cele trei forme primare, cum să cureți energia negativă din tine și dintr-o cameră și cum să creezi un spațiu sacru: un loc calm și protejat acasă, la muncă sau oriunde mergi. Este aceeași geometrie care i-a inspirat pe Pitagora, Leonardo da Vinci și Tesla.",
+    "introBody2": "Acest atelier este pentru oricine vrea folosirea reală, practică a geometriei sacre, nu doar teoria. În 4,5 ore, într-un grup mic, înveți cele trei forme primare, cum să cureți energia negativă din tine și dintr-o cameră și cum să creezi un spațiu sacru: un loc calm și protejat acasă, la muncă sau oriunde mergi. Este aceeași geometrie care i-a inspirat pe Pitagora, Platon și Leonardo da Vinci.",
     "reserveYourPlace": "Rezervă-ți locul",
     "learnHeading": "Ce vei descoperi",
     "benefits": [
@@ -916,7 +919,7 @@
     ],
     "bookingTitle": "Creează-ți spațiul sacru",
     "duration": "4,5 ore",
-    "bookingNote": "Grupuri mici, în persoană la Praga. Scrie-ne pentru următoarea dată.",
+    "bookingNote": "Grupuri mici, în persoană, în Vršovice, Praga. Alege una dintre datele de mai sus sau scrie-ne dacă niciuna nu ți se potrivește.",
     "inquiry": "Bună, aș dori să aflu mai multe despre atelierul {brand}.",
     "whyHeading": "De ce să creezi un spațiu sacru?",
     "why": [
@@ -924,11 +927,12 @@
       "Greutatea lăsată de certuri, stres sau zile aglomerate nu mai rămâne",
       "Meditația, rugăciunea și concentrarea vin mai ușor",
       "Te simți protejat(ă), chiar și în locuri aglomerate sau dificile",
-      "Este temelia oricărei alte practici de pe cale"
+      "Este temelia întregii serii Sacred Geometry și un prim pas spre pregătiri mai profunde, precum Healers Academy"
     ],
     "expectHeading": "La ce să te aștepți",
     "expect": [
       "4,5 ore într-un grup mic și prietenos, în persoană la Praga",
+      "Predat de Diana și Radu, amândoi certificați de Modern Mystery School să predea Sacred Geometry I",
       "Explicații clare și multă practică: încerci totul tu însuți (însăți)",
       "O acordare la cele trei forme primare în timpul atelierului",
       "Instrumente pe care le poți folosi chiar din aceeași seară",
@@ -945,7 +949,7 @@
     "faq": [
       {
         "q": "Este acest atelier pentru începători?",
-        "a": "Da. Este gândit ca un prim pas: totul este explicat clar și exersăm împreună fiecare instrument până devine firesc."
+        "a": "Da. Este gândit ca un prim pas: totul este explicat clar și exersăm împreună fiecare instrument până devine firesc. Nu există condiții prealabile: este deschis tuturor."
       },
       {
         "q": "Ce să aduc?",
@@ -957,7 +961,7 @@
       },
       {
         "q": "Ce urmează după Sacred Geometry I?",
-        "a": "Când ești pregătit(ă), <link>Sacred Geometry II: vindecarea cu cristale și protecția spațiului</link> continuă ce înveți aici, iar seria merge mai departe cu Sacred Geometry III și IV.",
+        "a": "Când ești pregătit(ă), <link>Sacred Geometry II: Magia cristalelor</link> continuă ce înveți aici. Seria merge mai departe cu Sacred Geometry III și IV, iar nivelurile următoare, până la VIII, se predau în alte centre Modern Mystery School. Sacred Geometry I este, de asemenea, unul dintre cursurile pe care Modern Mystery School International le menționează ca pregătire pentru Healers Academy.",
         "href": "/sacred-geometry-2"
       }
     ],
@@ -997,21 +1001,23 @@
   },
   "SacredGeometry2Page": {
     "heroEyebrow": "Seria Sacred Geometry · Nivelul II",
-    "heroSubtitle": "Vindecare cu cristale și protecția spațiului",
+    "heroSubtitle": "Magia cristalelor: vindecare, lectură și grilaje",
     "heroTagline": "Metode simple și străvechi de vindecare cu cristale — pentru tine și pentru cei pe care îi slujești.",
     "introLead": "Următorul pas în seria Sacred Geometry",
     "introBody1": "Sacred Geometry II transmite metode frumoase, dar simple, de vindecare cu cristale și protecție a spațiului, folosind configurații de cristale cu care poți lucra asupra ta sau în slujba clienților. Acolo unde Sacred Geometry I introduce cele trei geometrii de bază și modul de a proteja un spațiu, acest nivel merge mai adânc în structurile cristaline care poartă și direcționează acea energie.",
-    "introBody2": "Aceasta este o clasă avansată Modern Mystery School — condiția este <strong>Sacred Geometry I</strong>. Dacă ai finalizat Sacred Geometry I și conduci deja o practică de vindecare, acestea sunt instrumentele care o duc mai departe.",
+    "introBody2": "Condiția este <strong>Sacred Geometry I</strong>, iar unele centre cer și o Life Activation. Aceste instrumente sunt la fel de mult pentru propria ta viață, casă și familie ca și pentru clienți: dacă oferi deja vindecări, ele îți completează practica, iar dacă nu, poți începe imediat să le folosești asupra ta.",
     "askLabel": "Întreabă despre Sacred Geometry II",
     "learnHeading": "Ce vei învăța",
     "benefits": [
-      { "label": "Vindecare cu pietre prețioase:", "text": "Lucrează cu frecvența unor pietre prețioase anume pentru a-ți acorda câmpul energetic pentru vindecare fizică, emoțională și mentală — inclusiv o mai mare împuternicire și o relație mai bună cu timpul și spațiul." },
+      { "label": "Vindecare cu pietre prețioase:", "text": "Învață să alegi, să așezi și să activezi pietre prețioase și să lucrezi cu frecvența fiecărei pietre pentru a acorda câmpul energetic pentru vindecare fizică, emoțională și mentală, inclusiv o mai mare împuternicire și o relație mai bună cu timpul și spațiul." },
       { "label": "Ritualuri cu cristale:", "text": "O practică în pereche, folosind cristale-gemene și o mantră străveche, pentru a elibera și a trece prin traume emoționale și pentru a atrage energie pozitivă pentru ce urmează." },
-      { "label": "Grilaje de cristale:", "text": "Configurații structurate de cristale folosite pentru a aduce protecție, sfințenie și abundență într-o casă, o cameră de vindecare sau un spațiu de lucru." }
+      { "label": "Grilaje de cristale:", "text": "Patru sisteme de grilaje de cristale, așezate în modele de geometrie sacră, pentru a proteja o casă, o cameră de vindecare sau un spațiu de lucru, a-i ridica vibrația și a invita lumina divină, întregimea și abundența." },
+      { "label": "Lectura cu cristale:", "text": "O metodă intuitivă de lectură cu o pereche de cristale-gemene crescute în același grup de cristale, pentru a-i ajuta pe clienți să-și exploreze întrebările cu claritate." },
+      { "label": "Visarea cu cristale și îngrijirea lor:", "text": "Tehnici de visare cu cristale pentru mai multă claritate și cum să îngrijești cristalele din viața ta." }
     ],
     "bookingTitle": "Sacred Geometry II la Praga",
     "duration": "Atelier de o zi întreagă",
-    "bookingNote": "În curând la Praga — Sacred Geometry II nu este încă programată aici, dar este următoarea în linie pe măsură ce seria Sacred Geometry crește local. Ia legătura cu Radu pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
+    "bookingNote": "În curând la Praga — Sacred Geometry II nu este încă programată aici, dar este următoarea în linie pe măsură ce seria Sacred Geometry crește local. Ia legătura cu Radu și Diana pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Sacred Geometry II."
   },
   "SacredGeometry3Page": {
@@ -1020,17 +1026,17 @@
     "heroTagline": "O metodă străveche pentru restabilirea întregimii câmpului energetic uman.",
     "introLead": "Vindecarea celor șapte straturi ale aurei",
     "introBody1": "Sacred Geometry III trece la lucrul direct cu aura umană — alcătuită din șapte straturi care oferă energia necesară pentru vitalitate și manifestare. Această modalitate unică de vindecare invocă puterea zeilor și zeițelor egiptene antice și cunoașterea lor asupra dimensiunilor și proporțiilor corpului uman fizic și energetic.",
-    "introBody2": "Condițiile sunt inițierea <strong>Empower Thyself</strong> și <strong>Sacred Geometry I & II</strong>. Este o practică pe care o poți folosi atât pentru propria vindecare, cât și în slujba altora.",
+    "introBody2": "Condițiile sunt inițierea <strong>Empower Thyself</strong> și <strong>Sacred Geometry I & II</strong>. Este o practică pe care o poți folosi atât pentru propria vindecare, cât și în slujba altora. Poți primi această vindecare și ca ședință la Praga: vezi <link>Vindecarea Aurică</link>.",
     "askLabel": "Întreabă despre Sacred Geometry III",
     "learnHeading": "Ce vei învăța",
     "benefits": [
       { "label": "Vindecarea egipteană a aurei:", "text": "O metodă de vindecare egipteană străveche care invocă înțelepciunea zeilor și zeițelor și înțelegerea lor asupra corpului fizic și energetic." },
       { "label": "Cele șapte straturi ale aurei:", "text": "Învață să recunoști și să lucrezi cu fiecare dintre cele șapte straturi care alcătuiesc aura umană — câmpul care oferă vitalitate și capacitatea de a manifesta." },
-      { "label": "Restabilirea structurii aurei:", "text": "Restabilește echilibrul și fluxul corect în cele șapte straturi ale aurei, redându-i structura corectă." }
+      { "label": "Pe ce acționează vindecarea:", "text": "Repararea găurilor din aură, întărirea energiei ei pentru mai multă vitalitate și protecție și reechilibrarea corpurilor fizic, emoțional, sufletesc și astral." }
     ],
     "bookingTitle": "Sacred Geometry III la Praga",
     "duration": "Atelier",
-    "bookingNote": "În curând la Praga — Sacred Geometry III nu este încă programată aici, dar face parte din direcția în care se îndreaptă local seria Sacred Geometry. Ia legătura cu Radu pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
+    "bookingNote": "În curând la Praga — Sacred Geometry III nu este încă programată aici, dar face parte din direcția în care se îndreaptă local seria Sacred Geometry. Ia legătura cu Radu și Diana pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Sacred Geometry III."
   },
   "SacredGeometry4Page": {
@@ -1040,17 +1046,17 @@
     "introLead": "Cel mai avansat nivel Sacred Geometry predat aici",
     "introBody1": "Sacred Geometry IV dezvăluie secretele spațiilor sacre și te împuternicește să le creezi tu însuți. Prin învățăturile Sacred Geometry, înveți să faci puntea dintre spiritual și fizic, activând case și spații de lucru ca sanctuare sfinte — și, trăind și lucrând în interiorul acestor temple, să întărești practic fiecare aspect al vieții tale.",
     "introBody2": "Acest nivel este rezervat inițiaților Modern Mystery School. Condițiile sunt să fii <strong>Certified Life Activation Practitioner</strong> și să fi finalizat <strong>Sacred Geometry I–III</strong>.",
-    "introBody3": "Sacred Geometry IV este cel mai avansat nivel oferit aici, la Praga — dar nu este sfârșitul drumului. Studenții care doresc să meargă mai departe își pot continua pregătirea în Sacred Geometry direct la sediul central al Modern Mystery School.",
+    "introBody3": "Sacred Geometry IV este cel mai avansat nivel oferit aici, la Praga, dar seria continuă până la Nivelul VIII. Nivelurile următoare includ Infuzia Focului Sufletului (V), Infuzia Voinței de Bază (VI) și Tubul de Lumină al Arhanghelului Mihail (VII), predate de profesori certificați pentru fiecare nivel la Toronto, Londra și în alte centre. Te ajutăm cu drag să-ți găsești următorul curs.",
     "askLabel": "Întreabă despre Sacred Geometry IV",
     "learnHeading": "Ce vei învăța",
     "benefits": [
-      { "label": "Temple vii:", "text": "Trei metode de protecție a spațiului folosite pentru a transforma o casă sau un spațiu de lucru într-un adevărat sanctuar — un spațiu care păstrează și amplifică activ o vibrație superioară." },
-      { "label": "O viață de zi cu zi întărită:", "text": "Un spațiu activat astfel este descris ca întărind practic fiecare aspect al vieții celor care trăiesc și lucrează în el." },
+      { "label": "Temple vii:", "text": "Trei moduri noi de a proteja și sigila spațiul, diferite de templul sfânt din Sacred Geometry I, folosite pentru a transforma o casă sau un spațiu de lucru într-un adevărat sanctuar — un spațiu care păstrează și amplifică activ o vibrație superioară." },
+      { "label": "Un templu pentru slujirea superioară:", "text": "Pregătește un spațiu-templu pentru slujirea superioară, cum ar fi predarea cursurilor, păstrându-ți în același timp casa un sanctuar protejat, cu o vibrație înaltă." },
       { "label": "O punte între lumi:", "text": "Metodele funcționează făcând puntea dintre spiritual și fizic, ancorând energii superioare într-un loc fizic, fix." }
     ],
     "bookingTitle": "Sacred Geometry IV la Praga",
     "duration": "Atelier",
-    "bookingNote": "În curând la Praga — Sacred Geometry IV nu este încă programată aici, dar este orizontul spre care se îndreaptă local seria Sacred Geometry. Ia legătura cu Radu pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
+    "bookingNote": "În curând la Praga — Sacred Geometry IV nu este încă programată aici, dar este orizontul spre care se îndreaptă local seria Sacred Geometry. Ia legătura cu Radu și Diana pentru a-ți înregistra interesul și pentru a fi primul care află când se stabilește o dată.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Sacred Geometry IV."
   },
   "KeysOfTheAncientsPage": {
@@ -1059,20 +1065,21 @@
     "heroTagline": "Pentru cei pregătiți să-și deblocheze întregul potențial și să pășească direct în cele mai profunde învățături ale acestei linii.",
     "introLead": "Predat personal de unul dintre cei mai înalți inițiați ai liniei",
     "introBody1": "<strong>Keys of the Ancients: A Hermetic Crossing into the Lineage of King Salomon</strong> este o clasă intensivă de cinci zile condusă de Dave Lanyon — un Sovereign Ipsissimus, autor bestseller și unul dintre deținătorii de chei cu cel mai înalt rang din Modern Mystery School. Dezvăluie cheile ascunse ale înțelepciunii hermetice printr-o predare directă, inițiatică, și este oferit ca program intim, în grup mic (istoric, în jur de 25 de participanți), în locații select ale Modern Mystery School la nivel internațional.",
-    "introBody2": "Participanții primesc o ședință personală de Life Activation, inițierea în linia regelui Solomon, cele două cărți ale lui Dave Lanyon și un pachet de 72 de carduri Hermetic Wisdom, alături de cele cinci zile de predare directă.",
-    "askLabel": "Întreabă-l pe Radu despre acest program",
+    "introBody2": "Participanții primesc o ședință personală de Life Activation și inițierea Empower Thyself, care te inițiază ca Adept în linia regelui Solomon, alături de cele cinci zile de predare directă. Edițiile anterioare au inclus și cele două cărți ale lui Dave Lanyon și un pachet de 72 de carduri Hermetic Wisdom.",
+    "askLabel": "Întreabă-i pe Radu și Diana despre acest program",
     "learnHeading": "Ce acoperă programul",
     "benefits": [
       { "label": "Puterea schimbării:", "text": "Predare directă și practică despre transformare — cum se întâmplă ea cu adevărat și cum să încetezi să-ți stai singur în cale." },
       { "label": "Cele 5 chei ale succesului:", "text": "Principii universale pentru depășirea obstacolelor, desprinse din tradiția hermetică pe care Dave Lanyon o predă de zeci de ani." },
       { "label": "Sacred Geometry și pentagrama:", "text": "O privire mai profundă asupra semnificației pentagramei în cadrul liniei hermetice și al liniei regelui Solomon." },
-      { "label": "Ghizii spirituali:", "text": "Înțelegerea rolului pe care ghizii spirituali îl joacă într-o creștere spirituală autentică și modul de a-l recunoaște pe al tău." }
+      { "label": "Ghizii spirituali:", "text": "Înțelegerea rolului pe care ghizii spirituali îl joacă într-o creștere spirituală autentică." },
+      { "label": "Inima deschisă și bucuria adevărată:", "text": "De ce o inimă deschisă este temelia bucuriei, a recunoștinței și a succesului și cum să trăiești o viață de bucurie adevărată." }
     ],
     "forYouHeading": "Este pentru tine?",
-    "forYouBody1": "Keys of the Ancients cere o minte deschisă, o dorință sinceră de a învăța și disponibilitatea de a fi provocat. Nu este un curs pentru începători — este conceput pentru cei care merg deja pe acest drum și sunt pregătiți să meargă direct la sursă și să învețe alături de un Sovereign Ipsissimus însuși.",
+    "forYouBody1": "Keys of the Ancients cere o minte deschisă, o dorință sinceră de a învăța și disponibilitatea de a fi provocat. Nu sunt necesare cursuri anterioare: îi primește deopotrivă pe cei noi și pe inițiați, iar pentru cei aflați la început de drum include Life Activation și inițierea Empower Thyself. Este o ocazie rară de a învăța direct de la un Sovereign Ipsissimus însuși.",
     "forYouBody2": "Acesta este un program global Modern Mystery School, nu o ședință organizată local aici, la Praga. Datele, prețurile exacte și locațiile sunt stabilite direct de echipa lui Dave Lanyon și se schimbă de la un ciclu la altul — pentru detalii actuale, vizitează <link>thedavelanyon.com</link>.",
     "bookingTitle": "Ești curios despre Keys of the Ancients?",
-    "bookingNote": "Radu a parcurs el însuși această linie și este bucuros să-ți povestească cum este cu adevărat acest program, să te ajute să înțelegi dacă este pasul potrivit pentru tine și să te îndrume către datele oficiale și înscriere.",
+    "bookingNote": "Radu și Diana au parcurs ei înșiși această linie și sunt bucuroși să-ți povestească cum este cu adevărat acest program, să te ajute să înțelegi dacă este pasul potrivit pentru tine și să te îndrume către datele oficiale și înscriere.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Keys of the Ancients cu Dave Lanyon."
   },
   "KabbalahAscensionPage": {
@@ -1080,21 +1087,21 @@
     "heroSubtitle": "Urcarea Arborelui Vieții",
     "heroTagline": "O transformare spirituală și alchimică — nu un weekend, ci o călătorie.",
     "introLead": "Zece până la douăsprezece luni de ascensiune ghidată",
-    "introBody1": "Universal Hermetic Ray Kabbalah Ascension Program este o tradiție Modern Mystery School dedicată deblocării măreției tale și alinierii cu scopul vieții tale. Întreaga călătorie de ascensiune durează aproximativ zece până la douăsprezece luni, construită în jurul a patru clase în persoană — majoritatea desfășurate la sediul central al Modern Mystery School, ultima întâlnire fiind un weekend de retragere în natură.",
+    "introBody1": "Universal Hermetic Ray Kabbalah Ascension Program este o tradiție Modern Mystery School dedicată deblocării măreției tale și alinierii cu scopul vieții tale. Întreaga călătorie de ascensiune durează aproximativ zece până la douăsprezece luni, construită în jurul a patru clase în persoană, ultima fiind un weekend de retragere în natură, cu unsprezece grupuri de studiu online între ele, câte unul pentru fiecare treaptă a Arborelui.",
     "introBody2": "Urcând Arborele Vieții, activezi etape de conștiință, vindecare și înțelegere care te apropie de sinele tău adevărat, actualizat — un sistem profund de dezvoltare personală, nu doar studiul Kabbalei ca idee.",
-    "askLabel": "Întreabă-l pe Radu despre acest program",
+    "askLabel": "Întreabă-i pe Radu și Diana despre acest program",
     "learnHeading": "Ce include călătoria",
     "benefits": [
       { "label": "Urcarea Arborelui Vieții:", "text": "Fiecare dintre cele patru întâlniri în persoană activează o etapă de conștiință, vindecare, înțelepciune și înțelegere pe măsură ce urci Arborele." },
       { "label": "O metodă, nu o dogmă:", "text": "Un sistem non-dogmatic care invită la o descoperire de sine autentică, folosind Arborele Vieții ca hartă personală, nu ca un set fix de răspunsuri." },
       { "label": "Relații, carieră și scop:", "text": "Curricula lucrează direct cu relațiile și iubirea de sine, claritatea în carieră și alinierea vieții tale de zi cu zi cu scopul tău adevărat." },
-      { "label": "Devenind Kabbalist:", "text": "Finalizarea tuturor celor patru clase în persoană — ultima, un weekend de retragere în natură — încheie călătoria. Îți recapeți coroana și începi să-ți trăiești viața ca un Kabbalist deplin, din Supernale — nu doar din partea inferioară a Arborelui, la care are acces majoritatea oamenilor." }
+      { "label": "Devenind Kabbalist:", "text": "Finalizarea tuturor celor patru clase în persoană — ultima, un weekend de retragere în natură — încheie călătoria, urcând prin Binah, Chokmah și Kether, cele trei Supernale. Îți recapeți coroana și începi să trăiești ca un Kabbalist deplin, din întregul Arbore, nu doar din ramurile lui inferioare." }
     ],
     "forYouHeading": "Este pentru tine?",
     "forYouBody1": "Cel puțin, trebuie să fii <strong>Adept Initiate</strong> — inițiat prin <strong>Empower Thyself</strong> — pentru a fi pregătit pentru Ascension Program. Totuși, este recomandat cu tărie să fi finalizat și <strong>Healers Academy</strong> înainte de a porni în această călătorie. Un nivel avansat, Kabbalah for Kabbalists, este de asemenea oferit pentru Certified Life Activation Practitioners, vindecători, Ritual Masters și Ghizi care caută o slujire mai profundă.",
-    "forYouBody2": "Acesta este un program global Modern Mystery School organizat la nivel de sediu central, nu o ședință organizată local aici, la Praga. Dimensiunea grupurilor și ciclurile sunt limitate și au loc o dată la unul până la doi ani — pentru date actuale și înscriere, vizitează <link>pagina proprie a Modern Mystery School</link>.",
+    "forYouBody2": "Acest program nu se desfășoară aici, la Praga. Fiecare grup (un „Arbore”) este organizat de un centru Modern Mystery School, cum ar fi sediul central din Toronto sau MMS UK & Europe din Londra, și condus de instructori certificați de Universal Hermetic Ray Kabbalah. Locurile sunt limitate, iar un grup nou începe de obicei doar o dată la unul până la doi ani. Pentru date actuale, vizitează <link>pagina proprie a Modern Mystery School</link> sau întreabă-ne despre următorul grup din Europa.",
     "bookingTitle": "Ești curios despre Kabbalah Ascension Program?",
-    "bookingNote": "Radu te ajută cu bucurie să înțelegi ce îți cere cu adevărat această călătorie, dacă îndeplinești deja condițiile și cum se leagă de drumul pe care mergi deja.",
+    "bookingNote": "Radu și Diana te ajută cu bucurie să înțelegi ce îți cere cu adevărat această călătorie, dacă îndeplinești deja condițiile și cum se leagă de drumul pe care mergi deja.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Universal Hermetic Ray Kabbalah Ascension Program."
   },
   "SacredGeometrySeriesLinks": {
@@ -1102,7 +1109,7 @@
     "learnMore": "Află mai multe",
     "blurbs": [
       "Fundația: cele 3 chei către ceruri și formele sacre ale creației.",
-      "Vindecare cu cristale și protecția spațiului.",
+      "Magia cristalelor: vindecare, lectură și grilaje.",
       "Vindecarea egipteană a aurei — restabilirea celor 7 straturi ale aurei.",
       "Spațiu sacru și temple vii."
     ]
@@ -1114,18 +1121,18 @@
     "heroTagline": "Explorează planurile superioare — în siguranță, conștient și după voință",
     "introLead": "Arta și știința păstrate de școlile misterelor de milenii",
     "introBody1": "Suntem mult mai mult decât corpul nostru fizic. În cadrul învățăturilor Modern Mystery School, călătoria astrală este proiecția conștientă, deliberată a conștiinței dincolo de fizic — o disciplină studiată și rafinată de-a lungul a mii de ani. Departe de a fi un vis sau un accident, este o abilitate care poate fi învățată, exersată și în care poți avea încredere.",
-    "introBody2": "În acest atelier primești cheile pentru a părăsi corpul în siguranță și a te întoarce cu claritate — pentru a explora tărâmurile subtile, a-ți întâlni ghizii și a obține asupra vieții tale o perspectivă pe care simțurile fizice singure nu o pot atinge niciodată.",
+    "introBody2": "În acest atelier primești cheile pentru a părăsi corpul în siguranță și a te întoarce cu claritate. Înveți să-ți pregătești corpul, mintea și spațiul, să călătorești în armonie cu Legea Sacră și să cauți îndrumarea menită propriului tău drum, obținând asupra vieții tale o perspectivă pe care simțurile fizice singure nu o pot atinge niciodată. Se potrivește atât celor aflați la prima experiență, cât și călătorilor experimentați.",
     "reserveYourPlace": "Rezervă-ți locul",
     "learnHeading": "Ce vei învăța",
     "benefits": [
       { "label": "Harta planurilor:", "text": "Înțelege structura lumilor subtile și unde călătorește conștiința." },
-      { "label": "Proiecție sigură:", "text": "Tehnici dovedite pentru a părăsi și reintra conștient în corp, cu protecție la fiecare pas." },
-      { "label": "Navigare și îndrumare:", "text": "Cum să te miști cu intenție, să-ți întâlnești ghizii și să pui întrebările potrivite." },
+      { "label": "Proiecție sigură:", "text": "Tehnici consacrate ale Școlii Misterelor pentru a părăsi corpul și a reveni în el în mod conștient, cu rugăciune și ritual care protejează și binecuvântează fiecare călătorie." },
+      { "label": "Unde și cum să călătorești:", "text": "Alege unde să mergi și călătorește cu intenție, pentru îndrumare, înțelegere și experiență, mereu în armonie cu Legea Sacră." },
       { "label": "Ancorare și integrare:", "text": "Întoarce-te cu claritate și adu înțelepciunea călătoriilor tale în viața de zi cu zi." }
     ],
     "bookingTitle": "Pășește dincolo de corp",
     "duration": "4,5 ore",
-    "bookingNote": "Atelierele sunt programate în grupuri mici. Contactează-ne pentru următoarea dată disponibilă în Praga.",
+    "bookingNote": "Predat în grupuri mici de Radu și Diana, amândoi certificați de Modern Mystery School să predea cursul Călătorie astrală. Contactează-ne pentru următoarea dată disponibilă în Praga.",
     "inquiry": "Bună, aș dori să aflu mai multe despre atelierul de Călătorie Astrală."
   },
   "SpiritualIntuitionPage": {
@@ -1135,7 +1142,7 @@
     "heroTagline": "Decizii mai clare, o mai bună simțire a oamenilor și mai multă încredere în tine",
     "introLead": "Intuiția nu este un dar pentru puțini. Este un simț pe care îl are fiecare.",
     "introBody1": "Ai știut vreodată ceva înainte să-ți spună cineva? Ai intrat într-o cameră și ai simțit imediat atmosfera? Poate nu poți explica de unde ai știut. Părea să nu vină din nimic din ce ai văzut sau auzit. Cei mai mulți oameni numesc asta intuiție.",
-    "introBody2": "În acest workshop afli care sunt simțurile tale spirituale, cum să le activezi și să le întărești și cum să-ți construiești percepția și sensibilitatea în siguranță și confortabil. Lucrul cu aceste simțuri te invită să folosești mai mult din capacitatea creierului tău. Cu cât poți percepe mai mult, cu atât poți realiza mai mult în viață.",
+    "introBody2": "În acest workshop afli care sunt simțurile tale spirituale, cum să le activezi și să le întărești și cum să-ți construiești percepția și sensibilitatea în siguranță și confortabil. Lucrul cu aceste simțuri îți deschide mai mult din percepția ta naturală, iar cu cât poți percepe mai mult, cu atât poți realiza mai mult în viață.",
     "reserveYourPlace": "Rezervă-ți locul",
     "learnHeading": "Ce înveți și cum crește",
     "benefits": [
@@ -1184,6 +1191,7 @@
     "expect": [
       "2,5 ore, în persoană, în Vršovice, Praga",
       "Un grup mic, deci loc pentru toate întrebările tale",
+      "Predat de Diana și Radu, amândoi certificați de Modern Mystery School să predea cursul Intuiție spirituală",
       "Deschis tuturor, fără condiții prealabile",
       "Nu doar înveți despre aceste simțuri: le practici",
       "Instrumente și tehnici pe care le poți folosi în fiecare zi"
@@ -1200,6 +1208,10 @@
       {
         "q": "Workshopul are loc în persoană?",
         "a": "Da. Are loc în persoană, într-un grup mic, în Vršovice, Praga."
+      },
+      {
+        "q": "Ce urmează?",
+        "a": "Mai întâi vine practica zilnică: simțurile tale cresc pe măsură ce le folosești. Când vrei să mergi mai departe, Journeys of the Spirit, un curs de o zi întreagă cu călătorii ghidate, îți dezvoltă în continuare percepția. Întreabă-ne ce urmează la Praga."
       },
       {
         "q": "Cum mă pot înscrie?",
@@ -1253,14 +1265,14 @@
     "heroSubtitle": "Cele șapte mari fluxuri ale înțelepciunii străvechi",
     "heroTagline": "Bea din tradițiile sursă care au modelat umanitatea",
     "introLead": "Șapte tradiții, un singur curent de lumină",
-    "introBody1": "De-a lungul istoriei, înțelepciunea sacră a omenirii a fost păstrată și transmisă prin șapte mari tradiții ale școlilor misterelor — fiecare înrădăcinată într-o cultură și un loc diferit, dar fiecare purtând o fațetă a aceleiași lumini eterne. Împreună, ele formează linia pe care Modern Mystery School o poartă astăzi.",
-    "introBody2": "În acest atelier călătorești prin toate cele șapte — învățându-le istoria, darurile și locul lor în marele lanț al înțelepciunii — și, prin meditație și ceremonie, te conectezi direct cu energia vie a fiecăreia.",
+    "introBody1": "De mii de ani, șapte școli ale misterelor păstrează în liniște înțelepciunea sacră a omenirii, fiecare în locul ei și cu propriul scop, dar toate slujind unui singur plan mai mare. Modern Mystery School, în linia regelui Solomon, este una dintre cele șapte și cea ale cărei uși sunt acum deschise tuturor celor care caută cu sinceritate.",
+    "introBody2": "În acest atelier afli unde se găsește fiecare dintre cele șapte școli, care este scopul ei unic, cum se leagă de corp și cum se unesc cele șapte pentru un singur scop mai mare — și, prin meditație și ceremonie, te conectezi direct cu energia vie a fiecăreia.",
     "reserveYourPlace": "Rezervă-ți locul",
     "gainHeading": "Ce vei câștiga",
     "benefits": [
-      { "label": "Linia completă:", "text": "Înțelege cele șapte tradiții ale școlilor misterelor și modul în care se conectează de-a lungul timpului." },
+      { "label": "Cele șapte școli:", "text": "Descoperă unde se găsește fiecare, ce păstrează și cum toate cele șapte slujesc unui scop comun." },
       { "label": "Conexiune directă:", "text": "Întâlnește energia fiecărei tradiții prin meditație ghidată și ceremonie." },
-      { "label": "Locul tău în lanț:", "text": "Vezi unde se potrivește propria ta cale în acest curent vast și viu de înțelepciune." },
+      { "label": "Locul tău în lucrare:", "text": "Vezi unde se potrivește propria ta cale în acest curent vast și viu de înțelepciune." },
       { "label": "Un context mai profund:", "text": "Ancorează-ți practica în istoria și rădăcinile muncii pe care o faci." }
     ],
     "bookingTitle": "Trece prin cele șapte porți",
@@ -1274,19 +1286,19 @@
     "heroSubtitle": "Instrumente practice pentru a întâmpina presiunea cu calm",
     "heroTagline": "Înțelepciune străveche, simplificată pentru viața modernă",
     "introLead": "Stresul nu este dușmanul — pierderea instrumentelor de a-l gestiona este",
-    "introBody1": "Viața modernă se mișcă mai repede decât au fost construite sistemele noastre nervoase. Eliberarea de stres este un program practic, ancorat, care îți oferă un set de instrumente fiabile — extrase din învățăturile școlii misterelor și traduse în limbaj cotidian — pentru a-ți liniști mintea, a-ți calma corpul și a răspunde presiunii, în loc să reacționezi la ea.",
+    "introBody1": "Viața modernă se mișcă mai repede decât au fost construite sistemele noastre nervoase. Eliberarea de stres este un program practic, ancorat, al Modern Mystery School, care îți oferă un set de instrumente fiabile — extrase din învățăturile școlii misterelor și traduse în limbaj cotidian — pentru a-ți liniști mintea, a-ți calma corpul și a răspunde presiunii, în loc să reacționezi la ea.",
     "introBody2": "Poate fi primit individual sau oferit unei întregi echipe. Pentru lideri și organizații, este un mod clar, practic de a aduce mai multă concentrare, reziliență și stare de bine în ziua de lucru.",
     "enquireNow": "Întreabă acum",
     "takeawayHeading": "Ce vei lua cu tine",
     "benefits": [
       { "label": "Instrumente care funcționează pe moment:", "text": "Tehnici simple pentru a calma corpul și mintea atunci când presiunea crește brusc." },
       { "label": "O bază mai stabilă:", "text": "Practici zilnice care îți reduc treptat stresul general." },
-      { "label": "Claritate și concentrare:", "text": "Gândește clar și ia decizii bune, chiar și atunci când ziua este solicitantă." },
+      { "label": "Înțelegere și concentrare:", "text": "Vezi de unde vine cu adevărat stresul tău și cum îți afectează corpul și mintea, apoi îndreaptă-ți energia spre ceea ce poți controla." },
       { "label": "Pentru echipe:", "text": "Un limbaj comun și instrumente comune care fac întregul grup mai rezilient." }
     ],
     "bookingTitle": "Adu calmul înapoi în zi",
     "duration": "2 ore",
-    "bookingNote": "Disponibil pentru persoane, echipe de conducere și organizații. Contactează-ne pentru a discuta o ședință sau un program pentru echipa ta.",
+    "bookingNote": "Disponibil pentru persoane, echipe de conducere și organizații. Contactează-ne pentru a discuta o ședință sau un program pentru echipa ta. Radu și Diana sunt amândoi certificați de Modern Mystery School să predea Eliberarea de stres (Stress Rescue). Este o practică educațională, complementară, și nu înlocuiește îngrijirea medicală sau psihologică.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Eliberarea de Stres."
   },
   "CommunityPage": {
@@ -1626,10 +1638,10 @@
   },
   "LineagePage": {
     "metaTitle": "Linia Regelui Solomon | Calea Inițierii Praga",
-    "metaDescription": "Peste 3.000 de ani de linie scrisă neîntreruptă. Descoperă Modern Mystery School, Linia Regelui Solomon și cei trei Deținători ai Liniei din Al Treilea Ordin — Gudni Gudnason, Hideto Nakagome și Dave Lanyon.",
+    "metaDescription": "Peste 3.000 de ani de linie neîntreruptă. Descoperă Modern Mystery School, Linia Regelui Solomon și cei trei Deținători ai Liniei din Al Treilea Ordin — Gudni Gudnason, Hideto Nakagome și Dave Lanyon.",
     "heroEyebrow": "Modern Mystery School",
     "heroHeading": "Linia lui <emphasis>Regele Solomon</emphasis>",
-    "heroBody": "Peste 3.000 de ani de istorie scrisă. Un lanț neîntrerupt de la profesor la elev, confirmat prin sfântul proces al inițierii — păstrând cheile adevăratei puteri spirituale de la începutul timpurilor.",
+    "heroBody": "Peste 3.000 de ani de istorie și linie. Un lanț neîntrerupt de la profesor la elev, confirmat prin sfântul proces al inițierii — păstrând cheile adevăratei puteri spirituale de la începutul timpurilor.",
     "whatIsLineageEyebrow": "Ce este linia?",
     "whatIsLineageHeading": "Măsura unei Școli a Misterelor autentice",
     "whatIsLineageBody1": "Linia este un factor cheie și important în determinarea legitimității, integrității și autorității pe care o deține o Școală a Misterelor autentică. Prin definiție, linia înseamnă o descendență liniară dintr-un strămoș — o ascendență, un pedigree.",
@@ -1643,33 +1655,33 @@
     },
     "ksLineageEyebrow": "Peste 3.000 de ani",
     "ksLineageHeading": "Linia Regelui Solomon",
-    "ksLineageBody1": "Linia <mms>Modern Mystery School</mms> datează din vremea regelui Solomon și, prin urmare, poartă peste 3.000 de ani de istorie și linie scrisă. Deși tradiția școlii misterelor este mult mai veche, linia MMS și învățăturile sale pot fi verificate și urmărite direct până la învățăturile regelui Solomon însuși.",
-    "ksLineageBody2": "Tradiția orală se întinde mai mult de 8.000 de ani în urmă, până în vremea lui Hermes — Hermes Trismegistus. Inițierea, combinată cu această linie neîntreruptă, îl împuternicește pe Adept să se angajeze în Marea Lucrare: crearea unei lumi mai bune și trăirea în acord cu adevăratul său potențial și scop de viață.",
+    "ksLineageBody1": "Linia <mms>Modern Mystery School</mms> datează din vremea regelui Solomon și, prin urmare, poartă peste 3.000 de ani de istorie și linie. Deși tradiția școlii misterelor este mult mai veche, linia MMS și învățăturile sale pot fi verificate și urmărite direct până la învățăturile regelui Solomon însuși.",
+    "ksLineageBody2": "Tradiția școlii misterelor în sine este și mai veche, iar înțelepciunea ei a fost transmisă întotdeauna prin viu grai, de la profesor la elev. Inițierea, combinată cu această linie neîntreruptă, îl împuternicește pe Adept să se angajeze în Marea Lucrare: crearea unei lumi mai bune și trăirea în acord cu adevăratul său potențial și scop de viață.",
     "ksLineageBody3": "Toți marii maeștri au pășit pe Calea Inițierii în tradiția școlii misterelor — chiar calea care i-a condus la împlinirea promisiunii lor față de Dumnezeu aici, pe acest pământ.",
     "thirdOrderEyebrow": "Al Treilea Ordin",
     "thirdOrderHeading": "Cei trei Deținători ai Liniei",
-    "thirdOrderBody": "Toate liniile au deținători principali ai cheii — persoane care dețin și ancorează linia pe planetă, cu autoritatea de a menține deschisă ușa Școlii Misterelor pentru cei care caută Lumina. În această linie, ei sunt numiți Al Treilea Ordin, iar împreună mențin puritatea liniei și a învățăturilor sale.",
+    "thirdOrderBody": "Toate liniile au deținători principali ai cheii — persoane care dețin și ancorează linia pe planetă, cu autoritatea de a menține deschisă ușa Școlii Misterelor pentru cei care caută Lumina. În această linie, ei sunt numiți Al Treilea Ordin, iar împreună mențin puritatea liniei și a învățăturilor sale. Al Treilea Ordin a fost inițiat în 2017.",
     "thirdOrderClosing": "Astăzi, acești trei deținători ai liniei poartă marea responsabilitate de a menține puritatea învățăturilor — lucrând în colaborare cu Consiliul celor Douăsprezece femei și conducerea mai largă, gestionând linia regelui Solomon în era modernă.",
     "holders": [
       {
         "title": "Sovereign Ipsissimus și Hierofant",
         "role": "Fondator al Modern Mystery School",
-        "bio": "Născut în Islanda și crescut cufundat în mistere, Gudni a călătorit mult pentru a primi învățături și inițieri într-o multitudine de tradiții. Cariera sa didactică se întinde pe parcursul a peste patruzeci de ani — Kabbala, Alchimie, Metafizică, Fizică Cuantică și multe altele. Un maestru al învățăturii metaforice, el transmite principii esoterice prin analogie, alegorie și parabolă. În 1997 a adus Modern Mystery School public în lume."
+        "bio": "Născut în Islanda și crescut cufundat în mistere, Gudni a călătorit mult, timp de peste patru decenii, pentru a primi învățături și inițieri într-o multitudine de tradiții. El predă înțelepciunea hermetică și esoterică, Alchimia, Kabbala și magia solomonică și enohiană. Un maestru al învățăturii metaforice, el transmite principii esoterice prin analogie, alegorie și parabolă. În 1997 a adus Modern Mystery School public în lume."
       },
       {
         "title": "Sovereign Ipsissimus",
         "role": "Membru al Celui de-al Treilea Ordin",
-        "bio": "Un deținător al liniei și administrator al Celui de-al Treilea Ordin, ancorând linia și învățăturile sale în Orient. Împreună cu frații săi din Al Treilea Ordin, el protejează puritatea tradiției și menține deschisă ușa Școlii Misterelor pentru cei care caută Lumina."
+        "bio": "Descendent al unei familii japoneze de Bushi (samurai), Hideto s-a alăturat liniei în 2000 și ancorează școala și învățăturile ei în Japonia și în Orient. Este Maestru Vindecător, Maestru Profesor de Kabbala, preot al budismului esoteric Mikkyo și autorul mai multor cărți de metafizică publicate în Japonia. Împreună cu frații săi din Al Treilea Ordin, el protejează puritatea tradiției și menține deschisă ușa Școlii Misterelor pentru cei care caută Lumina."
       },
       {
         "title": "Sovereign Ipsissimus",
         "role": "Membru al Celui de-al Treilea Ordin",
-        "bio": "Un deținător al liniei și administrator al Celui de-al Treilea Ordin. Împreună cu ceilalți deținători ai cheii, el administrează și veghează la menținerea liniei, asigurându-se că învățăturile sunt transmise cu integritate de la profesor la elev prin sfântul proces al inițierii."
+        "bio": "Dave s-a alăturat liniei în 2004 și a fost o forță motrice în creșterea școlii de la 12 țări la peste 50. Profesor Ritual Master, el conduce la nivel mondial Ordinul Warriors of Light și, împreună cu Ipsissima Franca Lanyon, coordonează Sediul Central Internațional din Toronto. Alături de ceilalți deținători ai cheii, el se asigură că învățăturile trec de la profesor la elev cu integritate, prin sfântul proces al inițierii."
       }
     ],
     "councilEyebrow": "Cei care ghidează",
-    "councilHeading": "Consiliul Ipsissimilor, Consiliul celor 12 și Conducerea",
-    "councilBody": "Alături de Al Treilea Ordin, linia este susținută și ghidată de Ipsissima și Ipsissimus Guvernatori, Consiliul celor Douăsprezece Femei și conducerea mai largă a Modern Mystery School — profesori devotați care gestionează tradiția și slujesc școala în întreaga lume.",
+    "councilHeading": "Ipsissima și Ipsissimus Guvernatori, Consiliul celor 12 și Conducerea",
+    "councilBody": "Alături de Al Treilea Ordin, linia este ghidată de Ipsissima și Ipsissimus Guvernatori și de Consiliul celor 12: douăsprezece femei, toate inițiate de nivel înalt, șase în Orient și șase în Occident. Consiliul a fost activat odată cu Al Treilea Ordin, în 2017, și conduce lucrarea școlii la nivel mondial. Împreună cu conducerea mai largă a Modern Mystery School, gestionează tradiția și slujesc școala în întreaga lume.",
     "governingLink": "Ipsissima și Ipsissimus Guvernatori",
     "leadershipLink": "Echipa de conducere",
     "otherResourcesEyebrow": "Alte resurse pe care le poți citi",
@@ -1836,7 +1848,7 @@
     ],
     "who": [
       "Te simți amorțit(ă), deconectat(ă) sau nu chiar aici",
-      "Porți în tine doliu, traumă, epuizare, o despărțire sau o dependență",
+      "Porți în tine doliu, traumă, epuizare sau o despărțire ori te recuperezi după o dependență",
       "Trăiești de mult timp sub stres sau viața ți s-a schimbat mult",
       "Te simți blocat(ă) creativ sau gol(goală) pe dinăuntru",
       "Ești pe un drum al autocunoașterii și vrei să te simți întreg(întreagă)"
@@ -1860,6 +1872,14 @@
       {
         "q": "De ce se numește hermetică?",
         "a": "Provine din învățăturile hermetice păstrate în linia Modern Mystery School."
+      },
+      {
+        "q": "Am nevoie de ceva înainte și o pot primi din nou?",
+        "a": "Nu sunt necesare ședințe anterioare: este deschisă tuturor. Ca fiecare recuperare să aibă timp să se așeze, lăsăm cel puțin trei luni între ședințele individuale. Dacă ți-ar folosi mai bine o serie scurtă, trei ședințe pot fi programate la aproximativ o lună distanță una de alta. Întreabă-ne."
+      },
+      {
+        "q": "Înlocuiește terapia?",
+        "a": "Nu. Este o lucrare spirituală, energetică, ce se potrivește bine alături de consiliere sau terapie. Dacă treci printr-o criză acută de sănătate mintală, te rugăm să cauți mai întâi sprijin medical și să vorbești cu noi înainte de a rezerva, ca să găsim împreună momentul potrivit."
       }
     ],
     "bookingTitle": "Întoarce-te la tine",
@@ -1872,7 +1892,7 @@
     "heroTitle": "Tăierea cordoanelor emoționale",
     "heroSubtitle": "Când cineva încă îți trăiește în gânduri și asta te costă energie",
     "heroTagline": "Un ritual blând prin care lași să plece legăturile vechi, ca să te simți din nou tu",
-    "introLead": "Când viața pare grea, uneori primul pas este pur și simplu să lași să plece",
+    "introLead": "Uneori vindecarea începe cu a lăsa să plece",
     "introBody1": "Fiecare om pe care îl iubim, cu care ne certăm sau care ne lipsește lasă o urmă în noi. Aceste urme le numim cordoane energetice. Cele mai multe sunt inofensive. Unele însă te trag înapoi mult după ce relația sau momentul s-au încheiat: îți tot derulezi conversații vechi, vii acasă obosit(ă) după ce vezi anumite persoane sau doar un nume e de ajuns ca să te tulbure.",
     "introBody2": "În această ședință tăiem cu blândețe aceste legături care te secătuiesc și curățăm ce au lăsat în urmă. Nu șterge iubirea și nu încheie o relație. Doar îți dă înapoi energia, ca să te poți întâlni cu oamenii din viața ta dintr-un loc mai ușor și mai liber.",
     "signsHeading": "Semnele unui cordon nesănătos",
@@ -1897,6 +1917,10 @@
       {
         "label": "Curățarea:",
         "text": "Energia ta este curățată cu blândețe și readusă în echilibru cu salvie, apă sfințită și mantre sacre."
+      },
+      {
+        "label": "Stabilirea unei intenții:",
+        "text": "Numești în liniște ceva ce ai vrea să primești în continuare, ceva simplu, cum ar fi pacea sau bucuria. Poți păstra intenția doar pentru tine."
       },
       {
         "label": "Un moment de liniște:",
@@ -1929,11 +1953,19 @@
     "faq": [
       {
         "q": "Îmi va încheia relația?",
-        "a": "Nu. Taie partea nesănătoasă, care te secătuiește, a legăturii, nu iubirea. Mulți oameni descoperă că relațiile lor devin apoi mai ușoare și mai sănătoase."
+        "a": "Nu. Taie partea nesănătoasă, care te secătuiește, a legăturii, nu iubirea. Mulți oameni descoperă că relațiile lor devin apoi mai ușoare și mai sănătoase. Iar dacă o relație și-a încheiat cu adevărat drumul, s-ar putea să-ți fie pur și simplu mai ușor să o lași să se încheie în pace."
       },
       {
         "q": "Trebuie să vorbesc despre evenimente dureroase?",
         "a": "Doar cât vrei tu. Este suficientă o scurtă discuție despre ce vrei să eliberezi."
+      },
+      {
+        "q": "Pot tăia un cordon legat de o experiență, nu de o persoană?",
+        "a": "Da. Cordoanele se pot forma și cu evenimente, cum ar fi un accident, o pierdere sau un moment înfricoșător de care nu reușești să te desprinzi. Tăierea poate elibera și greutatea legată de acea experiență."
+      },
+      {
+        "q": "Cât de des o pot primi?",
+        "a": "Ori de câte ori simți că legăturile vechi te trag din nou înapoi, de exemplu după un conflict, o despărțire sau o perioadă solicitantă. Nu există o regulă fixă și îți spunem cu drag ce ți-am recomanda."
       },
       {
         "q": "Cât durează și cât costă?",
@@ -1957,7 +1989,7 @@
     "heroEyebrow": "Curățare energetică",
     "heroTitle": "Eliminarea energiei negative",
     "heroSubtitle": "Când negativitatea celorlalți te apasă",
-    "heroTagline": "O curățare care te readuce la liniște atunci când viața pare grea sau neclară",
+    "heroTagline": "O curățare după care te simți din nou ușor(ă), limpede și cu adevărat tu",
     "introLead": "Te-ai simțit vreodată greu după ce ai stat cu cineva, fără să știi de ce?",
     "introBody1": "Cuvintele și gândurile poartă energie. Când cineva te invidiază, îți poartă pică sau îți dorește răul, chiar dacă nu o spune niciodată cu voce tare, poți simți asta. Poate sta pe tine ca un nor cenușiu: gândurile ți se încețoșează, lucrurile nu mai curg, dormi prost și începi să te îndoiești de tine.",
     "introBody2": "În această ședință curățăm aceste gânduri, cuvinte și intenții negative din energia ta, fie că au venit de la o singură persoană, fie că s-au adunat în tăcere de-a lungul anilor. Cei mai mulți oameni pleacă mai ușori, mai limpezi și din nou mai aproape de ei înșiși.",
@@ -1978,7 +2010,7 @@
       },
       {
         "label": "Curățarea:",
-        "text": "Practicianul face ritualul care ridică gândurile, cuvintele și intențiile negative din energia ta. Tu doar te relaxezi și respiri."
+        "text": "Printr-o rugăciune rituală transmisă în linia Mystery School, practicianul ridică gândurile, cuvintele și intențiile negative din energia ta. Tu doar te relaxezi și respiri."
       },
       {
         "label": "Un moment de liniște:",
@@ -2018,6 +2050,19 @@
         "a": "Deloc. Adesea simțim doar greutatea, fără să știm de unde vine. Curățarea funcționează oricum."
       },
       {
+        "q": "Negativitatea se întoarce la persoana care a trimis-o?",
+        "a": "Nimănui nu i se trimite niciun rău. În tradiția Mystery School, energia negativă este curățată și încredințată Luminii pentru a fi transformată. Tu pur și simplu ești eliberat(ă) de ea."
+      },
+      {
+        "q": "Cât de des o pot primi?",
+        "a": "Ori de câte ori simți că greutatea se adună din nou, de exemplu după un conflict, o despărțire sau o perioadă solicitantă. Nu există o regulă fixă și îți spunem cu drag ce ți-am recomanda."
+      },
+      {
+        "q": "Cum îmi pot păstra energia curată după aceea?",
+        "a": "Instrumentele simple din ședința ta te ajută zi de zi. Dacă vrei să înveți să-ți protejezi propria energie și casa, <link>Sacred Geometry I</link> te învață modul Mystery School de a sigila un spațiu cu lumină.",
+        "href": "/sacred-geometry"
+      },
+      {
         "q": "Cât durează și cât costă?",
         "a": "Aproximativ o oră, 3.669 CZK, inclusiv consultația și toate procedurile."
       }
@@ -2046,19 +2091,20 @@
     "heroTagline": "Ensofic Reiki pentru corpul și sistemul tău nervos",
     "introLead": "Prima rază a creației: pură, clară și directă",
     "introBody1": "Raza Ensofică este cea mai înaltă, mai luminoasă și mai puternică rază de energie, prima rază a creației. Poartă puritate, claritate și concentrare focalizată, de aceea merge direct la esență.",
-    "introBody2": "Ensofic Reiki este o ședință de vindecare care ajută la reducerea durerii și ajută corpul să se vindece mai repede. Este o alegere bună dacă te recuperezi după o accidentare, o boală sau o operație, dacă trăiești cu o durere care tot revine sau dacă îți simți corpul epuizat și lent în recuperare. Mulți oameni pleacă de la ședință mai ușori și mai calmi, cu mai puțină durere și cu un somn mai bun. Poți veni în persoană, la Praga, sau poți primi ședința la distanță, oriunde te-ai afla în lume.",
+    "introBody2": "Ensofic Reiki este o ședință de vindecare cu punerea mâinilor, care poate aduce alinare în caz de durere și susține capacitatea proprie a corpului tău de a se reface. Este o alegere bună dacă te recuperezi după o accidentare, o boală sau o operație, dacă trăiești cu o durere care tot revine sau dacă îți simți corpul epuizat și lent în recuperare. Mulți oameni pleacă de la ședință mai ușori și mai calmi, cu mai puțină durere și cu un somn mai bun. Poți veni în persoană, la Praga, sau poți primi ședința la distanță, oriunde te-ai afla în lume.",
     "benefitsHeading": "Beneficii",
     "benefits": [
       "Ajută la reducerea durerii, atât a celei apărute brusc, cât și a celei care tot revine",
-      "Ajută accidentările, rănile și corpul după o operație să se vindece mai repede",
+      "Susține refacerea naturală a corpului tău după o accidentare, o boală sau o operație",
       "Relaxează tensiunea și rigiditatea din mușchi și articulații",
       "Calmează sistemul nervos, astfel încât corpul să se poată odihni și reface",
       "Susține un somn mai profund și mai odihnitor",
-      "Te simți apoi mai ușor(ă), mai calm(ă) și cu mai multă energie"
+      "Te simți apoi mai ușor(ă), mai calm(ă) și cu mai multă energie",
+      "Alină stresul și greutatea emoțională și aduce mai multă claritate"
     ],
     "who": [
       "Ai dureri și îți dorești alinare",
-      "Te recuperezi după o accidentare, o căzătură, o întindere la sport sau o operație și vrei să te vindeci mai repede",
+      "Te recuperezi după o accidentare, o căzătură, o întindere la sport sau o operație și vrei sprijin în timpul recuperării",
       "Trăiești cu o durere de lungă durată, de exemplu de spate, de articulații sau de cap",
       "Corpul tău este epuizat și se reface greu"
     ],
@@ -2069,7 +2115,12 @@
       },
       {
         "q": "Pot primi Ensofic Reiki la distanță?",
-        "a": "Da. Poți primi Ensofic Reiki în persoană, la Praga, sau ca ședință de vindecare la distanță, oriunde te-ai afla în lume. Radu și Diana s-au pregătit și au muncit din greu pentru a stăpâni vindecarea la distanță și, împreună, canalizează forța de vindecare oriunde este nevoie."
+        "a": "Da. Poți primi Ensofic Reiki în persoană, la Praga, sau ca ședință la distanță, oriunde te-ai afla în lume. Vindecarea la distanță se predă la nivelul Intermediar al pregătirii Ensofic Reiki, iar Radu și Diana au absolvit toate cele trei niveluri. Împreună, canalizează forța de vindecare oriunde este nevoie."
+      },
+      {
+        "q": "Prin ce diferă de Vindecarea avansată cu raza Ensofică?",
+        "a": "Ensofic Reiki este o singură ședință care lucrează în principal cu corpul, iar o singură ședință poate aduce deja alinare. Este, de asemenea, prima parte a tratamentului complet cu raza Ensofică: <link>Vindecarea avansată cu raza Ensofică</link> înseamnă trei ședințe, pentru corp, apoi pentru suflet și spirit, apoi una adaptată nevoilor tale.",
+        "href": "/advanced-ensofic-ray-healing"
       },
       {
         "q": "Ce trebuie să fac pentru a mă pregăti?",
@@ -2081,7 +2132,25 @@
     "inquiry": "Bună, sunt interesat(ă) de Ensofic Reiki.",
     "relatedHeading": "Ești pregătit(ă) să mergi mai adânc?",
     "relatedBody": "Vindecarea avansată cu raza Ensofică este o serie de trei ședințe, în persoană, la Praga, care lucrează împreună cu corpul, sufletul și spiritul, pentru o schimbare mai profundă și de durată.",
-    "relatedCta": "Descoperă Vindecarea avansată cu raza Ensofică"
+    "relatedCta": "Descoperă Vindecarea avansată cu raza Ensofică",
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Începem cu o discuție:",
+        "text": "Spune-ne ce te aduce la noi și despre orice accidentări, operații sau probleme de sănătate, mai ales despre orice îți face incomod să stai întins(ă) sau așezat(ă)."
+      },
+      {
+        "label": "Vindecarea:",
+        "text": "Te odihnești într-o cameră liniștită, cu muzică discretă, în timp ce practicianul canalizează raza Ensofică prin mâinile sale. Doar respiră și observă orice simți."
+      },
+      {
+        "label": "Un moment de liniște:",
+        "text": "Încheiem cu blândețe, ca să te poți odihni și să simți diferența."
+      }
+    ],
+    "originEyebrow": "Originea",
+    "originHeading": "Din tradiția razei Ensofice",
+    "originBody": "Ensofic Reiki este prima etapă a modalității de vindecare cu raza Ensofică a Modern Mystery School, predată în trei niveluri: nivelul Fundamental transmite ședința completă de Ensofic Reiki, nivelul Intermediar adaugă vindecarea la distanță și curățarea obiceiurilor nedorite, iar nivelul Avansat întregește tratamentul cu raza Ensofică. Radu și Diana au absolvit amândoi toate cele trei niveluri."
   },
   "AdvancedEnsoficRay": {
     "heroEyebrow": "Vindecare energetică",
@@ -2095,15 +2164,15 @@
     "protocol": [
       {
         "label": "I. Corpul:",
-        "text": "Eliberează blocajele, tensiunea și energia stagnantă, pentru ca sistemele corpului să revină la echilibru și curgere."
+        "text": "Ensofic Reiki pune energia în mișcare prin corp, eliberând blocajele, tensiunea și energia stagnantă, și te pregătește pentru a doua sesiune."
       },
       {
         "label": "II. Suflet și spirit:",
-        "text": "Cheamă și activează cele 12 Raze ale Creației — Romantism, Vindecare, Mister, Regalitate, Noi începuturi și altele — sprijinind întruparea esenței tale divine."
+        "text": "Energia pură a razei Ensofice curge prin mâinile practicianului; apoi douăsprezece sigilii sacre sunt așezate în câmpul tău eteric, pentru ca corpurile sufletului și spiritului tău să se poată transforma și vindeca împreună."
       },
       {
         "label": "III. Integrare:",
-        "text": "O sesiune personalizată, care întărește și stabilizează sigiliile energetice ale sesiunilor anterioare."
+        "text": "O sesiune adaptată nevoilor tale din acea zi: raza sau Reiki-ul se repetă după nevoie, cele douăsprezece sigilii sunt verificate ca să ne asigurăm că se mențin, iar întrebările tale primesc răspuns. Dacă este nevoie, se poate adăuga o a patra sesiune."
       }
     ],
     "benefitsHeading": "Beneficii",
@@ -2111,7 +2180,7 @@
       "Te reconectează cu sinele tău autentic și cu lumina interioară",
       "Curăță blocajele fizice, emoționale și energetice",
       "Aliniază corpul, mintea și spiritul",
-      "Activează și ancorează cele 12 Raze",
+      "Ancorează douăsprezece sigilii sacre în câmpul tău energetic",
       "Sprijină noile începuturi și încheierea ciclurilor vechi",
       "Ridică vibrația și restabilește claritatea și pacea",
       "Sprijină vindecarea emoțională și reînnoirea",
@@ -2120,7 +2189,18 @@
     "bookingTitle": "Primește raza",
     "duration": "3 × 90 de minute",
     "bookingNote": "Aceasta rezervă prima sesiune de 90 de minute, în persoană la Praga (Vršovice), la prețul integral al programului. Următoarele două sesiuni le vom programa împreună cu tine când ne întâlnim.",
-    "inquiry": "Bună, sunt interesat(ă) de Vindecarea avansată cu raza Ensofică."
+    "inquiry": "Bună, sunt interesat(ă) de Vindecarea avansată cu raza Ensofică.",
+    "faq": [
+      {
+        "q": "Prin ce diferă de Ensofic Reiki?",
+        "a": "Ensofic Reiki este prima etapă a modalității complete a razei Ensofice. Această serie începe cu el, apoi adaugă raza Ensofică pură și cele douăsprezece sigilii sacre. <link>Citește despre Ensofic Reiki</link>.",
+        "href": "/ensofic-reiki"
+      },
+      {
+        "q": "Ar trebui să vă spun despre accidentări sau probleme de sănătate?",
+        "a": "Da. Te rugăm să ne spui despre orice accidentări, operații sau afecțiuni care îți îngreunează statul întins sau ridicarea în șezut, ca ședința să poată fi adaptată pentru tine."
+      }
+    ]
   },
   "NegativeHabits": {
     "heroEyebrow": "Vindecare energetică",
@@ -2147,20 +2227,26 @@
     "faq": [
       {
         "q": "Cum funcționează?",
-        "a": "Raza Ensofică este folosită pentru a lucra cu structura energetică în care sunt ținute aceste tipare, sprijinindu-te să le eliberezi."
+        "a": "Raza Ensofică este o rază de energie pură și concentrată, folosită în vindecarea Modern Mystery School. Este îndreptată asupra tiparelor mentale și emoționale din spatele unui obicei, pentru a ajuta la slăbirea lor, apoi îți ajută corpul, mintea și emoțiile să se așeze într-un echilibru nou, mai stabil."
       },
       {
         "q": "Cu ce fel de obiceiuri și tipare poate ajuta?",
-        "a": "Cu orice tipar sau obicei care se repetă în viața ta — în gânduri, emoții, comportament sau relații. De exemplu accese de furie, supraalimentare, dependențe, vinovăție, rușine."
+        "a": "Cu orice tipar sau obicei care se repetă în viața ta — în gânduri, emoții, comportament sau relații. De exemplu accese de furie, supraalimentare, dependențe, vinovăție, rușine. În cazul dependențelor, această ședință este un sprijin complementar: te rugăm să continui orice program medical, terapeutic sau de recuperare din care faci parte."
       },
       {
         "q": "Cum poate funcționa vindecarea la distanță?",
-        "a": "Radu și Diana s-au pregătit și au muncit din greu pentru a stăpâni această abilitate. Și-au șlefuit concentrarea, precum și relația cu Ierarhia Luminii. Împreună canalizează forța de vindecare oriunde este nevoie de ea în lume."
+        "a": "Vindecarea la distanță se predă ca abilitate de sine stătătoare în pregătirea Ensofic Reiki, la același nivel cu lucrul asupra obiceiurilor. Radu și Diana s-au pregătit pe deplin în ea și îndreaptă vindecarea oriunde te-ai afla în lume."
+      },
+      {
+        "q": "Ar trebui să vă spun ceva dinainte?",
+        "a": "Da. Te rugăm să ne spui despre orice accidentări, operații sau probleme de sănătate, ca ședința să poată fi adaptată pentru tine."
       }
     ],
     "duration": "90 de minute",
     "bookingNote": "Alege mai jos în persoană la Praga (Vršovice) sau la distanță, alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
-    "inquiry": "Bună, aș dori să aflu mai multe despre Tratarea obiceiurilor negative."
+    "inquiry": "Bună, aș dori să aflu mai multe despre Tratarea obiceiurilor negative.",
+    "originHeading": "De unde vine această lucrare",
+    "originBody": "Curățarea obiceiurilor nedorite se predă la nivelul Intermediar al Ensofic Reiki, parte a pregătirii în trei niveluri a Modern Mystery School în vindecarea cu raza Ensofică, același nivel la care se predă vindecarea la distanță. Radu și Diana au absolvit amândoi toate cele trei niveluri, iar Radu are o specializare în tipare mentale distructive, obiceiuri dăunătoare și dependențe."
   },
   "CrystalHealing": {
     "heroEyebrow": "Vindecare energetică",
@@ -2174,11 +2260,11 @@
     "benefits": [
       "O minte mai calmă și mai limpede",
       "Eliberare și echilibru emoțional",
-      "Sprijin pentru corpul fizic, inclusiv pentru problemele fizice interne",
+      "Sprijin pentru starea ta de bine fizică, emoțională și mentală",
       "Un echilibru mai bun între stânga și dreapta și în percepția spațiului",
       "O relație mai sănătoasă cu timpul: mai puțină grabă, mai multă prezență",
       "Vitalitate și libido reînnoite",
-      "Readucerea părților din tine pe care le-ai pierdut pe drum (recuperarea sufletului)",
+      "Reconectarea cu părțile din tine pe care le-ai pierdut pe drum",
       "O minte pură și un sentiment de putere interioară"
     ],
     "faq": [
@@ -2238,7 +2324,7 @@
     "heroSubtitle": "Vindecă răni vechi și noi și deschide calea norocului",
     "heroTagline": "O vindecare cu cristale și cântări sacre care ajunge adânc în subconștient",
     "introLead": "Ce se întâmplă într-o ședință",
-    "introBody1": "Stai comod pe un scaun, ținând un cristal în mână. Practicianul ține și el cristalul și începe ritualurile sacre: cântări sacre care ajung adânc în subconștient, acolo unde sunt păstrate rănile și tiparele vechi.",
+    "introBody1": "Stai comod pe un scaun, ținând un cristal în mână. Practicianul ține cristalul lui geamăn, din același grup de cristale, și începe ritualurile sacre: cântări într-o limbă străveche care ajung adânc în subconștient, acolo unde sunt păstrate rănile și tiparele vechi.",
     "introBody2": "Nu trebuie să faci sau să spui nimic: doar ascultă și lasă să plece. Clienții pleacă adesea mai ușori, mai calmi și mai deschiși la ce aduce viața.",
     "benefitsHeading": "La ce ajută",
     "benefits": [
@@ -2270,6 +2356,11 @@
         "q": "O pot combina cu o altă vindecare?",
         "a": "Da. Pachetul de vindecare cu cristale îți oferă două vindecări, această Sacred Rites Healing și <link>Sacred Geometry Ancient Crystal Healing</link>, pentru 4.444 CZK, în loc să le rezervi separat. Detaliile le stabilim împreună cu tine.",
         "href": "/crystal-healing"
+      },
+      {
+        "q": "Pot învăța să ofer această vindecare?",
+        "a": "Da. Se predă în <link>Sacred Geometry II</link>, nivelul dedicat cristalelor din seria Sacred Geometry, care urmează după Sacred Geometry I.",
+        "href": "/sacred-geometry-2"
       }
     ],
     "optionsHeading": "Alege-ți ședința",
@@ -2293,7 +2384,10 @@
     "bookingTitle": "Vindecare și reînnoire",
     "duration": "60 de minute",
     "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
-    "inquiry": "Bună, sunt interesat(ă) de Sacred Geometry Sacred Rites Healing."
+    "inquiry": "Bună, sunt interesat(ă) de Sacred Geometry Sacred Rites Healing.",
+    "originEyebrow": "Originea",
+    "originHeading": "Un ritual cu cristale din Sacred Geometry II",
+    "originBody": "Această vindecare este transmisă în Sacred Geometry II, nivelul dedicat cristalelor din seria Sacred Geometry a Modern Mystery School, unde este cunoscută sub numele de Ritualurile cu cristale (Crystal Rites). Cântările ei sunt rostite într-o limbă străveche, pentru a vindeca trecutul și prezentul și pentru a chema norocul în viitorul tău."
   },
   "SparkOfLife": {
     "heroEyebrow": "Vindecare energetică",
@@ -2301,7 +2395,7 @@
     "heroSubtitle": "Reconectează-te cu scânteia ta originară de forță vitală",
     "heroTagline": "O sesiune de vindecare care îți reface forța vitală și îți reînnoiește energia",
     "introLead": "Forță vitală, canalizată în miezul ființei tale",
-    "introBody1": "Scânteia vieții lucrează dincolo de matricea eterică și de sistemul chakrelor, canalizând energia forței vitale către miezul ființei. Rădăcinile ei duc la templele Egiptului antic, unde a fost dezvoltată pentru preoți și preotese, ca să-i întinerească pentru ani lungi de slujire, și a fost transmisă prin transmitere directă.",
+    "introBody1": "Scânteia vieții lucrează dincolo de matricea eterică și de sistemul chakrelor, canalizând energia forței vitale către miezul ființei. Rădăcinile ei duc la templele Egiptului antic, unde era folosită de preoții și preotesele care slujeau departe de templu, ca să-și păstreze energia înaltă și legătura puternică cu lumina templului, și a fost transmisă prin transmitere directă.",
     "introBody2": "Te odihnești liniștit(ă), întins(ă) sau așezat(ă), oriunde te afli, în timp ce Diana și Radu lucrează la distanță. Trebuie doar să primești. Se completează bine cu o Life Activation, înainte sau după.",
     "benefitsHeading": "Beneficii",
     "benefits": [
@@ -2323,15 +2417,19 @@
     "faq": [
       {
         "q": "Cum poate funcționa vindecarea la distanță?",
-        "a": "Radu și Diana s-au pregătit și au muncit din greu pentru a stăpâni această abilitate. Și-au șlefuit concentrarea, precum și relația cu Ierarhia Luminii. Împreună canalizează forța de vindecare oriunde este nevoie de ea în lume."
+        "a": "Cu permisiunea ta și la ora stabilită împreună, practicianul se conectează cu scânteia divină originară, sursa vieții, și îți îndreaptă lumina ei. Radu și Diana s-au pregătit și au muncit din greu pentru a stăpâni această abilitate. Și-au șlefuit concentrarea, precum și relația cu Ierarhia Luminii. Împreună canalizează forța de vindecare oriunde este nevoie de ea în lume."
       },
       {
         "q": "Cum mă pregătesc?",
-        "a": "Ajută să bei puțină apă înainte și după și să-ți acorzi câteva minute de liniște după sesiune."
+        "a": "Alege un loc liniștit și retras, unde să nu fii deranjat(ă) pe toată durata sesiunii, și închide telefonul. Ajută să bei puțină apă înainte și după. Mulți oameni se simt apoi profund relaxați sau somnoroși, așa că ideală este o seară fără grabă sau o zi liniștită."
       },
       {
         "q": "Cât durează sesiunea?",
         "a": "În total aproximativ 75 de minute — cam 60 de minute de vindecare activă, plus o scurtă discuție înainte și după."
+      },
+      {
+        "q": "Cât de des o pot primi?",
+        "a": "Scânteia vieții se oferă cel mult o dată la trei luni. Dacă simți că ai nevoie de ea mai devreme, vorbește mai întâi cu noi."
       }
     ],
     "bookingTitle": "Reaprinde-ți scânteia",
@@ -2343,7 +2441,7 @@
     "items": [
       {
         "q": "Ce se întâmplă într-o sesiune?",
-        "a": "Începi așezat(ă), pentru prima parte a curățării, apoi stai în picioare cam 20–30 de minute, în timp ce chakrele și corpul tău eteric sunt echilibrate, și închei așezat(ă), cu activarea celor 22 de fire de ADN, urmată de o scurtă lectură. Nu trebuie să pregătești nimic — pur și simplu primești. De obicei rezerv 2 ore, ca să fie loc de discuție înainte și de liniștire după."
+        "a": "Începi așezat(ă), pentru prima parte a curățării, apoi stai în picioare cam 20–30 de minute, în timp ce chakrele și corpul tău eteric sunt echilibrate, și închei așezat(ă), cu activarea celor 22 de fire de ADN, urmată de o scurtă lectură. Nu trebuie să pregătești nimic — pur și simplu primești. De obicei rezervăm 2 ore, ca să fie loc de discuție înainte și de liniștire după."
       },
       {
         "q": "Ce voi simți?",
@@ -2351,11 +2449,16 @@
       },
       {
         "q": "Cum se face integrarea?",
-        "a": "Activarea continuă să se desfășoare aproximativ una până la trei luni. Pot ieși la suprafață emoții vechi, oboseală sau o claritate bruscă. Diana te contactează în această perioadă."
+        "a": "Activarea continuă să se desfășoare aproximativ una până la trei luni. Pot ieși la suprafață emoții vechi, oboseală sau o claritate bruscă. Rămânem în legătură cu tine în această perioadă."
       },
       {
         "q": "Cât de des ar trebui să o primesc?",
-        "a": "Majoritatea oamenilor primesc Life Activation o singură dată. Nu există un program de urmat."
+        "a": "Mulți oameni primesc Life Activation o singură dată, ca prim pas. O poți primi din nou atunci când simți chemarea, cu cel puțin șase săptămâni între ședințe. Dacă plănuiești o Full Spirit Activation, aceasta necesită o Life Activation din ultimele șase săptămâni până la trei luni, așa că unii oameni primesc una nouă înainte."
+      },
+      {
+        "q": "Ce pot primi după o Life Activation?",
+        "a": "De aici se deschid mai multe căi. Full Spirit Activation urmează la șase săptămâni până la trei luni după. <link>Lectura Scopului Vieții</link> se sprijină și ea pe o Life Activation. Iar ultimele două dintre cele 24 de fire ale tale, Codul Galactic și Codul Divin, sunt activate mai târziu, în Activarea Galactică.",
+        "href": "/life-purpose-reading"
       },
       {
         "q": "Am nevoie de un fundal spiritual?",
@@ -2369,6 +2472,10 @@
         "q": "Este practicianta certificată?",
         "a": "Da. Doar practicienii certificați direct de <link>Modern Mystery School International</link> o pot efectua și se recertifică în fiecare an.",
         "href": "https://modernmysteryschoolint.com/"
+      },
+      {
+        "q": "Înlocuiește îngrijirea medicală sau psihologică?",
+        "a": "Nu. Life Activation este un sprijin spiritual, energetic, care lucrează alături de îngrijirea oferită de medicul sau terapeutul tău, niciodată în locul ei. Dacă ai vreo îngrijorare legată de sănătatea ta, spune-ne înainte de ședință."
       }
     ]
   },
@@ -2380,7 +2487,7 @@
       },
       {
         "q": "Am nevoie mai întâi de o Life Activation?",
-        "a": "Da, este necesară o Life Activation din ultimele 90 de zile. Fereastra de 90 de zile vine din tradiția însăși. Dacă a trecut mai mult timp, vom discuta împreună unde te afli înainte de a merge mai departe."
+        "a": "Da. Tradiția cere o Life Activation primită cu cel puțin șase săptămâni și cel mult trei luni înainte de ședința ta. Dacă a trecut mai mult timp, vom discuta împreună unde te afli înainte de a merge mai departe."
       },
       {
         "q": "Ce voi simți?",
@@ -2391,12 +2498,16 @@
         "a": "Mulți observă o așezare în săptămânile următoare — mai puțin zgomot mental, o dispoziție mai stabilă și o direcție mai clară."
       },
       {
+        "q": "O pot primi de mai multe ori?",
+        "a": "Da. Poate fi repetată, cu cel puțin trei luni între ședințe."
+      },
+      {
         "q": "Se poate face la distanță?",
         "a": "Nu — Full Spirit Activation se face doar în persoană."
       },
       {
         "q": "Este practicianta certificată?",
-        "a": "Da. Doar practicienii certificați direct de Modern Mystery School International o pot efectua."
+        "a": "Da. Doar practicienii certificați de Modern Mystery School International o pot oferi: Vindecători Certificați care au absolvit Healers Academy 2 și își reînnoiesc certificarea în fiecare an."
       }
     ]
   },
@@ -2431,7 +2542,7 @@
     "introBody1": "Suntem învățați să adunăm informații, să cântărim fiecare opțiune și să căutăm confirmări ori de câte ori nu suntem siguri. Însă în toată această căutare, este ușor să pierzi legătura cu vocea liniștită și statornică a propriei intuiții.",
     "introBody2": "Sanctuary Meditation este o călătorie ghidată spre interior, către un loc sacru și sigur, unde zgomotul minții de zi cu zi se stinge și îți poți întâlni Sinele Superior, primind îndrumare și răspunsuri.",
     "higherSelfHeading": "Sinele tău Superior",
-    "higherSelfBody": "Sinele tău Superior este sfătuitorul tău cel mai de încredere și cel care te cunoaște cel mai bine. Să-l cunoști este un mare avantaj pentru orice om intuitiv, iar relația cu el devine un instrument minunat de discernământ și creștere.",
+    "higherSelfBody": "Sinele tău Superior este cel mai înțelept și mai de încredere ghid pe care îl ai, partea din tine care te cunoaște cel mai bine. Pe măsură ce îl cunoști, îți devine mai ușor să ai încredere în intuiția ta și să deosebești îndrumarea adevărată de zgomot, iar creșterea ta capătă o busolă statornică.",
     "benefitsHeading": "Ce vei trăi",
     "benefits": [
       {
@@ -2478,9 +2589,10 @@
     "expectHeading": "La ce să te aștepți",
     "expect": [
       "2,5 ore, în persoană, în Vršovice, Praga",
+      "Deschis tuturor: nu este nevoie de experiență în meditație",
       "O meditație ghidată: te însoțim pe tot parcursul călătoriei",
       "Un spațiu care te susține să asculți în interior",
-      "O tehnică la care poți reveni mereu"
+      "O tehnică simplă pe care o poți folosi singur(ă), ori de câte ori ai nevoie"
     ],
     "faq": [
       {
@@ -2498,7 +2610,7 @@
       },
       {
         "q": "Ce urmează după?",
-        "a": "Această tehnică este baza atelierului Journeys of the Spirit, care te învață să primești și mai multă înțelegere și informații prin îndrumare."
+        "a": "Această tehnică este baza pentru Journeys of the Spirit, un curs de o zi întreagă cu călătorii ghidate spre sanctuarul tău, Sinele tău Superior, Mama Gaia, cele patru elemente și femininul și masculinul tău interior, în care înveți să primești și mai multă înțelegere prin îndrumare."
       },
       {
         "q": "Cum mă pot înscrie?",
@@ -2532,7 +2644,7 @@
     "heroTagline": "O meditație ghidată de o oră pentru cei care cunosc deja drumul",
     "introLead": "Întoarce-te în locul sacru și sigur unde îți întâlnești Sinele Superior",
     "introBody1": "Sanctuary Meditation este o tehnică ce te duce într-un loc sacru și sigur, unde îți poți întâlni Sinele Superior și poți primi îndrumare și răspunsuri. Această sesiune este o meditație ghidată de o oră, în care o practicăm împreună.",
-    "introBody2": "Este deschisă celor care au urmat deja cursul complet Sanctuary Meditation Class sau au participat la Empower Thyself.",
+    "introBody2": "Este deschisă celor care au urmat deja cursul complet Sanctuary Meditation Class sau au participat la Empower Thyself, unde călătoria Sanctuary Meditation este predată în două părți.",
     "whoHeading": "Cine poate participa",
     "who": [
       "Absolvenții cursului complet Sanctuary Meditation Class",
@@ -2546,7 +2658,8 @@
       "O întoarcere regulată în locul tău sacru și sigur",
       "O relație mai profundă cu Sinele tău Superior",
       "Îndrumare și răspunsuri",
-      "Încrederea că mesajele pe care le primești sunt adevărate, reale și spre binele tău cel mai înalt"
+      "Încrederea că mesajele pe care le primești sunt adevărate, reale și spre binele tău cel mai înalt",
+      "O practică regulată care face tehnica mai ușor de folosit pe cont propriu, zilnic sau ori de câte ori ai nevoie"
     ],
     "bookingTitle": "Rezervă-ți locul",
     "duration": "1 oră",
@@ -2562,8 +2675,8 @@
     "introBody1": "Meditația îți poate aduce pace în mijlocul haosului din mintea ta. Gândurile aglomerate te pot opri să trăiești cea mai bună viață a ta.",
     "introBody2": "Poate ești deja familiarizat(ă) cu meditația, dar îți este greu să găsești timp pentru tine ca s-o faci parte din rutina ta obișnuită. Participarea la o sesiune în care altcineva te ghidează în meditație te poate ajuta să-ți construiești mușchiul atenției.",
     "whatHeading": "O sesiune experiențială",
-    "whatBody1": "Max Meditation este un sistem ghidat care îmbină tehnica yoghină străveche cu metoda modernă pentru a elibera stresul și a reda vitalitatea.",
-    "whatBody2": "Alătură-te unei sesiuni experiențiale în care înveți să creezi timp și spațiu pentru pace și echilibru în viața ta.",
+    "whatBody1": "Max Meditation System™ a fost dezvoltat de Gudni Gudnason, fondatorul Modern Mystery School, de-a lungul a patru decenii de călătorii și studiu alături de profesori de meditație din India și Tibet. Îmbină aceste tehnici străvechi cu psihologia modernă și NLP (programarea neuro-lingvistică) pentru a elibera stresul și a reda energia și vitalitatea.",
+    "whatBody2": "Alătură-te unei sesiuni experiențiale în care înveți să creezi timp și spațiu pentru pace și echilibru în viața ta. Radu și Diana sunt certificați prin Healers Academy să ghideze Max Meditation System.",
     "whoHeading": "Pentru cine este",
     "who": [
       "Pentru oricine caută mai multă pace a minții",
@@ -2571,8 +2684,8 @@
       "Pentru începători absoluți — nu este nevoie de experiență"
     ],
     "bookingTitle": "Rezervă-ți locul",
-    "duration": "1 oră",
-    "bookingNote": "Datele vor fi anunțate. Contactează-ne și te vom anunța când va avea loc următoarea Max Meditation la Praga.",
+    "duration": "1,5 ore",
+    "bookingNote": "Max Meditation are loc la Seara noastră de meditație din Praga, o dată la două săptămâni. Rezervă-ți locul pe pagina Comunitate sau scrie-ne dacă ai întrebări.",
     "inquiry": "Bună, aș dori să aflu mai multe despre Max Meditation."
   },
   "HealingsWidget": {
@@ -2749,7 +2862,7 @@
       }
     ],
     "relatedHeading": "Mergi mai adânc în scopul tău",
-    "relatedBody": "Lectura Scopului Vieții și a celui de-al 11-lea Codon îți dezvăluie scopul divin și darurile pe care le porți.",
+    "relatedBody": "Lectura Scopului Vieții (al 11-lea Codon) îți dezvăluie scopul divin și darurile pe care le porți.",
     "relatedCta": "Descoperă Lectura Scopului Vieții",
     "bookingTitle": "Pune-ți întrebările",
     "duration": "60 de minute",
@@ -2805,7 +2918,7 @@
       },
       {
         "q": "Prin ce diferă de Lectura Scopului Vieții?",
-        "a": "Lectura Scopului Vieții și a celui de-al 11-lea Codon se concentrează pe scopul tău divin și pe ce poți face acum pentru a-l împlini. Lectura Chronos se concentrează pe punctele tale forte și slabe înnăscute și pe cum să lucrezi cu amândouă."
+        "a": "Lectura Scopului Vieții (al 11-lea Codon) se concentrează pe scopul tău divin și pe ce poți face acum pentru a-l împlini. Lectura Chronos se concentrează pe punctele tale forte și slabe înnăscute și pe cum să lucrezi cu amândouă."
       }
     ],
     "relatedHeading": "Începe cu Life Activation",

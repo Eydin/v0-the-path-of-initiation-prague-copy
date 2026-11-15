@@ -37,7 +37,7 @@ export default async function SacredGeometryTwo({
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "SacredGeometry2Page" })
   const inquiry = t("inquiry")
-  const benefits = [0, 1, 2].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
+  const benefits = [0, 1, 2, 3, 4].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
 
   return (
     <ModalityShell bg="flammarion.jpg" position="center 35%">

@@ -42,7 +42,7 @@ export default async function KeysOfTheAncients({
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: "KeysOfTheAncientsPage" })
   const inquiry = t("inquiry")
-  const benefits = [0, 1, 2, 3].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
+  const benefits = [0, 1, 2, 3, 4].map((i) => ({ label: t(`benefits.${i}.label`), text: t(`benefits.${i}.text`) }))
 
   return (
     <ModalityShell bg="hermes-trismegistus-sienna-cathedral-mosaic.jpg" position="center 30%">
@@ -76,7 +76,7 @@ export default async function KeysOfTheAncients({
           {t.rich("forYouBody2", {
             link: (chunks) => (
               <a
-                href="https://www.thedavelanyon.com/"
+                href="https://www.thedavelanyon.com/keys/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-semibold text-primary underline underline-offset-2 hover:text-primary/80"

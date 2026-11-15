@@ -12,6 +12,7 @@ import {
   BookingBlock,
 } from "@/components/modality"
 import { SacredGeometrySeriesLinks } from "@/components/sacred-geometry-series-links"
+import { Link } from "@/i18n/navigation"
 
 export async function generateMetadata({
   params,
@@ -60,7 +61,17 @@ export default async function SacredGeometryThree({
         <Lead>{t("introLead")}</Lead>
         <Body>{t("introBody1")}</Body>
         <Body>
-          {t.rich("introBody2", { strong: (chunks) => <strong className="text-primary">{chunks}</strong> })}
+          {t.rich("introBody2", {
+            strong: (chunks) => <strong className="text-primary">{chunks}</strong>,
+            link: (chunks) => (
+              <Link
+                href="/aura-healing"
+                className="font-semibold text-primary underline underline-offset-2 hover:text-primary/80"
+              >
+                {chunks}
+              </Link>
+            ),
+          })}
         </Body>
         <div className="border-t border-primary/20 pt-6">
           <WhatsAppButton text={inquiry} label={t("askLabel")} />

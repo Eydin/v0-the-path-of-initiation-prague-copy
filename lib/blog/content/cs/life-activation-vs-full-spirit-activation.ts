@@ -23,7 +23,7 @@ Obě sezení zde v Praze trvají zhruba **dvě hodiny** a jsou nabízena za stej
 ### Doplňkové procedury
 
 - **Life Activation** zahrnuje uvolnění emočních bloků na korunní čakře, vyvážení centrálního energetického jádra, otevření 16 lotosových okvětních lístků (prohloubení spojení se Zemí, Vodou, Vzduchem a Ohněm), vyrovnání elementárních a magnetických linií, kompletní vyvážení čaker, odstranění „spálených éterických krystalů", krátké čtení z vaší nově aktivované DNA a u mnoha sezení Energy Spray (Spagyrics) připravený přímo v alchymistické laboratoři školy.
-- **Full Spirit Activation** zahrnuje probuzení čaker, probuzení Stromu života, které vás sladí s touto živou mapou stvoření uvnitř vás, a vlastní Energy Spray (Spagyrics) — Purificado & Crystalis — podporující jemnou detoxikaci během integrace této hlubší práce.
+- **Full Spirit Activation** zahrnuje probuzení čaker, probuzení Stromu života, které vás sladí s touto živou mapou stvoření uvnitř vás, a vlastní Energy Spray (Spagyrics) — Purificato & Crystalis — podporující jemnou detoxikaci během integrace této hlubší práce.
 
 ### Pro koho je každá z nich určena
 
@@ -37,7 +37,7 @@ Obě sezení zde v Praze trvají zhruba **dvě hodiny** a jsou nabízena za stej
 
 ### Ideální načasování: proč na pořadí záleží
 
-Toto je téma, na které se lidé ptají nejčastěji, a odpověď je osvěživě přesná: abyste z Full Spirit Activation vytěžili co nejvíce, absolvujte nejprve svou Life Activation — ideálně někde v rozmezí **tří týdnů až tří měsíců** předtím. Toto období dává vašemu tělu a energetickému poli skutečný čas na integraci první aktivace předtím, než začne hlubší práce zakotvení duše a ducha. Přeskočení kroku neudělá druhé sezení silnějším; jednoduše žádá tělo, aby uneslo víc, než na co mělo čas se připravit. Pořadí je zde součástí léčby.
+Toto je téma, na které se lidé ptají nejčastěji, a odpověď je osvěživě přesná: abyste z Full Spirit Activation vytěžili co nejvíce, absolvujte nejprve svou Life Activation — **nejméně šest týdnů a nejvýše tři měsíce** předtím. Toto období dává vašemu tělu a energetickému poli skutečný čas na integraci první aktivace předtím, než začne hlubší práce zakotvení duše a ducha. Přeskočení kroku neudělá druhé sezení silnějším; jednoduše žádá tělo, aby uneslo víc, než na co mělo čas se připravit. Pořadí je zde součástí léčby.
 
 ## Výběr vašeho výchozího bodu
 
