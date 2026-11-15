@@ -2231,10 +2231,6 @@ Seven traditions, one current of light
 Throughout history, the sacred wisdom of humanity has been preserved and passed down through seven great mystery school traditions — each rooted in a different culture and place, yet each carrying a facet of the same eternal light. Together they form the lineage that the Modern Mystery School carries today.
 In this workshop you journey through all seven — learning their history, their gifts, and their place in the great chain of wisdom — and, through meditation and ceremony, you connect directly with the living energy of each one.
 Reserve Your Place
-What you seek
-is seeking you
-Rumi · 13th Century
-The Ancient of Days · W. Blake, 1794
 What You Will Gain
 The full lineage:
 Understand the seven mystery school traditions and how they connect through time.

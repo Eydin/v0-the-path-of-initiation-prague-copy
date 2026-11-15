@@ -11,7 +11,6 @@ import {
   BookingBlock,
   type CalEmbed,
 } from "@/components/modality"
-import { QuoteBreaker } from "@/components/quote-breaker"
 import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
 import { BookLink } from "@/components/book-link"
 
@@ -80,18 +79,6 @@ export default async function SevenMysterySchools({
           </BookLink>
         </div>
       </Panel>
-
-      <QuoteBreaker
-        image="ancient-of-days-blake.jpg"
-        quote={
-          <>
-            &ldquo;{t("quote.text")} <em className="text-primary">{t("quote.emphasis")}</em>.&rdquo;
-          </>
-        }
-        attribution={t("quote.attribution")}
-        caption={t("quote.caption")}
-        position="center 16%"
-      />
 
       <Panel>
         <PanelHeading>{t("gainHeading")}</PanelHeading>
