@@ -8,7 +8,7 @@ import { useEffect, useRef, useState } from "react"
 import { useLocale, useTranslations } from "next-intl"
 import { Sparkles, X, Send, ArrowUpRight } from "lucide-react"
 import ReactMarkdown from "react-markdown"
-import { WHATSAPP_HANDOFF } from "@/lib/chatbot/config"
+import { MAX_QUESTION_CHARS, WHATSAPP_HANDOFF } from "@/lib/chatbot/config"
 
 type Msg = { role: "user" | "assistant"; content: string }
 
@@ -323,6 +323,7 @@ export function ChatWidget() {
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
                 onKeyDown={onKeyDown}
+                maxLength={MAX_QUESTION_CHARS}
                 rows={1}
                 placeholder={t("inputPlaceholder")}
                 className="max-h-28 min-h-[44px] flex-1 resize-none rounded-xl border border-primary/20 bg-background px-3.5 py-3 text-base leading-snug text-foreground outline-none placeholder:text-muted-foreground/70 focus:border-primary/50"

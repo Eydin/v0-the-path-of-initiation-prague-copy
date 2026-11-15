@@ -20,6 +20,9 @@ export const WHATSAPP_HANDOFF = waLink(
  */
 export const CHAT_MODEL = process.env.CHAT_MODEL || "google/gemini-3-flash"
 
+/** Longest question a visitor can send in one chat message (characters). */
+export const MAX_QUESTION_CHARS = 1000
+
 /** Full language name per locale, used to instruct the assistant which language to reply in. */
 export const LOCALE_NAMES: Record<string, string> = {
   en: "English",

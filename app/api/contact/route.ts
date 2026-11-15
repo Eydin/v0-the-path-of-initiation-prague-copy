@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server"
+import { checkBotId } from "botid/server"
 import { Resend } from "resend"
 import { z } from "zod"
 import { routing } from "@/i18n/routing"
@@ -18,6 +19,15 @@ const schema = z.object({
 })
 
 export async function POST(req: Request) {
+  // Vercel BotID (see instrumentation-client.ts). A plain error rather than a
+  // fake success, so a real person wrongly flagged sees the "try again / email
+  // us" message instead of losing their message silently.
+  const { isBot } = await checkBotId()
+  if (isBot) {
+    console.warn("[contact] blocked a request that failed the bot check")
+    return NextResponse.json({ error: "access_denied" }, { status: 403 })
+  }
+
   let parsedBody: z.infer<typeof schema>
   try {
     const body = await req.json()

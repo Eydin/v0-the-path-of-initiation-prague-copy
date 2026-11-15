@@ -1,4 +1,5 @@
 import createNextIntlPlugin from "next-intl/plugin"
+import { withBotId } from "botid/next/config"
 
 const withNextIntl = createNextIntlPlugin("./i18n/request.ts")
 
@@ -40,4 +41,6 @@ const nextConfig = {
   },
 }
 
-export default withNextIntl(nextConfig)
+// withBotId adds the rewrites that Vercel BotID's invisible bot check needs
+// (see instrumentation-client.ts for the protected routes).
+export default withBotId(withNextIntl(nextConfig))

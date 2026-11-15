@@ -1,7 +1,8 @@
 import { streamText } from "ai"
 import { waitUntil } from "@vercel/functions"
+import { checkBotId } from "botid/server"
 import { buildSystemPrompt } from "@/lib/chatbot/knowledge"
-import { CHAT_MODEL } from "@/lib/chatbot/config"
+import { CHAT_MODEL, MAX_QUESTION_CHARS } from "@/lib/chatbot/config"
 import { logChatExchange } from "@/lib/chatbot/storage"
 import { routing } from "@/i18n/routing"
 
@@ -25,11 +26,22 @@ function sanitize(messages: unknown): ChatMessage[] {
         typeof (m as ChatMessage).content === "string" &&
         (m as ChatMessage).content.trim().length > 0,
     )
-    .map((m) => ({ role: m.role, content: m.content.slice(0, 2000) }))
+    // Visitor questions are capped at MAX_QUESTION_CHARS (the chat box enforces
+    // the same limit); earlier assistant answers keep a larger allowance.
+    .map((m) => ({ role: m.role, content: m.content.slice(0, m.role === "user" ? MAX_QUESTION_CHARS : 2000) }))
     .slice(-12) // keep the last few turns only
 }
 
 export async function POST(req: Request) {
+  // Vercel BotID (see instrumentation-client.ts): refuse scripts calling the
+  // chat directly, so nobody can run up the AI bill outside the website. The
+  // widget treats any error as "assistant unavailable" and offers WhatsApp.
+  const { isBot } = await checkBotId()
+  if (isBot) {
+    console.warn("[chat] blocked a request that failed the bot check")
+    return new Response("Access denied", { status: 403 })
+  }
+
   let messages: ChatMessage[]
   let sessionId: string | undefined
   let locale: string
