@@ -244,6 +244,17 @@ export const SCHEDULE: ScheduledClass[] = [
       "2026-10-01",
       "2026-10-15",
       "2026-10-29",
+      // every other Thursday from 3 Dec to the end of April; 31 Dec (New Year's Eve) skipped
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-28",
+      "2027-02-11",
+      "2027-02-25",
+      "2027-03-11",
+      "2027-03-25",
+      "2027-04-08",
+      "2027-04-22",
     ],
   },
   {
