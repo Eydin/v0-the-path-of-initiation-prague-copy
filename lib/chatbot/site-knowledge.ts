@@ -741,6 +741,7 @@ The remaining 24.500 CZK is due 2 weeks before the 2-day training and Initiation
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Email
+Free 30-min call
 Price
 Duration
 Book Now
@@ -928,6 +929,7 @@ Discover Your Potential to Be a Divine Being
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Email
+Free 30-min call
 Price
 Duration
 Book In Person
@@ -1016,6 +1018,7 @@ Healers Academy 1 is a five-day intensive; Healers Academy 2 follows as a six-da
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Email
+Free 30-min call
 Price
 Duration
 Book Now
@@ -1426,6 +1429,7 @@ About the Life Activation · Dr. Theresa Bullard-Whyke
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Email
+Free 30-min call
 Price
 Duration
 Book Now
@@ -1985,6 +1989,7 @@ The Ritual Master path begins with Empower Thyself and the Healers Academy. Reac
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Email
+Free 30-min call
 Price
 Duration
 Book Now
@@ -3117,20 +3122,11 @@ Continue with
 Healer training · classes · community
 From there, the path is yours to shape: become a certified healer in the Modern Mystery School tradition through Healers Academy, study workshops such as Sacred Geometry and Astral Travel, and grow with a warm community in Prague that walks the path with you.
 See upcoming classes
-Not sure which step is right for you? Ask us on WhatsApp
+Not sure which step is right for you? Book a free 30-minute call
 Your Invitation
 Are You Ready to Walk the Path?
 The door is open, but only you can choose to step through it. If you feel the call, let's start with the beginning: the Life Activation.
 Book a Life Activation
-Prague, Czech Republic
-The Path of Initiation:
-A 3,000-Year-Old Lineage
-Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, certified teachers of the Modern Mystery School.
-For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call.
-I'm looking for healing
-I want to learn & grow
-Not sure where to begin? Ask us on WhatsApp
-Hello, I would like to learn more about the Path of Initiation.
 
 ## PAGE: (component) footer.tsx
 PATH OF
@@ -3174,7 +3170,7 @@ Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, c
 For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call.
 I'm looking for healing
 I want to learn & grow
-Not sure where to begin? Ask us on WhatsApp
+Not sure where to begin? Book a free 30-minute call
 Hello, I would like to learn more about the Path of Initiation.
 
 ## PAGE: (component) guide-section.tsx
@@ -3309,7 +3305,7 @@ Healing, meditation and spiritual training in Prague, with Radu & Diana Coman, c
 For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call.
 I'm looking for healing
 I want to learn & grow
-Not sure where to begin? Ask us on WhatsApp
+Not sure where to begin? Book a free 30-minute call
 Hello, I would like to learn more about the Path of Initiation.
 
 ## PAGE: (component) initiate-invite.tsx
@@ -3351,8 +3347,7 @@ Empower Thyself
 I'd love to meet kind, like-minded people
 Community evenings
 Still not sure?
-Write to us and we'll help you choose.
-Hello, I'm not sure where to start. Could you help me choose?
+Book a free 30-minute call and we'll help you choose.
 
 ## PAGE: (component) mms-link.tsx
 text-primary underline underline-offset-4 hover:opacity-80
@@ -3370,11 +3365,6 @@ We are certified Modern Mystery School practitioners and teachers. Whichever of 
 
 ## PAGE: (component) modality.tsx
 radu@thepathofinitiationprague.com
-data-cal-link
-data-cal-namespace
-data-cal-origin
-data-cal-config
-month_view
 noopener noreferrer
 inscriere-eveniment
 investment
@@ -3382,6 +3372,7 @@ duration
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Email
+Free 30-min call
 Price
 Duration
 Book Now

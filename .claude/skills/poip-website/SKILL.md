@@ -36,7 +36,8 @@ scratch every time — read it fully before starting non-trivial work here.
   against real committed translations; don't assume prose stays English).
 - **Shared "class/program page" building blocks**: `components/modality.tsx`
   exports `ModalityShell`, `ModalityHero`, `Panel`, `PanelHeading`, `Lead`,
-  `Body`, `BenefitList`, `WhatsAppButton`, `EmailButton`, `BookingBlock`.
+  `Body`, `BenefitList`, `WhatsAppButton`, `EmailButton`, `FreeCallButton`,
+  `BookingBlock`.
   Every activation/initiation/workshop page (life-activation,
   sacred-geometry-2/3/4, keys-of-the-ancients, kabbalah-ascension, ritual-
   master, ...) is composed from these — copy the pattern from a neighboring
@@ -44,8 +45,10 @@ scratch every time — read it fully before starting non-trivial work here.
   - `BookingBlock` takes an optional `slug` (wires to `lib/schedule.ts` for a
     "next dates" box — omit `slug` for a referral-only page with no local
     booking), `investment`, `duration`, and `note` (shown above the
-    WhatsApp/Email buttons — use it for a "coming soon" message when there
-    are no dates yet).
+    free-call/WhatsApp buttons — use it for a "coming soon" message when there
+    are no dates yet). Its contact row is `FreeCallButton` (opens the free
+    30-minute Zoom call, `all/30min`, in the Cal popup) + `WhatsAppButton`;
+    `EmailButton` is still used directly by a few listing pages.
 - **Class schedule**: `lib/schedule.ts` → `SCHEDULE` array, one entry per
   class with a `dates: string[]` (`YYYY-MM-DD`). `dates: []` means "not
   scheduled yet" — it's correctly invisible on `/calendar` and in
@@ -162,10 +165,11 @@ click listener for any element carrying `data-cal-link` that opens the
 popup — but it **never calls `event.preventDefault()`**. Left alone, a
 normal `<a href>` with these attributes both opens the popup *and* follows
 the link (same tab, or a stray new tab if `target="_blank"` is set). The
-`calEmbedAttrs()` helper in `components/modality.tsx` already attaches its
-own `onClick={(e) => e.preventDefault()}` to cancel that. If you ever wire
-up a **new, bespoke** trigger element instead of going through
-`ImageHero`/`BookingBlock`, you must replicate this yourself or clicking
+`calEmbedAttrs()` helper in `lib/cal.ts` already attaches its
+own `onClick={(e) => e.preventDefault()}` to cancel that. For a simple
+bespoke link, use `components/book-link.tsx` (`<BookLink slug="...">`), which
+wraps the helper and mounts its own loader. If you ever wire
+up a **new, bespoke** trigger element without those helpers, you must replicate this yourself or clicking
 will misbehave exactly this way (confirmed by reading Cal's actual bundled
 source, not assumed from docs — the official docs don't mention it).
 
@@ -185,6 +189,11 @@ source, not assumed from docs — the official docs don't mention it).
   reading pages built on `components/healing-session-page.tsx` just pass
   `calEmbed` (or `bookOptions` for in-person/remote pairs) in their config
   — no manual `CalcomPopupLoader` needed there.
+- The free 30-minute call (`FREE_CALL` / `FREE_CALL_URL` in `lib/cal.ts`) is
+  offered in four places: the homepage "not sure?" links (hero,
+  "What are you looking for?", "Your first step"), `BookingBlock`'s
+  `FreeCallButton`, a link under the chat input, and the chatbot prompt
+  (`lib/chatbot/knowledge.ts`), which suggests it to undecided visitors.
 
 ## Key file map
 
@@ -201,7 +210,9 @@ source, not assumed from docs — the official docs don't mention it).
 | Chatbot knowledge generator | `scripts/build-knowledge.mjs` |
 | Chatbot knowledge (generated, don't hand-edit) | `lib/chatbot/site-knowledge.ts` |
 | Chatbot knowledge (hand-written facts + combiner) | `lib/chatbot/knowledge.ts` |
-| Shared page-shell components; `CalEmbed` type + `calEmbedAttrs` helper | `components/modality.tsx` |
+| Shared page-shell components (re-exports `CalEmbed`/`calEmbedAttrs`) | `components/modality.tsx` |
+| `CAL_ORIGIN`, `CalEmbed` type, `calEmbedAttrs` helper, `FREE_CALL` (plain module, safe in server components) | `lib/cal.ts` |
+| Popup link by Cal slug, usable from server components | `components/book-link.tsx` |
 | Loads Cal.com's embed script for the booking popup (mount once per page) | `components/calcom-popup-loader.tsx` |
 | Site nav (desktop + mobile, **both** live here) | `components/header.tsx` |
 | Footer nav | `components/footer.tsx` |

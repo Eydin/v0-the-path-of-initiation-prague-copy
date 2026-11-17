@@ -1,10 +1,11 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { ChevronDown, HeartHandshake, MessageCircle, Sparkles } from "lucide-react"
+import { ChevronDown, HeartHandshake, Sparkles, Video } from "lucide-react"
 import { useTranslations } from "next-intl"
 import { useIsMobile } from "@/hooks/use-mobile"
-import { waLink } from "@/components/modality"
+import { BookLink } from "@/components/book-link"
+import { FREE_CALL } from "@/lib/cal"
 
 export function HeroSection() {
   const isMobile = useIsMobile()
@@ -111,15 +112,13 @@ export function HeroSection() {
               {t("doorLearn")}
             </a>
           </div>
-          <a
-            href={waLink(t("inquiry"))}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="mx-auto mt-6 block max-w-xs text-center text-sm font-semibold text-[#25D366] underline-offset-4 transition-colors hover:text-[#1ebe5b] hover:underline sm:max-w-none"
+          <BookLink
+            slug={FREE_CALL.namespace}
+            className="mx-auto mt-6 block max-w-xs text-center text-sm font-semibold text-primary underline-offset-4 transition-colors hover:text-gold-light hover:underline sm:max-w-none"
           >
-            <MessageCircle className="mr-2 inline h-4 w-4 align-[-3px]" />
+            <Video className="mr-2 inline h-4 w-4 align-[-3px]" />
             {t("askLink")}
-          </a>
+          </BookLink>
         </motion.div>
       </div>
 

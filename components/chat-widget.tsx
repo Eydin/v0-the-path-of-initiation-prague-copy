@@ -6,9 +6,11 @@
 
 import { useEffect, useRef, useState } from "react"
 import { useLocale, useTranslations } from "next-intl"
-import { Sparkles, X, Send, ArrowUpRight } from "lucide-react"
+import { Sparkles, X, Send, ArrowUpRight, Video } from "lucide-react"
 import ReactMarkdown from "react-markdown"
 import { MAX_QUESTION_CHARS, WHATSAPP_HANDOFF } from "@/lib/chatbot/config"
+import { FREE_CALL } from "@/lib/cal"
+import { BookLink } from "@/components/book-link"
 
 type Msg = { role: "user" | "assistant"; content: string }
 
@@ -337,7 +339,14 @@ export function ChatWidget() {
                 <Send className="h-5 w-5" />
               </button>
             </div>
-            <div className="mt-2 flex items-center justify-center">
+            <div className="mt-2 flex flex-wrap items-center justify-center gap-x-5 gap-y-1">
+              <BookLink
+                slug={FREE_CALL.namespace}
+                className="inline-flex items-center gap-1.5 text-xs tracking-wide text-muted-foreground transition-colors hover:text-primary"
+              >
+                <Video className="h-4 w-4" />
+                {t("bookFreeCall")}
+              </BookLink>
               <WhatsAppHandoff />
             </div>
           </div>

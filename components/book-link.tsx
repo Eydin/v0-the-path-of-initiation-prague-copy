@@ -1,7 +1,7 @@
 "use client"
 
 import type { ReactNode } from "react"
-import { calEmbedAttrs, type CalEmbed } from "./modality"
+import { CAL_ORIGIN, calEmbedAttrs, type CalEmbed } from "@/lib/cal"
 import { CalcomPopupLoader } from "./calcom-popup-loader"
 
 /**
@@ -21,7 +21,7 @@ export function BookLink({
   className?: string
   children: ReactNode
 }) {
-  const href = `https://booking.thepathofinitiationprague.com/all/${slug}`
+  const href = `${CAL_ORIGIN}/all/${slug}`
   const calEmbed: CalEmbed = { link: `all/${slug}`, namespace: slug }
   return (
     <>

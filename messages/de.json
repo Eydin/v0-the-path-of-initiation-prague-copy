@@ -7,7 +7,7 @@
     "intro": "Seit Jahrtausenden geben die Mysterienschulen praktische Werkzeuge weiter, um dich selbst zu erkennen, Körper und Seele zu heilen und ein sinnerfülltes Leben zu führen: den Weg, den Leonardo da Vinci, Nikola Tesla und Isaac Newton gegangen sind. Heute steht er jedem offen, der den Ruf spürt.",
     "doorHealing": "Ich suche Heilung",
     "doorLearn": "Ich möchte lernen & wachsen",
-    "askLink": "Unsicher, wo du anfangen sollst? Frag uns auf WhatsApp",
+    "askLink": "Unsicher, wo du anfangen sollst? Buche ein kostenloses 30-minütiges Gespräch",
     "inquiry": "Hallo, ich würde gerne mehr über den Pfad der Initiation erfahren."
   },
   "Header": {
@@ -57,6 +57,7 @@
     "mmsUkButton": "Preise & Anmeldung bei MMS UK",
     "whatsapp": "WhatsApp",
     "email": "E-Mail",
+    "freeCall": "Kostenloses Gespräch (30 Min.)",
     "investment": "Preis",
     "duration": "Dauer",
     "bookNow": "Jetzt buchen",
@@ -258,8 +259,7 @@
       }
     },
     "unsure": "Noch unsicher?",
-    "unsureLink": "Schreib uns, wir helfen dir bei der Wahl.",
-    "unsureMessage": "Hallo, ich weiß nicht, wo ich anfangen soll. Könnt ihr mir bei der Wahl helfen?"
+    "unsureLink": "Buche ein kostenloses 30-minütiges Gespräch, wir helfen dir bei der Wahl."
   },
   "Welcome": {
     "heading": "Hallo, wir sind Diana und Radu",
@@ -1727,6 +1727,7 @@
     "errorFallback": "**Es tut mir leid** — ich habe gerade keinen Zugriff auf mein Wissen. Radu hilft dir gerne persönlich auf WhatsApp weiter.",
     "messageRaduWhatsapp": "Radu auf WhatsApp schreiben",
     "talkToRaduWhatsapp": "Mit Radu auf WhatsApp sprechen",
+    "bookFreeCall": "Kostenloses 30-Min.-Gespräch buchen",
     "nudgeQuestion": "Hast du Fragen an mich?",
     "dismissNudgeAriaLabel": "Schließen"
   },
@@ -2726,7 +2727,7 @@
       "body": "Von da an gestaltest du den Pfad selbst: Werde in der Healers Academy zum zertifizierten Heiler in der Tradition der Modern Mystery School, besuche Workshops wie Sacred Geometry und Astralreisen und wachse mit einer herzlichen Gemeinschaft in Prag, die den Weg mit dir geht.",
       "link": "Kommende Kurse ansehen"
     },
-    "askLink": "Unsicher, welcher Schritt der richtige für dich ist? Frag uns auf WhatsApp"
+    "askLink": "Unsicher, welcher Schritt der richtige für dich ist? Buche ein kostenloses 30-minütiges Gespräch"
   },
   "ShamanicAuraClearing": {
     "heroEyebrow": "Aurareinigung",

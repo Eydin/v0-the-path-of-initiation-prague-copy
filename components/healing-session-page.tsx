@@ -10,9 +10,9 @@ import {
   Body,
   BenefitList,
   BookingBlock,
-  CAL_ORIGIN,
   type CalEmbed,
 } from "@/components/modality"
+import { CAL_ORIGIN } from "@/lib/cal"
 import { MedicalDisclaimer, ModalityFaq, type FaqItem } from "@/components/modality-faq"
 import { Link } from "@/i18n/navigation"
 import { LinkedText } from "@/components/linked-text"

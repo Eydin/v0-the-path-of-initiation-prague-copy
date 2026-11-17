@@ -8,7 +8,9 @@ import { Footer } from "@/components/footer"
 import { ScrollReveal } from "@/components/scroll-reveal"
 import { UpcomingDates } from "@/components/upcoming-dates"
 import { EmailContactButton } from "@/components/email-contact-button"
-import { ArrowRight, Mail, MessageCircle } from "lucide-react"
+import { CalcomPopupLoader } from "@/components/calcom-popup-loader"
+import { CAL_ORIGIN, FREE_CALL, FREE_CALL_URL, calEmbedAttrs, type CalEmbed } from "@/lib/cal"
+import { ArrowRight, Mail, MessageCircle, Video } from "lucide-react"
 
 // ── Shared contact details ──────────────────────────────────────────────
 /** Official MMS UK calendar — where prices and sign-up live for programs we do not run locally. */
@@ -16,32 +18,8 @@ export const MMS_UK_CALENDAR_URL = "https://modernmysteryschooluk.com/calendar/"
 export const WHATSAPP_NUMBER = "420792908296"
 export const CONTACT_EMAIL = "radu@thepathofinitiationprague.com"
 
-// ── Cal.com booking popup ───────────────────────────────────────────────
-export const CAL_ORIGIN = "https://booking.thepathofinitiationprague.com"
-
-/** Wires a button/link up to Cal.com's "pop up via element click" embed
- *  (see CalcomPopupLoader) instead of navigating - pass to a `cta`/`bookCalEmbed`
- *  prop alongside the normal href, which stays as a right-click/no-JS fallback. */
-export type CalEmbed = {
-  /** e.g. "all/empower-thyself" */
-  link: string
-  namespace: string
-  config?: Record<string, string>
-}
-
-export function calEmbedAttrs(calEmbed?: CalEmbed) {
-  if (!calEmbed) return {}
-  return {
-    // Cal's own click listener (bound on document) opens the modal but never
-    // calls preventDefault, so a plain click would also navigate/open a new
-    // tab via href unless we stop that ourselves.
-    onClick: (e: React.MouseEvent) => e.preventDefault(),
-    "data-cal-link": calEmbed.link,
-    "data-cal-namespace": calEmbed.namespace,
-    "data-cal-origin": CAL_ORIGIN,
-    "data-cal-config": JSON.stringify(calEmbed.config ?? { layout: "month_view" }),
-  }
-}
+// ── Cal.com booking popup (defined in lib/cal.ts, re-exported for existing pages) ──
+export { calEmbedAttrs, type CalEmbed }
 
 export function waLink(text: string) {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`
@@ -452,6 +430,27 @@ export function EmailButton({ subject }: { subject: string }) {
 }
 
 // ── Booking / CTA block ─────────────────────────────────────────────────
+/** Opens the free 30-minute intro call (Zoom) in the Cal.com popup. */
+export function FreeCallButton() {
+  const t = useTranslations("Modality")
+  return (
+    <>
+      <CalcomPopupLoader namespace={FREE_CALL.namespace} />
+      <a
+        href={FREE_CALL_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        {...calEmbedAttrs(FREE_CALL)}
+        className="inline-flex items-center justify-center gap-3 rounded border border-primary px-5 py-4 font-serif text-sm uppercase tracking-widest text-primary transition-all hover:bg-primary hover:text-primary-foreground sm:px-10"
+      >
+        <Video className="h-4 w-4 shrink-0" />
+        <span className="text-center">{t("freeCall")}</span>
+        <ArrowRight className="hidden h-4 w-4 shrink-0 sm:block" />
+      </a>
+    </>
+  )
+}
+
 export function BookingBlock({
   title,
   investment,
@@ -575,7 +574,7 @@ export function BookingBlock({
                 )}
 
                 <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
-                  <EmailButton subject={inquiry} />
+                  <FreeCallButton />
                   <WhatsAppButton text={inquiry} />
                 </div>
               </div>

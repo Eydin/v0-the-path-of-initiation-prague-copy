@@ -2,11 +2,11 @@
 
 import { getCalApi } from "@calcom/embed-react"
 import { useEffect } from "react"
-import { CAL_ORIGIN } from "@/components/modality"
+import { CAL_ORIGIN } from "@/lib/cal"
 
 /**
  * Initialises Cal.com's embed script so any element on the page carrying
- * data-cal-link/data-cal-namespace (see the CalEmbed type in modality.tsx)
+ * data-cal-link/data-cal-namespace (see the CalEmbed type in lib/cal.ts)
  * opens the booking calendar as a popup when clicked, instead of navigating.
  * Renders nothing - mount it once per page that uses calEmbed.
  */

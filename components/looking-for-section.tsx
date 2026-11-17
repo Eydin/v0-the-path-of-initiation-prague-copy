@@ -12,6 +12,8 @@ import {
   type LucideIcon,
 } from "lucide-react"
 import { Link } from "@/i18n/navigation"
+import { FREE_CALL } from "@/lib/cal"
+import { BookLink } from "./book-link"
 import { ScrollReveal } from "./scroll-reveal"
 
 // "What are you looking for?" — a playful chooser: tap how you feel, see where to start.
@@ -26,8 +28,6 @@ const TILES: { key: string; href: string; icon: LucideIcon }[] = [
   { key: "learn", href: "/empower-thyself", icon: BookOpen },
   { key: "people", href: "/community", icon: HeartHandshake },
 ]
-
-const WHATSAPP = "https://wa.me/420792908296"
 
 export async function LookingForSection() {
   const t = await getTranslations("LookingFor")
@@ -69,14 +69,9 @@ export async function LookingForSection() {
         <ScrollReveal>
           <p className="mt-8 text-center text-muted-foreground">
             {t("unsure")}{" "}
-            <a
-              href={`${WHATSAPP}?text=${encodeURIComponent(t("unsureMessage"))}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-primary underline underline-offset-4 hover:opacity-80"
-            >
+            <BookLink slug={FREE_CALL.namespace} className="text-primary underline underline-offset-4 hover:opacity-80">
               {t("unsureLink")}
-            </a>
+            </BookLink>
           </p>
         </ScrollReveal>
       </div>

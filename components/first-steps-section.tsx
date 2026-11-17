@@ -1,7 +1,8 @@
 import { getTranslations } from "next-intl/server"
-import { ArrowRight, MessageCircle, Sparkles } from "lucide-react"
+import { ArrowRight, Sparkles, Video } from "lucide-react"
 import { Link } from "@/i18n/navigation"
 import { BRAND } from "@/lib/brand-names"
+import { FREE_CALL } from "@/lib/cal"
 import { ScrollReveal } from "./scroll-reveal"
 import { BookLink } from "./book-link"
 
@@ -11,7 +12,6 @@ import { BookLink } from "./book-link"
 export async function FirstStepsSection() {
   const t = await getTranslations("FirstSteps")
   const tCta = await getTranslations("CTA")
-  const tHero = await getTranslations("Hero")
 
   const steps = [
     {
@@ -116,15 +116,13 @@ export async function FirstStepsSection() {
           })}
         </ol>
 
-        <a
-          href={`https://wa.me/420792908296?text=${encodeURIComponent(tHero("inquiry"))}`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="mx-auto mt-12 block max-w-xs text-center text-sm font-semibold text-[#25D366] underline-offset-4 transition-colors hover:text-[#1ebe5b] hover:underline sm:max-w-none"
+        <BookLink
+          slug={FREE_CALL.namespace}
+          className="mx-auto mt-12 block max-w-xs text-center text-sm font-semibold text-primary underline-offset-4 transition-colors hover:text-gold-light hover:underline sm:max-w-none"
         >
-          <MessageCircle className="mr-2 inline h-4 w-4 align-[-3px]" />
+          <Video className="mr-2 inline h-4 w-4 align-[-3px]" />
           {t("askLink")}
-        </a>
+        </BookLink>
       </div>
     </section>
   )

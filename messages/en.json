@@ -7,7 +7,7 @@
     "intro": "For thousands of years, the mystery schools passed on practical tools for knowing yourself, healing body and soul, and living with purpose: the path walked by Leonardo da Vinci, Nikola Tesla and Isaac Newton. Today it's open to anyone who feels the call.",
     "doorHealing": "I'm looking for healing",
     "doorLearn": "I want to learn & grow",
-    "askLink": "Not sure where to begin? Ask us on WhatsApp",
+    "askLink": "Not sure where to begin? Book a free 30-minute call",
     "inquiry": "Hello, I would like to learn more about the Path of Initiation."
   },
   "Header": {
@@ -57,6 +57,7 @@
     "mmsUkButton": "Prices & Sign-Up on MMS UK",
     "whatsapp": "WhatsApp",
     "email": "Email",
+    "freeCall": "Free 30-min call",
     "investment": "Price",
     "duration": "Duration",
     "bookNow": "Book Now",
@@ -258,8 +259,7 @@
       }
     },
     "unsure": "Still not sure?",
-    "unsureLink": "Write to us and we'll help you choose.",
-    "unsureMessage": "Hello, I'm not sure where to start. Could you help me choose?"
+    "unsureLink": "Book a free 30-minute call and we'll help you choose."
   },
   "Welcome": {
     "heading": "Hi, we're Diana and Radu",
@@ -1727,6 +1727,7 @@
     "errorFallback": "**I'm sorry** — I can't reach my knowledge right now. Radu would be glad to help you personally on WhatsApp.",
     "messageRaduWhatsapp": "Message Radu on WhatsApp",
     "talkToRaduWhatsapp": "Talk to Radu on WhatsApp",
+    "bookFreeCall": "Book a free 30-min call",
     "nudgeQuestion": "Do you have any questions for me?",
     "dismissNudgeAriaLabel": "Dismiss"
   },
@@ -2726,7 +2727,7 @@
       "body": "From there, the path is yours to shape: become a certified healer in the Modern Mystery School tradition through Healers Academy, study workshops such as Sacred Geometry and Astral Travel, and grow with a warm community in Prague that walks the path with you.",
       "link": "See upcoming classes"
     },
-    "askLink": "Not sure which step is right for you? Ask us on WhatsApp"
+    "askLink": "Not sure which step is right for you? Book a free 30-minute call"
   },
   "ShamanicAuraClearing": {
     "heroEyebrow": "Aura Clearing",
