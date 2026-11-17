@@ -107,12 +107,18 @@ payment, confirmation) is configured and lives over there.
    - Sacred Geometry 1 Class → `all/sacred-geometry-1-class`
    - Life Activation → `all/secret` (⚠️ slug is literally "secret", not
      "life-activation" — don't guess it from the page route)
+   - Free 30 min meeting (Zoom, free intro call) → `all/30min` (event id 2)
 
    If you need a slug that isn't listed here: if this session has the
    `calcom-event-types` MCP server connected (a local, per-machine config in
-   `poip-booking-calcom`'s `mcp-server/index.mjs`, registered in
-   `~/.claude.json` — not guaranteed available in every environment), use
-   its `list_event_types`/`get_event_type` tools. Otherwise, log into the
+   `poip-booking-calcom`'s `mcp-server/index.mjs`, registered in both
+   `~/.claude.json` and `~/.copilot/mcp-config.json` — not guaranteed
+   available in every environment), use its `list_event_types`/
+   `get_event_type` tools. On this machine both configs launch it via
+   `~/.calcom-mcp/launch.mjs`, which decrypts the API secret from a
+   DPAPI-encrypted `secret.dpapi` at startup — **never put
+   `CALCOM_MCP_SECRET` back into either config in plain text**; rotate it
+   with `~/.calcom-mcp/set-secret.ps1`. Otherwise, log into the
    Cal.com dashboard → Event types → "..." menu on the event → **Embed** →
    **"Pop up via element click"** → **React (iframe)** tab, which prints the
    exact `data-cal-*` attributes for that event (don't retype them from
