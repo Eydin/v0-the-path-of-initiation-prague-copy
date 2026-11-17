@@ -101,13 +101,19 @@ payment, confirmation) is configured and lives over there.
 ### Wiring up a new page
 
 1. Find the event type's calLink. The organizer username on this instance
-   is **`all`**. Known slugs so far (confirm before reusing — Cal.com slugs
-   don't always match the marketing-site route):
-   - Empower Thyself → `all/empower-thyself`
-   - Sacred Geometry 1 Class → `all/sacred-geometry-1-class`
-   - Life Activation → `all/secret` (⚠️ slug is literally "secret", not
-     "life-activation" — don't guess it from the page route)
+   is **`all`**. Slugs usually match the page route, but not always (confirm
+   before reusing):
+   - Life Activation → `all/life-activation` (an older `all/secret` slug
+     now 404s — don't reuse it)
+   - Sacred Geometry 1 Class → `all/sacred-geometry-1-class` (page route is
+     `/sacred-geometry`)
+   - Baby Blessing → `all/baby-blessing-consultation`
+   - Ensofic Reiki / Treating Negative Habits have two events each:
+     `…-in-person` and `…-remote` (via `bookOptions`)
    - Free 30 min meeting (Zoom, free intro call) → `all/30min` (event id 2)
+
+   Every slug already in use on the site: grep `link: "all/` under `app/`
+   and `components/`.
 
    If you need a slug that isn't listed here: if this session has the
    `calcom-event-types` MCP server connected (a local, per-machine config in
@@ -118,7 +124,7 @@ payment, confirmation) is configured and lives over there.
    `~/.calcom-mcp/launch.mjs`, which decrypts the API secret from a
    DPAPI-encrypted `secret.dpapi` at startup — **never put
    `CALCOM_MCP_SECRET` back into either config in plain text**; rotate it
-   with `~/.calcom-mcp/set-secret.ps1`. Otherwise, log into the
+   with `~/.calcom-mcp/set-secret.cmd`. Otherwise, log into the
    Cal.com dashboard → Event types → "..." menu on the event → **Embed** →
    **"Pop up via element click"** → **React (iframe)** tab, which prints the
    exact `data-cal-*` attributes for that event (don't retype them from
@@ -174,10 +180,11 @@ source, not assumed from docs — the official docs don't mention it).
   `BOOKING_URL`/`CAL_EMBED.link` on that page), or the page's own displayed
   copy (investment/duration text, booking note) needs to match something
   that changed over there.
-- Currently wired up this way: **Empower Thyself** only. Life Activation and
-  Sacred Geometry 1 Class are real local bookings too but still use the
-  plain pre-popup pattern — converting them is just following "Wiring up a
-  new page" above with their known slugs.
+- Currently wired up this way: nearly every class/session page, plus the
+  homepage CTA (`components/cta-section.tsx`, Life Activation). Healing and
+  reading pages built on `components/healing-session-page.tsx` just pass
+  `calEmbed` (or `bookOptions` for in-person/remote pairs) in their config
+  — no manual `CalcomPopupLoader` needed there.
 
 ## Key file map
 
