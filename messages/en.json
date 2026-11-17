@@ -1774,6 +1774,7 @@
     "submit": "Send Message",
     "submitting": "Sending…",
     "success": "Sent — Radu will get back to you personally soon. A confirmation is on its way to your inbox.",
+    "spamNote": "Can't find it? Please check your spam or junk folder — our e-mails sometimes end up there.",
     "errorGeneric": "Something went wrong. Please try again, or reach out on WhatsApp instead."
   },
   "WithdrawalPage": {

@@ -1774,6 +1774,7 @@
     "submit": "Odeslat zprávu",
     "submitting": "Odesílání…",
     "success": "Odesláno — Radu se vám brzy osobně ozve. Potvrzení právě míří do vaší schránky.",
+    "spamNote": "Nemůžete ho najít? Zkontrolujte prosím složku se spamem nebo nevyžádanou poštou — naše e-maily tam občas skončí.",
     "errorGeneric": "Něco se nepovedlo. Zkuste to prosím znovu, nebo nás kontaktujte přes WhatsApp."
   },
   "WithdrawalPage": {

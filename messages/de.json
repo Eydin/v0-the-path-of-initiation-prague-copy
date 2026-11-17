@@ -1774,6 +1774,7 @@
     "submit": "Nachricht senden",
     "submitting": "Wird gesendet…",
     "success": "Gesendet — Radu meldet sich bald persönlich bei Ihnen. Eine Bestätigung ist bereits unterwegs in Ihr Postfach.",
+    "spamNote": "Nichts angekommen? Bitte schauen Sie auch in Ihrem Spam- oder Junk-Ordner nach — unsere E-Mails landen manchmal dort.",
     "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns über WhatsApp."
   },
   "WithdrawalPage": {

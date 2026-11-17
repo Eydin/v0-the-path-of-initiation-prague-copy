@@ -82,7 +82,10 @@ export function EmailContactButton({
         {status === "success" ? (
           <div className="flex items-center gap-3 rounded-lg border border-primary/30 bg-muted/40 p-6 text-foreground">
             <CheckCircle2 className="h-6 w-6 flex-shrink-0 text-primary" />
-            <p>{t("success")}</p>
+            <div className="space-y-2">
+              <p>{t("success")}</p>
+              <p className="text-sm text-muted-foreground">{t("spamNote")}</p>
+            </div>
           </div>
         ) : (
           <form onSubmit={handleSubmit} className="space-y-4">

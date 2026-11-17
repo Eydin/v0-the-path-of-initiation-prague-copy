@@ -3050,6 +3050,7 @@ Message
 Send Message
 Sending…
 Sent — Radu will get back to you personally soon. A confirmation is on its way to your inbox.
+Can't find it? Please check your spam or junk folder — our e-mails sometimes end up there.
 Something went wrong. Please try again, or reach out on WhatsApp instead.
 
 ## PAGE: (component) ending-section.tsx
