@@ -3041,6 +3041,7 @@ w-full rounded-sm border border-border bg-background/60 px-4 py-3 text-base text
 mb-2 block text-sm font-semibold uppercase tracking-wide text-foreground
 application/json
 request failed
+description
 submitting
 Send a Message
 Fill this in and it'll land straight in Radu's inbox.
@@ -3049,8 +3050,11 @@ Your e-mail address
 Message
 Send Message
 Sending…
-Sent — Radu will get back to you personally soon. A confirmation is on its way to your inbox.
+Message Sent
+Thank you for reaching out.
+Radu will get back to you personally soon. A confirmation is on its way to your inbox.
 Can't find it? Please check your spam or junk folder — our e-mails sometimes end up there.
+Close
 Something went wrong. Please try again, or reach out on WhatsApp instead.
 
 ## PAGE: (component) ending-section.tsx

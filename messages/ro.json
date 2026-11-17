@@ -1773,8 +1773,11 @@
     "messageLabel": "Mesaj",
     "submit": "Trimite mesajul",
     "submitting": "Se trimite…",
-    "success": "Trimis — Radu vă va răspunde personal în curând. O confirmare este pe drum către inbox-ul dumneavoastră.",
+    "successTitle": "Mesaj trimis",
+    "successDescription": "Vă mulțumim pentru mesaj.",
+    "success": "Radu vă va răspunde personal în curând. O confirmare este pe drum către inbox-ul dumneavoastră.",
     "spamNote": "Nu o găsiți? Vă rugăm să verificați și folderul de spam sau junk — e-mailurile noastre ajung uneori acolo.",
+    "close": "Închide",
     "errorGeneric": "Ceva nu a funcționat. Vă rugăm să încercați din nou sau să ne contactați pe WhatsApp."
   },
   "WithdrawalPage": {

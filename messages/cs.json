@@ -1773,8 +1773,11 @@
     "messageLabel": "Zpráva",
     "submit": "Odeslat zprávu",
     "submitting": "Odesílání…",
-    "success": "Odesláno — Radu se vám brzy osobně ozve. Potvrzení právě míří do vaší schránky.",
+    "successTitle": "Zpráva odeslána",
+    "successDescription": "Děkujeme za vaši zprávu.",
+    "success": "Radu se vám brzy osobně ozve. Potvrzení právě míří do vaší schránky.",
     "spamNote": "Nemůžete ho najít? Zkontrolujte prosím složku se spamem nebo nevyžádanou poštou — naše e-maily tam občas skončí.",
+    "close": "Zavřít",
     "errorGeneric": "Něco se nepovedlo. Zkuste to prosím znovu, nebo nás kontaktujte přes WhatsApp."
   },
   "WithdrawalPage": {

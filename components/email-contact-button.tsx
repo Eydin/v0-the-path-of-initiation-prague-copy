@@ -5,6 +5,7 @@ import { useTranslations, useLocale } from "next-intl"
 import { AlertCircle, CheckCircle2, Send } from "lucide-react"
 import {
   Dialog,
+  DialogClose,
   DialogContent,
   DialogDescription,
   DialogHeader,
@@ -75,17 +76,31 @@ export function EmailContactButton({
       </DialogTrigger>
       <DialogContent className="bg-card border-primary/20 sm:max-w-md">
         <DialogHeader>
-          <DialogTitle className="font-serif text-xl text-primary">{t("title")}</DialogTitle>
-          <DialogDescription>{t("description")}</DialogDescription>
+          <DialogTitle className="font-serif text-xl text-primary">
+            {status === "success" ? t("successTitle") : t("title")}
+          </DialogTitle>
+          <DialogDescription>
+            {status === "success" ? t("successDescription") : t("description")}
+          </DialogDescription>
         </DialogHeader>
 
         {status === "success" ? (
-          <div className="flex items-center gap-3 rounded-lg border border-primary/30 bg-muted/40 p-6 text-foreground">
-            <CheckCircle2 className="h-6 w-6 flex-shrink-0 text-primary" />
-            <div className="space-y-2">
-              <p>{t("success")}</p>
-              <p className="text-sm text-muted-foreground">{t("spamNote")}</p>
+          <div className="space-y-4">
+            <div className="flex items-center gap-3 rounded-lg border border-primary/30 bg-muted/40 p-6 text-foreground">
+              <CheckCircle2 className="h-6 w-6 flex-shrink-0 text-primary" />
+              <div className="space-y-2">
+                <p>{t("success")}</p>
+                <p className="text-sm text-muted-foreground">{t("spamNote")}</p>
+              </div>
             </div>
+            <DialogClose asChild>
+              <button
+                type="button"
+                className="inline-flex h-12 w-full items-center justify-center rounded-sm border border-primary bg-primary px-8 font-serif text-sm uppercase tracking-widest text-primary-foreground transition-all hover:bg-primary/90"
+              >
+                {t("close")}
+              </button>
+            </DialogClose>
           </div>
         ) : (
           <form onSubmit={handleSubmit} className="space-y-4">
