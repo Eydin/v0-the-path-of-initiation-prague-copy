@@ -781,7 +781,8 @@
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "Starobylé léčení krystaly, které vás uvede do hlubokého uvolnění a obnoví tělo i mysl." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "Léčení krystaly a posvátnými zpěvy, které uzdravuje staré i nové rány a otevírá cestu štěstí." },
           { "name": "Hermetický návrat duše", "description": "Získává zpět a znovu integruje ztracené fragmenty já do celistvosti." },
-          { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." }
+          { "name": "Jiskra života — dálkové léčení", "description": "Dálkové léčení, které k vám na jakoukoli vzdálenost přináší obnovující energii." },
+          { "name": "Léčení Isis", "description": "Posvátný obřad s energií bohyně Isis, který uvolňuje staré emoční zátěže a podporuje znovuzrození vašeho emočního těla." }
         ]
       },
       "remote": {
@@ -1810,7 +1811,9 @@
     "disclaimer": "Tato práce nenahrazuje žádnou léčbu předepsanou vaším lékařem. Nabízí se jako doplňková energetická a duchovní podpora vedle vaší lékařské péče.",
     "hostsEyebrow": "Budete v dobrých rukou",
     "hostsHeading": "Diana a Radu Coman",
-    "hostsBody": "Jsme certifikovaní praktici a učitelé Modern Mystery School. Ať budete pracovat s kýmkoli z nás, uděláme si čas vás vyslechnout, odpovědět na vaše otázky a jemně vás provést každým krokem."
+    "hostsBody": "Jsme certifikovaní praktici a učitelé Modern Mystery School. Ať budete pracovat s kýmkoli z nás, uděláme si čas vás vyslechnout, odpovědět na vaše otázky a jemně vás provést každým krokem.",
+    "hostsHeadingRadu": "Radu Coman",
+    "hostsBodyRadu": "Jsem certifikovaný průvodce, učitel a léčitel Modern Mystery School. Udělám si čas vás vyslechnout, odpovědět na vaše otázky a jemně vás provést každým krokem."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Hluboké léčení",
@@ -2932,6 +2935,74 @@
     "bookingTitle": "Přijměte své čtení",
     "duration": "90 minut",
     "inquiry": "Dobrý den, mám zájem o čtení Chronos.",
+    "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem."
+  },
+  "IsisHealing": {
+    "heroEyebrow": "Emoční léčení",
+    "heroTitle": "Léčení Isis",
+    "heroSubtitle": "Posvátný obřad emočního znovuzrození s bohyní Isis",
+    "heroTagline": "Uvolněte staré emoční zátěže a vstupte do nové kapitoly svého života s lehčím a klidnějším srdcem",
+    "introLead": "Někdy si pocity z minulosti neseme ještě dlouho poté, co samotná chvíle pominula.",
+    "introBody1": "Léčení Isis je hluboký rituál proměny a emočního znovuzrození z Modern Mystery School. Pracuje se silou egyptských bohů a bohyň, a především s energií Isis, velké královny Egypta, aby vám pomohlo uvolnit emoční zátěž a vstoupit do nového života.",
+    "introBody2": "Obřad jemně odstraňuje staré emoční zátěže, reaktivní vzorce a tíhu, kterou po sobě zanechaly minulé zážitky, aby vaše emoční tělo mohlo začít znovu na novém základě. Předává se pouze certifikovaným průvodcům Modern Mystery School a v Praze ho provádí Radu Coman.",
+    "signsHeading": "Kdy může léčení Isis pomoci",
+    "signs": [
+      "Staré bolesti stále ovlivňují, jak se dnes cítíte",
+      "V situacích, které byste rádi zvládali s klidem, reagujete prudce",
+      "Cítíte se zatíženi minulými zážitky, vztahy nebo ztrátami",
+      "Jste připraveni uzavřít jednu kapitolu a začít novou"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Příchod:",
+        "text": "Krátký rozhovor o tom, kde se právě nacházíte a čeho byste se rádi zbavili."
+      },
+      {
+        "label": "Obřad:",
+        "text": "Radu provede posvátný rituál s krystalem léčení Isis, svatou solí a obřadními slovy. Energie bohyně Isis vás podporuje v uvolnění toho, co vám už neslouží."
+      },
+      {
+        "label": "Integrace:",
+        "text": "Sezení končí chvílí klidného odpočinku, aby se léčení mohlo usadit dřív, než se vrátíte ke svému dni."
+      }
+    ],
+    "benefitsHeading": "Čeho si klienti často všimnou",
+    "benefits": [
+      "Pocit lehkosti, jako by z vás spadla stará tíha",
+      "Více rovnováhy a vnitřního klidu",
+      "Jasnost tam, kde dříve přicházela automatická reakce",
+      "Nový začátek a odvaha vykročit do něčeho nového"
+    ],
+    "who": [
+      "Každý, kdo si nese emoční tíhu z minulosti",
+      "Ti, kdo stojí na rozcestí a chtějí začít další kapitolu s čistým srdcem",
+      "Každý, kdo se chce cítit ve svých emocích klidnější a vyrovnanější"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Pokud můžete, nechte zbytek dne plynout jemně a bez spěchu",
+      "Pijte dostatek vody a dobře odpočívejte",
+      "Pocity se mohou ještě několik dní pohybovat; přijměte je s laskavostí a nechte je odejít",
+      "V následujících týdnech si všímejte, jak jinak reagujete na známé situace"
+    ],
+    "faq": [
+      {
+        "q": "Proč léčení Isis nabízí pouze Radu?",
+        "a": "Léčení Isis se předává pouze certifikovaným průvodcům Modern Mystery School, kteří k němu navíc potřebují speciálně schválený krystal léčení Isis. V Praze ho provádí Radu."
+      },
+      {
+        "q": "Musím vědět něco o starověkém Egyptě?",
+        "a": "Ne. Stačí přijít takoví, jací jste, a přijímat. Pokud si nejste jisti, zda je to pro vás nyní to správné léčení, zeptejte se Radu a on vám rád pomůže vybrat."
+      },
+      {
+        "q": "Nahrazuje terapii?",
+        "a": "Ne. Je to duchovní, energetická práce, která se dobře doplňuje s poradenstvím nebo terapií. Pokud procházíte akutní krizí duševního zdraví, obraťte se prosím nejprve na lékařskou pomoc a před rezervací si promluvte s Radu, abyste společně našli tu správnou chvíli."
+      }
+    ],
+    "bookingTitle": "Začněte znovu s lehkým srdcem",
+    "duration": "90 minut",
+    "inquiry": "Dobrý den, mám zájem o léčení Isis.",
     "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem."
   },
   "LaserLightHealing": {

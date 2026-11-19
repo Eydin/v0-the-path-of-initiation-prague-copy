@@ -35,9 +35,9 @@ export async function getHealingGroups(locale?: string) {
   ]
 
   // where each one takes place
-  const auraFormat: Healing["format"][] = ["inPerson", "inPerson", "inPerson", "inPerson", "both", "both", "inPerson", "inPerson", "inPerson", "remote"]
+  const auraFormat: Healing["format"][] = ["inPerson", "inPerson", "inPerson", "inPerson", "both", "both", "inPerson", "inPerson", "inPerson", "remote", "inPerson"]
 
-  const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map((i) => ({
+  const auraEnergy: Healing[] = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((i) => ({
     name: i === 0 ? t("groups.auraEnergy.items.0.name", { brand: BRAND.sacredGeometry }) : t(`groups.auraEnergy.items.${i}.name`),
     description: t(`groups.auraEnergy.items.${i}.description`),
     format: auraFormat[i],
@@ -53,6 +53,7 @@ export async function getHealingGroups(locale?: string) {
     ...(i === 7 ? { price: "3.669 CZK", detailsHref: "/sacred-rites-healing" } : {}),
     ...(i === 8 ? { price: "6.150 CZK", detailsHref: "/soul-retrieval" } : {}),
     ...(i === 9 ? { price: "6.150 CZK", detailsHref: "/spark-of-life" } : {}),
+    ...(i === 10 ? { price: "6.150 CZK", detailsHref: "/isis-healing" } : {}),
   }))
 
   // The remote-capable sessions also appear in "Aura & Energy" above — same cards, so the two never drift apart.

@@ -781,7 +781,8 @@
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "Eine uralte Kristallheilung, die dich in tiefe Entspannung führt und Körper und Geist erneuert." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "Eine Heilung mit Kristallen und heiligen Gesängen, die alte und neue Wunden heilt und den Weg für das Glück öffnet." },
           { "name": "Hermetische Seelenrückholung", "description": "Gewinnt verlorene Fragmente des Selbst zurück und integriert sie zu Ganzheit." },
-          { "name": "Lebensfunke — Fernheilung", "description": "Eine Fernheilung, die dir wiederherstellende Energie über jede Entfernung hinweg bringt." }
+          { "name": "Lebensfunke — Fernheilung", "description": "Eine Fernheilung, die dir wiederherstellende Energie über jede Entfernung hinweg bringt." },
+          { "name": "Isis-Heilung", "description": "Eine heilige Zeremonie mit der Energie der Göttin Isis, die alten emotionalen Ballast löst und eine Wiedergeburt deines Emotionalkörpers unterstützt." }
         ]
       },
       "remote": {
@@ -1810,7 +1811,9 @@
     "disclaimer": "Diese Arbeit ersetzt keine ärztlich verordnete Behandlung. Sie wird als ergänzende energetische und spirituelle Unterstützung neben deiner medizinischen Versorgung angeboten.",
     "hostsEyebrow": "Du bist in guten Händen",
     "hostsHeading": "Diana und Radu Coman",
-    "hostsBody": "Wir sind zertifizierte Praktizierende und Lehrer der Modern Mystery School. Mit wem von uns du auch arbeitest, wir nehmen uns Zeit, dir zuzuhören, deine Fragen zu beantworten und dich sanft durch jeden Schritt zu begleiten."
+    "hostsBody": "Wir sind zertifizierte Praktizierende und Lehrer der Modern Mystery School. Mit wem von uns du auch arbeitest, wir nehmen uns Zeit, dir zuzuhören, deine Fragen zu beantworten und dich sanft durch jeden Schritt zu begleiten.",
+    "hostsHeadingRadu": "Radu Coman",
+    "hostsBodyRadu": "Ich bin zertifizierter Guide, Lehrer und Heiler der Modern Mystery School. Ich nehme mir Zeit, dir zuzuhören, deine Fragen zu beantworten und dich sanft durch jeden Schritt zu begleiten."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Tiefe Heilung",
@@ -2932,6 +2935,74 @@
     "bookingTitle": "Empfange deine Lesung",
     "duration": "90 Minuten",
     "inquiry": "Hallo, ich interessiere mich für eine Chronos-Lesung.",
+    "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt."
+  },
+  "IsisHealing": {
+    "heroEyebrow": "Emotionale Heilung",
+    "heroTitle": "Isis-Heilung",
+    "heroSubtitle": "Eine heilige Zeremonie der emotionalen Wiedergeburt mit der Göttin Isis",
+    "heroTagline": "Lass alten emotionalen Ballast los und beginne ein neues Kapitel deines Lebens, leichter und friedvoller",
+    "introLead": "Manchmal tragen wir die Gefühle der Vergangenheit noch lange mit uns, nachdem der Moment selbst vorbei ist.",
+    "introBody1": "Die Isis-Heilung ist ein tiefgreifendes Ritual der Verwandlung und emotionalen Wiedergeburt aus der Modern Mystery School. Sie arbeitet mit der Kraft der ägyptischen Götter und Göttinnen, vor allem mit der Energie von Isis, der Großen Königin Ägyptens, um dir zu helfen, emotionalen Ballast loszulassen und in ein neues Leben zu treten.",
+    "introBody2": "Die Zeremonie löst sanft alte emotionale Lasten, reaktive Muster und die Schwere vergangener Erfahrungen, damit dein Emotionalkörper auf einem frischen Fundament neu beginnen kann. Sie wird nur an zertifizierte Guides der Modern Mystery School weitergegeben, und in Prag führt sie Radu Coman durch.",
+    "signsHeading": "Wann eine Isis-Heilung helfen kann",
+    "signs": [
+      "Alte Verletzungen prägen noch heute, wie du dich fühlst",
+      "Du reagierst heftig in Situationen, denen du lieber gelassen begegnen würdest",
+      "Vergangene Erfahrungen, Beziehungen oder Verluste lasten auf dir",
+      "Du bist bereit, ein Kapitel abzuschließen und ein neues zu beginnen"
+    ],
+    "protocolHeading": "Was in der Sitzung geschieht",
+    "protocol": [
+      {
+        "label": "Ankommen:",
+        "text": "Ein kurzes Gespräch darüber, wo du gerade stehst und was du loslassen möchtest."
+      },
+      {
+        "label": "Die Zeremonie:",
+        "text": "Radu führt das heilige Ritual mit dem Isis-Heilkristall, heiligem Salz und zeremoniellen Worten durch. Die Energie der Göttin Isis unterstützt dich dabei, loszulassen, was dir nicht mehr dient."
+      },
+      {
+        "label": "Integration:",
+        "text": "Die Sitzung endet mit einer stillen Ruhezeit, damit sich die Heilung setzen kann, bevor du in deinen Tag zurückkehrst."
+      }
+    ],
+    "benefitsHeading": "Was Klienten oft bemerken",
+    "benefits": [
+      "Ein Gefühl von Leichtigkeit, als wäre eine alte Last abgelegt",
+      "Mehr Gleichgewicht und innerer Frieden",
+      "Klarheit dort, wo früher eine automatische Reaktion kam",
+      "Ein Neuanfang und der Mut, etwas Neues zu wagen"
+    ],
+    "who": [
+      "Alle, die emotionale Schwere aus der Vergangenheit mit sich tragen",
+      "Menschen an einem Wendepunkt, die das nächste Kapitel mit klarem Herzen beginnen möchten",
+      "Alle, die sich in ihren Gefühlen ruhiger und ausgeglichener fühlen möchten"
+    ],
+    "afterHeading": "Nach der Sitzung",
+    "after": [
+      "Wenn möglich, gestalte den Rest des Tages sanft und ohne Eile",
+      "Trink viel Wasser und ruh dich gut aus",
+      "Gefühle können noch ein paar Tage in Bewegung sein; begegne ihnen mit Freundlichkeit und lass sie ziehen",
+      "Achte in den folgenden Wochen darauf, wie anders du auf vertraute Situationen reagierst"
+    ],
+    "faq": [
+      {
+        "q": "Warum bietet nur Radu die Isis-Heilung an?",
+        "a": "Die Isis-Heilung wird nur an zertifizierte Guides der Modern Mystery School weitergegeben, die dafür außerdem einen eigens genehmigten Isis-Heilkristall benötigen. In Prag führt Radu sie durch."
+      },
+      {
+        "q": "Muss ich etwas über das alte Ägypten wissen?",
+        "a": "Nein. Komm einfach so, wie du bist, und empfange. Wenn du unsicher bist, ob diese Heilung gerade die richtige für dich ist, frag Radu — er hilft dir gern bei der Wahl."
+      },
+      {
+        "q": "Ersetzt sie eine Therapie?",
+        "a": "Nein. Es ist spirituelle, energetische Arbeit, die sich gut mit Beratung oder Therapie verbinden lässt. Wenn du gerade eine akute psychische Krise durchlebst, such dir bitte zuerst medizinische Unterstützung und sprich mit Radu, bevor du buchst, damit ihr gemeinsam den richtigen Moment findet."
+      }
+    ],
+    "bookingTitle": "Beginne neu, leichter",
+    "duration": "90 Minuten",
+    "inquiry": "Hallo, ich interessiere mich für eine Isis-Heilung.",
     "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt."
   },
   "LaserLightHealing": {

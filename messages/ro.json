@@ -781,7 +781,8 @@
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "O vindecare străveche cu cristale care te duce într-o relaxare profundă și reînnoiește trupul și mintea." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "O vindecare cu cristale și cântări sacre care vindecă răni vechi și noi și deschide calea norocului." },
           { "name": "Recuperarea hermetică a sufletului", "description": "Recuperează și reintegrează fragmentele pierdute ale sinelui în întregime." },
-          { "name": "Scânteia vieții — vindecare la distanță", "description": "O vindecare la distanță care îți aduce energie restauratoare de la orice distanță." }
+          { "name": "Scânteia vieții — vindecare la distanță", "description": "O vindecare la distanță care îți aduce energie restauratoare de la orice distanță." },
+          { "name": "Vindecarea Isis", "description": "O ceremonie sacră cu energia zeiței Isis, care eliberează vechiul bagaj emoțional și sprijină renașterea corpului tău emoțional." }
         ]
       },
       "remote": {
@@ -1810,7 +1811,9 @@
     "disclaimer": "Această lucrare nu înlocuiește niciun tratament medical prescris de medicul tău. Este oferită ca sprijin energetic și spiritual complementar, alături de îngrijirea ta medicală.",
     "hostsEyebrow": "Vei fi în mâini bune",
     "hostsHeading": "Diana și Radu Coman",
-    "hostsBody": "Suntem practicieni și profesori certificați ai Modern Mystery School. Oricare dintre noi ar lucra cu tine, ne luăm timp să te ascultăm, să-ți răspundem la întrebări și să te ghidăm cu blândețe prin fiecare pas."
+    "hostsBody": "Suntem practicieni și profesori certificați ai Modern Mystery School. Oricare dintre noi ar lucra cu tine, ne luăm timp să te ascultăm, să-ți răspundem la întrebări și să te ghidăm cu blândețe prin fiecare pas.",
+    "hostsHeadingRadu": "Radu Coman",
+    "hostsBodyRadu": "Sunt Ghid, Profesor și Vindecător certificat al Modern Mystery School. Îmi iau timp să te ascult, să-ți răspund la întrebări și să te ghidez cu blândețe prin fiecare pas."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Vindecare profundă",
@@ -2932,6 +2935,74 @@
     "bookingTitle": "Primește-ți lectura",
     "duration": "90 de minute",
     "inquiry": "Bună, sunt interesat(ă) de o Lectură Chronos.",
+    "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail."
+  },
+  "IsisHealing": {
+    "heroEyebrow": "Vindecare emoțională",
+    "heroTitle": "Vindecarea Isis",
+    "heroSubtitle": "O ceremonie sacră de renaștere emoțională cu zeița Isis",
+    "heroTagline": "Eliberează vechiul bagaj emoțional și pășește într-un nou capitol al vieții tale, cu inima mai ușoară și mai liniștită",
+    "introLead": "Uneori purtăm sentimentele trecutului cu noi mult timp după ce momentul în sine a trecut.",
+    "introBody1": "Vindecarea Isis este un ritual profund de transformare și renaștere emoțională din Modern Mystery School. Lucrează cu puterea zeilor și zeițelor egiptene, și mai presus de toate cu energia lui Isis, Marea Regină a Egiptului, pentru a te ajuta să eliberezi bagajul emoțional și să pășești într-o viață nouă.",
+    "introBody2": "Ceremonia curăță cu blândețe vechile poveri emoționale, tiparele reactive și greutatea lăsată de experiențele trecute, astfel încât corpul tău emoțional să poată începe din nou pe o temelie proaspătă. Este transmisă doar Ghizilor certificați ai Modern Mystery School, iar la Praga este oferită de Radu Coman.",
+    "signsHeading": "Când te poate ajuta o Vindecare Isis",
+    "signs": [
+      "Răni vechi încă îți colorează felul în care te simți astăzi",
+      "Reacționezi puternic în situații pe care ai vrea să le întâmpini cu calm",
+      "Te simți apăsat(ă) de experiențe, relații sau pierderi din trecut",
+      "Ești pregătit(ă) să închei un capitol și să începi unul nou"
+    ],
+    "protocolHeading": "Ce se întâmplă în ședință",
+    "protocol": [
+      {
+        "label": "Sosirea:",
+        "text": "O scurtă discuție despre locul în care te afli acum și despre ce ai vrea să lași în urmă."
+      },
+      {
+        "label": "Ceremonia:",
+        "text": "Radu realizează ritualul sacru cu cristalul Vindecării Isis, sare sfințită și cuvinte ceremoniale. Energia zeiței Isis te sprijină să eliberezi ceea ce nu te mai servește."
+      },
+      {
+        "label": "Integrarea:",
+        "text": "Ședința se încheie cu un timp liniștit de odihnă, pentru ca vindecarea să se poată așeza înainte să te întorci la ziua ta."
+      }
+    ],
+    "benefitsHeading": "Ce observă adesea clienții",
+    "benefits": [
+      "O senzație de ușurare, ca și cum o veche povară ar fi fost lăsată jos",
+      "Mai mult echilibru și pace interioară",
+      "Claritate acolo unde înainte apărea o reacție automată",
+      "Un nou început și curajul de a păși spre ceva nou"
+    ],
+    "who": [
+      "Oricine poartă o greutate emoțională din trecut",
+      "Cei aflați la o răscruce, care vor să înceapă următorul capitol cu inima limpede",
+      "Oricine își dorește mai mult calm și echilibru în emoțiile sale"
+    ],
+    "afterHeading": "După ședință",
+    "after": [
+      "Dacă poți, lasă restul zilei să curgă blând și fără grabă",
+      "Bea multă apă și odihnește-te bine",
+      "Emoțiile pot continua să se miște câteva zile; primește-le cu blândețe și lasă-le să treacă",
+      "În săptămânile următoare, observă cât de diferit reacționezi în situații familiare"
+    ],
+    "faq": [
+      {
+        "q": "De ce oferă doar Radu Vindecarea Isis?",
+        "a": "Vindecarea Isis este transmisă doar Ghizilor certificați ai Modern Mystery School, care au nevoie și de un cristal al Vindecării Isis aprobat special. La Praga, Radu este cel care o oferă."
+      },
+      {
+        "q": "Trebuie să știu ceva despre Egiptul antic?",
+        "a": "Nu. Vino exact așa cum ești și primește. Dacă nu ești sigur(ă) că aceasta este vindecarea potrivită pentru tine acum, întreabă-l pe Radu și te va ajuta cu drag să alegi."
+      },
+      {
+        "q": "Înlocuiește terapia?",
+        "a": "Nu. Este o lucrare spirituală, energetică, ce se potrivește bine alături de consiliere sau terapie. Dacă treci printr-o criză acută de sănătate mintală, te rugăm să cauți mai întâi sprijin medical și să vorbești cu Radu înainte de a rezerva, ca să găsiți împreună momentul potrivit."
+      }
+    ],
+    "bookingTitle": "Începe din nou, cu inima ușoară",
+    "duration": "90 de minute",
+    "inquiry": "Bună, sunt interesat(ă) de o Vindecare Isis.",
     "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail."
   },
   "LaserLightHealing": {

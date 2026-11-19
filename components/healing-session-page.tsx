@@ -38,6 +38,8 @@ type SessionConfig = {
   bookOptions?: { labelKey: "bookInPerson" | "bookRemote"; href: string; calEmbed?: CalEmbed }[]
   /** Single Cal.com booking option — opens the popup directly from both the hero and the booking box. Omit for pages using `bookOptions` instead. */
   calEmbed?: CalEmbed
+  /** Who gives the session. Default "both" (Diana and Radu); "radu" for sessions only Radu performs (e.g. Isis Healing). */
+  hosts?: "both" | "radu"
 }
 
 export async function healingSessionMetadata(
@@ -61,6 +63,7 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
   const t = await getTranslations({ locale, namespace: config.namespace })
   const tShared = await getTranslations({ locale, namespace: "HealingSession" })
   const has = (key: string) => t.has(key)
+  const raduOnly = config.hosts === "radu"
   // optional custom label for the booking buttons (e.g. a free consultation instead of "Book Now")
   const bookLabel = has("bookLabel") ? t("bookLabel") : undefined
 
@@ -135,17 +138,19 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
         )}
       </BookingBlock>
 
-      {/* who will be with you: Diana and Radu, smiling — answers "who is leading me?" */}
+      {/* who will be with you: Diana and Radu (or just Radu), smiling — answers "who is leading me?" */}
       <Panel>
         <div className="flex flex-col items-center gap-6 text-center sm:flex-row sm:text-left">
           <div className="flex shrink-0 -space-x-4">
-            <Image
-              src="/images/diana-smiling-avatar.jpg"
-              alt="Diana Coman"
-              width={112}
-              height={112}
-              className="h-24 w-24 rounded-full border-2 border-primary/50 object-cover sm:h-28 sm:w-28"
-            />
+            {!raduOnly && (
+              <Image
+                src="/images/diana-smiling-avatar.jpg"
+                alt="Diana Coman"
+                width={112}
+                height={112}
+                className="h-24 w-24 rounded-full border-2 border-primary/50 object-cover sm:h-28 sm:w-28"
+              />
+            )}
             <Image
               src="/images/Radu2.jpg"
               alt="Radu Coman"
@@ -156,8 +161,12 @@ export async function HealingSessionPage({ locale, config }: { locale: string; c
           </div>
           <div>
             <p className="mb-1 font-serif text-xs uppercase tracking-[0.25em] text-primary">{tShared("hostsEyebrow")}</p>
-            <h2 className="font-serif text-2xl tracking-wide text-foreground">{tShared("hostsHeading")}</h2>
-            <p className="mt-2 leading-relaxed text-muted-foreground">{tShared("hostsBody")}</p>
+            <h2 className="font-serif text-2xl tracking-wide text-foreground">
+              {tShared(raduOnly ? "hostsHeadingRadu" : "hostsHeading")}
+            </h2>
+            <p className="mt-2 leading-relaxed text-muted-foreground">
+              {tShared(raduOnly ? "hostsBodyRadu" : "hostsBody")}
+            </p>
           </div>
         </div>
       </Panel>

@@ -1069,6 +1069,8 @@ Hermetic Soul Retrieval
 Recovers and reintegrates lost fragments of the self into wholeness.
 Spark of Life — Distance Healing
 A remote healing that carries restorative energy to you across any distance.
+Isis Healing
+A sacred ceremony with the energy of the Goddess Isis that releases old emotional baggage and supports a rebirth of your emotional body.
 Remote Healings
 Receive healing from wherever you are, anywhere in the world.
 Readings & Guidance
@@ -1189,6 +1191,54 @@ Ask Your Questions
 60 Minutes
 One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in an Intuitive Reading with Crystal.
+
+## PAGE: /isis-healing
+center 40%
+center 22%
+Isis leads Queen Nefertari · facsimile by Charles K. Wilkinson, The Met (CC0)
+6.150 CZK
+Emotional Healing
+Isis Healing
+A sacred ceremony of emotional rebirth with the Goddess Isis
+Release old emotional baggage and step into a new chapter of your life, lighter and more at peace
+Sometimes we carry the feelings of the past long after the moment itself has gone.
+The Isis Healing is a profound ritual of transformation and emotional rebirth from the Modern Mystery School. It works with the power of the Egyptian gods and goddesses, and above all with the energy of Isis, the Grand Queen of Egypt, to help you release emotional baggage and step into a new life.
+The ceremony gently clears old emotional weight, reactive patterns and the heaviness left by past experiences, so your emotional body can begin again on a fresh foundation. It is handed down only to certified Guides of the Modern Mystery School, and in Prague it is performed by Radu Coman.
+When an Isis Healing Can Help
+Old hurts still colour how you feel today
+You react strongly in situations you would rather meet calmly
+You feel weighed down by past experiences, relationships or losses
+You are ready to close a chapter and begin a new one
+What Happens in the Session
+Arriving:
+A short conversation about where you are now and what you would like to let go of.
+The ceremony:
+Radu performs the sacred ritual with the Isis Healing crystal, holy salt and ceremonial words. The energy of the Goddess Isis supports you in releasing what no longer serves you.
+Integration:
+The session closes with a quiet time of rest, so the healing can settle before you return to your day.
+What Clients Often Notice
+A sense of lightness, as if an old weight has been set down
+More balance and inner peace
+Meeting life with clarity rather than reaction
+A fresh start, and the courage to step into something new
+Anyone carrying emotional heaviness from the past
+Those at a turning point who want to begin the next chapter with a clear heart
+Anyone who wishes to feel calmer and more balanced in their emotions
+After the Session
+If you can, keep the rest of the day gentle and unhurried
+Drink plenty of water and rest well
+Feelings may keep moving for a few days; meet them with kindness and let them pass
+In the weeks that follow, notice how differently you respond to familiar situations
+Why does only Radu offer the Isis Healing?
+The Isis Healing is handed down only to certified Guides of the Modern Mystery School, who also need a specially approved Isis Healing crystal. In Prague, Radu is the one who performs it.
+Do I need to know anything about ancient Egypt?
+No. Simply come as you are and receive. If you are unsure whether this is the right healing for you right now, ask Radu and he will gladly help you choose.
+Is it a replacement for therapy?
+No. It is spiritual, energetic work that sits well alongside counselling or therapy. If you are going through an acute mental health crisis, please reach out for medical support first, and talk with Radu before booking so you can find the right moment together.
+Begin Again, Lighter
+90 Minutes
+Hello, I am interested in an Isis Healing.
+One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 
 ## PAGE: /kabbalah-ascension
 Universal Hermetic Ray Kabbalah Ascension Program | The Path of Initiation Prague
@@ -2281,6 +2331,8 @@ This work does not replace any medical treatment prescribed by your doctor. It i
 You'll be in good hands
 Diana and Radu Coman
 We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step.
+Radu Coman
+I am a certified Modern Mystery School Guide, Teacher and Healer. I take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: /seven-mystery-schools
 seven-mystery-schools
@@ -2582,6 +2634,8 @@ This work does not replace any medical treatment prescribed by your doctor. It i
 You'll be in good hands
 Diana and Radu Coman
 We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step.
+Radu Coman
+I am a certified Modern Mystery School Guide, Teacher and Healer. I take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: /starseed-healing
 center 40%
@@ -3285,6 +3339,8 @@ This work does not replace any medical treatment prescribed by your doctor. It i
 You'll be in good hands
 Diana and Radu Coman
 We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step.
+Radu Coman
+I am a certified Modern Mystery School Guide, Teacher and Healer. I take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: (component) healings-widget-section.tsx
 One-to-one healing in Prague
@@ -3362,6 +3418,8 @@ This work does not replace any medical treatment prescribed by your doctor. It i
 You'll be in good hands
 Diana and Radu Coman
 We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step.
+Radu Coman
+I am a certified Modern Mystery School Guide, Teacher and Healer. I take time to listen, answer your questions and guide you gently through every step.
 
 ## PAGE: (component) modality.tsx
 radu@thepathofinitiationprague.com
@@ -3490,4 +3548,29 @@ life-activation
 /life-activation
 full-spirit-activation
 /full-spirit-activation
-/galactic-activation`;
+/galactic-activation
+4.800 CZK
+aura-healing
+/aura-healing
+3.669 CZK
+/negative-energy-removal
+/emotional-cord-cutting
+/shamanic-aura-clearing
+4.900 CZK
+/ensofic-reiki
+/treating-negative-habits
+/crystal-healing
+/sacred-rites-healing
+6.150 CZK
+/soul-retrieval
+/spark-of-life
+/isis-healing
+/life-purpose-reading
+/intuitive-crystal-reading
+/chronos-reading
+/laser-light-healing
+1.850 CZK
+/meridian-line-balancing
+/tree-of-life-awakening
+1.333 CZK
+/chakra-awakening`;

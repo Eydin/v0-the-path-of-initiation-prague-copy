@@ -781,7 +781,8 @@
           { "name": "Sacred Geometry Ancient Crystal Healing", "description": "An ancient crystal healing that takes you into deep relaxation and renews body and mind." },
           { "name": "Sacred Geometry Sacred Rites Healing", "description": "A healing with crystals and sacred chants that heals old and new wounds and opens the way for good fortune." },
           { "name": "Hermetic Soul Retrieval", "description": "Recovers and reintegrates lost fragments of the self into wholeness." },
-          { "name": "Spark of Life — Distance Healing", "description": "A remote healing that carries restorative energy to you across any distance." }
+          { "name": "Spark of Life — Distance Healing", "description": "A remote healing that carries restorative energy to you across any distance." },
+          { "name": "Isis Healing", "description": "A sacred ceremony with the energy of the Goddess Isis that releases old emotional baggage and supports a rebirth of your emotional body." }
         ]
       },
       "remote": {
@@ -1810,7 +1811,9 @@
     "disclaimer": "This work does not replace any medical treatment prescribed by your doctor. It is offered as complementary energetic and spiritual support alongside your medical care.",
     "hostsEyebrow": "You'll be in good hands",
     "hostsHeading": "Diana and Radu Coman",
-    "hostsBody": "We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step."
+    "hostsBody": "We are certified Modern Mystery School practitioners and teachers. Whichever of us you work with, we take time to listen, answer your questions and guide you gently through every step.",
+    "hostsHeadingRadu": "Radu Coman",
+    "hostsBodyRadu": "I am a certified Modern Mystery School Guide, Teacher and Healer. I take time to listen, answer your questions and guide you gently through every step."
   },
   "SoulRetrieval": {
     "heroEyebrow": "Deep Healing",
@@ -2932,6 +2935,74 @@
     "bookingTitle": "Receive Your Reading",
     "duration": "90 Minutes",
     "inquiry": "Hello, I am interested in a Chronos Reading.",
+    "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email."
+  },
+  "IsisHealing": {
+    "heroEyebrow": "Emotional Healing",
+    "heroTitle": "Isis Healing",
+    "heroSubtitle": "A sacred ceremony of emotional rebirth with the Goddess Isis",
+    "heroTagline": "Release old emotional baggage and step into a new chapter of your life, lighter and more at peace",
+    "introLead": "Sometimes we carry the feelings of the past long after the moment itself has gone.",
+    "introBody1": "The Isis Healing is a profound ritual of transformation and emotional rebirth from the Modern Mystery School. It works with the power of the Egyptian gods and goddesses, and above all with the energy of Isis, the Grand Queen of Egypt, to help you release emotional baggage and step into a new life.",
+    "introBody2": "The ceremony gently clears old emotional weight, reactive patterns and the heaviness left by past experiences, so your emotional body can begin again on a fresh foundation. It is handed down only to certified Guides of the Modern Mystery School, and in Prague it is performed by Radu Coman.",
+    "signsHeading": "When an Isis Healing Can Help",
+    "signs": [
+      "Old hurts still colour how you feel today",
+      "You react strongly in situations you would rather meet calmly",
+      "You feel weighed down by past experiences, relationships or losses",
+      "You are ready to close a chapter and begin a new one"
+    ],
+    "protocolHeading": "What Happens in the Session",
+    "protocol": [
+      {
+        "label": "Arriving:",
+        "text": "A short conversation about where you are now and what you would like to let go of."
+      },
+      {
+        "label": "The ceremony:",
+        "text": "Radu performs the sacred ritual with the Isis Healing crystal, holy salt and ceremonial words. The energy of the Goddess Isis supports you in releasing what no longer serves you."
+      },
+      {
+        "label": "Integration:",
+        "text": "The session closes with a quiet time of rest, so the healing can settle before you return to your day."
+      }
+    ],
+    "benefitsHeading": "What Clients Often Notice",
+    "benefits": [
+      "A sense of lightness, as if an old weight has been set down",
+      "More balance and inner peace",
+      "Meeting life with clarity rather than reaction",
+      "A fresh start, and the courage to step into something new"
+    ],
+    "who": [
+      "Anyone carrying emotional heaviness from the past",
+      "Those at a turning point who want to begin the next chapter with a clear heart",
+      "Anyone who wishes to feel calmer and more balanced in their emotions"
+    ],
+    "afterHeading": "After the Session",
+    "after": [
+      "If you can, keep the rest of the day gentle and unhurried",
+      "Drink plenty of water and rest well",
+      "Feelings may keep moving for a few days; meet them with kindness and let them pass",
+      "In the weeks that follow, notice how differently you respond to familiar situations"
+    ],
+    "faq": [
+      {
+        "q": "Why does only Radu offer the Isis Healing?",
+        "a": "The Isis Healing is handed down only to certified Guides of the Modern Mystery School, who also need a specially approved Isis Healing crystal. In Prague, Radu is the one who performs it."
+      },
+      {
+        "q": "Do I need to know anything about ancient Egypt?",
+        "a": "No. Simply come as you are and receive. If you are unsure whether this is the right healing for you right now, ask Radu and he will gladly help you choose."
+      },
+      {
+        "q": "Is it a replacement for therapy?",
+        "a": "No. It is spiritual, energetic work that sits well alongside counselling or therapy. If you are going through an acute mental health crisis, please reach out for medical support first, and talk with Radu before booking so you can find the right moment together."
+      }
+    ],
+    "bookingTitle": "Begin Again, Lighter",
+    "duration": "90 Minutes",
+    "inquiry": "Hello, I am interested in an Isis Healing.",
     "bookingNote": "One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email."
   },
   "LaserLightHealing": {
