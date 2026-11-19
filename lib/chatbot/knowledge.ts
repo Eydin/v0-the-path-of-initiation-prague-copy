@@ -25,6 +25,8 @@ const KEY_FACTS = `
   right first step together. Book it online: ${FREE_CALL_URL}
 - Empower Thyself initiation (first level of initiation): 2 days in person, followed by
   weekly follow-up check-ins and support for many months.
+- Sessions given by Radu only: Isis Healing, Space Realignment, Baby Blessing, Chronos Reading,
+  Celestial Code Etheric Reconstruction, Hermetic Rebalancing and KSHM – Auric Region.
 - Life Activation: activates 22 of 24 DNA strands; ~2 hours; price 8,500 CZK.
 - The path: Life Activation → Empower Thyself → Healers Academy → Ritual Master, alongside
   healings, Sacred Geometry, Astral Travel, Spiritual Intuition and other workshops.

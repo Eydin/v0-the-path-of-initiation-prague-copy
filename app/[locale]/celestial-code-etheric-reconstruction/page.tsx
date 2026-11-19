@@ -7,6 +7,7 @@ const config = {
   position: "center 35%",
   relatedHref: "/etheric-reconstruction",
   investment: "9.888 CZK",
+  hosts: "radu" as const,
   calEmbed: { link: "all/celestial-code-etheric-reconstruction", namespace: "celestial-code-etheric-reconstruction" },
 }
 

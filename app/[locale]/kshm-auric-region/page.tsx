@@ -8,6 +8,7 @@ const config = {
   position: "center 40%",
   relatedHref: "/starseed-healing",
   investment: "85.500 CZK",
+  hosts: "radu" as const,
   calEmbed: { link: "all/kshm-auric-region", namespace: "kshm-auric-region" },
 }
 

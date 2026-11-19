@@ -10,6 +10,7 @@ const config = {
   kind: "none" as const,
   relatedHref: "/life-activation",
   investment: "53.888 CZK",
+  hosts: "radu" as const,
   calEmbed: { link: "all/baby-blessing-consultation", namespace: "baby-blessing-consultation" },
 }
 

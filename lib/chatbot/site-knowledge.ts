@@ -212,7 +212,6 @@ Ask About a Class
 center 35%
 /etheric-reconstruction
 9.888 CZK
-all/celestial-code-etheric-reconstruction
 Etheric Reconstruction
 Celestial Code Etheric Reconstruction
 Release the seeds of your core issues
@@ -1096,7 +1095,6 @@ Awakens and harmonises the body's seven energy centres.
 center 30%
 /soul-retrieval
 8.600 CZK
-all/hermetic-rebalancing
 Hermetic Healing
 Hermetic Rebalancing
 A yearly reset for mind, body and spirit
@@ -1296,7 +1294,6 @@ Hello, I would like to learn more about Keys of the Ancients with Dave Lanyon.
 center 40%
 /starseed-healing
 85.500 CZK
-all/kshm-auric-region
 King Salomon Healing Modality
 KSHM — Auric Region
 A ten-session journey of purification for your aura

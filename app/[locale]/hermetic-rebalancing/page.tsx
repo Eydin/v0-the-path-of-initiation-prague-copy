@@ -8,6 +8,7 @@ const config = {
   position: "center 30%",
   relatedHref: "/soul-retrieval",
   investment: "8.600 CZK",
+  hosts: "radu" as const,
   calEmbed: { link: "all/hermetic-rebalancing", namespace: "hermetic-rebalancing" },
 }
 

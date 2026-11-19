@@ -9,6 +9,7 @@ const config = {
   kind: "reading" as const,
   relatedHref: "/life-activation",
   investment: "6.150 CZK",
+  hosts: "radu" as const,
   calEmbed: { link: "all/chronos-reading", namespace: "chronos-reading" },
 }
 
