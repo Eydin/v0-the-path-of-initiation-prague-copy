@@ -25,7 +25,7 @@ export async function generateMetadata({
   return {
     title,
     description,
-    openGraph: { title, description, images: [{ url: "/images/art/sheba-Salomon-temple.jpg", width: 1200, height: 630 }] },
+    openGraph: { title, description, images: [{ url: "/images/art/sheba-salomon-temple.jpg", width: 1200, height: 630 }] },
   }
 }
 
@@ -51,7 +51,7 @@ export default async function SpecialtyHealings({
     ...card,
   }))
 
-  // Space Realignment (8) has no page: its card books the Cal.com event directly (1 hour, at the client's address).
+  // each card links to its own page and opens its Cal.com booking popup
   const specialtyCards: { price: string; detailsHref?: string; bookSlug?: string }[] = [
     { bookSlug: "advanced-ensofic-ray-healing", detailsHref: "/advanced-ensofic-ray-healing", price: "11.900 CZK" },
     { bookSlug: "fire-soul-infusion", detailsHref: "/fire-soul-infusion", price: "6.150 CZK" },
@@ -61,7 +61,7 @@ export default async function SpecialtyHealings({
     { bookSlug: "etheric-reconstruction", detailsHref: "/etheric-reconstruction", price: "7.777 CZK" },
     { bookSlug: "celestial-code-etheric-reconstruction", detailsHref: "/celestial-code-etheric-reconstruction", price: "9.888 CZK" },
     { bookSlug: "compassion-summoning", detailsHref: "/compassion-summoning", price: "2.444 CZK" },
-    { bookSlug: "space-realignment", price: "4.900 CZK" },
+    { bookSlug: "space-realignment", detailsHref: "/space-realignment", price: "4.900 CZK" },
     { bookSlug: "baby-blessing-consultation", detailsHref: "/baby-blessing", price: "53.888 CZK" },
     { bookSlug: "chronos-reading", detailsHref: "/chronos-reading", price: "6.150 CZK" },
   ]
@@ -74,7 +74,7 @@ export default async function SpecialtyHealings({
   }))
 
   return (
-    <ModalityShell bg="sheba-Salomon-temple.jpg" position="center 30%">
+    <ModalityShell bg="sheba-salomon-temple.jpg" position="center 30%">
       <ModalityHero
         eyebrow={t("heroEyebrow")}
         title={t("heroTitle")}

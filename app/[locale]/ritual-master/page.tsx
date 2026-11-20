@@ -72,7 +72,7 @@ export default async function RitualMaster({
       </Panel>
 
       <QuoteBreaker
-        image="sheba-Salomon-temple.jpg"
+        image="sheba-salomon-temple.jpg"
         quote={
           <>
             &ldquo;{t("quote.text")} <em className="text-primary">{t("quote.emphasis")}</em>.&rdquo;
