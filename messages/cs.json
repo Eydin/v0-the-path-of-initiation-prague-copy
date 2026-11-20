@@ -3005,6 +3005,77 @@
     "inquiry": "Dobrý den, mám zájem o léčení Isis.",
     "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem."
   },
+  "SpaceRealignment": {
+    "heroEyebrow": "Pro váš domov nebo pracoviště",
+    "heroTitle": "Přeladění prostoru",
+    "heroSubtitle": "Vyčistěte a harmonizujte energii místa, kde žijete nebo pracujete",
+    "heroTagline": "Radu přijede k vám domů nebo na pracoviště v Praze, aby přeladil energii prostoru a obnovil posvátný řád a proudění",
+    "introLead": "Každý prostor v sobě nese energii lidí a chvil, které zažil.",
+    "introBody1": "Domov nebo pracoviště postupně nasbírá energii všeho, co se v něm děje: rušných dnů, stresu, hádek, nemocí, a dokonce i nálad lidí, kteří tam žili před vámi. Cítíte to jako místnost, která je těžká, napjatá nebo prostě není v pořádku. Přeladění prostoru vyčistí, co se nahromadilo, znovu sladí a harmonizuje energii prostoru a obnoví posvátný řád a proudění.",
+    "introBody2": "Radu přijede k vám domů nebo na pracoviště v Praze a pracuje přímo v prostoru, přičemž vychází z učení Modern Mystery School o posvátném prostoru. Cílem je místo, které vás podporuje: klidnější, jasnější a takové, kde se lépe žije, odpočívá i pracuje.",
+    "signsHeading": "Kdy může přeladění prostoru pomoci",
+    "signs": [
+      "Místnost, nebo celý domov, působí těžce, napjatě nebo jako by se v něm nic nehýbalo",
+      "Právě jste se přestěhovali, nebo se stěhovat chystáte",
+      "Otevíráte novou kancelář, studio nebo terapeutickou místnost",
+      "Po rekonstrukci, hádce, nemoci nebo těžkém období v domácnosti",
+      "V prostoru se těžko uvolníte nebo soustředíte"
+    ],
+    "protocolHeading": "Co se během sezení děje",
+    "protocol": [
+      {
+        "label": "Příchod:",
+        "text": "Radu přijede k vám domů nebo na pracoviště a krátce si promluvíte o prostoru: jak působí a jak se používá."
+      },
+      {
+        "label": "Přeladění:",
+        "text": "Radu prochází prostorem, čistí energii, která se v něm nahromadila, a znovu ji slaďuje a harmonizuje."
+      },
+      {
+        "label": "Závěr:",
+        "text": "Sezení končí krátkým rozhovorem o tom, jak prostor působí teď a jak si ho takový udržet."
+      }
+    ],
+    "benefitsHeading": "Co může přeladěný prostor přinést",
+    "benefits": [
+      "Lehčí a jasnější atmosféru v místnostech",
+      "Domov, kde opravdu odpočíváte a nabíráte síly",
+      "Klidnější a harmoničtější pocit pro všechny, kdo v něm žijí nebo pracují",
+      "Nový začátek v novém domově nebo na novém pracovišti"
+    ],
+    "who": [
+      "Každý, kdo chce, aby byl jeho domov útočištěm",
+      "Rodiny, které se stěhují do nového domova",
+      "Podnikatelé a terapeuti, kteří otevírají nebo obnovují pracovní prostor či terapeutickou místnost"
+    ],
+    "afterHeading": "Po sezení",
+    "after": [
+      "Udržujte prostor čistý a bez nepořádku, aby energie mohla dál proudit",
+      "Všímejte si, jak místnosti působí v následujících dnech a jak se v nich cítíte",
+      "Pokud se později stane něco velkého, například stěhování, rekonstrukce nebo těžké období, může pomoci nové přeladění"
+    ],
+    "faq": [
+      {
+        "q": "Kde sezení probíhá?",
+        "a": "U vás doma nebo na vašem pracovišti v Praze: Radu přijede za vámi. Při rezervaci prosím zadejte adresu. Pokud je váš prostor mimo Prahu, zeptejte se Radu před rezervací."
+      },
+      {
+        "q": "Musím se nějak připravit?",
+        "a": "Žádná zvláštní příprava není potřeba. Buďte prosím na místě, abyste Radu přivítali a ukázali mu prostor. Máte-li jakékoli otázky, zeptejte se ho před rezervací."
+      },
+      {
+        "q": "Mohu si ho objednat pro kancelář, obchod nebo terapeutickou místnost?",
+        "a": "Ano. Přeladění prostoru je vhodné pro jakýkoli domov nebo pracoviště v Praze, včetně kanceláří, obchodů, studií a terapeutických místností. Stačí při rezervaci zadat adresu."
+      }
+    ],
+    "bookingTitle": "Vraťte svému prostoru harmonii",
+    "duration": "60 minut",
+    "inquiry": "Dobrý den, mám zájem o přeladění prostoru.",
+    "bookingNote": "Individuálně s Radu, u vás doma nebo na pracovišti v Praze: přijede za vámi. Vyberte si termín, zadejte adresu a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
+    "relatedHeading": "Naučte se udržovat svůj prostor čistý",
+    "relatedBody": "Workshop Sacred Geometry vás naučí, jak vyčistit a zapečetit domov, kancelář nebo jakoukoli místnost, aby se v nich negativní energie nehromadila.",
+    "relatedCta": "Prozkoumat Sacred Geometry"
+  },
   "LaserLightHealing": {
     "heroEyebrow": "Léčení světlem",
     "heroTitle": "Léčení laserovým světlem",

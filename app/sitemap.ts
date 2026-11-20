@@ -34,6 +34,7 @@ const CORE_ROUTES = [
   "/sacred-rites-healing",
   "/spark-of-life",
   "/isis-healing",
+  "/space-realignment",
   "/shamanic-aura-clearing",
   "/intuitive-crystal-reading",
   "/chronos-reading",
