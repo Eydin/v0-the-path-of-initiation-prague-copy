@@ -1,19 +1,19 @@
 import type { Metadata } from "next"
 import { HealingSessionPage, healingSessionMetadata } from "@/components/healing-session-page"
 
-// No official MMS page for this session; copy follows Radu's own description (Cal.com event 50) and the
-// MMS teaching on clearing, sealing and gridding a home or workspace (modernmysteryschoolint.com, "Creating your sacred space").
-// Only Radu performs it, at the client's address in Prague, so the Cal.com event checks only his calendar.
+// No official MMS page describes a "Space Realignment"; the copy follows Radu's own description of the session.
+// It is for the person, not a home or building: finding your place and living comfortably at the centre of your
+// own space, life and universe. Only Radu performs it, in person at Ruská 12 (Vršovice), so the Cal.com event
+// checks only his calendar.
 const config = {
   namespace: "SpaceRealignment",
   bg: "pantheon-panini.jpg",
   position: "center 35%",
-  heroImage: "hammershoi-dust-motes-dancing.jpg",
-  heroPosition: "center 40%",
-  heroCaption: "Dust Motes Dancing in the Sunbeams · Vilhelm Hammershøi, 1900 (public domain)",
+  heroImage: "caspar-david-friedrich-wanderer-above-the-sea-of-fog.jpg",
+  heroPosition: "center 30%",
+  heroCaption: "Wanderer above the Sea of Fog · Caspar David Friedrich, c. 1818 (public domain)",
   investment: "4.900 CZK",
   hosts: "radu" as const,
-  relatedHref: "/sacred-geometry",
   calEmbed: { link: "all/space-realignment", namespace: "space-realignment" },
 }
 

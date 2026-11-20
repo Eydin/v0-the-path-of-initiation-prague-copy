@@ -836,7 +836,7 @@
       { "name": "Ätherische Rekonstruktion", "tag": "Spezial", "description": "Baut den ätherischen Körper in all seinen Schichten wieder auf und repariert ihn, heilt energetische Schäden, die über lange Zeiträume gehalten wurden." },
       { "name": "Himmlische-Code-Ätherrekonstruktion", "tag": "Spezial", "description": "Klärt die Saat von Kernthemen und tiefe Muster aus der Region des Himmlischen Codes in deinem Ätherfeld." },
       { "name": "Herbeirufung des Mitgefühls", "description": "Die Erzengel werden für dich herbeigerufen, für Trost, Schutz, Klarheit und Führung." },
-      { "name": "Raum-Neuausrichtung", "description": "Richtet die Energie eines Hauses oder Raumes neu aus und harmonisiert sie, stellt heilige Ordnung und Fluss wieder her." },
+      { "name": "Raum-Neuausrichtung", "description": "Hilft dir, deinen Platz zu finden und entspannt in der Mitte deines eigenen Raumes, Lebens und Universums zu leben — für Zeiten, in denen du dich verloren oder zerstreut fühlst." },
       { "name": "Babysegnung", "description": "Ein heiliger Segen, um ein Neugeborenes willkommen zu heißen — ruft Schutz, Licht und einen gesegneten Anfang herbei." },
       { "name": "Chronos-Lesung", "description": "Führung von Chronos zu den Gaben, mit denen du geboren wurdest, und zu den Lebensbereichen, in denen du mit einem Nachteil gestartet bist." }
     ],
@@ -3006,75 +3006,72 @@
     "bookingNote": "Einzelsitzung, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt."
   },
   "SpaceRealignment": {
-    "heroEyebrow": "Für dein Zuhause oder deinen Arbeitsplatz",
+    "heroEyebrow": "Zurück in deine Mitte",
     "heroTitle": "Raum-Neuausrichtung",
-    "heroSubtitle": "Kläre und harmonisiere die Energie des Ortes, an dem du lebst oder arbeitest",
-    "heroTagline": "Radu kommt zu dir nach Hause oder an deinen Arbeitsplatz in Prag, um die Energie des Raumes neu auszurichten und heilige Ordnung und Fluss wiederherzustellen",
-    "introLead": "Jeder Raum trägt die Energie der Menschen und Momente in sich, die er erlebt hat.",
-    "introBody1": "Mit der Zeit sammelt ein Zuhause oder ein Arbeitsplatz die Energie von allem, was darin geschieht: volle Tage, Stress, Streit, Krankheit, sogar die Stimmungen der Menschen, die vorher dort gewohnt haben. Du spürst es als einen Raum, der schwer, angespannt oder einfach nicht ganz stimmig ist. Eine Raum-Neuausrichtung klärt, was sich angesammelt hat, richtet die Energie des Raumes neu aus und harmonisiert sie, sodass heilige Ordnung und Fluss zurückkehren.",
-    "introBody2": "Radu kommt zu dir nach Hause oder an deinen Arbeitsplatz in Prag und arbeitet direkt im Raum. Dabei stützt er sich auf die Lehren der Modern Mystery School über heilige Räume. Das Ziel ist ein Ort, der dich unterstützt: ruhiger, klarer und ein Ort, an dem es sich leichter leben, ausruhen und arbeiten lässt.",
+    "heroSubtitle": "Finde deinen Platz und lebe entspannt in der Mitte deines eigenen Lebens",
+    "heroTagline": "Für die Zeiten, in denen du dich verloren oder zerstreut fühlst: Komm zurück in die Mitte deines Raumes, deines Lebens und deines Universums",
+    "introLead": "Manchmal zieht uns das Leben in so viele Richtungen, dass wir unseren Platz darin verlieren.",
+    "introBody1": "Wir verteilen Stücke unserer Aufmerksamkeit und Energie an Arbeit, Familie, Pläne und Sorgen, bis wir uns zerstreut, aus der Mitte geraten oder einfach verloren fühlen. Eine Raum-Neuausrichtung ist eine Sitzung für dich als Mensch, nicht für ein Zimmer oder ein Gebäude: Sie hilft dir, deinen Platz wiederzufinden und dich entspannt in der Mitte deines eigenen Raumes, deines Lebens und deines Universums niederzulassen.",
+    "introBody2": "Radu arbeitet persönlich und einzeln mit dir in Prag. Das Ziel ist, dass du dich wieder gesammelt, geerdet und in deinem eigenen Leben zu Hause fühlst, sodass du aus deiner Mitte heraus weitergehen kannst, statt von allem um dich herum hin- und hergezogen zu werden.",
     "signsHeading": "Wann eine Raum-Neuausrichtung helfen kann",
     "signs": [
-      "Ein Zimmer oder die ganze Wohnung fühlt sich schwer, angespannt oder festgefahren an",
-      "Du bist gerade eingezogen oder ziehst bald um",
-      "Du eröffnest ein neues Büro, ein Studio oder einen Behandlungsraum",
-      "Nach einer Renovierung, einem Streit, einer Krankheit oder einer schweren Zeit im Zuhause",
-      "Es fällt dir schwer, dich in dem Raum zu entspannen oder zu konzentrieren"
+      "Du fühlst dich verloren, als hättest du deinen Platz im Leben verloren",
+      "Deine Energie und Aufmerksamkeit sind in viele Richtungen zerstreut",
+      "Du fühlst dich aus der Mitte geraten und ungeerdet, hin- und hergezogen von allem und jedem um dich herum",
+      "Du hast große Veränderungen durchlebt und weißt nicht mehr, wo du stehst",
+      "Du sehnst dich danach, dich in deinem eigenen Leben wieder zu Hause zu fühlen"
     ],
     "protocolHeading": "Was in der Sitzung geschieht",
     "protocol": [
       {
         "label": "Ankommen:",
-        "text": "Radu kommt zu dir nach Hause oder an deinen Arbeitsplatz, und ihr sprecht kurz über den Raum: wie er sich anfühlt und wie er genutzt wird."
+        "text": "Ein kurzes Gespräch darüber, wo du gerade im Leben stehst und wo du dich verloren oder zerstreut fühlst."
       },
       {
         "label": "Die Neuausrichtung:",
-        "text": "Radu geht durch den Raum, klärt die Energie, die sich angesammelt hat, richtet sie neu aus und harmonisiert sie."
+        "text": "Radu arbeitet mit deiner Energie, um dir zu helfen, in deine Mitte zurückzukehren und deinen Platz in deinem eigenen Raum, deinem Leben und deinem Universum zu finden."
       },
       {
-        "label": "Abschluss:",
-        "text": "Die Sitzung endet mit einem kurzen Gespräch darüber, wie sich der Raum jetzt anfühlt und wie du ihn so erhältst."
+        "label": "Integration:",
+        "text": "Die Sitzung endet mit einem ruhigen Moment der Erholung, damit sich die neue Ausrichtung setzen kann, bevor du in deinen Tag zurückkehrst."
       }
     ],
-    "benefitsHeading": "Was ein neu ausgerichteter Raum bringen kann",
+    "benefitsHeading": "Was sie dir bringen kann",
     "benefits": [
-      "Eine leichtere, klarere Atmosphäre in den Räumen",
-      "Ein Zuhause, in dem du wirklich ruhst und auftankst",
-      "Ein ruhigeres, harmonischeres Gefühl für alle, die dort leben oder arbeiten",
-      "Einen Neuanfang in einem neuen Zuhause oder an einem neuen Arbeitsplatz"
+      "Dich zentrierter und gesammelter zu fühlen statt zerstreut",
+      "Ein klareres Gefühl für deinen Platz in deinem eigenen Leben",
+      "Mehr Ruhe und Leichtigkeit im Alltag",
+      "Aus deiner eigenen Mitte heraus weiterzugehen, mit mehr Zuversicht"
     ],
     "who": [
-      "Alle, die möchten, dass sich ihr Zuhause wie ein Zufluchtsort anfühlt",
-      "Familien, die in ein neues Zuhause ziehen",
-      "Unternehmer und Praktizierende, die einen Arbeits- oder Behandlungsraum eröffnen oder auffrischen"
+      "Alle, die sich verloren oder zerstreut fühlen",
+      "Menschen in einer Zeit des Wandels, die wieder festen Boden unter den Füßen finden möchten",
+      "Alle, die sich zentrierter und in ihrem eigenen Leben mehr zu Hause fühlen möchten"
     ],
     "afterHeading": "Nach der Sitzung",
     "after": [
-      "Halte den Raum sauber und aufgeräumt, damit die Energie weiter fließen kann",
-      "Achte in den folgenden Tagen darauf, wie sich die Räume anfühlen und wie du dich darin fühlst",
-      "Wenn sich später etwas Großes ändert, etwa ein Umzug, eine Renovierung oder eine schwere Zeit, kann eine neue Neuausrichtung helfen"
+      "Wenn möglich, gestalte den Rest des Tages ruhig und ohne Eile",
+      "Trink viel Wasser und ruh dich gut aus",
+      "Achte in den folgenden Tagen darauf, wo du dich zentrierter und wohler fühlst"
     ],
     "faq": [
       {
-        "q": "Wo findet die Sitzung statt?",
-        "a": "Bei dir zu Hause oder an deinem Arbeitsplatz in Prag: Radu kommt zu dir. Bitte gib die Adresse bei der Buchung an. Wenn dein Raum außerhalb von Prag liegt, frag Radu vor der Buchung."
+        "q": "Geht es um mein Zuhause oder meinen Arbeitsplatz?",
+        "a": "Nein. Trotz ihres Namens ist die Raum-Neuausrichtung eine Sitzung für dich als Mensch, nicht für ein Gebäude oder ein Zimmer. Sie arbeitet an deinem eigenen Platz in deinem Raum, deinem Leben und deinem Universum."
       },
       {
-        "q": "Muss ich etwas vorbereiten?",
-        "a": "Eine besondere Vorbereitung ist nicht nötig. Sei bitte da, um Radu zu empfangen und ihm den Raum zu zeigen. Wenn du Fragen hast, frag ihn vor der Buchung."
+        "q": "Muss ich mich auf etwas vorbereiten?",
+        "a": "Nein, eine besondere Vorbereitung ist nicht nötig. Komm einfach so, wie du bist. Wenn du unsicher bist, ob diese Sitzung gerade die richtige für dich ist, frag Radu — er hilft dir gern bei der Wahl."
       },
       {
-        "q": "Kann ich sie für ein Büro, ein Geschäft oder einen Behandlungsraum buchen?",
-        "a": "Ja. Eine Raum-Neuausrichtung eignet sich für jedes Zuhause und jeden Arbeitsplatz in Prag, auch für Büros, Geschäfte, Studios und Behandlungsräume. Gib einfach bei der Buchung die Adresse an."
+        "q": "Ersetzt sie eine Therapie?",
+        "a": "Nein. Es ist spirituelle, energetische Arbeit, die sich gut mit Beratung oder Therapie verbinden lässt. Wenn du gerade eine akute psychische Krise durchlebst, such dir bitte zuerst medizinische Unterstützung und sprich mit Radu, bevor du buchst, damit ihr gemeinsam den richtigen Moment findet."
       }
     ],
-    "bookingTitle": "Bring deinen Raum zurück in Harmonie",
+    "bookingTitle": "Komm zurück in deine Mitte",
     "duration": "60 Minuten",
     "inquiry": "Hallo, ich interessiere mich für eine Raum-Neuausrichtung.",
-    "bookingNote": "Einzelsitzung mit Radu, bei dir zu Hause oder an deinem Arbeitsplatz in Prag: Er kommt zu dir. Wähle einen Termin, gib die Adresse an und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt.",
-    "relatedHeading": "Lerne, deinen Raum klar zu halten",
-    "relatedBody": "Der Sacred-Geometry-Workshop zeigt dir, wie du dein Zuhause, dein Büro oder jeden Raum klärst und versiegelst, damit sich keine negative Energie ansammelt.",
-    "relatedCta": "Sacred Geometry entdecken"
+    "bookingNote": "Einzelsitzung mit Radu, persönlich in Prag (Vršovice). Wähle einen Termin und bezahle sicher online — deine Buchung wird sofort per E-Mail bestätigt."
   },
   "LaserLightHealing": {
     "heroEyebrow": "Heilung mit Licht",

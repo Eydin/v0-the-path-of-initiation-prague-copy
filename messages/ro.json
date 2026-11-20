@@ -836,7 +836,7 @@
       { "name": "Reconstrucție Eterică", "tag": "Specializată", "description": "Reconstruiește și repară corpul eteric pe toate straturile sale, vindecând daunele energetice acumulate pe perioade lungi de timp." },
       { "name": "Reconstrucție Eterică prin Coduri Celeste", "tag": "Specializată", "description": "Curăță semințele problemelor de fond și ale tiparelor adânci din regiunea Codurilor Celeste a câmpului tău eteric." },
       { "name": "Invocarea Compasiunii", "description": "Arhanghelii sunt invocați pentru tine, pentru alinare, protecție, claritate și îndrumare." },
-      { "name": "Realinierea Spațiului", "description": "Realiniază și armonizează energia unei case sau a unui spațiu, restabilind ordinea sacră și fluxul." },
+      { "name": "Realinierea Spațiului", "description": "Te ajută să-ți găsești locul și să trăiești liniștit în centrul propriului tău spațiu, al vieții tale și al universului tău — pentru momentele în care te simți pierdut(ă) sau risipit(ă)." },
       { "name": "Binecuvântarea Bebelușului", "description": "O binecuvântare sacră pentru a întâmpina un nou-născut — invocând protecție, lumină și un început binecuvântat." },
       { "name": "Lectura Chronos", "description": "Îndrumare de la Chronos despre darurile cu care te-ai născut și despre ariile vieții în care ai pornit cu un dezavantaj." }
     ],
@@ -3006,75 +3006,72 @@
     "bookingNote": "Individual, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail."
   },
   "SpaceRealignment": {
-    "heroEyebrow": "Pentru casa sau locul tău de muncă",
+    "heroEyebrow": "Înapoi în centrul tău",
     "heroTitle": "Realinierea Spațiului",
-    "heroSubtitle": "Curăță și armonizează energia locului în care trăiești sau lucrezi",
-    "heroTagline": "Radu vine la tine acasă sau la locul tău de muncă din Praga pentru a realinia energia spațiului, restabilind ordinea sacră și fluxul",
-    "introLead": "Fiecare spațiu păstrează energia oamenilor și a momentelor pe care le-a văzut.",
-    "introBody1": "Cu timpul, o casă sau un loc de muncă adună energia a tot ce se petrece în el: zile aglomerate, stres, certuri, boală, chiar și stările oamenilor care au locuit acolo înainte. O simți ca pe o cameră grea, tensionată sau pur și simplu nu tocmai în regulă. Realinierea Spațiului curăță ceea ce s-a adunat, realiniază și armonizează energia spațiului, restabilind ordinea sacră și fluxul.",
-    "introBody2": "Radu vine la tine acasă sau la locul tău de muncă din Praga și lucrează direct în spațiu, pornind de la învățăturile Modern Mystery School despre spațiul sacru. Scopul este un loc care te susține: mai calm, mai limpede și în care e mai ușor să trăiești, să te odihnești și să lucrezi.",
+    "heroSubtitle": "Găsește-ți locul și trăiește liniștit în centrul propriei tale vieți",
+    "heroTagline": "Pentru momentele în care te simți pierdut(ă) sau risipit(ă): revino în centrul spațiului tău, al vieții tale și al universului tău",
+    "introLead": "Uneori viața ne trage în atâtea direcții încât ne pierdem locul în ea.",
+    "introBody1": "Ne împărțim atenția și energia între muncă, familie, planuri și griji, până când ne simțim risipiți, ieșiți din centru sau pur și simplu pierduți. Realinierea Spațiului este o ședință pentru tine ca persoană, nu pentru o cameră sau o clădire: te ajută să-ți regăsești locul și să te așezi confortabil în mijlocul propriului tău spațiu, al vieții tale și al universului tău.",
+    "introBody2": "Radu lucrează cu tine individual, în persoană, la Praga. Scopul este să te simți din nou adunat(ă), ancorat(ă) și acasă în propria ta viață, ca să poți merge mai departe din centrul tău, în loc să fii tras(ă) în toate părțile de tot ce e în jurul tău.",
     "signsHeading": "Când te poate ajuta o Realiniere a Spațiului",
     "signs": [
-      "O cameră, sau întreaga casă, se simte grea, tensionată sau blocată",
-      "Tocmai te-ai mutat sau urmează să te muți",
-      "Deschizi un birou, un studio sau o cameră de terapie nouă",
-      "După o renovare, o ceartă, o boală sau o perioadă grea în casă",
-      "Îți vine greu să te relaxezi sau să te concentrezi în acel spațiu"
+      "Te simți pierdut(ă), ca și cum ți-ai fi pierdut locul în viață",
+      "Energia și atenția ta sunt risipite în multe direcții",
+      "Te simți ieșit(ă) din centru și neancorat(ă), tras(ă) în toate părțile de tot și de toți cei din jur",
+      "Ai trecut prin schimbări mari și nu mai știi unde te afli",
+      "Îți dorești să te simți din nou acasă în propria ta viață"
     ],
     "protocolHeading": "Ce se întâmplă în ședință",
     "protocol": [
       {
         "label": "Sosirea:",
-        "text": "Radu vine la tine acasă sau la locul tău de muncă și vorbiți pe scurt despre spațiu: cum se simte și cum este folosit."
+        "text": "O scurtă discuție despre unde te afli acum în viață și unde te simți pierdut(ă) sau risipit(ă)."
       },
       {
         "label": "Realinierea:",
-        "text": "Radu lucrează în tot spațiul, curățând energia care s-a adunat, realiniind-o și armonizând-o."
+        "text": "Radu lucrează cu energia ta pentru a te ajuta să revii în centrul tău și să-ți găsești locul în propriul tău spațiu, în viața ta și în universul tău."
       },
       {
-        "label": "Încheierea:",
-        "text": "Ședința se încheie cu o scurtă discuție despre cum se simte acum spațiul și cum să-l păstrezi așa."
+        "label": "Integrarea:",
+        "text": "Ședința se încheie cu un moment liniștit de odihnă, ca noua aliniere să se așeze înainte să te întorci la ziua ta."
       }
     ],
-    "benefitsHeading": "Ce poate aduce un spațiu realiniat",
+    "benefitsHeading": "Ce îți poate aduce",
     "benefits": [
-      "O atmosferă mai ușoară și mai limpede în camere",
-      "O casă în care te odihnești și te reîncarci cu adevărat",
-      "O stare mai calmă și mai armonioasă pentru toți cei care locuiesc sau lucrează acolo",
-      "Un nou început într-o casă nouă sau la un nou loc de muncă"
+      "Să te simți mai centrat(ă) și mai adunat(ă), în loc de risipit(ă)",
+      "O înțelegere mai clară a locului tău în propria viață",
+      "Mai multă liniște și ușurință în viața de zi cu zi",
+      "Să mergi mai departe din propriul tău centru, cu mai multă încredere"
     ],
     "who": [
-      "Oricine vrea ca acasă să fie un adevărat sanctuar",
-      "Familii care se mută într-o casă nouă",
-      "Antreprenori și practicieni care deschid sau împrospătează un spațiu de lucru sau o cameră de terapie"
+      "Oricine se simte pierdut sau risipit",
+      "Cei care trec printr-o perioadă de schimbare și vor să-și regăsească echilibrul",
+      "Oricine vrea să se simtă mai centrat și mai acasă în propria viață"
     ],
     "afterHeading": "După ședință",
     "after": [
-      "Păstrează spațiul curat și ordonat, ca energia să poată curge în continuare",
-      "Observă cum se simt camerele în zilele următoare și cum te simți tu în ele",
-      "Dacă mai târziu se schimbă ceva important, cum ar fi o mutare, o renovare sau o perioadă grea, o nouă realiniere te poate ajuta"
+      "Dacă poți, lasă restul zilei să curgă liniștit și fără grabă",
+      "Bea multă apă și odihnește-te bine",
+      "În zilele următoare, observă unde te simți mai centrat(ă) și mai în largul tău"
     ],
     "faq": [
       {
-        "q": "Unde are loc ședința?",
-        "a": "La tine acasă sau la locul tău de muncă din Praga: Radu vine la tine. Te rugăm să introduci adresa când faci rezervarea. Dacă spațiul tău este în afara Pragăi, întreabă-l pe Radu înainte de a rezerva."
+        "q": "Este vorba despre casa sau locul meu de muncă?",
+        "a": "Nu. În ciuda numelui, Realinierea Spațiului este o ședință pentru tine ca persoană, nu pentru o clădire sau o cameră. Lucrează cu propriul tău loc în spațiul tău, în viața ta și în universul tău."
       },
       {
-        "q": "Trebuie să pregătesc ceva?",
-        "a": "Nu este nevoie de o pregătire specială. Te rugăm să fii acolo ca să-l primești pe Radu și să-i arăți spațiul. Dacă ai întrebări, întreabă-l înainte de a rezerva."
+        "q": "Trebuie să mă pregătesc cumva?",
+        "a": "Nu este nevoie de nicio pregătire specială. Vino exact așa cum ești. Dacă nu ești sigur(ă) că aceasta este ședința potrivită pentru tine acum, întreabă-l pe Radu și te va ajuta cu drag să alegi."
       },
       {
-        "q": "O pot rezerva pentru un birou, un magazin sau o cameră de terapie?",
-        "a": "Da. Realinierea Spațiului se potrivește pentru orice casă sau loc de muncă din Praga, inclusiv birouri, magazine, studiouri și camere de terapie. Introdu pur și simplu adresa când rezervi."
+        "q": "Înlocuiește terapia?",
+        "a": "Nu. Este o lucrare spirituală, energetică, ce se potrivește bine alături de consiliere sau terapie. Dacă treci printr-o criză acută de sănătate mintală, te rugăm să cauți mai întâi sprijin medical și să vorbești cu Radu înainte de a rezerva, ca să găsiți împreună momentul potrivit."
       }
     ],
-    "bookingTitle": "Readu armonia în spațiul tău",
+    "bookingTitle": "Revino în centrul tău",
     "duration": "60 de minute",
     "inquiry": "Bună, sunt interesat(ă) de o Realiniere a Spațiului.",
-    "bookingNote": "Individual cu Radu, la tine acasă sau la locul tău de muncă din Praga: el vine la tine. Alege o oră, introdu adresa și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail.",
-    "relatedHeading": "Învață să-ți păstrezi spațiul curat",
-    "relatedBody": "Atelierul Sacred Geometry te învață cum să cureți și să sigilezi casa, biroul sau orice cameră, ca energia negativă să nu se adune.",
-    "relatedCta": "Descoperă Sacred Geometry"
+    "bookingNote": "Individual cu Radu, în persoană la Praga (Vršovice). Alege o oră și plătește în siguranță online — programarea ta este confirmată imediat prin e-mail."
   },
   "LaserLightHealing": {
     "heroEyebrow": "Vindecare cu lumină",

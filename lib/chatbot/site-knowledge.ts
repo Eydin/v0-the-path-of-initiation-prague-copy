@@ -2469,55 +2469,51 @@ Hello, I would like to learn more about the Hermetic Soul Retrieval.
 
 ## PAGE: /space-realignment
 center 35%
-center 40%
-Dust Motes Dancing in the Sunbeams · Vilhelm Hammershøi, 1900 (public domain)
+center 30%
+Wanderer above the Sea of Fog · Caspar David Friedrich, c. 1818 (public domain)
 4.900 CZK
-as const, relatedHref:
-For Your Home or Workplace
+Finding Your Centre
 Space Realignment
-Clear and harmonise the energy of the place where you live or work
-Radu comes to your home or workspace in Prague to realign its energy and restore sacred order and flow
-Every space holds the energy of the people and moments it has seen.
-Over time, a home or workplace gathers the energy of everything that happens in it: busy days, stress, arguments, illness, even the moods of the people who lived there before. You feel it as a room that is heavy, tense or simply not quite right. A Space Realignment clears what has built up and realigns and harmonises the energy of the space, restoring sacred order and flow.
-Radu comes to your home or workspace in Prague and works directly in the space, drawing on the Modern Mystery School's teachings on sacred space. The aim is a place that supports you: calmer, clearer and easier to live, rest and work in.
+Find your place, and live comfortably at the centre of your own life
+For the times you feel lost or scattered: come back to the middle of your space, your life and your universe
+Sometimes life pulls us in so many directions that we lose our place in it.
+We give pieces of our attention and energy to work, family, plans and worries, until we feel scattered, off-centre, or simply lost. A Space Realignment is a session for you as a person, not for a room or a building: it helps you find your place again and settle comfortably in the middle of your own space, your life and your universe.
+Radu works with you one to one, in person in Prague. The aim is to help you feel gathered, grounded and at home in your own life again, so you can move forward from your centre rather than being pulled around by everything around you.
 When a Space Realignment Can Help
-A room, or the whole home, feels heavy, tense or stuck
-You have just moved in, or are about to
-You are opening a new office, studio or treatment room
-After a renovation, a conflict, an illness or a difficult time in the home
-You find it hard to relax or focus in the space
+You feel lost, as if you have lost your place in life
+Your energy and attention feel scattered in many directions
+You feel off-centre and ungrounded, pulled around by everything and everyone around you
+You have been through big changes and no longer know where you stand
+You long to feel at home in your own life again
 What Happens in the Session
 Arriving:
-Radu comes to your home or workspace, and you talk briefly about the space: how it feels and how it is used.
+A short conversation about where you are in life right now, and where you feel lost or scattered.
 The realignment:
-Radu works through the space, clearing the energy that has built up and realigning and harmonising it.
-Closing:
-The session ends with a short conversation about how the space feels now and how to keep it that way.
-What a Realigned Space Can Bring
-A lighter, clearer atmosphere in the rooms
-A home where you can truly rest and recharge
-A calmer, more harmonious feeling for everyone who lives or works there
-A fresh start in a new home or workplace
-Anyone who wants their home to feel like a sanctuary
-Families moving into a new home
-Business owners and practitioners opening or refreshing a workspace or treatment room
+Radu works with your energy to help you come back to your centre and find your place within your own space, your life and your universe.
+Integration:
+The session closes with a quiet moment of rest, so the new alignment can settle before you return to your day.
+What It Can Bring
+Feeling more centred and gathered, rather than scattered
+A clearer sense of your place in your own life
+More calm and ease in everyday life
+Moving forward from your own centre, with more confidence
+Anyone who feels lost or scattered
+Those going through a time of change who want to find their footing again
+Anyone who wishes to feel more centred and at home in their own life
 After the Session
-Keep the space clean and uncluttered, so the energy can keep flowing
-Notice how the rooms feel over the following days, and how you feel in them
-If something big changes later, such as a move, a renovation or a difficult time, a new realignment can help
-Where does the session take place?
-At your home or workspace in Prague: Radu comes to you. Please enter the address when you book. If your space is outside Prague, ask Radu before booking.
+If you can, keep the rest of the day calm and unhurried
+Drink plenty of water and rest well
+In the days that follow, notice where you feel more centred and at ease
+Is it about my home or workspace?
+No. Despite its name, a Space Realignment is a session for you as a person, not for a building or a room. It works on your own place within your space, your life and your universe.
 Do I need to prepare anything?
-No special preparation is needed. Please be there to welcome Radu and show him the space. If you have any questions, ask him before you book.
-Can I book it for an office, shop or treatment room?
-Yes. A Space Realignment works for any home or workspace in Prague, including offices, shops, studios and treatment rooms. Just enter the address when you book.
-Bring Your Space Back Into Harmony
+No special preparation is needed. Simply come as you are. If you are unsure whether this is the right session for you right now, ask Radu and he will gladly help you choose.
+Is it a replacement for therapy?
+No. It is spiritual, energetic work that sits well alongside counselling or therapy. If you are going through an acute mental health crisis, please reach out for medical support first, and talk with Radu before booking so you can find the right moment together.
+Come Back to Your Centre
 60 Minutes
 Hello, I am interested in a Space Realignment.
-One-to-one with Radu, at your home or workspace in Prague: he comes to you. Choose a time, enter the address and pay securely online — your appointment is confirmed immediately by email.
-Learn to keep your space clear
-The Sacred Geometry workshop teaches you how to clear and seal your home, your office or any room, so negative energy doesn't build up.
-Explore Sacred Geometry
+One-to-one with Radu, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
 
 ## PAGE: /spark-of-life
 center 40%
@@ -2592,7 +2588,7 @@ Clears the seeds of core issues and deep patterns from the Celestial Code region
 Compassion Summoning
 The archangels are summoned for you, for soothing, protection, clarity and guidance.
 Space Realignment
-Realigns and harmonises the energy of a home or space, restoring sacred order and flow.
+Helps you find your place and live comfortably at the centre of your own space, life and universe — for times when you feel lost or scattered.
 Baby Blessing
 A sacred blessing to welcome a newborn — calling in protection, light and a blessed beginning.
 Chronos Reading

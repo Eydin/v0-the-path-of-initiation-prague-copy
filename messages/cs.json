@@ -836,7 +836,7 @@
       { "name": "Éterická rekonstrukce", "tag": "Speciální", "description": "Obnovuje a opravuje éterické tělo napříč jeho vrstvami a hojí energetické poškození držené po dlouhou dobu." },
       { "name": "Éterická rekonstrukce nebeských kódů", "tag": "Speciální", "description": "Čistí semínka klíčových témat a hlubokých vzorců z oblasti nebeských kódů ve vašem éterickém poli." },
       { "name": "Vzývání soucitu", "description": "Archandělé jsou vzýváni pro vás, aby vám přinesli útěchu, ochranu, jasnost a vedení." },
-      { "name": "Přeladění prostoru", "description": "Znovu sladí a harmonizuje energii domova nebo prostoru a obnovuje posvátný řád a proudění." },
+      { "name": "Přeladění prostoru", "description": "Pomáhá vám najít své místo a žít pohodlně uprostřed vlastního prostoru, života a vesmíru — pro chvíle, kdy se cítíte ztracení nebo roztříštění." },
       { "name": "Požehnání dítěte", "description": "Posvátné požehnání na uvítanou novorozence — vzývá ochranu, světlo a požehnaný začátek." },
       { "name": "Čtení Chronos", "description": "Vedení od Chronose o darech, se kterými jste se narodili, a o oblastech života, ve kterých jste začínali s nevýhodou." }
     ],
@@ -3006,75 +3006,72 @@
     "bookingNote": "Individuálně, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem."
   },
   "SpaceRealignment": {
-    "heroEyebrow": "Pro váš domov nebo pracoviště",
+    "heroEyebrow": "Návrat do vlastního středu",
     "heroTitle": "Přeladění prostoru",
-    "heroSubtitle": "Vyčistěte a harmonizujte energii místa, kde žijete nebo pracujete",
-    "heroTagline": "Radu přijede k vám domů nebo na pracoviště v Praze, aby přeladil energii prostoru a obnovil posvátný řád a proudění",
-    "introLead": "Každý prostor v sobě nese energii lidí a chvil, které zažil.",
-    "introBody1": "Domov nebo pracoviště postupně nasbírá energii všeho, co se v něm děje: rušných dnů, stresu, hádek, nemocí, a dokonce i nálad lidí, kteří tam žili před vámi. Cítíte to jako místnost, která je těžká, napjatá nebo prostě není v pořádku. Přeladění prostoru vyčistí, co se nahromadilo, znovu sladí a harmonizuje energii prostoru a obnoví posvátný řád a proudění.",
-    "introBody2": "Radu přijede k vám domů nebo na pracoviště v Praze a pracuje přímo v prostoru, přičemž vychází z učení Modern Mystery School o posvátném prostoru. Cílem je místo, které vás podporuje: klidnější, jasnější a takové, kde se lépe žije, odpočívá i pracuje.",
+    "heroSubtitle": "Najděte své místo a žijte pohodlně uprostřed svého vlastního života",
+    "heroTagline": "Pro chvíle, kdy se cítíte ztracení nebo roztříštění: vraťte se doprostřed svého prostoru, svého života a svého vesmíru",
+    "introLead": "Život nás někdy táhne tolika směry, že v něm ztratíme své místo.",
+    "introBody1": "Kousky své pozornosti a energie rozdáváme práci, rodině, plánům i starostem, až se cítíme roztříštění, mimo svůj střed, nebo prostě ztracení. Přeladění prostoru je sezení pro vás jako člověka, ne pro místnost nebo budovu: pomáhá vám znovu najít své místo a pohodlně se usadit uprostřed svého vlastního prostoru, svého života a svého vesmíru.",
+    "introBody2": "Radu s vámi pracuje individuálně, osobně v Praze. Cílem je, abyste se znovu cítili sebraní, ukotvení a doma ve svém vlastním životě a mohli jít dál ze svého středu, místo abyste se nechali strhávat vším kolem sebe.",
     "signsHeading": "Kdy může přeladění prostoru pomoci",
     "signs": [
-      "Místnost, nebo celý domov, působí těžce, napjatě nebo jako by se v něm nic nehýbalo",
-      "Právě jste se přestěhovali, nebo se stěhovat chystáte",
-      "Otevíráte novou kancelář, studio nebo terapeutickou místnost",
-      "Po rekonstrukci, hádce, nemoci nebo těžkém období v domácnosti",
-      "V prostoru se těžko uvolníte nebo soustředíte"
+      "Cítíte se ztracení, jako byste v životě ztratili své místo",
+      "Vaše energie a pozornost jsou roztříštěné do mnoha směrů",
+      "Cítíte se mimo svůj střed a neukotvení, strhávaní vším a všemi kolem sebe",
+      "Prošli jste velkými změnami a už nevíte, kde stojíte",
+      "Toužíte se znovu cítit doma ve svém vlastním životě"
     ],
     "protocolHeading": "Co se během sezení děje",
     "protocol": [
       {
         "label": "Příchod:",
-        "text": "Radu přijede k vám domů nebo na pracoviště a krátce si promluvíte o prostoru: jak působí a jak se používá."
+        "text": "Krátký rozhovor o tom, kde se teď v životě nacházíte a v čem se cítíte ztracení nebo roztříštění."
       },
       {
         "label": "Přeladění:",
-        "text": "Radu prochází prostorem, čistí energii, která se v něm nahromadila, a znovu ji slaďuje a harmonizuje."
+        "text": "Radu pracuje s vaší energií, aby vám pomohl vrátit se do vašeho středu a najít své místo ve vlastním prostoru, životě a vesmíru."
       },
       {
-        "label": "Závěr:",
-        "text": "Sezení končí krátkým rozhovorem o tom, jak prostor působí teď a jak si ho takový udržet."
+        "label": "Integrace:",
+        "text": "Sezení končí chvílí tichého odpočinku, aby se nové sladění mohlo usadit dřív, než se vrátíte ke svému dni."
       }
     ],
-    "benefitsHeading": "Co může přeladěný prostor přinést",
+    "benefitsHeading": "Co vám může přinést",
     "benefits": [
-      "Lehčí a jasnější atmosféru v místnostech",
-      "Domov, kde opravdu odpočíváte a nabíráte síly",
-      "Klidnější a harmoničtější pocit pro všechny, kdo v něm žijí nebo pracují",
-      "Nový začátek v novém domově nebo na novém pracovišti"
+      "Pocit většího soustředění do vlastního středu místo roztříštěnosti",
+      "Jasnější vnímání svého místa ve vlastním životě",
+      "Více klidu a lehkosti v každodenním životě",
+      "Jít dál ze svého vlastního středu, s větší důvěrou"
     ],
     "who": [
-      "Každý, kdo chce, aby byl jeho domov útočištěm",
-      "Rodiny, které se stěhují do nového domova",
-      "Podnikatelé a terapeuti, kteří otevírají nebo obnovují pracovní prostor či terapeutickou místnost"
+      "Každý, kdo se cítí ztracený nebo roztříštěný",
+      "Ti, kdo procházejí obdobím změn a chtějí znovu najít pevnou půdu pod nohama",
+      "Každý, kdo se chce cítit více ve svém středu a více doma ve svém vlastním životě"
     ],
     "afterHeading": "Po sezení",
     "after": [
-      "Udržujte prostor čistý a bez nepořádku, aby energie mohla dál proudit",
-      "Všímejte si, jak místnosti působí v následujících dnech a jak se v nich cítíte",
-      "Pokud se později stane něco velkého, například stěhování, rekonstrukce nebo těžké období, může pomoci nové přeladění"
+      "Pokud můžete, nechte zbytek dne plynout klidně a bez spěchu",
+      "Pijte dostatek vody a dobře odpočívejte",
+      "V následujících dnech si všímejte, kde se cítíte více ve svém středu a lépe"
     ],
     "faq": [
       {
-        "q": "Kde sezení probíhá?",
-        "a": "U vás doma nebo na vašem pracovišti v Praze: Radu přijede za vámi. Při rezervaci prosím zadejte adresu. Pokud je váš prostor mimo Prahu, zeptejte se Radu před rezervací."
+        "q": "Týká se to mého domova nebo pracoviště?",
+        "a": "Ne. Navzdory svému názvu je přeladění prostoru sezení pro vás jako člověka, ne pro budovu nebo místnost. Pracuje s vaším vlastním místem ve vašem prostoru, životě a vesmíru."
       },
       {
         "q": "Musím se nějak připravit?",
-        "a": "Žádná zvláštní příprava není potřeba. Buďte prosím na místě, abyste Radu přivítali a ukázali mu prostor. Máte-li jakékoli otázky, zeptejte se ho před rezervací."
+        "a": "Žádná zvláštní příprava není potřeba. Stačí přijít takoví, jací jste. Pokud si nejste jisti, zda je to pro vás nyní to správné sezení, zeptejte se Radu a on vám rád pomůže vybrat."
       },
       {
-        "q": "Mohu si ho objednat pro kancelář, obchod nebo terapeutickou místnost?",
-        "a": "Ano. Přeladění prostoru je vhodné pro jakýkoli domov nebo pracoviště v Praze, včetně kanceláří, obchodů, studií a terapeutických místností. Stačí při rezervaci zadat adresu."
+        "q": "Nahrazuje terapii?",
+        "a": "Ne. Je to duchovní, energetická práce, která se dobře doplňuje s poradenstvím nebo terapií. Pokud procházíte akutní krizí duševního zdraví, obraťte se prosím nejprve na lékařskou pomoc a před rezervací si promluvte s Radu, abyste společně našli tu správnou chvíli."
       }
     ],
-    "bookingTitle": "Vraťte svému prostoru harmonii",
+    "bookingTitle": "Vraťte se do svého středu",
     "duration": "60 minut",
     "inquiry": "Dobrý den, mám zájem o přeladění prostoru.",
-    "bookingNote": "Individuálně s Radu, u vás doma nebo na pracovišti v Praze: přijede za vámi. Vyberte si termín, zadejte adresu a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem.",
-    "relatedHeading": "Naučte se udržovat svůj prostor čistý",
-    "relatedBody": "Workshop Sacred Geometry vás naučí, jak vyčistit a zapečetit domov, kancelář nebo jakoukoli místnost, aby se v nich negativní energie nehromadila.",
-    "relatedCta": "Prozkoumat Sacred Geometry"
+    "bookingNote": "Individuálně s Radu, osobně v Praze (Vršovice). Vyberte si termín a zaplaťte bezpečně online — vaše rezervace je okamžitě potvrzena e-mailem."
   },
   "LaserLightHealing": {
     "heroEyebrow": "Léčení světlem",
