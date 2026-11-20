@@ -110,10 +110,13 @@ export function Header() {
           </Link>
         </nav>
 
-        {/* Mobile Menu Button */}
-        <button className="lg:hidden" onClick={() => setMobileMenuOpen(!mobileMenuOpen)} aria-label="Menu">
-          <Menu className="h-6 w-6 text-primary" />
-        </button>
+        {/* Mobile Header Controls */}
+        <div className="flex shrink-0 items-center gap-4 lg:hidden">
+          <LocaleSwitcher />
+          <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} aria-label="Menu">
+            <Menu className="h-6 w-6 text-primary" />
+          </button>
+        </div>
       </div>
 
       {/* Mobile Navigation */}
@@ -197,7 +200,6 @@ export function Header() {
               ))}
             </div>
             <div className="flex flex-col gap-3 border-t border-border/40 pt-4">
-              <LocaleSwitcher />
               <Link
                 href="/life-activation"
                 onClick={() => setMobileMenuOpen(false)}

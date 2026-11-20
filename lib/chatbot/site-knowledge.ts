@@ -470,6 +470,7 @@ center 30%
 /archangel-michael-tube-of-light
 2.444 CZK
 all/compassion-summoning
+all/compassion-summoning-remote
 Archangelic Healing
 Compassion Summoning
 Receive the compassionate energy of the archangels
@@ -500,7 +501,7 @@ The Archangel Michael Interstellar Tube of Light surrounds you with a shield of 
 Explore the Tube of Light
 Receive Their Compassion
 60 Minutes
-One-to-one, in person in Prague (Vršovice). Choose a time and pay securely online — your appointment is confirmed immediately by email.
+One-to-one, in person in Prague (Vršovice) or remotely. Choose a time and pay securely online — your appointment is confirmed immediately by email.
 Hello, I am interested in Compassion Summoning.
 
 ## PAGE: /core-will-infusion

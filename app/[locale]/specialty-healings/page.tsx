@@ -52,7 +52,13 @@ export default async function SpecialtyHealings({
   }))
 
   // each card links to its own page and opens its Cal.com booking popup
-  const specialtyCards: { price: string; detailsHref?: string; bookSlug?: string }[] = [
+  const specialtyCards: {
+    price: string
+    detailsHref?: string
+    bookSlug?: string
+    bookOptions?: Healing["bookOptions"]
+    format?: Healing["format"]
+  }[] = [
     { bookSlug: "advanced-ensofic-ray-healing", detailsHref: "/advanced-ensofic-ray-healing", price: "11.900 CZK" },
     { bookSlug: "fire-soul-infusion", detailsHref: "/fire-soul-infusion", price: "6.150 CZK" },
     { bookSlug: "core-will-infusion", detailsHref: "/core-will-infusion", price: "6.150 CZK" },
@@ -60,7 +66,15 @@ export default async function SpecialtyHealings({
     { bookSlug: "hermetic-rebalancing", detailsHref: "/hermetic-rebalancing", price: "8.600 CZK" },
     { bookSlug: "etheric-reconstruction", detailsHref: "/etheric-reconstruction", price: "7.777 CZK" },
     { bookSlug: "celestial-code-etheric-reconstruction", detailsHref: "/celestial-code-etheric-reconstruction", price: "9.888 CZK" },
-    { bookSlug: "compassion-summoning", detailsHref: "/compassion-summoning", price: "2.444 CZK" },
+    {
+      bookOptions: [
+        { slug: "compassion-summoning", labelKey: "bookInPerson" },
+        { slug: "compassion-summoning-remote", labelKey: "bookRemote" },
+      ],
+      detailsHref: "/compassion-summoning",
+      price: "2.444 CZK",
+      format: "both",
+    },
     { bookSlug: "space-realignment", detailsHref: "/space-realignment", price: "4.900 CZK" },
     { bookSlug: "baby-blessing-consultation", detailsHref: "/baby-blessing", price: "53.888 CZK" },
     { bookSlug: "chronos-reading", detailsHref: "/chronos-reading", price: "6.150 CZK" },

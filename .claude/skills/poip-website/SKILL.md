@@ -113,6 +113,10 @@ payment, confirmation) is configured and lives over there.
    - Baby Blessing → `all/baby-blessing-consultation`
    - Ensofic Reiki / Treating Negative Habits have two events each:
      `…-in-person` and `…-remote` (via `bookOptions`)
+   - Compassion Summoning uses `all/compassion-summoning` for in-person
+     bookings (existing URL preserved) and `all/compassion-summoning-remote`
+     for remote bookings; both its page and specialty-healing card use
+     `bookOptions`.
    - Free 30 min meeting (Zoom, free intro call) → `all/30min` (event id 2)
 
    Every slug already in use on the site: grep `link: "all/` under `app/`
@@ -175,15 +179,24 @@ source, not assumed from docs — the official docs don't mention it).
 
 ### Maintaining an existing booking
 
+- **Keep website content and live Cal.com events in sync.** Changing the
+  advertised formats, price, duration, location, hosts, dates, or payment
+  terms requires inspecting and updating both sides as needed, not just
+  changing website copy. For in-person/remote sessions, expose both choices
+  on the session page and every booking card via the existing `bookOptions`
+  pattern, and verify each event's actual location and payment settings.
+  Preserve unrelated settings and working URLs. If Cal.com cannot be
+  accessed, report the booking update as blocked.
 - Price, available dates, payment method, deposit/full-payment options,
   confirmation flow: all live in Cal.com itself (the event type's settings
   on `booking.thepathofinitiationprague.com`, or via the
-  `calcom-event-types` MCP server when connected). Changing them does **not**
-  require a change in this repo.
-- This repo only needs a change if: the Cal.com event slug changes (update
-  `BOOKING_URL`/`CAL_EMBED.link` on that page), or the page's own displayed
-  copy (investment/duration text, booking note) needs to match something
-  that changed over there.
+  `calcom-event-types` MCP server when connected). When these change, update
+  any corresponding displayed website information.
+- When the Cal.com event slug changes, update `BOOKING_URL`/
+  `CAL_EMBED.link`, `bookOptions`, and affected listing-card links. After
+  copy or booking-link changes, update affected translations, regenerate
+  the chatbot knowledge, inspect the diff, and click through each booking
+  choice without submitting a real booking.
 - Currently wired up this way: nearly every class/session page, plus the
   homepage CTA (`components/cta-section.tsx`, Life Activation). Healing and
   reading pages built on `components/healing-session-page.tsx` just pass
@@ -214,7 +227,7 @@ source, not assumed from docs — the official docs don't mention it).
 | `CAL_ORIGIN`, `CalEmbed` type, `calEmbedAttrs` helper, `FREE_CALL` (plain module, safe in server components) | `lib/cal.ts` |
 | Popup link by Cal slug, usable from server components | `components/book-link.tsx` |
 | Loads Cal.com's embed script for the booking popup (mount once per page) | `components/calcom-popup-loader.tsx` |
-| Site nav (desktop + mobile, **both** live here) | `components/header.tsx` |
+| Site nav (desktop + mobile, **both** live here; mobile language selector stays visible beside the menu button) | `components/header.tsx` |
 | Footer nav | `components/footer.tsx` |
 | Sacred Geometry I–IV cross-links | `components/sacred-geometry-series-links.tsx` |
 | Locale/routing config | `i18n/routing.ts` |
