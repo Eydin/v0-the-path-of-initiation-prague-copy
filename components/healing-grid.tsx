@@ -17,6 +17,8 @@ export type Healing = {
   price?: string
   /** Cal.com event type slug — renders a Book Now button that opens its booking popup. */
   bookSlug?: string
+  /** Sessions with separate Cal.com events per format (in person / remote): one Book button each, instead of `bookSlug`. */
+  bookOptions?: { slug: string; labelKey: "bookInPerson" | "bookRemote" }[]
   detailsHref?: string
   /** Sessions run elsewhere (e.g. MMS UK): shows a "prices & sign-up" note and a link out to this URL. */
   externalHref?: string
@@ -43,11 +45,17 @@ function FormatBadge({ format }: { format?: Healing["format"] }) {
 // link ──────────────────────────────────────────────────────────────────
 function HealingCard({ healing }: { healing: Healing }) {
   const t = useTranslations("HealingGrid")
+  const tModality = useTranslations("Modality")
+  const bookings = healing.bookOptions
+    ? healing.bookOptions.map((o) => ({ slug: o.slug, label: tModality(o.labelKey) }))
+    : healing.bookSlug
+      ? [{ slug: healing.bookSlug, label: t("bookNow") }]
+      : []
 
-  if (healing.price || healing.bookSlug || healing.detailsHref || healing.externalHref) {
+  if (healing.price || bookings.length || healing.detailsHref || healing.externalHref) {
     // The whole card is clickable: its main link (See Details, else the MMS UK link, else
     // Book Now) stretches over the card (after:inset-0); the other buttons sit above it (z-10).
-    const main = healing.detailsHref ? "details" : healing.externalHref ? "external" : healing.bookSlug ? "book" : null
+    const main = healing.detailsHref ? "details" : healing.externalHref ? "external" : bookings.length ? "book" : null
     const stretch = "after:absolute after:inset-0 after:rounded-lg after:content-['']"
     const raised = "relative z-10"
     return (
@@ -70,16 +78,17 @@ function HealingCard({ healing }: { healing: Healing }) {
         {healing.externalHref && (
           <p className="mt-4 text-sm font-semibold leading-relaxed text-primary">{t("mmsUkNote")}</p>
         )}
-        {(healing.bookSlug || healing.detailsHref || healing.externalHref) && (
+        {(bookings.length > 0 || healing.detailsHref || healing.externalHref) && (
           <div className="mt-4 flex flex-wrap gap-2.5">
-            {healing.bookSlug && (
+            {bookings.map((b, i) => (
               <BookLink
-                slug={healing.bookSlug}
-                className={`${main === "book" ? stretch : raised} inline-flex items-center justify-center rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90`}
+                key={b.slug}
+                slug={b.slug}
+                className={`${main === "book" && i === 0 ? stretch : raised} inline-flex items-center justify-center rounded border border-primary bg-primary px-4 py-2 text-xs uppercase tracking-wider text-primary-foreground transition-all hover:bg-primary/90`}
               >
-                {t("bookNow")}
+                {b.label}
               </BookLink>
-            )}
+            ))}
             {healing.externalHref && (
               <a
                 href={healing.externalHref}

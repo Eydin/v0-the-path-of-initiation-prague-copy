@@ -38,11 +38,11 @@ export default async function SpecialtyHealings({
   const t = await getTranslations({ locale, namespace: "SpecialtyHealings" })
   const inquiry = t("inquiry")
 
-  // each card links to its own page
+  // each card links to its own page and opens its Cal.com booking popup
   const kshmCards = [
-    { detailsHref: "/starseed-healing", price: "4.900 CZK" },
-    { detailsHref: "/unified-chakra-healing", price: "4.900 CZK" },
-    { detailsHref: "/kshm-auric-region", price: "85.500 CZK" },
+    { bookSlug: "starseed-healing", detailsHref: "/starseed-healing", price: "4.900 CZK" },
+    { bookSlug: "unified-chakra-healing", detailsHref: "/unified-chakra-healing", price: "4.900 CZK" },
+    { bookSlug: "kshm-auric-region", detailsHref: "/kshm-auric-region", price: "85.500 CZK" },
   ]
   const kshmSessions: Healing[] = kshmCards.map((card, i) => ({
     name: t(`kshmSessions.${i}.name`),
@@ -53,17 +53,17 @@ export default async function SpecialtyHealings({
 
   // Space Realignment (8) has no page: its card books the Cal.com event directly (1 hour, at the client's address).
   const specialtyCards: { price: string; detailsHref?: string; bookSlug?: string }[] = [
-    { detailsHref: "/advanced-ensofic-ray-healing", price: "11.900 CZK" },
-    { detailsHref: "/fire-soul-infusion", price: "6.150 CZK" },
-    { detailsHref: "/core-will-infusion", price: "6.150 CZK" },
-    { detailsHref: "/archangel-michael-tube-of-light", price: "6.150 CZK" },
-    { detailsHref: "/hermetic-rebalancing", price: "8.600 CZK" },
-    { detailsHref: "/etheric-reconstruction", price: "7.777 CZK" },
-    { detailsHref: "/celestial-code-etheric-reconstruction", price: "9.888 CZK" },
-    { detailsHref: "/compassion-summoning", price: "2.444 CZK" },
+    { bookSlug: "advanced-ensofic-ray-healing", detailsHref: "/advanced-ensofic-ray-healing", price: "11.900 CZK" },
+    { bookSlug: "fire-soul-infusion", detailsHref: "/fire-soul-infusion", price: "6.150 CZK" },
+    { bookSlug: "core-will-infusion", detailsHref: "/core-will-infusion", price: "6.150 CZK" },
+    { bookSlug: "archangel-michael-tube-of-light", detailsHref: "/archangel-michael-tube-of-light", price: "6.150 CZK" },
+    { bookSlug: "hermetic-rebalancing", detailsHref: "/hermetic-rebalancing", price: "8.600 CZK" },
+    { bookSlug: "etheric-reconstruction", detailsHref: "/etheric-reconstruction", price: "7.777 CZK" },
+    { bookSlug: "celestial-code-etheric-reconstruction", detailsHref: "/celestial-code-etheric-reconstruction", price: "9.888 CZK" },
+    { bookSlug: "compassion-summoning", detailsHref: "/compassion-summoning", price: "2.444 CZK" },
     { bookSlug: "space-realignment", price: "4.900 CZK" },
-    { detailsHref: "/baby-blessing", price: "53.888 CZK" },
-    { detailsHref: "/chronos-reading", price: "6.150 CZK" },
+    { bookSlug: "baby-blessing-consultation", detailsHref: "/baby-blessing", price: "53.888 CZK" },
+    { bookSlug: "chronos-reading", detailsHref: "/chronos-reading", price: "6.150 CZK" },
   ]
 
   const specialtySessions: Healing[] = Array.from({ length: 11 }, (_, i) => ({

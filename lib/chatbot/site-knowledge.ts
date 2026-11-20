@@ -3314,7 +3314,7 @@ Community
 
 ## PAGE: (component) healing-grid.tsx
 : healing.externalHref ?
-: healing.bookSlug ?
+: bookings.length ?
 For prices and sign-up, please see the Modern Mystery School UK website.
 Prices & Sign-Up on MMS UK
 Inquire
@@ -3324,6 +3324,16 @@ In person · Prague
 In person or remote
 Distance healing
 In person or online
+Email
+Free 30-min call
+Price
+Duration
+Book In Person
+Book Remote
+Do you have any questions?
+Choose a time and pay securely online — your appointment is confirmed immediately by email.
+Healing Session
+Reading Session
 
 ## PAGE: (component) healing-session-page.tsx
 opt.calEmbed ?
@@ -3550,24 +3560,43 @@ full-spirit-activation
 aura-healing
 /aura-healing
 3.669 CZK
+negative-energy-removal
 /negative-energy-removal
+emotional-cord-cutting
 /emotional-cord-cutting
+shamanic-aura-clearing
 /shamanic-aura-clearing
 4.900 CZK
+ensofic-reiki-in-person
+ensofic-reiki-remote
 /ensofic-reiki
+treating-negative-habits-in-person
+treating-negative-habits-remote
 /treating-negative-habits
+crystal-healing
 /crystal-healing
+sacred-rites-healing
 /sacred-rites-healing
 6.150 CZK
+soul-retrieval
 /soul-retrieval
+spark-of-life
 /spark-of-life
+isis-healing
 /isis-healing
+life-purpose-reading
 /life-purpose-reading
+intuitive-crystal-reading
 /intuitive-crystal-reading
+chronos-reading
 /chronos-reading
+laser-light-healing
 /laser-light-healing
 1.850 CZK
+meridian-line-balancing
 /meridian-line-balancing
+tree-of-life-awakening
 /tree-of-life-awakening
 1.333 CZK
+chakra-awakening
 /chakra-awakening`;
